@@ -1,4 +1,4 @@
--- Esquema base de "El Rival Más Débil"
+-- Esquema base de "El rival menos peor"
 -- Fase 2: tablas, índices, helpers y triggers de sincronización.
 
 create extension if not exists pgcrypto;

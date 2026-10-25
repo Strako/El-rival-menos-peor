@@ -1,4 +1,4 @@
-// Edge Function única de "El Rival Más Débil".
+// Edge Function única de "El rival menos peor".
 // Autenticación propia por token de jugador; verify_jwt debe estar desactivado.
 
 import { createClient } from 'npm:@supabase/supabase-js@2';

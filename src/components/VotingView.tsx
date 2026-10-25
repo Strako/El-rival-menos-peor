@@ -39,7 +39,7 @@ export function VotingView({
           <Badge tone="red">Resultado de la votación</Badge>
           <div className="animate-stamp mx-auto mt-5 w-fit rounded-2xl border-2 border-red-400/60 bg-red-500/10 px-8 py-4">
             <p className="text-[10px] font-bold uppercase tracking-[0.28em] text-red-200/70">
-              El rival más débil
+              El rival menos peor
             </p>
             <p className="mt-1 font-display text-5xl tracking-wide text-red-200 sm:text-6xl">
               {eliminated?.nickname ?? 'Sin eliminado'}
@@ -134,7 +134,7 @@ export function VotingView({
           <div>
             <Badge tone="red">Votación secreta</Badge>
             <h1 className="mt-3 font-display text-4xl tracking-wide text-white sm:text-5xl">
-              ¿Quién es el rival más débil?
+              ¿Quién es El rival menos peor?
             </h1>
             <p className="mt-2 max-w-xl text-sm leading-relaxed text-white/45">
               Elige a un jugador activo. El más votado queda eliminado al cerrar la ronda.

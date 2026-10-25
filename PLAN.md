@@ -1,4 +1,4 @@
-# Plan de trabajo — "El Rival Más Débil" (trivia multiplayer)
+# Plan de trabajo — "El rival menos peor" (trivia multiplayer)
 
 > **Estado:** implementación completada en Supabase y frontend; pendiente el despliegue en Netlify.
 > **Este archivo es la fuente de verdad.** Si se reinicia la sesión de OpenCode, continuar desde la sección “Estado de implementación”.

@@ -1,6 +1,6 @@
-# El Rival Más Débil
+# El rival menos peor
 
-Trivia multijugador por salas, inspirada en el formato de “el rival más débil”. Cada jugador entra desde su propio navegador, responde por turnos y compite en una tabla de posiciones **solo de su sala**.
+Trivia multijugador por salas, inspirada en el formato de “El rival menos peor”. Cada jugador entra desde su propio navegador, responde por turnos y compite en una tabla de posiciones **solo de su sala**.
 
 - **Frontend:** React 19 + Vite + TypeScript + Tailwind CSS v4.
 - **Backend:** Supabase (Postgres, Edge Functions y Realtime).

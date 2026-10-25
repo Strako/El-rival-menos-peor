@@ -262,7 +262,7 @@ export function LandingPage() {
       </main>
 
       <footer className="relative z-10 mx-auto flex w-full max-w-6xl flex-wrap items-center justify-between gap-3 border-t border-white/5 px-5 py-5 text-[10px] text-white/20 sm:px-8">
-        <span>El Rival Más Débil · Trivia multijugador</span>
+        <span>El rival menos peor · Trivia multijugador</span>
         <span>React + Vite + Supabase</span>
       </footer>
     </div>
