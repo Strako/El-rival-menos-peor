@@ -134,7 +134,7 @@ export function LandingPage() {
 
           <div className="mt-9 grid max-w-lg grid-cols-3 gap-3">
             {[
-              { value: '2', label: 'modos de juego' },
+              { value: '3', label: 'modos de juego' },
               { value: '∞', label: 'jugadores por sala' },
               { value: '100%', label: 'en tiempo real' },
             ].map((item) => (
