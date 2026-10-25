@@ -1,0 +1,2452 @@
+[
+  {
+    "id": "cg-0001",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Australia?",
+    "options": [
+      "Sídney",
+      "Canberra",
+      "Melbourne",
+      "Perth"
+    ],
+    "correctIndex": 1,
+    "explanation": "Canberra es la capital de Australia desde 1913."
+  },
+  {
+    "id": "cg-0002",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Francia?",
+    "options": [
+      "París",
+      "Lyon",
+      "Marsella",
+      "Niza"
+    ],
+    "correctIndex": 0,
+    "explanation": "París es la capital y la ciudad más poblada de Francia."
+  },
+  {
+    "id": "cg-0003",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Japón?",
+    "options": [
+      "Kioto",
+      "Osaka",
+      "Tokio",
+      "Nagoya"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tokio es la capital de Japón desde 1868."
+  },
+  {
+    "id": "cg-0004",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Canadá?",
+    "options": [
+      "Toronto",
+      "Montreal",
+      "Vancouver",
+      "Ottawa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ottawa es la capital federal de Canadá."
+  },
+  {
+    "id": "cg-0005",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Brasil?",
+    "options": [
+      "Brasilia",
+      "Río de Janeiro",
+      "São Paulo",
+      "Salvador"
+    ],
+    "correctIndex": 0,
+    "explanation": "Brasilia es la capital de Brasil desde 1960."
+  },
+  {
+    "id": "cg-0006",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Egipto?",
+    "options": [
+      "Alejandría",
+      "Luxor",
+      "El Cairo",
+      "Asuán"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Cairo es la capital de Egipto y su mayor ciudad."
+  },
+  {
+    "id": "cg-0007",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene una forma característica de bota?",
+    "options": [
+      "Grecia",
+      "Portugal",
+      "Italia",
+      "Chile"
+    ],
+    "correctIndex": 2,
+    "explanation": "La península itálica tiene una forma que recuerda a una bota."
+  },
+  {
+    "id": "cg-0008",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿En qué continente se encuentra el desierto del Sahara?",
+    "options": [
+      "Asia",
+      "Oceanía",
+      "Europa",
+      "África"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Sahara se extiende por el norte de África."
+  },
+  {
+    "id": "cg-0009",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el océano más extenso del mundo?",
+    "options": [
+      "Atlántico",
+      "Índico",
+      "Ártico",
+      "Pacífico"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Pacífico es el océano de mayor superficie y profundidad."
+  },
+  {
+    "id": "cg-0010",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el río más caudaloso del mundo?",
+    "options": [
+      "Nilo",
+      "Amazonas",
+      "Misisipi",
+      "Yangtsé"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Amazonas es el río con mayor caudal del mundo."
+  },
+  {
+    "id": "cg-0011",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la montaña más alta del mundo?",
+    "options": [
+      "K2",
+      "Kilimanjaro",
+      "Everest",
+      "Aconcagua"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Everest, en el Himalaya, es el pico más alto del mundo."
+  },
+  {
+    "id": "cg-0012",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la moneda oficial de Japón?",
+    "options": [
+      "Yen",
+      "Yuan",
+      "Won",
+      "Rupia"
+    ],
+    "correctIndex": 0,
+    "explanation": "El yen es la moneda oficial de Japón."
+  },
+  {
+    "id": "cg-0013",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la moneda oficial del Reino Unido?",
+    "options": [
+      "Euro",
+      "Libra esterlina",
+      "Dólar",
+      "Franco suizo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La libra esterlina es la moneda del Reino Unido."
+  },
+  {
+    "id": "cg-0014",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la moneda oficial de Estados Unidos?",
+    "options": [
+      "Peso",
+      "Libra",
+      "Corona",
+      "Dólar"
+    ],
+    "correctIndex": 3,
+    "explanation": "El dólar estadounidense es la moneda oficial de Estados Unidos."
+  },
+  {
+    "id": "cg-0015",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el país más poblado de África?",
+    "options": [
+      "Nigeria",
+      "Egipto",
+      "Sudáfrica",
+      "Kenia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nigeria es el país más poblado de África."
+  },
+  {
+    "id": "cg-0016",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el planeta más cercano al Sol?",
+    "options": [
+      "Venus",
+      "Tierra",
+      "Mercurio",
+      "Marte"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mercurio orbita más cerca del Sol que cualquier otro planeta."
+  },
+  {
+    "id": "cg-0017",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué planeta es conocido como el planeta rojo?",
+    "options": [
+      "Júpiter",
+      "Marte",
+      "Venus",
+      "Saturno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marte se ve rojizo por el óxido de hierro de su superficie."
+  },
+  {
+    "id": "cg-0018",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué gas necesitan los seres humanos para respirar?",
+    "options": [
+      "Nitrógeno",
+      "Dióxido de carbono",
+      "Oxígeno",
+      "Helio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las células humanas obtienen energía usando oxígeno."
+  },
+  {
+    "id": "cg-0019",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué órgano bombea la sangre por el cuerpo?",
+    "options": [
+      "Corazón",
+      "Hígado",
+      "Pulmón",
+      "Riñón"
+    ],
+    "correctIndex": 0,
+    "explanation": "El corazón impulsa la sangre a través del sistema circulatorio."
+  },
+  {
+    "id": "cg-0020",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+    "options": [
+      "Tibia",
+      "Fémur",
+      "Húmero",
+      "Radio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El fémur es el hueso más largo y resistente del cuerpo humano."
+  },
+  {
+    "id": "cg-0021",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el animal terrestre más grande?",
+    "options": [
+      "Jirafa",
+      "Rinoceronte",
+      "Hipopótamo",
+      "Elefante africano"
+    ],
+    "correctIndex": 3,
+    "explanation": "El elefante africano es el animal terrestre de mayor tamaño."
+  },
+  {
+    "id": "cg-0022",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el animal más rápido en tierra?",
+    "options": [
+      "Guepardo",
+      "León",
+      "Caballo",
+      "Avestruz"
+    ],
+    "correctIndex": 0,
+    "explanation": "El guepardo puede superar los 100 km/h en distancias cortas."
+  },
+  {
+    "id": "cg-0023",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero pone huevos?",
+    "options": [
+      "Canguro",
+      "Koala",
+      "Murciélago",
+      "Ornitorrinco"
+    ],
+    "correctIndex": 3,
+    "explanation": "El ornitorrinco es un mamífero monotrema que pone huevos."
+  },
+  {
+    "id": "cg-0024",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el animal más grande del planeta?",
+    "options": [
+      "Ballena azul",
+      "Tiburón blanco",
+      "Orca",
+      "Cachalote"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ballena azul es el animal más grande conocido."
+  },
+  {
+    "id": "cg-0025",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la fórmula química del agua?",
+    "options": [
+      "CO2",
+      "H2O",
+      "O2",
+      "NaCl"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cada molécula de agua tiene dos átomos de hidrógeno y uno de oxígeno."
+  },
+  {
+    "id": "cg-0026",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del oro?",
+    "options": [
+      "Ag",
+      "Au",
+      "Fe",
+      "Cu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Au proviene del latín aurum, nombre del oro."
+  },
+  {
+    "id": "cg-0027",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la estación más cálida en el hemisferio norte?",
+    "options": [
+      "Invierno",
+      "Primavera",
+      "Otoño",
+      "Verano"
+    ],
+    "correctIndex": 3,
+    "explanation": "En el hemisferio norte el verano abarca aproximadamente de junio a septiembre."
+  },
+  {
+    "id": "cg-0028",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento se usa para medir la temperatura?",
+    "options": [
+      "Barómetro",
+      "Brújula",
+      "Cronómetro",
+      "Termómetro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El termómetro mide la temperatura mediante una escala graduada."
+  },
+  {
+    "id": "cg-0029",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento señala el norte?",
+    "options": [
+      "Termómetro",
+      "Telescopio",
+      "Microscopio",
+      "Brújula"
+    ],
+    "correctIndex": 3,
+    "explanation": "La brújula se orienta con el campo magnético terrestre."
+  },
+  {
+    "id": "cg-0030",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad de fuerza del Sistema Internacional?",
+    "options": [
+      "Julio",
+      "Vatio",
+      "Newton",
+      "Pascal"
+    ],
+    "correctIndex": 2,
+    "explanation": "El newton mide fuerza en el Sistema Internacional."
+  },
+  {
+    "id": "cg-0031",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad de potencia del Sistema Internacional?",
+    "options": [
+      "Vatio",
+      "Newton",
+      "Julio",
+      "Amperio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El vatio equivale a un julio por segundo."
+  },
+  {
+    "id": "cg-0032",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el único satélite natural de la Tierra?",
+    "options": [
+      "Fobos",
+      "Ío",
+      "Titán",
+      "Luna"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Luna es el único satélite natural de la Tierra."
+  },
+  {
+    "id": "cg-0033",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la estrella más cercana a la Tierra?",
+    "options": [
+      "Sirio",
+      "Alfa Centauri",
+      "Sol",
+      "Polaris"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Sol es la estrella más próxima a nuestro planeta."
+  },
+  {
+    "id": "cg-0034",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿En qué país comenzó la Revolución Industrial?",
+    "options": [
+      "Francia",
+      "Reino Unido",
+      "Alemania",
+      "Estados Unidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Revolución Industrial comenzó en Gran Bretaña en el siglo XVIII."
+  },
+  {
+    "id": "cg-0035",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿En qué año comenzó la Primera Guerra Mundial?",
+    "options": [
+      "1918",
+      "1939",
+      "1905",
+      "1914"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Primera Guerra Mundial comenzó en 1914."
+  },
+  {
+    "id": "cg-0036",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿En qué año terminó la Segunda Guerra Mundial?",
+    "options": [
+      "1918",
+      "1939",
+      "1950",
+      "1945"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Segunda Guerra Mundial terminó en 1945."
+  },
+  {
+    "id": "cg-0037",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué muro cayó en 1989?",
+    "options": [
+      "Muro de Adriano",
+      "Muro de Berlín",
+      "Gran Muralla",
+      "Muro de los Lamentos"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Muro de Berlín cayó en noviembre de 1989."
+  },
+  {
+    "id": "cg-0038",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué civilización construyó las pirámides de Giza?",
+    "options": [
+      "Romana",
+      "Griega",
+      "Maya",
+      "Egipcia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las pirámides de Giza fueron construidas por el antiguo Egipto."
+  },
+  {
+    "id": "cg-0039",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿En qué civilización vivió Julio César?",
+    "options": [
+      "Antigua Roma",
+      "Antigua Grecia",
+      "Mesopotamia",
+      "Antiguo Egipto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Julio César fue un líder político y militar de la Antigua Roma."
+  },
+  {
+    "id": "cg-0040",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el país con mayor superficie del mundo?",
+    "options": [
+      "Canadá",
+      "China",
+      "Rusia",
+      "Estados Unidos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rusia es el país más extenso del mundo."
+  },
+  {
+    "id": "cg-0041",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el país más pequeño del mundo?",
+    "options": [
+      "Mónaco",
+      "Ciudad del Vaticano",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Vaticano es el Estado soberano más pequeño del mundo."
+  },
+  {
+    "id": "cg-0042",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué océano separa América de Europa?",
+    "options": [
+      "Pacífico",
+      "Índico",
+      "Atlántico",
+      "Ártico"
+    ],
+    "correctIndex": 2,
+    "explanation": "El océano Atlántico separa América de Europa y África."
+  },
+  {
+    "id": "cg-0043",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué mar baña las costas de Europa y África?",
+    "options": [
+      "Rojo",
+      "Mediterráneo",
+      "Negro",
+      "Caspio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Mediterráneo baña las costas de Europa, Asia y África."
+  },
+  {
+    "id": "cg-0044",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la cordillera más larga de América del Sur?",
+    "options": [
+      "Andes",
+      "Himalaya",
+      "Rocosas",
+      "Alpes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los Andes recorren el oeste de América del Sur."
+  },
+  {
+    "id": "cg-0045",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el desierto cálido más grande del mundo?",
+    "options": [
+      "Sahara",
+      "Gobi",
+      "Kalahari",
+      "Atacama"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Sahara es el mayor desierto cálido del mundo."
+  },
+  {
+    "id": "cg-0046",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la isla más grande del mundo?",
+    "options": [
+      "Nueva Guinea",
+      "Groenlandia",
+      "Borneo",
+      "Madagascar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Groenlandia es la isla más grande, aunque no es un continente."
+  },
+  {
+    "id": "cg-0047",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué dos países ocupan la mayor parte de la península ibérica?",
+    "options": [
+      "España y Portugal",
+      "España y Francia",
+      "Portugal y Marruecos",
+      "España e Italia"
+    ],
+    "correctIndex": 0,
+    "explanation": "España y Portugal ocupan la mayor parte de la península ibérica."
+  },
+  {
+    "id": "cg-0048",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el idioma oficial de Brasil?",
+    "options": [
+      "Portugués",
+      "Español",
+      "Inglés",
+      "Francés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Brasil fue colonia portuguesa y mantiene el portugués como idioma oficial."
+  },
+  {
+    "id": "cg-0049",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Italia?",
+    "options": [
+      "Milán",
+      "Venecia",
+      "Roma",
+      "Florencia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Roma es la capital de Italia."
+  },
+  {
+    "id": "cg-0050",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Alemania?",
+    "options": [
+      "Múnich",
+      "Hamburgo",
+      "Berlín",
+      "Fráncfort"
+    ],
+    "correctIndex": 2,
+    "explanation": "Berlín es la capital de Alemania desde la reunificación."
+  },
+  {
+    "id": "cg-0051",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de España?",
+    "options": [
+      "Barcelona",
+      "Sevilla",
+      "Madrid",
+      "Valencia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Madrid es la capital de España."
+  },
+  {
+    "id": "cg-0052",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de México?",
+    "options": [
+      "Guadalajara",
+      "Monterrey",
+      "Ciudad de México",
+      "Puebla"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Ciudad de México es la capital del país."
+  },
+  {
+    "id": "cg-0053",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Argentina?",
+    "options": [
+      "Córdoba",
+      "Buenos Aires",
+      "Rosario",
+      "Mendoza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Buenos Aires es la capital de Argentina."
+  },
+  {
+    "id": "cg-0054",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Perú?",
+    "options": [
+      "Cusco",
+      "Arequipa",
+      "Trujillo",
+      "Lima"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lima es la capital de Perú."
+  },
+  {
+    "id": "cg-0055",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Chile?",
+    "options": [
+      "Valparaíso",
+      "Concepción",
+      "Antofagasta",
+      "Santiago"
+    ],
+    "correctIndex": 3,
+    "explanation": "Santiago es la capital de Chile."
+  },
+  {
+    "id": "cg-0056",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Colombia?",
+    "options": [
+      "Medellín",
+      "Bogotá",
+      "Cali",
+      "Cartagena"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bogotá es la capital de Colombia."
+  },
+  {
+    "id": "cg-0057",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué río atraviesa Egipto de sur a norte?",
+    "options": [
+      "Nilo",
+      "Éufrates",
+      "Tigris",
+      "Congo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Nilo cruza Egipto hasta desembocar en el Mediterráneo."
+  },
+  {
+    "id": "cg-0058",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué río atraviesa París?",
+    "options": [
+      "Támesis",
+      "Sena",
+      "Danubio",
+      "Rin"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Sena atraviesa París antes de desembocar en el canal de la Mancha."
+  },
+  {
+    "id": "cg-0059",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué río atraviesa Londres?",
+    "options": [
+      "Sena",
+      "Tíber",
+      "Elba",
+      "Támesis"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Támesis atraviesa Londres."
+  },
+  {
+    "id": "cg-0060",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra el fiordo de Geiranger?",
+    "options": [
+      "Dinamarca",
+      "Finlandia",
+      "Islandia",
+      "Noruega"
+    ],
+    "correctIndex": 3,
+    "explanation": "El fiordo de Geiranger está en la costa atlántica de Noruega."
+  },
+  {
+    "id": "cg-0061",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene una hoja de arce en su bandera?",
+    "options": [
+      "Australia",
+      "Nueva Zelanda",
+      "Irlanda",
+      "Canadá"
+    ],
+    "correctIndex": 3,
+    "explanation": "La hoja de arce roja aparece en la bandera de Canadá."
+  },
+  {
+    "id": "cg-0062",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene una bandera verde, blanca y roja con un águila devorando una serpiente?",
+    "options": [
+      "Italia",
+      "Hungría",
+      "Irán",
+      "México"
+    ],
+    "correctIndex": 3,
+    "explanation": "La bandera mexicana lleva el escudo nacional con esa imagen en el centro."
+  },
+  {
+    "id": "cg-0063",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene la flor de cerezo como símbolo tradicional?",
+    "options": [
+      "China",
+      "Corea del Sur",
+      "Japón",
+      "Tailandia"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sakura, flor de cerezo, es un símbolo tradicional de Japón."
+  },
+  {
+    "id": "cg-0064",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué organización mundial se fundó en 1945 para mantener la paz?",
+    "options": [
+      "OTAN",
+      "ONU",
+      "Unión Europea",
+      "Liga Árabe"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ONU se fundó en 1945 para mantener la paz y la seguridad internacionales."
+  },
+  {
+    "id": "cg-0065",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Dónde está la sede principal de la ONU?",
+    "options": [
+      "Ginebra",
+      "París",
+      "Nueva York",
+      "Bruselas"
+    ],
+    "correctIndex": 2,
+    "explanation": "La sede de la ONU está en Nueva York."
+  },
+  {
+    "id": "cg-0066",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Dónde está la sede de la Comisión Europea?",
+    "options": [
+      "Estrasburgo",
+      "Bruselas",
+      "Luxemburgo",
+      "Ámsterdam"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Comisión Europea tiene su sede en Bruselas."
+  },
+  {
+    "id": "cg-0067",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la moneda compartida por los países de la eurozona?",
+    "options": [
+      "Libra",
+      "Franco",
+      "Corona",
+      "Euro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El euro es la moneda compartida por los países de la eurozona."
+  },
+  {
+    "id": "cg-0068",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la moneda oficial de India?",
+    "options": [
+      "Yuan",
+      "Baht",
+      "Rupia",
+      "Ringgit"
+    ],
+    "correctIndex": 2,
+    "explanation": "La rupia india es la moneda oficial de India."
+  },
+  {
+    "id": "cg-0069",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la moneda oficial de Rusia?",
+    "options": [
+      "Rublo",
+      "Grivna",
+      "Lira",
+      "Zloty"
+    ],
+    "correctIndex": 0,
+    "explanation": "El rublo es la moneda oficial de Rusia."
+  },
+  {
+    "id": "cg-0070",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién era el dios griego del mar?",
+    "options": [
+      "Zeus",
+      "Apolo",
+      "Poseidón",
+      "Ares"
+    ],
+    "correctIndex": 2,
+    "explanation": "Poseidón era el dios griego del mar y de los terremotos."
+  },
+  {
+    "id": "cg-0071",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Turquía?",
+    "options": [
+      "Estambul",
+      "Ankara",
+      "Esmirna",
+      "Bursa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ankara es la capital de Turquía desde 1923."
+  },
+  {
+    "id": "cg-0072",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Marruecos?",
+    "options": [
+      "Casablanca",
+      "Rabat",
+      "Marrakech",
+      "Fez"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rabat es la capital de Marruecos."
+  },
+  {
+    "id": "cg-0073",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Nueva Zelanda?",
+    "options": [
+      "Auckland",
+      "Wellington",
+      "Christchurch",
+      "Dunedin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wellington es la capital de Nueva Zelanda."
+  },
+  {
+    "id": "cg-0074",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Vietnam?",
+    "options": [
+      "Ciudad Ho Chi Minh",
+      "Da Nang",
+      "Hanói",
+      "Hué"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hanói es la capital de Vietnam."
+  },
+  {
+    "id": "cg-0075",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Tailandia?",
+    "options": [
+      "Chiang Mai",
+      "Phuket",
+      "Bangkok",
+      "Pattaya"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bangkok es la capital de Tailandia."
+  },
+  {
+    "id": "cg-0076",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Pakistán?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Rawalpindi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Islamabad es la capital de Pakistán."
+  },
+  {
+    "id": "cg-0077",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Nigeria?",
+    "options": [
+      "Abuya",
+      "Lagos",
+      "Kano",
+      "Ibadán"
+    ],
+    "correctIndex": 0,
+    "explanation": "Abuya es la capital de Nigeria desde 1991."
+  },
+  {
+    "id": "cg-0078",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Kazajistán?",
+    "options": [
+      "Astaná",
+      "Almaty",
+      "Karaganda",
+      "Taskent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Astaná es la capital de Kazajistán."
+  },
+  {
+    "id": "cg-0079",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el país más grande de América del Sur?",
+    "options": [
+      "Brasil",
+      "Argentina",
+      "Perú",
+      "Colombia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Brasil ocupa cerca de la mitad de la superficie de América del Sur."
+  },
+  {
+    "id": "cg-0080",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué país tiene la costa más larga del mundo?",
+    "options": [
+      "Rusia",
+      "Indonesia",
+      "Canadá",
+      "Australia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Canadá tiene la costa más extensa del mundo."
+  },
+  {
+    "id": "cg-0081",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué río atraviesa Bagdad?",
+    "options": [
+      "Éufrates",
+      "Tigris",
+      "Nilo",
+      "Jordán"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bagdad se encuentra a orillas del río Tigris."
+  },
+  {
+    "id": "cg-0082",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el río más largo de Europa?",
+    "options": [
+      "Danubio",
+      "Rin",
+      "Volga",
+      "Dniéper"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Volga es el río más largo de Europa."
+  },
+  {
+    "id": "cg-0083",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el lago más profundo del mundo?",
+    "options": [
+      "Baikal",
+      "Victoria",
+      "Superior",
+      "Tanganica"
+    ],
+    "correctIndex": 0,
+    "explanation": "El lago Baikal, en Siberia, es el más profundo del mundo."
+  },
+  {
+    "id": "cg-0084",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el lago de agua dulce más extenso del mundo?",
+    "options": [
+      "Superior",
+      "Victoria",
+      "Baikal",
+      "Titicaca"
+    ],
+    "correctIndex": 0,
+    "explanation": "El lago Superior es el mayor lago de agua dulce por superficie."
+  },
+  {
+    "id": "cg-0085",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué mar no tiene costas continentales que lo delimiten?",
+    "options": [
+      "Mar Rojo",
+      "Mar Negro",
+      "Mar de los Sargazos",
+      "Mar Muerto"
+    ],
+    "correctIndex": 2,
+    "explanation": "El mar de los Sargazos está delimitado por corrientes, no por costas."
+  },
+  {
+    "id": "cg-0086",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el punto más bajo de la tierra firme?",
+    "options": [
+      "El valle de la Muerte",
+      "La ribera del mar Muerto",
+      "La ribera del lago Baikal",
+      "El delta del Nilo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ribera del mar Muerto está a unos 430 metros bajo el nivel del mar."
+  },
+  {
+    "id": "cg-0087",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la cascada más alta del mundo?",
+    "options": [
+      "Cataratas del Niágara",
+      "Salto del Tequendama",
+      "Salto del Ángel",
+      "Cataratas Khone"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Salto del Ángel, en Venezuela, es la cascada más alta."
+  },
+  {
+    "id": "cg-0088",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué cordillera se considera la frontera natural entre Europa y Asia?",
+    "options": [
+      "Cáucaso",
+      "Alpes",
+      "Urales",
+      "Cárpatos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los montes Urales separan Europa de Asia."
+  },
+  {
+    "id": "cg-0089",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la montaña más alta de África?",
+    "options": [
+      "Monte Kenia",
+      "Elbrús",
+      "Kilimanjaro",
+      "Atlas"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Kilimanjaro, en Tanzania, es el pico más alto de África."
+  },
+  {
+    "id": "cg-0090",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la montaña más alta de América?",
+    "options": [
+      "Denali",
+      "Ojos del Salado",
+      "Aconcagua",
+      "Chimborazo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Aconcagua, en Argentina, es el pico más alto de América."
+  },
+  {
+    "id": "cg-0091",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué volcán sepultó la ciudad de Pompeya?",
+    "options": [
+      "Etna",
+      "Estrómboli",
+      "Vesubio",
+      "Teide"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Vesubio erupcionó en el año 79 y sepultó Pompeya."
+  },
+  {
+    "id": "cg-0092",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el volcán más activo de Europa?",
+    "options": [
+      "Vesubio",
+      "Etna",
+      "Teide",
+      "Estrómboli"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Etna, en Sicilia, es el volcán más activo de Europa."
+  },
+  {
+    "id": "cg-0093",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué desierto se extiende por Mongolia y el norte de China?",
+    "options": [
+      "Kalahari",
+      "Atacama",
+      "Sahara",
+      "Gobi"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Gobi se extiende por Mongolia y el norte de China."
+  },
+  {
+    "id": "cg-0094",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el mayor desierto polar del mundo?",
+    "options": [
+      "Sahara",
+      "Antártico",
+      "Gobi",
+      "Kalahari"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Antártida es el mayor desierto del mundo y es de tipo polar."
+  },
+  {
+    "id": "cg-0095",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué gran isla se encuentra en el océano Índico frente a África?",
+    "options": [
+      "Madagascar",
+      "Sri Lanka",
+      "Sumatra",
+      "Zanzíbar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Madagascar es una gran isla frente a la costa de África oriental."
+  },
+  {
+    "id": "cg-0096",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué isla comparten Haití y la República Dominicana?",
+    "options": [
+      "Cuba",
+      "Jamaica",
+      "La Española",
+      "Puerto Rico"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Española es la isla que comparten Haití y República Dominicana."
+  },
+  {
+    "id": "cg-0097",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿A qué país pertenecen las islas Galápagos?",
+    "options": [
+      "Ecuador",
+      "Perú",
+      "Colombia",
+      "Chile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las islas Galápagos pertenecen a Ecuador."
+  },
+  {
+    "id": "cg-0098",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué clima predomina en la zona ecuatorial?",
+    "options": [
+      "Polar",
+      "Tropical lluvioso",
+      "Desértico",
+      "Mediterráneo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La zona ecuatorial se caracteriza por temperaturas altas y lluvias abundantes."
+  },
+  {
+    "id": "cg-0099",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué instrumento mide la presión atmosférica?",
+    "options": [
+      "Barómetro",
+      "Termómetro",
+      "Anemómetro",
+      "Higrómetro"
+    ],
+    "correctIndex": 0,
+    "explanation": "El barómetro mide la presión del aire."
+  },
+  {
+    "id": "cg-0100",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué capa de la atmósfera ocurre el clima?",
+    "options": [
+      "Troposfera",
+      "Estratosfera",
+      "Mesosfera",
+      "Termosfera"
+    ],
+    "correctIndex": 0,
+    "explanation": "La troposfera es la capa más baja y concentra los fenómenos climáticos."
+  },
+  {
+    "id": "cg-0101",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué capa se encuentra la mayor parte del ozono?",
+    "options": [
+      "Troposfera",
+      "Estratosfera",
+      "Mesosfera",
+      "Ionosfera"
+    ],
+    "correctIndex": 1,
+    "explanation": "La capa de ozono se sitúa principalmente en la estratosfera."
+  },
+  {
+    "id": "cg-0102",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el proceso con que las plantas producen alimento?",
+    "options": [
+      "Respiración",
+      "Fotosíntesis",
+      "Transpiración",
+      "Fermentación"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fotosíntesis convierte luz, agua y CO2 en glucosa y oxígeno."
+  },
+  {
+    "id": "cg-0103",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué gas absorben las plantas durante la fotosíntesis?",
+    "options": [
+      "Dióxido de carbono",
+      "Oxígeno",
+      "Nitrógeno",
+      "Metano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las plantas usan dióxido de carbono como fuente de carbono."
+  },
+  {
+    "id": "cg-0104",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué células transportan el oxígeno en la sangre?",
+    "options": [
+      "Glóbulos rojos",
+      "Glóbulos blancos",
+      "Plaquetas",
+      "Neuronas"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hemoglobina de los glóbulos rojos transporta oxígeno."
+  },
+  {
+    "id": "cg-0105",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el órgano más extenso del cuerpo humano?",
+    "options": [
+      "La piel",
+      "El hígado",
+      "El pulmón",
+      "El intestino"
+    ],
+    "correctIndex": 0,
+    "explanation": "La piel es el órgano más extenso del cuerpo humano."
+  },
+  {
+    "id": "cg-0106",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué órgano produce la insulina?",
+    "options": [
+      "Hígado",
+      "Riñón",
+      "Tiroides",
+      "Páncreas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las células beta del páncreas producen insulina."
+  },
+  {
+    "id": "cg-0107",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué hueso protege el cerebro?",
+    "options": [
+      "Fémur",
+      "Esternón",
+      "Pelvis",
+      "Cráneo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cráneo forma una caja ósea que protege el cerebro."
+  },
+  {
+    "id": "cg-0108",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuántas cámaras tiene el corazón humano?",
+    "options": [
+      "Dos",
+      "Cuatro",
+      "Tres",
+      "Cinco"
+    ],
+    "correctIndex": 1,
+    "explanation": "El corazón humano tiene dos aurículas y dos ventrículos."
+  },
+  {
+    "id": "cg-0109",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la unidad de corriente eléctrica?",
+    "options": [
+      "Amperio",
+      "Voltio",
+      "Ohmio",
+      "Culombio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El amperio mide la intensidad de la corriente eléctrica."
+  },
+  {
+    "id": "cg-0110",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la unidad de presión del Sistema Internacional?",
+    "options": [
+      "Pascal",
+      "Newton",
+      "Julio",
+      "Vatio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pascal equivale a un newton por metro cuadrado."
+  },
+  {
+    "id": "cg-0111",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿A qué velocidad aproximada viaja la luz en el vacío?",
+    "options": [
+      "3.000 km/s",
+      "30.000 km/s",
+      "3.000.000 km/s",
+      "300.000 km/s"
+    ],
+    "correctIndex": 3,
+    "explanation": "La luz viaja a unos 299.792 kilómetros por segundo en el vacío."
+  },
+  {
+    "id": "cg-0112",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué fuerza atrae los cuerpos hacia la Tierra?",
+    "options": [
+      "Magnetismo",
+      "Gravedad",
+      "Fricción",
+      "Inercia"
+    ],
+    "correctIndex": 1,
+    "explanation": "La gravedad terrestre atrae los cuerpos hacia el centro del planeta."
+  },
+  {
+    "id": "cg-0113",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el símbolo químico del sodio?",
+    "options": [
+      "So",
+      "Na",
+      "Sd",
+      "N"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na proviene del latín natrium, nombre del sodio."
+  },
+  {
+    "id": "cg-0114",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué elemento tiene el número atómico 1?",
+    "options": [
+      "Hidrógeno",
+      "Helio",
+      "Oxígeno",
+      "Carbono"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hidrógeno tiene un solo protón en su núcleo."
+  },
+  {
+    "id": "cg-0115",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+    "options": [
+      "Oxígeno",
+      "Argón",
+      "Dióxido de carbono",
+      "Nitrógeno"
+    ],
+    "correctIndex": 3,
+    "explanation": "El nitrógeno constituye cerca del 78 por ciento del aire."
+  },
+  {
+    "id": "cg-0116",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué planeta tiene los anillos más visibles?",
+    "options": [
+      "Saturno",
+      "Júpiter",
+      "Urano",
+      "Neptuno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Saturno es conocido por su amplio sistema de anillos."
+  },
+  {
+    "id": "cg-0117",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el planeta más denso del sistema solar?",
+    "options": [
+      "La Tierra",
+      "Júpiter",
+      "Saturno",
+      "Mercurio"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Tierra es el planeta con mayor densidad media."
+  },
+  {
+    "id": "cg-0118",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué galaxia se encuentra el sistema solar?",
+    "options": [
+      "Andrómeda",
+      "Triángulo",
+      "Sombrero",
+      "Vía Láctea"
+    ],
+    "correctIndex": 3,
+    "explanation": "El sistema solar forma parte de la Vía Láctea."
+  },
+  {
+    "id": "cg-0119",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién fue la primera persona en caminar sobre la Luna?",
+    "options": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Michael Collins"
+    ],
+    "correctIndex": 2,
+    "explanation": "Armstrong pisó la Luna en julio de 1969."
+  },
+  {
+    "id": "cg-0120",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál fue el primer satélite artificial de la historia?",
+    "options": [
+      "Explorer 1",
+      "Vostok 1",
+      "Sputnik 1",
+      "Voyager 1"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Unión Soviética lanzó el Sputnik 1 en 1957."
+  },
+  {
+    "id": "cg-0121",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué científico propuso la evolución por selección natural?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Carl Linneo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Darwin publicó El origen de las especies en 1859."
+  },
+  {
+    "id": "cg-0122",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién descubrió la penicilina?",
+    "options": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fleming observó en 1928 que un hongo inhibía bacterias."
+  },
+  {
+    "id": "cg-0123",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién formuló las tres leyes del movimiento?",
+    "options": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Albert Einstein",
+      "Johannes Kepler"
+    ],
+    "correctIndex": 1,
+    "explanation": "Newton formuló sus leyes del movimiento en el siglo XVII."
+  },
+  {
+    "id": "cg-0124",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién creó la tabla periódica de los elementos?",
+    "options": [
+      "Antoine Lavoisier",
+      "Dmitri Mendeléyev",
+      "John Dalton",
+      "Niels Bohr"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mendeléyev ordenó los elementos según su masa atómica en 1869."
+  },
+  {
+    "id": "cg-0125",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién formuló la teoría de la relatividad?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Max Planck",
+      "Niels Bohr"
+    ],
+    "correctIndex": 1,
+    "explanation": "Einstein publicó la relatividad especial en 1905 y la general en 1915."
+  },
+  {
+    "id": "cg-0126",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué año cayó el Imperio romano de Occidente?",
+    "options": [
+      "410",
+      "395",
+      "476",
+      "1453"
+    ],
+    "correctIndex": 2,
+    "explanation": "El último emperador romano de Occidente fue depuesto en 476."
+  },
+  {
+    "id": "cg-0127",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué año comenzó la Revolución francesa?",
+    "options": [
+      "1776",
+      "1799",
+      "1815",
+      "1789"
+    ],
+    "correctIndex": 3,
+    "explanation": "La toma de la Bastilla ocurrió en 1789."
+  },
+  {
+    "id": "cg-0128",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué año se declaró la independencia de Estados Unidos?",
+    "options": [
+      "1783",
+      "1789",
+      "1776",
+      "1765"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Declaración de Independencia se adoptó en 1776."
+  },
+  {
+    "id": "cg-0129",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué año llegó Cristóbal Colón a América?",
+    "options": [
+      "1498",
+      "1488",
+      "1492",
+      "1500"
+    ],
+    "correctIndex": 2,
+    "explanation": "Colón llegó a las Antillas en 1492."
+  },
+  {
+    "id": "cg-0130",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién completó la primera vuelta al mundo?",
+    "options": [
+      "Fernando de Magallanes",
+      "Juan Sebastián Elcano",
+      "Cristóbal Colón",
+      "Vasco da Gama"
+    ],
+    "correctIndex": 1,
+    "explanation": "Elcano completó la expedición iniciada por Magallanes en 1522."
+  },
+  {
+    "id": "cg-0131",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué año cayó Constantinopla en manos otomanas?",
+    "options": [
+      "1492",
+      "1453",
+      "1204",
+      "1389"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los otomanos tomaron Constantinopla en 1453."
+  },
+  {
+    "id": "cg-0132",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué año se firmó la Carta Magna inglesa?",
+    "options": [
+      "1066",
+      "1302",
+      "1415",
+      "1215"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Carta Magna fue sellada por Juan de Inglaterra en 1215."
+  },
+  {
+    "id": "cg-0133",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué siglo azotó la Peste Negra a Europa?",
+    "options": [
+      "Siglo XII",
+      "Siglo XV",
+      "Siglo XI",
+      "Siglo XIV"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Peste Negra azotó Europa entre 1347 y 1351."
+  },
+  {
+    "id": "cg-0134",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién lideró la independencia del norte de América del Sur?",
+    "options": [
+      "José de San Martín",
+      "Simón Bolívar",
+      "Miguel Hidalgo",
+      "Bernardo O'Higgins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bolívar lideró la independencia de varios países andinos."
+  },
+  {
+    "id": "cg-0135",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué sacerdote inició la independencia de México?",
+    "options": [
+      "Benito Juárez",
+      "Miguel Hidalgo",
+      "Agustín de Iturbide",
+      "Emiliano Zapata"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Grito de Dolores lo pronunció Hidalgo en 1810."
+  },
+  {
+    "id": "cg-0136",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién lideró la independencia de Argentina, Chile y Perú?",
+    "options": [
+      "Simón Bolívar",
+      "Bernardo O'Higgins",
+      "Antonio José de Sucre",
+      "José de San Martín"
+    ],
+    "correctIndex": 3,
+    "explanation": "San Martín cruzó los Andes y proclamó la independencia de Perú."
+  },
+  {
+    "id": "cg-0137",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién dirigió la Revolución haitiana?",
+    "options": [
+      "Simón Bolívar",
+      "Jean-Jacques Dessalines",
+      "Toussaint Louverture",
+      "Henri Christophe"
+    ],
+    "correctIndex": 2,
+    "explanation": "Louverture dirigió la revolución que llevó a la independencia de Haití."
+  },
+  {
+    "id": "cg-0138",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué presidente estadounidense gobernó durante la Guerra Civil?",
+    "options": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Andrew Jackson",
+      "Abraham Lincoln"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lincoln fue presidente entre 1861 y 1865."
+  },
+  {
+    "id": "cg-0139",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué emperador francés fue derrotado en Waterloo?",
+    "options": [
+      "Luis XVI",
+      "Carlos V",
+      "Napoleón III",
+      "Napoleón Bonaparte"
+    ],
+    "correctIndex": 3,
+    "explanation": "Napoleón fue derrotado en Waterloo en 1815."
+  },
+  {
+    "id": "cg-0140",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué año ocurrió la Revolución rusa?",
+    "options": [
+      "1917",
+      "1905",
+      "1921",
+      "1914"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Revolución rusa de 1917 llevó al poder a los bolcheviques."
+  },
+  {
+    "id": "cg-0141",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué tratado dividió las tierras americanas entre España y Portugal en 1494?",
+    "options": [
+      "Tratado de Tordesillas",
+      "Paz de Westfalia",
+      "Tratado de Utrecht",
+      "Tratado de Versalles"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Tratado de Tordesillas se firmó en 1494."
+  },
+  {
+    "id": "cg-0142",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué paz puso fin a la Guerra de los Treinta Años?",
+    "options": [
+      "Paz de Utrecht",
+      "Tratado de Versalles",
+      "Paz de Aquisgrán",
+      "Paz de Westfalia"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Paz de Westfalia se firmó en 1648."
+  },
+  {
+    "id": "cg-0143",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 1066 llevó a los normandos al trono de Inglaterra?",
+    "options": [
+      "Batalla de Agincourt",
+      "Batalla de Hastings",
+      "Batalla de Bouvines",
+      "Batalla de Stamford Bridge"
+    ],
+    "correctIndex": 1,
+    "explanation": "Guillermo el Conquistador venció en Hastings en 1066."
+  },
+  {
+    "id": "cg-0144",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué batalla naval de 1571 la Liga Santa derrotó a los otomanos?",
+    "options": [
+      "Batalla de Trafalgar",
+      "Batalla de Salamina",
+      "Batalla de Actium",
+      "Batalla de Lepanto"
+    ],
+    "correctIndex": 3,
+    "explanation": "En Lepanto la Liga Santa derrotó a la flota otomana."
+  },
+  {
+    "id": "cg-0145",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué congreso reorganizó Europa tras la caída de Napoleón?",
+    "options": [
+      "Congreso de Berlín",
+      "Congreso de Panamá",
+      "Congreso de Viena",
+      "Conferencia de Yalta"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Congreso de Viena se celebró en 1814 y 1815."
+  },
+  {
+    "id": "cg-0146",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se proclamó el Imperio alemán?",
+    "options": [
+      "1871",
+      "1861",
+      "1848",
+      "1888"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Imperio alemán se proclamó en Versalles en 1871."
+  },
+  {
+    "id": "cg-0147",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se proclamó el Reino de Italia?",
+    "options": [
+      "1871",
+      "1848",
+      "1866",
+      "1861"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Reino de Italia se proclamó en 1861."
+  },
+  {
+    "id": "cg-0148",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año comenzó la Restauración Meiji en Japón?",
+    "options": [
+      "1853",
+      "1889",
+      "1905",
+      "1868"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Restauración Meiji comenzó en 1868."
+  },
+  {
+    "id": "cg-0149",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año abolió Rusia la servidumbre?",
+    "options": [
+      "1848",
+      "1905",
+      "1917",
+      "1861"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alejandro II abolió la servidumbre en 1861."
+  },
+  {
+    "id": "cg-0150",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se independizó Haití?",
+    "options": [
+      "1791",
+      "1810",
+      "1822",
+      "1804"
+    ],
+    "correctIndex": 3,
+    "explanation": "Haití proclamó su independencia en 1804."
+  },
+  {
+    "id": "cg-0151",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se independizó Brasil de Portugal?",
+    "options": [
+      "1822",
+      "1808",
+      "1831",
+      "1889"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pedro I proclamó la independencia de Brasil en 1822."
+  },
+  {
+    "id": "cg-0152",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año abrió al tráfico el canal de Panamá?",
+    "options": [
+      "1904",
+      "1914",
+      "1920",
+      "1889"
+    ],
+    "correctIndex": 1,
+    "explanation": "El canal de Panamá abrió al tráfico en 1914."
+  },
+  {
+    "id": "cg-0153",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se inauguró el canal de Suez?",
+    "options": [
+      "1859",
+      "1875",
+      "1869",
+      "1882"
+    ],
+    "correctIndex": 2,
+    "explanation": "El canal de Suez se inauguró en 1869."
+  },
+  {
+    "id": "cg-0154",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año llegó Vasco da Gama a la India?",
+    "options": [
+      "1492",
+      "1500",
+      "1498",
+      "1510"
+    ],
+    "correctIndex": 2,
+    "explanation": "Da Gama alcanzó Calicut en 1498."
+  },
+  {
+    "id": "cg-0155",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué tratado puso fin a la Primera Guerra Mundial con Alemania?",
+    "options": [
+      "Tratado de Versalles",
+      "Tratado de Trianon",
+      "Tratado de Saint-Germain",
+      "Tratado de Sèvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Tratado de Versalles se firmó en 1919."
+  },
+  {
+    "id": "cg-0156",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año ocurrió la guerra hispano-estadounidense?",
+    "options": [
+      "1898",
+      "1895",
+      "1901",
+      "1889"
+    ],
+    "correctIndex": 0,
+    "explanation": "España y Estados Unidos combatieron en 1898."
+  },
+  {
+    "id": "cg-0157",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año comenzó la Guerra de los Cien Años?",
+    "options": [
+      "1415",
+      "1453",
+      "1302",
+      "1337"
+    ],
+    "correctIndex": 3,
+    "explanation": "El conflicto entre Francia e Inglaterra comenzó en 1337."
+  },
+  {
+    "id": "cg-0158",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año partió la Primera Cruzada?",
+    "options": [
+      "1147",
+      "1189",
+      "1204",
+      "1096"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Primera Cruzada partió en 1096."
+  },
+  {
+    "id": "cg-0159",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué edicto del año 313 estableció la tolerancia hacia el cristianismo en el Imperio romano?",
+    "options": [
+      "Edicto de Milán",
+      "Edicto de Nantes",
+      "Edicto de Tesalónica",
+      "Edicto de Worms"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Edicto de Milán, promulgado en 313, toleró el cristianismo."
+  },
+  {
+    "id": "cg-0160",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué concilio de 325 se fijó el credo niceno?",
+    "options": [
+      "Concilio de Éfeso",
+      "Concilio de Nicea",
+      "Concilio de Calcedonia",
+      "Concilio de Trento"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Concilio de Nicea se reunió en 325."
+  },
+  {
+    "id": "cg-0161",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año cayó Tenochtitlán en manos de Hernán Cortés?",
+    "options": [
+      "1519",
+      "1532",
+      "1521",
+      "1542"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hernán Cortés tomó Tenochtitlán en 1521."
+  },
+  {
+    "id": "cg-0162",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año capturó Pizarro a Atahualpa?",
+    "options": [
+      "1521",
+      "1532",
+      "1535",
+      "1545"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pizarro capturó a Atahualpa en Cajamarca en 1532."
+  },
+  {
+    "id": "cg-0163",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año llegó el Mayflower a América del Norte?",
+    "options": [
+      "1607",
+      "1630",
+      "1620",
+      "1629"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los peregrinos llegaron en el Mayflower en 1620."
+  },
+  {
+    "id": "cg-0164",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año ocurrieron los juicios de brujas de Salem?",
+    "options": [
+      "1692",
+      "1675",
+      "1701",
+      "1688"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los juicios de Salem ocurrieron en 1692."
+  },
+  {
+    "id": "cg-0165",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se produjo el Motín del Té de Boston?",
+    "options": [
+      "1770",
+      "1773",
+      "1776",
+      "1765"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Boston Tea Party tuvo lugar en 1773."
+  },
+  {
+    "id": "cg-0166",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año compró Estados Unidos el territorio de Luisiana?",
+    "options": [
+      "1783",
+      "1812",
+      "1800",
+      "1803"
+    ],
+    "correctIndex": 3,
+    "explanation": "Estados Unidos compró Luisiana a Francia en 1803."
+  },
+  {
+    "id": "cg-0167",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se libró la batalla de Trafalgar?",
+    "options": [
+      "1798",
+      "1815",
+      "1805",
+      "1800"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nelson venció a la flota franco-española en Trafalgar en 1805."
+  },
+  {
+    "id": "cg-0168",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año proclamó Lincoln la emancipación de los esclavos?",
+    "options": [
+      "1861",
+      "1865",
+      "1863",
+      "1862"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lincoln proclamó la emancipación en 1863."
+  },
+  {
+    "id": "cg-0169",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año ocurrió el desastre nuclear de Chernóbil?",
+    "options": [
+      "1979",
+      "1986",
+      "1991",
+      "1984"
+    ],
+    "correctIndex": 1,
+    "explanation": "El reactor 4 de Chernóbil explotó en 1986."
+  },
+  {
+    "id": "cg-0170",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se hundió el Titanic?",
+    "options": [
+      "1912",
+      "1905",
+      "1915",
+      "1920"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Titanic se hundió en abril de 1912."
+  },
+  {
+    "id": "cg-0171",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se lanzó el Sputnik 1?",
+    "options": [
+      "1955",
+      "1961",
+      "1969",
+      "1957"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Sputnik 1 fue el primer satélite artificial, lanzado en 1957."
+  },
+  {
+    "id": "cg-0172",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Quién fue el primer ser humano en viajar al espacio?",
+    "options": [
+      "Yuri Gagarin",
+      "Alan Shepard",
+      "John Glenn",
+      "Neil Armstrong"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gagarin orbitó la Tierra en 1961."
+  },
+  {
+    "id": "cg-0173",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Quién fue la primera mujer en viajar al espacio?",
+    "options": [
+      "Valentina Tereshkova",
+      "Sally Ride",
+      "Svetlana Savitskaya",
+      "Mae Jemison"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tereshkova voló al espacio en 1963."
+  },
+  {
+    "id": "cg-0174",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué científico descubrió el electrón?",
+    "options": [
+      "Ernest Rutherford",
+      "James Chadwick",
+      "J. J. Thomson",
+      "Niels Bohr"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thomson identificó el electrón en 1897."
+  },
+  {
+    "id": "cg-0175",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué científico descubrió el núcleo atómico?",
+    "options": [
+      "J. J. Thomson",
+      "Ernest Rutherford",
+      "James Chadwick",
+      "Max Planck"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rutherford demostró en 1911 que la carga positiva se concentra en un núcleo."
+  }
+]

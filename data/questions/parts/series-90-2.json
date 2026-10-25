@@ -1,0 +1,2452 @@
+[
+  {
+    "id": "s90-0176",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es el capitán de la Enterprise-D en Star Trek: The Next Generation?",
+    "options": [
+      "Jean-Luc Picard",
+      "Benjamin Sisko",
+      "Kathryn Janeway",
+      "James T. Kirk"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jean-Luc Picard, interpretado por Patrick Stewart, comandó la Enterprise-D."
+  },
+  {
+    "id": "s90-0177",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a Jean-Luc Picard en Star Trek: The Next Generation?",
+    "options": [
+      "Avery Brooks",
+      "Patrick Stewart",
+      "Kate Mulgrew",
+      "William Shatner"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patrick Stewart encarnó a Picard durante las siete temporadas de la serie."
+  },
+  {
+    "id": "s90-0178",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el androide que forma parte de la tripulación de la Enterprise-D?",
+    "options": [
+      "Odo",
+      "Tuvok",
+      "Data",
+      "Seven of Nine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Data es el androide que busca comprender la condición humana."
+  },
+  {
+    "id": "s90-0179",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿A qué raza pertenece Worf en Star Trek: The Next Generation?",
+    "options": [
+      "Vulcano",
+      "Ferengi",
+      "Betaziano",
+      "Klingon"
+    ],
+    "correctIndex": 3,
+    "explanation": "Worf es un klingon criado por humanos que sirve como oficial de seguridad."
+  },
+  {
+    "id": "s90-0180",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién es el primer oficial de Picard en la Enterprise-D?",
+    "options": [
+      "William Riker",
+      "Data",
+      "Geordi La Forge",
+      "Worf"
+    ],
+    "correctIndex": 0,
+    "explanation": "William Riker, interpretado por Jonathan Frakes, es el segundo al mando."
+  },
+  {
+    "id": "s90-0181",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz interpreta a Guinan, la anfitriona del bar Ten Forward?",
+    "options": [
+      "Marina Sirtis",
+      "Whoopi Goldberg",
+      "Gates McFadden",
+      "Terry Farrell"
+    ],
+    "correctIndex": 1,
+    "explanation": "Whoopi Goldberg dio vida a Guinan, la sabia anfitriona de Ten Forward."
+  },
+  {
+    "id": "s90-0182",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a Q, el ser omnipotente que desafía a Picard?",
+    "options": [
+      "Brent Spiner",
+      "Jonathan Frakes",
+      "John de Lancie",
+      "Michael Dorn"
+    ],
+    "correctIndex": 2,
+    "explanation": "John de Lancie interpretó a Q en varias series de Star Trek."
+  },
+  {
+    "id": "s90-0183",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué nombre recibe Picard cuando los Borg lo asimilan en el episodio The Best of Both Worlds?",
+    "options": [
+      "Hugh",
+      "Lore",
+      "B-4",
+      "Locutus"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los Borg convierten a Picard en Locutus para hablar en su nombre."
+  },
+  {
+    "id": "s90-0184",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a Benjamin Sisko en Star Trek: Deep Space Nine?",
+    "options": [
+      "Avery Brooks",
+      "Cirroc Lofton",
+      "Colm Meaney",
+      "Michael Dorn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Avery Brooks encarnó al comandante Benjamin Sisko."
+  },
+  {
+    "id": "s90-0185",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué personaje es el ferengi que regenta el bar de Deep Space Nine?",
+    "options": [
+      "Nog",
+      "Quark",
+      "Rom",
+      "Odo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quark es el bartender ferengi que regenta el bar de la estación."
+  },
+  {
+    "id": "s90-0186",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué es Odo, el jefe de seguridad de Deep Space Nine?",
+    "options": [
+      "Un vulcano",
+      "Un ferengi",
+      "Un cambiante",
+      "Un holograma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Odo es un cambiante que puede adoptar cualquier forma."
+  },
+  {
+    "id": "s90-0187",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿A qué raza pertenece Kira Nerys, la primera oficial de Deep Space Nine?",
+    "options": [
+      "Cardassiana",
+      "Trill",
+      "Betaziana",
+      "Bajorana"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kira Nerys es una oficial bajorana que luchó contra la ocupación cardassiana."
+  },
+  {
+    "id": "s90-0188",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llamaba la estación espacial antes de recibir el nombre de Deep Space Nine?",
+    "options": [
+      "Terok Nor",
+      "Empok Nor",
+      "Bajor Uno",
+      "Valo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cardassianos la llamaban Terok Nor durante su ocupación de Bajor."
+  },
+  {
+    "id": "s90-0189",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta a Gul Dukat en Star Trek: Deep Space Nine?",
+    "options": [
+      "Andrew Robinson",
+      "Marc Alaimo",
+      "Jeffrey Combs",
+      "Casey Biggs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marc Alaimo dio vida al cardassiano Gul Dukat."
+  },
+  {
+    "id": "s90-0190",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es la capitana de la USS Voyager?",
+    "options": [
+      "Benjamin Sisko",
+      "Jean-Luc Picard",
+      "Kathryn Janeway",
+      "William Riker"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kathryn Janeway es la capitana que comanda la Voyager."
+  },
+  {
+    "id": "s90-0191",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué cuadrante de la galaxia queda atrapada la USS Voyager?",
+    "options": [
+      "Alfa",
+      "Beta",
+      "Gamma",
+      "Delta"
+    ],
+    "correctIndex": 3,
+    "explanation": "La nave queda atrapada a decenas de miles de años luz, en el cuadrante Delta."
+  },
+  {
+    "id": "s90-0192",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el talaxiano que actúa como cocinero en la Voyager?",
+    "options": [
+      "Neelix",
+      "Tuvok",
+      "Chakotay",
+      "Harry Kim"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neelix se convierte en el cocinero y guía local de la tripulación."
+  },
+  {
+    "id": "s90-0193",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz interpreta a Kathryn Janeway?",
+    "options": [
+      "Jeri Ryan",
+      "Kate Mulgrew",
+      "Roxann Dawson",
+      "Jennifer Lien"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kate Mulgrew interpretó a la capitana Janeway durante siete temporadas."
+  },
+  {
+    "id": "s90-0194",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué es Seven of Nine antes de unirse a la tripulación de la Voyager?",
+    "options": [
+      "Una androide creada por los Borg",
+      "Una oficial vulcana",
+      "Una humana asimilada por los Borg",
+      "Una piloto maquis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Seven of Nine fue asimilada de niña y rescatada por la Voyager."
+  },
+  {
+    "id": "s90-0195",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué especie del cuadrante Delta es un enemigo temible de los Borg en Voyager?",
+    "options": [
+      "Los Kazon",
+      "Los Vidiianos",
+      "Los Hirogen",
+      "Species 8472"
+    ],
+    "correctIndex": 3,
+    "explanation": "Species 8472 proviene del espacio fluídico y resulta letal para los Borg."
+  },
+  {
+    "id": "s90-0196",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se titula el episodio final de Star Trek: Voyager?",
+    "options": [
+      "Endgame",
+      "Caretaker",
+      "Scorpion",
+      "Year of Hell"
+    ],
+    "correctIndex": 0,
+    "explanation": "Endgame muestra el regreso de la Voyager a la Tierra."
+  },
+  {
+    "id": "s90-0197",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la estación espacial que da título a la serie creada por J. Michael Straczynski?",
+    "options": [
+      "Deep Space Nine",
+      "Babylon 5",
+      "Babylon 4",
+      "Galáctica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Babylon 5 es una estación diplomática y militar en el espacio."
+  },
+  {
+    "id": "s90-0198",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién creó Babylon 5?",
+    "options": [
+      "Gene Roddenberry",
+      "Chris Carter",
+      "J. Michael Straczynski",
+      "Joss Whedon"
+    ],
+    "correctIndex": 2,
+    "explanation": "J. Michael Straczynski escribió y produjo la mayor parte de la serie."
+  },
+  {
+    "id": "s90-0199",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué pueblo mantiene una rivalidad histórica con los centauri en Babylon 5?",
+    "options": [
+      "Los minbari",
+      "Los vorlons",
+      "Los drakh",
+      "Los narn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los narn sufrieron durante décadas la ocupación centauri."
+  },
+  {
+    "id": "s90-0200",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el episodio piloto de Babylon 5?",
+    "options": [
+      "The Gathering",
+      "In the Beginning",
+      "Midnight on the Firing Line",
+      "The Long Dark"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Gathering presentó la estación y a sus principales embajadores."
+  },
+  {
+    "id": "s90-0201",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué dispositivo permite a los personajes de Stargate SG-1 viajar entre planetas?",
+    "options": [
+      "Una nave de salto",
+      "Un stargate",
+      "Un portal dimensional",
+      "Un teletransportador"
+    ],
+    "correctIndex": 1,
+    "explanation": "El stargate es un anillo alienígena que crea un agujero de gusano."
+  },
+  {
+    "id": "s90-0202",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta al coronel Jack O'Neill en Stargate SG-1?",
+    "options": [
+      "Michael Shanks",
+      "Christopher Judge",
+      "Richard Dean Anderson",
+      "Ben Browder"
+    ],
+    "correctIndex": 2,
+    "explanation": "Richard Dean Anderson encabezó el reparto de la serie."
+  },
+  {
+    "id": "s90-0203",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿A qué raza pertenece Teal'c?",
+    "options": [
+      "Goa'uld",
+      "Asgard",
+      "Unas",
+      "Jaffa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Teal'c es un jaffa que se rebela contra los Goa'uld."
+  },
+  {
+    "id": "s90-0204",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz interpreta a Samantha Carter?",
+    "options": [
+      "Amanda Tapping",
+      "Claudia Black",
+      "Teryl Rothery",
+      "Jolene Blalock"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amanda Tapping dio vida a la capitana Samantha Carter."
+  },
+  {
+    "id": "s90-0205",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta al general George Hammond?",
+    "options": [
+      "Richard Dean Anderson",
+      "Don S. Davis",
+      "Michael Shanks",
+      "Gary Jones"
+    ],
+    "correctIndex": 1,
+    "explanation": "Don S. Davis interpretó al general Hammond, jefe del SGC."
+  },
+  {
+    "id": "s90-0206",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a Fox Mulder?",
+    "options": [
+      "Mitch Pileggi",
+      "Robert Patrick",
+      "David Duchovny",
+      "Nicholas Lea"
+    ],
+    "correctIndex": 2,
+    "explanation": "David Duchovny interpretó al agente del FBI Fox Mulder."
+  },
+  {
+    "id": "s90-0207",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actriz interpreta a Dana Scully?",
+    "options": [
+      "Annabeth Gish",
+      "Tea Leoni",
+      "Mimi Rogers",
+      "Gillian Anderson"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gillian Anderson encarnó a la agente Dana Scully."
+  },
+  {
+    "id": "s90-0208",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cuál es el lema más famoso de The X-Files?",
+    "options": [
+      "The truth is out there",
+      "I want to believe",
+      "Trust no one",
+      "Resistance is futile"
+    ],
+    "correctIndex": 0,
+    "explanation": "La frase se traduce como La verdad está ahí fuera."
+  },
+  {
+    "id": "s90-0209",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién creó The X-Files?",
+    "options": [
+      "David Lynch",
+      "Chris Carter",
+      "J.J. Abrams",
+      "Joss Whedon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chris Carter creó la serie y escribió muchos de sus episodios."
+  },
+  {
+    "id": "s90-0210",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el grupo de informantes que ayuda a Mulder con las conspiraciones?",
+    "options": [
+      "The Syndicate",
+      "The Smoking Men",
+      "The Lone Gunmen",
+      "The Consortium"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los Lone Gunmen publican una revista y auxilian a Mulder."
+  },
+  {
+    "id": "s90-0211",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta al subdirector Walter Skinner?",
+    "options": [
+      "William B. Davis",
+      "Nicholas Lea",
+      "Tom Braidwood",
+      "Mitch Pileggi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mitch Pileggi interpretó al subdirector Skinner."
+  },
+  {
+    "id": "s90-0212",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿A través de qué viajan los protagonistas de Sliders?",
+    "options": [
+      "Universos paralelos",
+      "Épocas históricas",
+      "Planetas del sistema solar",
+      "Dimensiones oníricas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quinn y sus amigos saltan entre realidades alternativas."
+  },
+  {
+    "id": "s90-0213",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a Quinn Mallory en Sliders?",
+    "options": [
+      "John Rhys-Davies",
+      "Jerry O'Connell",
+      "Cleavant Derricks",
+      "Kari Wuhrer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jerry O'Connell interpretó a Quinn, el creador del dispositivo de salto."
+  },
+  {
+    "id": "s90-0214",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el profesor que acompaña a Quinn en las primeras temporadas de Sliders?",
+    "options": [
+      "Rembrandt Brown",
+      "Colin Mallory",
+      "Maximilian Arturo",
+      "Conrad Bennish"
+    ],
+    "correctIndex": 2,
+    "explanation": "El profesor Maximilian Arturo fue interpretado por John Rhys-Davies."
+  },
+  {
+    "id": "s90-0215",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de vehículo es la seaQuest en la serie de los 90?",
+    "options": [
+      "Una nave espacial",
+      "Un portaaviones",
+      "Un crucero",
+      "Un submarino"
+    ],
+    "correctIndex": 3,
+    "explanation": "La seaQuest es un submarino de investigación y defensa."
+  },
+  {
+    "id": "s90-0216",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta al capitán Nathan Bridger en seaQuest DSV?",
+    "options": [
+      "Roy Scheider",
+      "Michael Ironside",
+      "Don Franklin",
+      "Jonathan Brandis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Roy Scheider encabezó el reparto como el capitán Bridger."
+  },
+  {
+    "id": "s90-0217",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué año está ambientada la acción de seaQuest DSV?",
+    "options": [
+      "2050",
+      "2018",
+      "2001",
+      "2200"
+    ],
+    "correctIndex": 1,
+    "explanation": "La serie imaginaba un futuro cercano, el año 2018."
+  },
+  {
+    "id": "s90-0218",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué le ocurre a Sam Beckett al inicio de Quantum Leap?",
+    "options": [
+      "Se convierte en inmortal",
+      "Viaja a planetas lejanos",
+      "Salta en el tiempo y ocupa el cuerpo de otras personas",
+      "Pierde la memoria para siempre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sam viaja al pasado y debe corregir errores mientras otros lo ven con otra identidad."
+  },
+  {
+    "id": "s90-0219",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta al almirante Al Calavicci, el holograma que ayuda a Sam?",
+    "options": [
+      "Scott Bakula",
+      "Michael Dorn",
+      "Robert Picardo",
+      "Dean Stockwell"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dean Stockwell interpretó a Al, visible solo para Sam."
+  },
+  {
+    "id": "s90-0220",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la computadora que calcula los saltos temporales en Quantum Leap?",
+    "options": [
+      "Ziggy",
+      "HAL 9000",
+      "Skynet",
+      "Deep Thought"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ziggy es la computadora del Proyecto Quantum Leap."
+  },
+  {
+    "id": "s90-0221",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué deben hacer los inmortales para eliminar definitivamente a otro inmortal en Highlander?",
+    "options": [
+      "Quemarlo",
+      "Decapitarlo",
+      "Ahogarlo",
+      "Dispararle en el corazón"
+    ],
+    "correctIndex": 1,
+    "explanation": "Solo la decapitación pone fin a la vida de un inmortal."
+  },
+  {
+    "id": "s90-0222",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién es el protagonista de Highlander: The Series?",
+    "options": [
+      "Connor MacLeod",
+      "Methos",
+      "Duncan MacLeod",
+      "Richie Ryan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Duncan MacLeod, interpretado por Adrian Paul, es el protagonista."
+  },
+  {
+    "id": "s90-0223",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué inmortal muy antiguo se hace pasar por historiador y se une a Duncan en Highlander?",
+    "options": [
+      "Kurgan",
+      "Ramírez",
+      "Richie Ryan",
+      "Methos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Methos es el inmortal más antiguo que aparece en la serie."
+  },
+  {
+    "id": "s90-0224",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actriz interpreta a Buffy Summers?",
+    "options": [
+      "Sarah Michelle Gellar",
+      "Alyson Hannigan",
+      "Charisma Carpenter",
+      "Eliza Dushku"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sarah Michelle Gellar protagonizó Buffy la cazavampiros."
+  },
+  {
+    "id": "s90-0225",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cuál es la misión de Buffy en la serie?",
+    "options": [
+      "Proteger a los mutantes",
+      "Cazar vampiros y demonios",
+      "Entrenar a los Jedi",
+      "Investigar ovnis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Buffy es la Elegida, destinada a luchar contra fuerzas sobrenaturales."
+  },
+  {
+    "id": "s90-0226",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué pueblo ficticio vive Buffy?",
+    "options": [
+      "Riverdale",
+      "Smallville",
+      "Sunnydale",
+      "Mystic Falls"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sunnydale se asienta sobre la Boca del Infierno."
+  },
+  {
+    "id": "s90-0227",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué vampiro con alma es el primer gran amor de Buffy?",
+    "options": [
+      "Spike",
+      "Riley Finn",
+      "Oz",
+      "Angel"
+    ],
+    "correctIndex": 3,
+    "explanation": "Angel recuperó su alma y se enamoró de Buffy."
+  },
+  {
+    "id": "s90-0228",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a Rupert Giles, el vigilante de Buffy?",
+    "options": [
+      "Anthony Head",
+      "James Marsters",
+      "David Boreanaz",
+      "Seth Green"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anthony Head interpretó al bibliotecario y vigilante Rupert Giles."
+  },
+  {
+    "id": "s90-0229",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se titula el episodio musical de Buffy la cazavampiros?",
+    "options": [
+      "Hush",
+      "Once More, with Feeling",
+      "The Body",
+      "Tabula Rasa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Once More, with Feeling es el célebre musical de la sexta temporada."
+  },
+  {
+    "id": "s90-0230",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor protagoniza el spin-off Angel?",
+    "options": [
+      "James Marsters",
+      "Alexis Denisof",
+      "David Boreanaz",
+      "Charisma Carpenter"
+    ],
+    "correctIndex": 2,
+    "explanation": "David Boreanaz retomó su papel de Angel en la serie derivada."
+  },
+  {
+    "id": "s90-0231",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta a Wesley Wyndam-Pryce en Angel?",
+    "options": [
+      "J. August Richards",
+      "Andy Hallett",
+      "Glenn Quinn",
+      "Alexis Denisof"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alexis Denisof dio vida a Wesley en Angel."
+  },
+  {
+    "id": "s90-0232",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se apellidan las tres hermanas brujas protagonistas de Charmed?",
+    "options": [
+      "Halliwell",
+      "Warren",
+      "Bennett",
+      "Sanders"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las hermanas Halliwell descubren que descienden de una línea de brujas."
+  },
+  {
+    "id": "s90-0233",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cuántas hermanas brujas protagonizan Charmed al comenzar la serie?",
+    "options": [
+      "Dos",
+      "Tres",
+      "Cuatro",
+      "Cinco"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prue, Piper y Phoebe son las tres hermanas del inicio."
+  },
+  {
+    "id": "s90-0234",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz interpreta a Phoebe Halliwell?",
+    "options": [
+      "Holly Marie Combs",
+      "Shannen Doherty",
+      "Alyssa Milano",
+      "Rose McGowan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alyssa Milano interpretó a Phoebe durante toda la serie."
+  },
+  {
+    "id": "s90-0235",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el libro de hechizos que consultan las hermanas de Charmed?",
+    "options": [
+      "El Necronomicón",
+      "El Grimorio de Salem",
+      "El Códice de las Brujas",
+      "El Libro de las Sombras"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Libro de las Sombras guarda los hechizos y la historia familiar."
+  },
+  {
+    "id": "s90-0236",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actriz interpreta a Xena, la princesa guerrera?",
+    "options": [
+      "Lucy Lawless",
+      "Renée O'Connor",
+      "Hudson Leick",
+      "Alexandra Tydings"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lucy Lawless protagonizó Xena: Warrior Princess."
+  },
+  {
+    "id": "s90-0237",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la joven compañera de aventuras de Xena?",
+    "options": [
+      "Callisto",
+      "Gabrielle",
+      "Aphrodite",
+      "Eve"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gabrielle acompaña a Xena y evoluciona de aldeana a guerrera."
+  },
+  {
+    "id": "s90-0238",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿De qué serie es spin-off Xena: Warrior Princess?",
+    "options": [
+      "Buffy la cazavampiros",
+      "Highlander",
+      "Hercules: The Legendary Journeys",
+      "Charmed"
+    ],
+    "correctIndex": 2,
+    "explanation": "Xena apareció primero como villana en la serie de Hércules."
+  },
+  {
+    "id": "s90-0239",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actriz interpreta a Callisto, la enemiga vengativa de Xena?",
+    "options": [
+      "Renée O'Connor",
+      "Lucy Lawless",
+      "Alexandra Tydings",
+      "Hudson Leick"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hudson Leick interpretó a la guerrera Callisto."
+  },
+  {
+    "id": "s90-0240",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a Hércules en Hercules: The Legendary Journeys?",
+    "options": [
+      "Kevin Sorbo",
+      "Michael Hurst",
+      "Bruce Campbell",
+      "Anthony Quinn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kevin Sorbo encarnó a Hércules en la serie."
+  },
+  {
+    "id": "s90-0241",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el mejor amigo y compañero de Hércules?",
+    "options": [
+      "Autolycus",
+      "Iolaus",
+      "Salmoneus",
+      "Ares"
+    ],
+    "correctIndex": 1,
+    "explanation": "Iolaus, interpretado por Michael Hurst, acompaña a Hércules."
+  },
+  {
+    "id": "s90-0242",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué director de cine es co-creador de Hercules: The Legendary Journeys?",
+    "options": [
+      "Peter Jackson",
+      "George Lucas",
+      "Sam Raimi",
+      "Steven Spielberg"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sam Raimi desarrolló la serie junto a Christian Williams."
+  },
+  {
+    "id": "s90-0243",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién creó Los Simpson?",
+    "options": [
+      "Seth MacFarlane",
+      "Mike Judge",
+      "Trey Parker",
+      "Matt Groening"
+    ],
+    "correctIndex": 3,
+    "explanation": "Matt Groening creó a la familia Simpson para un espacio de animación."
+  },
+  {
+    "id": "s90-0244",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad ficticia viven los Simpson?",
+    "options": [
+      "Springfield",
+      "Quahog",
+      "South Park",
+      "Arlen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Springfield es la ciudad ficticia de la serie."
+  },
+  {
+    "id": "s90-0245",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor pone la voz original de Homer Simpson?",
+    "options": [
+      "Hank Azaria",
+      "Dan Castellaneta",
+      "Harry Shearer",
+      "Nancy Cartwright"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dan Castellaneta da voz a Homer desde el inicio."
+  },
+  {
+    "id": "s90-0246",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz da voz a Bart Simpson?",
+    "options": [
+      "Yeardley Smith",
+      "Julie Kavner",
+      "Nancy Cartwright",
+      "Dan Castellaneta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nancy Cartwright, una mujer, pone la voz de Bart."
+  },
+  {
+    "id": "s90-0247",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el dueño de la taberna que frecuenta Homer?",
+    "options": [
+      "Barney Gumble",
+      "Apu Nahasapeemapetilon",
+      "Ned Flanders",
+      "Moe Szyslak"
+    ],
+    "correctIndex": 3,
+    "explanation": "Moe Szyslak regenta la taberna Moe's Tavern."
+  },
+  {
+    "id": "s90-0248",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué programa debutaron los Simpson antes de tener su propia serie?",
+    "options": [
+      "The Tracey Ullman Show",
+      "Saturday Night Live",
+      "The Tonight Show",
+      "Late Night with David Letterman"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cortos animados se emitieron en The Tracey Ullman Show."
+  },
+  {
+    "id": "s90-0249",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Quién disparó al señor Burns en el final de la sexta temporada de Los Simpson?",
+    "options": [
+      "Homer Simpson",
+      "Maggie Simpson",
+      "Waylon Smithers",
+      "Bart Simpson"
+    ],
+    "correctIndex": 1,
+    "explanation": "La segunda parte del episodio revela que Maggie disparó el arma."
+  },
+  {
+    "id": "s90-0250",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quiénes crearon South Park?",
+    "options": [
+      "Matt Groening y James L. Brooks",
+      "Mike Judge",
+      "Trey Parker y Matt Stone",
+      "Seth MacFarlane"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trey Parker y Matt Stone crearon y protagonizan la serie."
+  },
+  {
+    "id": "s90-0251",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué estado se ubica el pueblo de South Park?",
+    "options": [
+      "Texas",
+      "California",
+      "Utah",
+      "Colorado"
+    ],
+    "correctIndex": 3,
+    "explanation": "South Park es un pueblo ficticio del estado de Colorado."
+  },
+  {
+    "id": "s90-0252",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor y músico daba voz al Chef en South Park?",
+    "options": [
+      "Isaac Hayes",
+      "Samuel L. Jackson",
+      "Morgan Freeman",
+      "James Earl Jones"
+    ],
+    "correctIndex": 0,
+    "explanation": "Isaac Hayes dio voz al personaje Chef."
+  },
+  {
+    "id": "s90-0253",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué año se desarrolla la mayor parte de Futurama tras el despertar de Fry?",
+    "options": [
+      "2500",
+      "3000",
+      "2100",
+      "4000"
+    ],
+    "correctIndex": 1,
+    "explanation": "La serie sitúa a Fry en el año 3000 tras salir de la criogenia."
+  },
+  {
+    "id": "s90-0254",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el robot mejor amigo de Fry?",
+    "options": [
+      "Calculon",
+      "Flexo",
+      "Bender",
+      "Roberto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bender es el robot sarcástico que acompaña a Fry."
+  },
+  {
+    "id": "s90-0255",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se titula el episodio piloto de Futurama?",
+    "options": [
+      "The Series Has Landed",
+      "A Big Piece of Garbage",
+      "Hell Is Other Robots",
+      "Space Pilot 3000"
+    ],
+    "correctIndex": 3,
+    "explanation": "Space Pilot 3000 presenta a Fry en el año 3000."
+  },
+  {
+    "id": "s90-0256",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el hijo de Hank Hill en King of the Hill?",
+    "options": [
+      "Bobby",
+      "Joseph",
+      "Dale",
+      "Bill"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bobby Hill es el hijo adolescente de Hank y Peggy."
+  },
+  {
+    "id": "s90-0257",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué producto vende Hank Hill?",
+    "options": [
+      "Seguros",
+      "Propano",
+      "Neumáticos",
+      "Cerveza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hank trabaja vendiendo propano en Arlen, Texas."
+  },
+  {
+    "id": "s90-0258",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Quiénes crearon King of the Hill?",
+    "options": [
+      "Matt Groening y David X. Cohen",
+      "Trey Parker y Matt Stone",
+      "Mike Judge y Greg Daniels",
+      "Seth MacFarlane"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mike Judge y Greg Daniels crearon la serie."
+  },
+  {
+    "id": "s90-0259",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué cadena emitió Daria?",
+    "options": [
+      "Nickelodeon",
+      "Cartoon Network",
+      "Fox",
+      "MTV"
+    ],
+    "correctIndex": 3,
+    "explanation": "Daria se emitió dentro del bloque de animación de MTV."
+  },
+  {
+    "id": "s90-0260",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿De qué serie es spin-off Daria?",
+    "options": [
+      "Beavis and Butt-Head",
+      "Los Simpson",
+      "South Park",
+      "Rocko's Modern Life"
+    ],
+    "correctIndex": 0,
+    "explanation": "Daria apareció primero como compañera de clase en Beavis and Butt-Head."
+  },
+  {
+    "id": "s90-0261",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué ciudad ficticia vive Daria?",
+    "options": [
+      "Springfield",
+      "Lawndale",
+      "Arlen",
+      "Quahog"
+    ],
+    "correctIndex": 1,
+    "explanation": "La familia Morgendorffer se muda a Lawndale."
+  },
+  {
+    "id": "s90-0262",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué cadena se emitió originalmente Beavis and Butt-Head?",
+    "options": [
+      "Nickelodeon",
+      "Fox",
+      "MTV",
+      "Cartoon Network"
+    ],
+    "correctIndex": 2,
+    "explanation": "La serie fue un éxito de la programación animada de MTV."
+  },
+  {
+    "id": "s90-0263",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién creó Beavis and Butt-Head?",
+    "options": [
+      "Matt Groening",
+      "John Kricfalusi",
+      "Trey Parker",
+      "Mike Judge"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mike Judge creó y puso voz a los dos protagonistas."
+  },
+  {
+    "id": "s90-0264",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cuál de los dos personajes se transforma en Cornholio al comer azúcar?",
+    "options": [
+      "Beavis",
+      "Butt-Head",
+      "Daria",
+      "Stewart"
+    ],
+    "correctIndex": 0,
+    "explanation": "Beavis adopta la personalidad de Cornholio tras consumir azúcar."
+  },
+  {
+    "id": "s90-0265",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué animales son Ren y Stimpy?",
+    "options": [
+      "Un gato y un perro",
+      "Un chihuahua y un gato",
+      "Dos conejos",
+      "Un ratón y un gato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ren es un chihuahua y Stimpy es un gato."
+  },
+  {
+    "id": "s90-0266",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién creó The Ren & Stimpy Show?",
+    "options": [
+      "Joe Murray",
+      "Craig McCracken",
+      "John Kricfalusi",
+      "Butch Hartman"
+    ],
+    "correctIndex": 2,
+    "explanation": "John Kricfalusi creó la serie para Nickelodeon."
+  },
+  {
+    "id": "s90-0267",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué episodio de Ren & Stimpy aparece la canción Happy Happy Joy Joy?",
+    "options": [
+      "Space Madness",
+      "Powdered Toast Man",
+      "Nurse Stimpy",
+      "Stimpy's Invention"
+    ],
+    "correctIndex": 3,
+    "explanation": "La canción suena cuando Stimpy inventa el casco de la felicidad."
+  },
+  {
+    "id": "s90-0268",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué animal es Rocko en Rocko's Modern Life?",
+    "options": [
+      "Un ualabí",
+      "Un canguro",
+      "Una nutria",
+      "Un castor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rocko es un ualabí que vive en la ciudad de O-Town."
+  },
+  {
+    "id": "s90-0269",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el mejor amigo de Rocko, un novillo?",
+    "options": [
+      "Filburt",
+      "Heffer Wolfe",
+      "Ed Bighead",
+      "Spunky"
+    ],
+    "correctIndex": 1,
+    "explanation": "Heffer Wolfe es el mejor amigo de Rocko."
+  },
+  {
+    "id": "s90-0270",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Quién creó Rocko's Modern Life?",
+    "options": [
+      "John Kricfalusi",
+      "Craig McCracken",
+      "Joe Murray",
+      "Arlene Klasky"
+    ],
+    "correctIndex": 2,
+    "explanation": "Joe Murray creó la serie para Nickelodeon."
+  },
+  {
+    "id": "s90-0271",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el bebé protagonista de Rugrats?",
+    "options": [
+      "Chuckie",
+      "Phil",
+      "Dil",
+      "Tommy Pickles"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tommy Pickles lidera las aventuras de los bebés."
+  },
+  {
+    "id": "s90-0272",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la prima mayor de los bebés en Rugrats?",
+    "options": [
+      "Angelica Pickles",
+      "Susie",
+      "Kimi",
+      "Lil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Angelica es la prima de tres años que suele imponer su voluntad."
+  },
+  {
+    "id": "s90-0273",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué dinosaurio es el ídolo de los bebés en Rugrats?",
+    "options": [
+      "Barney",
+      "Reptar",
+      "Dino",
+      "Godzilla"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reptar es el dinosaurio de juguete y de dibujos que adoran los bebés."
+  },
+  {
+    "id": "s90-0274",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué forma tiene la cabeza de Arnold en Hey Arnold!?",
+    "options": [
+      "Cuadrada",
+      "Redonda",
+      "Forma de balón de fútbol americano",
+      "Triangular"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cabeza de Arnold tiene la forma característica de un balón de fútbol americano."
+  },
+  {
+    "id": "s90-0275",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién está secretamente enamorada de Arnold?",
+    "options": [
+      "Phoebe",
+      "Rhonda",
+      "Lila",
+      "Helga Pataki"
+    ],
+    "correctIndex": 3,
+    "explanation": "Helga esconde su amor por Arnold tras una actitud hostil."
+  },
+  {
+    "id": "s90-0276",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es la hermana de Dexter en Dexter's Laboratory?",
+    "options": [
+      "Dee Dee",
+      "Mandark",
+      "Bubbles",
+      "Blossom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dee Dee es la hermana mayor que irrumpe en el laboratorio."
+  },
+  {
+    "id": "s90-0277",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién es el rival científico de Dexter?",
+    "options": [
+      "Dee Dee",
+      "Mandark",
+      "Professor Utonium",
+      "Mojo Jojo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mandark es el niño genio rival de Dexter."
+  },
+  {
+    "id": "s90-0278",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Quién creó Dexter's Laboratory?",
+    "options": [
+      "Craig McCracken",
+      "Butch Hartman",
+      "Genndy Tartakovsky",
+      "Joe Murray"
+    ],
+    "correctIndex": 2,
+    "explanation": "Genndy Tartakovsky creó la serie para Cartoon Network."
+  },
+  {
+    "id": "s90-0279",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué ingredientes dieron origen a las Powerpuff Girls?",
+    "options": [
+      "Harina, miel y canela",
+      "Agua, sal y pimienta",
+      "Leche, huevos y azúcar",
+      "Azúcar, flores y muchos colores"
+    ],
+    "correctIndex": 3,
+    "explanation": "El profesor Utonium usó azúcar, flores y muchos colores."
+  },
+  {
+    "id": "s90-0280",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es el villano simio de las Powerpuff Girls?",
+    "options": [
+      "Mojo Jojo",
+      "Him",
+      "Fuzzy Lumpkins",
+      "Princess Morbucks"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mojo Jojo es el chimpancé genio que quiere dominar Townsville."
+  },
+  {
+    "id": "s90-0281",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién creó The Powerpuff Girls?",
+    "options": [
+      "Genndy Tartakovsky",
+      "Craig McCracken",
+      "Butch Hartman",
+      "Stephen Hillenburg"
+    ],
+    "correctIndex": 1,
+    "explanation": "Craig McCracken creó a Blossom, Bubbles y Buttercup."
+  },
+  {
+    "id": "s90-0282",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad despiertan los gargolas en Gargoyles?",
+    "options": [
+      "Londres",
+      "Chicago",
+      "Nueva York",
+      "Los Ángeles"
+    ],
+    "correctIndex": 2,
+    "explanation": "El clan despierta en Manhattan tras siglos petrificado."
+  },
+  {
+    "id": "s90-0283",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor pone voz a Goliath en Gargoyles?",
+    "options": [
+      "James Earl Jones",
+      "Kevin Conroy",
+      "Mark Hamill",
+      "Keith David"
+    ],
+    "correctIndex": 3,
+    "explanation": "Keith David puso voz al líder del clan, Goliath."
+  },
+  {
+    "id": "s90-0284",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién pone la voz a Batman en Batman: The Animated Series?",
+    "options": [
+      "Kevin Conroy",
+      "Mark Hamill",
+      "Tim Daly",
+      "Adam West"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kevin Conroy fue la voz de Batman en la serie animada."
+  },
+  {
+    "id": "s90-0285",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién pone voz al Joker en Batman: The Animated Series?",
+    "options": [
+      "Kevin Conroy",
+      "Mark Hamill",
+      "Ron Perlman",
+      "John Glover"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mark Hamill interpretó al Joker en la serie animada."
+  },
+  {
+    "id": "s90-0286",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué cadena se emitió Spider-Man: The Animated Series?",
+    "options": [
+      "Cartoon Network",
+      "Nickelodeon",
+      "Fox Kids",
+      "USA Network"
+    ],
+    "correctIndex": 2,
+    "explanation": "La serie se emitió en el bloque Fox Kids."
+  },
+  {
+    "id": "s90-0287",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor pone voz a Spider-Man en la serie animada de 1994?",
+    "options": [
+      "Neil Patrick Harris",
+      "Josh Keaton",
+      "Drake Bell",
+      "Christopher Daniel Barnes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Christopher Daniel Barnes fue la voz de Peter Parker y Spider-Man."
+  },
+  {
+    "id": "s90-0288",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién es el Duende Verde en Spider-Man: The Animated Series?",
+    "options": [
+      "Norman Osborn",
+      "Otto Octavius",
+      "Wilson Fisk",
+      "Eddie Brock"
+    ],
+    "correctIndex": 0,
+    "explanation": "Norman Osborn se convierte en el Duende Verde."
+  },
+  {
+    "id": "s90-0289",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién lidera a los X-Men en la serie animada de los 90?",
+    "options": [
+      "Magneto",
+      "Professor X",
+      "Cyclops",
+      "Wolverine"
+    ],
+    "correctIndex": 1,
+    "explanation": "El profesor Charles Xavier dirige al equipo de mutantes."
+  },
+  {
+    "id": "s90-0290",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la escuela donde viven los X-Men?",
+    "options": [
+      "Instituto Stark",
+      "Academia de la Justicia",
+      "Instituto Xavier",
+      "Escuela de Salem"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Instituto Xavier es el hogar y centro de entrenamiento de los X-Men."
+  },
+  {
+    "id": "s90-0291",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor pone voz a Wolverine en X-Men: The Animated Series?",
+    "options": [
+      "Hugh Jackman",
+      "Steve Blum",
+      "Scott McNeil",
+      "Cal Dodd"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cal Dodd puso voz a Wolverine en la serie de 1992."
+  },
+  {
+    "id": "s90-0292",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es el protagonista entrenador de Pokémon?",
+    "options": [
+      "Ash Ketchum",
+      "Misty",
+      "Brock",
+      "Gary Oak"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ash Ketchum es el joven entrenador que persigue ser maestro Pokémon."
+  },
+  {
+    "id": "s90-0293",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué Pokémon es la mascota inseparable de Ash?",
+    "options": [
+      "Charmander",
+      "Pikachu",
+      "Bulbasaur",
+      "Squirtle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pikachu se convierte en el compañero más famoso de Ash."
+  },
+  {
+    "id": "s90-0294",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el profesor que entrega los Pokémon iniciales?",
+    "options": [
+      "Professor Elm",
+      "Professor Birch",
+      "Professor Oak",
+      "Professor Rowan"
+    ],
+    "correctIndex": 2,
+    "explanation": "El profesor Oak entrega a los entrenadores su primer Pokémon."
+  },
+  {
+    "id": "s90-0295",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es el protagonista de Dragon Ball Z?",
+    "options": [
+      "Vegeta",
+      "Gohan",
+      "Piccolo",
+      "Goku"
+    ],
+    "correctIndex": 3,
+    "explanation": "Son Goku es el saiyajin protagonista de la serie."
+  },
+  {
+    "id": "s90-0296",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿A qué raza pertenece Goku?",
+    "options": [
+      "Saiyajin",
+      "Namekiano",
+      "Humano",
+      "Androide"
+    ],
+    "correctIndex": 0,
+    "explanation": "Goku es un saiyajin enviado a la Tierra cuando era niño."
+  },
+  {
+    "id": "s90-0297",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién es el príncipe de los saiyajin en Dragon Ball Z?",
+    "options": [
+      "Nappa",
+      "Vegeta",
+      "Raditz",
+      "Trunks"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vegeta es el príncipe del planeta Vegeta."
+  },
+  {
+    "id": "s90-0298",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el hijo mayor de Goku?",
+    "options": [
+      "Goten",
+      "Trunks",
+      "Gohan",
+      "Pan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gohan es el primer hijo de Goku y Chi-Chi."
+  },
+  {
+    "id": "s90-0299",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la protagonista de Sailor Moon?",
+    "options": [
+      "Ami Mizuno",
+      "Rei Hino",
+      "Makoto Kino",
+      "Serena Tsukino"
+    ],
+    "correctIndex": 3,
+    "explanation": "Serena Tsukino es la identidad civil de Sailor Moon en el doblaje hispano."
+  },
+  {
+    "id": "s90-0300",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la gata que acompaña a Sailor Moon?",
+    "options": [
+      "Luna",
+      "Artemis",
+      "Diana",
+      "Chibiusa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Luna guía a las guerreras sailor y les revela su misión."
+  },
+  {
+    "id": "s90-0301",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el Digimon compañero de Tai?",
+    "options": [
+      "Gabumon",
+      "Agumon",
+      "Patamon",
+      "Gomamon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Agumon es el compañero dinosaurio de Tai en Digimon Adventure."
+  },
+  {
+    "id": "s90-0302",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué año se estrenó Digimon Adventure en Japón?",
+    "options": [
+      "1997",
+      "2000",
+      "1999",
+      "2001"
+    ],
+    "correctIndex": 2,
+    "explanation": "Digimon Adventure debutó en Japón en 1999."
+  },
+  {
+    "id": "s90-0303",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿De qué color era Tommy, el ranger que se unió al equipo original de Power Rangers?",
+    "options": [
+      "Rojo",
+      "Azul",
+      "Negro",
+      "Verde"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tommy Oliver debutó como el Green Ranger."
+  },
+  {
+    "id": "s90-0304",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el mentor de los Power Rangers?",
+    "options": [
+      "Zordon",
+      "Alpha 5",
+      "Rita Repulsa",
+      "Lord Zedd"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zordon guía a los rangers desde su cápsula de energía."
+  },
+  {
+    "id": "s90-0305",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpretó a Tommy Oliver en Power Rangers?",
+    "options": [
+      "Austin St. John",
+      "Jason David Frank",
+      "David Yost",
+      "Walter Jones"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jason David Frank interpretó a Tommy en varias temporadas."
+  },
+  {
+    "id": "s90-0306",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿De qué serie japonesa se adaptaron los Power Rangers?",
+    "options": [
+      "Kamen Rider",
+      "Ultraman",
+      "Super Sentai",
+      "Gundam"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mighty Morphin Power Rangers adaptó material de Kyoryu Sentai Zyuranger."
+  },
+  {
+    "id": "s90-0307",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué se transforman los personajes de Beast Wars?",
+    "options": [
+      "En vehículos blindados",
+      "En criaturas mágicas",
+      "En naves estelares",
+      "En animales robóticos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los Transformers de la serie adoptan formas de animales."
+  },
+  {
+    "id": "s90-0308",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué dos facciones se enfrentan en Beast Wars?",
+    "options": [
+      "Maximals y Predacons",
+      "Autobots y Decepticons",
+      "Jedi y Sith",
+      "Rebeldes e Imperio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Maximals y Predacons son los bandos de la guerra."
+  },
+  {
+    "id": "s90-0309",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Quiénes son los líderes de los Maximals y los Predacons en Beast Wars?",
+    "options": [
+      "Optimus Prime y Megatron",
+      "Optimus Primal y Megatron",
+      "Rodimus y Galvatron",
+      "Cheetor y Dinobot"
+    ],
+    "correctIndex": 1,
+    "explanation": "Optimus Primal y Megatron lideran a los dos bandos."
+  },
+  {
+    "id": "s90-0310",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Dónde ocurre la acción de ReBoot?",
+    "options": [
+      "Dentro de una ciudad futurista",
+      "En un mundo de fantasía",
+      "Dentro de una computadora",
+      "En una estación espacial"
+    ],
+    "correctIndex": 2,
+    "explanation": "ReBoot se desarrolla en el mundo digital de Mainframe."
+  },
+  {
+    "id": "s90-0311",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el protagonista de ReBoot?",
+    "options": [
+      "Enzo",
+      "Dot",
+      "Megabyte",
+      "Bob"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bob es el guardián que protege Mainframe."
+  },
+  {
+    "id": "s90-0312",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué país produjo la serie ReBoot?",
+    "options": [
+      "Canadá",
+      "Estados Unidos",
+      "Japón",
+      "Reino Unido"
+    ],
+    "correctIndex": 0,
+    "explanation": "ReBoot fue producida por el estudio canadiense Mainframe Entertainment."
+  },
+  {
+    "id": "s90-0313",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a Mitch Buchannon en Baywatch?",
+    "options": [
+      "David Charvet",
+      "David Hasselhoff",
+      "Jeremy Jackson",
+      "Parker Stevenson"
+    ],
+    "correctIndex": 1,
+    "explanation": "David Hasselhoff encabezó el reparto de Baywatch."
+  },
+  {
+    "id": "s90-0314",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz interpreta a C.J. Parker en Baywatch?",
+    "options": [
+      "Yasmine Bleeth",
+      "Carmen Electra",
+      "Pamela Anderson",
+      "Gena Lee Nolin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pamela Anderson interpretó a la socorrista C.J. Parker."
+  },
+  {
+    "id": "s90-0315",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a MacGyver?",
+    "options": [
+      "Kurt Russell",
+      "Harrison Ford",
+      "Mel Gibson",
+      "Richard Dean Anderson"
+    ],
+    "correctIndex": 3,
+    "explanation": "Richard Dean Anderson protagonizó MacGyver."
+  },
+  {
+    "id": "s90-0316",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cuál es el nombre completo de MacGyver?",
+    "options": [
+      "Angus MacGyver",
+      "Peter MacGyver",
+      "James MacGyver",
+      "Robert MacGyver"
+    ],
+    "correctIndex": 0,
+    "explanation": "El personaje se llama Angus MacGyver."
+  },
+  {
+    "id": "s90-0317",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién protagoniza María la del Barrio?",
+    "options": [
+      "Salma Hayek",
+      "Thalía",
+      "Verónica Castro",
+      "Lucero"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thalía interpretó a María, la joven que sale de la pobreza."
+  },
+  {
+    "id": "s90-0318",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué país se produjo María la del Barrio?",
+    "options": [
+      "Colombia",
+      "Venezuela",
+      "México",
+      "Argentina"
+    ],
+    "correctIndex": 2,
+    "explanation": "La telenovela fue producida por Televisa en México."
+  },
+  {
+    "id": "s90-0319",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el interés amoroso de María en María la del Barrio?",
+    "options": [
+      "Sebastián Vallejo",
+      "Armando Mendoza",
+      "Luis Miguel",
+      "Luis Fernando"
+    ],
+    "correctIndex": 3,
+    "explanation": "Luis Fernando de la Vega es el galán interpretado por Fernando Colunga."
+  },
+  {
+    "id": "s90-0320",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué año se estrenó María la del Barrio?",
+    "options": [
+      "1995",
+      "1992",
+      "1997",
+      "1999"
+    ],
+    "correctIndex": 0,
+    "explanation": "María la del Barrio se estrenó en 1995."
+  },
+  {
+    "id": "s90-0321",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la maestra de Carrusel?",
+    "options": [
+      "Laura",
+      "Xóchitl",
+      "Mónica",
+      "Carmen"
+    ],
+    "correctIndex": 1,
+    "explanation": "La señorita Xóchitl es la maestra del grupo de niños."
+  },
+  {
+    "id": "s90-0322",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué país se produjo Carrusel?",
+    "options": [
+      "Colombia",
+      "Venezuela",
+      "México",
+      "Argentina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Carrusel fue una producción mexicana de Televisa."
+  },
+  {
+    "id": "s90-0323",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la niña presumida de Carrusel?",
+    "options": [
+      "Xóchitl",
+      "Laura",
+      "Mónica",
+      "María Joaquina"
+    ],
+    "correctIndex": 3,
+    "explanation": "María Joaquina es la compañera engreída que se burla de Cirilo."
+  },
+  {
+    "id": "s90-0324",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién protagoniza Café con aroma de mujer?",
+    "options": [
+      "Margarita Rosa de Francisco",
+      "Ana María Orozco",
+      "Catherine Siachoque",
+      "Paola Turbay"
+    ],
+    "correctIndex": 0,
+    "explanation": "Margarita Rosa de Francisco interpretó a Gaviota."
+  },
+  {
+    "id": "s90-0325",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué país se produjo Café con aroma de mujer?",
+    "options": [
+      "México",
+      "Colombia",
+      "Venezuela",
+      "Brasil"
+    ],
+    "correctIndex": 1,
+    "explanation": "La telenovela colombiana se estrenó en 1994."
+  },
+  {
+    "id": "s90-0326",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el personaje de Margarita Rosa de Francisco en Café con aroma de mujer?",
+    "options": [
+      "Milagros",
+      "Betty",
+      "Gaviota",
+      "María"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gaviota es el apodo de Teresa Suárez, la recolectora de café."
+  },
+  {
+    "id": "s90-0327",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué año se estrenó Café con aroma de mujer?",
+    "options": [
+      "1992",
+      "1996",
+      "1999",
+      "1994"
+    ],
+    "correctIndex": 3,
+    "explanation": "Café con aroma de mujer se estrenó en 1994."
+  },
+  {
+    "id": "s90-0328",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién interpreta a Betty en Yo soy Betty, la fea?",
+    "options": [
+      "Ana María Orozco",
+      "Natalia Oreiro",
+      "Thalía",
+      "Margarita Rosa de Francisco"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ana María Orozco dio vida a Betty Pinzón."
+  },
+  {
+    "id": "s90-0329",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué país se produjo Yo soy Betty, la fea?",
+    "options": [
+      "México",
+      "Colombia",
+      "Venezuela",
+      "Argentina"
+    ],
+    "correctIndex": 1,
+    "explanation": "La telenovela fue producida por RCN Televisión en Colombia."
+  },
+  {
+    "id": "s90-0330",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la empresa donde trabaja Betty?",
+    "options": [
+      "Moda S.A.",
+      "Textiles Valdés",
+      "EcoModa",
+      "Grupo Mendoza"
+    ],
+    "correctIndex": 2,
+    "explanation": "Betty trabaja como secretaria en EcoModa."
+  },
+  {
+    "id": "s90-0331",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a Armando Mendoza?",
+    "options": [
+      "Fernando Colunga",
+      "Guy Ecker",
+      "Julián Arango",
+      "Jorge Enrique Abello"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jorge Enrique Abello interpretó al enamoradizo Armando Mendoza."
+  },
+  {
+    "id": "s90-0332",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué año se estrenó Yo soy Betty, la fea?",
+    "options": [
+      "1999",
+      "1995",
+      "1997",
+      "2001"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yo soy Betty, la fea se estrenó en 1999."
+  },
+  {
+    "id": "s90-0333",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué país se produjo Farmacia de guardia?",
+    "options": [
+      "México",
+      "España",
+      "Argentina",
+      "Colombia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Farmacia de guardia fue una serie española de los 90."
+  },
+  {
+    "id": "s90-0334",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué cadena se emitió Farmacia de guardia?",
+    "options": [
+      "Telecinco",
+      "TVE",
+      "Antena 3",
+      "La Sexta"
+    ],
+    "correctIndex": 2,
+    "explanation": "La serie se emitió en Antena 3 entre 1991 y 1995."
+  },
+  {
+    "id": "s90-0335",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz protagoniza Farmacia de guardia como Lourdes?",
+    "options": [
+      "Lina Morgan",
+      "Ana Duato",
+      "Amparo Baró",
+      "Concha Cuetos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Concha Cuetos interpretó a la farmacéutica Lourdes."
+  },
+  {
+    "id": "s90-0336",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor protagoniza Médico de familia?",
+    "options": [
+      "Emilio Aragón",
+      "Imanol Arias",
+      "Antonio Resines",
+      "Jordi Rebellón"
+    ],
+    "correctIndex": 0,
+    "explanation": "Emilio Aragón interpretó a Nacho Martín."
+  },
+  {
+    "id": "s90-0337",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué cadena se emitió Médico de familia?",
+    "options": [
+      "Antena 3",
+      "Telecinco",
+      "TVE",
+      "Cuatro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Médico de familia fue un éxito de Telecinco entre 1995 y 1999."
+  },
+  {
+    "id": "s90-0338",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el personaje de Emilio Aragón en Médico de familia?",
+    "options": [
+      "Javier Martín",
+      "Carlos Martín",
+      "Nacho Martín",
+      "Diego Serrano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nacho Martín es el médico viudo protagonista."
+  },
+  {
+    "id": "s90-0339",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién interpreta al Chavo del 8?",
+    "options": [
+      "Ramón Valdés",
+      "Carlos Villagrán",
+      "María Antonieta de las Nieves",
+      "Roberto Gómez Bolaños"
+    ],
+    "correctIndex": 3,
+    "explanation": "Roberto Gómez Bolaños creó y protagonizó al Chavo."
+  },
+  {
+    "id": "s90-0340",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la vecina del Chavo que es madre de Quico?",
+    "options": [
+      "Doña Florinda",
+      "Doña Clotilde",
+      "Doña Nieves",
+      "La Chilindrina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Doña Florinda vive frente al Chavo y protege a Quico."
+  },
+  {
+    "id": "s90-0341",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el dueño de la vecindad del Chavo?",
+    "options": [
+      "Profesor Jirafales",
+      "Señor Barriga",
+      "Don Ramón",
+      "Quico"
+    ],
+    "correctIndex": 1,
+    "explanation": "El señor Barriga es el propietario que cobra la renta."
+  },
+  {
+    "id": "s90-0342",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "Aunque se hizo masivo en los 90, ¿en qué década se produjo originalmente El Chavo del 8?",
+    "options": [
+      "Década de 1960",
+      "Década de 1980",
+      "Década de 1970",
+      "Década de 1990"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Chavo se produjo entre 1971 y 1980 y se repuso masivamente en los 90."
+  },
+  {
+    "id": "s90-0343",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién protagoniza La Usurpadora?",
+    "options": [
+      "Thalía",
+      "Ana María Orozco",
+      "Natalia Oreiro",
+      "Gabriela Spanic"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gabriela Spanic interpretó a las gemelas Paola y Paulina."
+  },
+  {
+    "id": "s90-0344",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué país se produjo La Usurpadora?",
+    "options": [
+      "Venezuela",
+      "México",
+      "Colombia",
+      "Brasil"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Usurpadora fue una producción venezolana."
+  },
+  {
+    "id": "s90-0345",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué cadena produjo La Usurpadora en 1998?",
+    "options": [
+      "RCTV",
+      "Venevisión",
+      "Televisa",
+      "Caracol Televisión"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Usurpadora fue producida por Venevisión."
+  },
+  {
+    "id": "s90-0346",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién protagoniza Esmeralda, la telenovela mexicana de 1997?",
+    "options": [
+      "Thalía",
+      "Adela Noriega",
+      "Leticia Calderón",
+      "Lucero"
+    ],
+    "correctIndex": 2,
+    "explanation": "Leticia Calderón interpretó a Esmeralda."
+  },
+  {
+    "id": "s90-0347",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué país se produjo Chiquititas?",
+    "options": [
+      "México",
+      "Venezuela",
+      "Colombia",
+      "Argentina"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chiquititas fue una producción argentina pensada para el público infantil."
+  },
+  {
+    "id": "s90-0348",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién creó Chiquititas?",
+    "options": [
+      "Cris Morena",
+      "Marcelo Tinelli",
+      "Adrián Suar",
+      "Gustavo Yankelevich"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cris Morena creó la serie y compuso muchas de sus canciones."
+  },
+  {
+    "id": "s90-0349",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién protagoniza Muñeca Brava?",
+    "options": [
+      "Thalía",
+      "Natalia Oreiro",
+      "Gabriela Spanic",
+      "Ana María Orozco"
+    ],
+    "correctIndex": 1,
+    "explanation": "Natalia Oreiro interpretó a Milagros Esposito."
+  },
+  {
+    "id": "s90-0350",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor coprotagoniza Muñeca Brava junto a Natalia Oreiro?",
+    "options": [
+      "Fernando Colunga",
+      "Jorge Enrique Abello",
+      "Facundo Arana",
+      "Guy Ecker"
+    ],
+    "correctIndex": 2,
+    "explanation": "Facundo Arana interpretó a Ivo Di Carlo."
+  }
+]

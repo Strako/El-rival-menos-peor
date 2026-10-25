@@ -1,0 +1,4902 @@
+[
+  {
+    "id": "vg-0001",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el fontanero protagonista de la saga Super Mario?",
+    "options": [
+      "Luigi",
+      "Mario",
+      "Wario",
+      "Toad"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mario es el personaje principal y emblema de Nintendo."
+  },
+  {
+    "id": "vg-0002",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el hermano de Mario?",
+    "options": [
+      "Luigi",
+      "Toad",
+      "Yoshi",
+      "Bowser"
+    ],
+    "correctIndex": 0,
+    "explanation": "Luigi es el hermano menor de Mario y protagonista de Luigi's Mansion."
+  },
+  {
+    "id": "vg-0003",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la princesa del Reino Champiñón en la saga Mario?",
+    "options": [
+      "Zelda",
+      "Daisy",
+      "Peach",
+      "Samus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Peach gobierna el Reino Champiñón y suele ser rescatada por Mario."
+  },
+  {
+    "id": "vg-0004",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de animal es Yoshi?",
+    "options": [
+      "Un dragón",
+      "Una tortuga",
+      "Un caballo",
+      "Un dinosaurio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Yoshi es un dinosaurio verde que acompaña a Mario."
+  },
+  {
+    "id": "vg-0005",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Quién es el principal villano de la saga Super Mario?",
+    "options": [
+      "Bowser",
+      "Ganondorf",
+      "Dr. Eggman",
+      "Sephiroth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bowser es el rey de los Koopas y antagonista habitual de Mario."
+  },
+  {
+    "id": "vg-0006",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el protagonista de la saga The Legend of Zelda?",
+    "options": [
+      "Zelda",
+      "Ganon",
+      "Link",
+      "Navi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Link es el héroe que porta la Espada Maestra en la saga Zelda."
+  },
+  {
+    "id": "vg-0007",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el reino donde transcurren la mayoría de los juegos de Zelda?",
+    "options": [
+      "Kanto",
+      "Midgar",
+      "Hyrule",
+      "Reino Champiñón"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hyrule es el reino ficticio de la saga The Legend of Zelda."
+  },
+  {
+    "id": "vg-0008",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué reliquia formada por tres triángulos aparece en la saga Zelda?",
+    "options": [
+      "La Espada Maestra",
+      "El Escudo Hyliano",
+      "La Ocarina del Tiempo",
+      "La Trifuerza"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Trifuerza representa el poder, la sabiduría y el valor."
+  },
+  {
+    "id": "vg-0009",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el caballo de Link?",
+    "options": [
+      "Agro",
+      "Roach",
+      "Bullseye",
+      "Epona"
+    ],
+    "correctIndex": 3,
+    "explanation": "Epona es la yegua que Link monta en varios juegos de la saga."
+  },
+  {
+    "id": "vg-0010",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué Pokémon es la mascota más reconocida de la franquicia?",
+    "options": [
+      "Charmander",
+      "Pikachu",
+      "Bulbasaur",
+      "Squirtle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pikachu se convirtió en la mascota oficial de Pokémon."
+  },
+  {
+    "id": "vg-0011",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿De qué tipo es Pikachu?",
+    "options": [
+      "Fuego",
+      "Agua",
+      "Eléctrico",
+      "Planta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pikachu es un Pokémon de tipo eléctrico."
+  },
+  {
+    "id": "vg-0012",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el profesor que entrega el primer Pokémon en la región de Kanto?",
+    "options": [
+      "El profesor Oak",
+      "El profesor Elm",
+      "El profesor Birch",
+      "El profesor Rowan"
+    ],
+    "correctIndex": 0,
+    "explanation": "El profesor Oak entrega a los jugadores su primer Pokémon en Kanto."
+  },
+  {
+    "id": "vg-0013",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la organización villana de la primera generación de Pokémon?",
+    "options": [
+      "Team Magma",
+      "Team Rocket",
+      "Team Aqua",
+      "Team Galactic"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Team Rocket roba Pokémon y persigue a Ash y sus amigos."
+  },
+  {
+    "id": "vg-0014",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿En qué consola debutó la saga Pokémon?",
+    "options": [
+      "NES",
+      "Super Nintendo",
+      "Game Gear",
+      "Game Boy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pokémon Rojo y Verde se lanzaron para Game Boy en Japón."
+  },
+  {
+    "id": "vg-0015",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de animal es Sonic?",
+    "options": [
+      "Un erizo",
+      "Un zorro",
+      "Un puercoespín",
+      "Un conejo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sonic es un erizo azul conocido por su velocidad."
+  },
+  {
+    "id": "vg-0016",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cuál es el color característico de Sonic?",
+    "options": [
+      "Rojo",
+      "Verde",
+      "Azul",
+      "Amarillo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El diseño clásico de Sonic es un erizo azul con zapatillas rojas."
+  },
+  {
+    "id": "vg-0017",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el zorro de dos colas que acompaña a Sonic?",
+    "options": [
+      "Knuckles",
+      "Tails",
+      "Amy",
+      "Shadow"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tails es el fiel compañero de Sonic y puede volar con sus dos colas."
+  },
+  {
+    "id": "vg-0018",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el principal enemigo de Sonic?",
+    "options": [
+      "Bowser",
+      "Dr. Wily",
+      "Dr. Eggman",
+      "M. Bison"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Dr. Eggman, también llamado Robotnik, es el villano principal de Sonic."
+  },
+  {
+    "id": "vg-0019",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿A qué género pertenece Super Mario Bros.?",
+    "options": [
+      "Plataformas",
+      "RPG",
+      "Lucha",
+      "Terror"
+    ],
+    "correctIndex": 0,
+    "explanation": "Super Mario Bros. es uno de los grandes referentes del género de plataformas."
+  },
+  {
+    "id": "vg-0020",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué significa la sigla RPG?",
+    "options": [
+      "Juego de carreras",
+      "Juego de rol",
+      "Juego de disparos",
+      "Juego de estrategia"
+    ],
+    "correctIndex": 1,
+    "explanation": "RPG viene de role-playing game, es decir, juego de rol."
+  },
+  {
+    "id": "vg-0021",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿A qué género pertenece Space Invaders?",
+    "options": [
+      "Puzzle",
+      "Carreras",
+      "Deportes",
+      "Matamarcianos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Space Invaders es un clásico matamarcianos de arcade."
+  },
+  {
+    "id": "vg-0022",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego arcade consiste en mover una paleta para devolver una pelota?",
+    "options": [
+      "Pong",
+      "Pac-Man",
+      "Asteroids",
+      "Frogger"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pong simulaba tenis de mesa con dos paletas y una pelota."
+  },
+  {
+    "id": "vg-0023",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué personaje come puntos mientras es perseguido por fantasmas?",
+    "options": [
+      "Bomberman",
+      "Kirby",
+      "Dig Dug",
+      "Pac-Man"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pac-Man recorre laberintos comiendo puntos y huyendo de los fantasmas."
+  },
+  {
+    "id": "vg-0024",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de puzzle consiste en encajar piezas que caen?",
+    "options": [
+      "Tetris",
+      "Ajedrez",
+      "Buscaminas",
+      "Sudoku"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tetris consiste en encajar tetrominós que descienden por la pantalla."
+  },
+  {
+    "id": "vg-0025",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola portátil lanzó Nintendo en 1989?",
+    "options": [
+      "Game Gear",
+      "Game Boy",
+      "Atari Lynx",
+      "Sega Nomad"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Game Boy llegó al mercado japonés en 1989."
+  },
+  {
+    "id": "vg-0026",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de naves de Nintendo protagoniza Fox McCloud?",
+    "options": [
+      "Metroid",
+      "Star Fox",
+      "F-Zero",
+      "Kirby"
+    ],
+    "correctIndex": 1,
+    "explanation": "Star Fox es la saga de combate espacial liderada por Fox McCloud."
+  },
+  {
+    "id": "vg-0027",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué personaje rosado absorbe a sus enemigos en sus juegos?",
+    "options": [
+      "Jigglypuff",
+      "Toad",
+      "Yoshi",
+      "Kirby"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kirby puede inhalar enemigos y copiar sus habilidades."
+  },
+  {
+    "id": "vg-0028",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la cazarrecompensas protagonista de Metroid?",
+    "options": [
+      "Lara Croft",
+      "Jill Valentine",
+      "Alucard",
+      "Samus Aran"
+    ],
+    "correctIndex": 3,
+    "explanation": "Samus Aran es la protagonista de la saga Metroid."
+  },
+  {
+    "id": "vg-0029",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué villano clásico aparece en la saga Castlevania?",
+    "options": [
+      "Bowser",
+      "Ganon",
+      "Dr. Eggman",
+      "Drácula"
+    ],
+    "correctIndex": 3,
+    "explanation": "El conde Drácula es el enemigo recurrente de Castlevania."
+  },
+  {
+    "id": "vg-0030",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿A qué género pertenece Street Fighter?",
+    "options": [
+      "Plataformas",
+      "RPG",
+      "Lucha",
+      "Puzzle"
+    ],
+    "correctIndex": 2,
+    "explanation": "Street Fighter es una de las sagas fundadoras de la lucha uno contra uno."
+  },
+  {
+    "id": "vg-0031",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el luchador de gi blanco y cinta roja de Street Fighter?",
+    "options": [
+      "Ryu",
+      "Ken",
+      "Guile",
+      "Zangief"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ryu viste gi blanco y cinta roja, y es el rostro de Street Fighter."
+  },
+  {
+    "id": "vg-0032",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la técnica de bola de fuego de Ryu?",
+    "options": [
+      "Shoryuken",
+      "Tatsumaki Senpukyaku",
+      "Kikoken",
+      "Hadouken"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Hadouken es la técnica de energía proyectada de Ryu."
+  },
+  {
+    "id": "vg-0033",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué saga de lucha es famosa por sus fatalities?",
+    "options": [
+      "Street Fighter",
+      "Tekken",
+      "Mortal Kombat",
+      "Virtua Fighter"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mortal Kombat popularizó los fatalities al final de los combates."
+  },
+  {
+    "id": "vg-0034",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿De qué color viste el ninja Sub-Zero en Mortal Kombat?",
+    "options": [
+      "Amarillo",
+      "Azul",
+      "Verde",
+      "Rojo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sub-Zero viste de azul y controla el hielo."
+  },
+  {
+    "id": "vg-0035",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué ninja de Mortal Kombat lanza un arpón y dice \"Get over here!\"?",
+    "options": [
+      "Sub-Zero",
+      "Liu Kang",
+      "Raiden",
+      "Scorpion"
+    ],
+    "correctIndex": 3,
+    "explanation": "Scorpion usa un arpón y su famosa frase \"Get over here!\"."
+  },
+  {
+    "id": "vg-0036",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué personaje de Nintendo es un simio que lleva corbata roja?",
+    "options": [
+      "Diddy Kong",
+      "Cranky Kong",
+      "Funky Kong",
+      "Donkey Kong"
+    ],
+    "correctIndex": 3,
+    "explanation": "Donkey Kong es el simio protagonista con corbata roja."
+  },
+  {
+    "id": "vg-0037",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego arcade de 1981 protagoniza un simio que lanza barriles?",
+    "options": [
+      "Pac-Man",
+      "Donkey Kong",
+      "Frogger",
+      "Q*bert"
+    ],
+    "correctIndex": 1,
+    "explanation": "Donkey Kong enfrentó a Jumpman contra un simio que lanzaba barriles."
+  },
+  {
+    "id": "vg-0038",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola de Nintendo sucedió a la NES?",
+    "options": [
+      "Nintendo 64",
+      "GameCube",
+      "Wii",
+      "Super Nintendo"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Super Nintendo fue la sucesora de 16 bits de la NES."
+  },
+  {
+    "id": "vg-0039",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola de 64 bits lanzó Nintendo en 1996?",
+    "options": [
+      "Nintendo 64",
+      "Super Nintendo",
+      "GameCube",
+      "Sega Saturn"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Nintendo 64 se lanzó en Japón en 1996."
+  },
+  {
+    "id": "vg-0040",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola portátil de Nintendo tiene dos pantallas?",
+    "options": [
+      "Game Boy Advance",
+      "PlayStation Portable",
+      "Nintendo DS",
+      "Nintendo 3DS"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Nintendo DS se caracteriza por sus dos pantallas."
+  },
+  {
+    "id": "vg-0041",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola de Sega competía directamente con la Super Nintendo?",
+    "options": [
+      "Sega Saturn",
+      "Sega Genesis",
+      "Dreamcast",
+      "Master System"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Sega Genesis, llamada Mega Drive en Europa y Japón, rivalizó con la SNES."
+  },
+  {
+    "id": "vg-0042",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cuál fue la última consola de sobremesa fabricada por Sega?",
+    "options": [
+      "Saturn",
+      "Mega Drive",
+      "Dreamcast",
+      "Master System"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Dreamcast fue el último hardware de sobremesa de Sega."
+  },
+  {
+    "id": "vg-0043",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿A qué género pertenece Final Fantasy?",
+    "options": [
+      "Lucha",
+      "RPG",
+      "Plataformas",
+      "Deportes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Final Fantasy es una de las sagas de rol más conocidas."
+  },
+  {
+    "id": "vg-0044",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el pájaro amarillo gigante de Final Fantasy?",
+    "options": [
+      "Chocobo",
+      "Moogle",
+      "Cactuar",
+      "Tonberry"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los chocobos son aves amarillas que se pueden montar en Final Fantasy."
+  },
+  {
+    "id": "vg-0045",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué criatura blanca con alas y pompón aparece en Final Fantasy?",
+    "options": [
+      "Moogle",
+      "Chocobo",
+      "Slime",
+      "Cactuar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los moogles son criaturas blancas con alas y un pompón en la cabeza."
+  },
+  {
+    "id": "vg-0046",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la criatura azul con forma de gota de Dragon Quest?",
+    "options": [
+      "Chocobo",
+      "Slime",
+      "Moogle",
+      "Goomba"
+    ],
+    "correctIndex": 1,
+    "explanation": "El slime es el monstruo más emblemático de Dragon Quest."
+  },
+  {
+    "id": "vg-0047",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué robot azul es el protagonista de la saga de Capcom?",
+    "options": [
+      "Mega Man",
+      "Proto Man",
+      "Bass",
+      "Roll"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mega Man es el robot azul creado por el Dr. Light."
+  },
+  {
+    "id": "vg-0048",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el villano principal de la saga Mega Man?",
+    "options": [
+      "Dr. Wily",
+      "Dr. Light",
+      "Bowser",
+      "Ganon"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Dr. Wily es el científico rival que crea a los robots enemigos."
+  },
+  {
+    "id": "vg-0049",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué personaje coloca bombas para abrirse camino en sus juegos?",
+    "options": [
+      "Pac-Man",
+      "Kirby",
+      "Bomberman",
+      "Mega Man"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bomberman usa bombas para derrotar enemigos y abrir pasajes."
+  },
+  {
+    "id": "vg-0050",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Quién es el protagonista de Metal Gear Solid de 1998?",
+    "options": [
+      "Big Boss",
+      "Raiden",
+      "Solid Snake",
+      "Liquid Snake"
+    ],
+    "correctIndex": 2,
+    "explanation": "Solid Snake es el protagonista de Metal Gear Solid."
+  },
+  {
+    "id": "vg-0051",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué compañía desarrolló la saga Metal Gear?",
+    "options": [
+      "Capcom",
+      "Sega",
+      "Konami",
+      "Square"
+    ],
+    "correctIndex": 2,
+    "explanation": "Metal Gear es una franquicia de Konami creada por Hideo Kojima."
+  },
+  {
+    "id": "vg-0052",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué compañía desarrolló Street Fighter?",
+    "options": [
+      "Konami",
+      "SNK",
+      "Capcom",
+      "Namco"
+    ],
+    "correctIndex": 2,
+    "explanation": "Street Fighter es una franquicia de Capcom."
+  },
+  {
+    "id": "vg-0053",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué compañía creó a Sonic?",
+    "options": [
+      "Nintendo",
+      "Sega",
+      "Capcom",
+      "Konami"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sonic es la mascota de Sega."
+  },
+  {
+    "id": "vg-0054",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué compañía creó a Mario?",
+    "options": [
+      "Sega",
+      "Capcom",
+      "Atari",
+      "Nintendo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mario nació en los arcades de Nintendo."
+  },
+  {
+    "id": "vg-0055",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué compañía fabricó la consola Atari 2600?",
+    "options": [
+      "Nintendo",
+      "Sega",
+      "Mattel",
+      "Atari"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Atari 2600 fue fabricada por Atari."
+  },
+  {
+    "id": "vg-0056",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de 1972 popularizó el tenis de mesa electrónico en los arcades?",
+    "options": [
+      "Asteroids",
+      "Pong",
+      "Breakout",
+      "Space Invaders"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pong fue el gran éxito arcade de Atari en 1972."
+  },
+  {
+    "id": "vg-0057",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué se insertaba en las máquinas arcade para poder jugar?",
+    "options": [
+      "Monedas",
+      "Cartuchos",
+      "Discos compactos",
+      "Mandos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las máquinas arcade funcionaban con monedas o fichas."
+  },
+  {
+    "id": "vg-0058",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué elemento direccional popularizó el mando de la NES?",
+    "options": [
+      "La palanca analógica",
+      "La cruz direccional",
+      "El volante",
+      "La pistola de luz"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nintendo popularizó la cruz direccional con la NES."
+  },
+  {
+    "id": "vg-0059",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué accesorio de la NES permitía disparar a la pantalla?",
+    "options": [
+      "El Super Scope",
+      "El Power Glove",
+      "El robot R.O.B.",
+      "La pistola Zapper"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Zapper era la pistola de luz de la NES."
+  },
+  {
+    "id": "vg-0060",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de NES usa una pistola para disparar a patos?",
+    "options": [
+      "Hogan's Alley",
+      "Wild Gunman",
+      "Excitebike",
+      "Duck Hunt"
+    ],
+    "correctIndex": 3,
+    "explanation": "Duck Hunt usaba la Zapper para cazar patos en pantalla."
+  },
+  {
+    "id": "vg-0061",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola portátil de Sega competía con la Game Boy?",
+    "options": [
+      "Sega Nomad",
+      "Saturn",
+      "Master System",
+      "Game Gear"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Game Gear fue la portátil de Sega con pantalla a color."
+  },
+  {
+    "id": "vg-0062",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de carreras futuristas de Nintendo debutó en la Super Nintendo?",
+    "options": [
+      "Mario Kart",
+      "Star Fox",
+      "Pilotwings",
+      "F-Zero"
+    ],
+    "correctIndex": 3,
+    "explanation": "F-Zero inauguró las carreras futuristas en la Super Nintendo."
+  },
+  {
+    "id": "vg-0063",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué personaje es un mapache tendero en Animal Crossing?",
+    "options": [
+      "K.K. Slider",
+      "Isabelle",
+      "Tom Nook",
+      "Resetti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tom Nook regenta la tienda y gestiona las hipotecas del pueblo."
+  },
+  {
+    "id": "vg-0064",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué saga de Nintendo trata de cultivar pequeñas criaturas vegetales?",
+    "options": [
+      "Splatoon",
+      "Pikmin",
+      "Kirby",
+      "Chibi-Robo"
+    ],
+    "correctIndex": 1,
+    "explanation": "En Pikmin el jugador cultiva y dirige criaturas vegetales."
+  },
+  {
+    "id": "vg-0065",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué saga de disparos de Nintendo usa tinta de colores como munición?",
+    "options": [
+      "Pikmin",
+      "Metroid",
+      "Splatoon",
+      "Star Fox"
+    ],
+    "correctIndex": 2,
+    "explanation": "Splatoon enfrenta equipos que cubren el escenario con tinta."
+  },
+  {
+    "id": "vg-0066",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué mando de Nintendo funciona con sensores de movimiento?",
+    "options": [
+      "Mando de GameCube",
+      "Wii Remote",
+      "Mando de N64",
+      "Mando de SNES"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Wii Remote detecta el movimiento del jugador."
+  },
+  {
+    "id": "vg-0067",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola de Sega usaba cartuchos y competía con la NES?",
+    "options": [
+      "Game Gear",
+      "Saturn",
+      "Dreamcast",
+      "Master System"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Master System fue la consola de 8 bits de Sega."
+  },
+  {
+    "id": "vg-0068",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué es un cartucho en las consolas antiguas?",
+    "options": [
+      "Un mando adicional",
+      "Un cable de vídeo",
+      "Un dispositivo que contiene el juego",
+      "Una tarjeta de memoria"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los cartuchos alojaban la ROM del juego y se insertaban en la consola."
+  },
+  {
+    "id": "vg-0069",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué botón de la NES se usa para que Mario salte?",
+    "options": [
+      "A",
+      "Start",
+      "Select",
+      "B"
+    ],
+    "correctIndex": 0,
+    "explanation": "En Super Mario Bros. el botón A hace saltar a Mario."
+  },
+  {
+    "id": "vg-0070",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué significa \"arcade\" en español?",
+    "options": [
+      "Consola portátil",
+      "Tienda de cartuchos",
+      "Salón de máquinas recreativas",
+      "Torneo de cartas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un arcade es un local con máquinas recreativas de pago."
+  },
+  {
+    "id": "vg-0071",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué juego apareció por primera vez Mario, entonces llamado Jumpman?",
+    "options": [
+      "Super Mario Bros.",
+      "Donkey Kong",
+      "Mario Bros.",
+      "Pac-Man"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mario debutó como Jumpman en el arcade Donkey Kong de 1981."
+  },
+  {
+    "id": "vg-0072",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué diseñador japonés creó a Mario y a Link?",
+    "options": [
+      "Gunpei Yokoi",
+      "Shigeru Miyamoto",
+      "Satoshi Tajiri",
+      "Hironobu Sakaguchi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Shigeru Miyamoto creó tanto a Mario como a Link."
+  },
+  {
+    "id": "vg-0073",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó Super Mario Bros. en la NES?",
+    "options": [
+      "1983",
+      "1985",
+      "1987",
+      "1990"
+    ],
+    "correctIndex": 1,
+    "explanation": "Super Mario Bros. llegó a la NES en 1985."
+  },
+  {
+    "id": "vg-0074",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó Super Mario World?",
+    "options": [
+      "NES",
+      "Nintendo 64",
+      "Super Nintendo",
+      "Game Boy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Super Mario World fue un título de lanzamiento de la Super Nintendo."
+  },
+  {
+    "id": "vg-0075",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué juego fue el primer Super Mario en 3D?",
+    "options": [
+      "Super Mario Sunshine",
+      "Super Mario Galaxy",
+      "Super Mario 64",
+      "Super Mario 3D Land"
+    ],
+    "correctIndex": 2,
+    "explanation": "Super Mario 64 trasladó la saga al entorno tridimensional."
+  },
+  {
+    "id": "vg-0076",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola se lanzó Super Mario Sunshine?",
+    "options": [
+      "Nintendo 64",
+      "Wii",
+      "GameCube",
+      "Nintendo DS"
+    ],
+    "correctIndex": 2,
+    "explanation": "Super Mario Sunshine fue exclusivo de GameCube."
+  },
+  {
+    "id": "vg-0077",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó la saga Mario Kart?",
+    "options": [
+      "Super Nintendo",
+      "Nintendo 64",
+      "Game Boy",
+      "GameCube"
+    ],
+    "correctIndex": 0,
+    "explanation": "Super Mario Kart se lanzó en la Super Nintendo en 1992."
+  },
+  {
+    "id": "vg-0078",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó la saga Mario Party?",
+    "options": [
+      "Nintendo 64",
+      "GameCube",
+      "Super Nintendo",
+      "Wii"
+    ],
+    "correctIndex": 0,
+    "explanation": "El primer Mario Party se lanzó en Nintendo 64."
+  },
+  {
+    "id": "vg-0079",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué juego debutó Wario como antagonista de Mario?",
+    "options": [
+      "Super Mario Land 2",
+      "Super Mario World",
+      "Super Mario Bros. 3",
+      "Wario Land"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wario apareció por primera vez en Super Mario Land 2 para Game Boy."
+  },
+  {
+    "id": "vg-0080",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio británico desarrolló Donkey Kong Country?",
+    "options": [
+      "Retro Studios",
+      "Nintendo EAD",
+      "Rare",
+      "Sega"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rare desarrolló Donkey Kong Country para Nintendo."
+  },
+  {
+    "id": "vg-0081",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó el primer The Legend of Zelda en Japón?",
+    "options": [
+      "1983",
+      "1986",
+      "1989",
+      "1991"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Legend of Zelda se lanzó en Japón en 1986."
+  },
+  {
+    "id": "vg-0082",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola se lanzó The Legend of Zelda: Ocarina of Time?",
+    "options": [
+      "Super Nintendo",
+      "GameCube",
+      "Nintendo 64",
+      "Game Boy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ocarina of Time se lanzó en Nintendo 64 en 1998."
+  },
+  {
+    "id": "vg-0083",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué juego de Zelda para Nintendo 64 usa una máscara y un ciclo de tres días?",
+    "options": [
+      "Majora's Mask",
+      "Ocarina of Time",
+      "Wind Waker",
+      "Twilight Princess"
+    ],
+    "correctIndex": 0,
+    "explanation": "Majora's Mask gira en torno a un ciclo repetido de tres días."
+  },
+  {
+    "id": "vg-0084",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó The Legend of Zelda: The Wind Waker?",
+    "options": [
+      "GameCube",
+      "Nintendo 64",
+      "Wii",
+      "Nintendo DS"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Wind Waker se lanzó originalmente en GameCube."
+  },
+  {
+    "id": "vg-0085",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cuál es el subtítulo de Zelda II para NES?",
+    "options": [
+      "A Link to the Past",
+      "Link's Awakening",
+      "The Adventure of Link",
+      "The Minish Cap"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zelda II: The Adventure of Link es la segunda entrega de la saga."
+  },
+  {
+    "id": "vg-0086",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio desarrolló los primeros juegos de Pokémon?",
+    "options": [
+      "Creatures",
+      "Game Freak",
+      "HAL Laboratory",
+      "Intelligent Systems"
+    ],
+    "correctIndex": 1,
+    "explanation": "Game Freak creó Pokémon Rojo y Verde."
+  },
+  {
+    "id": "vg-0087",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzaron Pokémon Red y Green en Japón?",
+    "options": [
+      "1990",
+      "1998",
+      "1996",
+      "2000"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pokémon Rojo y Verde llegaron a Game Boy en 1996."
+  },
+  {
+    "id": "vg-0088",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la región de los primeros juegos de Pokémon?",
+    "options": [
+      "Johto",
+      "Hoenn",
+      "Kanto",
+      "Sinnoh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kanto es la región de la primera generación de Pokémon."
+  },
+  {
+    "id": "vg-0089",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién creó la franquicia Pokémon?",
+    "options": [
+      "Shigeru Miyamoto",
+      "Satoru Iwata",
+      "Satoshi Tajiri",
+      "Ken Sugimori"
+    ],
+    "correctIndex": 2,
+    "explanation": "Satoshi Tajiri ideó Pokémon y fundó Game Freak."
+  },
+  {
+    "id": "vg-0090",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año debutó Sonic the Hedgehog en Mega Drive?",
+    "options": [
+      "1989",
+      "1993",
+      "1991",
+      "1995"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sonic the Hedgehog se lanzó en 1991."
+  },
+  {
+    "id": "vg-0091",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué equipo interno de Sega desarrolló Sonic the Hedgehog?",
+    "options": [
+      "AM2",
+      "Team Andromeda",
+      "Sonic Team",
+      "Smilebit"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sonic Team se formó para crear la saga Sonic."
+  },
+  {
+    "id": "vg-0092",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Con qué nombre se vendió la Sega Genesis en Japón?",
+    "options": [
+      "Master System",
+      "Mega Drive",
+      "Saturn",
+      "Mega CD"
+    ],
+    "correctIndex": 1,
+    "explanation": "En Japón la Sega Genesis se llamó Mega Drive."
+  },
+  {
+    "id": "vg-0093",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó la Sega Saturn en Japón?",
+    "options": [
+      "1991",
+      "1996",
+      "1998",
+      "1994"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Sega Saturn llegó al mercado japonés en 1994."
+  },
+  {
+    "id": "vg-0094",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó la Dreamcast en Japón?",
+    "options": [
+      "1995",
+      "1998",
+      "1997",
+      "2000"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Dreamcast se lanzó en Japón en 1998."
+  },
+  {
+    "id": "vg-0095",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué personaje debutó en Sonic the Hedgehog 2?",
+    "options": [
+      "Tails",
+      "Knuckles",
+      "Amy Rose",
+      "Shadow"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tails apareció por primera vez en Sonic the Hedgehog 2."
+  },
+  {
+    "id": "vg-0096",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué juego debutó Knuckles the Echidna?",
+    "options": [
+      "Sonic 2",
+      "Sonic CD",
+      "Sonic the Hedgehog 3",
+      "Sonic Adventure"
+    ],
+    "correctIndex": 2,
+    "explanation": "Knuckles debutó en Sonic the Hedgehog 3."
+  },
+  {
+    "id": "vg-0097",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué juego de Dreamcast se centra en la venganza de Ryo Hazuki?",
+    "options": [
+      "Shenmue",
+      "Crazy Taxi",
+      "Jet Set Radio",
+      "Sonic Adventure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shenmue narra la búsqueda de venganza de Ryo Hazuki."
+  },
+  {
+    "id": "vg-0098",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién fundó Atari junto a Ted Dabney en 1972?",
+    "options": [
+      "Ralph Baer",
+      "Nolan Bushnell",
+      "Al Alcorn",
+      "Shigeru Miyamoto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nolan Bushnell y Ted Dabney fundaron Atari en 1972."
+  },
+  {
+    "id": "vg-0099",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué juego de Atari 2600 basado en una película se asoció al desplome de 1983?",
+    "options": [
+      "E.T. the Extra-Terrestrial",
+      "Pac-Man",
+      "Combat",
+      "Adventure"
+    ],
+    "correctIndex": 0,
+    "explanation": "El juego de E.T. para Atari 2600 fue un fracaso durante la crisis de 1983."
+  },
+  {
+    "id": "vg-0100",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año ocurrió la gran crisis del videojuego en Norteamérica?",
+    "options": [
+      "1983",
+      "1977",
+      "1985",
+      "1991"
+    ],
+    "correctIndex": 0,
+    "explanation": "La industria sufrió un fuerte desplome en Norteamérica en 1983."
+  },
+  {
+    "id": "vg-0101",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué compañía japonesa creó Space Invaders?",
+    "options": [
+      "Namco",
+      "Taito",
+      "Atari",
+      "Konami"
+    ],
+    "correctIndex": 1,
+    "explanation": "Space Invaders fue creado por Taito en 1978."
+  },
+  {
+    "id": "vg-0102",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién diseñó el personaje de Pac-Man?",
+    "options": [
+      "Shigeru Miyamoto",
+      "Toru Iwatani",
+      "Nolan Bushnell",
+      "Hironobu Sakaguchi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Toru Iwatani diseñó a Pac-Man para Namco."
+  },
+  {
+    "id": "vg-0103",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién creó el Tetris?",
+    "options": [
+      "Alexéi Pázhitnov",
+      "Toru Iwatani",
+      "Satoshi Tajiri",
+      "Gunpei Yokoi"
+    ],
+    "correctIndex": 0,
+    "explanation": "El programador soviético Alexéi Pázhitnov creó Tetris en 1984."
+  },
+  {
+    "id": "vg-0104",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué consola popularizó Tetris como juego incluido en Europa y América?",
+    "options": [
+      "Game Boy",
+      "NES",
+      "Game Gear",
+      "Sega Saturn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tetris se vendió junto a la Game Boy en Occidente."
+  },
+  {
+    "id": "vg-0105",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué consola se considera la primera videoconsola doméstica?",
+    "options": [
+      "Magnavox Odyssey",
+      "Atari 2600",
+      "NES",
+      "ColecoVision"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Magnavox Odyssey llegó al mercado en 1972."
+  },
+  {
+    "id": "vg-0106",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué ingeniero de Nintendo creó la Game Boy?",
+    "options": [
+      "Shigeru Miyamoto",
+      "Satoru Iwata",
+      "Genyo Takeda",
+      "Gunpei Yokoi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gunpei Yokoi diseñó la Game Boy y el Virtual Boy."
+  },
+  {
+    "id": "vg-0107",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llamaba la NES en Japón?",
+    "options": [
+      "Super Famicom",
+      "Famicom Disk System",
+      "Nintendo 64",
+      "Famicom"
+    ],
+    "correctIndex": 3,
+    "explanation": "La NES se llamó Family Computer, o Famicom, en Japón."
+  },
+  {
+    "id": "vg-0108",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llamaba la Super Nintendo en Japón?",
+    "options": [
+      "Famicom",
+      "Super Famicom",
+      "Nintendo 64",
+      "Satellaview"
+    ],
+    "correctIndex": 1,
+    "explanation": "En Japón la Super Nintendo se llamó Super Famicom."
+  },
+  {
+    "id": "vg-0109",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué consola de Nintendo popularizó el stick analógico en su mando?",
+    "options": [
+      "Nintendo 64",
+      "Super Nintendo",
+      "GameCube",
+      "Wii"
+    ],
+    "correctIndex": 0,
+    "explanation": "El mando de Nintendo 64 incorporó un stick analógico central."
+  },
+  {
+    "id": "vg-0110",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó la GameCube?",
+    "options": [
+      "2001",
+      "1998",
+      "2003",
+      "2006"
+    ],
+    "correctIndex": 0,
+    "explanation": "La GameCube se lanzó en 2001."
+  },
+  {
+    "id": "vg-0111",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año llegó Street Fighter II a los arcades?",
+    "options": [
+      "1987",
+      "1993",
+      "1995",
+      "1991"
+    ],
+    "correctIndex": 3,
+    "explanation": "Street Fighter II se lanzó en arcades en 1991."
+  },
+  {
+    "id": "vg-0112",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué personaje femenino debutó en Street Fighter II?",
+    "options": [
+      "Cammy",
+      "Chun-Li",
+      "Sakura",
+      "Rose"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chun-Li fue la primera luchadora jugable de Street Fighter II."
+  },
+  {
+    "id": "vg-0113",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el dictador villano de Street Fighter II?",
+    "options": [
+      "Vega",
+      "M. Bison",
+      "Sagat",
+      "Akuma"
+    ],
+    "correctIndex": 1,
+    "explanation": "M. Bison es el jefe final de Street Fighter II en Occidente."
+  },
+  {
+    "id": "vg-0114",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué compañía desarrolló Mortal Kombat?",
+    "options": [
+      "Midway",
+      "Capcom",
+      "SNK",
+      "Namco"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mortal Kombat fue creado por Midway en 1992."
+  },
+  {
+    "id": "vg-0115",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año debutó Mega Man en la NES?",
+    "options": [
+      "1985",
+      "1989",
+      "1991",
+      "1987"
+    ],
+    "correctIndex": 3,
+    "explanation": "El primer Mega Man se lanzó en NES en 1987."
+  },
+  {
+    "id": "vg-0116",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué sistema debutó Metal Gear en 1987?",
+    "options": [
+      "MSX2",
+      "NES",
+      "Mega Drive",
+      "Game Boy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Metal Gear se diseñó originalmente para MSX2."
+  },
+  {
+    "id": "vg-0117",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién creó la saga Metal Gear?",
+    "options": [
+      "Hideo Kojima",
+      "Hironobu Sakaguchi",
+      "Koji Igarashi",
+      "Keiji Inafune"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hideo Kojima creó Metal Gear en Konami."
+  },
+  {
+    "id": "vg-0118",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué compañía desarrolló Castlevania?",
+    "options": [
+      "Capcom",
+      "Square",
+      "Taito",
+      "Konami"
+    ],
+    "correctIndex": 3,
+    "explanation": "Castlevania es una franquicia de Konami."
+  },
+  {
+    "id": "vg-0119",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué miembro del clan Belmont protagoniza el Castlevania original de NES?",
+    "options": [
+      "Trevor Belmont",
+      "Alucard",
+      "Simon Belmont",
+      "Richter Belmont"
+    ],
+    "correctIndex": 2,
+    "explanation": "Simon Belmont es el héroe del Castlevania de NES."
+  },
+  {
+    "id": "vg-0120",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿A qué género pertenece Contra?",
+    "options": [
+      "Puzzle",
+      "RPG",
+      "Run and gun",
+      "Carreras"
+    ],
+    "correctIndex": 2,
+    "explanation": "Contra es un clásico run and gun de Konami."
+  },
+  {
+    "id": "vg-0121",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué secuencia de botones se conoce como código Konami?",
+    "options": [
+      "Arriba, arriba, abajo, abajo, izquierda, derecha, izquierda, derecha, B, A",
+      "Arriba, abajo, A, B, Start",
+      "Izquierda, derecha, A, B, arriba, abajo",
+      "A, B, arriba, abajo, izquierda, derecha"
+    ],
+    "correctIndex": 0,
+    "explanation": "El código Konami es arriba, arriba, abajo, abajo, izquierda, derecha, izquierda, derecha, B, A."
+  },
+  {
+    "id": "vg-0122",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué compañía creó a Bomberman?",
+    "options": [
+      "Konami",
+      "Capcom",
+      "Taito",
+      "Hudson Soft"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bomberman nació en Hudson Soft en 1983."
+  },
+  {
+    "id": "vg-0123",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué compañía desarrolló el primer Final Fantasy?",
+    "options": [
+      "Enix",
+      "Square",
+      "Capcom",
+      "Konami"
+    ],
+    "correctIndex": 1,
+    "explanation": "Square desarrolló el primer Final Fantasy en 1987."
+  },
+  {
+    "id": "vg-0124",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién creó la saga Final Fantasy?",
+    "options": [
+      "Yuji Horii",
+      "Hironobu Sakaguchi",
+      "Hideo Kojima",
+      "Shigeru Miyamoto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hironobu Sakaguchi ideó Final Fantasy en Square."
+  },
+  {
+    "id": "vg-0125",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola se lanzó Final Fantasy VII?",
+    "options": [
+      "Super Nintendo",
+      "PlayStation",
+      "Nintendo 64",
+      "Sega Saturn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Final Fantasy VII se lanzó en PlayStation en 1997."
+  },
+  {
+    "id": "vg-0126",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué trío creó la saga Dragon Quest?",
+    "options": [
+      "Shigeru Miyamoto, Koji Kondo y Gunpei Yokoi",
+      "Hironobu Sakaguchi, Nobuo Uematsu y Tetsuya Nomura",
+      "Yuji Horii, Koichi Sugiyama y Akira Toriyama",
+      "Satoshi Tajiri, Ken Sugimori y Junichi Masuda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Horii escribió, Sugiyama compuso y Toriyama diseñó Dragon Quest."
+  },
+  {
+    "id": "vg-0127",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Con qué nombre se conoció Dragon Quest en Norteamérica hasta los años 2000?",
+    "options": [
+      "Dragon Saga",
+      "Dragon Master",
+      "Dragon Legend",
+      "Dragon Warrior"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dragon Quest se publicó como Dragon Warrior en Norteamérica."
+  },
+  {
+    "id": "vg-0128",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó Chrono Trigger en la Super Nintendo?",
+    "options": [
+      "1991",
+      "1993",
+      "1995",
+      "1998"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chrono Trigger se lanzó en Super Nintendo en 1995."
+  },
+  {
+    "id": "vg-0129",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio creó a Kirby?",
+    "options": [
+      "Game Freak",
+      "Intelligent Systems",
+      "HAL Laboratory",
+      "Retro Studios"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kirby nació en HAL Laboratory."
+  },
+  {
+    "id": "vg-0130",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó Kirby?",
+    "options": [
+      "NES",
+      "Game Boy",
+      "Super Nintendo",
+      "Nintendo 64"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kirby debutó en Kirby's Dream Land para Game Boy."
+  },
+  {
+    "id": "vg-0131",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó el primer Metroid?",
+    "options": [
+      "1983",
+      "1986",
+      "1989",
+      "1991"
+    ],
+    "correctIndex": 1,
+    "explanation": "Metroid se lanzó en NES en 1986."
+  },
+  {
+    "id": "vg-0132",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué revelación sorprendió a los jugadores al terminar el Metroid original?",
+    "options": [
+      "Samus es un robot",
+      "Samus es el villano",
+      "Samus es un alienígena",
+      "Samus Aran es una mujer"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al completar Metroid se revela que Samus es una mujer."
+  },
+  {
+    "id": "vg-0133",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola se lanzó Metroid Prime?",
+    "options": [
+      "Nintendo 64",
+      "Wii",
+      "Game Boy Advance",
+      "GameCube"
+    ],
+    "correctIndex": 3,
+    "explanation": "Metroid Prime se lanzó en GameCube en 2002."
+  },
+  {
+    "id": "vg-0134",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó Animal Crossing en Japón?",
+    "options": [
+      "GameCube",
+      "Nintendo 64",
+      "Game Boy Advance",
+      "Nintendo DS"
+    ],
+    "correctIndex": 1,
+    "explanation": "Animal Forest debutó en Nintendo 64 en Japón."
+  },
+  {
+    "id": "vg-0135",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó Pikmin?",
+    "options": [
+      "Nintendo 64",
+      "GameCube",
+      "Wii",
+      "Nintendo DS"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pikmin se lanzó en GameCube en 2001."
+  },
+  {
+    "id": "vg-0136",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó Splatoon?",
+    "options": [
+      "Switch",
+      "Wii",
+      "Nintendo 3DS",
+      "Wii U"
+    ],
+    "correctIndex": 3,
+    "explanation": "Splatoon se lanzó en Wii U en 2015."
+  },
+  {
+    "id": "vg-0137",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó Star Fox?",
+    "options": [
+      "NES",
+      "Nintendo 64",
+      "Super Nintendo",
+      "GameCube"
+    ],
+    "correctIndex": 2,
+    "explanation": "Star Fox debutó en Super Nintendo en 1993."
+  },
+  {
+    "id": "vg-0138",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó F-Zero en la Super Nintendo?",
+    "options": [
+      "1988",
+      "1992",
+      "1995",
+      "1990"
+    ],
+    "correctIndex": 3,
+    "explanation": "F-Zero fue un título de lanzamiento de la Super Nintendo en 1990."
+  },
+  {
+    "id": "vg-0139",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el protagonista de EarthBound?",
+    "options": [
+      "Lucas",
+      "Ninten",
+      "Claus",
+      "Ness"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ness es el protagonista de EarthBound para Super Nintendo."
+  },
+  {
+    "id": "vg-0140",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué compañía japonesa creó la consola Neo Geo?",
+    "options": [
+      "SNK",
+      "Capcom",
+      "Sega",
+      "Namco"
+    ],
+    "correctIndex": 0,
+    "explanation": "SNK lanzó la Neo Geo en 1990."
+  },
+  {
+    "id": "vg-0141",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Cuál se considera el primer videojuego comercial de arcade?",
+    "options": [
+      "Computer Space",
+      "Pong",
+      "Space Invaders",
+      "Asteroids"
+    ],
+    "correctIndex": 0,
+    "explanation": "Computer Space, de 1971, precedió a Pong en los salones recreativos."
+  },
+  {
+    "id": "vg-0142",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué simulador de tenis de 1958 se considera un antecesor de los videojuegos?",
+    "options": [
+      "Pong",
+      "Spacewar!",
+      "Computer Space",
+      "Tennis for Two"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tennis for Two fue creado por William Higinbotham en 1958."
+  },
+  {
+    "id": "vg-0143",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué universidad se creó el juego Spacewar! en 1962?",
+    "options": [
+      "Stanford",
+      "MIT",
+      "Harvard",
+      "Berkeley"
+    ],
+    "correctIndex": 1,
+    "explanation": "Spacewar! se desarrolló en el Massachusetts Institute of Technology."
+  },
+  {
+    "id": "vg-0144",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué consola de 1976 fue la primera en usar cartuchos de ROM intercambiables?",
+    "options": [
+      "Atari 2600",
+      "Magnavox Odyssey",
+      "Intellivision",
+      "Fairchild Channel F"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Fairchild Channel F introdujo los cartuchos intercambiables en 1976."
+  },
+  {
+    "id": "vg-0145",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué ciudad se enterraron miles de cartuchos de E.T. en 1983?",
+    "options": [
+      "Las Vegas",
+      "Houston",
+      "Alamogordo",
+      "Los Ángeles"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los cartuchos fueron sepultados en un vertedero de Alamogordo, Nuevo México."
+  },
+  {
+    "id": "vg-0146",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Con qué nombre se lanzó Pac-Man originalmente en Japón?",
+    "options": [
+      "Puck-Man",
+      "Pac-Boy",
+      "Ghost Man",
+      "Come-Come"
+    ],
+    "correctIndex": 0,
+    "explanation": "El nombre Puck-Man se cambió para evitar una lectura vulgar en inglés."
+  },
+  {
+    "id": "vg-0147",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué año fue fundada Nintendo como empresa de naipes?",
+    "options": [
+      "1947",
+      "1959",
+      "1972",
+      "1889"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nintendo comenzó en 1889 fabricando naipes hanafuda en Kioto."
+  },
+  {
+    "id": "vg-0148",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿De qué expresión proviene el nombre Sega?",
+    "options": [
+      "Sega Electronics",
+      "Seven Games",
+      "Sonic Games",
+      "Service Games"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sega nació como Service Games, empresa de máquinas recreativas."
+  },
+  {
+    "id": "vg-0149",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué formato de disco propio utilizaba la Dreamcast?",
+    "options": [
+      "CD-ROM",
+      "DVD-ROM",
+      "Blu-ray",
+      "GD-ROM"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Dreamcast usó discos GD-ROM de mayor capacidad que un CD."
+  },
+  {
+    "id": "vg-0150",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué consola incluía un módem de serie para jugar en línea?",
+    "options": [
+      "Saturn",
+      "PlayStation 2",
+      "GameCube",
+      "Dreamcast"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Dreamcast fue la primera consola con módem incorporado de serie."
+  },
+  {
+    "id": "vg-0151",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué cartucho se conectaba sobre Sonic 3 para ampliar el juego?",
+    "options": [
+      "Sonic & Knuckles",
+      "Sonic 2",
+      "Knuckles' Chaotix",
+      "Sonic CD"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sonic & Knuckles usaba la tecnología lock-on con Sonic 3."
+  },
+  {
+    "id": "vg-0152",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué RPG de Sega Master System inició una saga espacial?",
+    "options": [
+      "Golden Axe",
+      "Phantasy Star",
+      "Shinobi",
+      "Alex Kidd"
+    ],
+    "correctIndex": 1,
+    "explanation": "Phantasy Star debutó en Master System en 1987."
+  },
+  {
+    "id": "vg-0153",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego de Saturn mezcló combate aéreo con dragones?",
+    "options": [
+      "Nights into Dreams",
+      "Burning Rangers",
+      "Panzer Dragoon",
+      "Sega Rally"
+    ],
+    "correctIndex": 2,
+    "explanation": "Panzer Dragoon fue una de las sagas emblemáticas de Saturn."
+  },
+  {
+    "id": "vg-0154",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego de carreras de Sega de 1986 destacó por sus rutas alternativas?",
+    "options": [
+      "Hang-On",
+      "Daytona USA",
+      "Out Run",
+      "Virtua Racing"
+    ],
+    "correctIndex": 2,
+    "explanation": "Out Run permitía elegir entre varias rutas al volante de un descapotable."
+  },
+  {
+    "id": "vg-0155",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué chip permitió los efectos 3D de Star Fox en Super Nintendo?",
+    "options": [
+      "Super FX",
+      "Mode 7",
+      "SA-1",
+      "DSP-1"
+    ],
+    "correctIndex": 0,
+    "explanation": "El chip Super FX ayudaba a calcular polígonos en Star Fox."
+  },
+  {
+    "id": "vg-0156",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué modo gráfico de la Super Nintendo permitía rotar y escalar fondos?",
+    "options": [
+      "Mode 7",
+      "Super FX",
+      "SA-1",
+      "HDMA"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Mode 7 se usó en juegos como F-Zero y Super Mario Kart."
+  },
+  {
+    "id": "vg-0157",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego de NES popularizó el guardado con batería interna?",
+    "options": [
+      "Super Mario Bros.",
+      "Metroid",
+      "Punch-Out!!",
+      "The Legend of Zelda"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Legend of Zelda guardaba la partida gracias a una batería en el cartucho."
+  },
+  {
+    "id": "vg-0158",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué juego se basó la versión occidental de Super Mario Bros. 2?",
+    "options": [
+      "Super Mario Bros.: The Lost Levels",
+      "Yume Kojo",
+      "Mario Bros.",
+      "Doki Doki Panic"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nintendo adaptó Doki Doki Panic para lanzar Super Mario Bros. 2 en Occidente."
+  },
+  {
+    "id": "vg-0159",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué nombre recibió en Japón el juego conocido como Super Mario Bros.: The Lost Levels?",
+    "options": [
+      "Super Mario Bros. 2",
+      "Super Mario Bros. 3",
+      "Super Mario World",
+      "Super Mario Land"
+    ],
+    "correctIndex": 0,
+    "explanation": "En Japón se lanzó como Super Mario Bros. 2 en 1986."
+  },
+  {
+    "id": "vg-0160",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué traje de Super Mario Bros. 3 permite volar y atacar con la cola?",
+    "options": [
+      "Traje de rana",
+      "Traje de Tanooki",
+      "Traje de martillo",
+      "Traje de fuego"
+    ],
+    "correctIndex": 1,
+    "explanation": "El traje de Tanooki otorga vuelo y un ataque con la cola."
+  },
+  {
+    "id": "vg-0161",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué juego debutó Yoshi?",
+    "options": [
+      "Super Mario Bros. 3",
+      "Super Mario 64",
+      "Super Mario World",
+      "Super Mario Land"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yoshi apareció por primera vez en Super Mario World de Super Nintendo."
+  },
+  {
+    "id": "vg-0162",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Cuántos agarres tiene el mando original de Nintendo 64?",
+    "options": [
+      "Dos",
+      "Tres",
+      "Cuatro",
+      "Uno"
+    ],
+    "correctIndex": 1,
+    "explanation": "El mando de Nintendo 64 tiene tres agarres para distintas formas de sujetarlo."
+  },
+  {
+    "id": "vg-0163",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Cuál fue la última consola de sobremesa de Nintendo que usó cartuchos?",
+    "options": [
+      "GameCube",
+      "Super Nintendo",
+      "Nintendo 64",
+      "Wii"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Nintendo 64 fue la última consola de Nintendo con cartuchos."
+  },
+  {
+    "id": "vg-0164",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de disco propietario usaba la GameCube?",
+    "options": [
+      "MiniDVD",
+      "GD-ROM",
+      "Blu-ray",
+      "Cartucho"
+    ],
+    "correctIndex": 0,
+    "explanation": "La GameCube empleó un disco óptico de 8 cm conocido como miniDVD."
+  },
+  {
+    "id": "vg-0165",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién compuso la música original de Super Mario Bros. y The Legend of Zelda?",
+    "options": [
+      "Nobuo Uematsu",
+      "Koji Kondo",
+      "Koichi Sugiyama",
+      "Yoko Shimomura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Koji Kondo es el compositor histórico de Nintendo."
+  },
+  {
+    "id": "vg-0166",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién compuso la banda sonora de Final Fantasy?",
+    "options": [
+      "Koji Kondo",
+      "Akira Toriyama",
+      "Yuji Horii",
+      "Nobuo Uematsu"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nobuo Uematsu firmó la música de gran parte de la saga Final Fantasy."
+  },
+  {
+    "id": "vg-0167",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién diseñó los personajes de Dragon Quest?",
+    "options": [
+      "Nobuo Uematsu",
+      "Koji Kondo",
+      "Akira Toriyama",
+      "Shigeru Miyamoto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Akira Toriyama, creador de Dragon Ball, diseñó los personajes de Dragon Quest."
+  },
+  {
+    "id": "vg-0168",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué abogado dio su nombre a Kirby?",
+    "options": [
+      "John Carmack",
+      "John Romero",
+      "John Kirby",
+      "Jack Kirby"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nintendo adoptó el nombre del abogado John Kirby, que defendió a la empresa en un litigio."
+  },
+  {
+    "id": "vg-0169",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué año se fusionaron Square y Enix?",
+    "options": [
+      "1998",
+      "2003",
+      "2001",
+      "2005"
+    ],
+    "correctIndex": 1,
+    "explanation": "Square Enix se formó con la fusión de ambas empresas en 2003."
+  },
+  {
+    "id": "vg-0170",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué año se fusionaron Bandai y Namco?",
+    "options": [
+      "2005",
+      "1999",
+      "2003",
+      "2007"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fusión creó Bandai Namco Holdings en 2005."
+  },
+  {
+    "id": "vg-0171",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué año debutó The King of Fighters?",
+    "options": [
+      "1991",
+      "1996",
+      "1998",
+      "1994"
+    ],
+    "correctIndex": 3,
+    "explanation": "The King of Fighters '94 fue el primer título de la saga."
+  },
+  {
+    "id": "vg-0172",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué año debutó Metal Slug en los arcades?",
+    "options": [
+      "1996",
+      "1993",
+      "1998",
+      "2000"
+    ],
+    "correctIndex": 0,
+    "explanation": "Metal Slug llegó a los arcades de SNK en 1996."
+  },
+  {
+    "id": "vg-0173",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego de Sega de 1993 se considera el primer gran éxito de lucha en 3D?",
+    "options": [
+      "Virtua Fighter",
+      "Tekken",
+      "Soul Edge",
+      "Battle Arena Toshinden"
+    ],
+    "correctIndex": 0,
+    "explanation": "Virtua Fighter usó polígonos 3D en los arcades en 1993."
+  },
+  {
+    "id": "vg-0174",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué saga de Atlus combina la vida escolar con el combate contra sombras?",
+    "options": [
+      "Shin Megami Tensei",
+      "Dragon Quest",
+      "Persona",
+      "Final Fantasy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Persona mezcla la rutina estudiantil con combates y vínculos sociales."
+  },
+  {
+    "id": "vg-0175",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué organismo estadounidense creó en 1994 el sistema de clasificación por edades?",
+    "options": [
+      "PEGI",
+      "ESRB",
+      "CERO",
+      "USK"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ESRB se creó tras las audiencias sobre la violencia en los videojuegos."
+  },
+  {
+    "id": "vg-0176",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué empresa fabrica las consolas PlayStation?",
+    "options": [
+      "Microsoft",
+      "Sony",
+      "Nintendo",
+      "Sega"
+    ],
+    "correctIndex": 1,
+    "explanation": "PlayStation es una línea de consolas desarrollada por Sony."
+  },
+  {
+    "id": "vg-0177",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el protagonista de la saga God of War?",
+    "options": [
+      "Kratos",
+      "Atreus",
+      "Baldur",
+      "Ares"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kratos es el guerrero espartano protagonista de God of War."
+  },
+  {
+    "id": "vg-0178",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola de Microsoft se lanzó en 2005?",
+    "options": [
+      "Xbox",
+      "Xbox One",
+      "Xbox 360",
+      "Xbox Series X"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Xbox 360 llegó al mercado en 2005."
+  },
+  {
+    "id": "vg-0179",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué estudio desarrolló Minecraft?",
+    "options": [
+      "Valve",
+      "Epic Games",
+      "Rockstar Games",
+      "Mojang"
+    ],
+    "correctIndex": 3,
+    "explanation": "Minecraft fue creado por Mojang, el estudio fundado por Markus Persson."
+  },
+  {
+    "id": "vg-0180",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué empresa es la creadora de la saga Grand Theft Auto?",
+    "options": [
+      "Rockstar Games",
+      "Ubisoft",
+      "Electronic Arts",
+      "Activision"
+    ],
+    "correctIndex": 0,
+    "explanation": "Grand Theft Auto es una franquicia de Rockstar Games."
+  },
+  {
+    "id": "vg-0181",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad ficticia transcurre Grand Theft Auto V?",
+    "options": [
+      "Vice City",
+      "Liberty City",
+      "Los Santos",
+      "San Fierro"
+    ],
+    "correctIndex": 2,
+    "explanation": "La historia de GTA V se desarrolla en Los Santos y sus alrededores."
+  },
+  {
+    "id": "vg-0182",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el protagonista de la saga Uncharted?",
+    "options": [
+      "Joel Miller",
+      "Sam Drake",
+      "Nathan Drake",
+      "Victor Sullivan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nathan Drake es el cazarrecompensas protagonista de Uncharted."
+  },
+  {
+    "id": "vg-0183",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué estudio desarrolló The Last of Us?",
+    "options": [
+      "Santa Monica Studio",
+      "Insomniac Games",
+      "Guerrilla Games",
+      "Naughty Dog"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Last of Us fue desarrollado por Naughty Dog."
+  },
+  {
+    "id": "vg-0184",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la adolescente que acompaña a Joel en The Last of Us?",
+    "options": [
+      "Sarah",
+      "Tess",
+      "Abby",
+      "Ellie"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ellie es la joven que viaja con Joel a lo largo del juego."
+  },
+  {
+    "id": "vg-0185",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el supersoldado protagonista de Halo?",
+    "options": [
+      "Marcus Fenix",
+      "Master Chief",
+      "Noble Six",
+      "Avery Johnson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Master Chief es el protagonista de la saga Halo."
+  },
+  {
+    "id": "vg-0186",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué estudio desarrolló originalmente la saga Halo?",
+    "options": [
+      "343 Industries",
+      "Epic Games",
+      "Bungie",
+      "Turn 10 Studios"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bungie creó Halo antes de que 343 Industries tomara la franquicia."
+  },
+  {
+    "id": "vg-0187",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de Valve enfrenta a terroristas y antiterroristas?",
+    "options": [
+      "Counter-Strike",
+      "Team Fortress 2",
+      "Left 4 Dead",
+      "Day of Defeat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Counter-Strike se basa en enfrentamientos entre esos dos bandos."
+  },
+  {
+    "id": "vg-0188",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué plataforma de distribución digital para PC pertenece a Valve?",
+    "options": [
+      "GOG",
+      "Steam",
+      "Epic Games Store",
+      "Origin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Steam es la tienda digital de Valve."
+  },
+  {
+    "id": "vg-0189",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de Valve gira en torno a portales y a la inteligencia artificial GLaDOS?",
+    "options": [
+      "Half-Life 2",
+      "Team Fortress 2",
+      "Prey",
+      "Portal"
+    ],
+    "correctIndex": 3,
+    "explanation": "GLaDOS es la IA que controla las pruebas de Portal."
+  },
+  {
+    "id": "vg-0190",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el protagonista de Half-Life?",
+    "options": [
+      "Gordon Freeman",
+      "Alyx Vance",
+      "Barney Calhoun",
+      "Adrian Shephard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gordon Freeman es el físico protagonista de Half-Life."
+  },
+  {
+    "id": "vg-0191",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué empresa desarrolló World of Warcraft?",
+    "options": [
+      "Riot Games",
+      "Valve",
+      "Blizzard Entertainment",
+      "Bethesda Softworks"
+    ],
+    "correctIndex": 2,
+    "explanation": "World of Warcraft es un juego de Blizzard Entertainment."
+  },
+  {
+    "id": "vg-0192",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿En qué mundo ficticio transcurre World of Warcraft?",
+    "options": [
+      "Tamriel",
+      "Azeroth",
+      "Tyria",
+      "Norrath"
+    ],
+    "correctIndex": 1,
+    "explanation": "Azeroth es el mundo donde se ambienta World of Warcraft."
+  },
+  {
+    "id": "vg-0193",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el protagonista de la saga The Witcher?",
+    "options": [
+      "Ciri",
+      "Yennefer",
+      "Geralt de Rivia",
+      "Vesemir"
+    ],
+    "correctIndex": 2,
+    "explanation": "Geralt de Rivia es el brujo protagonista de la saga."
+  },
+  {
+    "id": "vg-0194",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué estudio desarrolló The Witcher 3: Wild Hunt?",
+    "options": [
+      "CD Projekt Red",
+      "BioWare",
+      "Bethesda Game Studios",
+      "Larian Studios"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Witcher 3 fue desarrollado por CD Projekt Red."
+  },
+  {
+    "id": "vg-0195",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de granja fue creado por el desarrollador conocido como ConcernedApe?",
+    "options": [
+      "Terraria",
+      "Stardew Valley",
+      "Farming Simulator",
+      "Animal Crossing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stardew Valley es obra de Eric Barone, alias ConcernedApe."
+  },
+  {
+    "id": "vg-0196",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de plataformas protagoniza Madeline en una montaña?",
+    "options": [
+      "Hollow Knight",
+      "Ori and the Blind Forest",
+      "Super Meat Boy",
+      "Celeste"
+    ],
+    "correctIndex": 3,
+    "explanation": "Celeste narra el ascenso de Madeline a la montaña Celeste."
+  },
+  {
+    "id": "vg-0197",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego indie de Toby Fox transcurre bajo tierra entre monstruos?",
+    "options": [
+      "Undertale",
+      "Deltarune",
+      "Omori",
+      "Lisa: The Painful"
+    ],
+    "correctIndex": 0,
+    "explanation": "Undertale fue creado por Toby Fox y se ambienta bajo tierra."
+  },
+  {
+    "id": "vg-0198",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego indie de Innersloth trata de tripulantes que buscan a un impostor?",
+    "options": [
+      "Fall Guys",
+      "Project Winter",
+      "Deceit",
+      "Among Us"
+    ],
+    "correctIndex": 3,
+    "explanation": "Among Us es el juego de deducción social de Innersloth."
+  },
+  {
+    "id": "vg-0199",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué compañía desarrolló la saga Assassin's Creed?",
+    "options": [
+      "Ubisoft",
+      "Electronic Arts",
+      "Activision",
+      "Warner Bros. Games"
+    ],
+    "correctIndex": 0,
+    "explanation": "Assassin's Creed es una franquicia de Ubisoft."
+  },
+  {
+    "id": "vg-0200",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué compañía publica la saga Battlefield?",
+    "options": [
+      "Activision",
+      "Electronic Arts",
+      "Ubisoft",
+      "Take-Two Interactive"
+    ],
+    "correctIndex": 1,
+    "explanation": "Battlefield es publicada por Electronic Arts."
+  },
+  {
+    "id": "vg-0201",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué empresa desarrolló The Elder Scrolls V: Skyrim?",
+    "options": [
+      "Obsidian Entertainment",
+      "Bethesda Game Studios",
+      "CD Projekt Red",
+      "BioWare"
+    ],
+    "correctIndex": 1,
+    "explanation": "Skyrim fue desarrollado por Bethesda Game Studios."
+  },
+  {
+    "id": "vg-0202",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué saga de Bethesda incluye refugios antinucleares llamados Vaults?",
+    "options": [
+      "The Elder Scrolls",
+      "Doom",
+      "Wolfenstein",
+      "Fallout"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los Vaults son refugios característicos del universo Fallout."
+  },
+  {
+    "id": "vg-0203",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué saga de terror de Capcom popularizó los zombis y la mansión Spencer?",
+    "options": [
+      "Silent Hill",
+      "Alone in the Dark",
+      "Dead Space",
+      "Resident Evil"
+    ],
+    "correctIndex": 3,
+    "explanation": "Resident Evil, de Capcom, comenzó en la mansión Spencer."
+  },
+  {
+    "id": "vg-0204",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la arqueóloga protagonista de Tomb Raider?",
+    "options": [
+      "Chloe Frazer",
+      "Elena Fisher",
+      "Jill Valentine",
+      "Lara Croft"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lara Croft es la protagonista de Tomb Raider."
+  },
+  {
+    "id": "vg-0205",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué empresa desarrolló la saga Diablo?",
+    "options": [
+      "BioWare",
+      "Obsidian Entertainment",
+      "Blizzard Entertainment",
+      "Riot Games"
+    ],
+    "correctIndex": 2,
+    "explanation": "Diablo es una franquicia de Blizzard Entertainment."
+  },
+  {
+    "id": "vg-0206",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de Blizzard es un shooter por equipos con héroes como Tracer?",
+    "options": [
+      "Overwatch",
+      "Valorant",
+      "Paladins",
+      "Team Fortress 2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tracer es uno de los héroes de Overwatch."
+  },
+  {
+    "id": "vg-0207",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de Riot Games es un MOBA con campeones y la Grieta del Invocador?",
+    "options": [
+      "Dota 2",
+      "Heroes of the Storm",
+      "Smite",
+      "League of Legends"
+    ],
+    "correctIndex": 3,
+    "explanation": "League of Legends es el MOBA de Riot Games."
+  },
+  {
+    "id": "vg-0208",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cuál es el nombre del mapa principal de League of Legends?",
+    "options": [
+      "Dust II",
+      "Nuketown",
+      "La Grieta del Invocador",
+      "Azeroth"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Grieta del Invocador es el mapa clásico de League of Legends."
+  },
+  {
+    "id": "vg-0209",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué battle royale de Epic Games permite construir estructuras?",
+    "options": [
+      "PlayerUnknown's Battlegrounds",
+      "Fortnite",
+      "Apex Legends",
+      "Call of Duty: Warzone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fortnite combina el battle royale con la construcción."
+  },
+  {
+    "id": "vg-0210",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el motor gráfico de Epic Games usado en Fortnite?",
+    "options": [
+      "Unity",
+      "Source",
+      "Frostbite",
+      "Unreal Engine"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fortnite funciona con Unreal Engine, propiedad de Epic Games."
+  },
+  {
+    "id": "vg-0211",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué saga de Rockstar ambientada en el Lejano Oeste tiene a John Marston?",
+    "options": [
+      "Gun",
+      "Call of Juarez",
+      "Desperados",
+      "Red Dead Redemption"
+    ],
+    "correctIndex": 3,
+    "explanation": "John Marston es el protagonista del primer Red Dead Redemption."
+  },
+  {
+    "id": "vg-0212",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el protagonista de Red Dead Redemption 2?",
+    "options": [
+      "John Marston",
+      "Arthur Morgan",
+      "Dutch van der Linde",
+      "Micah Bell"
+    ],
+    "correctIndex": 1,
+    "explanation": "Arthur Morgan es el protagonista jugable de Red Dead Redemption 2."
+  },
+  {
+    "id": "vg-0213",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola de Sony sucedió a la PlayStation 2?",
+    "options": [
+      "PlayStation 4",
+      "PlayStation Portable",
+      "PlayStation Vita",
+      "PlayStation 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "La PlayStation 3 fue la sucesora de la PlayStation 2."
+  },
+  {
+    "id": "vg-0214",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola sucedió a la PlayStation 4?",
+    "options": [
+      "PlayStation 5",
+      "PlayStation 4 Pro",
+      "PlayStation Vita",
+      "PlayStation 3"
+    ],
+    "correctIndex": 0,
+    "explanation": "La PlayStation 5 es la sucesora de la PlayStation 4."
+  },
+  {
+    "id": "vg-0215",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué empresa desarrolló la saga Mass Effect?",
+    "options": [
+      "Bethesda Game Studios",
+      "Obsidian Entertainment",
+      "BioWare",
+      "343 Industries"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mass Effect es una franquicia de BioWare."
+  },
+  {
+    "id": "vg-0216",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el protagonista de Mass Effect?",
+    "options": [
+      "Master Chief",
+      "Comandante Shepard",
+      "Marcus Fenix",
+      "Isaac Clarke"
+    ],
+    "correctIndex": 1,
+    "explanation": "El comandante Shepard es el protagonista de Mass Effect."
+  },
+  {
+    "id": "vg-0217",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué saga de carreras es exclusiva de las plataformas de Microsoft?",
+    "options": [
+      "Gran Turismo",
+      "Need for Speed",
+      "Forza",
+      "Assetto Corsa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Forza es una franquicia de Microsoft para Xbox y PC."
+  },
+  {
+    "id": "vg-0218",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué empresa es dueña de Mojang desde 2014?",
+    "options": [
+      "Sony",
+      "Microsoft",
+      "Epic Games",
+      "Tencent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Microsoft compró Mojang, el estudio de Minecraft, en 2014."
+  },
+  {
+    "id": "vg-0219",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué estudio desarrolló la saga Gears of War originalmente?",
+    "options": [
+      "Epic Games",
+      "343 Industries",
+      "The Coalition",
+      "Bungie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Epic Games creó Gears of War antes de vender la franquicia a Microsoft."
+  },
+  {
+    "id": "vg-0220",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de Valve es un cooperativo de zombis para cuatro supervivientes?",
+    "options": [
+      "Left 4 Dead",
+      "Resident Evil 5",
+      "Killing Floor",
+      "Dying Light"
+    ],
+    "correctIndex": 0,
+    "explanation": "Left 4 Dead enfrenta a cuatro supervivientes contra hordas de infectados."
+  },
+  {
+    "id": "vg-0221",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola portátil de Sony compitió con la Nintendo DS?",
+    "options": [
+      "PlayStation Vita",
+      "PlayStation Portable",
+      "Game Boy Advance",
+      "N-Gage"
+    ],
+    "correctIndex": 1,
+    "explanation": "La PlayStation Portable fue la portátil de Sony de esa generación."
+  },
+  {
+    "id": "vg-0222",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el hijo de Kratos en God of War (2018)?",
+    "options": [
+      "Atreus",
+      "Baldur",
+      "Mimir",
+      "Freyr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Atreus acompaña a Kratos durante toda la aventura nórdica."
+  },
+  {
+    "id": "vg-0223",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué estudio desarrolló Marvel's Spider-Man (2018)?",
+    "options": [
+      "Insomniac Games",
+      "Naughty Dog",
+      "Sucker Punch",
+      "Rocksteady Studios"
+    ],
+    "correctIndex": 0,
+    "explanation": "Insomniac Games desarrolló Marvel's Spider-Man para PlayStation 4."
+  },
+  {
+    "id": "vg-0224",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de Sucker Punch transcurre en el Japón feudal con Jin Sakai?",
+    "options": [
+      "Sekiro: Shadows Die Twice",
+      "Nioh",
+      "Ghost of Tsushima",
+      "Onimusha"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jin Sakai es el samurái protagonista de Ghost of Tsushima."
+  },
+  {
+    "id": "vg-0225",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la protagonista de Horizon Zero Dawn?",
+    "options": [
+      "Ellie",
+      "Senua",
+      "Aloy",
+      "Kassandra"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aloy es la cazadora que protagoniza Horizon Zero Dawn."
+  },
+  {
+    "id": "vg-0226",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de terror espacial de EA presenta a Isaac Clarke y a los necromorfos?",
+    "options": [
+      "Alien: Isolation",
+      "Doom",
+      "Dead Space",
+      "System Shock"
+    ],
+    "correctIndex": 2,
+    "explanation": "Isaac Clarke se enfrenta a los necromorfos en Dead Space."
+  },
+  {
+    "id": "vg-0227",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de Valve incluye clases como el Heavy y el Scout?",
+    "options": [
+      "Overwatch",
+      "Paladins",
+      "Team Fortress 2",
+      "Battlefield"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Heavy y el Scout son clases de Team Fortress 2."
+  },
+  {
+    "id": "vg-0228",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué RTS de Blizzard enfrenta a terranos, protoss y zerg?",
+    "options": [
+      "Warcraft",
+      "StarCraft",
+      "Age of Empires",
+      "Command & Conquer"
+    ],
+    "correctIndex": 1,
+    "explanation": "StarCraft enfrenta a esas tres razas en el espacio."
+  },
+  {
+    "id": "vg-0229",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de cartas de Blizzard está ambientado en Warcraft?",
+    "options": [
+      "Gwent",
+      "Magic: The Gathering Arena",
+      "Legends of Runeterra",
+      "Hearthstone"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hearthstone adapta el universo de Warcraft al formato de cartas."
+  },
+  {
+    "id": "vg-0230",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué enemigo de Minecraft explota al acercarse al jugador?",
+    "options": [
+      "Esqueleto",
+      "Zombi",
+      "Enderman",
+      "Creeper"
+    ],
+    "correctIndex": 3,
+    "explanation": "El creeper explota cuando se aproxima al jugador."
+  },
+  {
+    "id": "vg-0231",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué tienda digital lanzó Epic Games para competir con Steam?",
+    "options": [
+      "GOG",
+      "Epic Games Store",
+      "Origin",
+      "Uplay"
+    ],
+    "correctIndex": 1,
+    "explanation": "Epic Games Store se lanzó en 2018 como competencia de Steam."
+  },
+  {
+    "id": "vg-0232",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué servicio de suscripción de Microsoft ofrece un catálogo de juegos para Xbox y PC?",
+    "options": [
+      "Xbox Game Pass",
+      "PlayStation Plus",
+      "Nintendo Switch Online",
+      "EA Play"
+    ],
+    "correctIndex": 0,
+    "explanation": "Xbox Game Pass da acceso a un catálogo de juegos por suscripción."
+  },
+  {
+    "id": "vg-0233",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué servicio de suscripción de Sony permite jugar en línea en PS4 y PS5?",
+    "options": [
+      "Xbox Live Gold",
+      "PlayStation Plus",
+      "Nintendo Switch Online",
+      "GeForce Now"
+    ],
+    "correctIndex": 1,
+    "explanation": "PlayStation Plus es el servicio de suscripción de Sony."
+  },
+  {
+    "id": "vg-0234",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el mando que se incluye con la PlayStation 5?",
+    "options": [
+      "DualShock 4",
+      "Sixaxis",
+      "PlayStation Move",
+      "DualSense"
+    ],
+    "correctIndex": 3,
+    "explanation": "El DualSense es el mando oficial de la PlayStation 5."
+  },
+  {
+    "id": "vg-0235",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué empresa desarrolló la saga Watch Dogs?",
+    "options": [
+      "Electronic Arts",
+      "Activision",
+      "Square Enix",
+      "Ubisoft"
+    ],
+    "correctIndex": 3,
+    "explanation": "Watch Dogs es una franquicia de Ubisoft."
+  },
+  {
+    "id": "vg-0236",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad transcurre la primera entrega de Watch Dogs?",
+    "options": [
+      "Los Ángeles",
+      "Nueva York",
+      "San Francisco",
+      "Chicago"
+    ],
+    "correctIndex": 3,
+    "explanation": "Watch Dogs (2014) se ambienta en una Chicago conectada."
+  },
+  {
+    "id": "vg-0237",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de Ubisoft es un shooter táctico con operadores y rondas de ataque y defensa?",
+    "options": [
+      "Counter-Strike",
+      "Valorant",
+      "Overwatch",
+      "Rainbow Six Siege"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rainbow Six Siege se basa en rondas de ataque y defensa con operadores."
+  },
+  {
+    "id": "vg-0238",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de EA simula la vida cotidiana creando personajes y casas?",
+    "options": [
+      "Cities: Skylines",
+      "Animal Crossing",
+      "The Sims",
+      "Second Life"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Sims es la saga de simulación social de EA."
+  },
+  {
+    "id": "vg-0239",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué estudio desarrolló la primera entrega de Crash Bandicoot?",
+    "options": [
+      "Insomniac Games",
+      "Naughty Dog",
+      "Rare",
+      "Traveller's Tales"
+    ],
+    "correctIndex": 1,
+    "explanation": "Naughty Dog creó Crash Bandicoot para la primera PlayStation."
+  },
+  {
+    "id": "vg-0240",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de Capcom protagoniza el cazador de demonios Dante?",
+    "options": [
+      "Bayonetta",
+      "God of War",
+      "Devil May Cry",
+      "Ninja Gaiden"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dante es el protagonista de Devil May Cry."
+  },
+  {
+    "id": "vg-0241",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego reinició la saga Doom en 2016?",
+    "options": [
+      "Doom 3",
+      "Doom",
+      "Doom Eternal",
+      "Quake"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Doom de 2016 reinició la franquicia con un nuevo motor."
+  },
+  {
+    "id": "vg-0242",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el género de juegos en el que se dispara desde la perspectiva del personaje?",
+    "options": [
+      "Juego de rol",
+      "Estrategia en tiempo real",
+      "Plataformas",
+      "Disparos en primera persona"
+    ],
+    "correctIndex": 3,
+    "explanation": "En los juegos de disparos en primera persona la cámara muestra los ojos del personaje."
+  },
+  {
+    "id": "vg-0243",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola híbrida lanzó Nintendo en 2017?",
+    "options": [
+      "Wii U",
+      "Nintendo 3DS",
+      "Nintendo Switch",
+      "GameCube"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nintendo Switch se lanzó en marzo de 2017 y puede usarse como consola de sobremesa o portátil."
+  },
+  {
+    "id": "vg-0244",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué género enfrenta a muchos jugadores en un mapa que se reduce con el tiempo?",
+    "options": [
+      "Battle royale",
+      "Deathmatch",
+      "Captura la bandera",
+      "Speedrun"
+    ],
+    "correctIndex": 0,
+    "explanation": "El battle royale reduce progresivamente la zona segura."
+  },
+  {
+    "id": "vg-0245",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué término se usa cuando una actualización mejora la potencia de un personaje?",
+    "options": [
+      "Nerf",
+      "Lag",
+      "Buff",
+      "Spawn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un buff es una mejora aplicada a un personaje o arma."
+  },
+  {
+    "id": "vg-0246",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó la primera PlayStation en Japón?",
+    "options": [
+      "1995",
+      "1994",
+      "1996",
+      "1993"
+    ],
+    "correctIndex": 1,
+    "explanation": "La primera PlayStation se lanzó en Japón en diciembre de 1994."
+  },
+  {
+    "id": "vg-0247",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó la PlayStation 2?",
+    "options": [
+      "1999",
+      "2000",
+      "2001",
+      "2002"
+    ],
+    "correctIndex": 1,
+    "explanation": "La PlayStation 2 llegó en el año 2000."
+  },
+  {
+    "id": "vg-0248",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué consola de Sony es la más vendida de su historia?",
+    "options": [
+      "PlayStation 4",
+      "PlayStation 2",
+      "PlayStation",
+      "PlayStation 3"
+    ],
+    "correctIndex": 1,
+    "explanation": "La PlayStation 2 superó las 155 millones de unidades vendidas."
+  },
+  {
+    "id": "vg-0249",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó la Xbox original?",
+    "options": [
+      "2000",
+      "2002",
+      "2001",
+      "2003"
+    ],
+    "correctIndex": 2,
+    "explanation": "La primera Xbox se lanzó en 2001."
+  },
+  {
+    "id": "vg-0250",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué consola de Microsoft introdujo los logros y el Gamerscore?",
+    "options": [
+      "Xbox",
+      "Xbox One",
+      "Xbox 360",
+      "Xbox Series X"
+    ],
+    "correctIndex": 2,
+    "explanation": "Xbox 360 popularizó los logros y la puntuación de jugador."
+  },
+  {
+    "id": "vg-0251",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el protagonista de Grand Theft Auto IV?",
+    "options": [
+      "Carl Johnson",
+      "Tommy Vercetti",
+      "Niko Bellic",
+      "Michael De Santa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Niko Bellic llega a Liberty City en Grand Theft Auto IV."
+  },
+  {
+    "id": "vg-0252",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué década se ambienta principalmente Grand Theft Auto: Vice City?",
+    "options": [
+      "Años 80",
+      "Años 70",
+      "Años 90",
+      "Años 2000"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vice City recrea el ambiente de Miami en los años ochenta."
+  },
+  {
+    "id": "vg-0253",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cuántos protagonistas jugables tiene la historia principal de GTA V?",
+    "options": [
+      "Tres",
+      "Dos",
+      "Cuatro",
+      "Uno"
+    ],
+    "correctIndex": 0,
+    "explanation": "GTA V alterna entre Michael, Franklin y Trevor."
+  },
+  {
+    "id": "vg-0254",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué actor pone la voz a Trevor Philips en GTA V?",
+    "options": [
+      "Steven Ogg",
+      "Ned Luke",
+      "Shawn Fonteno",
+      "Michael Hollick"
+    ],
+    "correctIndex": 0,
+    "explanation": "Steven Ogg interpretó a Trevor Philips."
+  },
+  {
+    "id": "vg-0255",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué empresa es la matriz de Rockstar Games?",
+    "options": [
+      "Activision Blizzard",
+      "Electronic Arts",
+      "Take-Two Interactive",
+      "Ubisoft"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rockstar Games pertenece a Take-Two Interactive."
+  },
+  {
+    "id": "vg-0256",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el líder de la banda de forajidos en Red Dead Redemption 2?",
+    "options": [
+      "John Marston",
+      "Dutch van der Linde",
+      "Arthur Morgan",
+      "Micah Bell"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dutch van der Linde dirige la banda que aparece en el juego."
+  },
+  {
+    "id": "vg-0257",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué juego de Rockstar permite asistir a una escuela llamada Bullworth?",
+    "options": [
+      "The Warriors",
+      "Manhunt",
+      "Bully",
+      "Midnight Club"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bully transcurre en el internado de Bullworth Academy."
+  },
+  {
+    "id": "vg-0258",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué entrega de Grand Theft Auto fue la primera en 3D?",
+    "options": [
+      "Grand Theft Auto III",
+      "Vice City",
+      "San Andreas",
+      "Grand Theft Auto IV"
+    ],
+    "correctIndex": 0,
+    "explanation": "Grand Theft Auto III inauguró la era tridimensional de la saga."
+  },
+  {
+    "id": "vg-0259",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué ciudad real se inspira Liberty City?",
+    "options": [
+      "Nueva York",
+      "Miami",
+      "Los Ángeles",
+      "Chicago"
+    ],
+    "correctIndex": 0,
+    "explanation": "Liberty City está inspirada en Nueva York."
+  },
+  {
+    "id": "vg-0260",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué arma característica usa Kratos en la trilogía griega de God of War?",
+    "options": [
+      "Hacha Leviatán",
+      "Espada del Olimpo",
+      "Espadas del Caos",
+      "Tridente de Poseidón"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las Espadas del Caos son el arma emblemática de Kratos."
+  },
+  {
+    "id": "vg-0261",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué mitología se basa la trilogía original de God of War?",
+    "options": [
+      "Nórdica",
+      "Griega",
+      "Egipcia",
+      "Romana"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los primeros God of War adaptan la mitología griega."
+  },
+  {
+    "id": "vg-0262",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a Kratos en la era nórdica de God of War?",
+    "options": [
+      "Troy Baker",
+      "Nolan North",
+      "Christopher Judge",
+      "Ashly Burch"
+    ],
+    "correctIndex": 2,
+    "explanation": "Christopher Judge pone voz y captura de movimiento a Kratos."
+  },
+  {
+    "id": "vg-0263",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién compone la banda sonora de God of War (2018)?",
+    "options": [
+      "Hans Zimmer",
+      "Gustavo Santaolalla",
+      "Bear McCreary",
+      "Mick Gordon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bear McCreary compuso la música de God of War de 2018."
+  },
+  {
+    "id": "vg-0264",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el hermano de Nathan Drake que aparece en Uncharted 4?",
+    "options": [
+      "Victor Sullivan",
+      "Charlie Cutter",
+      "Sam Drake",
+      "Harry Flynn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sam Drake es el hermano mayor de Nathan."
+  },
+  {
+    "id": "vg-0265",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio desarrolló la saga inFAMOUS?",
+    "options": [
+      "Insomniac Games",
+      "Naughty Dog",
+      "Sucker Punch Productions",
+      "Guerrilla Games"
+    ],
+    "correctIndex": 2,
+    "explanation": "inFAMOUS es una franquicia de Sucker Punch Productions."
+  },
+  {
+    "id": "vg-0266",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio desarrolló Horizon Zero Dawn?",
+    "options": [
+      "Sucker Punch",
+      "Insomniac Games",
+      "Guerrilla Games",
+      "Santa Monica Studio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Guerrilla Games creó Horizon Zero Dawn."
+  },
+  {
+    "id": "vg-0267",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la expansión de Horizon Zero Dawn ambientada en una zona helada?",
+    "options": [
+      "Blood and Wine",
+      "The Frozen Wilds",
+      "The Following",
+      "Iceborne"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Frozen Wilds añade la región helada de The Cut."
+  },
+  {
+    "id": "vg-0268",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio desarrolló Returnal?",
+    "options": [
+      "Remedy Entertainment",
+      "Bluepoint Games",
+      "Media Molecule",
+      "Housemarque"
+    ],
+    "correctIndex": 3,
+    "explanation": "Returnal fue desarrollado por el estudio finlandés Housemarque."
+  },
+  {
+    "id": "vg-0269",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué juego de FromSoftware transcurre en la ciudad de Yharnam?",
+    "options": [
+      "Demon's Souls",
+      "Bloodborne",
+      "Sekiro",
+      "Elden Ring"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yharnam es la ciudad gótica de Bloodborne."
+  },
+  {
+    "id": "vg-0270",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién dirigió Dark Souls y Elden Ring?",
+    "options": [
+      "Hidetaka Miyazaki",
+      "Hideo Kojima",
+      "Yoko Taro",
+      "Fumito Ueda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hidetaka Miyazaki dirigió ambas obras de FromSoftware."
+  },
+  {
+    "id": "vg-0271",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué objeto permite recuperar salud en las hogueras de Dark Souls?",
+    "options": [
+      "Poción roja",
+      "Corazón de demonio",
+      "Frasco de Estus",
+      "Semilla de árbol"
+    ],
+    "correctIndex": 2,
+    "explanation": "El frasco de Estus se recarga al descansar en las hogueras."
+  },
+  {
+    "id": "vg-0272",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué mensaje aparece en pantalla al morir en Dark Souls?",
+    "options": [
+      "Has muerto",
+      "Game Over",
+      "Fin del juego",
+      "Inténtalo de nuevo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El clásico mensaje de muerte de Dark Souls es Has muerto."
+  },
+  {
+    "id": "vg-0273",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Con qué escritor colaboró FromSoftware en Elden Ring?",
+    "options": [
+      "Brandon Sanderson",
+      "George R. R. Martin",
+      "Andrzej Sapkowski",
+      "Patrick Rothfuss"
+    ],
+    "correctIndex": 1,
+    "explanation": "George R. R. Martin ayudó a construir la mitología de Elden Ring."
+  },
+  {
+    "id": "vg-0274",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó Elden Ring?",
+    "options": [
+      "2022",
+      "2020",
+      "2021",
+      "2023"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elden Ring se lanzó en febrero de 2022."
+  },
+  {
+    "id": "vg-0275",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué juego de FromSoftware ganó el GOTY en The Game Awards 2019?",
+    "options": [
+      "Sekiro: Shadows Die Twice",
+      "Dark Souls III",
+      "Bloodborne",
+      "Elden Ring"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sekiro se llevó el premio al juego del año en 2019."
+  },
+  {
+    "id": "vg-0276",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio desarrolló Cyberpunk 2077?",
+    "options": [
+      "Techland",
+      "CD Projekt Red",
+      "People Can Fly",
+      "Ubisoft"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cyberpunk 2077 es obra de CD Projekt Red."
+  },
+  {
+    "id": "vg-0277",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la ciudad de Cyberpunk 2077?",
+    "options": [
+      "Los Santos",
+      "Night City",
+      "Nueva Vegas",
+      "Ciudad Libertad"
+    ],
+    "correctIndex": 1,
+    "explanation": "Night City es la megalópolis de Cyberpunk 2077."
+  },
+  {
+    "id": "vg-0278",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a Johnny Silverhand en Cyberpunk 2077?",
+    "options": [
+      "Keanu Reeves",
+      "Norman Reedus",
+      "Mads Mikkelsen",
+      "Willem Dafoe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Keanu Reeves da vida a Johnny Silverhand."
+  },
+  {
+    "id": "vg-0279",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién escribió las novelas en las que se basa The Witcher?",
+    "options": [
+      "Andrzej Sapkowski",
+      "George R. R. Martin",
+      "J. R. R. Tolkien",
+      "Brandon Sanderson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Andrzej Sapkowski es el autor de la saga de Geralt."
+  },
+  {
+    "id": "vg-0280",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el juego de cartas incluido en The Witcher 3?",
+    "options": [
+      "Gwent",
+      "Hearthstone",
+      "Triple Triad",
+      "Caravan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gwent es el juego de cartas que se puede jugar dentro de The Witcher 3."
+  },
+  {
+    "id": "vg-0281",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué expansión de The Witcher 3 transcurre en Toussaint?",
+    "options": [
+      "Hearts of Stone",
+      "The Frozen Wilds",
+      "Bloodmoon",
+      "Blood and Wine"
+    ],
+    "correctIndex": 3,
+    "explanation": "Blood and Wine lleva a Geralt al principado de Toussaint."
+  },
+  {
+    "id": "vg-0282",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la hija adoptiva de Geralt de Rivia?",
+    "options": [
+      "Yennefer",
+      "Triss Merigold",
+      "Keira Metz",
+      "Ciri"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ciri es la hija adoptiva de Geralt y Yennefer."
+  },
+  {
+    "id": "vg-0283",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio desarrolló la saga Borderlands?",
+    "options": [
+      "id Software",
+      "Gearbox Software",
+      "Volition",
+      "Epic Games"
+    ],
+    "correctIndex": 1,
+    "explanation": "Borderlands es una franquicia de Gearbox Software."
+  },
+  {
+    "id": "vg-0284",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué juego de Gearbox es un looter shooter con estética de cómic?",
+    "options": [
+      "Borderlands",
+      "Destiny",
+      "The Division",
+      "Warframe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Borderlands combina botín y disparos con un estilo visual dibujado."
+  },
+  {
+    "id": "vg-0285",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio desarrolló Destiny?",
+    "options": [
+      "Bungie",
+      "343 Industries",
+      "BioWare",
+      "Respawn Entertainment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bungie desarrolló Destiny tras separarse de Microsoft."
+  },
+  {
+    "id": "vg-0286",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio desarrolló Apex Legends?",
+    "options": [
+      "Infinity Ward",
+      "Epic Games",
+      "Blizzard Entertainment",
+      "Respawn Entertainment"
+    ],
+    "correctIndex": 3,
+    "explanation": "Apex Legends es obra de Respawn Entertainment."
+  },
+  {
+    "id": "vg-0287",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué compañía es dueña del estudio Respawn Entertainment?",
+    "options": [
+      "Activision",
+      "Electronic Arts",
+      "Ubisoft",
+      "Take-Two Interactive"
+    ],
+    "correctIndex": 1,
+    "explanation": "Electronic Arts adquirió Respawn Entertainment en 2017."
+  },
+  {
+    "id": "vg-0288",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué entrega de Call of Duty debutó el modo Warzone?",
+    "options": [
+      "Call of Duty: Black Ops Cold War",
+      "Call of Duty: Modern Warfare (2019)",
+      "Call of Duty: WWII",
+      "Call of Duty: Ghosts"
+    ],
+    "correctIndex": 1,
+    "explanation": "Warzone se lanzó como parte de Modern Warfare en 2020."
+  },
+  {
+    "id": "vg-0289",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué entrega de Call of Duty apareció por primera vez el modo Zombis?",
+    "options": [
+      "Call of Duty: World at War",
+      "Call of Duty: Modern Warfare 2",
+      "Call of Duty: Black Ops",
+      "Call of Duty 4: Modern Warfare"
+    ],
+    "correctIndex": 0,
+    "explanation": "El modo Zombis debutó en World at War."
+  },
+  {
+    "id": "vg-0290",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio desarrolló Call of Duty 4: Modern Warfare?",
+    "options": [
+      "Treyarch",
+      "Sledgehammer Games",
+      "Respawn Entertainment",
+      "Infinity Ward"
+    ],
+    "correctIndex": 3,
+    "explanation": "Infinity Ward desarrolló Call of Duty 4 en 2007."
+  },
+  {
+    "id": "vg-0291",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio desarrolló Battlefield 3?",
+    "options": [
+      "DICE",
+      "Visceral Games",
+      "EA Canada",
+      "Crytek"
+    ],
+    "correctIndex": 0,
+    "explanation": "Battlefield 3 fue desarrollado por DICE."
+  },
+  {
+    "id": "vg-0292",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué motor gráfico usa la saga Battlefield?",
+    "options": [
+      "Frostbite",
+      "Unreal Engine",
+      "Source",
+      "id Tech"
+    ],
+    "correctIndex": 0,
+    "explanation": "Frostbite es el motor de DICE usado en Battlefield."
+  },
+  {
+    "id": "vg-0293",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué conflicto se ambienta Battlefield 1?",
+    "options": [
+      "Segunda Guerra Mundial",
+      "Guerra de Vietnam",
+      "Guerra del Golfo",
+      "Primera Guerra Mundial"
+    ],
+    "correctIndex": 3,
+    "explanation": "Battlefield 1 se ambienta en la Primera Guerra Mundial."
+  },
+  {
+    "id": "vg-0294",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué juego de Respawn está ambientado en Star Wars y usa sables de luz?",
+    "options": [
+      "Star Wars Battlefront II",
+      "Star Wars: The Force Unleashed",
+      "Star Wars Jedi: Fallen Order",
+      "Star Wars: Squadrons"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fallen Order protagoniza a Cal Kestis, un Jedi con sable de luz."
+  },
+  {
+    "id": "vg-0295",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio desarrolló originalmente la saga The Sims?",
+    "options": [
+      "Bullfrog",
+      "Lionhead",
+      "Maxis",
+      "Westwood"
+    ],
+    "correctIndex": 2,
+    "explanation": "Maxis creó The Sims en el año 2000."
+  },
+  {
+    "id": "vg-0296",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué juego de Maxis permite construir y gestionar una ciudad?",
+    "options": [
+      "SimCity",
+      "Cities: Skylines",
+      "Tropico",
+      "Anno"
+    ],
+    "correctIndex": 0,
+    "explanation": "SimCity es la saga de gestión urbana de Maxis."
+  },
+  {
+    "id": "vg-0297",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el dispositivo de Assassin's Creed que permite revivir recuerdos?",
+    "options": [
+      "Omnitrix",
+      "Pip-Boy",
+      "Focus",
+      "Animus"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Animus permite a los protagonistas explorar memorias genéticas."
+  },
+  {
+    "id": "vg-0298",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el héroe conocido como Sangre de Dragón en Skyrim?",
+    "options": [
+      "Nerevarine",
+      "Dovahkiin",
+      "Vault Dweller",
+      "Chosen Undead"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dovahkiin significa Sangre de Dragón en la lengua de Skyrim."
+  },
+  {
+    "id": "vg-0299",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio desarrolló Civilization V?",
+    "options": [
+      "Relic Entertainment",
+      "Firaxis Games",
+      "Creative Assembly",
+      "Paradox Development Studio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Civilization V es obra de Firaxis Games."
+  },
+  {
+    "id": "vg-0300",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué ciudad transcurre Fallout 3?",
+    "options": [
+      "Boston",
+      "Washington D. C.",
+      "Nueva Vegas",
+      "Los Ángeles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fallout 3 recorre las ruinas de Washington D. C. y el Yermo Capital."
+  },
+  {
+    "id": "vg-0301",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué arma de Half-Life 2 permite levantar y lanzar objetos?",
+    "options": [
+      "Pistola de portales",
+      "BFG 9000",
+      "Pistola de gravedad",
+      "Lanzacohetes"
+    ],
+    "correctIndex": 2,
+    "explanation": "La pistola de gravedad manipula objetos a distancia."
+  },
+  {
+    "id": "vg-0302",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué MOBA de Valve es la continuación del mod Defense of the Ancients?",
+    "options": [
+      "League of Legends",
+      "Heroes of the Storm",
+      "Smite",
+      "Dota 2"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dota 2 nació como secuela del mod Defense of the Ancients."
+  },
+  {
+    "id": "vg-0303",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cuántos jugadores por equipo hay en una partida estándar de Dota 2?",
+    "options": [
+      "Cuatro",
+      "Seis",
+      "Cinco",
+      "Tres"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dota 2 se juega en equipos de cinco jugadores."
+  },
+  {
+    "id": "vg-0304",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué torneo anual de Dota 2 organiza Valve?",
+    "options": [
+      "Worlds",
+      "EVO",
+      "The International",
+      "BlizzCon"
+    ],
+    "correctIndex": 2,
+    "explanation": "The International es el campeonato anual de Dota 2."
+  },
+  {
+    "id": "vg-0305",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué campeonato mundial organiza Riot Games para League of Legends?",
+    "options": [
+      "The International",
+      "Worlds",
+      "EVO",
+      "BlizzCon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Worlds es el campeonato mundial de League of Legends."
+  },
+  {
+    "id": "vg-0306",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué serie animada de Netflix está ambientada en el universo de League of Legends?",
+    "options": [
+      "Cyberpunk: Edgerunners",
+      "Arcane",
+      "Castlevania",
+      "Dota: Dragon's Blood"
+    ],
+    "correctIndex": 1,
+    "explanation": "Arcane explora el conflicto entre Piltover y Zaun."
+  },
+  {
+    "id": "vg-0307",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó League of Legends?",
+    "options": [
+      "2007",
+      "2011",
+      "2013",
+      "2009"
+    ],
+    "correctIndex": 3,
+    "explanation": "League of Legends salió al mercado en 2009."
+  },
+  {
+    "id": "vg-0308",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó Overwatch?",
+    "options": [
+      "2014",
+      "2018",
+      "2020",
+      "2016"
+    ],
+    "correctIndex": 3,
+    "explanation": "Overwatch se lanzó en mayo de 2016."
+  },
+  {
+    "id": "vg-0309",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué heroína de Overwatch es una francotiradora letal?",
+    "options": [
+      "Tracer",
+      "Widowmaker",
+      "Mercy",
+      "D. Va"
+    ],
+    "correctIndex": 1,
+    "explanation": "Widowmaker usa un rifle de francotirador."
+  },
+  {
+    "id": "vg-0310",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué entrega de Diablo se lanzó en 2012?",
+    "options": [
+      "Diablo II",
+      "Diablo III",
+      "Diablo",
+      "Diablo Immortal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Diablo III llegó en 2012."
+  },
+  {
+    "id": "vg-0311",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cuál es un mapa clásico de Counter-Strike con dos sitios de bomba?",
+    "options": [
+      "Nuketown",
+      "Blood Gulch",
+      "Hang 'Em High",
+      "Dust II"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dust II es uno de los mapas más icónicos de Counter-Strike."
+  },
+  {
+    "id": "vg-0312",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio creó la saga Doom original?",
+    "options": [
+      "Epic Games",
+      "3D Realms",
+      "id Software",
+      "Raven Software"
+    ],
+    "correctIndex": 2,
+    "explanation": "id Software creó Doom en 1993."
+  },
+  {
+    "id": "vg-0313",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el protagonista de Doom?",
+    "options": [
+      "Duke Nukem",
+      "Master Chief",
+      "B. J. Blazkowicz",
+      "Doom Slayer"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Doom Slayer es el marine protagonista de Doom."
+  },
+  {
+    "id": "vg-0314",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la nave espacial de Shepard en Mass Effect?",
+    "options": [
+      "Millennium Falcon",
+      "Pillar of Autumn",
+      "Hyperion",
+      "Normandy"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Normandy es la nave del comandante Shepard."
+  },
+  {
+    "id": "vg-0315",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la empresa científica de Portal?",
+    "options": [
+      "Aperture Science",
+      "Black Mesa",
+      "Umbrella Corporation",
+      "Vault-Tec"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aperture Science es la empresa que realiza las pruebas de Portal."
+  },
+  {
+    "id": "vg-0316",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Cuál es el nombre real de Nathan Drake?",
+    "options": [
+      "Nathan Morgan",
+      "Sam Morgan",
+      "Henry Avery",
+      "Francis Drake"
+    ],
+    "correctIndex": 0,
+    "explanation": "En Uncharted 3 se revela que su nombre de nacimiento es Nathan Morgan."
+  },
+  {
+    "id": "vg-0317",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Cuál fue el primer juego de la saga Souls, lanzado en 2009?",
+    "options": [
+      "Dark Souls",
+      "Bloodborne",
+      "King's Field",
+      "Demon's Souls"
+    ],
+    "correctIndex": 3,
+    "explanation": "Demon's Souls inició la fórmula Souls en 2009."
+  },
+  {
+    "id": "vg-0318",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué estudio desarrolló la saga Sly Cooper?",
+    "options": [
+      "Insomniac Games",
+      "Sucker Punch Productions",
+      "Naughty Dog",
+      "High Impact Games"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sucker Punch Productions creó Sly Cooper."
+  },
+  {
+    "id": "vg-0319",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego de Naughty Dog de 2007 presentó a Nathan Drake?",
+    "options": [
+      "Uncharted 2: Among Thieves",
+      "Uncharted 3: Drake's Deception",
+      "Uncharted 4: A Thief's End",
+      "Uncharted: Drake's Fortune"
+    ],
+    "correctIndex": 3,
+    "explanation": "Drake's Fortune fue la primera entrega de Uncharted."
+  },
+  {
+    "id": "vg-0320",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién fue el director creativo de God of War (2018)?",
+    "options": [
+      "David Jaffe",
+      "Neil Druckmann",
+      "Cory Barlog",
+      "Bruce Straley"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cory Barlog dirigió el reinicio nórdico de God of War."
+  },
+  {
+    "id": "vg-0321",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién creó la saga God of War original?",
+    "options": [
+      "David Jaffe",
+      "Cory Barlog",
+      "Stig Asmussen",
+      "Neil Druckmann"
+    ],
+    "correctIndex": 0,
+    "explanation": "David Jaffe concibió y dirigió el primer God of War."
+  },
+  {
+    "id": "vg-0322",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué franquicia de Insomniac protagoniza Ratchet, un lombax?",
+    "options": [
+      "Jak and Daxter",
+      "Sly Cooper",
+      "Crash Bandicoot",
+      "Ratchet & Clank"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ratchet es un lombax y protagoniza Ratchet & Clank."
+  },
+  {
+    "id": "vg-0323",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién dirigió The Last of Us Part II?",
+    "options": [
+      "Cory Barlog",
+      "Bruce Straley",
+      "Amy Hennig",
+      "Neil Druckmann"
+    ],
+    "correctIndex": 3,
+    "explanation": "Neil Druckmann fue el director creativo de The Last of Us Part II."
+  },
+  {
+    "id": "vg-0324",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué año se lanzó The Last of Us en PlayStation 3?",
+    "options": [
+      "2012",
+      "2014",
+      "2015",
+      "2013"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Last of Us se lanzó en junio de 2013."
+  },
+  {
+    "id": "vg-0325",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué estudio desarrolló el remake de Demon's Souls para PS5?",
+    "options": [
+      "FromSoftware",
+      "Nixxes Software",
+      "Virtuos",
+      "Bluepoint Games"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bluepoint Games realizó el remake de lanzamiento de PS5."
+  },
+  {
+    "id": "vg-0326",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué estudio desarrolló Shadow of the Colossus?",
+    "options": [
+      "Team Ico",
+      "Team Silent",
+      "Clover Studio",
+      "Level-5"
+    ],
+    "correctIndex": 0,
+    "explanation": "Team Ico, dentro de Sony, desarrolló Shadow of the Colossus."
+  },
+  {
+    "id": "vg-0327",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién dirigió Shadow of the Colossus y The Last Guardian?",
+    "options": [
+      "Hideo Kojima",
+      "Fumito Ueda",
+      "Yoko Taro",
+      "Keiichiro Toyama"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fumito Ueda dirigió ambas obras de Team Ico."
+  },
+  {
+    "id": "vg-0328",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué año se lanzó Death Stranding?",
+    "options": [
+      "2017",
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "correctIndex": 2,
+    "explanation": "Death Stranding llegó a PlayStation 4 en 2019."
+  },
+  {
+    "id": "vg-0329",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué actor protagoniza Death Stranding como Sam Porter Bridges?",
+    "options": [
+      "Mads Mikkelsen",
+      "Troy Baker",
+      "Norman Reedus",
+      "Keanu Reeves"
+    ],
+    "correctIndex": 2,
+    "explanation": "Norman Reedus interpreta a Sam Porter Bridges."
+  },
+  {
+    "id": "vg-0330",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué estudio desarrolló Control?",
+    "options": [
+      "Remedy Entertainment",
+      "Arkane Studios",
+      "Tango Gameworks",
+      "Ninja Theory"
+    ],
+    "correctIndex": 0,
+    "explanation": "Control es obra del estudio finlandés Remedy Entertainment."
+  },
+  {
+    "id": "vg-0331",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Cuál fue la primera expansión de World of Warcraft?",
+    "options": [
+      "The Burning Crusade",
+      "Wrath of the Lich King",
+      "Cataclysm",
+      "Mists of Pandaria"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Burning Crusade se lanzó en 2007 como primera expansión."
+  },
+  {
+    "id": "vg-0332",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué estudio desarrolló Tomb Raider (2013)?",
+    "options": [
+      "Core Design",
+      "Eidos Montreal",
+      "IO Interactive",
+      "Crystal Dynamics"
+    ],
+    "correctIndex": 3,
+    "explanation": "Crystal Dynamics firmó el reinicio de Tomb Raider en 2013."
+  },
+  {
+    "id": "vg-0333",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿De qué juego surgió el mod original de Counter-Strike?",
+    "options": [
+      "Quake",
+      "Unreal Tournament",
+      "Doom",
+      "Half-Life"
+    ],
+    "correctIndex": 3,
+    "explanation": "Counter-Strike comenzó como un mod de Half-Life."
+  },
+  {
+    "id": "vg-0334",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué año se lanzó Counter-Strike: Global Offensive?",
+    "options": [
+      "2012",
+      "2010",
+      "2014",
+      "2016"
+    ],
+    "correctIndex": 0,
+    "explanation": "Global Offensive se lanzó en agosto de 2012."
+  },
+  {
+    "id": "vg-0335",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué episodio de Half-Life 2 formó parte de The Orange Box en 2007?",
+    "options": [
+      "Episode One",
+      "Episode Two",
+      "Lost Coast",
+      "Alyx"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Orange Box incluyó el estreno de Episode Two."
+  },
+  {
+    "id": "vg-0336",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego de Supergiant Games narra la historia de Red, una cantante con una espada parlante?",
+    "options": [
+      "Bastion",
+      "Pyre",
+      "Transistor",
+      "Hades"
+    ],
+    "correctIndex": 2,
+    "explanation": "Transistor sigue a Red y al arma conocida como Transistor."
+  },
+  {
+    "id": "vg-0337",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego ganó el GOTY en The Game Awards 2023?",
+    "options": [
+      "Alan Wake 2",
+      "Baldur's Gate 3",
+      "Marvel's Spider-Man 2",
+      "The Legend of Zelda: Tears of the Kingdom"
+    ],
+    "correctIndex": 1,
+    "explanation": "Baldur's Gate 3 fue elegido juego del año en 2023."
+  },
+  {
+    "id": "vg-0338",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego ganó el GOTY en The Game Awards 2021?",
+    "options": [
+      "Deathloop",
+      "Ratchet & Clank: Rift Apart",
+      "It Takes Two",
+      "Returnal"
+    ],
+    "correctIndex": 2,
+    "explanation": "It Takes Two se llevó el premio principal en 2021."
+  },
+  {
+    "id": "vg-0339",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué estudio desarrolló It Takes Two?",
+    "options": [
+      "Hazelight Studios",
+      "Moon Studios",
+      "Playdead",
+      "Thatgamecompany"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hazelight Studios, dirigido por Josef Fares, creó It Takes Two."
+  },
+  {
+    "id": "vg-0340",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego ganó el GOTY en The Game Awards 2020?",
+    "options": [
+      "Ghost of Tsushima",
+      "The Last of Us Part II",
+      "Hades",
+      "Doom Eternal"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Last of Us Part II ganó el GOTY en 2020."
+  },
+  {
+    "id": "vg-0341",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego ganó el GOTY en The Game Awards 2022?",
+    "options": [
+      "God of War Ragnarök",
+      "Horizon Forbidden West",
+      "Stray",
+      "Elden Ring"
+    ],
+    "correctIndex": 3,
+    "explanation": "Elden Ring se llevó el premio al juego del año en 2022."
+  },
+  {
+    "id": "vg-0342",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego ganó el GOTY en The Game Awards 2018?",
+    "options": [
+      "Red Dead Redemption 2",
+      "Marvel's Spider-Man",
+      "God of War",
+      "Celeste"
+    ],
+    "correctIndex": 2,
+    "explanation": "God of War obtuvo el GOTY de 2018."
+  },
+  {
+    "id": "vg-0343",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego ganó el GOTY en The Game Awards 2015?",
+    "options": [
+      "Fallout 4",
+      "Bloodborne",
+      "The Witcher 3: Wild Hunt",
+      "Metal Gear Solid V: The Phantom Pain"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Witcher 3 fue el juego del año en 2015."
+  },
+  {
+    "id": "vg-0344",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué estudio desarrolló Outer Wilds?",
+    "options": [
+      "Campo Santo",
+      "Mobius Digital",
+      "Playdead",
+      "Double Fine Productions"
+    ],
+    "correctIndex": 1,
+    "explanation": "Outer Wilds es obra de Mobius Digital."
+  },
+  {
+    "id": "vg-0345",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Cuántos minutos dura el bucle temporal de Outer Wilds?",
+    "options": [
+      "22",
+      "10",
+      "30",
+      "60"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cada bucle de Outer Wilds dura 22 minutos."
+  },
+  {
+    "id": "vg-0346",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego de ZA/UM protagoniza un detective amnésico en Martinaise?",
+    "options": [
+      "Kentucky Route Zero",
+      "Night in the Woods",
+      "Oxenfree",
+      "Disco Elysium"
+    ],
+    "correctIndex": 3,
+    "explanation": "Disco Elysium sigue a un detective sin memoria en Martinaise."
+  },
+  {
+    "id": "vg-0347",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué estudio desarrolló Cuphead?",
+    "options": [
+      "Studio MDHR",
+      "Playdead",
+      "Team Cherry",
+      "Supergiant Games"
+    ],
+    "correctIndex": 0,
+    "explanation": "Studio MDHR creó Cuphead con estética de dibujos animados."
+  },
+  {
+    "id": "vg-0348",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego de Playdead protagoniza un niño que escapa de una fábrica?",
+    "options": [
+      "Inside",
+      "Limbo",
+      "Little Nightmares",
+      "Bramble: The Mountain King"
+    ],
+    "correctIndex": 0,
+    "explanation": "Inside narra la huida de un niño en un mundo distópico."
+  },
+  {
+    "id": "vg-0349",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego de Thatgamecompany consiste en cruzar un desierto hacia una montaña?",
+    "options": [
+      "Flower",
+      "Abzû",
+      "Journey",
+      "Gris"
+    ],
+    "correctIndex": 2,
+    "explanation": "Journey propone un peregrinaje por el desierto hasta una montaña."
+  },
+  {
+    "id": "vg-0350",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego ganó el GOTY en The Game Awards 2014?",
+    "options": [
+      "Dark Souls II",
+      "Dragon Age: Inquisition",
+      "Middle-earth: Shadow of Mordor",
+      "Bayonetta 2"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dragon Age: Inquisition ganó la primera edición de The Game Awards."
+  }
+]

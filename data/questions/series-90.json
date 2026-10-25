@@ -1,0 +1,4902 @@
+[
+  {
+    "id": "s90-0001",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se desarrolla principalmente la serie Friends?",
+    "options": [
+      "Nueva York",
+      "Los Ángeles",
+      "Chicago",
+      "Boston"
+    ],
+    "correctIndex": 0,
+    "explanation": "Friends sigue a seis amigos que viven en Manhattan, Nueva York."
+  },
+  {
+    "id": "s90-0002",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la cafetería donde se reúnen los protagonistas de Friends?",
+    "options": [
+      "Café Nervosa",
+      "Central Perk",
+      "Monk's Cafe",
+      "The Peach Pit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Central Perk es la cafetería de Nueva York donde el grupo pasa gran parte del tiempo."
+  },
+  {
+    "id": "s90-0003",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actriz interpreta a Rachel Green en Friends?",
+    "options": [
+      "Courteney Cox",
+      "Lisa Kudrow",
+      "Jennifer Aniston",
+      "Julia Roberts"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jennifer Aniston dio vida a Rachel Green durante las diez temporadas de la serie."
+  },
+  {
+    "id": "s90-0004",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué personaje interpreta Matt LeBlanc en Friends?",
+    "options": [
+      "Chandler Bing",
+      "Ross Geller",
+      "Gunther",
+      "Joey Tribbiani"
+    ],
+    "correctIndex": 3,
+    "explanation": "Matt LeBlanc interpretó al actor y amante de la comida Joey Tribbiani."
+  },
+  {
+    "id": "s90-0005",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué frase usa Joey para coquetear con las mujeres?",
+    "options": [
+      "How you doin'?",
+      "Did I do that?",
+      "Yada yada yada",
+      "I'm listening"
+    ],
+    "correctIndex": 0,
+    "explanation": "How you doin'? es la frase característica con la que Joey intenta ligar."
+  },
+  {
+    "id": "s90-0006",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la hija de Ross y Rachel?",
+    "options": [
+      "Ben",
+      "Emma",
+      "Jack",
+      "Michael"
+    ],
+    "correctIndex": 1,
+    "explanation": "Emma nace en la octava temporada y es hija de Ross y Rachel."
+  },
+  {
+    "id": "s90-0007",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cuál es la profesión de Ross Geller?",
+    "options": [
+      "Geólogo",
+      "Arqueólogo",
+      "Paleontólogo",
+      "Profesor de historia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ross es paleontólogo y más tarde da clases en la universidad."
+  },
+  {
+    "id": "s90-0008",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cuál es la profesión de Monica Geller?",
+    "options": [
+      "Nutricionista",
+      "Panadera",
+      "Directora de restaurante",
+      "Chef"
+    ],
+    "correctIndex": 3,
+    "explanation": "Monica trabaja como chef en varios restaurantes de Nueva York."
+  },
+  {
+    "id": "s90-0009",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el mono que Ross tuvo como mascota?",
+    "options": [
+      "Marcel",
+      "Hugo",
+      "Coco",
+      "Bongo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Marcel es el mono capuchino que Ross adopta en la primera temporada."
+  },
+  {
+    "id": "s90-0010",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué personaje dice la frase We were on a break durante la serie?",
+    "options": [
+      "Chandler",
+      "Ross",
+      "Joey",
+      "Richard"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ross repite esa frase para justificar su ruptura con Rachel."
+  },
+  {
+    "id": "s90-0011",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué personaje canta la canción Smelly Cat?",
+    "options": [
+      "Rachel",
+      "Monica",
+      "Phoebe",
+      "Janice"
+    ],
+    "correctIndex": 2,
+    "explanation": "Phoebe Buffay compone y canta Smelly Cat en Central Perk."
+  },
+  {
+    "id": "s90-0012",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta a Chandler Bing?",
+    "options": [
+      "Matt LeBlanc",
+      "David Schwimmer",
+      "Matthew Fox",
+      "Matthew Perry"
+    ],
+    "correctIndex": 3,
+    "explanation": "Matthew Perry interpretó a Chandler Bing en las diez temporadas de Friends."
+  },
+  {
+    "id": "s90-0013",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpretaba a Gunther, el empleado de Central Perk?",
+    "options": [
+      "James Michael Tyler",
+      "Tom Selleck",
+      "David Schwimmer",
+      "Matthew Perry"
+    ],
+    "correctIndex": 0,
+    "explanation": "James Michael Tyler trabajó como Gunther, enamorado en secreto de Rachel."
+  },
+  {
+    "id": "s90-0014",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el excéntrico vecino de Jerry en Seinfeld?",
+    "options": [
+      "George Costanza",
+      "Cosmo Kramer",
+      "Newman",
+      "Morty Seinfeld"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kramer es el vecino de Jerry, famoso por entrar sin avisar en su apartamento."
+  },
+  {
+    "id": "s90-0015",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el café donde Jerry y sus amigos suelen comer?",
+    "options": [
+      "Central Perk",
+      "Café Nervosa",
+      "Monk's Cafe",
+      "The Peach Pit"
+    ],
+    "correctIndex": 2,
+    "explanation": "Monk's Cafe es el restaurante habitual de Jerry, George, Elaine y Kramer."
+  },
+  {
+    "id": "s90-0016",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cuál es la profesión de Jerry Seinfeld en la serie?",
+    "options": [
+      "Arquitecto",
+      "Psiquiatra",
+      "Vendedor de zapatos",
+      "Comediante de stand-up"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jerry interpreta una versión ficticia de sí mismo como comediante de stand-up."
+  },
+  {
+    "id": "s90-0017",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actriz interpreta a Elaine Benes?",
+    "options": [
+      "Julia Louis-Dreyfus",
+      "Courteney Cox",
+      "Teri Hatcher",
+      "Leah Remini"
+    ],
+    "correctIndex": 0,
+    "explanation": "Julia Louis-Dreyfus ganó un Emmy por su papel de Elaine Benes."
+  },
+  {
+    "id": "s90-0018",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el amigo calvo de Jerry que trabaja para los Yankees?",
+    "options": [
+      "Kramer",
+      "George Costanza",
+      "Newman",
+      "Morty Seinfeld"
+    ],
+    "correctIndex": 1,
+    "explanation": "George Costanza es el amigo de la infancia de Jerry y trabaja para los Yankees."
+  },
+  {
+    "id": "s90-0019",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué personaje es el cartero que vive en el mismo edificio que Jerry?",
+    "options": [
+      "Kramer",
+      "George",
+      "Newman",
+      "Bania"
+    ],
+    "correctIndex": 2,
+    "explanation": "Newman es el cartero vecino de Jerry y su enemigo recurrente."
+  },
+  {
+    "id": "s90-0020",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cuál es el nombre de pila de Kramer?",
+    "options": [
+      "Conrad",
+      "Calvin",
+      "Curtis",
+      "Cosmo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El nombre completo del personaje es Cosmo Kramer."
+  },
+  {
+    "id": "s90-0021",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué fiesta inventa Frank Costanza en Seinfeld?",
+    "options": [
+      "Festivus",
+      "Acción de Gracias",
+      "Navidad",
+      "El Día del Trabajo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Frank Costanza creó Festivus como alternativa a las fiestas comerciales."
+  },
+  {
+    "id": "s90-0022",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se conoce al famoso personaje del restaurante que grita No soup for you?",
+    "options": [
+      "El Chef Gruñón",
+      "El Nazi de la Sopa",
+      "El Carnicero",
+      "El Hombre de la Sopa"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Nazi de la Sopa es el cocinero que se niega a servir a ciertos clientes."
+  },
+  {
+    "id": "s90-0023",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué expresión se usa en Seinfeld para resumir una historia omitiendo detalles?",
+    "options": [
+      "Serenity now",
+      "No soup for you",
+      "Yada yada yada",
+      "Master of my domain"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yada yada yada se volvió una frase popular para saltarse explicaciones."
+  },
+  {
+    "id": "s90-0024",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta a David Puddy, el novio de Elaine?",
+    "options": [
+      "Wayne Knight",
+      "Michael Richards",
+      "Jerry Stiller",
+      "Patrick Warburton"
+    ],
+    "correctIndex": 3,
+    "explanation": "Patrick Warburton interpretó a David Puddy, el novio mecánico de Elaine."
+  },
+  {
+    "id": "s90-0025",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué ciudad se desarrolla Frasier?",
+    "options": [
+      "Seattle",
+      "Chicago",
+      "Boston",
+      "San Francisco"
+    ],
+    "correctIndex": 0,
+    "explanation": "Frasier Crane regresa a su ciudad natal, Seattle, para conducir un programa de radio."
+  },
+  {
+    "id": "s90-0026",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cuál es la profesión de Frasier Crane en su programa?",
+    "options": [
+      "Abogado",
+      "Psiquiatra de radio",
+      "Periodista",
+      "Médico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Frasier aconseja a los oyentes como psiquiatra en la emisora KACL."
+  },
+  {
+    "id": "s90-0027",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el hermano menor de Frasier?",
+    "options": [
+      "Martin",
+      "Eddie",
+      "Niles",
+      "Roz"
+    ],
+    "correctIndex": 2,
+    "explanation": "Niles Crane es el hermano psiquiatra de Frasier, igual de refinado que él."
+  },
+  {
+    "id": "s90-0028",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el padre de Frasier?",
+    "options": [
+      "Niles Crane",
+      "Hester Crane",
+      "Roz Doyle",
+      "Martin Crane"
+    ],
+    "correctIndex": 3,
+    "explanation": "Martin Crane es el padre policía jubilado que se muda con Frasier."
+  },
+  {
+    "id": "s90-0029",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la terapeuta física británica que cuida a Martin?",
+    "options": [
+      "Daphne Moon",
+      "Roz Doyle",
+      "Maris Crane",
+      "Lilith Sternin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Daphne Moon es la terapeuta física de Martin y el interés romántico de Niles."
+  },
+  {
+    "id": "s90-0030",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el perro de Martin?",
+    "options": [
+      "Comet",
+      "Eddie",
+      "Buck",
+      "Marcel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eddie es el perro Jack Russell de Martin que mira fijamente a Frasier."
+  },
+  {
+    "id": "s90-0031",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿De qué serie es un spin-off Frasier?",
+    "options": [
+      "Seinfeld",
+      "Wings",
+      "Cheers",
+      "The Simpsons"
+    ],
+    "correctIndex": 2,
+    "explanation": "Frasier nació como spin-off del personaje que aparecía en Cheers."
+  },
+  {
+    "id": "s90-0032",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta a Niles Crane?",
+    "options": [
+      "Kelsey Grammer",
+      "John Mahoney",
+      "Dan Butler",
+      "David Hyde Pierce"
+    ],
+    "correctIndex": 3,
+    "explanation": "David Hyde Pierce ganó varios Emmy por interpretar a Niles Crane."
+  },
+  {
+    "id": "s90-0033",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor protagoniza The Fresh Prince of Bel-Air?",
+    "options": [
+      "Will Smith",
+      "Martin Lawrence",
+      "Eddie Murphy",
+      "Jamie Foxx"
+    ],
+    "correctIndex": 0,
+    "explanation": "Will Smith interpreta una versión ficticia de sí mismo en la serie."
+  },
+  {
+    "id": "s90-0034",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿A qué lujoso barrio se muda Will al comenzar la serie?",
+    "options": [
+      "Beverly Hills",
+      "Bel-Air",
+      "Malibú",
+      "Hollywood"
+    ],
+    "correctIndex": 1,
+    "explanation": "Will se muda de Filadelfia a Bel-Air para vivir con sus tíos."
+  },
+  {
+    "id": "s90-0035",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a Carlton Banks?",
+    "options": [
+      "Will Smith",
+      "DJ Jazzy Jeff",
+      "Alfonso Ribeiro",
+      "Kadeem Hardison"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alfonso Ribeiro interpretó a Carlton, el primo presumido de Will."
+  },
+  {
+    "id": "s90-0036",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el tío de Will, dueño de la casa en Bel-Air?",
+    "options": [
+      "Carlton Banks",
+      "Geoffrey Butler",
+      "Jazz",
+      "Phil Banks"
+    ],
+    "correctIndex": 3,
+    "explanation": "Phil Banks es el tío de Will, un abogado adinerado y juez."
+  },
+  {
+    "id": "s90-0037",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el mayordomo de la familia Banks?",
+    "options": [
+      "Geoffrey",
+      "Jazz",
+      "Carlton",
+      "Philip"
+    ],
+    "correctIndex": 0,
+    "explanation": "Geoffrey es el mayordomo británico de la familia Banks."
+  },
+  {
+    "id": "s90-0038",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué baile se hizo famoso gracias al personaje de Carlton?",
+    "options": [
+      "El Urkel",
+      "El baile de Carlton",
+      "El Running Man",
+      "La Macarena"
+    ],
+    "correctIndex": 1,
+    "explanation": "El característico movimiento de Carlton se conoce como el baile de Carlton."
+  },
+  {
+    "id": "s90-0039",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor y DJ interpreta a Jazz en la serie?",
+    "options": [
+      "Alfonso Ribeiro",
+      "Joseph Marcell",
+      "DJ Jazzy Jeff",
+      "Kadeem Hardison"
+    ],
+    "correctIndex": 2,
+    "explanation": "DJ Jazzy Jeff, compañero musical de Will Smith, interpreta a Jazz."
+  },
+  {
+    "id": "s90-0040",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad vive la familia Tanner en Full House?",
+    "options": [
+      "Los Ángeles",
+      "Chicago",
+      "Nueva York",
+      "San Francisco"
+    ],
+    "correctIndex": 3,
+    "explanation": "Full House se desarrolla en San Francisco, California."
+  },
+  {
+    "id": "s90-0041",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el padre de las tres niñas Tanner?",
+    "options": [
+      "Danny Tanner",
+      "Jesse Katsopolis",
+      "Joey Gladstone",
+      "Nick Katsopolis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Danny Tanner es el padre viudo que cría a D.J., Stephanie y Michelle."
+  },
+  {
+    "id": "s90-0042",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué gemelas interpretan a Michelle Tanner?",
+    "options": [
+      "Las gemelas Mowry",
+      "Mary-Kate y Ashley Olsen",
+      "Las hermanas Fanning",
+      "Ashley y Elizabeth Olsen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mary-Kate y Ashley Olsen compartieron el papel de Michelle durante toda la serie."
+  },
+  {
+    "id": "s90-0043",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el tío de las niñas que vive con ellas?",
+    "options": [
+      "Joey Gladstone",
+      "Danny Tanner",
+      "Jesse Katsopolis",
+      "Steve Hale"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jesse es el tío materno de las niñas y vive en la casa para ayudar a Danny."
+  },
+  {
+    "id": "s90-0044",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué frase repite Stephanie Tanner con frecuencia?",
+    "options": [
+      "You got it, dude",
+      "Did I do that?",
+      "Cut it out",
+      "How rude!"
+    ],
+    "correctIndex": 3,
+    "explanation": "How rude! es la muletilla característica de Stephanie."
+  },
+  {
+    "id": "s90-0045",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la banda en la que toca Jesse?",
+    "options": [
+      "Jesse and the Rippers",
+      "The Beach Boys",
+      "The Tanner Trio",
+      "Uncle Jesse's Band"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jesse and the Rippers es el grupo con el que Jesse toca en la serie."
+  },
+  {
+    "id": "s90-0046",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el vecino torpe y enamorado de Laura en Family Matters?",
+    "options": [
+      "Waldo Faldo",
+      "Steve Urkel",
+      "Eddie Winslow",
+      "Richie Crawford"
+    ],
+    "correctIndex": 1,
+    "explanation": "Steve Urkel es el vecino genio y torpe que persigue a Laura durante toda la serie."
+  },
+  {
+    "id": "s90-0047",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué frase dice Steve Urkel después de provocar un accidente?",
+    "options": [
+      "How rude!",
+      "Cut it out!",
+      "Did I do that?",
+      "I'm listening"
+    ],
+    "correctIndex": 2,
+    "explanation": "Did I do that? es la frase más recordada de Steve Urkel."
+  },
+  {
+    "id": "s90-0048",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué ciudad vive la familia Winslow?",
+    "options": [
+      "Detroit",
+      "Cleveland",
+      "Filadelfia",
+      "Chicago"
+    ],
+    "correctIndex": 3,
+    "explanation": "La familia Winslow vive en Chicago, Illinois."
+  },
+  {
+    "id": "s90-0049",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el alter ego elegante y seductor de Steve Urkel?",
+    "options": [
+      "Stefan Urquelle",
+      "Stefan Winslow",
+      "Cool Steve",
+      "Urkelbot"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stefan Urquelle es la personalidad sofisticada que Urkel adopta tras un experimento."
+  },
+  {
+    "id": "s90-0050",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el padre de la familia, que trabaja como policía?",
+    "options": [
+      "Eddie Winslow",
+      "Carl Winslow",
+      "Harriette Winslow",
+      "Waldo Faldo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Carl Winslow es el padre de familia y oficial de policía de Chicago."
+  },
+  {
+    "id": "s90-0051",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta a Steve Urkel?",
+    "options": [
+      "Reginald VelJohnson",
+      "Darius McCrary",
+      "Jaleel White",
+      "Kellie Shanygne Williams"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jaleel White interpretó a Steve Urkel y a sus variantes durante la serie."
+  },
+  {
+    "id": "s90-0052",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el protagonista de Boy Meets World?",
+    "options": [
+      "Shawn Hunter",
+      "Eric Matthews",
+      "George Feeny",
+      "Cory Matthews"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cory Matthews es el protagonista que atraviesa la secundaria y la universidad."
+  },
+  {
+    "id": "s90-0053",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el gran amor de Cory, con quien termina casándose?",
+    "options": [
+      "Topanga Lawrence",
+      "Angela Moore",
+      "Rachel McGuire",
+      "Lauren"
+    ],
+    "correctIndex": 0,
+    "explanation": "Topanga Lawrence es la novia de la infancia y luego esposa de Cory."
+  },
+  {
+    "id": "s90-0054",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es el profesor y vecino que aconseja a Cory?",
+    "options": [
+      "Jonathan Turner",
+      "George Feeny",
+      "Eli Williams",
+      "Stuart Minkus"
+    ],
+    "correctIndex": 1,
+    "explanation": "George Feeny es el profesor y vecino que guía a Cory durante toda la serie."
+  },
+  {
+    "id": "s90-0055",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué ciudad vive Cory Matthews?",
+    "options": [
+      "Boston",
+      "Chicago",
+      "Filadelfia",
+      "Nueva York"
+    ],
+    "correctIndex": 2,
+    "explanation": "Boy Meets World se desarrolla en Filadelfia, Pensilvania."
+  },
+  {
+    "id": "s90-0056",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el mejor amigo de Cory?",
+    "options": [
+      "Eric Matthews",
+      "Stuart Minkus",
+      "Jack Hunter",
+      "Shawn Hunter"
+    ],
+    "correctIndex": 3,
+    "explanation": "Shawn Hunter es el mejor amigo de Cory y su compañero de aventuras."
+  },
+  {
+    "id": "s90-0057",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta a George Feeny?",
+    "options": [
+      "William Daniels",
+      "Ben Savage",
+      "Rider Strong",
+      "William Russ"
+    ],
+    "correctIndex": 0,
+    "explanation": "William Daniels, recordado también por El auto fantástico, interpretó a Mr. Feeny."
+  },
+  {
+    "id": "s90-0058",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el programa de bricolaje que conduce Tim Taylor?",
+    "options": [
+      "Home Improvement",
+      "Tool Time",
+      "Fix It Up",
+      "Tool Talk"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tool Time es el programa de herramientas que Tim presenta con Al Borland."
+  },
+  {
+    "id": "s90-0059",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el vecino que conversa con Tim desde detrás de la cerca?",
+    "options": [
+      "Al Borland",
+      "Mark Taylor",
+      "Wilson",
+      "Harry"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wilson es el vecino sabio cuya cara casi nunca se ve completa."
+  },
+  {
+    "id": "s90-0060",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué ciudad se desarrolla Home Improvement?",
+    "options": [
+      "Chicago",
+      "Cleveland",
+      "Milwaukee",
+      "Detroit"
+    ],
+    "correctIndex": 3,
+    "explanation": "La familia Taylor vive en Detroit, Míchigan."
+  },
+  {
+    "id": "s90-0061",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el compañero de Tim en Tool Time?",
+    "options": [
+      "Al Borland",
+      "Wilson",
+      "Brad Taylor",
+      "Harry Turner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al Borland es el copresentador prudente de Tool Time."
+  },
+  {
+    "id": "s90-0062",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta a Wilson?",
+    "options": [
+      "Richard Karn",
+      "Earl Hindman",
+      "Jonathan Taylor Thomas",
+      "Tim Allen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Earl Hindman interpretó al vecino Wilson durante toda la serie."
+  },
+  {
+    "id": "s90-0063",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el protagonista de Married... with Children?",
+    "options": [
+      "Bud Bundy",
+      "Steve Rhoades",
+      "Al Bundy",
+      "Jefferson D'Arcy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al Bundy es el vendedor de zapatos protagonista de la serie."
+  },
+  {
+    "id": "s90-0064",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cuál es el trabajo de Al Bundy?",
+    "options": [
+      "Vendedor de autos",
+      "Mecánico",
+      "Profesor de gimnasia",
+      "Vendedor de zapatos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al trabaja en una tienda de zapatos llamada Gary's Shoes."
+  },
+  {
+    "id": "s90-0065",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la esposa de Al Bundy?",
+    "options": [
+      "Peggy",
+      "Kelly",
+      "Marcy",
+      "Bud"
+    ],
+    "correctIndex": 0,
+    "explanation": "Peggy Bundy es la esposa de Al, famosa por su peinado y su pereza."
+  },
+  {
+    "id": "s90-0066",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llaman los dos hijos de Al y Peggy?",
+    "options": [
+      "Kelly y Steve",
+      "Kelly y Bud",
+      "Bud y Jefferson",
+      "Kelly y Seven"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kelly y Bud son los hijos adolescentes de los Bundy."
+  },
+  {
+    "id": "s90-0067",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cuántos touchdowns dice Al Bundy que anotó en un solo partido de preparatoria?",
+    "options": [
+      "Dos",
+      "Tres",
+      "Cuatro",
+      "Cinco"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al presume de haber anotado cuatro touchdowns en un partido con Polk High."
+  },
+  {
+    "id": "s90-0068",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta a Al Bundy?",
+    "options": [
+      "Ted McGinley",
+      "David Faustino",
+      "Ed Begley Jr.",
+      "Ed O'Neill"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ed O'Neill interpretó a Al Bundy y luego fue Jay Pritchett en Modern Family."
+  },
+  {
+    "id": "s90-0069",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la gata parlante que vive con Sabrina?",
+    "options": [
+      "Salem",
+      "Eddie",
+      "Comet",
+      "Buck"
+    ],
+    "correctIndex": 0,
+    "explanation": "Salem es la gata negra parlante que acompaña a Sabrina."
+  },
+  {
+    "id": "s90-0070",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quiénes son las tías brujas con las que vive Sabrina?",
+    "options": [
+      "Hilda y Mary",
+      "Hilda y Zelda",
+      "Zelda y Sabrina",
+      "Hilda y Salem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hilda y Zelda son las tías de Sabrina y sus guardianas."
+  },
+  {
+    "id": "s90-0071",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el interés amoroso de Sabrina en la serie?",
+    "options": [
+      "Josh Blackhart",
+      "Aaron Jacobs",
+      "Harvey Kinkle",
+      "Dashiell"
+    ],
+    "correctIndex": 2,
+    "explanation": "Harvey Kinkle es el vecino y novio de Sabrina durante varias temporadas."
+  },
+  {
+    "id": "s90-0072",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué editorial de cómics se basa el personaje de Sabrina?",
+    "options": [
+      "DC Comics",
+      "Marvel Comics",
+      "Dark Horse Comics",
+      "Archie Comics"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sabrina apareció originalmente en los cómics de Archie Comics."
+  },
+  {
+    "id": "s90-0073",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actriz protagoniza The Nanny?",
+    "options": [
+      "Fran Drescher",
+      "Roseanne Barr",
+      "Debra Messing",
+      "Leah Remini"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fran Drescher creó y protagonizó The Nanny como Fran Fine."
+  },
+  {
+    "id": "s90-0074",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el personaje que interpreta Fran Drescher?",
+    "options": [
+      "Fran Sheffield",
+      "Fran Fine",
+      "Sylvia Fine",
+      "C.C. Babcock"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fran Fine es la vendedora de cosméticos que se convierte en niñera."
+  },
+  {
+    "id": "s90-0075",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿A qué familia llega Fran para trabajar como niñera?",
+    "options": [
+      "Los Fine",
+      "Los Maxwell",
+      "Los Sheffield",
+      "Los Brighton"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fran llega por error a la casa del productor Maxwell Sheffield."
+  },
+  {
+    "id": "s90-0076",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cuál es la profesión de Maxwell Sheffield?",
+    "options": [
+      "Abogado",
+      "Médico",
+      "Empresario naviero",
+      "Productor de teatro"
+    ],
+    "correctIndex": 3,
+    "explanation": "Maxwell Sheffield es un rico productor de Broadway."
+  },
+  {
+    "id": "s90-0077",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el mayordomo de los Sheffield?",
+    "options": [
+      "Niles",
+      "Brighton",
+      "Maxwell",
+      "Yetta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Niles es el sarcástico mayordomo de la familia Sheffield."
+  },
+  {
+    "id": "s90-0078",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el mejor amigo gay de Grace en Will & Grace?",
+    "options": [
+      "Jack McFarland",
+      "Will Truman",
+      "Leo Markus",
+      "Vince D'Angelo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Will Truman es el mejor amigo de Grace y coprotagonista de la serie."
+  },
+  {
+    "id": "s90-0079",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cuál es la profesión de Will Truman?",
+    "options": [
+      "Diseñador de interiores",
+      "Actor",
+      "Abogado",
+      "Médico"
+    ],
+    "correctIndex": 2,
+    "explanation": "Will Truman trabaja como abogado en Nueva York."
+  },
+  {
+    "id": "s90-0080",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cuál es la profesión de Grace Adler?",
+    "options": [
+      "Abogada",
+      "Arquitecta",
+      "Publicista",
+      "Diseñadora de interiores"
+    ],
+    "correctIndex": 3,
+    "explanation": "Grace Adler dirige su propio estudio de diseño de interiores."
+  },
+  {
+    "id": "s90-0081",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz interpreta a Karen Walker?",
+    "options": [
+      "Megan Mullally",
+      "Debra Messing",
+      "Eric McCormack",
+      "Sean Hayes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Megan Mullally ganó dos Emmy por interpretar a Karen Walker."
+  },
+  {
+    "id": "s90-0082",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la asistenta de Karen?",
+    "options": [
+      "Marta",
+      "Rosario Salazar",
+      "Lupe",
+      "Consuelo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rosario Salazar es la asistenta salvadoreña de Karen y su confidente."
+  },
+  {
+    "id": "s90-0083",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a Mike Flaherty en las primeras temporadas de Spin City?",
+    "options": [
+      "Charlie Sheen",
+      "Ted Danson",
+      "Michael J. Fox",
+      "Kelsey Grammer"
+    ],
+    "correctIndex": 2,
+    "explanation": "Michael J. Fox protagonizó Spin City hasta que dejó la serie por problemas de salud."
+  },
+  {
+    "id": "s90-0084",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor sustituyó a Michael J. Fox como protagonista de Spin City?",
+    "options": [
+      "Charlie Cox",
+      "Charlie Day",
+      "Charlie Hunnam",
+      "Charlie Sheen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Charlie Sheen se incorporó como Charlie Crawford tras la salida de Michael J. Fox."
+  },
+  {
+    "id": "s90-0085",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el alcalde de Nueva York en Spin City?",
+    "options": [
+      "Randall Winston",
+      "Mike Flaherty",
+      "Paul Lassiter",
+      "Stuart Bondek"
+    ],
+    "correctIndex": 0,
+    "explanation": "Randall Winston, interpretado por Barry Bostwick, es el alcalde de la serie."
+  },
+  {
+    "id": "s90-0086",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué tipo de medio trabajan los personajes de NewsRadio?",
+    "options": [
+      "En un canal de televisión",
+      "En una emisora de radio",
+      "En un periódico",
+      "En una revista"
+    ],
+    "correctIndex": 1,
+    "explanation": "NewsRadio se desarrolla en la emisora de radio WNYX de Nueva York."
+  },
+  {
+    "id": "s90-0087",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a Bill McNeal en NewsRadio?",
+    "options": [
+      "Dave Foley",
+      "Andy Dick",
+      "Phil Hartman",
+      "Joe Rogan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Phil Hartman interpretó al locutor Bill McNeal antes de su muerte en 1998."
+  },
+  {
+    "id": "s90-0088",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cuál es el nombre de la emisora de NewsRadio?",
+    "options": [
+      "WKRP",
+      "WNYC",
+      "WABC",
+      "WNYX"
+    ],
+    "correctIndex": 3,
+    "explanation": "WNYX es la emisora de radio donde trabaja el equipo de la serie."
+  },
+  {
+    "id": "s90-0089",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué son en realidad los miembros de la familia Solomon en 3rd Rock from the Sun?",
+    "options": [
+      "Extraterrestres",
+      "Fantasmas",
+      "Robots",
+      "Mutantes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los Solomon son extraterrestres que se hacen pasar por una familia humana."
+  },
+  {
+    "id": "s90-0090",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a Dick Solomon?",
+    "options": [
+      "French Stewart",
+      "John Lithgow",
+      "Joseph Gordon-Levitt",
+      "Wayne Knight"
+    ],
+    "correctIndex": 1,
+    "explanation": "John Lithgow interpretó al comandante alienígena Dick Solomon."
+  },
+  {
+    "id": "s90-0091",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cuál de los alienígenas es el comandante de la misión?",
+    "options": [
+      "Harry",
+      "Tommy",
+      "Dick",
+      "Sally"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dick es el alto comandante de la misión enviada a la Tierra."
+  },
+  {
+    "id": "s90-0092",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la profesora universitaria que es el interés romántico de Dick?",
+    "options": [
+      "Sally Solomon",
+      "Nina Campbell",
+      "Judith Draper",
+      "Mary Albright"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mary Albright es la profesora de antropología y pareja de Dick."
+  },
+  {
+    "id": "s90-0093",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué tienda departamental trabaja Drew Carey?",
+    "options": [
+      "Winfred-Louder",
+      "Dunder Mifflin",
+      "Buy More",
+      "Wernham Hogg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Drew trabaja en la tienda departamental Winfred-Louder de Cleveland."
+  },
+  {
+    "id": "s90-0094",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué ciudad se desarrolla The Drew Carey Show?",
+    "options": [
+      "Chicago",
+      "Cleveland",
+      "Detroit",
+      "Pittsburgh"
+    ],
+    "correctIndex": 1,
+    "explanation": "La serie se desarrolla en Cleveland, Ohio, ciudad natal de Drew Carey."
+  },
+  {
+    "id": "s90-0095",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la compañera de trabajo que es la enemiga de Drew?",
+    "options": [
+      "Kate O'Brien",
+      "Lisa Robbins",
+      "Mimi Bobeck",
+      "Oswald Lee Harvey"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mimi Bobeck es la rival de Drew en la oficina, famosa por su maquillaje."
+  },
+  {
+    "id": "s90-0096",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué estado viven Frank, Carol y sus hijos?",
+    "options": [
+      "Ohio",
+      "Míchigan",
+      "Illinois",
+      "Wisconsin"
+    ],
+    "correctIndex": 3,
+    "explanation": "La familia reconstituida de Step by Step vive en Wisconsin."
+  },
+  {
+    "id": "s90-0097",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actores interpretan a Frank Lambert y Carol Foster?",
+    "options": [
+      "Patrick Duffy y Suzanne Somers",
+      "Tim Allen y Patricia Richardson",
+      "Ed O'Neill y Katey Sagal",
+      "Bob Saget y Lori Loughlin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Patrick Duffy y Suzanne Somers encabezaron esta comedia familiar."
+  },
+  {
+    "id": "s90-0098",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actriz interpreta a Al Lambert, la hija menor de Frank?",
+    "options": [
+      "Sasha Mitchell",
+      "Christine Lakin",
+      "Staci Keanan",
+      "Angela Watson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Christine Lakin interpretó a Al Lambert, la hija traviesa de Frank."
+  },
+  {
+    "id": "s90-0099",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la escuela secundaria a la que asisten Zack y sus amigos?",
+    "options": [
+      "Valley High",
+      "West Beverly High",
+      "Bayside High",
+      "Liberty High"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zack y sus amigos estudian en Bayside High, en California."
+  },
+  {
+    "id": "s90-0100",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el director de Bayside High?",
+    "options": [
+      "Mr. Feeny",
+      "Mr. Turner",
+      "Principal Skinner",
+      "Mr. Belding"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mr. Belding es el director de la escuela y blanco frecuente de las bromas de Zack."
+  },
+  {
+    "id": "s90-0101",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el amigo nerd de Zack?",
+    "options": [
+      "Screech",
+      "A.C. Slater",
+      "Jessie Spano",
+      "Lisa Turtle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Samuel Screech Powers es el amigo inventor y torpe de Zack."
+  },
+  {
+    "id": "s90-0102",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a Zack Morris?",
+    "options": [
+      "Mario López",
+      "Mark-Paul Gosselaar",
+      "Dustin Diamond",
+      "Tiffani Thiessen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mark-Paul Gosselaar interpretó a Zack Morris, el carismático líder del grupo."
+  },
+  {
+    "id": "s90-0103",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la porrista que es el gran amor de Zack?",
+    "options": [
+      "Lisa Turtle",
+      "Jessie Spano",
+      "Kelly Kapowski",
+      "Kelly Taylor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kelly Kapowski es la porrista y novia intermitente de Zack."
+  },
+  {
+    "id": "s90-0104",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz interpreta a Kelly Kapowski?",
+    "options": [
+      "Lark Voorhies",
+      "Elizabeth Berkley",
+      "Leanna Creel",
+      "Tiffani Thiessen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tiffani Thiessen interpretó a Kelly Kapowski en Saved by the Bell."
+  },
+  {
+    "id": "s90-0105",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué canción canta Jessie en el episodio en que abusa de las pastillas de cafeína?",
+    "options": [
+      "I'm So Excited",
+      "Girls Just Want to Have Fun",
+      "Material Girl",
+      "Wake Me Up Before You Go-Go"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jessie canta I'm So Excited, de The Pointer Sisters, en el episodio sobre las pastillas."
+  },
+  {
+    "id": "s90-0106",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el padre de la familia Simpson?",
+    "options": [
+      "Bart",
+      "Homer",
+      "Ned",
+      "Moe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Homer Simpson es el padre de la familia y trabajador de la planta nuclear."
+  },
+  {
+    "id": "s90-0107",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la esposa de Homer Simpson?",
+    "options": [
+      "Patty Bouvier",
+      "Selma Bouvier",
+      "Marge Simpson",
+      "Mona Simpson"
+    ],
+    "correctIndex": 2,
+    "explanation": "Marge Simpson es la esposa de Homer y madre de Bart, Lisa y Maggie."
+  },
+  {
+    "id": "s90-0108",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el vecino religioso y amable de los Simpson?",
+    "options": [
+      "Moe Szyslak",
+      "Apu Nahasapeemapetilon",
+      "Barney Gumble",
+      "Ned Flanders"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ned Flanders vive junto a los Simpson y es un devoto cristiano."
+  },
+  {
+    "id": "s90-0109",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la madre de Homer, que estuvo prófuga durante años?",
+    "options": [
+      "Mona Simpson",
+      "Jacqueline Bouvier",
+      "Patty Bouvier",
+      "Marge Simpson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mona Simpson abandonó a la familia y vivió prófuga por sus actividades activistas."
+  },
+  {
+    "id": "s90-0110",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llaman los gemelos que se mudan a Beverly Hills al inicio de la serie?",
+    "options": [
+      "Dylan y Kelly",
+      "Brandon y Brenda Walsh",
+      "Steve y Donna",
+      "Andrea y David"
+    ],
+    "correctIndex": 1,
+    "explanation": "Brandon y Brenda Walsh llegan desde Minnesota y se convierten en el centro de la trama."
+  },
+  {
+    "id": "s90-0111",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué cadena se emitió originalmente Beverly Hills, 90210?",
+    "options": [
+      "NBC",
+      "ABC",
+      "FOX",
+      "CBS"
+    ],
+    "correctIndex": 2,
+    "explanation": "Beverly Hills, 90210 fue una de las series juveniles emblemáticas de FOX."
+  },
+  {
+    "id": "s90-0112",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el instituto al que asisten los protagonistas?",
+    "options": [
+      "Bayside High",
+      "Liberty High",
+      "Palisades High",
+      "West Beverly High"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los protagonistas estudian en West Beverly High."
+  },
+  {
+    "id": "s90-0113",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿De qué ciudad se mudan Brandon y Brenda a Beverly Hills?",
+    "options": [
+      "Minneapolis",
+      "Chicago",
+      "Nueva York",
+      "Seattle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los gemelos Walsh se trasladan desde Minneapolis, Minnesota."
+  },
+  {
+    "id": "s90-0114",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a Dylan McKay?",
+    "options": [
+      "Jason Priestley",
+      "Luke Perry",
+      "Ian Ziering",
+      "Brian Austin Green"
+    ],
+    "correctIndex": 1,
+    "explanation": "Luke Perry interpretó al rebelde Dylan McKay."
+  },
+  {
+    "id": "s90-0115",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actriz interpreta a Kelly Taylor?",
+    "options": [
+      "Shannen Doherty",
+      "Tori Spelling",
+      "Jennie Garth",
+      "Gabrielle Carteris"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jennie Garth dio vida a Kelly Taylor durante toda la serie."
+  },
+  {
+    "id": "s90-0116",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿De qué serie es spin-off Melrose Place?",
+    "options": [
+      "Knots Landing",
+      "Dynasty",
+      "Dawson's Creek",
+      "Beverly Hills, 90210"
+    ],
+    "correctIndex": 3,
+    "explanation": "Melrose Place nació como un spin-off de Beverly Hills, 90210."
+  },
+  {
+    "id": "s90-0117",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se ubica el edificio de apartamentos de Melrose Place?",
+    "options": [
+      "Los Ángeles",
+      "Nueva York",
+      "San Francisco",
+      "Miami"
+    ],
+    "correctIndex": 0,
+    "explanation": "El complejo de apartamentos está en Los Ángeles, California."
+  },
+  {
+    "id": "s90-0118",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz interpreta a Amanda Woodward?",
+    "options": [
+      "Marcia Cross",
+      "Heather Locklear",
+      "Josie Bissett",
+      "Courtney Thorne-Smith"
+    ],
+    "correctIndex": 1,
+    "explanation": "Heather Locklear se unió a Melrose Place como la implacable Amanda Woodward."
+  },
+  {
+    "id": "s90-0119",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el personaje que interpreta Andrew Shue?",
+    "options": [
+      "Jake Hanson",
+      "Matt Fielding",
+      "Billy Campbell",
+      "Michael Mancini"
+    ],
+    "correctIndex": 2,
+    "explanation": "Andrew Shue interpretó a Billy Campbell, uno de los vecinos del edificio."
+  },
+  {
+    "id": "s90-0120",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el pueblo ficticio donde viven Dawson y sus amigos?",
+    "options": [
+      "Riverdale",
+      "Smallville",
+      "Sunnydale",
+      "Capeside"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dawson's Creek se desarrolla en el pueblo costero ficticio de Capeside."
+  },
+  {
+    "id": "s90-0121",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué cadena se emitió originalmente Dawson's Creek?",
+    "options": [
+      "The WB",
+      "FOX",
+      "NBC",
+      "ABC"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dawson's Creek fue una de las series insignia de The WB."
+  },
+  {
+    "id": "s90-0122",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz interpreta a Joey Potter?",
+    "options": [
+      "Michelle Williams",
+      "Katie Holmes",
+      "Selma Blair",
+      "Katie Cassidy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Katie Holmes interpretó a Joey Potter, la amiga de la infancia de Dawson."
+  },
+  {
+    "id": "s90-0123",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué canción de Paula Cole es el tema de apertura de Dawson's Creek?",
+    "options": [
+      "Kiss Me",
+      "Searchin' My Soul",
+      "I Don't Want to Wait",
+      "Everything's Gonna Be Alright"
+    ],
+    "correctIndex": 2,
+    "explanation": "I Don't Want to Wait, de Paula Cole, acompaña los créditos iniciales."
+  },
+  {
+    "id": "s90-0124",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el hermano mayor que asume la tutela de los Salinger?",
+    "options": [
+      "Bailey",
+      "Owen",
+      "Griffin",
+      "Charlie"
+    ],
+    "correctIndex": 3,
+    "explanation": "Charlie Salinger se hace cargo de sus hermanos tras la muerte de los padres."
+  },
+  {
+    "id": "s90-0125",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué les ocurre a los padres de los Salinger al inicio de la serie?",
+    "options": [
+      "Mueren en un accidente de tráfico",
+      "Se mudan a Europa",
+      "Los abandonan",
+      "Mueren en un incendio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los padres mueren en un accidente automovilístico y los hijos quedan a cargo de Charlie."
+  },
+  {
+    "id": "s90-0126",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta a Bailey Salinger?",
+    "options": [
+      "Matthew Fox",
+      "Scott Wolf",
+      "Scott Speedman",
+      "Jeremy London"
+    ],
+    "correctIndex": 1,
+    "explanation": "Scott Wolf interpretó a Bailey, el segundo hermano de los Salinger."
+  },
+  {
+    "id": "s90-0127",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la protagonista de My So-Called Life?",
+    "options": [
+      "Rayanne Graff",
+      "Jordan Catalano",
+      "Angela Chase",
+      "Sharon Cherski"
+    ],
+    "correctIndex": 2,
+    "explanation": "Angela Chase es la adolescente protagonista de la serie."
+  },
+  {
+    "id": "s90-0128",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el chico rebelde del que Angela está enamorada?",
+    "options": [
+      "Brian Krakow",
+      "Rickie Vasquez",
+      "Graham Chase",
+      "Jordan Catalano"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jordan Catalano, interpretado por Jared Leto, es el interés amoroso de Angela."
+  },
+  {
+    "id": "s90-0129",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cuántas temporadas tuvo My So-Called Life?",
+    "options": [
+      "Una",
+      "Dos",
+      "Tres",
+      "Cuatro"
+    ],
+    "correctIndex": 0,
+    "explanation": "La serie se canceló tras una sola temporada de diecinueve episodios."
+  },
+  {
+    "id": "s90-0130",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se ubica el hospital County General de ER?",
+    "options": [
+      "Nueva York",
+      "Chicago",
+      "Los Ángeles",
+      "Boston"
+    ],
+    "correctIndex": 1,
+    "explanation": "ER se desarrolla en el ficticio County General de Chicago."
+  },
+  {
+    "id": "s90-0131",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta al Dr. Doug Ross?",
+    "options": [
+      "Anthony Edwards",
+      "Noah Wyle",
+      "George Clooney",
+      "Eriq La Salle"
+    ],
+    "correctIndex": 2,
+    "explanation": "George Clooney interpretó al pediatra Doug Ross antes de su carrera en el cine."
+  },
+  {
+    "id": "s90-0132",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta al Dr. Mark Greene?",
+    "options": [
+      "George Clooney",
+      "Noah Wyle",
+      "Julianna Margulies",
+      "Anthony Edwards"
+    ],
+    "correctIndex": 3,
+    "explanation": "Anthony Edwards fue el Dr. Mark Greene, uno de los médicos centrales de ER."
+  },
+  {
+    "id": "s90-0133",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la enfermera que tiene una relación con Doug Ross?",
+    "options": [
+      "Carol Hathaway",
+      "Susan Lewis",
+      "Kerry Weaver",
+      "Abbey Lockhart"
+    ],
+    "correctIndex": 0,
+    "explanation": "Carol Hathaway, interpretada por Julianna Margulies, es enfermera y pareja de Doug."
+  },
+  {
+    "id": "s90-0134",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actriz interpreta a la Dra. Kerry Weaver?",
+    "options": [
+      "Sherry Stringfield",
+      "Laura Innes",
+      "Julianna Margulies",
+      "Maura Tierney"
+    ],
+    "correctIndex": 1,
+    "explanation": "Laura Innes interpretó a la estricta Dra. Kerry Weaver."
+  },
+  {
+    "id": "s90-0135",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué cadena se emitió Chicago Hope?",
+    "options": [
+      "NBC",
+      "ABC",
+      "CBS",
+      "FOX"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chicago Hope se emitió en CBS entre 1994 y 2000."
+  },
+  {
+    "id": "s90-0136",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta al Dr. Jeffrey Geiger?",
+    "options": [
+      "Adam Arkin",
+      "Héctor Elizondo",
+      "Stanley Tucci",
+      "Mandy Patinkin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mandy Patinkin interpretó al brillante y temperamental Dr. Jeffrey Geiger."
+  },
+  {
+    "id": "s90-0137",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta al Dr. Phillip Watters?",
+    "options": [
+      "Héctor Elizondo",
+      "Mandy Patinkin",
+      "Adam Arkin",
+      "Peter Berg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Héctor Elizondo dio vida al director del hospital, el Dr. Phillip Watters."
+  },
+  {
+    "id": "s90-0138",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a Andy Sipowicz?",
+    "options": [
+      "David Caruso",
+      "Dennis Franz",
+      "Jimmy Smits",
+      "Dennis Farina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dennis Franz ganó varios Emmy por su papel de Andy Sipowicz."
+  },
+  {
+    "id": "s90-0139",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se desarrolla NYPD Blue?",
+    "options": [
+      "Chicago",
+      "Los Ángeles",
+      "Nueva York",
+      "Baltimore"
+    ],
+    "correctIndex": 2,
+    "explanation": "La serie sigue a los detectives de una comisaría de Nueva York."
+  },
+  {
+    "id": "s90-0140",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpretó a John Kelly en la primera temporada?",
+    "options": [
+      "Jimmy Smits",
+      "Dennis Franz",
+      "Gordon Clapp",
+      "David Caruso"
+    ],
+    "correctIndex": 3,
+    "explanation": "David Caruso interpretó a John Kelly antes de abandonar la serie."
+  },
+  {
+    "id": "s90-0141",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta al detective Greg Medavoy?",
+    "options": [
+      "Gordon Clapp",
+      "Nicholas Turturro",
+      "James McDaniel",
+      "Dennis Franz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gordon Clapp interpretó al detective Greg Medavoy durante toda la serie."
+  },
+  {
+    "id": "s90-0142",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta al detective Lennie Briscoe?",
+    "options": [
+      "Sam Waterston",
+      "Jerry Orbach",
+      "Chris Noth",
+      "Benjamin Bratt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jerry Orbach interpretó a Lennie Briscoe desde 1992 hasta 2004."
+  },
+  {
+    "id": "s90-0143",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta al fiscal Jack McCoy?",
+    "options": [
+      "Michael Moriarty",
+      "Steven Hill",
+      "Sam Waterston",
+      "Jerry Orbach"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sam Waterston interpretó a Jack McCoy durante muchas temporadas."
+  },
+  {
+    "id": "s90-0144",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el fiscal de distrito interpretado por Steven Hill?",
+    "options": [
+      "Jack McCoy",
+      "Ben Stone",
+      "Paul Robinette",
+      "Adam Schiff"
+    ],
+    "correctIndex": 3,
+    "explanation": "Adam Schiff es el fiscal de distrito que supervisa a los fiscales de la serie."
+  },
+  {
+    "id": "s90-0145",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Quién creó la franquicia Law & Order?",
+    "options": [
+      "Dick Wolf",
+      "David E. Kelley",
+      "Steven Bochco",
+      "Tom Fontana"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dick Wolf creó Law & Order y sus numerosas series derivadas."
+  },
+  {
+    "id": "s90-0146",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se desarrolla Homicide: Life on the Street?",
+    "options": [
+      "Nueva York",
+      "Baltimore",
+      "Chicago",
+      "Filadelfia"
+    ],
+    "correctIndex": 1,
+    "explanation": "La serie sigue a la unidad de homicidios de Baltimore."
+  },
+  {
+    "id": "s90-0147",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta al detective Frank Pembleton?",
+    "options": [
+      "Kyle Secor",
+      "Richard Belzer",
+      "Andre Braugher",
+      "Clark Johnson"
+    ],
+    "correctIndex": 2,
+    "explanation": "Andre Braugher ganó un Emmy por interpretar a Frank Pembleton."
+  },
+  {
+    "id": "s90-0148",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta al detective John Munch?",
+    "options": [
+      "Andre Braugher",
+      "Kyle Secor",
+      "Yaphet Kotto",
+      "Richard Belzer"
+    ],
+    "correctIndex": 3,
+    "explanation": "Richard Belzer interpretó a John Munch, personaje que luego apareció en otras series."
+  },
+  {
+    "id": "s90-0149",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué libro de David Simon se basa la serie?",
+    "options": [
+      "Homicide: A Year on the Killing Streets",
+      "The Wire",
+      "Serpico",
+      "In Cold Blood"
+    ],
+    "correctIndex": 0,
+    "explanation": "La serie se basa en el libro de David Simon sobre la unidad de homicidios de Baltimore."
+  },
+  {
+    "id": "s90-0150",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se ubica el bufete de The Practice?",
+    "options": [
+      "Nueva York",
+      "Boston",
+      "Chicago",
+      "Los Ángeles"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Practice sigue a un bufete de abogados de Boston."
+  },
+  {
+    "id": "s90-0151",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a Bobby Donnell?",
+    "options": [
+      "Steve Harris",
+      "Michael Badalucco",
+      "Dylan McDermott",
+      "Camryn Manheim"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dylan McDermott interpretó a Bobby Donnell, fundador del bufete."
+  },
+  {
+    "id": "s90-0152",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la abogada interpretada por Camryn Manheim?",
+    "options": [
+      "Lindsay Dole",
+      "Rebecca Washington",
+      "Jamie Stringer",
+      "Ellenor Frutt"
+    ],
+    "correctIndex": 3,
+    "explanation": "Camryn Manheim interpretó a Ellenor Frutt y ganó un Emmy por ese papel."
+  },
+  {
+    "id": "s90-0153",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actriz interpreta a Ally McBeal?",
+    "options": [
+      "Calista Flockhart",
+      "Lucy Liu",
+      "Courteney Cox",
+      "Portia de Rossi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Calista Flockhart protagonizó Ally McBeal y ganó un Globo de Oro."
+  },
+  {
+    "id": "s90-0154",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el bufete donde trabaja Ally?",
+    "options": [
+      "Pearson Hardman",
+      "Cage & Fish",
+      "Donnell & Associates",
+      "Crane, Poole & Schmidt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ally trabaja en el bufete Cage & Fish, fundado por John Cage y Richard Fish."
+  },
+  {
+    "id": "s90-0155",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a John Cage?",
+    "options": [
+      "Greg Germann",
+      "Gil Bellows",
+      "Peter MacNicol",
+      "Robert Downey Jr."
+    ],
+    "correctIndex": 2,
+    "explanation": "Peter MacNicol interpretó al excéntrico abogado John Cage."
+  },
+  {
+    "id": "s90-0156",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué cantante actúa en el bar de la serie e interpreta el tema principal?",
+    "options": [
+      "Alanis Morissette",
+      "Sheryl Crow",
+      "Paula Cole",
+      "Vonda Shepard"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vonda Shepard canta Searchin' My Soul y aparece actuando en el bar."
+  },
+  {
+    "id": "s90-0157",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el protagonista de The Sopranos?",
+    "options": [
+      "Tony Soprano",
+      "Christopher Moltisanti",
+      "Silvio Dante",
+      "Junior Soprano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tony Soprano es el jefe de la mafia de Nueva Jersey y paciente de psicoanálisis."
+  },
+  {
+    "id": "s90-0158",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué cadena se emitió The Sopranos?",
+    "options": [
+      "Showtime",
+      "HBO",
+      "NBC",
+      "AMC"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Sopranos fue una de las series dramáticas más influyentes de HBO."
+  },
+  {
+    "id": "s90-0159",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la esposa de Tony Soprano?",
+    "options": [
+      "Meadow",
+      "Adriana",
+      "Carmela",
+      "Livia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Carmela Soprano, interpretada por Edie Falco, es la esposa de Tony."
+  },
+  {
+    "id": "s90-0160",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a Christopher Moltisanti?",
+    "options": [
+      "Tony Sirico",
+      "Steven Van Zandt",
+      "Dominic Chianese",
+      "Michael Imperioli"
+    ],
+    "correctIndex": 3,
+    "explanation": "Michael Imperioli interpretó a Christopher, sobrino y protegido de Tony."
+  },
+  {
+    "id": "s90-0161",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la hermana de Tony Soprano?",
+    "options": [
+      "Janice",
+      "Carmela",
+      "Adriana",
+      "Livia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Janice Soprano es la hermana mayor de Tony y aparece a lo largo de la serie."
+  },
+  {
+    "id": "s90-0162",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actriz interpreta a Carrie Bradshaw?",
+    "options": [
+      "Kim Cattrall",
+      "Sarah Jessica Parker",
+      "Kristin Davis",
+      "Cynthia Nixon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sarah Jessica Parker interpretó a Carrie Bradshaw, la narradora de la serie."
+  },
+  {
+    "id": "s90-0163",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad viven las protagonistas de Sex and the City?",
+    "options": [
+      "Los Ángeles",
+      "Chicago",
+      "Nueva York",
+      "Boston"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las cuatro amigas viven y trabajan en Manhattan, Nueva York."
+  },
+  {
+    "id": "s90-0164",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a Mr. Big?",
+    "options": [
+      "David Eigenberg",
+      "John Corbett",
+      "Kyle MacLachlan",
+      "Chris Noth"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chris Noth interpretó a Mr. Big, el gran amor de Carrie."
+  },
+  {
+    "id": "s90-0165",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta a Steve Brady?",
+    "options": [
+      "David Eigenberg",
+      "Chris Noth",
+      "John Corbett",
+      "Evan Handler"
+    ],
+    "correctIndex": 0,
+    "explanation": "David Eigenberg interpretó a Steve Brady, el novio de Miranda."
+  },
+  {
+    "id": "s90-0166",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué cadena se emitió Oz?",
+    "options": [
+      "Showtime",
+      "HBO",
+      "NBC",
+      "FX"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oz fue una de las primeras series dramáticas originales de HBO."
+  },
+  {
+    "id": "s90-0167",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el narrador que aparece en cada episodio de Oz?",
+    "options": [
+      "Tim McManus",
+      "Kareem Said",
+      "Augustus Hill",
+      "Vern Schillinger"
+    ],
+    "correctIndex": 2,
+    "explanation": "Augustus Hill, interpretado por Harold Perrineau, narra los episodios desde su silla de ruedas."
+  },
+  {
+    "id": "s90-0168",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta a Vern Schillinger?",
+    "options": [
+      "Lee Tergesen",
+      "Dean Winters",
+      "Terry Kinney",
+      "J.K. Simmons"
+    ],
+    "correctIndex": 3,
+    "explanation": "J.K. Simmons interpretó al líder nazi Vern Schillinger en Oz."
+  },
+  {
+    "id": "s90-0169",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿A qué estado de EE. UU. se muda el doctor Joel Fleischman?",
+    "options": [
+      "Alaska",
+      "Montana",
+      "Minnesota",
+      "Maine"
+    ],
+    "correctIndex": 0,
+    "explanation": "El doctor neoyorquino Joel Fleischman es enviado a Alaska para pagar sus estudios."
+  },
+  {
+    "id": "s90-0170",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el pueblo ficticio de Northern Exposure?",
+    "options": [
+      "Capeside",
+      "Cicely",
+      "Twin Peaks",
+      "Mayberry"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cicely, Alaska, es el pueblo donde transcurre Northern Exposure."
+  },
+  {
+    "id": "s90-0171",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta a Joel Fleischman?",
+    "options": [
+      "John Corbett",
+      "Barry Corbin",
+      "Rob Morrow",
+      "Janine Turner"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rob Morrow interpretó al doctor Joel Fleischman durante las primeras temporadas."
+  },
+  {
+    "id": "s90-0172",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el agente del FBI que investiga el caso en Twin Peaks?",
+    "options": [
+      "Harry Truman",
+      "Gordon Cole",
+      "Albert Rosenfield",
+      "Dale Cooper"
+    ],
+    "correctIndex": 3,
+    "explanation": "El agente especial Dale Cooper llega a Twin Peaks para investigar la muerte de Laura Palmer."
+  },
+  {
+    "id": "s90-0173",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la joven cuya muerte desencadena la trama?",
+    "options": [
+      "Laura Palmer",
+      "Shelly Johnson",
+      "Audrey Horne",
+      "Donna Hayward"
+    ],
+    "correctIndex": 0,
+    "explanation": "La muerte de Laura Palmer es el misterio central de la primera temporada."
+  },
+  {
+    "id": "s90-0174",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz interpreta a Laura Palmer?",
+    "options": [
+      "Lara Flynn Boyle",
+      "Sheryl Lee",
+      "Sherilyn Fenn",
+      "Mädchen Amick"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sheryl Lee interpretó a Laura Palmer y también a su prima Maddy."
+  },
+  {
+    "id": "s90-0175",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué pareja creó Twin Peaks?",
+    "options": [
+      "David Lynch y David Chase",
+      "Chris Carter y Mark Frost",
+      "David Lynch y Mark Frost",
+      "David Lynch y Joss Whedon"
+    ],
+    "correctIndex": 2,
+    "explanation": "David Lynch y Mark Frost crearon la serie y escribieron su episodio piloto."
+  },
+  {
+    "id": "s90-0176",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es el capitán de la Enterprise-D en Star Trek: The Next Generation?",
+    "options": [
+      "Jean-Luc Picard",
+      "Benjamin Sisko",
+      "Kathryn Janeway",
+      "James T. Kirk"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jean-Luc Picard, interpretado por Patrick Stewart, comandó la Enterprise-D."
+  },
+  {
+    "id": "s90-0177",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a Jean-Luc Picard en Star Trek: The Next Generation?",
+    "options": [
+      "Avery Brooks",
+      "Patrick Stewart",
+      "Kate Mulgrew",
+      "William Shatner"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patrick Stewart encarnó a Picard durante las siete temporadas de la serie."
+  },
+  {
+    "id": "s90-0178",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el androide que forma parte de la tripulación de la Enterprise-D?",
+    "options": [
+      "Odo",
+      "Tuvok",
+      "Data",
+      "Seven of Nine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Data es el androide que busca comprender la condición humana."
+  },
+  {
+    "id": "s90-0179",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿A qué raza pertenece Worf en Star Trek: The Next Generation?",
+    "options": [
+      "Vulcano",
+      "Ferengi",
+      "Betaziano",
+      "Klingon"
+    ],
+    "correctIndex": 3,
+    "explanation": "Worf es un klingon criado por humanos que sirve como oficial de seguridad."
+  },
+  {
+    "id": "s90-0180",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién es el primer oficial de Picard en la Enterprise-D?",
+    "options": [
+      "William Riker",
+      "Data",
+      "Geordi La Forge",
+      "Worf"
+    ],
+    "correctIndex": 0,
+    "explanation": "William Riker, interpretado por Jonathan Frakes, es el segundo al mando."
+  },
+  {
+    "id": "s90-0181",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz interpreta a Guinan, la anfitriona del bar Ten Forward?",
+    "options": [
+      "Marina Sirtis",
+      "Whoopi Goldberg",
+      "Gates McFadden",
+      "Terry Farrell"
+    ],
+    "correctIndex": 1,
+    "explanation": "Whoopi Goldberg dio vida a Guinan, la sabia anfitriona de Ten Forward."
+  },
+  {
+    "id": "s90-0182",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a Q, el ser omnipotente que desafía a Picard?",
+    "options": [
+      "Brent Spiner",
+      "Jonathan Frakes",
+      "John de Lancie",
+      "Michael Dorn"
+    ],
+    "correctIndex": 2,
+    "explanation": "John de Lancie interpretó a Q en varias series de Star Trek."
+  },
+  {
+    "id": "s90-0183",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué nombre recibe Picard cuando los Borg lo asimilan en el episodio The Best of Both Worlds?",
+    "options": [
+      "Hugh",
+      "Lore",
+      "B-4",
+      "Locutus"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los Borg convierten a Picard en Locutus para hablar en su nombre."
+  },
+  {
+    "id": "s90-0184",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a Benjamin Sisko en Star Trek: Deep Space Nine?",
+    "options": [
+      "Avery Brooks",
+      "Cirroc Lofton",
+      "Colm Meaney",
+      "Michael Dorn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Avery Brooks encarnó al comandante Benjamin Sisko."
+  },
+  {
+    "id": "s90-0185",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué personaje es el ferengi que regenta el bar de Deep Space Nine?",
+    "options": [
+      "Nog",
+      "Quark",
+      "Rom",
+      "Odo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quark es el bartender ferengi que regenta el bar de la estación."
+  },
+  {
+    "id": "s90-0186",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué es Odo, el jefe de seguridad de Deep Space Nine?",
+    "options": [
+      "Un vulcano",
+      "Un ferengi",
+      "Un cambiante",
+      "Un holograma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Odo es un cambiante que puede adoptar cualquier forma."
+  },
+  {
+    "id": "s90-0187",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿A qué raza pertenece Kira Nerys, la primera oficial de Deep Space Nine?",
+    "options": [
+      "Cardassiana",
+      "Trill",
+      "Betaziana",
+      "Bajorana"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kira Nerys es una oficial bajorana que luchó contra la ocupación cardassiana."
+  },
+  {
+    "id": "s90-0188",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llamaba la estación espacial antes de recibir el nombre de Deep Space Nine?",
+    "options": [
+      "Terok Nor",
+      "Empok Nor",
+      "Bajor Uno",
+      "Valo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cardassianos la llamaban Terok Nor durante su ocupación de Bajor."
+  },
+  {
+    "id": "s90-0189",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta a Gul Dukat en Star Trek: Deep Space Nine?",
+    "options": [
+      "Andrew Robinson",
+      "Marc Alaimo",
+      "Jeffrey Combs",
+      "Casey Biggs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marc Alaimo dio vida al cardassiano Gul Dukat."
+  },
+  {
+    "id": "s90-0190",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es la capitana de la USS Voyager?",
+    "options": [
+      "Benjamin Sisko",
+      "Jean-Luc Picard",
+      "Kathryn Janeway",
+      "William Riker"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kathryn Janeway es la capitana que comanda la Voyager."
+  },
+  {
+    "id": "s90-0191",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué cuadrante de la galaxia queda atrapada la USS Voyager?",
+    "options": [
+      "Alfa",
+      "Beta",
+      "Gamma",
+      "Delta"
+    ],
+    "correctIndex": 3,
+    "explanation": "La nave queda atrapada a decenas de miles de años luz, en el cuadrante Delta."
+  },
+  {
+    "id": "s90-0192",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el talaxiano que actúa como cocinero en la Voyager?",
+    "options": [
+      "Neelix",
+      "Tuvok",
+      "Chakotay",
+      "Harry Kim"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neelix se convierte en el cocinero y guía local de la tripulación."
+  },
+  {
+    "id": "s90-0193",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz interpreta a Kathryn Janeway?",
+    "options": [
+      "Jeri Ryan",
+      "Kate Mulgrew",
+      "Roxann Dawson",
+      "Jennifer Lien"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kate Mulgrew interpretó a la capitana Janeway durante siete temporadas."
+  },
+  {
+    "id": "s90-0194",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué es Seven of Nine antes de unirse a la tripulación de la Voyager?",
+    "options": [
+      "Una androide creada por los Borg",
+      "Una oficial vulcana",
+      "Una humana asimilada por los Borg",
+      "Una piloto maquis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Seven of Nine fue asimilada de niña y rescatada por la Voyager."
+  },
+  {
+    "id": "s90-0195",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué especie del cuadrante Delta es un enemigo temible de los Borg en Voyager?",
+    "options": [
+      "Los Kazon",
+      "Los Vidiianos",
+      "Los Hirogen",
+      "Species 8472"
+    ],
+    "correctIndex": 3,
+    "explanation": "Species 8472 proviene del espacio fluídico y resulta letal para los Borg."
+  },
+  {
+    "id": "s90-0196",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se titula el episodio final de Star Trek: Voyager?",
+    "options": [
+      "Endgame",
+      "Caretaker",
+      "Scorpion",
+      "Year of Hell"
+    ],
+    "correctIndex": 0,
+    "explanation": "Endgame muestra el regreso de la Voyager a la Tierra."
+  },
+  {
+    "id": "s90-0197",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la estación espacial que da título a la serie creada por J. Michael Straczynski?",
+    "options": [
+      "Deep Space Nine",
+      "Babylon 5",
+      "Babylon 4",
+      "Galáctica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Babylon 5 es una estación diplomática y militar en el espacio."
+  },
+  {
+    "id": "s90-0198",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién creó Babylon 5?",
+    "options": [
+      "Gene Roddenberry",
+      "Chris Carter",
+      "J. Michael Straczynski",
+      "Joss Whedon"
+    ],
+    "correctIndex": 2,
+    "explanation": "J. Michael Straczynski escribió y produjo la mayor parte de la serie."
+  },
+  {
+    "id": "s90-0199",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué pueblo mantiene una rivalidad histórica con los centauri en Babylon 5?",
+    "options": [
+      "Los minbari",
+      "Los vorlons",
+      "Los drakh",
+      "Los narn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los narn sufrieron durante décadas la ocupación centauri."
+  },
+  {
+    "id": "s90-0200",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el episodio piloto de Babylon 5?",
+    "options": [
+      "The Gathering",
+      "In the Beginning",
+      "Midnight on the Firing Line",
+      "The Long Dark"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Gathering presentó la estación y a sus principales embajadores."
+  },
+  {
+    "id": "s90-0201",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué dispositivo permite a los personajes de Stargate SG-1 viajar entre planetas?",
+    "options": [
+      "Una nave de salto",
+      "Un stargate",
+      "Un portal dimensional",
+      "Un teletransportador"
+    ],
+    "correctIndex": 1,
+    "explanation": "El stargate es un anillo alienígena que crea un agujero de gusano."
+  },
+  {
+    "id": "s90-0202",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta al coronel Jack O'Neill en Stargate SG-1?",
+    "options": [
+      "Michael Shanks",
+      "Christopher Judge",
+      "Richard Dean Anderson",
+      "Ben Browder"
+    ],
+    "correctIndex": 2,
+    "explanation": "Richard Dean Anderson encabezó el reparto de la serie."
+  },
+  {
+    "id": "s90-0203",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿A qué raza pertenece Teal'c?",
+    "options": [
+      "Goa'uld",
+      "Asgard",
+      "Unas",
+      "Jaffa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Teal'c es un jaffa que se rebela contra los Goa'uld."
+  },
+  {
+    "id": "s90-0204",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz interpreta a Samantha Carter?",
+    "options": [
+      "Amanda Tapping",
+      "Claudia Black",
+      "Teryl Rothery",
+      "Jolene Blalock"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amanda Tapping dio vida a la capitana Samantha Carter."
+  },
+  {
+    "id": "s90-0205",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta al general George Hammond?",
+    "options": [
+      "Richard Dean Anderson",
+      "Don S. Davis",
+      "Michael Shanks",
+      "Gary Jones"
+    ],
+    "correctIndex": 1,
+    "explanation": "Don S. Davis interpretó al general Hammond, jefe del SGC."
+  },
+  {
+    "id": "s90-0206",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a Fox Mulder?",
+    "options": [
+      "Mitch Pileggi",
+      "Robert Patrick",
+      "David Duchovny",
+      "Nicholas Lea"
+    ],
+    "correctIndex": 2,
+    "explanation": "David Duchovny interpretó al agente del FBI Fox Mulder."
+  },
+  {
+    "id": "s90-0207",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actriz interpreta a Dana Scully?",
+    "options": [
+      "Annabeth Gish",
+      "Tea Leoni",
+      "Mimi Rogers",
+      "Gillian Anderson"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gillian Anderson encarnó a la agente Dana Scully."
+  },
+  {
+    "id": "s90-0208",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cuál es el lema más famoso de The X-Files?",
+    "options": [
+      "The truth is out there",
+      "I want to believe",
+      "Trust no one",
+      "Resistance is futile"
+    ],
+    "correctIndex": 0,
+    "explanation": "La frase se traduce como La verdad está ahí fuera."
+  },
+  {
+    "id": "s90-0209",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién creó The X-Files?",
+    "options": [
+      "David Lynch",
+      "Chris Carter",
+      "J.J. Abrams",
+      "Joss Whedon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chris Carter creó la serie y escribió muchos de sus episodios."
+  },
+  {
+    "id": "s90-0210",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el grupo de informantes que ayuda a Mulder con las conspiraciones?",
+    "options": [
+      "The Syndicate",
+      "The Smoking Men",
+      "The Lone Gunmen",
+      "The Consortium"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los Lone Gunmen publican una revista y auxilian a Mulder."
+  },
+  {
+    "id": "s90-0211",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta al subdirector Walter Skinner?",
+    "options": [
+      "William B. Davis",
+      "Nicholas Lea",
+      "Tom Braidwood",
+      "Mitch Pileggi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mitch Pileggi interpretó al subdirector Skinner."
+  },
+  {
+    "id": "s90-0212",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿A través de qué viajan los protagonistas de Sliders?",
+    "options": [
+      "Universos paralelos",
+      "Épocas históricas",
+      "Planetas del sistema solar",
+      "Dimensiones oníricas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quinn y sus amigos saltan entre realidades alternativas."
+  },
+  {
+    "id": "s90-0213",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a Quinn Mallory en Sliders?",
+    "options": [
+      "John Rhys-Davies",
+      "Jerry O'Connell",
+      "Cleavant Derricks",
+      "Kari Wuhrer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jerry O'Connell interpretó a Quinn, el creador del dispositivo de salto."
+  },
+  {
+    "id": "s90-0214",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el profesor que acompaña a Quinn en las primeras temporadas de Sliders?",
+    "options": [
+      "Rembrandt Brown",
+      "Colin Mallory",
+      "Maximilian Arturo",
+      "Conrad Bennish"
+    ],
+    "correctIndex": 2,
+    "explanation": "El profesor Maximilian Arturo fue interpretado por John Rhys-Davies."
+  },
+  {
+    "id": "s90-0215",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de vehículo es la seaQuest en la serie de los 90?",
+    "options": [
+      "Una nave espacial",
+      "Un portaaviones",
+      "Un crucero",
+      "Un submarino"
+    ],
+    "correctIndex": 3,
+    "explanation": "La seaQuest es un submarino de investigación y defensa."
+  },
+  {
+    "id": "s90-0216",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta al capitán Nathan Bridger en seaQuest DSV?",
+    "options": [
+      "Roy Scheider",
+      "Michael Ironside",
+      "Don Franklin",
+      "Jonathan Brandis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Roy Scheider encabezó el reparto como el capitán Bridger."
+  },
+  {
+    "id": "s90-0217",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué año está ambientada la acción de seaQuest DSV?",
+    "options": [
+      "2050",
+      "2018",
+      "2001",
+      "2200"
+    ],
+    "correctIndex": 1,
+    "explanation": "La serie imaginaba un futuro cercano, el año 2018."
+  },
+  {
+    "id": "s90-0218",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué le ocurre a Sam Beckett al inicio de Quantum Leap?",
+    "options": [
+      "Se convierte en inmortal",
+      "Viaja a planetas lejanos",
+      "Salta en el tiempo y ocupa el cuerpo de otras personas",
+      "Pierde la memoria para siempre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sam viaja al pasado y debe corregir errores mientras otros lo ven con otra identidad."
+  },
+  {
+    "id": "s90-0219",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta al almirante Al Calavicci, el holograma que ayuda a Sam?",
+    "options": [
+      "Scott Bakula",
+      "Michael Dorn",
+      "Robert Picardo",
+      "Dean Stockwell"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dean Stockwell interpretó a Al, visible solo para Sam."
+  },
+  {
+    "id": "s90-0220",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la computadora que calcula los saltos temporales en Quantum Leap?",
+    "options": [
+      "Ziggy",
+      "HAL 9000",
+      "Skynet",
+      "Deep Thought"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ziggy es la computadora del Proyecto Quantum Leap."
+  },
+  {
+    "id": "s90-0221",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué deben hacer los inmortales para eliminar definitivamente a otro inmortal en Highlander?",
+    "options": [
+      "Quemarlo",
+      "Decapitarlo",
+      "Ahogarlo",
+      "Dispararle en el corazón"
+    ],
+    "correctIndex": 1,
+    "explanation": "Solo la decapitación pone fin a la vida de un inmortal."
+  },
+  {
+    "id": "s90-0222",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién es el protagonista de Highlander: The Series?",
+    "options": [
+      "Connor MacLeod",
+      "Methos",
+      "Duncan MacLeod",
+      "Richie Ryan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Duncan MacLeod, interpretado por Adrian Paul, es el protagonista."
+  },
+  {
+    "id": "s90-0223",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué inmortal muy antiguo se hace pasar por historiador y se une a Duncan en Highlander?",
+    "options": [
+      "Kurgan",
+      "Ramírez",
+      "Richie Ryan",
+      "Methos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Methos es el inmortal más antiguo que aparece en la serie."
+  },
+  {
+    "id": "s90-0224",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actriz interpreta a Buffy Summers?",
+    "options": [
+      "Sarah Michelle Gellar",
+      "Alyson Hannigan",
+      "Charisma Carpenter",
+      "Eliza Dushku"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sarah Michelle Gellar protagonizó Buffy la cazavampiros."
+  },
+  {
+    "id": "s90-0225",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cuál es la misión de Buffy en la serie?",
+    "options": [
+      "Proteger a los mutantes",
+      "Cazar vampiros y demonios",
+      "Entrenar a los Jedi",
+      "Investigar ovnis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Buffy es la Elegida, destinada a luchar contra fuerzas sobrenaturales."
+  },
+  {
+    "id": "s90-0226",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué pueblo ficticio vive Buffy?",
+    "options": [
+      "Riverdale",
+      "Smallville",
+      "Sunnydale",
+      "Mystic Falls"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sunnydale se asienta sobre la Boca del Infierno."
+  },
+  {
+    "id": "s90-0227",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué vampiro con alma es el primer gran amor de Buffy?",
+    "options": [
+      "Spike",
+      "Riley Finn",
+      "Oz",
+      "Angel"
+    ],
+    "correctIndex": 3,
+    "explanation": "Angel recuperó su alma y se enamoró de Buffy."
+  },
+  {
+    "id": "s90-0228",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a Rupert Giles, el vigilante de Buffy?",
+    "options": [
+      "Anthony Head",
+      "James Marsters",
+      "David Boreanaz",
+      "Seth Green"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anthony Head interpretó al bibliotecario y vigilante Rupert Giles."
+  },
+  {
+    "id": "s90-0229",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se titula el episodio musical de Buffy la cazavampiros?",
+    "options": [
+      "Hush",
+      "Once More, with Feeling",
+      "The Body",
+      "Tabula Rasa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Once More, with Feeling es el célebre musical de la sexta temporada."
+  },
+  {
+    "id": "s90-0230",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor protagoniza el spin-off Angel?",
+    "options": [
+      "James Marsters",
+      "Alexis Denisof",
+      "David Boreanaz",
+      "Charisma Carpenter"
+    ],
+    "correctIndex": 2,
+    "explanation": "David Boreanaz retomó su papel de Angel en la serie derivada."
+  },
+  {
+    "id": "s90-0231",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor interpreta a Wesley Wyndam-Pryce en Angel?",
+    "options": [
+      "J. August Richards",
+      "Andy Hallett",
+      "Glenn Quinn",
+      "Alexis Denisof"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alexis Denisof dio vida a Wesley en Angel."
+  },
+  {
+    "id": "s90-0232",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se apellidan las tres hermanas brujas protagonistas de Charmed?",
+    "options": [
+      "Halliwell",
+      "Warren",
+      "Bennett",
+      "Sanders"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las hermanas Halliwell descubren que descienden de una línea de brujas."
+  },
+  {
+    "id": "s90-0233",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cuántas hermanas brujas protagonizan Charmed al comenzar la serie?",
+    "options": [
+      "Dos",
+      "Tres",
+      "Cuatro",
+      "Cinco"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prue, Piper y Phoebe son las tres hermanas del inicio."
+  },
+  {
+    "id": "s90-0234",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz interpreta a Phoebe Halliwell?",
+    "options": [
+      "Holly Marie Combs",
+      "Shannen Doherty",
+      "Alyssa Milano",
+      "Rose McGowan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alyssa Milano interpretó a Phoebe durante toda la serie."
+  },
+  {
+    "id": "s90-0235",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el libro de hechizos que consultan las hermanas de Charmed?",
+    "options": [
+      "El Necronomicón",
+      "El Grimorio de Salem",
+      "El Códice de las Brujas",
+      "El Libro de las Sombras"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Libro de las Sombras guarda los hechizos y la historia familiar."
+  },
+  {
+    "id": "s90-0236",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actriz interpreta a Xena, la princesa guerrera?",
+    "options": [
+      "Lucy Lawless",
+      "Renée O'Connor",
+      "Hudson Leick",
+      "Alexandra Tydings"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lucy Lawless protagonizó Xena: Warrior Princess."
+  },
+  {
+    "id": "s90-0237",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la joven compañera de aventuras de Xena?",
+    "options": [
+      "Callisto",
+      "Gabrielle",
+      "Aphrodite",
+      "Eve"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gabrielle acompaña a Xena y evoluciona de aldeana a guerrera."
+  },
+  {
+    "id": "s90-0238",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿De qué serie es spin-off Xena: Warrior Princess?",
+    "options": [
+      "Buffy la cazavampiros",
+      "Highlander",
+      "Hercules: The Legendary Journeys",
+      "Charmed"
+    ],
+    "correctIndex": 2,
+    "explanation": "Xena apareció primero como villana en la serie de Hércules."
+  },
+  {
+    "id": "s90-0239",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actriz interpreta a Callisto, la enemiga vengativa de Xena?",
+    "options": [
+      "Renée O'Connor",
+      "Lucy Lawless",
+      "Alexandra Tydings",
+      "Hudson Leick"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hudson Leick interpretó a la guerrera Callisto."
+  },
+  {
+    "id": "s90-0240",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a Hércules en Hercules: The Legendary Journeys?",
+    "options": [
+      "Kevin Sorbo",
+      "Michael Hurst",
+      "Bruce Campbell",
+      "Anthony Quinn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kevin Sorbo encarnó a Hércules en la serie."
+  },
+  {
+    "id": "s90-0241",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el mejor amigo y compañero de Hércules?",
+    "options": [
+      "Autolycus",
+      "Iolaus",
+      "Salmoneus",
+      "Ares"
+    ],
+    "correctIndex": 1,
+    "explanation": "Iolaus, interpretado por Michael Hurst, acompaña a Hércules."
+  },
+  {
+    "id": "s90-0242",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué director de cine es co-creador de Hercules: The Legendary Journeys?",
+    "options": [
+      "Peter Jackson",
+      "George Lucas",
+      "Sam Raimi",
+      "Steven Spielberg"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sam Raimi desarrolló la serie junto a Christian Williams."
+  },
+  {
+    "id": "s90-0243",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién creó Los Simpson?",
+    "options": [
+      "Seth MacFarlane",
+      "Mike Judge",
+      "Trey Parker",
+      "Matt Groening"
+    ],
+    "correctIndex": 3,
+    "explanation": "Matt Groening creó a la familia Simpson para un espacio de animación."
+  },
+  {
+    "id": "s90-0244",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad ficticia viven los Simpson?",
+    "options": [
+      "Springfield",
+      "Quahog",
+      "South Park",
+      "Arlen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Springfield es la ciudad ficticia de la serie."
+  },
+  {
+    "id": "s90-0245",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor pone la voz original de Homer Simpson?",
+    "options": [
+      "Hank Azaria",
+      "Dan Castellaneta",
+      "Harry Shearer",
+      "Nancy Cartwright"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dan Castellaneta da voz a Homer desde el inicio."
+  },
+  {
+    "id": "s90-0246",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz da voz a Bart Simpson?",
+    "options": [
+      "Yeardley Smith",
+      "Julie Kavner",
+      "Nancy Cartwright",
+      "Dan Castellaneta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nancy Cartwright, una mujer, pone la voz de Bart."
+  },
+  {
+    "id": "s90-0247",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el dueño de la taberna que frecuenta Homer?",
+    "options": [
+      "Barney Gumble",
+      "Apu Nahasapeemapetilon",
+      "Ned Flanders",
+      "Moe Szyslak"
+    ],
+    "correctIndex": 3,
+    "explanation": "Moe Szyslak regenta la taberna Moe's Tavern."
+  },
+  {
+    "id": "s90-0248",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué programa debutaron los Simpson antes de tener su propia serie?",
+    "options": [
+      "The Tracey Ullman Show",
+      "Saturday Night Live",
+      "The Tonight Show",
+      "Late Night with David Letterman"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cortos animados se emitieron en The Tracey Ullman Show."
+  },
+  {
+    "id": "s90-0249",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Quién disparó al señor Burns en el final de la sexta temporada de Los Simpson?",
+    "options": [
+      "Homer Simpson",
+      "Maggie Simpson",
+      "Waylon Smithers",
+      "Bart Simpson"
+    ],
+    "correctIndex": 1,
+    "explanation": "La segunda parte del episodio revela que Maggie disparó el arma."
+  },
+  {
+    "id": "s90-0250",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quiénes crearon South Park?",
+    "options": [
+      "Matt Groening y James L. Brooks",
+      "Mike Judge",
+      "Trey Parker y Matt Stone",
+      "Seth MacFarlane"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trey Parker y Matt Stone crearon y protagonizan la serie."
+  },
+  {
+    "id": "s90-0251",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué estado se ubica el pueblo de South Park?",
+    "options": [
+      "Texas",
+      "California",
+      "Utah",
+      "Colorado"
+    ],
+    "correctIndex": 3,
+    "explanation": "South Park es un pueblo ficticio del estado de Colorado."
+  },
+  {
+    "id": "s90-0252",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor y músico daba voz al Chef en South Park?",
+    "options": [
+      "Isaac Hayes",
+      "Samuel L. Jackson",
+      "Morgan Freeman",
+      "James Earl Jones"
+    ],
+    "correctIndex": 0,
+    "explanation": "Isaac Hayes dio voz al personaje Chef."
+  },
+  {
+    "id": "s90-0253",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué año se desarrolla la mayor parte de Futurama tras el despertar de Fry?",
+    "options": [
+      "2500",
+      "3000",
+      "2100",
+      "4000"
+    ],
+    "correctIndex": 1,
+    "explanation": "La serie sitúa a Fry en el año 3000 tras salir de la criogenia."
+  },
+  {
+    "id": "s90-0254",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el robot mejor amigo de Fry?",
+    "options": [
+      "Calculon",
+      "Flexo",
+      "Bender",
+      "Roberto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bender es el robot sarcástico que acompaña a Fry."
+  },
+  {
+    "id": "s90-0255",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Cómo se titula el episodio piloto de Futurama?",
+    "options": [
+      "The Series Has Landed",
+      "A Big Piece of Garbage",
+      "Hell Is Other Robots",
+      "Space Pilot 3000"
+    ],
+    "correctIndex": 3,
+    "explanation": "Space Pilot 3000 presenta a Fry en el año 3000."
+  },
+  {
+    "id": "s90-0256",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el hijo de Hank Hill en King of the Hill?",
+    "options": [
+      "Bobby",
+      "Joseph",
+      "Dale",
+      "Bill"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bobby Hill es el hijo adolescente de Hank y Peggy."
+  },
+  {
+    "id": "s90-0257",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué producto vende Hank Hill?",
+    "options": [
+      "Seguros",
+      "Propano",
+      "Neumáticos",
+      "Cerveza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hank trabaja vendiendo propano en Arlen, Texas."
+  },
+  {
+    "id": "s90-0258",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Quiénes crearon King of the Hill?",
+    "options": [
+      "Matt Groening y David X. Cohen",
+      "Trey Parker y Matt Stone",
+      "Mike Judge y Greg Daniels",
+      "Seth MacFarlane"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mike Judge y Greg Daniels crearon la serie."
+  },
+  {
+    "id": "s90-0259",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué cadena emitió Daria?",
+    "options": [
+      "Nickelodeon",
+      "Cartoon Network",
+      "Fox",
+      "MTV"
+    ],
+    "correctIndex": 3,
+    "explanation": "Daria se emitió dentro del bloque de animación de MTV."
+  },
+  {
+    "id": "s90-0260",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿De qué serie es spin-off Daria?",
+    "options": [
+      "Beavis and Butt-Head",
+      "Los Simpson",
+      "South Park",
+      "Rocko's Modern Life"
+    ],
+    "correctIndex": 0,
+    "explanation": "Daria apareció primero como compañera de clase en Beavis and Butt-Head."
+  },
+  {
+    "id": "s90-0261",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué ciudad ficticia vive Daria?",
+    "options": [
+      "Springfield",
+      "Lawndale",
+      "Arlen",
+      "Quahog"
+    ],
+    "correctIndex": 1,
+    "explanation": "La familia Morgendorffer se muda a Lawndale."
+  },
+  {
+    "id": "s90-0262",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué cadena se emitió originalmente Beavis and Butt-Head?",
+    "options": [
+      "Nickelodeon",
+      "Fox",
+      "MTV",
+      "Cartoon Network"
+    ],
+    "correctIndex": 2,
+    "explanation": "La serie fue un éxito de la programación animada de MTV."
+  },
+  {
+    "id": "s90-0263",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién creó Beavis and Butt-Head?",
+    "options": [
+      "Matt Groening",
+      "John Kricfalusi",
+      "Trey Parker",
+      "Mike Judge"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mike Judge creó y puso voz a los dos protagonistas."
+  },
+  {
+    "id": "s90-0264",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cuál de los dos personajes se transforma en Cornholio al comer azúcar?",
+    "options": [
+      "Beavis",
+      "Butt-Head",
+      "Daria",
+      "Stewart"
+    ],
+    "correctIndex": 0,
+    "explanation": "Beavis adopta la personalidad de Cornholio tras consumir azúcar."
+  },
+  {
+    "id": "s90-0265",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué animales son Ren y Stimpy?",
+    "options": [
+      "Un gato y un perro",
+      "Un chihuahua y un gato",
+      "Dos conejos",
+      "Un ratón y un gato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ren es un chihuahua y Stimpy es un gato."
+  },
+  {
+    "id": "s90-0266",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién creó The Ren & Stimpy Show?",
+    "options": [
+      "Joe Murray",
+      "Craig McCracken",
+      "John Kricfalusi",
+      "Butch Hartman"
+    ],
+    "correctIndex": 2,
+    "explanation": "John Kricfalusi creó la serie para Nickelodeon."
+  },
+  {
+    "id": "s90-0267",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué episodio de Ren & Stimpy aparece la canción Happy Happy Joy Joy?",
+    "options": [
+      "Space Madness",
+      "Powdered Toast Man",
+      "Nurse Stimpy",
+      "Stimpy's Invention"
+    ],
+    "correctIndex": 3,
+    "explanation": "La canción suena cuando Stimpy inventa el casco de la felicidad."
+  },
+  {
+    "id": "s90-0268",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué animal es Rocko en Rocko's Modern Life?",
+    "options": [
+      "Un ualabí",
+      "Un canguro",
+      "Una nutria",
+      "Un castor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rocko es un ualabí que vive en la ciudad de O-Town."
+  },
+  {
+    "id": "s90-0269",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el mejor amigo de Rocko, un novillo?",
+    "options": [
+      "Filburt",
+      "Heffer Wolfe",
+      "Ed Bighead",
+      "Spunky"
+    ],
+    "correctIndex": 1,
+    "explanation": "Heffer Wolfe es el mejor amigo de Rocko."
+  },
+  {
+    "id": "s90-0270",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Quién creó Rocko's Modern Life?",
+    "options": [
+      "John Kricfalusi",
+      "Craig McCracken",
+      "Joe Murray",
+      "Arlene Klasky"
+    ],
+    "correctIndex": 2,
+    "explanation": "Joe Murray creó la serie para Nickelodeon."
+  },
+  {
+    "id": "s90-0271",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el bebé protagonista de Rugrats?",
+    "options": [
+      "Chuckie",
+      "Phil",
+      "Dil",
+      "Tommy Pickles"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tommy Pickles lidera las aventuras de los bebés."
+  },
+  {
+    "id": "s90-0272",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la prima mayor de los bebés en Rugrats?",
+    "options": [
+      "Angelica Pickles",
+      "Susie",
+      "Kimi",
+      "Lil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Angelica es la prima de tres años que suele imponer su voluntad."
+  },
+  {
+    "id": "s90-0273",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué dinosaurio es el ídolo de los bebés en Rugrats?",
+    "options": [
+      "Barney",
+      "Reptar",
+      "Dino",
+      "Godzilla"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reptar es el dinosaurio de juguete y de dibujos que adoran los bebés."
+  },
+  {
+    "id": "s90-0274",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué forma tiene la cabeza de Arnold en Hey Arnold!?",
+    "options": [
+      "Cuadrada",
+      "Redonda",
+      "Forma de balón de fútbol americano",
+      "Triangular"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cabeza de Arnold tiene la forma característica de un balón de fútbol americano."
+  },
+  {
+    "id": "s90-0275",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién está secretamente enamorada de Arnold?",
+    "options": [
+      "Phoebe",
+      "Rhonda",
+      "Lila",
+      "Helga Pataki"
+    ],
+    "correctIndex": 3,
+    "explanation": "Helga esconde su amor por Arnold tras una actitud hostil."
+  },
+  {
+    "id": "s90-0276",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es la hermana de Dexter en Dexter's Laboratory?",
+    "options": [
+      "Dee Dee",
+      "Mandark",
+      "Bubbles",
+      "Blossom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dee Dee es la hermana mayor que irrumpe en el laboratorio."
+  },
+  {
+    "id": "s90-0277",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién es el rival científico de Dexter?",
+    "options": [
+      "Dee Dee",
+      "Mandark",
+      "Professor Utonium",
+      "Mojo Jojo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mandark es el niño genio rival de Dexter."
+  },
+  {
+    "id": "s90-0278",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Quién creó Dexter's Laboratory?",
+    "options": [
+      "Craig McCracken",
+      "Butch Hartman",
+      "Genndy Tartakovsky",
+      "Joe Murray"
+    ],
+    "correctIndex": 2,
+    "explanation": "Genndy Tartakovsky creó la serie para Cartoon Network."
+  },
+  {
+    "id": "s90-0279",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué ingredientes dieron origen a las Powerpuff Girls?",
+    "options": [
+      "Harina, miel y canela",
+      "Agua, sal y pimienta",
+      "Leche, huevos y azúcar",
+      "Azúcar, flores y muchos colores"
+    ],
+    "correctIndex": 3,
+    "explanation": "El profesor Utonium usó azúcar, flores y muchos colores."
+  },
+  {
+    "id": "s90-0280",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es el villano simio de las Powerpuff Girls?",
+    "options": [
+      "Mojo Jojo",
+      "Him",
+      "Fuzzy Lumpkins",
+      "Princess Morbucks"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mojo Jojo es el chimpancé genio que quiere dominar Townsville."
+  },
+  {
+    "id": "s90-0281",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién creó The Powerpuff Girls?",
+    "options": [
+      "Genndy Tartakovsky",
+      "Craig McCracken",
+      "Butch Hartman",
+      "Stephen Hillenburg"
+    ],
+    "correctIndex": 1,
+    "explanation": "Craig McCracken creó a Blossom, Bubbles y Buttercup."
+  },
+  {
+    "id": "s90-0282",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad despiertan los gargolas en Gargoyles?",
+    "options": [
+      "Londres",
+      "Chicago",
+      "Nueva York",
+      "Los Ángeles"
+    ],
+    "correctIndex": 2,
+    "explanation": "El clan despierta en Manhattan tras siglos petrificado."
+  },
+  {
+    "id": "s90-0283",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor pone voz a Goliath en Gargoyles?",
+    "options": [
+      "James Earl Jones",
+      "Kevin Conroy",
+      "Mark Hamill",
+      "Keith David"
+    ],
+    "correctIndex": 3,
+    "explanation": "Keith David puso voz al líder del clan, Goliath."
+  },
+  {
+    "id": "s90-0284",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién pone la voz a Batman en Batman: The Animated Series?",
+    "options": [
+      "Kevin Conroy",
+      "Mark Hamill",
+      "Tim Daly",
+      "Adam West"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kevin Conroy fue la voz de Batman en la serie animada."
+  },
+  {
+    "id": "s90-0285",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién pone voz al Joker en Batman: The Animated Series?",
+    "options": [
+      "Kevin Conroy",
+      "Mark Hamill",
+      "Ron Perlman",
+      "John Glover"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mark Hamill interpretó al Joker en la serie animada."
+  },
+  {
+    "id": "s90-0286",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué cadena se emitió Spider-Man: The Animated Series?",
+    "options": [
+      "Cartoon Network",
+      "Nickelodeon",
+      "Fox Kids",
+      "USA Network"
+    ],
+    "correctIndex": 2,
+    "explanation": "La serie se emitió en el bloque Fox Kids."
+  },
+  {
+    "id": "s90-0287",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor pone voz a Spider-Man en la serie animada de 1994?",
+    "options": [
+      "Neil Patrick Harris",
+      "Josh Keaton",
+      "Drake Bell",
+      "Christopher Daniel Barnes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Christopher Daniel Barnes fue la voz de Peter Parker y Spider-Man."
+  },
+  {
+    "id": "s90-0288",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién es el Duende Verde en Spider-Man: The Animated Series?",
+    "options": [
+      "Norman Osborn",
+      "Otto Octavius",
+      "Wilson Fisk",
+      "Eddie Brock"
+    ],
+    "correctIndex": 0,
+    "explanation": "Norman Osborn se convierte en el Duende Verde."
+  },
+  {
+    "id": "s90-0289",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién lidera a los X-Men en la serie animada de los 90?",
+    "options": [
+      "Magneto",
+      "Professor X",
+      "Cyclops",
+      "Wolverine"
+    ],
+    "correctIndex": 1,
+    "explanation": "El profesor Charles Xavier dirige al equipo de mutantes."
+  },
+  {
+    "id": "s90-0290",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la escuela donde viven los X-Men?",
+    "options": [
+      "Instituto Stark",
+      "Academia de la Justicia",
+      "Instituto Xavier",
+      "Escuela de Salem"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Instituto Xavier es el hogar y centro de entrenamiento de los X-Men."
+  },
+  {
+    "id": "s90-0291",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué actor pone voz a Wolverine en X-Men: The Animated Series?",
+    "options": [
+      "Hugh Jackman",
+      "Steve Blum",
+      "Scott McNeil",
+      "Cal Dodd"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cal Dodd puso voz a Wolverine en la serie de 1992."
+  },
+  {
+    "id": "s90-0292",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es el protagonista entrenador de Pokémon?",
+    "options": [
+      "Ash Ketchum",
+      "Misty",
+      "Brock",
+      "Gary Oak"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ash Ketchum es el joven entrenador que persigue ser maestro Pokémon."
+  },
+  {
+    "id": "s90-0293",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué Pokémon es la mascota inseparable de Ash?",
+    "options": [
+      "Charmander",
+      "Pikachu",
+      "Bulbasaur",
+      "Squirtle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pikachu se convierte en el compañero más famoso de Ash."
+  },
+  {
+    "id": "s90-0294",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el profesor que entrega los Pokémon iniciales?",
+    "options": [
+      "Professor Elm",
+      "Professor Birch",
+      "Professor Oak",
+      "Professor Rowan"
+    ],
+    "correctIndex": 2,
+    "explanation": "El profesor Oak entrega a los entrenadores su primer Pokémon."
+  },
+  {
+    "id": "s90-0295",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es el protagonista de Dragon Ball Z?",
+    "options": [
+      "Vegeta",
+      "Gohan",
+      "Piccolo",
+      "Goku"
+    ],
+    "correctIndex": 3,
+    "explanation": "Son Goku es el saiyajin protagonista de la serie."
+  },
+  {
+    "id": "s90-0296",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿A qué raza pertenece Goku?",
+    "options": [
+      "Saiyajin",
+      "Namekiano",
+      "Humano",
+      "Androide"
+    ],
+    "correctIndex": 0,
+    "explanation": "Goku es un saiyajin enviado a la Tierra cuando era niño."
+  },
+  {
+    "id": "s90-0297",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién es el príncipe de los saiyajin en Dragon Ball Z?",
+    "options": [
+      "Nappa",
+      "Vegeta",
+      "Raditz",
+      "Trunks"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vegeta es el príncipe del planeta Vegeta."
+  },
+  {
+    "id": "s90-0298",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el hijo mayor de Goku?",
+    "options": [
+      "Goten",
+      "Trunks",
+      "Gohan",
+      "Pan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gohan es el primer hijo de Goku y Chi-Chi."
+  },
+  {
+    "id": "s90-0299",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la protagonista de Sailor Moon?",
+    "options": [
+      "Ami Mizuno",
+      "Rei Hino",
+      "Makoto Kino",
+      "Serena Tsukino"
+    ],
+    "correctIndex": 3,
+    "explanation": "Serena Tsukino es la identidad civil de Sailor Moon en el doblaje hispano."
+  },
+  {
+    "id": "s90-0300",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la gata que acompaña a Sailor Moon?",
+    "options": [
+      "Luna",
+      "Artemis",
+      "Diana",
+      "Chibiusa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Luna guía a las guerreras sailor y les revela su misión."
+  },
+  {
+    "id": "s90-0301",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el Digimon compañero de Tai?",
+    "options": [
+      "Gabumon",
+      "Agumon",
+      "Patamon",
+      "Gomamon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Agumon es el compañero dinosaurio de Tai en Digimon Adventure."
+  },
+  {
+    "id": "s90-0302",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué año se estrenó Digimon Adventure en Japón?",
+    "options": [
+      "1997",
+      "2000",
+      "1999",
+      "2001"
+    ],
+    "correctIndex": 2,
+    "explanation": "Digimon Adventure debutó en Japón en 1999."
+  },
+  {
+    "id": "s90-0303",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿De qué color era Tommy, el ranger que se unió al equipo original de Power Rangers?",
+    "options": [
+      "Rojo",
+      "Azul",
+      "Negro",
+      "Verde"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tommy Oliver debutó como el Green Ranger."
+  },
+  {
+    "id": "s90-0304",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el mentor de los Power Rangers?",
+    "options": [
+      "Zordon",
+      "Alpha 5",
+      "Rita Repulsa",
+      "Lord Zedd"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zordon guía a los rangers desde su cápsula de energía."
+  },
+  {
+    "id": "s90-0305",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpretó a Tommy Oliver en Power Rangers?",
+    "options": [
+      "Austin St. John",
+      "Jason David Frank",
+      "David Yost",
+      "Walter Jones"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jason David Frank interpretó a Tommy en varias temporadas."
+  },
+  {
+    "id": "s90-0306",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿De qué serie japonesa se adaptaron los Power Rangers?",
+    "options": [
+      "Kamen Rider",
+      "Ultraman",
+      "Super Sentai",
+      "Gundam"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mighty Morphin Power Rangers adaptó material de Kyoryu Sentai Zyuranger."
+  },
+  {
+    "id": "s90-0307",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué se transforman los personajes de Beast Wars?",
+    "options": [
+      "En vehículos blindados",
+      "En criaturas mágicas",
+      "En naves estelares",
+      "En animales robóticos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los Transformers de la serie adoptan formas de animales."
+  },
+  {
+    "id": "s90-0308",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué dos facciones se enfrentan en Beast Wars?",
+    "options": [
+      "Maximals y Predacons",
+      "Autobots y Decepticons",
+      "Jedi y Sith",
+      "Rebeldes e Imperio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Maximals y Predacons son los bandos de la guerra."
+  },
+  {
+    "id": "s90-0309",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Quiénes son los líderes de los Maximals y los Predacons en Beast Wars?",
+    "options": [
+      "Optimus Prime y Megatron",
+      "Optimus Primal y Megatron",
+      "Rodimus y Galvatron",
+      "Cheetor y Dinobot"
+    ],
+    "correctIndex": 1,
+    "explanation": "Optimus Primal y Megatron lideran a los dos bandos."
+  },
+  {
+    "id": "s90-0310",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Dónde ocurre la acción de ReBoot?",
+    "options": [
+      "Dentro de una ciudad futurista",
+      "En un mundo de fantasía",
+      "Dentro de una computadora",
+      "En una estación espacial"
+    ],
+    "correctIndex": 2,
+    "explanation": "ReBoot se desarrolla en el mundo digital de Mainframe."
+  },
+  {
+    "id": "s90-0311",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el protagonista de ReBoot?",
+    "options": [
+      "Enzo",
+      "Dot",
+      "Megabyte",
+      "Bob"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bob es el guardián que protege Mainframe."
+  },
+  {
+    "id": "s90-0312",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué país produjo la serie ReBoot?",
+    "options": [
+      "Canadá",
+      "Estados Unidos",
+      "Japón",
+      "Reino Unido"
+    ],
+    "correctIndex": 0,
+    "explanation": "ReBoot fue producida por el estudio canadiense Mainframe Entertainment."
+  },
+  {
+    "id": "s90-0313",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a Mitch Buchannon en Baywatch?",
+    "options": [
+      "David Charvet",
+      "David Hasselhoff",
+      "Jeremy Jackson",
+      "Parker Stevenson"
+    ],
+    "correctIndex": 1,
+    "explanation": "David Hasselhoff encabezó el reparto de Baywatch."
+  },
+  {
+    "id": "s90-0314",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz interpreta a C.J. Parker en Baywatch?",
+    "options": [
+      "Yasmine Bleeth",
+      "Carmen Electra",
+      "Pamela Anderson",
+      "Gena Lee Nolin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pamela Anderson interpretó a la socorrista C.J. Parker."
+  },
+  {
+    "id": "s90-0315",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a MacGyver?",
+    "options": [
+      "Kurt Russell",
+      "Harrison Ford",
+      "Mel Gibson",
+      "Richard Dean Anderson"
+    ],
+    "correctIndex": 3,
+    "explanation": "Richard Dean Anderson protagonizó MacGyver."
+  },
+  {
+    "id": "s90-0316",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cuál es el nombre completo de MacGyver?",
+    "options": [
+      "Angus MacGyver",
+      "Peter MacGyver",
+      "James MacGyver",
+      "Robert MacGyver"
+    ],
+    "correctIndex": 0,
+    "explanation": "El personaje se llama Angus MacGyver."
+  },
+  {
+    "id": "s90-0317",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién protagoniza María la del Barrio?",
+    "options": [
+      "Salma Hayek",
+      "Thalía",
+      "Verónica Castro",
+      "Lucero"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thalía interpretó a María, la joven que sale de la pobreza."
+  },
+  {
+    "id": "s90-0318",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué país se produjo María la del Barrio?",
+    "options": [
+      "Colombia",
+      "Venezuela",
+      "México",
+      "Argentina"
+    ],
+    "correctIndex": 2,
+    "explanation": "La telenovela fue producida por Televisa en México."
+  },
+  {
+    "id": "s90-0319",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el interés amoroso de María en María la del Barrio?",
+    "options": [
+      "Sebastián Vallejo",
+      "Armando Mendoza",
+      "Luis Miguel",
+      "Luis Fernando"
+    ],
+    "correctIndex": 3,
+    "explanation": "Luis Fernando de la Vega es el galán interpretado por Fernando Colunga."
+  },
+  {
+    "id": "s90-0320",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué año se estrenó María la del Barrio?",
+    "options": [
+      "1995",
+      "1992",
+      "1997",
+      "1999"
+    ],
+    "correctIndex": 0,
+    "explanation": "María la del Barrio se estrenó en 1995."
+  },
+  {
+    "id": "s90-0321",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la maestra de Carrusel?",
+    "options": [
+      "Laura",
+      "Xóchitl",
+      "Mónica",
+      "Carmen"
+    ],
+    "correctIndex": 1,
+    "explanation": "La señorita Xóchitl es la maestra del grupo de niños."
+  },
+  {
+    "id": "s90-0322",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué país se produjo Carrusel?",
+    "options": [
+      "Colombia",
+      "Venezuela",
+      "México",
+      "Argentina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Carrusel fue una producción mexicana de Televisa."
+  },
+  {
+    "id": "s90-0323",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la niña presumida de Carrusel?",
+    "options": [
+      "Xóchitl",
+      "Laura",
+      "Mónica",
+      "María Joaquina"
+    ],
+    "correctIndex": 3,
+    "explanation": "María Joaquina es la compañera engreída que se burla de Cirilo."
+  },
+  {
+    "id": "s90-0324",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién protagoniza Café con aroma de mujer?",
+    "options": [
+      "Margarita Rosa de Francisco",
+      "Ana María Orozco",
+      "Catherine Siachoque",
+      "Paola Turbay"
+    ],
+    "correctIndex": 0,
+    "explanation": "Margarita Rosa de Francisco interpretó a Gaviota."
+  },
+  {
+    "id": "s90-0325",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué país se produjo Café con aroma de mujer?",
+    "options": [
+      "México",
+      "Colombia",
+      "Venezuela",
+      "Brasil"
+    ],
+    "correctIndex": 1,
+    "explanation": "La telenovela colombiana se estrenó en 1994."
+  },
+  {
+    "id": "s90-0326",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el personaje de Margarita Rosa de Francisco en Café con aroma de mujer?",
+    "options": [
+      "Milagros",
+      "Betty",
+      "Gaviota",
+      "María"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gaviota es el apodo de Teresa Suárez, la recolectora de café."
+  },
+  {
+    "id": "s90-0327",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué año se estrenó Café con aroma de mujer?",
+    "options": [
+      "1992",
+      "1996",
+      "1999",
+      "1994"
+    ],
+    "correctIndex": 3,
+    "explanation": "Café con aroma de mujer se estrenó en 1994."
+  },
+  {
+    "id": "s90-0328",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién interpreta a Betty en Yo soy Betty, la fea?",
+    "options": [
+      "Ana María Orozco",
+      "Natalia Oreiro",
+      "Thalía",
+      "Margarita Rosa de Francisco"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ana María Orozco dio vida a Betty Pinzón."
+  },
+  {
+    "id": "s90-0329",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué país se produjo Yo soy Betty, la fea?",
+    "options": [
+      "México",
+      "Colombia",
+      "Venezuela",
+      "Argentina"
+    ],
+    "correctIndex": 1,
+    "explanation": "La telenovela fue producida por RCN Televisión en Colombia."
+  },
+  {
+    "id": "s90-0330",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la empresa donde trabaja Betty?",
+    "options": [
+      "Moda S.A.",
+      "Textiles Valdés",
+      "EcoModa",
+      "Grupo Mendoza"
+    ],
+    "correctIndex": 2,
+    "explanation": "Betty trabaja como secretaria en EcoModa."
+  },
+  {
+    "id": "s90-0331",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor interpreta a Armando Mendoza?",
+    "options": [
+      "Fernando Colunga",
+      "Guy Ecker",
+      "Julián Arango",
+      "Jorge Enrique Abello"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jorge Enrique Abello interpretó al enamoradizo Armando Mendoza."
+  },
+  {
+    "id": "s90-0332",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué año se estrenó Yo soy Betty, la fea?",
+    "options": [
+      "1999",
+      "1995",
+      "1997",
+      "2001"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yo soy Betty, la fea se estrenó en 1999."
+  },
+  {
+    "id": "s90-0333",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué país se produjo Farmacia de guardia?",
+    "options": [
+      "México",
+      "España",
+      "Argentina",
+      "Colombia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Farmacia de guardia fue una serie española de los 90."
+  },
+  {
+    "id": "s90-0334",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué cadena se emitió Farmacia de guardia?",
+    "options": [
+      "Telecinco",
+      "TVE",
+      "Antena 3",
+      "La Sexta"
+    ],
+    "correctIndex": 2,
+    "explanation": "La serie se emitió en Antena 3 entre 1991 y 1995."
+  },
+  {
+    "id": "s90-0335",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz protagoniza Farmacia de guardia como Lourdes?",
+    "options": [
+      "Lina Morgan",
+      "Ana Duato",
+      "Amparo Baró",
+      "Concha Cuetos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Concha Cuetos interpretó a la farmacéutica Lourdes."
+  },
+  {
+    "id": "s90-0336",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor protagoniza Médico de familia?",
+    "options": [
+      "Emilio Aragón",
+      "Imanol Arias",
+      "Antonio Resines",
+      "Jordi Rebellón"
+    ],
+    "correctIndex": 0,
+    "explanation": "Emilio Aragón interpretó a Nacho Martín."
+  },
+  {
+    "id": "s90-0337",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué cadena se emitió Médico de familia?",
+    "options": [
+      "Antena 3",
+      "Telecinco",
+      "TVE",
+      "Cuatro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Médico de familia fue un éxito de Telecinco entre 1995 y 1999."
+  },
+  {
+    "id": "s90-0338",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el personaje de Emilio Aragón en Médico de familia?",
+    "options": [
+      "Javier Martín",
+      "Carlos Martín",
+      "Nacho Martín",
+      "Diego Serrano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nacho Martín es el médico viudo protagonista."
+  },
+  {
+    "id": "s90-0339",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién interpreta al Chavo del 8?",
+    "options": [
+      "Ramón Valdés",
+      "Carlos Villagrán",
+      "María Antonieta de las Nieves",
+      "Roberto Gómez Bolaños"
+    ],
+    "correctIndex": 3,
+    "explanation": "Roberto Gómez Bolaños creó y protagonizó al Chavo."
+  },
+  {
+    "id": "s90-0340",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la vecina del Chavo que es madre de Quico?",
+    "options": [
+      "Doña Florinda",
+      "Doña Clotilde",
+      "Doña Nieves",
+      "La Chilindrina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Doña Florinda vive frente al Chavo y protege a Quico."
+  },
+  {
+    "id": "s90-0341",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el dueño de la vecindad del Chavo?",
+    "options": [
+      "Profesor Jirafales",
+      "Señor Barriga",
+      "Don Ramón",
+      "Quico"
+    ],
+    "correctIndex": 1,
+    "explanation": "El señor Barriga es el propietario que cobra la renta."
+  },
+  {
+    "id": "s90-0342",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "Aunque se hizo masivo en los 90, ¿en qué década se produjo originalmente El Chavo del 8?",
+    "options": [
+      "Década de 1960",
+      "Década de 1980",
+      "Década de 1970",
+      "Década de 1990"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Chavo se produjo entre 1971 y 1980 y se repuso masivamente en los 90."
+  },
+  {
+    "id": "s90-0343",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién protagoniza La Usurpadora?",
+    "options": [
+      "Thalía",
+      "Ana María Orozco",
+      "Natalia Oreiro",
+      "Gabriela Spanic"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gabriela Spanic interpretó a las gemelas Paola y Paulina."
+  },
+  {
+    "id": "s90-0344",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué país se produjo La Usurpadora?",
+    "options": [
+      "Venezuela",
+      "México",
+      "Colombia",
+      "Brasil"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Usurpadora fue una producción venezolana."
+  },
+  {
+    "id": "s90-0345",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué cadena produjo La Usurpadora en 1998?",
+    "options": [
+      "RCTV",
+      "Venevisión",
+      "Televisa",
+      "Caracol Televisión"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Usurpadora fue producida por Venevisión."
+  },
+  {
+    "id": "s90-0346",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién protagoniza Esmeralda, la telenovela mexicana de 1997?",
+    "options": [
+      "Thalía",
+      "Adela Noriega",
+      "Leticia Calderón",
+      "Lucero"
+    ],
+    "correctIndex": 2,
+    "explanation": "Leticia Calderón interpretó a Esmeralda."
+  },
+  {
+    "id": "s90-0347",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué país se produjo Chiquititas?",
+    "options": [
+      "México",
+      "Venezuela",
+      "Colombia",
+      "Argentina"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chiquititas fue una producción argentina pensada para el público infantil."
+  },
+  {
+    "id": "s90-0348",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién creó Chiquititas?",
+    "options": [
+      "Cris Morena",
+      "Marcelo Tinelli",
+      "Adrián Suar",
+      "Gustavo Yankelevich"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cris Morena creó la serie y compuso muchas de sus canciones."
+  },
+  {
+    "id": "s90-0349",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién protagoniza Muñeca Brava?",
+    "options": [
+      "Thalía",
+      "Natalia Oreiro",
+      "Gabriela Spanic",
+      "Ana María Orozco"
+    ],
+    "correctIndex": 1,
+    "explanation": "Natalia Oreiro interpretó a Milagros Esposito."
+  },
+  {
+    "id": "s90-0350",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor coprotagoniza Muñeca Brava junto a Natalia Oreiro?",
+    "options": [
+      "Fernando Colunga",
+      "Jorge Enrique Abello",
+      "Facundo Arana",
+      "Guy Ecker"
+    ],
+    "correctIndex": 2,
+    "explanation": "Facundo Arana interpretó a Ivo Di Carlo."
+  }
+]

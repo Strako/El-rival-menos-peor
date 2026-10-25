@@ -1,0 +1,4902 @@
+[
+  {
+    "id": "cg-0001",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Australia?",
+    "options": [
+      "Sídney",
+      "Canberra",
+      "Melbourne",
+      "Perth"
+    ],
+    "correctIndex": 1,
+    "explanation": "Canberra es la capital de Australia desde 1913."
+  },
+  {
+    "id": "cg-0002",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Francia?",
+    "options": [
+      "París",
+      "Lyon",
+      "Marsella",
+      "Niza"
+    ],
+    "correctIndex": 0,
+    "explanation": "París es la capital y la ciudad más poblada de Francia."
+  },
+  {
+    "id": "cg-0003",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Japón?",
+    "options": [
+      "Kioto",
+      "Osaka",
+      "Tokio",
+      "Nagoya"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tokio es la capital de Japón desde 1868."
+  },
+  {
+    "id": "cg-0004",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Canadá?",
+    "options": [
+      "Toronto",
+      "Montreal",
+      "Vancouver",
+      "Ottawa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ottawa es la capital federal de Canadá."
+  },
+  {
+    "id": "cg-0005",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Brasil?",
+    "options": [
+      "Brasilia",
+      "Río de Janeiro",
+      "São Paulo",
+      "Salvador"
+    ],
+    "correctIndex": 0,
+    "explanation": "Brasilia es la capital de Brasil desde 1960."
+  },
+  {
+    "id": "cg-0006",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Egipto?",
+    "options": [
+      "Alejandría",
+      "Luxor",
+      "El Cairo",
+      "Asuán"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Cairo es la capital de Egipto y su mayor ciudad."
+  },
+  {
+    "id": "cg-0007",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene una forma característica de bota?",
+    "options": [
+      "Grecia",
+      "Portugal",
+      "Italia",
+      "Chile"
+    ],
+    "correctIndex": 2,
+    "explanation": "La península itálica tiene una forma que recuerda a una bota."
+  },
+  {
+    "id": "cg-0008",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿En qué continente se encuentra el desierto del Sahara?",
+    "options": [
+      "Asia",
+      "Oceanía",
+      "Europa",
+      "África"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Sahara se extiende por el norte de África."
+  },
+  {
+    "id": "cg-0009",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el océano más extenso del mundo?",
+    "options": [
+      "Atlántico",
+      "Índico",
+      "Ártico",
+      "Pacífico"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Pacífico es el océano de mayor superficie y profundidad."
+  },
+  {
+    "id": "cg-0010",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el río más caudaloso del mundo?",
+    "options": [
+      "Nilo",
+      "Amazonas",
+      "Misisipi",
+      "Yangtsé"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Amazonas es el río con mayor caudal del mundo."
+  },
+  {
+    "id": "cg-0011",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la montaña más alta del mundo?",
+    "options": [
+      "K2",
+      "Kilimanjaro",
+      "Everest",
+      "Aconcagua"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Everest, en el Himalaya, es el pico más alto del mundo."
+  },
+  {
+    "id": "cg-0012",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la moneda oficial de Japón?",
+    "options": [
+      "Yen",
+      "Yuan",
+      "Won",
+      "Rupia"
+    ],
+    "correctIndex": 0,
+    "explanation": "El yen es la moneda oficial de Japón."
+  },
+  {
+    "id": "cg-0013",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la moneda oficial del Reino Unido?",
+    "options": [
+      "Euro",
+      "Libra esterlina",
+      "Dólar",
+      "Franco suizo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La libra esterlina es la moneda del Reino Unido."
+  },
+  {
+    "id": "cg-0014",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la moneda oficial de Estados Unidos?",
+    "options": [
+      "Peso",
+      "Libra",
+      "Corona",
+      "Dólar"
+    ],
+    "correctIndex": 3,
+    "explanation": "El dólar estadounidense es la moneda oficial de Estados Unidos."
+  },
+  {
+    "id": "cg-0015",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el país más poblado de África?",
+    "options": [
+      "Nigeria",
+      "Egipto",
+      "Sudáfrica",
+      "Kenia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nigeria es el país más poblado de África."
+  },
+  {
+    "id": "cg-0016",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el planeta más cercano al Sol?",
+    "options": [
+      "Venus",
+      "Tierra",
+      "Mercurio",
+      "Marte"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mercurio orbita más cerca del Sol que cualquier otro planeta."
+  },
+  {
+    "id": "cg-0017",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué planeta es conocido como el planeta rojo?",
+    "options": [
+      "Júpiter",
+      "Marte",
+      "Venus",
+      "Saturno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marte se ve rojizo por el óxido de hierro de su superficie."
+  },
+  {
+    "id": "cg-0018",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué gas necesitan los seres humanos para respirar?",
+    "options": [
+      "Nitrógeno",
+      "Dióxido de carbono",
+      "Oxígeno",
+      "Helio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las células humanas obtienen energía usando oxígeno."
+  },
+  {
+    "id": "cg-0019",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué órgano bombea la sangre por el cuerpo?",
+    "options": [
+      "Corazón",
+      "Hígado",
+      "Pulmón",
+      "Riñón"
+    ],
+    "correctIndex": 0,
+    "explanation": "El corazón impulsa la sangre a través del sistema circulatorio."
+  },
+  {
+    "id": "cg-0020",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+    "options": [
+      "Tibia",
+      "Fémur",
+      "Húmero",
+      "Radio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El fémur es el hueso más largo y resistente del cuerpo humano."
+  },
+  {
+    "id": "cg-0021",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el animal terrestre más grande?",
+    "options": [
+      "Jirafa",
+      "Rinoceronte",
+      "Hipopótamo",
+      "Elefante africano"
+    ],
+    "correctIndex": 3,
+    "explanation": "El elefante africano es el animal terrestre de mayor tamaño."
+  },
+  {
+    "id": "cg-0022",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el animal más rápido en tierra?",
+    "options": [
+      "Guepardo",
+      "León",
+      "Caballo",
+      "Avestruz"
+    ],
+    "correctIndex": 0,
+    "explanation": "El guepardo puede superar los 100 km/h en distancias cortas."
+  },
+  {
+    "id": "cg-0023",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero pone huevos?",
+    "options": [
+      "Canguro",
+      "Koala",
+      "Murciélago",
+      "Ornitorrinco"
+    ],
+    "correctIndex": 3,
+    "explanation": "El ornitorrinco es un mamífero monotrema que pone huevos."
+  },
+  {
+    "id": "cg-0024",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el animal más grande del planeta?",
+    "options": [
+      "Ballena azul",
+      "Tiburón blanco",
+      "Orca",
+      "Cachalote"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ballena azul es el animal más grande conocido."
+  },
+  {
+    "id": "cg-0025",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la fórmula química del agua?",
+    "options": [
+      "CO2",
+      "H2O",
+      "O2",
+      "NaCl"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cada molécula de agua tiene dos átomos de hidrógeno y uno de oxígeno."
+  },
+  {
+    "id": "cg-0026",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del oro?",
+    "options": [
+      "Ag",
+      "Au",
+      "Fe",
+      "Cu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Au proviene del latín aurum, nombre del oro."
+  },
+  {
+    "id": "cg-0027",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la estación más cálida en el hemisferio norte?",
+    "options": [
+      "Invierno",
+      "Primavera",
+      "Otoño",
+      "Verano"
+    ],
+    "correctIndex": 3,
+    "explanation": "En el hemisferio norte el verano abarca aproximadamente de junio a septiembre."
+  },
+  {
+    "id": "cg-0028",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento se usa para medir la temperatura?",
+    "options": [
+      "Barómetro",
+      "Brújula",
+      "Cronómetro",
+      "Termómetro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El termómetro mide la temperatura mediante una escala graduada."
+  },
+  {
+    "id": "cg-0029",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento señala el norte?",
+    "options": [
+      "Termómetro",
+      "Telescopio",
+      "Microscopio",
+      "Brújula"
+    ],
+    "correctIndex": 3,
+    "explanation": "La brújula se orienta con el campo magnético terrestre."
+  },
+  {
+    "id": "cg-0030",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad de fuerza del Sistema Internacional?",
+    "options": [
+      "Julio",
+      "Vatio",
+      "Newton",
+      "Pascal"
+    ],
+    "correctIndex": 2,
+    "explanation": "El newton mide fuerza en el Sistema Internacional."
+  },
+  {
+    "id": "cg-0031",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad de potencia del Sistema Internacional?",
+    "options": [
+      "Vatio",
+      "Newton",
+      "Julio",
+      "Amperio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El vatio equivale a un julio por segundo."
+  },
+  {
+    "id": "cg-0032",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el único satélite natural de la Tierra?",
+    "options": [
+      "Fobos",
+      "Ío",
+      "Titán",
+      "Luna"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Luna es el único satélite natural de la Tierra."
+  },
+  {
+    "id": "cg-0033",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la estrella más cercana a la Tierra?",
+    "options": [
+      "Sirio",
+      "Alfa Centauri",
+      "Sol",
+      "Polaris"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Sol es la estrella más próxima a nuestro planeta."
+  },
+  {
+    "id": "cg-0034",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿En qué país comenzó la Revolución Industrial?",
+    "options": [
+      "Francia",
+      "Reino Unido",
+      "Alemania",
+      "Estados Unidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Revolución Industrial comenzó en Gran Bretaña en el siglo XVIII."
+  },
+  {
+    "id": "cg-0035",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿En qué año comenzó la Primera Guerra Mundial?",
+    "options": [
+      "1918",
+      "1939",
+      "1905",
+      "1914"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Primera Guerra Mundial comenzó en 1914."
+  },
+  {
+    "id": "cg-0036",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿En qué año terminó la Segunda Guerra Mundial?",
+    "options": [
+      "1918",
+      "1939",
+      "1950",
+      "1945"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Segunda Guerra Mundial terminó en 1945."
+  },
+  {
+    "id": "cg-0037",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué muro cayó en 1989?",
+    "options": [
+      "Muro de Adriano",
+      "Muro de Berlín",
+      "Gran Muralla",
+      "Muro de los Lamentos"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Muro de Berlín cayó en noviembre de 1989."
+  },
+  {
+    "id": "cg-0038",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué civilización construyó las pirámides de Giza?",
+    "options": [
+      "Romana",
+      "Griega",
+      "Maya",
+      "Egipcia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las pirámides de Giza fueron construidas por el antiguo Egipto."
+  },
+  {
+    "id": "cg-0039",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿En qué civilización vivió Julio César?",
+    "options": [
+      "Antigua Roma",
+      "Antigua Grecia",
+      "Mesopotamia",
+      "Antiguo Egipto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Julio César fue un líder político y militar de la Antigua Roma."
+  },
+  {
+    "id": "cg-0040",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el país con mayor superficie del mundo?",
+    "options": [
+      "Canadá",
+      "China",
+      "Rusia",
+      "Estados Unidos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rusia es el país más extenso del mundo."
+  },
+  {
+    "id": "cg-0041",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el país más pequeño del mundo?",
+    "options": [
+      "Mónaco",
+      "Ciudad del Vaticano",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Vaticano es el Estado soberano más pequeño del mundo."
+  },
+  {
+    "id": "cg-0042",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué océano separa América de Europa?",
+    "options": [
+      "Pacífico",
+      "Índico",
+      "Atlántico",
+      "Ártico"
+    ],
+    "correctIndex": 2,
+    "explanation": "El océano Atlántico separa América de Europa y África."
+  },
+  {
+    "id": "cg-0043",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué mar baña las costas de Europa y África?",
+    "options": [
+      "Rojo",
+      "Mediterráneo",
+      "Negro",
+      "Caspio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Mediterráneo baña las costas de Europa, Asia y África."
+  },
+  {
+    "id": "cg-0044",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la cordillera más larga de América del Sur?",
+    "options": [
+      "Andes",
+      "Himalaya",
+      "Rocosas",
+      "Alpes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los Andes recorren el oeste de América del Sur."
+  },
+  {
+    "id": "cg-0045",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el desierto cálido más grande del mundo?",
+    "options": [
+      "Sahara",
+      "Gobi",
+      "Kalahari",
+      "Atacama"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Sahara es el mayor desierto cálido del mundo."
+  },
+  {
+    "id": "cg-0046",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la isla más grande del mundo?",
+    "options": [
+      "Nueva Guinea",
+      "Groenlandia",
+      "Borneo",
+      "Madagascar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Groenlandia es la isla más grande, aunque no es un continente."
+  },
+  {
+    "id": "cg-0047",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué dos países ocupan la mayor parte de la península ibérica?",
+    "options": [
+      "España y Portugal",
+      "España y Francia",
+      "Portugal y Marruecos",
+      "España e Italia"
+    ],
+    "correctIndex": 0,
+    "explanation": "España y Portugal ocupan la mayor parte de la península ibérica."
+  },
+  {
+    "id": "cg-0048",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el idioma oficial de Brasil?",
+    "options": [
+      "Portugués",
+      "Español",
+      "Inglés",
+      "Francés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Brasil fue colonia portuguesa y mantiene el portugués como idioma oficial."
+  },
+  {
+    "id": "cg-0049",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Italia?",
+    "options": [
+      "Milán",
+      "Venecia",
+      "Roma",
+      "Florencia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Roma es la capital de Italia."
+  },
+  {
+    "id": "cg-0050",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Alemania?",
+    "options": [
+      "Múnich",
+      "Hamburgo",
+      "Berlín",
+      "Fráncfort"
+    ],
+    "correctIndex": 2,
+    "explanation": "Berlín es la capital de Alemania desde la reunificación."
+  },
+  {
+    "id": "cg-0051",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de España?",
+    "options": [
+      "Barcelona",
+      "Sevilla",
+      "Madrid",
+      "Valencia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Madrid es la capital de España."
+  },
+  {
+    "id": "cg-0052",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de México?",
+    "options": [
+      "Guadalajara",
+      "Monterrey",
+      "Ciudad de México",
+      "Puebla"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Ciudad de México es la capital del país."
+  },
+  {
+    "id": "cg-0053",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Argentina?",
+    "options": [
+      "Córdoba",
+      "Buenos Aires",
+      "Rosario",
+      "Mendoza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Buenos Aires es la capital de Argentina."
+  },
+  {
+    "id": "cg-0054",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Perú?",
+    "options": [
+      "Cusco",
+      "Arequipa",
+      "Trujillo",
+      "Lima"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lima es la capital de Perú."
+  },
+  {
+    "id": "cg-0055",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Chile?",
+    "options": [
+      "Valparaíso",
+      "Concepción",
+      "Antofagasta",
+      "Santiago"
+    ],
+    "correctIndex": 3,
+    "explanation": "Santiago es la capital de Chile."
+  },
+  {
+    "id": "cg-0056",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Colombia?",
+    "options": [
+      "Medellín",
+      "Bogotá",
+      "Cali",
+      "Cartagena"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bogotá es la capital de Colombia."
+  },
+  {
+    "id": "cg-0057",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué río atraviesa Egipto de sur a norte?",
+    "options": [
+      "Nilo",
+      "Éufrates",
+      "Tigris",
+      "Congo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Nilo cruza Egipto hasta desembocar en el Mediterráneo."
+  },
+  {
+    "id": "cg-0058",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué río atraviesa París?",
+    "options": [
+      "Támesis",
+      "Sena",
+      "Danubio",
+      "Rin"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Sena atraviesa París antes de desembocar en el canal de la Mancha."
+  },
+  {
+    "id": "cg-0059",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué río atraviesa Londres?",
+    "options": [
+      "Sena",
+      "Tíber",
+      "Elba",
+      "Támesis"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Támesis atraviesa Londres."
+  },
+  {
+    "id": "cg-0060",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra el fiordo de Geiranger?",
+    "options": [
+      "Dinamarca",
+      "Finlandia",
+      "Islandia",
+      "Noruega"
+    ],
+    "correctIndex": 3,
+    "explanation": "El fiordo de Geiranger está en la costa atlántica de Noruega."
+  },
+  {
+    "id": "cg-0061",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene una hoja de arce en su bandera?",
+    "options": [
+      "Australia",
+      "Nueva Zelanda",
+      "Irlanda",
+      "Canadá"
+    ],
+    "correctIndex": 3,
+    "explanation": "La hoja de arce roja aparece en la bandera de Canadá."
+  },
+  {
+    "id": "cg-0062",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene una bandera verde, blanca y roja con un águila devorando una serpiente?",
+    "options": [
+      "Italia",
+      "Hungría",
+      "Irán",
+      "México"
+    ],
+    "correctIndex": 3,
+    "explanation": "La bandera mexicana lleva el escudo nacional con esa imagen en el centro."
+  },
+  {
+    "id": "cg-0063",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene la flor de cerezo como símbolo tradicional?",
+    "options": [
+      "China",
+      "Corea del Sur",
+      "Japón",
+      "Tailandia"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sakura, flor de cerezo, es un símbolo tradicional de Japón."
+  },
+  {
+    "id": "cg-0064",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué organización mundial se fundó en 1945 para mantener la paz?",
+    "options": [
+      "OTAN",
+      "ONU",
+      "Unión Europea",
+      "Liga Árabe"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ONU se fundó en 1945 para mantener la paz y la seguridad internacionales."
+  },
+  {
+    "id": "cg-0065",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Dónde está la sede principal de la ONU?",
+    "options": [
+      "Ginebra",
+      "París",
+      "Nueva York",
+      "Bruselas"
+    ],
+    "correctIndex": 2,
+    "explanation": "La sede de la ONU está en Nueva York."
+  },
+  {
+    "id": "cg-0066",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Dónde está la sede de la Comisión Europea?",
+    "options": [
+      "Estrasburgo",
+      "Bruselas",
+      "Luxemburgo",
+      "Ámsterdam"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Comisión Europea tiene su sede en Bruselas."
+  },
+  {
+    "id": "cg-0067",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la moneda compartida por los países de la eurozona?",
+    "options": [
+      "Libra",
+      "Franco",
+      "Corona",
+      "Euro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El euro es la moneda compartida por los países de la eurozona."
+  },
+  {
+    "id": "cg-0068",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la moneda oficial de India?",
+    "options": [
+      "Yuan",
+      "Baht",
+      "Rupia",
+      "Ringgit"
+    ],
+    "correctIndex": 2,
+    "explanation": "La rupia india es la moneda oficial de India."
+  },
+  {
+    "id": "cg-0069",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la moneda oficial de Rusia?",
+    "options": [
+      "Rublo",
+      "Grivna",
+      "Lira",
+      "Zloty"
+    ],
+    "correctIndex": 0,
+    "explanation": "El rublo es la moneda oficial de Rusia."
+  },
+  {
+    "id": "cg-0070",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién era el dios griego del mar?",
+    "options": [
+      "Zeus",
+      "Apolo",
+      "Poseidón",
+      "Ares"
+    ],
+    "correctIndex": 2,
+    "explanation": "Poseidón era el dios griego del mar y de los terremotos."
+  },
+  {
+    "id": "cg-0071",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Turquía?",
+    "options": [
+      "Estambul",
+      "Ankara",
+      "Esmirna",
+      "Bursa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ankara es la capital de Turquía desde 1923."
+  },
+  {
+    "id": "cg-0072",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Marruecos?",
+    "options": [
+      "Casablanca",
+      "Rabat",
+      "Marrakech",
+      "Fez"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rabat es la capital de Marruecos."
+  },
+  {
+    "id": "cg-0073",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Nueva Zelanda?",
+    "options": [
+      "Auckland",
+      "Wellington",
+      "Christchurch",
+      "Dunedin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wellington es la capital de Nueva Zelanda."
+  },
+  {
+    "id": "cg-0074",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Vietnam?",
+    "options": [
+      "Ciudad Ho Chi Minh",
+      "Da Nang",
+      "Hanói",
+      "Hué"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hanói es la capital de Vietnam."
+  },
+  {
+    "id": "cg-0075",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Tailandia?",
+    "options": [
+      "Chiang Mai",
+      "Phuket",
+      "Bangkok",
+      "Pattaya"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bangkok es la capital de Tailandia."
+  },
+  {
+    "id": "cg-0076",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Pakistán?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Rawalpindi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Islamabad es la capital de Pakistán."
+  },
+  {
+    "id": "cg-0077",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Nigeria?",
+    "options": [
+      "Abuya",
+      "Lagos",
+      "Kano",
+      "Ibadán"
+    ],
+    "correctIndex": 0,
+    "explanation": "Abuya es la capital de Nigeria desde 1991."
+  },
+  {
+    "id": "cg-0078",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Kazajistán?",
+    "options": [
+      "Astaná",
+      "Almaty",
+      "Karaganda",
+      "Taskent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Astaná es la capital de Kazajistán."
+  },
+  {
+    "id": "cg-0079",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el país más grande de América del Sur?",
+    "options": [
+      "Brasil",
+      "Argentina",
+      "Perú",
+      "Colombia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Brasil ocupa cerca de la mitad de la superficie de América del Sur."
+  },
+  {
+    "id": "cg-0080",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué país tiene la costa más larga del mundo?",
+    "options": [
+      "Rusia",
+      "Indonesia",
+      "Canadá",
+      "Australia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Canadá tiene la costa más extensa del mundo."
+  },
+  {
+    "id": "cg-0081",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué río atraviesa Bagdad?",
+    "options": [
+      "Éufrates",
+      "Tigris",
+      "Nilo",
+      "Jordán"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bagdad se encuentra a orillas del río Tigris."
+  },
+  {
+    "id": "cg-0082",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el río más largo de Europa?",
+    "options": [
+      "Danubio",
+      "Rin",
+      "Volga",
+      "Dniéper"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Volga es el río más largo de Europa."
+  },
+  {
+    "id": "cg-0083",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el lago más profundo del mundo?",
+    "options": [
+      "Baikal",
+      "Victoria",
+      "Superior",
+      "Tanganica"
+    ],
+    "correctIndex": 0,
+    "explanation": "El lago Baikal, en Siberia, es el más profundo del mundo."
+  },
+  {
+    "id": "cg-0084",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el lago de agua dulce más extenso del mundo?",
+    "options": [
+      "Superior",
+      "Victoria",
+      "Baikal",
+      "Titicaca"
+    ],
+    "correctIndex": 0,
+    "explanation": "El lago Superior es el mayor lago de agua dulce por superficie."
+  },
+  {
+    "id": "cg-0085",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué mar no tiene costas continentales que lo delimiten?",
+    "options": [
+      "Mar Rojo",
+      "Mar Negro",
+      "Mar de los Sargazos",
+      "Mar Muerto"
+    ],
+    "correctIndex": 2,
+    "explanation": "El mar de los Sargazos está delimitado por corrientes, no por costas."
+  },
+  {
+    "id": "cg-0086",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el punto más bajo de la tierra firme?",
+    "options": [
+      "El valle de la Muerte",
+      "La ribera del mar Muerto",
+      "La ribera del lago Baikal",
+      "El delta del Nilo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ribera del mar Muerto está a unos 430 metros bajo el nivel del mar."
+  },
+  {
+    "id": "cg-0087",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la cascada más alta del mundo?",
+    "options": [
+      "Cataratas del Niágara",
+      "Salto del Tequendama",
+      "Salto del Ángel",
+      "Cataratas Khone"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Salto del Ángel, en Venezuela, es la cascada más alta."
+  },
+  {
+    "id": "cg-0088",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué cordillera se considera la frontera natural entre Europa y Asia?",
+    "options": [
+      "Cáucaso",
+      "Alpes",
+      "Urales",
+      "Cárpatos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los montes Urales separan Europa de Asia."
+  },
+  {
+    "id": "cg-0089",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la montaña más alta de África?",
+    "options": [
+      "Monte Kenia",
+      "Elbrús",
+      "Kilimanjaro",
+      "Atlas"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Kilimanjaro, en Tanzania, es el pico más alto de África."
+  },
+  {
+    "id": "cg-0090",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la montaña más alta de América?",
+    "options": [
+      "Denali",
+      "Ojos del Salado",
+      "Aconcagua",
+      "Chimborazo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Aconcagua, en Argentina, es el pico más alto de América."
+  },
+  {
+    "id": "cg-0091",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué volcán sepultó la ciudad de Pompeya?",
+    "options": [
+      "Etna",
+      "Estrómboli",
+      "Vesubio",
+      "Teide"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Vesubio erupcionó en el año 79 y sepultó Pompeya."
+  },
+  {
+    "id": "cg-0092",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el volcán más activo de Europa?",
+    "options": [
+      "Vesubio",
+      "Etna",
+      "Teide",
+      "Estrómboli"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Etna, en Sicilia, es el volcán más activo de Europa."
+  },
+  {
+    "id": "cg-0093",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué desierto se extiende por Mongolia y el norte de China?",
+    "options": [
+      "Kalahari",
+      "Atacama",
+      "Sahara",
+      "Gobi"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Gobi se extiende por Mongolia y el norte de China."
+  },
+  {
+    "id": "cg-0094",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el mayor desierto polar del mundo?",
+    "options": [
+      "Sahara",
+      "Antártico",
+      "Gobi",
+      "Kalahari"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Antártida es el mayor desierto del mundo y es de tipo polar."
+  },
+  {
+    "id": "cg-0095",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué gran isla se encuentra en el océano Índico frente a África?",
+    "options": [
+      "Madagascar",
+      "Sri Lanka",
+      "Sumatra",
+      "Zanzíbar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Madagascar es una gran isla frente a la costa de África oriental."
+  },
+  {
+    "id": "cg-0096",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué isla comparten Haití y la República Dominicana?",
+    "options": [
+      "Cuba",
+      "Jamaica",
+      "La Española",
+      "Puerto Rico"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Española es la isla que comparten Haití y República Dominicana."
+  },
+  {
+    "id": "cg-0097",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿A qué país pertenecen las islas Galápagos?",
+    "options": [
+      "Ecuador",
+      "Perú",
+      "Colombia",
+      "Chile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las islas Galápagos pertenecen a Ecuador."
+  },
+  {
+    "id": "cg-0098",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué clima predomina en la zona ecuatorial?",
+    "options": [
+      "Polar",
+      "Tropical lluvioso",
+      "Desértico",
+      "Mediterráneo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La zona ecuatorial se caracteriza por temperaturas altas y lluvias abundantes."
+  },
+  {
+    "id": "cg-0099",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué instrumento mide la presión atmosférica?",
+    "options": [
+      "Barómetro",
+      "Termómetro",
+      "Anemómetro",
+      "Higrómetro"
+    ],
+    "correctIndex": 0,
+    "explanation": "El barómetro mide la presión del aire."
+  },
+  {
+    "id": "cg-0100",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué capa de la atmósfera ocurre el clima?",
+    "options": [
+      "Troposfera",
+      "Estratosfera",
+      "Mesosfera",
+      "Termosfera"
+    ],
+    "correctIndex": 0,
+    "explanation": "La troposfera es la capa más baja y concentra los fenómenos climáticos."
+  },
+  {
+    "id": "cg-0101",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué capa se encuentra la mayor parte del ozono?",
+    "options": [
+      "Troposfera",
+      "Estratosfera",
+      "Mesosfera",
+      "Ionosfera"
+    ],
+    "correctIndex": 1,
+    "explanation": "La capa de ozono se sitúa principalmente en la estratosfera."
+  },
+  {
+    "id": "cg-0102",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el proceso con que las plantas producen alimento?",
+    "options": [
+      "Respiración",
+      "Fotosíntesis",
+      "Transpiración",
+      "Fermentación"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fotosíntesis convierte luz, agua y CO2 en glucosa y oxígeno."
+  },
+  {
+    "id": "cg-0103",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué gas absorben las plantas durante la fotosíntesis?",
+    "options": [
+      "Dióxido de carbono",
+      "Oxígeno",
+      "Nitrógeno",
+      "Metano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las plantas usan dióxido de carbono como fuente de carbono."
+  },
+  {
+    "id": "cg-0104",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué células transportan el oxígeno en la sangre?",
+    "options": [
+      "Glóbulos rojos",
+      "Glóbulos blancos",
+      "Plaquetas",
+      "Neuronas"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hemoglobina de los glóbulos rojos transporta oxígeno."
+  },
+  {
+    "id": "cg-0105",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el órgano más extenso del cuerpo humano?",
+    "options": [
+      "La piel",
+      "El hígado",
+      "El pulmón",
+      "El intestino"
+    ],
+    "correctIndex": 0,
+    "explanation": "La piel es el órgano más extenso del cuerpo humano."
+  },
+  {
+    "id": "cg-0106",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué órgano produce la insulina?",
+    "options": [
+      "Hígado",
+      "Riñón",
+      "Tiroides",
+      "Páncreas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las células beta del páncreas producen insulina."
+  },
+  {
+    "id": "cg-0107",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué hueso protege el cerebro?",
+    "options": [
+      "Fémur",
+      "Esternón",
+      "Pelvis",
+      "Cráneo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cráneo forma una caja ósea que protege el cerebro."
+  },
+  {
+    "id": "cg-0108",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuántas cámaras tiene el corazón humano?",
+    "options": [
+      "Dos",
+      "Cuatro",
+      "Tres",
+      "Cinco"
+    ],
+    "correctIndex": 1,
+    "explanation": "El corazón humano tiene dos aurículas y dos ventrículos."
+  },
+  {
+    "id": "cg-0109",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la unidad de corriente eléctrica?",
+    "options": [
+      "Amperio",
+      "Voltio",
+      "Ohmio",
+      "Culombio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El amperio mide la intensidad de la corriente eléctrica."
+  },
+  {
+    "id": "cg-0110",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la unidad de presión del Sistema Internacional?",
+    "options": [
+      "Pascal",
+      "Newton",
+      "Julio",
+      "Vatio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pascal equivale a un newton por metro cuadrado."
+  },
+  {
+    "id": "cg-0111",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿A qué velocidad aproximada viaja la luz en el vacío?",
+    "options": [
+      "3.000 km/s",
+      "30.000 km/s",
+      "3.000.000 km/s",
+      "300.000 km/s"
+    ],
+    "correctIndex": 3,
+    "explanation": "La luz viaja a unos 299.792 kilómetros por segundo en el vacío."
+  },
+  {
+    "id": "cg-0112",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué fuerza atrae los cuerpos hacia la Tierra?",
+    "options": [
+      "Magnetismo",
+      "Gravedad",
+      "Fricción",
+      "Inercia"
+    ],
+    "correctIndex": 1,
+    "explanation": "La gravedad terrestre atrae los cuerpos hacia el centro del planeta."
+  },
+  {
+    "id": "cg-0113",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el símbolo químico del sodio?",
+    "options": [
+      "So",
+      "Na",
+      "Sd",
+      "N"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na proviene del latín natrium, nombre del sodio."
+  },
+  {
+    "id": "cg-0114",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué elemento tiene el número atómico 1?",
+    "options": [
+      "Hidrógeno",
+      "Helio",
+      "Oxígeno",
+      "Carbono"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hidrógeno tiene un solo protón en su núcleo."
+  },
+  {
+    "id": "cg-0115",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+    "options": [
+      "Oxígeno",
+      "Argón",
+      "Dióxido de carbono",
+      "Nitrógeno"
+    ],
+    "correctIndex": 3,
+    "explanation": "El nitrógeno constituye cerca del 78 por ciento del aire."
+  },
+  {
+    "id": "cg-0116",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué planeta tiene los anillos más visibles?",
+    "options": [
+      "Saturno",
+      "Júpiter",
+      "Urano",
+      "Neptuno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Saturno es conocido por su amplio sistema de anillos."
+  },
+  {
+    "id": "cg-0117",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el planeta más denso del sistema solar?",
+    "options": [
+      "La Tierra",
+      "Júpiter",
+      "Saturno",
+      "Mercurio"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Tierra es el planeta con mayor densidad media."
+  },
+  {
+    "id": "cg-0118",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué galaxia se encuentra el sistema solar?",
+    "options": [
+      "Andrómeda",
+      "Triángulo",
+      "Sombrero",
+      "Vía Láctea"
+    ],
+    "correctIndex": 3,
+    "explanation": "El sistema solar forma parte de la Vía Láctea."
+  },
+  {
+    "id": "cg-0119",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién fue la primera persona en caminar sobre la Luna?",
+    "options": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Michael Collins"
+    ],
+    "correctIndex": 2,
+    "explanation": "Armstrong pisó la Luna en julio de 1969."
+  },
+  {
+    "id": "cg-0120",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál fue el primer satélite artificial de la historia?",
+    "options": [
+      "Explorer 1",
+      "Vostok 1",
+      "Sputnik 1",
+      "Voyager 1"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Unión Soviética lanzó el Sputnik 1 en 1957."
+  },
+  {
+    "id": "cg-0121",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué científico propuso la evolución por selección natural?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Carl Linneo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Darwin publicó El origen de las especies en 1859."
+  },
+  {
+    "id": "cg-0122",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién descubrió la penicilina?",
+    "options": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fleming observó en 1928 que un hongo inhibía bacterias."
+  },
+  {
+    "id": "cg-0123",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién formuló las tres leyes del movimiento?",
+    "options": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Albert Einstein",
+      "Johannes Kepler"
+    ],
+    "correctIndex": 1,
+    "explanation": "Newton formuló sus leyes del movimiento en el siglo XVII."
+  },
+  {
+    "id": "cg-0124",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién creó la tabla periódica de los elementos?",
+    "options": [
+      "Antoine Lavoisier",
+      "Dmitri Mendeléyev",
+      "John Dalton",
+      "Niels Bohr"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mendeléyev ordenó los elementos según su masa atómica en 1869."
+  },
+  {
+    "id": "cg-0125",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién formuló la teoría de la relatividad?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Max Planck",
+      "Niels Bohr"
+    ],
+    "correctIndex": 1,
+    "explanation": "Einstein publicó la relatividad especial en 1905 y la general en 1915."
+  },
+  {
+    "id": "cg-0126",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué año cayó el Imperio romano de Occidente?",
+    "options": [
+      "410",
+      "395",
+      "476",
+      "1453"
+    ],
+    "correctIndex": 2,
+    "explanation": "El último emperador romano de Occidente fue depuesto en 476."
+  },
+  {
+    "id": "cg-0127",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué año comenzó la Revolución francesa?",
+    "options": [
+      "1776",
+      "1799",
+      "1815",
+      "1789"
+    ],
+    "correctIndex": 3,
+    "explanation": "La toma de la Bastilla ocurrió en 1789."
+  },
+  {
+    "id": "cg-0128",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué año se declaró la independencia de Estados Unidos?",
+    "options": [
+      "1783",
+      "1789",
+      "1776",
+      "1765"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Declaración de Independencia se adoptó en 1776."
+  },
+  {
+    "id": "cg-0129",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué año llegó Cristóbal Colón a América?",
+    "options": [
+      "1498",
+      "1488",
+      "1492",
+      "1500"
+    ],
+    "correctIndex": 2,
+    "explanation": "Colón llegó a las Antillas en 1492."
+  },
+  {
+    "id": "cg-0130",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién completó la primera vuelta al mundo?",
+    "options": [
+      "Fernando de Magallanes",
+      "Juan Sebastián Elcano",
+      "Cristóbal Colón",
+      "Vasco da Gama"
+    ],
+    "correctIndex": 1,
+    "explanation": "Elcano completó la expedición iniciada por Magallanes en 1522."
+  },
+  {
+    "id": "cg-0131",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué año cayó Constantinopla en manos otomanas?",
+    "options": [
+      "1492",
+      "1453",
+      "1204",
+      "1389"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los otomanos tomaron Constantinopla en 1453."
+  },
+  {
+    "id": "cg-0132",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué año se firmó la Carta Magna inglesa?",
+    "options": [
+      "1066",
+      "1302",
+      "1415",
+      "1215"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Carta Magna fue sellada por Juan de Inglaterra en 1215."
+  },
+  {
+    "id": "cg-0133",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué siglo azotó la Peste Negra a Europa?",
+    "options": [
+      "Siglo XII",
+      "Siglo XV",
+      "Siglo XI",
+      "Siglo XIV"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Peste Negra azotó Europa entre 1347 y 1351."
+  },
+  {
+    "id": "cg-0134",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién lideró la independencia del norte de América del Sur?",
+    "options": [
+      "José de San Martín",
+      "Simón Bolívar",
+      "Miguel Hidalgo",
+      "Bernardo O'Higgins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bolívar lideró la independencia de varios países andinos."
+  },
+  {
+    "id": "cg-0135",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué sacerdote inició la independencia de México?",
+    "options": [
+      "Benito Juárez",
+      "Miguel Hidalgo",
+      "Agustín de Iturbide",
+      "Emiliano Zapata"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Grito de Dolores lo pronunció Hidalgo en 1810."
+  },
+  {
+    "id": "cg-0136",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién lideró la independencia de Argentina, Chile y Perú?",
+    "options": [
+      "Simón Bolívar",
+      "Bernardo O'Higgins",
+      "Antonio José de Sucre",
+      "José de San Martín"
+    ],
+    "correctIndex": 3,
+    "explanation": "San Martín cruzó los Andes y proclamó la independencia de Perú."
+  },
+  {
+    "id": "cg-0137",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién dirigió la Revolución haitiana?",
+    "options": [
+      "Simón Bolívar",
+      "Jean-Jacques Dessalines",
+      "Toussaint Louverture",
+      "Henri Christophe"
+    ],
+    "correctIndex": 2,
+    "explanation": "Louverture dirigió la revolución que llevó a la independencia de Haití."
+  },
+  {
+    "id": "cg-0138",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué presidente estadounidense gobernó durante la Guerra Civil?",
+    "options": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Andrew Jackson",
+      "Abraham Lincoln"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lincoln fue presidente entre 1861 y 1865."
+  },
+  {
+    "id": "cg-0139",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué emperador francés fue derrotado en Waterloo?",
+    "options": [
+      "Luis XVI",
+      "Carlos V",
+      "Napoleón III",
+      "Napoleón Bonaparte"
+    ],
+    "correctIndex": 3,
+    "explanation": "Napoleón fue derrotado en Waterloo en 1815."
+  },
+  {
+    "id": "cg-0140",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué año ocurrió la Revolución rusa?",
+    "options": [
+      "1917",
+      "1905",
+      "1921",
+      "1914"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Revolución rusa de 1917 llevó al poder a los bolcheviques."
+  },
+  {
+    "id": "cg-0141",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué tratado dividió las tierras americanas entre España y Portugal en 1494?",
+    "options": [
+      "Tratado de Tordesillas",
+      "Paz de Westfalia",
+      "Tratado de Utrecht",
+      "Tratado de Versalles"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Tratado de Tordesillas se firmó en 1494."
+  },
+  {
+    "id": "cg-0142",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué paz puso fin a la Guerra de los Treinta Años?",
+    "options": [
+      "Paz de Utrecht",
+      "Tratado de Versalles",
+      "Paz de Aquisgrán",
+      "Paz de Westfalia"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Paz de Westfalia se firmó en 1648."
+  },
+  {
+    "id": "cg-0143",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 1066 llevó a los normandos al trono de Inglaterra?",
+    "options": [
+      "Batalla de Agincourt",
+      "Batalla de Hastings",
+      "Batalla de Bouvines",
+      "Batalla de Stamford Bridge"
+    ],
+    "correctIndex": 1,
+    "explanation": "Guillermo el Conquistador venció en Hastings en 1066."
+  },
+  {
+    "id": "cg-0144",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué batalla naval de 1571 la Liga Santa derrotó a los otomanos?",
+    "options": [
+      "Batalla de Trafalgar",
+      "Batalla de Salamina",
+      "Batalla de Actium",
+      "Batalla de Lepanto"
+    ],
+    "correctIndex": 3,
+    "explanation": "En Lepanto la Liga Santa derrotó a la flota otomana."
+  },
+  {
+    "id": "cg-0145",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué congreso reorganizó Europa tras la caída de Napoleón?",
+    "options": [
+      "Congreso de Berlín",
+      "Congreso de Panamá",
+      "Congreso de Viena",
+      "Conferencia de Yalta"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Congreso de Viena se celebró en 1814 y 1815."
+  },
+  {
+    "id": "cg-0146",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se proclamó el Imperio alemán?",
+    "options": [
+      "1871",
+      "1861",
+      "1848",
+      "1888"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Imperio alemán se proclamó en Versalles en 1871."
+  },
+  {
+    "id": "cg-0147",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se proclamó el Reino de Italia?",
+    "options": [
+      "1871",
+      "1848",
+      "1866",
+      "1861"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Reino de Italia se proclamó en 1861."
+  },
+  {
+    "id": "cg-0148",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año comenzó la Restauración Meiji en Japón?",
+    "options": [
+      "1853",
+      "1889",
+      "1905",
+      "1868"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Restauración Meiji comenzó en 1868."
+  },
+  {
+    "id": "cg-0149",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año abolió Rusia la servidumbre?",
+    "options": [
+      "1848",
+      "1905",
+      "1917",
+      "1861"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alejandro II abolió la servidumbre en 1861."
+  },
+  {
+    "id": "cg-0150",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se independizó Haití?",
+    "options": [
+      "1791",
+      "1810",
+      "1822",
+      "1804"
+    ],
+    "correctIndex": 3,
+    "explanation": "Haití proclamó su independencia en 1804."
+  },
+  {
+    "id": "cg-0151",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se independizó Brasil de Portugal?",
+    "options": [
+      "1822",
+      "1808",
+      "1831",
+      "1889"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pedro I proclamó la independencia de Brasil en 1822."
+  },
+  {
+    "id": "cg-0152",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año abrió al tráfico el canal de Panamá?",
+    "options": [
+      "1904",
+      "1914",
+      "1920",
+      "1889"
+    ],
+    "correctIndex": 1,
+    "explanation": "El canal de Panamá abrió al tráfico en 1914."
+  },
+  {
+    "id": "cg-0153",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se inauguró el canal de Suez?",
+    "options": [
+      "1859",
+      "1875",
+      "1869",
+      "1882"
+    ],
+    "correctIndex": 2,
+    "explanation": "El canal de Suez se inauguró en 1869."
+  },
+  {
+    "id": "cg-0154",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año llegó Vasco da Gama a la India?",
+    "options": [
+      "1492",
+      "1500",
+      "1498",
+      "1510"
+    ],
+    "correctIndex": 2,
+    "explanation": "Da Gama alcanzó Calicut en 1498."
+  },
+  {
+    "id": "cg-0155",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué tratado puso fin a la Primera Guerra Mundial con Alemania?",
+    "options": [
+      "Tratado de Versalles",
+      "Tratado de Trianon",
+      "Tratado de Saint-Germain",
+      "Tratado de Sèvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Tratado de Versalles se firmó en 1919."
+  },
+  {
+    "id": "cg-0156",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año ocurrió la guerra hispano-estadounidense?",
+    "options": [
+      "1898",
+      "1895",
+      "1901",
+      "1889"
+    ],
+    "correctIndex": 0,
+    "explanation": "España y Estados Unidos combatieron en 1898."
+  },
+  {
+    "id": "cg-0157",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año comenzó la Guerra de los Cien Años?",
+    "options": [
+      "1415",
+      "1453",
+      "1302",
+      "1337"
+    ],
+    "correctIndex": 3,
+    "explanation": "El conflicto entre Francia e Inglaterra comenzó en 1337."
+  },
+  {
+    "id": "cg-0158",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año partió la Primera Cruzada?",
+    "options": [
+      "1147",
+      "1189",
+      "1204",
+      "1096"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Primera Cruzada partió en 1096."
+  },
+  {
+    "id": "cg-0159",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué edicto del año 313 estableció la tolerancia hacia el cristianismo en el Imperio romano?",
+    "options": [
+      "Edicto de Milán",
+      "Edicto de Nantes",
+      "Edicto de Tesalónica",
+      "Edicto de Worms"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Edicto de Milán, promulgado en 313, toleró el cristianismo."
+  },
+  {
+    "id": "cg-0160",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué concilio de 325 se fijó el credo niceno?",
+    "options": [
+      "Concilio de Éfeso",
+      "Concilio de Nicea",
+      "Concilio de Calcedonia",
+      "Concilio de Trento"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Concilio de Nicea se reunió en 325."
+  },
+  {
+    "id": "cg-0161",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año cayó Tenochtitlán en manos de Hernán Cortés?",
+    "options": [
+      "1519",
+      "1532",
+      "1521",
+      "1542"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hernán Cortés tomó Tenochtitlán en 1521."
+  },
+  {
+    "id": "cg-0162",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año capturó Pizarro a Atahualpa?",
+    "options": [
+      "1521",
+      "1532",
+      "1535",
+      "1545"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pizarro capturó a Atahualpa en Cajamarca en 1532."
+  },
+  {
+    "id": "cg-0163",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año llegó el Mayflower a América del Norte?",
+    "options": [
+      "1607",
+      "1630",
+      "1620",
+      "1629"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los peregrinos llegaron en el Mayflower en 1620."
+  },
+  {
+    "id": "cg-0164",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año ocurrieron los juicios de brujas de Salem?",
+    "options": [
+      "1692",
+      "1675",
+      "1701",
+      "1688"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los juicios de Salem ocurrieron en 1692."
+  },
+  {
+    "id": "cg-0165",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se produjo el Motín del Té de Boston?",
+    "options": [
+      "1770",
+      "1773",
+      "1776",
+      "1765"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Boston Tea Party tuvo lugar en 1773."
+  },
+  {
+    "id": "cg-0166",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año compró Estados Unidos el territorio de Luisiana?",
+    "options": [
+      "1783",
+      "1812",
+      "1800",
+      "1803"
+    ],
+    "correctIndex": 3,
+    "explanation": "Estados Unidos compró Luisiana a Francia en 1803."
+  },
+  {
+    "id": "cg-0167",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se libró la batalla de Trafalgar?",
+    "options": [
+      "1798",
+      "1815",
+      "1805",
+      "1800"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nelson venció a la flota franco-española en Trafalgar en 1805."
+  },
+  {
+    "id": "cg-0168",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año proclamó Lincoln la emancipación de los esclavos?",
+    "options": [
+      "1861",
+      "1865",
+      "1863",
+      "1862"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lincoln proclamó la emancipación en 1863."
+  },
+  {
+    "id": "cg-0169",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año ocurrió el desastre nuclear de Chernóbil?",
+    "options": [
+      "1979",
+      "1986",
+      "1991",
+      "1984"
+    ],
+    "correctIndex": 1,
+    "explanation": "El reactor 4 de Chernóbil explotó en 1986."
+  },
+  {
+    "id": "cg-0170",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se hundió el Titanic?",
+    "options": [
+      "1912",
+      "1905",
+      "1915",
+      "1920"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Titanic se hundió en abril de 1912."
+  },
+  {
+    "id": "cg-0171",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se lanzó el Sputnik 1?",
+    "options": [
+      "1955",
+      "1961",
+      "1969",
+      "1957"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Sputnik 1 fue el primer satélite artificial, lanzado en 1957."
+  },
+  {
+    "id": "cg-0172",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Quién fue el primer ser humano en viajar al espacio?",
+    "options": [
+      "Yuri Gagarin",
+      "Alan Shepard",
+      "John Glenn",
+      "Neil Armstrong"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gagarin orbitó la Tierra en 1961."
+  },
+  {
+    "id": "cg-0173",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Quién fue la primera mujer en viajar al espacio?",
+    "options": [
+      "Valentina Tereshkova",
+      "Sally Ride",
+      "Svetlana Savitskaya",
+      "Mae Jemison"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tereshkova voló al espacio en 1963."
+  },
+  {
+    "id": "cg-0174",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué científico descubrió el electrón?",
+    "options": [
+      "Ernest Rutherford",
+      "James Chadwick",
+      "J. J. Thomson",
+      "Niels Bohr"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thomson identificó el electrón en 1897."
+  },
+  {
+    "id": "cg-0175",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué científico descubrió el núcleo atómico?",
+    "options": [
+      "J. J. Thomson",
+      "Ernest Rutherford",
+      "James Chadwick",
+      "Max Planck"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rutherford demostró en 1911 que la carga positiva se concentra en un núcleo."
+  },
+  {
+    "id": "cg-0176",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién pintó la Mona Lisa?",
+    "options": [
+      "Miguel Ángel",
+      "Rafael Sanzio",
+      "Sandro Botticelli",
+      "Leonardo da Vinci"
+    ],
+    "correctIndex": 3,
+    "explanation": "Leonardo da Vinci pintó la Mona Lisa a comienzos del siglo XVI."
+  },
+  {
+    "id": "cg-0177",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién esculpió la estatua del David que se conserva en Florencia?",
+    "options": [
+      "Donatello",
+      "Gian Lorenzo Bernini",
+      "Auguste Rodin",
+      "Miguel Ángel"
+    ],
+    "correctIndex": 3,
+    "explanation": "Miguel Ángel talló el David en mármol entre 1501 y 1504."
+  },
+  {
+    "id": "cg-0178",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién escribió Don Quijote de la Mancha?",
+    "options": [
+      "Lope de Vega",
+      "Miguel de Cervantes",
+      "Federico García Lorca",
+      "Benito Pérez Galdós"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cervantes publicó la primera parte del Quijote en 1605."
+  },
+  {
+    "id": "cg-0179",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la obra de teatro Romeo y Julieta?",
+    "options": [
+      "Christopher Marlowe",
+      "Charles Dickens",
+      "William Shakespeare",
+      "Oscar Wilde"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shakespeare escribió Romeo y Julieta hacia 1595."
+  },
+  {
+    "id": "cg-0180",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuántas cuerdas tiene una guitarra clásica estándar?",
+    "options": [
+      "Cuatro",
+      "Siete",
+      "Doce",
+      "Seis"
+    ],
+    "correctIndex": 3,
+    "explanation": "La guitarra clásica tiene seis cuerdas afinadas en Mi, La, Re, Sol, Si y Mi."
+  },
+  {
+    "id": "cg-0181",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento musical tiene 88 teclas en su versión estándar?",
+    "options": [
+      "El acordeón",
+      "El clavecín",
+      "La concertina",
+      "El piano"
+    ],
+    "correctIndex": 3,
+    "explanation": "El piano moderno estándar cuenta con 88 teclas."
+  },
+  {
+    "id": "cg-0182",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién compuso la Quinta Sinfonía?",
+    "options": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Johannes Brahms"
+    ],
+    "correctIndex": 0,
+    "explanation": "Beethoven estrenó su Quinta Sinfonía en 1808."
+  },
+  {
+    "id": "cg-0183",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué banda británica grabó el álbum Abbey Road?",
+    "options": [
+      "The Rolling Stones",
+      "The Beatles",
+      "Pink Floyd",
+      "Queen"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Beatles publicaron Abbey Road en 1969."
+  },
+  {
+    "id": "cg-0184",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién dirigió la película Tiburón de 1975?",
+    "options": [
+      "George Lucas",
+      "Martin Scorsese",
+      "Ridley Scott",
+      "Steven Spielberg"
+    ],
+    "correctIndex": 3,
+    "explanation": "Steven Spielberg dirigió Tiburón, estrenada en 1975."
+  },
+  {
+    "id": "cg-0185",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cada cuántos años se celebran los Juegos Olímpicos de verano?",
+    "options": [
+      "Cada dos años",
+      "Cada tres años",
+      "Cada cuatro años",
+      "Cada cinco años"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los Juegos Olímpicos de verano se celebran cada cuatro años."
+  },
+  {
+    "id": "cg-0186",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "En 2010, ¿qué selección se proclamó campeona del mundo de fútbol?",
+    "options": [
+      "Países Bajos",
+      "España",
+      "Alemania",
+      "Brasil"
+    ],
+    "correctIndex": 1,
+    "explanation": "España venció a Países Bajos en la final de 2010."
+  },
+  {
+    "id": "cg-0187",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuántos jugadores de cada equipo están en el campo en un partido de fútbol?",
+    "options": [
+      "Nueve",
+      "Once",
+      "Diez",
+      "Doce"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cada equipo alinea a once jugadores, incluido el portero."
+  },
+  {
+    "id": "cg-0188",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué empresa creó el sistema operativo Windows?",
+    "options": [
+      "Microsoft",
+      "Apple",
+      "IBM",
+      "Google"
+    ],
+    "correctIndex": 0,
+    "explanation": "Microsoft lanzó la primera versión de Windows en 1985."
+  },
+  {
+    "id": "cg-0189",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué empresa fundaron Steve Jobs y Steve Wozniak?",
+    "options": [
+      "Microsoft",
+      "Hewlett-Packard",
+      "Apple",
+      "Dell"
+    ],
+    "correctIndex": 2,
+    "explanation": "Apple fue fundada en 1976 por Jobs y Wozniak."
+  },
+  {
+    "id": "cg-0190",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué significan las siglas WWW?",
+    "options": [
+      "World Web Wide",
+      "Wide World Web",
+      "World Wide Web",
+      "Web World Wide"
+    ],
+    "correctIndex": 2,
+    "explanation": "WWW significa World Wide Web, la red mundial de páginas."
+  },
+  {
+    "id": "cg-0191",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Con qué moneda se paga en Japón?",
+    "options": [
+      "El yen",
+      "El won",
+      "El yuan",
+      "La rupia"
+    ],
+    "correctIndex": 0,
+    "explanation": "El yen es la moneda oficial de Japón."
+  },
+  {
+    "id": "cg-0192",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el himno nacional de Francia?",
+    "options": [
+      "God Save the Queen",
+      "El himno de la Alegría",
+      "La Marsellesa",
+      "La Internacional"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Marsellesa es el himno nacional francés desde 1795."
+  },
+  {
+    "id": "cg-0193",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿De qué país es originaria la pizza?",
+    "options": [
+      "Grecia",
+      "Francia",
+      "Italia",
+      "España"
+    ],
+    "correctIndex": 2,
+    "explanation": "La pizza moderna nació en Nápoles, Italia."
+  },
+  {
+    "id": "cg-0194",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué idioma es el oficial de Brasil?",
+    "options": [
+      "El español",
+      "El portugués",
+      "El francés",
+      "El italiano"
+    ],
+    "correctIndex": 1,
+    "explanation": "Brasil es el único país lusófono de América del Sur."
+  },
+  {
+    "id": "cg-0195",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién pintó La noche estrellada?",
+    "options": [
+      "Claude Monet",
+      "Paul Cézanne",
+      "Vincent van Gogh",
+      "Edvard Munch"
+    ],
+    "correctIndex": 2,
+    "explanation": "Van Gogh pintó La noche estrellada en 1889."
+  },
+  {
+    "id": "cg-0196",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién pintó el techo de la Capilla Sixtina?",
+    "options": [
+      "Miguel Ángel",
+      "Rafael Sanzio",
+      "Leonardo da Vinci",
+      "Tiziano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Miguel Ángel pintó los frescos de la Capilla Sixtina entre 1508 y 1512."
+  },
+  {
+    "id": "cg-0197",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿En qué museo se exhibe La Gioconda?",
+    "options": [
+      "El Museo del Louvre",
+      "El Museo del Prado",
+      "La Galería Uffizi",
+      "La National Gallery"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Gioconda se exhibe en el Museo del Louvre de París."
+  },
+  {
+    "id": "cg-0198",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién escribió Cien años de soledad?",
+    "options": [
+      "Gabriel García Márquez",
+      "Mario Vargas Llosa",
+      "Julio Cortázar",
+      "Jorge Luis Borges"
+    ],
+    "correctIndex": 0,
+    "explanation": "García Márquez publicó Cien años de soledad en 1967."
+  },
+  {
+    "id": "cg-0199",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién escribió La Odisea?",
+    "options": [
+      "Virgilio",
+      "Homero",
+      "Sófocles",
+      "Hesíodo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Odisea se atribuye al poeta griego Homero."
+  },
+  {
+    "id": "cg-0200",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué escritor creó al detective Sherlock Holmes?",
+    "options": [
+      "Agatha Christie",
+      "Arthur Conan Doyle",
+      "Edgar Allan Poe",
+      "G. K. Chesterton"
+    ],
+    "correctIndex": 1,
+    "explanation": "Conan Doyle presentó a Sherlock Holmes en 1887."
+  },
+  {
+    "id": "cg-0201",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién compuso Las cuatro estaciones?",
+    "options": [
+      "Johann Sebastian Bach",
+      "Georg Friedrich Händel",
+      "Antonio Vivaldi",
+      "Joseph Haydn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vivaldi compuso Las cuatro estaciones hacia 1725."
+  },
+  {
+    "id": "cg-0202",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué compositor austriaco escribió la ópera La flauta mágica?",
+    "options": [
+      "Ludwig van Beethoven",
+      "Franz Schubert",
+      "Wolfgang Amadeus Mozart",
+      "Richard Wagner"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mozart estrenó La flauta mágica en 1791."
+  },
+  {
+    "id": "cg-0203",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién escribió El Principito?",
+    "options": [
+      "Jules Verne",
+      "Victor Hugo",
+      "Antoine de Saint-Exupéry",
+      "Albert Camus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Saint-Exupéry publicó El Principito en 1943."
+  },
+  {
+    "id": "cg-0204",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpretó a Jack Dawson en Titanic?",
+    "options": [
+      "Brad Pitt",
+      "Johnny Depp",
+      "Leonardo DiCaprio",
+      "Matt Damon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Leonardo DiCaprio encarnó a Jack Dawson en Titanic de 1997."
+  },
+  {
+    "id": "cg-0205",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién dirigió El padrino de 1972?",
+    "options": [
+      "Francis Ford Coppola",
+      "Martin Scorsese",
+      "Brian De Palma",
+      "Sergio Leone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Coppola dirigió El padrino, estrenada en 1972."
+  },
+  {
+    "id": "cg-0206",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuántos anillos tiene el símbolo olímpico?",
+    "options": [
+      "Cinco",
+      "Cuatro",
+      "Seis",
+      "Siete"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cinco anillos olímpicos representan los continentes unidos por el deporte."
+  },
+  {
+    "id": "cg-0207",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué país ganó el primer Mundial de Fútbol, en 1930?",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "Uruguay",
+      "Italia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Uruguay ganó el Mundial de 1930, que organizó como anfitrión."
+  },
+  {
+    "id": "cg-0208",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué empresa desarrolló el buscador más usado del mundo?",
+    "options": [
+      "Yahoo",
+      "Bing",
+      "Ask",
+      "Google"
+    ],
+    "correctIndex": 3,
+    "explanation": "Google nació en 1998 y domina la búsqueda web."
+  },
+  {
+    "id": "cg-0209",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué red social fue fundada por Mark Zuckerberg?",
+    "options": [
+      "Facebook",
+      "Twitter",
+      "LinkedIn",
+      "Instagram"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zuckerberg fundó Facebook en 2004."
+  },
+  {
+    "id": "cg-0210",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué inventor estadounidense perfeccionó la bombilla eléctrica?",
+    "options": [
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "George Westinghouse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Edison desarrolló una bombilla incandescente práctica en 1879."
+  },
+  {
+    "id": "cg-0211",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿A quién se atribuye la invención del teléfono?",
+    "options": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi",
+      "Samuel Morse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bell patentó el teléfono en 1876."
+  },
+  {
+    "id": "cg-0212",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el rey de los dioses en la mitología griega?",
+    "options": [
+      "Poseidón",
+      "Hades",
+      "Apolo",
+      "Zeus"
+    ],
+    "correctIndex": 3,
+    "explanation": "Zeus gobernaba el Olimpo como rey de los dioses griegos."
+  },
+  {
+    "id": "cg-0213",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué dios romano del mar corresponde al griego Poseidón?",
+    "options": [
+      "Neptuno",
+      "Marte",
+      "Júpiter",
+      "Vulcano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neptuno es el dios romano del mar, equivalente a Poseidón."
+  },
+  {
+    "id": "cg-0214",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué país es el origen del sushi?",
+    "options": [
+      "China",
+      "Corea del Sur",
+      "Tailandia",
+      "Japón"
+    ],
+    "correctIndex": 3,
+    "explanation": "El sushi surgió en Japón como forma de conservar pescado."
+  },
+  {
+    "id": "cg-0215",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el idioma con más hablantes nativos del mundo?",
+    "options": [
+      "El inglés",
+      "El español",
+      "El chino mandarín",
+      "El hindi"
+    ],
+    "correctIndex": 2,
+    "explanation": "El chino mandarín supera los 900 millones de hablantes nativos."
+  },
+  {
+    "id": "cg-0216",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué escritor colombiano ganó el Nobel de Literatura en 1982?",
+    "options": [
+      "Mario Vargas Llosa",
+      "Gabriel García Márquez",
+      "Pablo Neruda",
+      "Octavio Paz"
+    ],
+    "correctIndex": 1,
+    "explanation": "García Márquez recibió el Nobel en 1982."
+  },
+  {
+    "id": "cg-0217",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué poeta chileno ganó el Nobel de Literatura en 1971?",
+    "options": [
+      "Pablo Neruda",
+      "Vicente Huidobro",
+      "Gabriela Mistral",
+      "Jorge Luis Borges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pablo Neruda ganó el Nobel de Literatura en 1971."
+  },
+  {
+    "id": "cg-0218",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué pintor español creó el cuadro Guernica?",
+    "options": [
+      "Salvador Dalí",
+      "Joan Miró",
+      "Pablo Picasso",
+      "Francisco de Goya"
+    ],
+    "correctIndex": 2,
+    "explanation": "Picasso pintó Guernica en 1937."
+  },
+  {
+    "id": "cg-0219",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué torneo de tenis se disputa en París sobre tierra batida?",
+    "options": [
+      "Roland Garros",
+      "Wimbledon",
+      "El US Open",
+      "El Abierto de Australia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Roland Garros se juega en París sobre arcilla."
+  },
+  {
+    "id": "cg-0220",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento tiene cuatro cuerdas y se toca con arco en una orquesta?",
+    "options": [
+      "La guitarra",
+      "El arpa",
+      "El violín",
+      "La flauta"
+    ],
+    "correctIndex": 2,
+    "explanation": "El violín tiene cuatro cuerdas y se toca con arco."
+  },
+  {
+    "id": "cg-0221",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué género musical nació en Nueva Orleans a comienzos del siglo XX?",
+    "options": [
+      "El rock",
+      "El reggae",
+      "La salsa",
+      "El jazz"
+    ],
+    "correctIndex": 3,
+    "explanation": "El jazz se desarrolló en Nueva Orleans a partir del blues y el ragtime."
+  },
+  {
+    "id": "cg-0222",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué premio entrega la Academia de Hollywood a las películas?",
+    "options": [
+      "El Grammy",
+      "El Emmy",
+      "El Óscar",
+      "El Tony"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los Premios Óscar los concede la Academia de Artes y Ciencias Cinematográficas."
+  },
+  {
+    "id": "cg-0223",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué organización de la ONU protege el patrimonio cultural mundial?",
+    "options": [
+      "UNICEF",
+      "La OMS",
+      "La FAO",
+      "La UNESCO"
+    ],
+    "correctIndex": 3,
+    "explanation": "La UNESCO declara y protege el patrimonio mundial."
+  },
+  {
+    "id": "cg-0224",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué organismo rige el fútbol a nivel mundial?",
+    "options": [
+      "La FIFA",
+      "La UEFA",
+      "El COI",
+      "La FIBA"
+    ],
+    "correctIndex": 0,
+    "explanation": "La FIFA es la federación internacional que gobierna el fútbol."
+  },
+  {
+    "id": "cg-0225",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué moneda se utiliza en Suiza?",
+    "options": [
+      "El franco suizo",
+      "El euro",
+      "La corona",
+      "El dólar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Suiza conserva el franco suizo pese a estar rodeada de países del euro."
+  },
+  {
+    "id": "cg-0226",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué escritor ruso escribió Guerra y paz?",
+    "options": [
+      "León Tolstói",
+      "Fiódor Dostoievski",
+      "Antón Chéjov",
+      "Iván Turguénev"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tolstói publicó Guerra y paz entre 1865 y 1869."
+  },
+  {
+    "id": "cg-0227",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué película de 1994 dirigió Robert Zemeckis y protagoniza Tom Hanks?",
+    "options": [
+      "Pulp Fiction",
+      "Cadena perpetua",
+      "Forrest Gump",
+      "El rey león"
+    ],
+    "correctIndex": 2,
+    "explanation": "Forrest Gump ganó el Óscar a Mejor Película en 1995."
+  },
+  {
+    "id": "cg-0228",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién protagonizó Casablanca junto a Ingrid Bergman?",
+    "options": [
+      "Cary Grant",
+      "Clark Gable",
+      "James Stewart",
+      "Humphrey Bogart"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bogart interpretó a Rick Blaine en Casablanca."
+  },
+  {
+    "id": "cg-0229",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué director dirigió Psicosis y Vértigo?",
+    "options": [
+      "Billy Wilder",
+      "Orson Welles",
+      "John Ford",
+      "Alfred Hitchcock"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hitchcock dirigió ambas películas y es llamado el maestro del suspense."
+  },
+  {
+    "id": "cg-0230",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué director neozelandés dirigió la trilogía de El Señor de los Anillos?",
+    "options": [
+      "Christopher Nolan",
+      "Ridley Scott",
+      "Peter Jackson",
+      "James Cameron"
+    ],
+    "correctIndex": 2,
+    "explanation": "Peter Jackson filmó la trilogía en Nueva Zelanda."
+  },
+  {
+    "id": "cg-0231",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuántos puntos vale un tiro libre encestado en baloncesto?",
+    "options": [
+      "Dos puntos",
+      "Un punto",
+      "Tres puntos",
+      "Cuatro puntos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cada tiro libre convertido suma un punto."
+  },
+  {
+    "id": "cg-0232",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuántos tiempos tiene un partido de fútbol reglamentario?",
+    "options": [
+      "Uno",
+      "Tres",
+      "Cuatro",
+      "Dos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un partido de fútbol se divide en dos tiempos de 45 minutos."
+  },
+  {
+    "id": "cg-0233",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién ganó la final del Mundial de Fútbol de 2014?",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "Francia",
+      "Alemania"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alemania venció a Argentina en la final de 2014."
+  },
+  {
+    "id": "cg-0234",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué selección se coronó campeona en el Mundial de Fútbol de 2022?",
+    "options": [
+      "Francia",
+      "Argentina",
+      "Brasil",
+      "Croacia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Argentina ganó la final de 2022 ante Francia por penales."
+  },
+  {
+    "id": "cg-0235",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué significa hardware en informática?",
+    "options": [
+      "Los componentes físicos del equipo",
+      "Los programas instalados",
+      "Los datos del usuario",
+      "Las redes sociales"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hardware es la parte material y tangible de un sistema informático."
+  },
+  {
+    "id": "cg-0236",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad mínima de información digital?",
+    "options": [
+      "El byte",
+      "El píxel",
+      "El bit",
+      "El hercio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un bit puede valer 0 o 1 y es la unidad mínima de información."
+  },
+  {
+    "id": "cg-0237",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué sistema operativo móvil desarrolla Google?",
+    "options": [
+      "iOS",
+      "Android",
+      "Windows Phone",
+      "Symbian"
+    ],
+    "correctIndex": 1,
+    "explanation": "Google lidera el desarrollo de Android desde 2008."
+  },
+  {
+    "id": "cg-0238",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué lenguaje de programación comparte nombre con un reptil?",
+    "options": [
+      "Java",
+      "Python",
+      "Ruby",
+      "Perl"
+    ],
+    "correctIndex": 1,
+    "explanation": "Python fue bautizado así en homenaje a los Monty Python."
+  },
+  {
+    "id": "cg-0239",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién fundó Amazon?",
+    "options": [
+      "Bill Gates",
+      "Jeff Bezos",
+      "Elon Musk",
+      "Larry Page"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bezos fundó Amazon en 1994."
+  },
+  {
+    "id": "cg-0240",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién creó la World Wide Web en el CERN?",
+    "options": [
+      "Vint Cerf",
+      "Steve Wozniak",
+      "Linus Torvalds",
+      "Tim Berners-Lee"
+    ],
+    "correctIndex": 3,
+    "explanation": "Berners-Lee propuso la web en el CERN en 1989."
+  },
+  {
+    "id": "cg-0241",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué bebida alcohólica se obtiene de la fermentación de la uva?",
+    "options": [
+      "La cerveza",
+      "El whisky",
+      "El vino",
+      "El vodka"
+    ],
+    "correctIndex": 2,
+    "explanation": "El vino resulta de fermentar el mosto de uva."
+  },
+  {
+    "id": "cg-0242",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué queso italiano se usa tradicionalmente en la pizza margarita?",
+    "options": [
+      "El parmesano",
+      "El gorgonzola",
+      "La mozzarella",
+      "El pecorino"
+    ],
+    "correctIndex": 2,
+    "explanation": "La pizza margarita lleva mozzarella, tomate y albahaca."
+  },
+  {
+    "id": "cg-0243",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué baile argentino se asocia con el bandoneón?",
+    "options": [
+      "La salsa",
+      "La cumbia",
+      "El tango",
+      "El bolero"
+    ],
+    "correctIndex": 2,
+    "explanation": "El tango nació en el Río de la Plata y el bandoneón es su instrumento emblemático."
+  },
+  {
+    "id": "cg-0244",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el festival de cine más famoso de Francia?",
+    "options": [
+      "El Festival de Venecia",
+      "La Berlinale",
+      "El Festival de San Sebastián",
+      "El Festival de Cannes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cannes se celebra cada año en la Costa Azul francesa."
+  },
+  {
+    "id": "cg-0245",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpretó a Iron Man en el universo cinematográfico de Marvel?",
+    "options": [
+      "Chris Evans",
+      "Chris Hemsworth",
+      "Robert Downey Jr.",
+      "Mark Ruffalo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Robert Downey Jr. dio vida a Tony Stark desde 2008."
+  },
+  {
+    "id": "cg-0246",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién pintó El jardín de las delicias?",
+    "options": [
+      "Pieter Bruegel el Viejo",
+      "Jan van Eyck",
+      "Alberto Durero",
+      "El Bosco"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Bosco pintó el tríptico hacia 1500."
+  },
+  {
+    "id": "cg-0247",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿A qué movimiento artístico perteneció Salvador Dalí?",
+    "options": [
+      "Al cubismo",
+      "Al surrealismo",
+      "Al impresionismo",
+      "Al expresionismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dalí fue una figura central del surrealismo."
+  },
+  {
+    "id": "cg-0248",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién pintó Impresión, sol naciente, obra que dio nombre al impresionismo?",
+    "options": [
+      "Claude Monet",
+      "Édouard Manet",
+      "Pierre-Auguste Renoir",
+      "Camille Pissarro"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cuadro de Monet se expuso en 1874 y originó el término impresionismo."
+  },
+  {
+    "id": "cg-0249",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto diseñó la Sagrada Familia de Barcelona?",
+    "options": [
+      "Antoni Gaudí",
+      "Le Corbusier",
+      "Frank Lloyd Wright",
+      "Santiago Calatrava"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gaudí asumió las obras de la Sagrada Familia en 1883."
+  },
+  {
+    "id": "cg-0250",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto diseñó el Museo Guggenheim de Bilbao?",
+    "options": [
+      "Frank Gehry",
+      "Norman Foster",
+      "Renzo Piano",
+      "Zaha Hadid"
+    ],
+    "correctIndex": 0,
+    "explanation": "El museo de Gehry se inauguró en 1997."
+  },
+  {
+    "id": "cg-0251",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué museo de Madrid se exhibe Las meninas?",
+    "options": [
+      "El Museo Reina Sofía",
+      "El Museo Thyssen",
+      "El Museo Arqueológico Nacional",
+      "El Museo del Prado"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las meninas de Velázquez se conserva en el Prado."
+  },
+  {
+    "id": "cg-0252",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué escultura del Louvre representa a una mujer alada sin brazos?",
+    "options": [
+      "La Venus de Milo",
+      "El Laocoonte",
+      "La Victoria de Samotracia",
+      "El Discóbolo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Victoria de Samotracia es una escultura helenística sin brazos."
+  },
+  {
+    "id": "cg-0253",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién esculpió El pensador?",
+    "options": [
+      "Camille Claudel",
+      "Aristide Maillol",
+      "Auguste Rodin",
+      "Constantin Brancusi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rodin creó El pensador como parte de La puerta del infierno."
+  },
+  {
+    "id": "cg-0254",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué pintor neerlandés pintó La ronda de noche?",
+    "options": [
+      "Johannes Vermeer",
+      "Frans Hals",
+      "Peter Paul Rubens",
+      "Rembrandt"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rembrandt pintó La ronda de noche en 1642."
+  },
+  {
+    "id": "cg-0255",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién escribió Madame Bovary?",
+    "options": [
+      "Stendhal",
+      "Honoré de Balzac",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "correctIndex": 3,
+    "explanation": "Flaubert publicó Madame Bovary en 1857."
+  },
+  {
+    "id": "cg-0256",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién escribió Los miserables?",
+    "options": [
+      "Alejandro Dumas",
+      "Julio Verne",
+      "Charles Baudelaire",
+      "Victor Hugo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Victor Hugo publicó Los miserables en 1862."
+  },
+  {
+    "id": "cg-0257",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién escribió Crimen y castigo?",
+    "options": [
+      "León Tolstói",
+      "Fiódor Dostoievski",
+      "Nikolái Gógol",
+      "Borís Pasternak"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dostoievski publicó Crimen y castigo en 1866."
+  },
+  {
+    "id": "cg-0258",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Herman Melville narra la obsesión del capitán Ahab?",
+    "options": [
+      "La isla del tesoro",
+      "Moby Dick",
+      "Veinte mil leguas de viaje submarino",
+      "Robinson Crusoe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ahab persigue a la ballena blanca en Moby Dick."
+  },
+  {
+    "id": "cg-0259",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién escribió la novela 1984?",
+    "options": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "George Orwell",
+      "Franz Kafka"
+    ],
+    "correctIndex": 2,
+    "explanation": "Orwell publicó 1984 en 1949."
+  },
+  {
+    "id": "cg-0260",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién escribió La metamorfosis?",
+    "options": [
+      "Thomas Mann",
+      "Hermann Hesse",
+      "Robert Musil",
+      "Franz Kafka"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kafka publicó La metamorfosis en 1915."
+  },
+  {
+    "id": "cg-0261",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué autor portugués escribió El Evangelio según Jesucristo?",
+    "options": [
+      "José Saramago",
+      "Fernando Pessoa",
+      "Eça de Queirós",
+      "António Lobo Antunes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Saramago publicó esa novela en 1991."
+  },
+  {
+    "id": "cg-0262",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué escritor peruano ganó el Nobel de Literatura en 2010?",
+    "options": [
+      "Mario Vargas Llosa",
+      "Alfredo Bryce Echenique",
+      "Julio Ramón Ribeyro",
+      "César Vallejo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vargas Llosa recibió el Nobel en 2010."
+  },
+  {
+    "id": "cg-0263",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué escritora canadiense ganó el Nobel de Literatura en 2013?",
+    "options": [
+      "Margaret Atwood",
+      "Carol Shields",
+      "Alice Munro",
+      "Louise Penny"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alice Munro, maestra del cuento, ganó el Nobel en 2013."
+  },
+  {
+    "id": "cg-0264",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién escribió el libro de cuentos Ficciones?",
+    "options": [
+      "Jorge Luis Borges",
+      "Julio Cortázar",
+      "Adolfo Bioy Casares",
+      "Ernesto Sabato"
+    ],
+    "correctIndex": 0,
+    "explanation": "Borges publicó Ficciones en 1944."
+  },
+  {
+    "id": "cg-0265",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué novela aparece la familia Buendía?",
+    "options": [
+      "La casa de los espíritus",
+      "Cien años de soledad",
+      "Rayuela",
+      "Pedro Páramo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los Buendía protagonizan Cien años de soledad de García Márquez."
+  },
+  {
+    "id": "cg-0266",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién compuso la ópera La bohème?",
+    "options": [
+      "Giuseppe Verdi",
+      "Giacomo Puccini",
+      "Vincenzo Bellini",
+      "Gioachino Rossini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Puccini estrenó La bohème en 1896."
+  },
+  {
+    "id": "cg-0267",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién compuso la ópera El barbero de Sevilla?",
+    "options": [
+      "Gioachino Rossini",
+      "Giuseppe Verdi",
+      "Gaetano Donizetti",
+      "Giacomo Puccini"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rossini estrenó El barbero de Sevilla en 1816."
+  },
+  {
+    "id": "cg-0268",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué compositor alemán escribió El anillo del nibelungo?",
+    "options": [
+      "Johannes Brahms",
+      "Robert Schumann",
+      "Gustav Mahler",
+      "Richard Wagner"
+    ],
+    "correctIndex": 3,
+    "explanation": "Wagner compuso el ciclo del Anillo entre 1848 y 1874."
+  },
+  {
+    "id": "cg-0269",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué compositor ruso escribió el ballet El cascanueces?",
+    "options": [
+      "Serguéi Rajmáninov",
+      "Ígor Stravinski",
+      "Modest Músorgski",
+      "Piotr Chaikovski"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chaikovski estrenó El cascanueces en 1892."
+  },
+  {
+    "id": "cg-0270",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué instrumento de percusión tiene láminas de madera y se toca con baquetas?",
+    "options": [
+      "El timbal",
+      "El triángulo",
+      "Las castañuelas",
+      "El xilófono"
+    ],
+    "correctIndex": 3,
+    "explanation": "El xilófono produce sonido al golpear sus láminas de madera."
+  },
+  {
+    "id": "cg-0271",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué instrumento de viento-metal se toca con tres pistones y es común en el jazz?",
+    "options": [
+      "La trompeta",
+      "El trombón",
+      "La tuba",
+      "El corno francés"
+    ],
+    "correctIndex": 0,
+    "explanation": "La trompeta es un instrumento de metal con tres pistones."
+  },
+  {
+    "id": "cg-0272",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuántas cuerdas tiene un violonchelo?",
+    "options": [
+      "Cuatro",
+      "Cinco",
+      "Seis",
+      "Tres"
+    ],
+    "correctIndex": 0,
+    "explanation": "El violonchelo tiene cuatro cuerdas afinadas en Do, Sol, Re y La."
+  },
+  {
+    "id": "cg-0273",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué álbum de Pink Floyd tiene un prisma en su portada?",
+    "options": [
+      "The Wall",
+      "The Dark Side of the Moon",
+      "Wish You Were Here",
+      "Animals"
+    ],
+    "correctIndex": 1,
+    "explanation": "El prisma de The Dark Side of the Moon es una portada icónica de 1973."
+  },
+  {
+    "id": "cg-0274",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué grupo británico grabó Bohemian Rhapsody?",
+    "options": [
+      "Queen",
+      "Led Zeppelin",
+      "The Who",
+      "Deep Purple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Queen publicó Bohemian Rhapsody en 1975."
+  },
+  {
+    "id": "cg-0275",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué cantante estadounidense es conocida como la Reina del Pop?",
+    "options": [
+      "Whitney Houston",
+      "Madonna",
+      "Tina Turner",
+      "Cher"
+    ],
+    "correctIndex": 1,
+    "explanation": "Madonna es apodada la Reina del Pop desde los años ochenta."
+  },
+  {
+    "id": "cg-0276",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué género musical jamaicano popularizó Bob Marley?",
+    "options": [
+      "El ska",
+      "El calipso",
+      "El reggae",
+      "El dancehall"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bob Marley llevó el reggae a audiencias mundiales."
+  },
+  {
+    "id": "cg-0277",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué organización humanitaria fundó Henry Dunant?",
+    "options": [
+      "Médicos sin Fronteras",
+      "UNICEF",
+      "La Cruz Roja",
+      "Oxfam"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dunant impulsó la Cruz Roja tras la batalla de Solferino."
+  },
+  {
+    "id": "cg-0278",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién dirigió Ciudadano Kane?",
+    "options": [
+      "Orson Welles",
+      "John Huston",
+      "Elia Kazan",
+      "Billy Wilder"
+    ],
+    "correctIndex": 0,
+    "explanation": "Welles dirigió y protagonizó Ciudadano Kane en 1941."
+  },
+  {
+    "id": "cg-0279",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién dirigió Pulp Fiction?",
+    "options": [
+      "Joel Coen",
+      "Martin Scorsese",
+      "Quentin Tarantino",
+      "David Fincher"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tarantino estrenó Pulp Fiction en 1994."
+  },
+  {
+    "id": "cg-0280",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué película de 1977 inició la saga creada por George Lucas?",
+    "options": [
+      "Star Trek",
+      "Alien",
+      "Blade Runner",
+      "Star Wars"
+    ],
+    "correctIndex": 3,
+    "explanation": "Star Wars se estrenó en 1977 y dio inicio a la saga."
+  },
+  {
+    "id": "cg-0281",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién dirigió El laberinto del fauno?",
+    "options": [
+      "Alfonso Cuarón",
+      "Alejandro González Iñárritu",
+      "Pedro Almodóvar",
+      "Guillermo del Toro"
+    ],
+    "correctIndex": 3,
+    "explanation": "Del Toro estrenó El laberinto del fauno en 2006."
+  },
+  {
+    "id": "cg-0282",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué director español dirigió Todo sobre mi madre?",
+    "options": [
+      "Pedro Almodóvar",
+      "Luis Buñuel",
+      "Carlos Saura",
+      "Alejandro Amenábar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Almodóvar ganó el Óscar a Mejor Película Extranjera con ese filme."
+  },
+  {
+    "id": "cg-0283",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué director italiano dirigió La dolce vita?",
+    "options": [
+      "Vittorio De Sica",
+      "Luchino Visconti",
+      "Roberto Rossellini",
+      "Federico Fellini"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fellini estrenó La dolce vita en 1960."
+  },
+  {
+    "id": "cg-0284",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué actor ganó el Óscar por El pianista en 2003?",
+    "options": [
+      "Adrien Brody",
+      "Daniel Day-Lewis",
+      "Jack Nicholson",
+      "Sean Penn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Adrien Brody ganó el Óscar a Mejor Actor por El pianista."
+  },
+  {
+    "id": "cg-0285",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué actriz protagonizó Desayuno con diamantes?",
+    "options": [
+      "Marilyn Monroe",
+      "Grace Kelly",
+      "Audrey Hepburn",
+      "Katharine Hepburn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Audrey Hepburn encarnó a Holly Golightly en 1961."
+  },
+  {
+    "id": "cg-0286",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué película de animación de 1995 fue la primera de Pixar?",
+    "options": [
+      "Bichos",
+      "Monsters, Inc.",
+      "Buscando a Nemo",
+      "Toy Story"
+    ],
+    "correctIndex": 3,
+    "explanation": "Toy Story fue el primer largometraje animado íntegramente por computadora de Pixar."
+  },
+  {
+    "id": "cg-0287",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué selección ganó la primera Eurocopa, en 1960?",
+    "options": [
+      "Yugoslavia",
+      "La Unión Soviética",
+      "España",
+      "Italia"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Unión Soviética ganó la final de 1960 ante Yugoslavia."
+  },
+  {
+    "id": "cg-0288",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué país ganó el Mundial de Fútbol de 1998?",
+    "options": [
+      "Brasil",
+      "Francia",
+      "Italia",
+      "Alemania"
+    ],
+    "correctIndex": 1,
+    "explanation": "Francia ganó su primer Mundial en 1998 como anfitriona."
+  },
+  {
+    "id": "cg-0289",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué club de fútbol ha ganado más Copas de Europa?",
+    "options": [
+      "El AC Milan",
+      "El Real Madrid",
+      "El Bayern Múnich",
+      "El Liverpool"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Real Madrid lidera el palmarés de la Copa de Europa."
+  },
+  {
+    "id": "cg-0290",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué tenista es el último hombre en ganar los cuatro Grand Slam en un mismo año?",
+    "options": [
+      "Rod Laver",
+      "Björn Borg",
+      "Pete Sampras",
+      "Roger Federer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rod Laver logró el Grand Slam calendario en 1969."
+  },
+  {
+    "id": "cg-0291",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuántos jugadores tiene un equipo de voleibol en la cancha?",
+    "options": [
+      "Cinco",
+      "Seis",
+      "Siete",
+      "Nueve"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cada equipo de voleibol juega con seis jugadores en cancha."
+  },
+  {
+    "id": "cg-0292",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué deporte se anota introduciendo el balón en un aro y cada equipo alinea a cinco jugadores?",
+    "options": [
+      "Voleibol",
+      "Balonmano",
+      "Baloncesto",
+      "Hockey sobre hielo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El baloncesto se juega con cinco jugadores por equipo."
+  },
+  {
+    "id": "cg-0293",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué piloto brasileño ganó tres campeonatos mundiales de Fórmula 1?",
+    "options": [
+      "Ayrton Senna",
+      "Nelson Piquet",
+      "Emerson Fittipaldi",
+      "Rubens Barrichello"
+    ],
+    "correctIndex": 0,
+    "explanation": "Senna fue campeón en 1988, 1990 y 1991."
+  },
+  {
+    "id": "cg-0294",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué escudería de Fórmula 1 tiene su sede en Maranello?",
+    "options": [
+      "McLaren",
+      "Williams",
+      "Ferrari",
+      "Red Bull"
+    ],
+    "correctIndex": 2,
+    "explanation": "La escudería Ferrari tiene su base en Maranello, Italia."
+  },
+  {
+    "id": "cg-0295",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué país ganó el Mundial de Baloncesto de 2019?",
+    "options": [
+      "Argentina",
+      "España",
+      "Australia",
+      "Francia"
+    ],
+    "correctIndex": 1,
+    "explanation": "España venció a Argentina en la final de 2019."
+  },
+  {
+    "id": "cg-0296",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué año se celebraron los Juegos Olímpicos de Barcelona?",
+    "options": [
+      "1992",
+      "1988",
+      "1996",
+      "1984"
+    ],
+    "correctIndex": 0,
+    "explanation": "Barcelona acogió los Juegos Olímpicos de 1992."
+  },
+  {
+    "id": "cg-0297",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién creó el sistema de lectura para personas ciegas basado en puntos en relieve?",
+    "options": [
+      "Samuel Morse",
+      "Louis Braille",
+      "Alexander Graham Bell",
+      "Thomas Edison"
+    ],
+    "correctIndex": 1,
+    "explanation": "Louis Braille ideó su alfabeto táctil en el siglo XIX."
+  },
+  {
+    "id": "cg-0298",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué empresa fabricó el microprocesador de los primeros IBM PC?",
+    "options": [
+      "AMD",
+      "Intel",
+      "Motorola",
+      "Nvidia"
+    ],
+    "correctIndex": 1,
+    "explanation": "El IBM PC de 1981 usó el microprocesador Intel 8088."
+  },
+  {
+    "id": "cg-0299",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué lenguaje de programación creó James Gosling en Sun Microsystems?",
+    "options": [
+      "Kotlin",
+      "Java",
+      "Scala",
+      "Ruby"
+    ],
+    "correctIndex": 1,
+    "explanation": "Java se presentó en 1995 como lenguaje de Sun Microsystems."
+  },
+  {
+    "id": "cg-0300",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué significa HTML?",
+    "options": [
+      "HighText Machine Language",
+      "HyperTool Multi Language",
+      "HyperText Markup Language",
+      "HomeText Markup Language"
+    ],
+    "correctIndex": 2,
+    "explanation": "HTML es el lenguaje de marcado con el que se construyen las páginas web."
+  },
+  {
+    "id": "cg-0301",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué empresa compró WhatsApp en 2014?",
+    "options": [
+      "Google",
+      "Microsoft",
+      "Facebook",
+      "Amazon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Facebook adquirió WhatsApp en 2014."
+  },
+  {
+    "id": "cg-0302",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué sistema operativo de código abierto creó Linus Torvalds?",
+    "options": [
+      "Linux",
+      "Unix",
+      "FreeBSD",
+      "Windows NT"
+    ],
+    "correctIndex": 0,
+    "explanation": "Torvalds publicó el núcleo Linux en 1991."
+  },
+  {
+    "id": "cg-0303",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué es un algoritmo?",
+    "options": [
+      "Un tipo de hardware",
+      "Un lenguaje de programación",
+      "Una red social",
+      "Una secuencia de pasos para resolver un problema"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un algoritmo describe pasos ordenados para resolver un problema."
+  },
+  {
+    "id": "cg-0304",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué dios egipcio tiene cabeza de chacal?",
+    "options": [
+      "Osiris",
+      "Horus",
+      "Set",
+      "Anubis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Anubis se representa con cabeza de chacal y preside la momificación."
+  },
+  {
+    "id": "cg-0305",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué héroe griego mató al Minotauro?",
+    "options": [
+      "Heracles",
+      "Perseo",
+      "Teseo",
+      "Aquiles"
+    ],
+    "correctIndex": 2,
+    "explanation": "Teseo entró en el laberinto y dio muerte al Minotauro."
+  },
+  {
+    "id": "cg-0306",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué dios nórdico porta el martillo Mjölnir?",
+    "options": [
+      "Odín",
+      "Loki",
+      "Freyr",
+      "Thor"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mjölnir es el martillo de Thor, dios del trueno."
+  },
+  {
+    "id": "cg-0307",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el lugar de los guerreros caídos en la mitología nórdica?",
+    "options": [
+      "El Valhalla",
+      "El Olimpo",
+      "El Tártaro",
+      "El Asgard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los guerreros muertos en combate van al Valhalla."
+  },
+  {
+    "id": "cg-0308",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el idioma oficial de Irán?",
+    "options": [
+      "El persa",
+      "El árabe",
+      "El turco",
+      "El kurdo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El persa, o farsi, es el idioma oficial de Irán."
+  },
+  {
+    "id": "cg-0309",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué idioma se escribe con alfabeto cirílico y es oficial en Rusia?",
+    "options": [
+      "El polaco",
+      "El ruso",
+      "El griego",
+      "El húngaro"
+    ],
+    "correctIndex": 1,
+    "explanation": "El ruso utiliza el alfabeto cirílico."
+  },
+  {
+    "id": "cg-0310",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la divisa oficial de México?",
+    "options": [
+      "El peso argentino",
+      "El peso mexicano",
+      "El dólar",
+      "El colón"
+    ],
+    "correctIndex": 1,
+    "explanation": "México usa el peso mexicano como moneda nacional."
+  },
+  {
+    "id": "cg-0311",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la moneda oficial de Corea del Sur?",
+    "options": [
+      "El yen",
+      "El yuan",
+      "El baht",
+      "El won"
+    ],
+    "correctIndex": 3,
+    "explanation": "El won surcoreano es la moneda de Corea del Sur."
+  },
+  {
+    "id": "cg-0312",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿De qué país es típico el plato llamado goulash?",
+    "options": [
+      "Austria",
+      "Hungría",
+      "Rumanía",
+      "Polonia"
+    ],
+    "correctIndex": 1,
+    "explanation": "El goulash es un guiso húngaro de carne y pimentón."
+  },
+  {
+    "id": "cg-0313",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué país es famoso por el kimchi?",
+    "options": [
+      "Corea del Sur",
+      "Japón",
+      "China",
+      "Vietnam"
+    ],
+    "correctIndex": 0,
+    "explanation": "El kimchi es una preparación coreana de col fermentada."
+  },
+  {
+    "id": "cg-0314",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el ingrediente principal del hummus?",
+    "options": [
+      "Las lentejas",
+      "Los garbanzos",
+      "Los frijoles",
+      "Las habas"
+    ],
+    "correctIndex": 1,
+    "explanation": "El hummus se prepara con garbanzos, tahini, limón y ajo."
+  },
+  {
+    "id": "cg-0315",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué país produce el champán, que solo puede llevar ese nombre si procede de allí?",
+    "options": [
+      "Italia",
+      "Francia",
+      "España",
+      "Alemania"
+    ],
+    "correctIndex": 1,
+    "explanation": "El champán es un vino espumoso originario de la región francesa de Champaña."
+  },
+  {
+    "id": "cg-0316",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué pintor flamenco pintó El descendimiento de la cruz que se conserva en Amberes?",
+    "options": [
+      "Anthony van Dyck",
+      "El Bosco",
+      "Jan van Eyck",
+      "Peter Paul Rubens"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rubens pintó El descendimiento para la catedral de Amberes."
+  },
+  {
+    "id": "cg-0317",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué pintor italiano del Barroco es autor de La vocación de san Mateo?",
+    "options": [
+      "Caravaggio",
+      "Annibale Carracci",
+      "Guido Reni",
+      "Tiziano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Caravaggio pintó La vocación de san Mateo para una capilla romana."
+  },
+  {
+    "id": "cg-0318",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué movimiento pictórico fundaron Georges Braque y Pablo Picasso?",
+    "options": [
+      "El fovismo",
+      "El futurismo",
+      "El cubismo",
+      "El dadaísmo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Braque y Picasso iniciaron el cubismo hacia 1907."
+  },
+  {
+    "id": "cg-0319",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué artista mexicana pintó Las dos Fridas?",
+    "options": [
+      "Remedios Varo",
+      "María Izquierdo",
+      "Leonora Carrington",
+      "Frida Kahlo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Frida Kahlo pintó Las dos Fridas en 1939."
+  },
+  {
+    "id": "cg-0320",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto diseñó el Pabellón de Barcelona de 1929?",
+    "options": [
+      "Walter Gropius",
+      "Ludwig Mies van der Rohe",
+      "Le Corbusier",
+      "Marcel Breuer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mies van der Rohe proyectó el pabellón para la Exposición de 1929."
+  },
+  {
+    "id": "cg-0321",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué escultor griego clásico es autor del Discóbolo?",
+    "options": [
+      "Fidias",
+      "Mirón",
+      "Praxíteles",
+      "Policleto"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Discóbolo se atribuye al escultor ateniense Mirón."
+  },
+  {
+    "id": "cg-0322",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué novela de Umberto Eco transcurre en un monasterio medieval con una biblioteca secreta?",
+    "options": [
+      "El péndulo de Foucault",
+      "El nombre de la rosa",
+      "La isla del día antes",
+      "Baudolino"
+    ],
+    "correctIndex": 1,
+    "explanation": "El nombre de la rosa se publicó en 1980."
+  },
+  {
+    "id": "cg-0323",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué escritor irlandés escribió Ulises?",
+    "options": [
+      "Virginia Woolf",
+      "James Joyce",
+      "D. H. Lawrence",
+      "Samuel Beckett"
+    ],
+    "correctIndex": 1,
+    "explanation": "Joyce publicó Ulises en 1922."
+  },
+  {
+    "id": "cg-0324",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo francés escribió Cyrano de Bergerac?",
+    "options": [
+      "Molière",
+      "Jean Racine",
+      "Victor Hugo",
+      "Edmond Rostand"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rostand estrenó Cyrano de Bergerac en 1897."
+  },
+  {
+    "id": "cg-0325",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué autor ruso escribió la novela El maestro y Margarita?",
+    "options": [
+      "Mijaíl Bulgákov",
+      "Borís Pasternak",
+      "Vladímir Nabókov",
+      "Aleksandr Solzhenitsyn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bulgákov escribió El maestro y Margarita entre 1928 y 1940."
+  },
+  {
+    "id": "cg-0326",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué novelista estadounidense escribió El gran Gatsby?",
+    "options": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "William Faulkner",
+      "F. Scott Fitzgerald"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fitzgerald publicó El gran Gatsby en 1925."
+  },
+  {
+    "id": "cg-0327",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué escritor japonés escribió Tokio blues?",
+    "options": [
+      "Kenzaburo Oe",
+      "Haruki Murakami",
+      "Yasunari Kawabata",
+      "Yukio Mishima"
+    ],
+    "correctIndex": 1,
+    "explanation": "Murakami publicó Tokio blues en 1987."
+  },
+  {
+    "id": "cg-0328",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo noruego escribió Casa de muñecas?",
+    "options": [
+      "August Strindberg",
+      "Antón Chéjov",
+      "Bertolt Brecht",
+      "Henrik Ibsen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ibsen estrenó Casa de muñecas en 1879."
+  },
+  {
+    "id": "cg-0329",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué compositor barroco escribió el oratorio El Mesías?",
+    "options": [
+      "Johann Sebastian Bach",
+      "Antonio Vivaldi",
+      "Georg Friedrich Händel",
+      "Georg Philipp Telemann"
+    ],
+    "correctIndex": 2,
+    "explanation": "Händel estrenó El Mesías en Dublín en 1742."
+  },
+  {
+    "id": "cg-0330",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué ópera de Verdi narra la historia de un bufón de la corte?",
+    "options": [
+      "Rigoletto",
+      "La traviata",
+      "Aida",
+      "Il trovatore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rigoletto, estrenada en 1851, gira en torno al bufón del duque."
+  },
+  {
+    "id": "cg-0331",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué músico de jazz apodado Satchmo fue célebre por su trompeta y su voz?",
+    "options": [
+      "Duke Ellington",
+      "Louis Armstrong",
+      "Miles Davis",
+      "Dizzy Gillespie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Louis Armstrong popularizó el jazz con su trompeta y su canto."
+  },
+  {
+    "id": "cg-0332",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué poeta mexicano ganó el Nobel de Literatura en 1990?",
+    "options": [
+      "Carlos Fuentes",
+      "Rosario Castellanos",
+      "Jaime Sabines",
+      "Octavio Paz"
+    ],
+    "correctIndex": 3,
+    "explanation": "Octavio Paz recibió el Nobel en 1990."
+  },
+  {
+    "id": "cg-0333",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué director rodó Los siete samuráis?",
+    "options": [
+      "Yasujiro Ozu",
+      "Kenji Mizoguchi",
+      "Takeshi Kitano",
+      "Akira Kurosawa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kurosawa estrenó Los siete samuráis en 1954."
+  },
+  {
+    "id": "cg-0334",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué director ruso rodó El acorazado Potemkin?",
+    "options": [
+      "Serguéi Eisenstein",
+      "Andréi Tarkovski",
+      "Vsevolod Pudovkin",
+      "Dziga Vertov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Eisenstein dirigió El acorazado Potemkin en 1925."
+  },
+  {
+    "id": "cg-0335",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué película de 1950 de Billy Wilder trata sobre una estrella del cine en decadencia?",
+    "options": [
+      "Eva al desnudo",
+      "El crepúsculo de los dioses",
+      "Con faldas y a lo loco",
+      "El apartamento"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sunset Boulevard, de 1950, retrata a la actriz Norma Desmond."
+  },
+  {
+    "id": "cg-0336",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué actor ganó el Óscar a Mejor Actor por Mi pie izquierdo?",
+    "options": [
+      "Anthony Hopkins",
+      "Daniel Day-Lewis",
+      "Dustin Hoffman",
+      "Al Pacino"
+    ],
+    "correctIndex": 1,
+    "explanation": "Day-Lewis ganó su primer Óscar por Mi pie izquierdo en 1990."
+  },
+  {
+    "id": "cg-0337",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué país ganó el Mundial de Fútbol de 1954?",
+    "options": [
+      "Hungría",
+      "Brasil",
+      "Alemania Occidental",
+      "Uruguay"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alemania Occidental venció a Hungría en la final de 1954."
+  },
+  {
+    "id": "cg-0338",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué selección ganó la Eurocopa de 2008?",
+    "options": [
+      "Alemania",
+      "España",
+      "Italia",
+      "Portugal"
+    ],
+    "correctIndex": 1,
+    "explanation": "España ganó la Eurocopa de 2008 ante Alemania."
+  },
+  {
+    "id": "cg-0339",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué club ganó la primera Copa de Europa, en 1956?",
+    "options": [
+      "El Benfica",
+      "El Milan",
+      "El Stade de Reims",
+      "El Real Madrid"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Real Madrid venció al Stade de Reims en la final de 1956."
+  },
+  {
+    "id": "cg-0340",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué boxeador ganó el título mundial de los pesos pesados en 1964 y se proclamó el más grande?",
+    "options": [
+      "Joe Frazier",
+      "George Foreman",
+      "Muhammad Ali",
+      "Sonny Liston"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ali, entonces Cassius Clay, destronó a Sonny Liston en 1964."
+  },
+  {
+    "id": "cg-0341",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué tenista australiana posee el récord de 24 títulos individuales de Grand Slam?",
+    "options": [
+      "Serena Williams",
+      "Steffi Graf",
+      "Margaret Court",
+      "Martina Navratilova"
+    ],
+    "correctIndex": 2,
+    "explanation": "Margaret Court ganó 24 títulos individuales de Grand Slam."
+  },
+  {
+    "id": "cg-0342",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué prueba olímpica combina natación, ciclismo y carrera a pie?",
+    "options": [
+      "El pentatlón",
+      "El decatlón",
+      "El triatlón",
+      "El duatlón"
+    ],
+    "correctIndex": 2,
+    "explanation": "El triatlón olímpico encadena natación, ciclismo y carrera."
+  },
+  {
+    "id": "cg-0343",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué país ganó el primer Mundial de Baloncesto, en 1950?",
+    "options": [
+      "Estados Unidos",
+      "Brasil",
+      "Argentina",
+      "La Unión Soviética"
+    ],
+    "correctIndex": 2,
+    "explanation": "Argentina ganó el primer Mundial de baloncesto, disputado en Buenos Aires."
+  },
+  {
+    "id": "cg-0344",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿A qué matemático británico se le considera el padre de la informática?",
+    "options": [
+      "John von Neumann",
+      "Charles Babbage",
+      "Claude Shannon",
+      "Alan Turing"
+    ],
+    "correctIndex": 3,
+    "explanation": "Turing formalizó el concepto de computación con su máquina teórica."
+  },
+  {
+    "id": "cg-0345",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué laboratorio se creó el lenguaje de programación C?",
+    "options": [
+      "Bell Labs",
+      "IBM",
+      "Microsoft",
+      "Xerox PARC"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dennis Ritchie desarrolló C en Bell Labs a comienzos de los setenta."
+  },
+  {
+    "id": "cg-0346",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué protocolo se utiliza para enviar correo electrónico?",
+    "options": [
+      "SMTP",
+      "HTTP",
+      "FTP",
+      "DNS"
+    ],
+    "correctIndex": 0,
+    "explanation": "SMTP es el protocolo estándar de envío de correo."
+  },
+  {
+    "id": "cg-0347",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué titán griego fue castigado a sostener el cielo sobre sus hombros?",
+    "options": [
+      "Atlas",
+      "Cronos",
+      "Prometeo",
+      "Hefesto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Atlas fue condenado a sostener la bóveda celeste."
+  },
+  {
+    "id": "cg-0348",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué criatura de la mitología griega tenía serpientes por cabello y petrificaba con la mirada?",
+    "options": [
+      "La Hidra",
+      "La Quimera",
+      "La Esfinge",
+      "Medusa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Medusa era una gorgona cuyo rostro convertía en piedra a quien la miraba."
+  },
+  {
+    "id": "cg-0349",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Cuál es, junto al sueco, el idioma oficial de Finlandia?",
+    "options": [
+      "El finés",
+      "El estonio",
+      "El noruego",
+      "El danés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Finlandia tiene dos idiomas oficiales: finés y sueco."
+  },
+  {
+    "id": "cg-0350",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué museo de San Petersburgo es uno de los más grandes del mundo?",
+    "options": [
+      "El Louvre",
+      "El Hermitage",
+      "El Prado",
+      "El Metropolitan"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Hermitage ocupa el Palacio de Invierno y reúne una vasta colección."
+  }
+]

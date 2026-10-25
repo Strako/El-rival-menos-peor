@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2026-10-25T08:11:54.148Z",
+  "files": [
+    {
+      "file": "data\\questions\\cultura-general.json",
+      "count": 350,
+      "categories": {
+        "general": 350
+      },
+      "difficulties": {
+        "easy": 140,
+        "medium": 140,
+        "hard": 70
+      },
+      "correctIndex": {
+        "0": 88,
+        "1": 88,
+        "2": 88,
+        "3": 86
+      }
+    },
+    {
+      "file": "data\\questions\\videojuegos.json",
+      "count": 350,
+      "categories": {
+        "videogames": 350
+      },
+      "difficulties": {
+        "easy": 140,
+        "medium": 140,
+        "hard": 70
+      },
+      "correctIndex": {
+        "0": 88,
+        "1": 88,
+        "2": 88,
+        "3": 86
+      }
+    },
+    {
+      "file": "data\\questions\\series-90.json",
+      "count": 350,
+      "categories": {
+        "series_90s": 350
+      },
+      "difficulties": {
+        "easy": 140,
+        "medium": 140,
+        "hard": 70
+      },
+      "correctIndex": {
+        "0": 88,
+        "1": 88,
+        "2": 88,
+        "3": 86
+      }
+    }
+  ],
+  "totals": {
+    "questions": 1050,
+    "byCategory": {
+      "general": 350,
+      "videogames": 350,
+      "series_90s": 350
+    },
+    "byDifficulty": {
+      "easy": 420,
+      "medium": 420,
+      "hard": 210
+    },
+    "byCorrectIndex": {
+      "0": 264,
+      "1": 264,
+      "2": 264,
+      "3": 258
+    },
+    "errors": 0,
+    "warnings": 0
+  },
+  "errors": [],
+  "warnings": []
+}

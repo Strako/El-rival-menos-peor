@@ -1,0 +1,2452 @@
+[
+  {
+    "id": "vg-0001",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el fontanero protagonista de la saga Super Mario?",
+    "options": [
+      "Luigi",
+      "Mario",
+      "Wario",
+      "Toad"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mario es el personaje principal y emblema de Nintendo."
+  },
+  {
+    "id": "vg-0002",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el hermano de Mario?",
+    "options": [
+      "Luigi",
+      "Toad",
+      "Yoshi",
+      "Bowser"
+    ],
+    "correctIndex": 0,
+    "explanation": "Luigi es el hermano menor de Mario y protagonista de Luigi's Mansion."
+  },
+  {
+    "id": "vg-0003",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la princesa del Reino Champiñón en la saga Mario?",
+    "options": [
+      "Zelda",
+      "Daisy",
+      "Peach",
+      "Samus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Peach gobierna el Reino Champiñón y suele ser rescatada por Mario."
+  },
+  {
+    "id": "vg-0004",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de animal es Yoshi?",
+    "options": [
+      "Un dragón",
+      "Una tortuga",
+      "Un caballo",
+      "Un dinosaurio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Yoshi es un dinosaurio verde que acompaña a Mario."
+  },
+  {
+    "id": "vg-0005",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Quién es el principal villano de la saga Super Mario?",
+    "options": [
+      "Bowser",
+      "Ganondorf",
+      "Dr. Eggman",
+      "Sephiroth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bowser es el rey de los Koopas y antagonista habitual de Mario."
+  },
+  {
+    "id": "vg-0006",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el protagonista de la saga The Legend of Zelda?",
+    "options": [
+      "Zelda",
+      "Ganon",
+      "Link",
+      "Navi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Link es el héroe que porta la Espada Maestra en la saga Zelda."
+  },
+  {
+    "id": "vg-0007",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el reino donde transcurren la mayoría de los juegos de Zelda?",
+    "options": [
+      "Kanto",
+      "Midgar",
+      "Hyrule",
+      "Reino Champiñón"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hyrule es el reino ficticio de la saga The Legend of Zelda."
+  },
+  {
+    "id": "vg-0008",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué reliquia formada por tres triángulos aparece en la saga Zelda?",
+    "options": [
+      "La Espada Maestra",
+      "El Escudo Hyliano",
+      "La Ocarina del Tiempo",
+      "La Trifuerza"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Trifuerza representa el poder, la sabiduría y el valor."
+  },
+  {
+    "id": "vg-0009",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el caballo de Link?",
+    "options": [
+      "Agro",
+      "Roach",
+      "Bullseye",
+      "Epona"
+    ],
+    "correctIndex": 3,
+    "explanation": "Epona es la yegua que Link monta en varios juegos de la saga."
+  },
+  {
+    "id": "vg-0010",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué Pokémon es la mascota más reconocida de la franquicia?",
+    "options": [
+      "Charmander",
+      "Pikachu",
+      "Bulbasaur",
+      "Squirtle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pikachu se convirtió en la mascota oficial de Pokémon."
+  },
+  {
+    "id": "vg-0011",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿De qué tipo es Pikachu?",
+    "options": [
+      "Fuego",
+      "Agua",
+      "Eléctrico",
+      "Planta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pikachu es un Pokémon de tipo eléctrico."
+  },
+  {
+    "id": "vg-0012",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el profesor que entrega el primer Pokémon en la región de Kanto?",
+    "options": [
+      "El profesor Oak",
+      "El profesor Elm",
+      "El profesor Birch",
+      "El profesor Rowan"
+    ],
+    "correctIndex": 0,
+    "explanation": "El profesor Oak entrega a los jugadores su primer Pokémon en Kanto."
+  },
+  {
+    "id": "vg-0013",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la organización villana de la primera generación de Pokémon?",
+    "options": [
+      "Team Magma",
+      "Team Rocket",
+      "Team Aqua",
+      "Team Galactic"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Team Rocket roba Pokémon y persigue a Ash y sus amigos."
+  },
+  {
+    "id": "vg-0014",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿En qué consola debutó la saga Pokémon?",
+    "options": [
+      "NES",
+      "Super Nintendo",
+      "Game Gear",
+      "Game Boy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pokémon Rojo y Verde se lanzaron para Game Boy en Japón."
+  },
+  {
+    "id": "vg-0015",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de animal es Sonic?",
+    "options": [
+      "Un erizo",
+      "Un zorro",
+      "Un puercoespín",
+      "Un conejo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sonic es un erizo azul conocido por su velocidad."
+  },
+  {
+    "id": "vg-0016",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cuál es el color característico de Sonic?",
+    "options": [
+      "Rojo",
+      "Verde",
+      "Azul",
+      "Amarillo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El diseño clásico de Sonic es un erizo azul con zapatillas rojas."
+  },
+  {
+    "id": "vg-0017",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el zorro de dos colas que acompaña a Sonic?",
+    "options": [
+      "Knuckles",
+      "Tails",
+      "Amy",
+      "Shadow"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tails es el fiel compañero de Sonic y puede volar con sus dos colas."
+  },
+  {
+    "id": "vg-0018",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el principal enemigo de Sonic?",
+    "options": [
+      "Bowser",
+      "Dr. Wily",
+      "Dr. Eggman",
+      "M. Bison"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Dr. Eggman, también llamado Robotnik, es el villano principal de Sonic."
+  },
+  {
+    "id": "vg-0019",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿A qué género pertenece Super Mario Bros.?",
+    "options": [
+      "Plataformas",
+      "RPG",
+      "Lucha",
+      "Terror"
+    ],
+    "correctIndex": 0,
+    "explanation": "Super Mario Bros. es uno de los grandes referentes del género de plataformas."
+  },
+  {
+    "id": "vg-0020",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué significa la sigla RPG?",
+    "options": [
+      "Juego de carreras",
+      "Juego de rol",
+      "Juego de disparos",
+      "Juego de estrategia"
+    ],
+    "correctIndex": 1,
+    "explanation": "RPG viene de role-playing game, es decir, juego de rol."
+  },
+  {
+    "id": "vg-0021",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿A qué género pertenece Space Invaders?",
+    "options": [
+      "Puzzle",
+      "Carreras",
+      "Deportes",
+      "Matamarcianos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Space Invaders es un clásico matamarcianos de arcade."
+  },
+  {
+    "id": "vg-0022",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego arcade consiste en mover una paleta para devolver una pelota?",
+    "options": [
+      "Pong",
+      "Pac-Man",
+      "Asteroids",
+      "Frogger"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pong simulaba tenis de mesa con dos paletas y una pelota."
+  },
+  {
+    "id": "vg-0023",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué personaje come puntos mientras es perseguido por fantasmas?",
+    "options": [
+      "Bomberman",
+      "Kirby",
+      "Dig Dug",
+      "Pac-Man"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pac-Man recorre laberintos comiendo puntos y huyendo de los fantasmas."
+  },
+  {
+    "id": "vg-0024",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de puzzle consiste en encajar piezas que caen?",
+    "options": [
+      "Tetris",
+      "Ajedrez",
+      "Buscaminas",
+      "Sudoku"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tetris consiste en encajar tetrominós que descienden por la pantalla."
+  },
+  {
+    "id": "vg-0025",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola portátil lanzó Nintendo en 1989?",
+    "options": [
+      "Game Gear",
+      "Game Boy",
+      "Atari Lynx",
+      "Sega Nomad"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Game Boy llegó al mercado japonés en 1989."
+  },
+  {
+    "id": "vg-0026",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de naves de Nintendo protagoniza Fox McCloud?",
+    "options": [
+      "Metroid",
+      "Star Fox",
+      "F-Zero",
+      "Kirby"
+    ],
+    "correctIndex": 1,
+    "explanation": "Star Fox es la saga de combate espacial liderada por Fox McCloud."
+  },
+  {
+    "id": "vg-0027",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué personaje rosado absorbe a sus enemigos en sus juegos?",
+    "options": [
+      "Jigglypuff",
+      "Toad",
+      "Yoshi",
+      "Kirby"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kirby puede inhalar enemigos y copiar sus habilidades."
+  },
+  {
+    "id": "vg-0028",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la cazarrecompensas protagonista de Metroid?",
+    "options": [
+      "Lara Croft",
+      "Jill Valentine",
+      "Alucard",
+      "Samus Aran"
+    ],
+    "correctIndex": 3,
+    "explanation": "Samus Aran es la protagonista de la saga Metroid."
+  },
+  {
+    "id": "vg-0029",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué villano clásico aparece en la saga Castlevania?",
+    "options": [
+      "Bowser",
+      "Ganon",
+      "Dr. Eggman",
+      "Drácula"
+    ],
+    "correctIndex": 3,
+    "explanation": "El conde Drácula es el enemigo recurrente de Castlevania."
+  },
+  {
+    "id": "vg-0030",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿A qué género pertenece Street Fighter?",
+    "options": [
+      "Plataformas",
+      "RPG",
+      "Lucha",
+      "Puzzle"
+    ],
+    "correctIndex": 2,
+    "explanation": "Street Fighter es una de las sagas fundadoras de la lucha uno contra uno."
+  },
+  {
+    "id": "vg-0031",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el luchador de gi blanco y cinta roja de Street Fighter?",
+    "options": [
+      "Ryu",
+      "Ken",
+      "Guile",
+      "Zangief"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ryu viste gi blanco y cinta roja, y es el rostro de Street Fighter."
+  },
+  {
+    "id": "vg-0032",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la técnica de bola de fuego de Ryu?",
+    "options": [
+      "Shoryuken",
+      "Tatsumaki Senpukyaku",
+      "Kikoken",
+      "Hadouken"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Hadouken es la técnica de energía proyectada de Ryu."
+  },
+  {
+    "id": "vg-0033",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué saga de lucha es famosa por sus fatalities?",
+    "options": [
+      "Street Fighter",
+      "Tekken",
+      "Mortal Kombat",
+      "Virtua Fighter"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mortal Kombat popularizó los fatalities al final de los combates."
+  },
+  {
+    "id": "vg-0034",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿De qué color viste el ninja Sub-Zero en Mortal Kombat?",
+    "options": [
+      "Amarillo",
+      "Azul",
+      "Verde",
+      "Rojo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sub-Zero viste de azul y controla el hielo."
+  },
+  {
+    "id": "vg-0035",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué ninja de Mortal Kombat lanza un arpón y dice \"Get over here!\"?",
+    "options": [
+      "Sub-Zero",
+      "Liu Kang",
+      "Raiden",
+      "Scorpion"
+    ],
+    "correctIndex": 3,
+    "explanation": "Scorpion usa un arpón y su famosa frase \"Get over here!\"."
+  },
+  {
+    "id": "vg-0036",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué personaje de Nintendo es un simio que lleva corbata roja?",
+    "options": [
+      "Diddy Kong",
+      "Cranky Kong",
+      "Funky Kong",
+      "Donkey Kong"
+    ],
+    "correctIndex": 3,
+    "explanation": "Donkey Kong es el simio protagonista con corbata roja."
+  },
+  {
+    "id": "vg-0037",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego arcade de 1981 protagoniza un simio que lanza barriles?",
+    "options": [
+      "Pac-Man",
+      "Donkey Kong",
+      "Frogger",
+      "Q*bert"
+    ],
+    "correctIndex": 1,
+    "explanation": "Donkey Kong enfrentó a Jumpman contra un simio que lanzaba barriles."
+  },
+  {
+    "id": "vg-0038",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola de Nintendo sucedió a la NES?",
+    "options": [
+      "Nintendo 64",
+      "GameCube",
+      "Wii",
+      "Super Nintendo"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Super Nintendo fue la sucesora de 16 bits de la NES."
+  },
+  {
+    "id": "vg-0039",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola de 64 bits lanzó Nintendo en 1996?",
+    "options": [
+      "Nintendo 64",
+      "Super Nintendo",
+      "GameCube",
+      "Sega Saturn"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Nintendo 64 se lanzó en Japón en 1996."
+  },
+  {
+    "id": "vg-0040",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola portátil de Nintendo tiene dos pantallas?",
+    "options": [
+      "Game Boy Advance",
+      "PlayStation Portable",
+      "Nintendo DS",
+      "Nintendo 3DS"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Nintendo DS se caracteriza por sus dos pantallas."
+  },
+  {
+    "id": "vg-0041",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola de Sega competía directamente con la Super Nintendo?",
+    "options": [
+      "Sega Saturn",
+      "Sega Genesis",
+      "Dreamcast",
+      "Master System"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Sega Genesis, llamada Mega Drive en Europa y Japón, rivalizó con la SNES."
+  },
+  {
+    "id": "vg-0042",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cuál fue la última consola de sobremesa fabricada por Sega?",
+    "options": [
+      "Saturn",
+      "Mega Drive",
+      "Dreamcast",
+      "Master System"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Dreamcast fue el último hardware de sobremesa de Sega."
+  },
+  {
+    "id": "vg-0043",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿A qué género pertenece Final Fantasy?",
+    "options": [
+      "Lucha",
+      "RPG",
+      "Plataformas",
+      "Deportes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Final Fantasy es una de las sagas de rol más conocidas."
+  },
+  {
+    "id": "vg-0044",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el pájaro amarillo gigante de Final Fantasy?",
+    "options": [
+      "Chocobo",
+      "Moogle",
+      "Cactuar",
+      "Tonberry"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los chocobos son aves amarillas que se pueden montar en Final Fantasy."
+  },
+  {
+    "id": "vg-0045",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué criatura blanca con alas y pompón aparece en Final Fantasy?",
+    "options": [
+      "Moogle",
+      "Chocobo",
+      "Slime",
+      "Cactuar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los moogles son criaturas blancas con alas y un pompón en la cabeza."
+  },
+  {
+    "id": "vg-0046",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la criatura azul con forma de gota de Dragon Quest?",
+    "options": [
+      "Chocobo",
+      "Slime",
+      "Moogle",
+      "Goomba"
+    ],
+    "correctIndex": 1,
+    "explanation": "El slime es el monstruo más emblemático de Dragon Quest."
+  },
+  {
+    "id": "vg-0047",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué robot azul es el protagonista de la saga de Capcom?",
+    "options": [
+      "Mega Man",
+      "Proto Man",
+      "Bass",
+      "Roll"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mega Man es el robot azul creado por el Dr. Light."
+  },
+  {
+    "id": "vg-0048",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el villano principal de la saga Mega Man?",
+    "options": [
+      "Dr. Wily",
+      "Dr. Light",
+      "Bowser",
+      "Ganon"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Dr. Wily es el científico rival que crea a los robots enemigos."
+  },
+  {
+    "id": "vg-0049",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué personaje coloca bombas para abrirse camino en sus juegos?",
+    "options": [
+      "Pac-Man",
+      "Kirby",
+      "Bomberman",
+      "Mega Man"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bomberman usa bombas para derrotar enemigos y abrir pasajes."
+  },
+  {
+    "id": "vg-0050",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Quién es el protagonista de Metal Gear Solid de 1998?",
+    "options": [
+      "Big Boss",
+      "Raiden",
+      "Solid Snake",
+      "Liquid Snake"
+    ],
+    "correctIndex": 2,
+    "explanation": "Solid Snake es el protagonista de Metal Gear Solid."
+  },
+  {
+    "id": "vg-0051",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué compañía desarrolló la saga Metal Gear?",
+    "options": [
+      "Capcom",
+      "Sega",
+      "Konami",
+      "Square"
+    ],
+    "correctIndex": 2,
+    "explanation": "Metal Gear es una franquicia de Konami creada por Hideo Kojima."
+  },
+  {
+    "id": "vg-0052",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué compañía desarrolló Street Fighter?",
+    "options": [
+      "Konami",
+      "SNK",
+      "Capcom",
+      "Namco"
+    ],
+    "correctIndex": 2,
+    "explanation": "Street Fighter es una franquicia de Capcom."
+  },
+  {
+    "id": "vg-0053",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué compañía creó a Sonic?",
+    "options": [
+      "Nintendo",
+      "Sega",
+      "Capcom",
+      "Konami"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sonic es la mascota de Sega."
+  },
+  {
+    "id": "vg-0054",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué compañía creó a Mario?",
+    "options": [
+      "Sega",
+      "Capcom",
+      "Atari",
+      "Nintendo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mario nació en los arcades de Nintendo."
+  },
+  {
+    "id": "vg-0055",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué compañía fabricó la consola Atari 2600?",
+    "options": [
+      "Nintendo",
+      "Sega",
+      "Mattel",
+      "Atari"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Atari 2600 fue fabricada por Atari."
+  },
+  {
+    "id": "vg-0056",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de 1972 popularizó el tenis de mesa electrónico en los arcades?",
+    "options": [
+      "Asteroids",
+      "Pong",
+      "Breakout",
+      "Space Invaders"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pong fue el gran éxito arcade de Atari en 1972."
+  },
+  {
+    "id": "vg-0057",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué se insertaba en las máquinas arcade para poder jugar?",
+    "options": [
+      "Monedas",
+      "Cartuchos",
+      "Discos compactos",
+      "Mandos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las máquinas arcade funcionaban con monedas o fichas."
+  },
+  {
+    "id": "vg-0058",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué elemento direccional popularizó el mando de la NES?",
+    "options": [
+      "La palanca analógica",
+      "La cruz direccional",
+      "El volante",
+      "La pistola de luz"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nintendo popularizó la cruz direccional con la NES."
+  },
+  {
+    "id": "vg-0059",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué accesorio de la NES permitía disparar a la pantalla?",
+    "options": [
+      "El Super Scope",
+      "El Power Glove",
+      "El robot R.O.B.",
+      "La pistola Zapper"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Zapper era la pistola de luz de la NES."
+  },
+  {
+    "id": "vg-0060",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de NES usa una pistola para disparar a patos?",
+    "options": [
+      "Hogan's Alley",
+      "Wild Gunman",
+      "Excitebike",
+      "Duck Hunt"
+    ],
+    "correctIndex": 3,
+    "explanation": "Duck Hunt usaba la Zapper para cazar patos en pantalla."
+  },
+  {
+    "id": "vg-0061",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola portátil de Sega competía con la Game Boy?",
+    "options": [
+      "Sega Nomad",
+      "Saturn",
+      "Master System",
+      "Game Gear"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Game Gear fue la portátil de Sega con pantalla a color."
+  },
+  {
+    "id": "vg-0062",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué juego de carreras futuristas de Nintendo debutó en la Super Nintendo?",
+    "options": [
+      "Mario Kart",
+      "Star Fox",
+      "Pilotwings",
+      "F-Zero"
+    ],
+    "correctIndex": 3,
+    "explanation": "F-Zero inauguró las carreras futuristas en la Super Nintendo."
+  },
+  {
+    "id": "vg-0063",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué personaje es un mapache tendero en Animal Crossing?",
+    "options": [
+      "K.K. Slider",
+      "Isabelle",
+      "Tom Nook",
+      "Resetti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tom Nook regenta la tienda y gestiona las hipotecas del pueblo."
+  },
+  {
+    "id": "vg-0064",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué saga de Nintendo trata de cultivar pequeñas criaturas vegetales?",
+    "options": [
+      "Splatoon",
+      "Pikmin",
+      "Kirby",
+      "Chibi-Robo"
+    ],
+    "correctIndex": 1,
+    "explanation": "En Pikmin el jugador cultiva y dirige criaturas vegetales."
+  },
+  {
+    "id": "vg-0065",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué saga de disparos de Nintendo usa tinta de colores como munición?",
+    "options": [
+      "Pikmin",
+      "Metroid",
+      "Splatoon",
+      "Star Fox"
+    ],
+    "correctIndex": 2,
+    "explanation": "Splatoon enfrenta equipos que cubren el escenario con tinta."
+  },
+  {
+    "id": "vg-0066",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué mando de Nintendo funciona con sensores de movimiento?",
+    "options": [
+      "Mando de GameCube",
+      "Wii Remote",
+      "Mando de N64",
+      "Mando de SNES"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Wii Remote detecta el movimiento del jugador."
+  },
+  {
+    "id": "vg-0067",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué consola de Sega usaba cartuchos y competía con la NES?",
+    "options": [
+      "Game Gear",
+      "Saturn",
+      "Dreamcast",
+      "Master System"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Master System fue la consola de 8 bits de Sega."
+  },
+  {
+    "id": "vg-0068",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué es un cartucho en las consolas antiguas?",
+    "options": [
+      "Un mando adicional",
+      "Un cable de vídeo",
+      "Un dispositivo que contiene el juego",
+      "Una tarjeta de memoria"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los cartuchos alojaban la ROM del juego y se insertaban en la consola."
+  },
+  {
+    "id": "vg-0069",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué botón de la NES se usa para que Mario salte?",
+    "options": [
+      "A",
+      "Start",
+      "Select",
+      "B"
+    ],
+    "correctIndex": 0,
+    "explanation": "En Super Mario Bros. el botón A hace saltar a Mario."
+  },
+  {
+    "id": "vg-0070",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué significa \"arcade\" en español?",
+    "options": [
+      "Consola portátil",
+      "Tienda de cartuchos",
+      "Salón de máquinas recreativas",
+      "Torneo de cartas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un arcade es un local con máquinas recreativas de pago."
+  },
+  {
+    "id": "vg-0071",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué juego apareció por primera vez Mario, entonces llamado Jumpman?",
+    "options": [
+      "Super Mario Bros.",
+      "Donkey Kong",
+      "Mario Bros.",
+      "Pac-Man"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mario debutó como Jumpman en el arcade Donkey Kong de 1981."
+  },
+  {
+    "id": "vg-0072",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué diseñador japonés creó a Mario y a Link?",
+    "options": [
+      "Gunpei Yokoi",
+      "Shigeru Miyamoto",
+      "Satoshi Tajiri",
+      "Hironobu Sakaguchi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Shigeru Miyamoto creó tanto a Mario como a Link."
+  },
+  {
+    "id": "vg-0073",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó Super Mario Bros. en la NES?",
+    "options": [
+      "1983",
+      "1985",
+      "1987",
+      "1990"
+    ],
+    "correctIndex": 1,
+    "explanation": "Super Mario Bros. llegó a la NES en 1985."
+  },
+  {
+    "id": "vg-0074",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó Super Mario World?",
+    "options": [
+      "NES",
+      "Nintendo 64",
+      "Super Nintendo",
+      "Game Boy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Super Mario World fue un título de lanzamiento de la Super Nintendo."
+  },
+  {
+    "id": "vg-0075",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué juego fue el primer Super Mario en 3D?",
+    "options": [
+      "Super Mario Sunshine",
+      "Super Mario Galaxy",
+      "Super Mario 64",
+      "Super Mario 3D Land"
+    ],
+    "correctIndex": 2,
+    "explanation": "Super Mario 64 trasladó la saga al entorno tridimensional."
+  },
+  {
+    "id": "vg-0076",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola se lanzó Super Mario Sunshine?",
+    "options": [
+      "Nintendo 64",
+      "Wii",
+      "GameCube",
+      "Nintendo DS"
+    ],
+    "correctIndex": 2,
+    "explanation": "Super Mario Sunshine fue exclusivo de GameCube."
+  },
+  {
+    "id": "vg-0077",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó la saga Mario Kart?",
+    "options": [
+      "Super Nintendo",
+      "Nintendo 64",
+      "Game Boy",
+      "GameCube"
+    ],
+    "correctIndex": 0,
+    "explanation": "Super Mario Kart se lanzó en la Super Nintendo en 1992."
+  },
+  {
+    "id": "vg-0078",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó la saga Mario Party?",
+    "options": [
+      "Nintendo 64",
+      "GameCube",
+      "Super Nintendo",
+      "Wii"
+    ],
+    "correctIndex": 0,
+    "explanation": "El primer Mario Party se lanzó en Nintendo 64."
+  },
+  {
+    "id": "vg-0079",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué juego debutó Wario como antagonista de Mario?",
+    "options": [
+      "Super Mario Land 2",
+      "Super Mario World",
+      "Super Mario Bros. 3",
+      "Wario Land"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wario apareció por primera vez en Super Mario Land 2 para Game Boy."
+  },
+  {
+    "id": "vg-0080",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio británico desarrolló Donkey Kong Country?",
+    "options": [
+      "Retro Studios",
+      "Nintendo EAD",
+      "Rare",
+      "Sega"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rare desarrolló Donkey Kong Country para Nintendo."
+  },
+  {
+    "id": "vg-0081",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó el primer The Legend of Zelda en Japón?",
+    "options": [
+      "1983",
+      "1986",
+      "1989",
+      "1991"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Legend of Zelda se lanzó en Japón en 1986."
+  },
+  {
+    "id": "vg-0082",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola se lanzó The Legend of Zelda: Ocarina of Time?",
+    "options": [
+      "Super Nintendo",
+      "GameCube",
+      "Nintendo 64",
+      "Game Boy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ocarina of Time se lanzó en Nintendo 64 en 1998."
+  },
+  {
+    "id": "vg-0083",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué juego de Zelda para Nintendo 64 usa una máscara y un ciclo de tres días?",
+    "options": [
+      "Majora's Mask",
+      "Ocarina of Time",
+      "Wind Waker",
+      "Twilight Princess"
+    ],
+    "correctIndex": 0,
+    "explanation": "Majora's Mask gira en torno a un ciclo repetido de tres días."
+  },
+  {
+    "id": "vg-0084",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó The Legend of Zelda: The Wind Waker?",
+    "options": [
+      "GameCube",
+      "Nintendo 64",
+      "Wii",
+      "Nintendo DS"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Wind Waker se lanzó originalmente en GameCube."
+  },
+  {
+    "id": "vg-0085",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cuál es el subtítulo de Zelda II para NES?",
+    "options": [
+      "A Link to the Past",
+      "Link's Awakening",
+      "The Adventure of Link",
+      "The Minish Cap"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zelda II: The Adventure of Link es la segunda entrega de la saga."
+  },
+  {
+    "id": "vg-0086",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio desarrolló los primeros juegos de Pokémon?",
+    "options": [
+      "Creatures",
+      "Game Freak",
+      "HAL Laboratory",
+      "Intelligent Systems"
+    ],
+    "correctIndex": 1,
+    "explanation": "Game Freak creó Pokémon Rojo y Verde."
+  },
+  {
+    "id": "vg-0087",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzaron Pokémon Red y Green en Japón?",
+    "options": [
+      "1990",
+      "1998",
+      "1996",
+      "2000"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pokémon Rojo y Verde llegaron a Game Boy en 1996."
+  },
+  {
+    "id": "vg-0088",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la región de los primeros juegos de Pokémon?",
+    "options": [
+      "Johto",
+      "Hoenn",
+      "Kanto",
+      "Sinnoh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kanto es la región de la primera generación de Pokémon."
+  },
+  {
+    "id": "vg-0089",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién creó la franquicia Pokémon?",
+    "options": [
+      "Shigeru Miyamoto",
+      "Satoru Iwata",
+      "Satoshi Tajiri",
+      "Ken Sugimori"
+    ],
+    "correctIndex": 2,
+    "explanation": "Satoshi Tajiri ideó Pokémon y fundó Game Freak."
+  },
+  {
+    "id": "vg-0090",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año debutó Sonic the Hedgehog en Mega Drive?",
+    "options": [
+      "1989",
+      "1993",
+      "1991",
+      "1995"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sonic the Hedgehog se lanzó en 1991."
+  },
+  {
+    "id": "vg-0091",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué equipo interno de Sega desarrolló Sonic the Hedgehog?",
+    "options": [
+      "AM2",
+      "Team Andromeda",
+      "Sonic Team",
+      "Smilebit"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sonic Team se formó para crear la saga Sonic."
+  },
+  {
+    "id": "vg-0092",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Con qué nombre se vendió la Sega Genesis en Japón?",
+    "options": [
+      "Master System",
+      "Mega Drive",
+      "Saturn",
+      "Mega CD"
+    ],
+    "correctIndex": 1,
+    "explanation": "En Japón la Sega Genesis se llamó Mega Drive."
+  },
+  {
+    "id": "vg-0093",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó la Sega Saturn en Japón?",
+    "options": [
+      "1991",
+      "1996",
+      "1998",
+      "1994"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Sega Saturn llegó al mercado japonés en 1994."
+  },
+  {
+    "id": "vg-0094",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó la Dreamcast en Japón?",
+    "options": [
+      "1995",
+      "1998",
+      "1997",
+      "2000"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Dreamcast se lanzó en Japón en 1998."
+  },
+  {
+    "id": "vg-0095",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué personaje debutó en Sonic the Hedgehog 2?",
+    "options": [
+      "Tails",
+      "Knuckles",
+      "Amy Rose",
+      "Shadow"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tails apareció por primera vez en Sonic the Hedgehog 2."
+  },
+  {
+    "id": "vg-0096",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué juego debutó Knuckles the Echidna?",
+    "options": [
+      "Sonic 2",
+      "Sonic CD",
+      "Sonic the Hedgehog 3",
+      "Sonic Adventure"
+    ],
+    "correctIndex": 2,
+    "explanation": "Knuckles debutó en Sonic the Hedgehog 3."
+  },
+  {
+    "id": "vg-0097",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué juego de Dreamcast se centra en la venganza de Ryo Hazuki?",
+    "options": [
+      "Shenmue",
+      "Crazy Taxi",
+      "Jet Set Radio",
+      "Sonic Adventure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shenmue narra la búsqueda de venganza de Ryo Hazuki."
+  },
+  {
+    "id": "vg-0098",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién fundó Atari junto a Ted Dabney en 1972?",
+    "options": [
+      "Ralph Baer",
+      "Nolan Bushnell",
+      "Al Alcorn",
+      "Shigeru Miyamoto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nolan Bushnell y Ted Dabney fundaron Atari en 1972."
+  },
+  {
+    "id": "vg-0099",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué juego de Atari 2600 basado en una película se asoció al desplome de 1983?",
+    "options": [
+      "E.T. the Extra-Terrestrial",
+      "Pac-Man",
+      "Combat",
+      "Adventure"
+    ],
+    "correctIndex": 0,
+    "explanation": "El juego de E.T. para Atari 2600 fue un fracaso durante la crisis de 1983."
+  },
+  {
+    "id": "vg-0100",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año ocurrió la gran crisis del videojuego en Norteamérica?",
+    "options": [
+      "1983",
+      "1977",
+      "1985",
+      "1991"
+    ],
+    "correctIndex": 0,
+    "explanation": "La industria sufrió un fuerte desplome en Norteamérica en 1983."
+  },
+  {
+    "id": "vg-0101",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué compañía japonesa creó Space Invaders?",
+    "options": [
+      "Namco",
+      "Taito",
+      "Atari",
+      "Konami"
+    ],
+    "correctIndex": 1,
+    "explanation": "Space Invaders fue creado por Taito en 1978."
+  },
+  {
+    "id": "vg-0102",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién diseñó el personaje de Pac-Man?",
+    "options": [
+      "Shigeru Miyamoto",
+      "Toru Iwatani",
+      "Nolan Bushnell",
+      "Hironobu Sakaguchi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Toru Iwatani diseñó a Pac-Man para Namco."
+  },
+  {
+    "id": "vg-0103",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién creó el Tetris?",
+    "options": [
+      "Alexéi Pázhitnov",
+      "Toru Iwatani",
+      "Satoshi Tajiri",
+      "Gunpei Yokoi"
+    ],
+    "correctIndex": 0,
+    "explanation": "El programador soviético Alexéi Pázhitnov creó Tetris en 1984."
+  },
+  {
+    "id": "vg-0104",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué consola popularizó Tetris como juego incluido en Europa y América?",
+    "options": [
+      "Game Boy",
+      "NES",
+      "Game Gear",
+      "Sega Saturn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tetris se vendió junto a la Game Boy en Occidente."
+  },
+  {
+    "id": "vg-0105",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué consola se considera la primera videoconsola doméstica?",
+    "options": [
+      "Magnavox Odyssey",
+      "Atari 2600",
+      "NES",
+      "ColecoVision"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Magnavox Odyssey llegó al mercado en 1972."
+  },
+  {
+    "id": "vg-0106",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué ingeniero de Nintendo creó la Game Boy?",
+    "options": [
+      "Shigeru Miyamoto",
+      "Satoru Iwata",
+      "Genyo Takeda",
+      "Gunpei Yokoi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gunpei Yokoi diseñó la Game Boy y el Virtual Boy."
+  },
+  {
+    "id": "vg-0107",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llamaba la NES en Japón?",
+    "options": [
+      "Super Famicom",
+      "Famicom Disk System",
+      "Nintendo 64",
+      "Famicom"
+    ],
+    "correctIndex": 3,
+    "explanation": "La NES se llamó Family Computer, o Famicom, en Japón."
+  },
+  {
+    "id": "vg-0108",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llamaba la Super Nintendo en Japón?",
+    "options": [
+      "Famicom",
+      "Super Famicom",
+      "Nintendo 64",
+      "Satellaview"
+    ],
+    "correctIndex": 1,
+    "explanation": "En Japón la Super Nintendo se llamó Super Famicom."
+  },
+  {
+    "id": "vg-0109",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué consola de Nintendo popularizó el stick analógico en su mando?",
+    "options": [
+      "Nintendo 64",
+      "Super Nintendo",
+      "GameCube",
+      "Wii"
+    ],
+    "correctIndex": 0,
+    "explanation": "El mando de Nintendo 64 incorporó un stick analógico central."
+  },
+  {
+    "id": "vg-0110",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó la GameCube?",
+    "options": [
+      "2001",
+      "1998",
+      "2003",
+      "2006"
+    ],
+    "correctIndex": 0,
+    "explanation": "La GameCube se lanzó en 2001."
+  },
+  {
+    "id": "vg-0111",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año llegó Street Fighter II a los arcades?",
+    "options": [
+      "1987",
+      "1993",
+      "1995",
+      "1991"
+    ],
+    "correctIndex": 3,
+    "explanation": "Street Fighter II se lanzó en arcades en 1991."
+  },
+  {
+    "id": "vg-0112",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué personaje femenino debutó en Street Fighter II?",
+    "options": [
+      "Cammy",
+      "Chun-Li",
+      "Sakura",
+      "Rose"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chun-Li fue la primera luchadora jugable de Street Fighter II."
+  },
+  {
+    "id": "vg-0113",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el dictador villano de Street Fighter II?",
+    "options": [
+      "Vega",
+      "M. Bison",
+      "Sagat",
+      "Akuma"
+    ],
+    "correctIndex": 1,
+    "explanation": "M. Bison es el jefe final de Street Fighter II en Occidente."
+  },
+  {
+    "id": "vg-0114",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué compañía desarrolló Mortal Kombat?",
+    "options": [
+      "Midway",
+      "Capcom",
+      "SNK",
+      "Namco"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mortal Kombat fue creado por Midway en 1992."
+  },
+  {
+    "id": "vg-0115",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año debutó Mega Man en la NES?",
+    "options": [
+      "1985",
+      "1989",
+      "1991",
+      "1987"
+    ],
+    "correctIndex": 3,
+    "explanation": "El primer Mega Man se lanzó en NES en 1987."
+  },
+  {
+    "id": "vg-0116",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué sistema debutó Metal Gear en 1987?",
+    "options": [
+      "MSX2",
+      "NES",
+      "Mega Drive",
+      "Game Boy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Metal Gear se diseñó originalmente para MSX2."
+  },
+  {
+    "id": "vg-0117",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién creó la saga Metal Gear?",
+    "options": [
+      "Hideo Kojima",
+      "Hironobu Sakaguchi",
+      "Koji Igarashi",
+      "Keiji Inafune"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hideo Kojima creó Metal Gear en Konami."
+  },
+  {
+    "id": "vg-0118",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué compañía desarrolló Castlevania?",
+    "options": [
+      "Capcom",
+      "Square",
+      "Taito",
+      "Konami"
+    ],
+    "correctIndex": 3,
+    "explanation": "Castlevania es una franquicia de Konami."
+  },
+  {
+    "id": "vg-0119",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué miembro del clan Belmont protagoniza el Castlevania original de NES?",
+    "options": [
+      "Trevor Belmont",
+      "Alucard",
+      "Simon Belmont",
+      "Richter Belmont"
+    ],
+    "correctIndex": 2,
+    "explanation": "Simon Belmont es el héroe del Castlevania de NES."
+  },
+  {
+    "id": "vg-0120",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿A qué género pertenece Contra?",
+    "options": [
+      "Puzzle",
+      "RPG",
+      "Run and gun",
+      "Carreras"
+    ],
+    "correctIndex": 2,
+    "explanation": "Contra es un clásico run and gun de Konami."
+  },
+  {
+    "id": "vg-0121",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué secuencia de botones se conoce como código Konami?",
+    "options": [
+      "Arriba, arriba, abajo, abajo, izquierda, derecha, izquierda, derecha, B, A",
+      "Arriba, abajo, A, B, Start",
+      "Izquierda, derecha, A, B, arriba, abajo",
+      "A, B, arriba, abajo, izquierda, derecha"
+    ],
+    "correctIndex": 0,
+    "explanation": "El código Konami es arriba, arriba, abajo, abajo, izquierda, derecha, izquierda, derecha, B, A."
+  },
+  {
+    "id": "vg-0122",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué compañía creó a Bomberman?",
+    "options": [
+      "Konami",
+      "Capcom",
+      "Taito",
+      "Hudson Soft"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bomberman nació en Hudson Soft en 1983."
+  },
+  {
+    "id": "vg-0123",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué compañía desarrolló el primer Final Fantasy?",
+    "options": [
+      "Enix",
+      "Square",
+      "Capcom",
+      "Konami"
+    ],
+    "correctIndex": 1,
+    "explanation": "Square desarrolló el primer Final Fantasy en 1987."
+  },
+  {
+    "id": "vg-0124",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién creó la saga Final Fantasy?",
+    "options": [
+      "Yuji Horii",
+      "Hironobu Sakaguchi",
+      "Hideo Kojima",
+      "Shigeru Miyamoto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hironobu Sakaguchi ideó Final Fantasy en Square."
+  },
+  {
+    "id": "vg-0125",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola se lanzó Final Fantasy VII?",
+    "options": [
+      "Super Nintendo",
+      "PlayStation",
+      "Nintendo 64",
+      "Sega Saturn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Final Fantasy VII se lanzó en PlayStation en 1997."
+  },
+  {
+    "id": "vg-0126",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué trío creó la saga Dragon Quest?",
+    "options": [
+      "Shigeru Miyamoto, Koji Kondo y Gunpei Yokoi",
+      "Hironobu Sakaguchi, Nobuo Uematsu y Tetsuya Nomura",
+      "Yuji Horii, Koichi Sugiyama y Akira Toriyama",
+      "Satoshi Tajiri, Ken Sugimori y Junichi Masuda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Horii escribió, Sugiyama compuso y Toriyama diseñó Dragon Quest."
+  },
+  {
+    "id": "vg-0127",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Con qué nombre se conoció Dragon Quest en Norteamérica hasta los años 2000?",
+    "options": [
+      "Dragon Saga",
+      "Dragon Master",
+      "Dragon Legend",
+      "Dragon Warrior"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dragon Quest se publicó como Dragon Warrior en Norteamérica."
+  },
+  {
+    "id": "vg-0128",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó Chrono Trigger en la Super Nintendo?",
+    "options": [
+      "1991",
+      "1993",
+      "1995",
+      "1998"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chrono Trigger se lanzó en Super Nintendo en 1995."
+  },
+  {
+    "id": "vg-0129",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio creó a Kirby?",
+    "options": [
+      "Game Freak",
+      "Intelligent Systems",
+      "HAL Laboratory",
+      "Retro Studios"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kirby nació en HAL Laboratory."
+  },
+  {
+    "id": "vg-0130",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó Kirby?",
+    "options": [
+      "NES",
+      "Game Boy",
+      "Super Nintendo",
+      "Nintendo 64"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kirby debutó en Kirby's Dream Land para Game Boy."
+  },
+  {
+    "id": "vg-0131",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó el primer Metroid?",
+    "options": [
+      "1983",
+      "1986",
+      "1989",
+      "1991"
+    ],
+    "correctIndex": 1,
+    "explanation": "Metroid se lanzó en NES en 1986."
+  },
+  {
+    "id": "vg-0132",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué revelación sorprendió a los jugadores al terminar el Metroid original?",
+    "options": [
+      "Samus es un robot",
+      "Samus es el villano",
+      "Samus es un alienígena",
+      "Samus Aran es una mujer"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al completar Metroid se revela que Samus es una mujer."
+  },
+  {
+    "id": "vg-0133",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola se lanzó Metroid Prime?",
+    "options": [
+      "Nintendo 64",
+      "Wii",
+      "Game Boy Advance",
+      "GameCube"
+    ],
+    "correctIndex": 3,
+    "explanation": "Metroid Prime se lanzó en GameCube en 2002."
+  },
+  {
+    "id": "vg-0134",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó Animal Crossing en Japón?",
+    "options": [
+      "GameCube",
+      "Nintendo 64",
+      "Game Boy Advance",
+      "Nintendo DS"
+    ],
+    "correctIndex": 1,
+    "explanation": "Animal Forest debutó en Nintendo 64 en Japón."
+  },
+  {
+    "id": "vg-0135",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó Pikmin?",
+    "options": [
+      "Nintendo 64",
+      "GameCube",
+      "Wii",
+      "Nintendo DS"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pikmin se lanzó en GameCube en 2001."
+  },
+  {
+    "id": "vg-0136",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó Splatoon?",
+    "options": [
+      "Switch",
+      "Wii",
+      "Nintendo 3DS",
+      "Wii U"
+    ],
+    "correctIndex": 3,
+    "explanation": "Splatoon se lanzó en Wii U en 2015."
+  },
+  {
+    "id": "vg-0137",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó Star Fox?",
+    "options": [
+      "NES",
+      "Nintendo 64",
+      "Super Nintendo",
+      "GameCube"
+    ],
+    "correctIndex": 2,
+    "explanation": "Star Fox debutó en Super Nintendo en 1993."
+  },
+  {
+    "id": "vg-0138",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó F-Zero en la Super Nintendo?",
+    "options": [
+      "1988",
+      "1992",
+      "1995",
+      "1990"
+    ],
+    "correctIndex": 3,
+    "explanation": "F-Zero fue un título de lanzamiento de la Super Nintendo en 1990."
+  },
+  {
+    "id": "vg-0139",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el protagonista de EarthBound?",
+    "options": [
+      "Lucas",
+      "Ninten",
+      "Claus",
+      "Ness"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ness es el protagonista de EarthBound para Super Nintendo."
+  },
+  {
+    "id": "vg-0140",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué compañía japonesa creó la consola Neo Geo?",
+    "options": [
+      "SNK",
+      "Capcom",
+      "Sega",
+      "Namco"
+    ],
+    "correctIndex": 0,
+    "explanation": "SNK lanzó la Neo Geo en 1990."
+  },
+  {
+    "id": "vg-0141",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Cuál se considera el primer videojuego comercial de arcade?",
+    "options": [
+      "Computer Space",
+      "Pong",
+      "Space Invaders",
+      "Asteroids"
+    ],
+    "correctIndex": 0,
+    "explanation": "Computer Space, de 1971, precedió a Pong en los salones recreativos."
+  },
+  {
+    "id": "vg-0142",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué simulador de tenis de 1958 se considera un antecesor de los videojuegos?",
+    "options": [
+      "Pong",
+      "Spacewar!",
+      "Computer Space",
+      "Tennis for Two"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tennis for Two fue creado por William Higinbotham en 1958."
+  },
+  {
+    "id": "vg-0143",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué universidad se creó el juego Spacewar! en 1962?",
+    "options": [
+      "Stanford",
+      "MIT",
+      "Harvard",
+      "Berkeley"
+    ],
+    "correctIndex": 1,
+    "explanation": "Spacewar! se desarrolló en el Massachusetts Institute of Technology."
+  },
+  {
+    "id": "vg-0144",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué consola de 1976 fue la primera en usar cartuchos de ROM intercambiables?",
+    "options": [
+      "Atari 2600",
+      "Magnavox Odyssey",
+      "Intellivision",
+      "Fairchild Channel F"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Fairchild Channel F introdujo los cartuchos intercambiables en 1976."
+  },
+  {
+    "id": "vg-0145",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué ciudad se enterraron miles de cartuchos de E.T. en 1983?",
+    "options": [
+      "Las Vegas",
+      "Houston",
+      "Alamogordo",
+      "Los Ángeles"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los cartuchos fueron sepultados en un vertedero de Alamogordo, Nuevo México."
+  },
+  {
+    "id": "vg-0146",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Con qué nombre se lanzó Pac-Man originalmente en Japón?",
+    "options": [
+      "Puck-Man",
+      "Pac-Boy",
+      "Ghost Man",
+      "Come-Come"
+    ],
+    "correctIndex": 0,
+    "explanation": "El nombre Puck-Man se cambió para evitar una lectura vulgar en inglés."
+  },
+  {
+    "id": "vg-0147",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué año fue fundada Nintendo como empresa de naipes?",
+    "options": [
+      "1947",
+      "1959",
+      "1972",
+      "1889"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nintendo comenzó en 1889 fabricando naipes hanafuda en Kioto."
+  },
+  {
+    "id": "vg-0148",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿De qué expresión proviene el nombre Sega?",
+    "options": [
+      "Sega Electronics",
+      "Seven Games",
+      "Sonic Games",
+      "Service Games"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sega nació como Service Games, empresa de máquinas recreativas."
+  },
+  {
+    "id": "vg-0149",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué formato de disco propio utilizaba la Dreamcast?",
+    "options": [
+      "CD-ROM",
+      "DVD-ROM",
+      "Blu-ray",
+      "GD-ROM"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Dreamcast usó discos GD-ROM de mayor capacidad que un CD."
+  },
+  {
+    "id": "vg-0150",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué consola incluía un módem de serie para jugar en línea?",
+    "options": [
+      "Saturn",
+      "PlayStation 2",
+      "GameCube",
+      "Dreamcast"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Dreamcast fue la primera consola con módem incorporado de serie."
+  },
+  {
+    "id": "vg-0151",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué cartucho se conectaba sobre Sonic 3 para ampliar el juego?",
+    "options": [
+      "Sonic & Knuckles",
+      "Sonic 2",
+      "Knuckles' Chaotix",
+      "Sonic CD"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sonic & Knuckles usaba la tecnología lock-on con Sonic 3."
+  },
+  {
+    "id": "vg-0152",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué RPG de Sega Master System inició una saga espacial?",
+    "options": [
+      "Golden Axe",
+      "Phantasy Star",
+      "Shinobi",
+      "Alex Kidd"
+    ],
+    "correctIndex": 1,
+    "explanation": "Phantasy Star debutó en Master System en 1987."
+  },
+  {
+    "id": "vg-0153",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego de Saturn mezcló combate aéreo con dragones?",
+    "options": [
+      "Nights into Dreams",
+      "Burning Rangers",
+      "Panzer Dragoon",
+      "Sega Rally"
+    ],
+    "correctIndex": 2,
+    "explanation": "Panzer Dragoon fue una de las sagas emblemáticas de Saturn."
+  },
+  {
+    "id": "vg-0154",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego de carreras de Sega de 1986 destacó por sus rutas alternativas?",
+    "options": [
+      "Hang-On",
+      "Daytona USA",
+      "Out Run",
+      "Virtua Racing"
+    ],
+    "correctIndex": 2,
+    "explanation": "Out Run permitía elegir entre varias rutas al volante de un descapotable."
+  },
+  {
+    "id": "vg-0155",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué chip permitió los efectos 3D de Star Fox en Super Nintendo?",
+    "options": [
+      "Super FX",
+      "Mode 7",
+      "SA-1",
+      "DSP-1"
+    ],
+    "correctIndex": 0,
+    "explanation": "El chip Super FX ayudaba a calcular polígonos en Star Fox."
+  },
+  {
+    "id": "vg-0156",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué modo gráfico de la Super Nintendo permitía rotar y escalar fondos?",
+    "options": [
+      "Mode 7",
+      "Super FX",
+      "SA-1",
+      "HDMA"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Mode 7 se usó en juegos como F-Zero y Super Mario Kart."
+  },
+  {
+    "id": "vg-0157",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego de NES popularizó el guardado con batería interna?",
+    "options": [
+      "Super Mario Bros.",
+      "Metroid",
+      "Punch-Out!!",
+      "The Legend of Zelda"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Legend of Zelda guardaba la partida gracias a una batería en el cartucho."
+  },
+  {
+    "id": "vg-0158",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué juego se basó la versión occidental de Super Mario Bros. 2?",
+    "options": [
+      "Super Mario Bros.: The Lost Levels",
+      "Yume Kojo",
+      "Mario Bros.",
+      "Doki Doki Panic"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nintendo adaptó Doki Doki Panic para lanzar Super Mario Bros. 2 en Occidente."
+  },
+  {
+    "id": "vg-0159",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué nombre recibió en Japón el juego conocido como Super Mario Bros.: The Lost Levels?",
+    "options": [
+      "Super Mario Bros. 2",
+      "Super Mario Bros. 3",
+      "Super Mario World",
+      "Super Mario Land"
+    ],
+    "correctIndex": 0,
+    "explanation": "En Japón se lanzó como Super Mario Bros. 2 en 1986."
+  },
+  {
+    "id": "vg-0160",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué traje de Super Mario Bros. 3 permite volar y atacar con la cola?",
+    "options": [
+      "Traje de rana",
+      "Traje de Tanooki",
+      "Traje de martillo",
+      "Traje de fuego"
+    ],
+    "correctIndex": 1,
+    "explanation": "El traje de Tanooki otorga vuelo y un ataque con la cola."
+  },
+  {
+    "id": "vg-0161",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué juego debutó Yoshi?",
+    "options": [
+      "Super Mario Bros. 3",
+      "Super Mario 64",
+      "Super Mario World",
+      "Super Mario Land"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yoshi apareció por primera vez en Super Mario World de Super Nintendo."
+  },
+  {
+    "id": "vg-0162",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Cuántos agarres tiene el mando original de Nintendo 64?",
+    "options": [
+      "Dos",
+      "Tres",
+      "Cuatro",
+      "Uno"
+    ],
+    "correctIndex": 1,
+    "explanation": "El mando de Nintendo 64 tiene tres agarres para distintas formas de sujetarlo."
+  },
+  {
+    "id": "vg-0163",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Cuál fue la última consola de sobremesa de Nintendo que usó cartuchos?",
+    "options": [
+      "GameCube",
+      "Super Nintendo",
+      "Nintendo 64",
+      "Wii"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Nintendo 64 fue la última consola de Nintendo con cartuchos."
+  },
+  {
+    "id": "vg-0164",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de disco propietario usaba la GameCube?",
+    "options": [
+      "MiniDVD",
+      "GD-ROM",
+      "Blu-ray",
+      "Cartucho"
+    ],
+    "correctIndex": 0,
+    "explanation": "La GameCube empleó un disco óptico de 8 cm conocido como miniDVD."
+  },
+  {
+    "id": "vg-0165",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién compuso la música original de Super Mario Bros. y The Legend of Zelda?",
+    "options": [
+      "Nobuo Uematsu",
+      "Koji Kondo",
+      "Koichi Sugiyama",
+      "Yoko Shimomura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Koji Kondo es el compositor histórico de Nintendo."
+  },
+  {
+    "id": "vg-0166",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién compuso la banda sonora de Final Fantasy?",
+    "options": [
+      "Koji Kondo",
+      "Akira Toriyama",
+      "Yuji Horii",
+      "Nobuo Uematsu"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nobuo Uematsu firmó la música de gran parte de la saga Final Fantasy."
+  },
+  {
+    "id": "vg-0167",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién diseñó los personajes de Dragon Quest?",
+    "options": [
+      "Nobuo Uematsu",
+      "Koji Kondo",
+      "Akira Toriyama",
+      "Shigeru Miyamoto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Akira Toriyama, creador de Dragon Ball, diseñó los personajes de Dragon Quest."
+  },
+  {
+    "id": "vg-0168",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué abogado dio su nombre a Kirby?",
+    "options": [
+      "John Carmack",
+      "John Romero",
+      "John Kirby",
+      "Jack Kirby"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nintendo adoptó el nombre del abogado John Kirby, que defendió a la empresa en un litigio."
+  },
+  {
+    "id": "vg-0169",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué año se fusionaron Square y Enix?",
+    "options": [
+      "1998",
+      "2003",
+      "2001",
+      "2005"
+    ],
+    "correctIndex": 1,
+    "explanation": "Square Enix se formó con la fusión de ambas empresas en 2003."
+  },
+  {
+    "id": "vg-0170",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué año se fusionaron Bandai y Namco?",
+    "options": [
+      "2005",
+      "1999",
+      "2003",
+      "2007"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fusión creó Bandai Namco Holdings en 2005."
+  },
+  {
+    "id": "vg-0171",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué año debutó The King of Fighters?",
+    "options": [
+      "1991",
+      "1996",
+      "1998",
+      "1994"
+    ],
+    "correctIndex": 3,
+    "explanation": "The King of Fighters '94 fue el primer título de la saga."
+  },
+  {
+    "id": "vg-0172",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué año debutó Metal Slug en los arcades?",
+    "options": [
+      "1996",
+      "1993",
+      "1998",
+      "2000"
+    ],
+    "correctIndex": 0,
+    "explanation": "Metal Slug llegó a los arcades de SNK en 1996."
+  },
+  {
+    "id": "vg-0173",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué juego de Sega de 1993 se considera el primer gran éxito de lucha en 3D?",
+    "options": [
+      "Virtua Fighter",
+      "Tekken",
+      "Soul Edge",
+      "Battle Arena Toshinden"
+    ],
+    "correctIndex": 0,
+    "explanation": "Virtua Fighter usó polígonos 3D en los arcades en 1993."
+  },
+  {
+    "id": "vg-0174",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué saga de Atlus combina la vida escolar con el combate contra sombras?",
+    "options": [
+      "Shin Megami Tensei",
+      "Dragon Quest",
+      "Persona",
+      "Final Fantasy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Persona mezcla la rutina estudiantil con combates y vínculos sociales."
+  },
+  {
+    "id": "vg-0175",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué organismo estadounidense creó en 1994 el sistema de clasificación por edades?",
+    "options": [
+      "PEGI",
+      "ESRB",
+      "CERO",
+      "USK"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ESRB se creó tras las audiencias sobre la violencia en los videojuegos."
+  }
+]

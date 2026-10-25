@@ -1,0 +1,48 @@
+{
+  "name": "el-rival-mas-debil",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trivia multijugador por salas con React, Vite y Supabase",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "validate:questions": "node scripts/validate-questions.mjs",
+    "validate:questions:final": "node scripts/validate-questions.mjs --final data/questions/cultura-general.json data/questions/videojuegos.json data/questions/series-90.json",
+    "merge:questions": "node scripts/merge-questions.mjs",
+    "seed:questions": "node scripts/seed-questions.mjs",
+    "smoke": "node scripts/smoke-test.mjs",
+    "test:smoke": "node scripts/smoke-test.mjs",
+    "test:realtime": "node scripts/realtime-test.mjs",
+    "test:e2e": "node scripts/e2e-test.mjs",
+    "test:e2e:race": "node scripts/e2e-race-test.mjs",
+    "test:e2e:social": "node scripts/e2e-social-test.mjs",
+    "test:chat": "node scripts/chat-test.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.118.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.4",
+    "zustand": "^5.0.16"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "jsdom": "^30.1.3",
+    "playwright": "^1.64.1",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  }
+}
