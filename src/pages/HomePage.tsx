@@ -341,7 +341,7 @@ export function HomePage() {
               {
                 step: '03',
                 title: 'Sobrevive a la votación',
-                text: 'En eliminación, después de cada ronda se vota y el más débil sale de la partida.',
+                text: 'En eliminación, después de cada ronda se vota y el MENOS PEOR sale de la partida.',
               },
             ].map((item) => (
               <Card key={item.step} className="p-5">

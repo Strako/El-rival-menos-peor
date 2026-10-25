@@ -164,7 +164,7 @@ export function Logo({
             EL RIVAL
           </span>
           <span className="block font-display text-2xl tracking-[0.08em] text-gold-400">
-            MÁS DÉBIL
+            MENOS PEOR
           </span>
         </span>
       )}

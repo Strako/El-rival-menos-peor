@@ -118,7 +118,7 @@ export function LandingPage() {
           <Badge tone="gold">El programa de trivia</Badge>
           <h1 className="mt-5 font-display text-[4.2rem] leading-[0.86] tracking-wide text-white sm:text-[6.5rem] lg:text-[7.5rem]">
             ¿QUIÉN ES EL{' '}
-            <span className="text-glow block text-gold-400">RIVAL MÁS DÉBIL?</span>
+            <span className="text-glow block text-gold-400">RIVAL MENOS PEOR?</span>
           </h1>
           <p className="mt-6 max-w-xl text-base leading-relaxed text-white/50 sm:text-lg">
             Crea una sala privada, invita a tus amigos y demuestra quién sabe más. Responde
