@@ -8,7 +8,7 @@ export function PlayerRail({ state }: { state: RoomState }) {
   const currentId = state.game?.currentPlayerId ?? null;
 
   return (
-    <aside className="card order-2 p-4 lg:sticky lg:top-24 lg:order-1 lg:p-5">
+    <aside className="card order-2 min-w-0 p-4 lg:sticky lg:top-24 lg:order-1 lg:p-5">
       <div className="flex items-center justify-between">
         <h2 className="text-xs font-bold uppercase tracking-[0.2em] text-white/40">
           {state.room.mode === 'race' ? 'Jugadores' : 'Orden de turno'}
@@ -16,7 +16,7 @@ export function PlayerRail({ state }: { state: RoomState }) {
         <Badge tone="muted">{players.length}</Badge>
       </div>
 
-      <div className="mt-3 flex gap-2 overflow-x-auto pb-1 lg:mt-4 lg:flex-col lg:overflow-visible lg:pb-0">
+      <div className="mt-3 flex w-full min-w-0 gap-2 overflow-x-auto overscroll-x-contain pb-1 lg:mt-4 lg:flex-col lg:overflow-visible lg:pb-0">
         {players.map((player) => {
           const isCurrent = currentId === player.playerId && state.game?.status === 'playing';
           const isMe = player.playerId === state.me.playerId;
@@ -26,7 +26,7 @@ export function PlayerRail({ state }: { state: RoomState }) {
             <div
               key={player.playerId}
               className={cn(
-                'min-w-[190px] rounded-2xl border p-3 transition lg:min-w-0',
+                'min-w-[280px] rounded-2xl border p-3 transition lg:min-w-0',
                 isCurrent
                   ? 'border-gold-400/45 bg-gold-400/[0.09] shadow-[0_0_30px_-16px_rgba(255,201,77,0.8)]'
                   : 'border-white/[0.06] bg-white/[0.025]',
@@ -39,10 +39,12 @@ export function PlayerRail({ state }: { state: RoomState }) {
                 </span>
                 <Avatar name={player.nickname} seat={player.seat} size="sm" muted={isOut} />
                 <div className="min-w-0 flex-1">
-                  <p className="flex items-center gap-1.5 truncate text-sm font-semibold text-white/90">
+                  <p className="flex min-w-0 items-center gap-1.5 text-sm font-semibold text-white/90">
                     <CountryFlag code={player.countryCode} size="sm" />
-                    <span className="truncate">{player.nickname}</span>
-                    {isMe && <span className="text-[10px] font-normal text-cyan-300">tú</span>}
+                    <span className="min-w-0 break-words">{player.nickname}</span>
+                    {isMe && (
+                      <span className="shrink-0 text-[10px] font-normal text-cyan-300">tú</span>
+                    )}
                   </p>
                   <p className="truncate text-[11px] text-white/35">
                     {PLAYER_STATUS_LABEL[player.status] ?? player.status}

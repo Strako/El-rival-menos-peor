@@ -90,7 +90,12 @@ export function HomePage() {
 
       <header className="relative z-10 border-b border-white/5 bg-ink-950/60 backdrop-blur-xl">
         <div className="mx-auto flex w-full max-w-6xl items-center justify-between gap-4 px-5 py-4 sm:px-8">
-          <Logo />
+          <div className="hidden min-[360px]:flex">
+            <Logo />
+          </div>
+          <div className="min-[360px]:hidden">
+            <Logo compact />
+          </div>
           <div className="flex items-center gap-3">
             <div className="hidden text-right sm:block">
               <p className="text-[10px] uppercase tracking-wider text-white/30">Jugador</p>
@@ -108,9 +113,9 @@ export function HomePage() {
 
       <main className="relative z-10 mx-auto w-full max-w-6xl px-5 py-8 sm:px-8 sm:py-10">
         <div className="flex flex-wrap items-end justify-between gap-4">
-          <div>
+          <div className="min-w-0">
             <Badge tone="gold">Lobby</Badge>
-            <h1 className="mt-3 font-display text-5xl tracking-wide text-white sm:text-6xl">
+            <h1 className="mt-3 max-w-full break-words font-display text-4xl tracking-wide text-white [overflow-wrap:anywhere] sm:text-5xl lg:text-6xl">
               Hola, <span className="text-gold-400">{session.nickname}</span>
             </h1>
             <p className="mt-2 text-sm text-white/40">
@@ -141,7 +146,7 @@ export function HomePage() {
                 </p>
               </div>
             </div>
-            <div className="flex items-center gap-3">
+            <div className="flex flex-wrap items-center gap-2 sm:gap-3">
               <span className="text-xs text-white/35">
                 {activeRoom.status === 'playing'
                   ? 'Partida en curso'

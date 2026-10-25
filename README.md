@@ -16,6 +16,7 @@ Trivia multijugador por salas, inspirada en el formato de “El rival menos peor
 - **Cierre de sala** por el anfitrión, validado en base de datos.
 - **Salida libre** de cualquier jugador en todo momento.
 - **Emojis de posición** en el scoreboard.
+- **Diseño responsive** optimizado para móviles de 320–390 px.
 - **Sonidos:** turno, respuesta correcta, respuesta fallida y tiempo agotado.
 
 ---
@@ -45,6 +46,7 @@ Trivia multijugador por salas, inspirada en el formato de “El rival menos peor
 | Smoke test backend | Clásico, Eliminación y Relámpago OK |
 | Prueba de cierre de sala | Permisos, bloqueo y salida OK |
 | E2E con Chrome | Clásico, Relámpago, social y cierre OK |
+| Responsive mobile | 320, 360 y 390 px sin desbordes |
 | Despliegue Netlify | Pendiente de credenciales |
 
 - Supabase: `https://aaojioxhupihfgqfiken.supabase.co`
@@ -366,6 +368,16 @@ npm run test:chat        # Chat por Broadcast
 ```
 
 Genera capturas en `e2e-artifacts/` (ignorado por git).
+
+### Responsive mobile
+
+Requiere el dev server corriendo. Audita 320, 360 y 390 px, detecta desbordes horizontales y guarda capturas en `e2e-artifacts/mobile/`.
+
+```bash
+npm run test:mobile         # landing, home, lobby, juego, resultados y modales
+npm run test:mobile:voting  # votación y resultado de votación
+npm run test:mobile:invite  # modal de invitación
+```
 
 ### Calidad
 

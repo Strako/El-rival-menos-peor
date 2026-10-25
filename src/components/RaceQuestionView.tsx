@@ -168,7 +168,7 @@ export function RaceQuestionView({
               </p>
             </div>
 
-            <div className="flex items-center gap-3">
+            <div className="flex flex-wrap items-center gap-2 sm:gap-3">
               <span className="badge badge-muted">
                 {CATEGORY_ICON[question.category]} {CATEGORY_LABEL[question.category]}
               </span>
@@ -183,9 +183,9 @@ export function RaceQuestionView({
             </div>
           </div>
 
-          <div className="relative mt-5 flex items-start gap-5">
-            <div className="relative grid h-24 w-24 shrink-0 place-items-center">
-              <svg viewBox="0 0 80 80" className="h-24 w-24 -rotate-90">
+          <div className="relative mt-5 flex items-start gap-3 sm:gap-5">
+            <div className="relative grid h-20 w-20 shrink-0 place-items-center sm:h-24 sm:w-24">
+              <svg viewBox="0 0 80 80" className="h-20 w-20 -rotate-90 sm:h-24 sm:w-24">
                 <circle
                   cx="40"
                   cy="40"
@@ -210,7 +210,7 @@ export function RaceQuestionView({
               <div className="absolute text-center">
                 <p
                   className={cn(
-                    'font-display text-4xl leading-none',
+                    'font-display text-3xl leading-none sm:text-4xl',
                     urgent ? 'text-red-300' : 'text-gold-300',
                   )}
                 >

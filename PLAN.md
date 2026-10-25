@@ -34,6 +34,7 @@
 - [x] **Chat efímero por sala** solo durante la partida, sin persistencia.
 - [x] **Cierre de sala** por el anfitrión en lobby y resultados, validado en base de datos.
 - [x] **Salida de jugadores** en lobby, partida y resultados; el host se reasigna si es necesario.
+- [x] **Auditoría responsive mobile** a 320, 360 y 390 px en landing, home, lobby, juego clásico, Relámpago, votación, resultados y modales.
 - [x] **Emojis de posición** 🥇🥈🥉, keycaps 4–10 y `#N` desde 11.º.
 - [x] **Sin repetición de preguntas dentro de una partida** (índice único).
 - [x] **Sonidos** de turno, inicio de pregunta, correcta, fallida y tiempo agotado.
@@ -43,6 +44,7 @@
 - [x] Smoke test backend: clásico, eliminación, relámpago, timeout, concurrencia, reinicio y permisos.
 - [x] Prueba de cierre de sala: permisos de anfitrión, bloqueo en partida, cierre con 0 jugadores y salida libre.
 - [x] E2E real con Chrome: clásico, relámpago, social y cierre de sala.
+- [x] Auditoría mobile con capturas y detección de overflow: 0 desbordes horizontales.
 - [x] Asesores de seguridad sin advertencias.
 - [x] Backend actualizado mientras había partidas en curso, sin alterar su estado ni su orden ya asignado.
 

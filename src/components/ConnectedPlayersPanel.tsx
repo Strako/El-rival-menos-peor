@@ -50,7 +50,7 @@ export function ConnectedPlayersPanel({
   };
 
   return (
-    <Card className="flex flex-col p-5">
+    <Card className="flex min-w-0 flex-col p-5">
       <div className="flex items-center justify-between">
         <div>
           <h2 className="text-xs font-bold uppercase tracking-[0.2em] text-white/40">

@@ -3,9 +3,12 @@ import { useMemo } from 'react';
 const COLORS = ['#ffc94d', '#33e0ff', '#2ee6a8', '#ff5d7a', '#ffffff', '#c084fc', '#fb923c'];
 
 export function Confetti({ active, pieces = 90 }: { active: boolean; pieces?: number }) {
+  const count =
+    typeof window !== 'undefined' && window.innerWidth < 640 ? Math.min(pieces, 55) : pieces;
+
   const confetti = useMemo(() => {
     if (!active) return [];
-    return Array.from({ length: pieces }, (_, index) => {
+    return Array.from({ length: count }, (_, index) => {
       const color = COLORS[index % COLORS.length];
       return {
         id: index,
@@ -20,7 +23,7 @@ export function Confetti({ active, pieces = 90 }: { active: boolean; pieces?: nu
         radius: Math.random() > 0.65 ? '999px' : '2px',
       };
     });
-  }, [active, pieces]);
+  }, [active, count]);
 
   if (!active || confetti.length === 0) return null;
 

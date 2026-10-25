@@ -62,7 +62,7 @@ export function InviteHost() {
         role="dialog"
         aria-modal="true"
         aria-labelledby="invite-title"
-        className="card w-full max-w-md animate-pop p-6"
+        className="card max-h-[calc(100dvh-2rem)] w-full max-w-md animate-pop overflow-y-auto p-6"
       >
         <div className="flex items-center justify-between">
           <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-cyan-200/60">
@@ -79,7 +79,7 @@ export function InviteHost() {
 
         <h2
           id="invite-title"
-          className="mt-3 font-display text-4xl tracking-wide text-white"
+          className="mt-3 break-words font-display text-3xl tracking-wide text-white [overflow-wrap:anywhere] sm:text-4xl"
         >
           {invite.inviterNickname} te invita
         </h2>

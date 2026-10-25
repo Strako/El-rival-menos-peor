@@ -84,7 +84,7 @@ export function ResultsView({
 
           {winner ? (
             <>
-              <h1 className="text-glow mt-2 font-display text-6xl tracking-wide text-gold-300 sm:text-8xl">
+              <h1 className="text-glow mt-2 max-w-full break-words px-2 font-display text-4xl leading-none tracking-wide text-gold-300 [overflow-wrap:anywhere] min-[360px]:text-[2.75rem] sm:text-7xl lg:text-8xl">
                 {winner.nickname}
               </h1>
               <p className="mt-2 font-display text-4xl text-white sm:text-5xl">
@@ -164,7 +164,7 @@ export function ResultsView({
               <div
                 key={entry.playerId}
                 className={cn(
-                  'flex items-center gap-3 px-5 py-3',
+                  'flex items-center gap-2 px-4 py-3 sm:gap-3 sm:px-5',
                   entry.playerId === state.me.playerId && 'bg-cyan-400/[0.04]',
                   entry.status === 'eliminated' && 'opacity-60',
                 )}
@@ -184,7 +184,14 @@ export function ResultsView({
                 >
                   {rankBadge(index + 1).emoji}
                 </span>
-                <Avatar name={entry.nickname} seat={entry.seat} size="sm" muted={entry.status === 'eliminated'} />
+                <div className="hidden sm:block">
+                  <Avatar
+                    name={entry.nickname}
+                    seat={entry.seat}
+                    size="sm"
+                    muted={entry.status === 'eliminated'}
+                  />
+                </div>
                 <div className="min-w-0 flex-1">
                   <p className="flex items-center gap-1.5 truncate text-sm font-medium text-white/85">
                     <CountryFlag code={countryFor(entry.playerId)} size="sm" />
@@ -202,10 +209,14 @@ export function ResultsView({
                         : ''}
                   </p>
                 </div>
-                {entry.isWinner && <Badge tone="gold">Ganador</Badge>}
+                {entry.isWinner && (
+                  <Badge tone="gold" className="hidden sm:inline-flex">
+                    Ganador
+                  </Badge>
+                )}
                 <span
                   className={cn(
-                    'font-display text-2xl',
+                    'font-display text-xl sm:text-2xl',
                     entry.score < 0 ? 'text-red-300' : 'text-white',
                   )}
                 >

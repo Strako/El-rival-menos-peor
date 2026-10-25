@@ -37,11 +37,11 @@ export function VotingView({
       <div className="space-y-4">
         <Card className="animate-pop overflow-hidden p-6 text-center sm:p-8">
           <Badge tone="red">Resultado de la votación</Badge>
-          <div className="animate-stamp mx-auto mt-5 w-fit rounded-2xl border-2 border-red-400/60 bg-red-500/10 px-8 py-4">
+          <div className="animate-stamp mx-auto mt-5 w-fit max-w-full rounded-2xl border-2 border-red-400/60 bg-red-500/10 px-5 py-4 sm:px-8">
             <p className="text-[10px] font-bold uppercase tracking-[0.28em] text-red-200/70">
               El rival menos peor
             </p>
-            <p className="mt-1 font-display text-5xl tracking-wide text-red-200 sm:text-6xl">
+            <p className="mt-1 max-w-full break-words font-display text-4xl tracking-wide text-red-200 [overflow-wrap:anywhere] sm:text-5xl lg:text-6xl">
               {eliminated?.nickname ?? 'Sin eliminado'}
             </p>
           </div>

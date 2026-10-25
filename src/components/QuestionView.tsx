@@ -115,7 +115,7 @@ export function QuestionView({
               {DIFFICULTY_POINTS[question.difficulty]} pts en juego
             </span>
           </div>
-          <div className="flex items-center gap-2">
+          <div className="flex flex-wrap items-center gap-2">
             <span className="badge badge-muted">
               {CATEGORY_ICON[question.category]} {CATEGORY_LABEL[question.category]}
             </span>

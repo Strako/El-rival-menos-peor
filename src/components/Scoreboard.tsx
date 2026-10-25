@@ -15,7 +15,7 @@ export function Scoreboard({ state }: { state: RoomState }) {
   const maxScore = Math.max(1, ...players.map((player) => player.score));
 
   return (
-    <aside className="card order-3 p-4 lg:sticky lg:top-24 lg:p-5">
+    <aside className="card order-3 min-w-0 p-4 lg:sticky lg:top-24 lg:p-5">
       <div className="flex items-center justify-between">
         <div className="flex items-center gap-2">
           <span className="h-2 w-2 animate-pulse rounded-full bg-emerald-400" />

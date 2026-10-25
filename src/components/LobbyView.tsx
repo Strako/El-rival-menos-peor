@@ -51,12 +51,12 @@ export function LobbyView({
 
   return (
     <div className="mx-auto grid w-full max-w-7xl gap-6 px-4 py-8 sm:px-6 lg:grid-cols-2 xl:grid-cols-[1.05fr_0.9fr_0.8fr]">
-      <div className="space-y-6">
+      <div className="min-w-0 space-y-6">
         <Card className="relative overflow-hidden p-6 sm:p-8">
           <div className="pointer-events-none absolute -right-20 -top-24 h-64 w-64 rounded-full bg-gold-400/10 blur-3xl" />
           <div className="relative">
             <Badge tone="gold">Sala de espera</Badge>
-            <h1 className="mt-4 font-display text-5xl tracking-wide text-white sm:text-6xl">
+            <h1 className="mt-4 font-display text-[2.4rem] leading-[0.95] tracking-wide text-white min-[360px]:text-5xl sm:text-6xl">
               Comparte el código
             </h1>
             <p className="mt-2 max-w-lg text-sm leading-relaxed text-white/50">
@@ -68,7 +68,7 @@ export function LobbyView({
               <button
                 type="button"
                 onClick={() => onCopy(state.room.code, 'Código copiado')}
-                className="rounded-2xl border border-gold-400/30 bg-gold-400/10 px-5 py-3 font-mono text-3xl font-bold tracking-[0.32em] text-gold-300 transition hover:border-gold-400/60 hover:bg-gold-400/15"
+                className="max-w-full rounded-2xl border border-gold-400/30 bg-gold-400/10 px-4 py-3 font-mono text-2xl font-bold tracking-[0.2em] text-gold-300 transition hover:border-gold-400/60 hover:bg-gold-400/15 sm:px-5 sm:text-3xl sm:tracking-[0.32em]"
                 title="Copiar código"
               >
                 {state.room.code}
@@ -101,31 +101,35 @@ export function LobbyView({
             <Badge tone="muted">{playerCount}</Badge>
           </div>
 
-          <div className="mt-4 grid gap-3 sm:grid-cols-2">
+          <div className="mt-4 grid min-w-0 gap-3 sm:grid-cols-2">
             {[...state.players]
               .sort((a, b) => a.seat - b.seat)
               .map((player) => (
                 <div
                   key={player.playerId}
                   className={cn(
-                    'flex items-center gap-3 rounded-2xl border border-white/[0.06] bg-white/[0.025] p-3',
+                    'flex min-w-0 items-center gap-3 rounded-2xl border border-white/[0.06] bg-white/[0.025] p-3',
                     player.status === 'left' && 'opacity-40',
                   )}
                 >
                   <Avatar name={player.nickname} seat={player.seat} />
                   <div className="min-w-0 flex-1">
-                    <p className="flex items-center gap-1.5 truncate text-sm font-semibold text-white">
+                    <p className="flex min-w-0 items-center gap-1.5 text-sm font-semibold text-white">
                       <CountryFlag code={player.countryCode} size="sm" />
-                      <span className="truncate">{player.nickname}</span>
+                      <span className="min-w-0 break-words">{player.nickname}</span>
                       {player.playerId === state.me.playerId && (
-                        <span className="text-[10px] font-normal text-cyan-300">tú</span>
+                        <span className="shrink-0 text-[10px] font-normal text-cyan-300">tú</span>
                       )}
                     </p>
                     <p className="text-[11px] text-white/35">
                       {player.isHost ? 'Anfitrión' : 'Jugador'}
                     </p>
                   </div>
-                  {player.isHost && <Badge tone="gold">Host</Badge>}
+                  {player.isHost && (
+                    <Badge tone="gold" className="hidden sm:inline-flex">
+                      Host
+                    </Badge>
+                  )}
                 </div>
               ))}
 
@@ -138,10 +142,10 @@ export function LobbyView({
         </Card>
       </div>
 
-      <div className="space-y-6">
+      <div className="min-w-0 space-y-6">
         {isHost ? (
           <Card className="p-6">
-            <div className="flex items-start justify-between gap-3">
+            <div className="flex flex-wrap items-start justify-between gap-3">
               <div>
                 <h2 className="font-display text-3xl tracking-wide text-white">
                   Configuración

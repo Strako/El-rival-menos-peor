@@ -309,7 +309,7 @@ export function RoomPage() {
         )}
 
         {!isResults && state.room.status === 'playing' && (
-          <main className="mx-auto grid w-full max-w-[1500px] gap-4 px-4 py-5 sm:px-6 lg:grid-cols-[260px_minmax(0,1fr)_310px] lg:gap-5 lg:py-6">
+          <main className="mx-auto grid w-full max-w-[1500px] grid-cols-1 gap-4 px-4 py-5 sm:px-6 lg:grid-cols-[260px_minmax(0,1fr)_310px] lg:gap-5 lg:py-6">
             <PlayerRail state={state} />
             <section className="order-1 min-w-0 lg:order-2">
               {state.room.mode === 'race' ? (
@@ -344,7 +344,7 @@ export function RoomPage() {
                 />
               )}
             </section>
-            <div className="order-3 space-y-4">
+            <div className="order-3 min-w-0 space-y-4">
               <Scoreboard state={state} />
               {state.room.status === 'playing' && (
                 <GameChat roomId={state.room.id} enabled />

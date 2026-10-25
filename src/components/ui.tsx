@@ -288,7 +288,7 @@ export function Modal({
         role="dialog"
         aria-modal="true"
         aria-labelledby="modal-title"
-        className="card w-full max-w-md animate-pop p-6"
+        className="card max-h-[calc(100dvh-2rem)] w-full max-w-md animate-pop overflow-y-auto p-6"
       >
         <h2 id="modal-title" className="font-display text-3xl tracking-wide text-white">
           {title}

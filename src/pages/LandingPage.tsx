@@ -116,7 +116,7 @@ export function LandingPage() {
       <main className="relative z-10 mx-auto grid w-full max-w-6xl items-center gap-10 px-5 pb-16 pt-6 sm:px-8 lg:grid-cols-[1.1fr_0.9fr] lg:gap-14 lg:pt-10">
         <section className="animate-fade-up">
           <Badge tone="gold">El programa de trivia</Badge>
-          <h1 className="mt-5 font-display text-[4.2rem] leading-[0.86] tracking-wide text-white sm:text-[6.5rem] lg:text-[7.5rem]">
+          <h1 className="mt-5 font-display text-[4.2rem] leading-[0.86] tracking-wide text-white max-[359px]:text-[3.3rem] sm:text-[6.5rem] lg:text-[7.5rem]">
             ¿QUIÉN ES EL{' '}
             <span className="text-glow block text-gold-400">RIVAL MENOS PEOR?</span>
           </h1>
