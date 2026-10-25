@@ -377,6 +377,7 @@ Requiere el dev server corriendo. Audita 320, 360 y 390 px, detecta desbordes ho
 npm run test:mobile         # landing, home, lobby, juego, resultados y modales
 npm run test:mobile:voting  # votación y resultado de votación
 npm run test:mobile:invite  # modal de invitación
+npm run test:lobby-card     # tarjeta de jugador del lobby de 320 a 1280 px
 ```
 
 ### Calidad

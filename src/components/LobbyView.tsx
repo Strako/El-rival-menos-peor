@@ -108,28 +108,30 @@ export function LobbyView({
                 <div
                   key={player.playerId}
                   className={cn(
-                    'flex min-w-0 items-center gap-3 rounded-2xl border border-white/[0.06] bg-white/[0.025] p-3',
+                    'flex min-w-0 items-start gap-3 rounded-2xl border border-white/[0.06] bg-white/[0.025] p-3',
                     player.status === 'left' && 'opacity-40',
                   )}
                 >
                   <Avatar name={player.nickname} seat={player.seat} />
                   <div className="min-w-0 flex-1">
-                    <p className="flex min-w-0 items-center gap-1.5 text-sm font-semibold text-white">
-                      <CountryFlag code={player.countryCode} size="sm" />
-                      <span className="min-w-0 break-words">{player.nickname}</span>
+                    <p
+                      className="truncate text-sm font-semibold text-white"
+                      title={player.nickname}
+                    >
+                      {player.nickname}
+                    </p>
+                    <div className="mt-1 flex flex-wrap items-center gap-x-2 gap-y-1 text-[11px] text-white/35">
+                      <span className="flex min-w-0 items-center gap-1.5">
+                        <CountryFlag code={player.countryCode} size="sm" />
+                        <span className="truncate">
+                          {player.isHost ? 'Anfitrión' : 'Jugador'}
+                        </span>
+                      </span>
                       {player.playerId === state.me.playerId && (
-                        <span className="shrink-0 text-[10px] font-normal text-cyan-300">tú</span>
+                        <span className="text-cyan-300">tú</span>
                       )}
-                    </p>
-                    <p className="text-[11px] text-white/35">
-                      {player.isHost ? 'Anfitrión' : 'Jugador'}
-                    </p>
+                    </div>
                   </div>
-                  {player.isHost && (
-                    <Badge tone="gold" className="hidden sm:inline-flex">
-                      Host
-                    </Badge>
-                  )}
                 </div>
               ))}
 

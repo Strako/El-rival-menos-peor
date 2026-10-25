@@ -30,6 +30,7 @@
     "test:mobile": "node scripts/mobile-audit.mjs",
     "test:mobile:voting": "node scripts/mobile-voting-audit.mjs",
     "test:mobile:invite": "node scripts/mobile-invite-audit.mjs",
+    "test:lobby-card": "node scripts/lobby-card-test.mjs",
     "test:chat": "node scripts/chat-test.mjs"
   },
   "keywords": [],
