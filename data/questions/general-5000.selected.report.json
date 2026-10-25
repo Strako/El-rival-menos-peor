@@ -1,0 +1,168 @@
+{
+  "generatedAt": "2026-10-25T10:10:28.978Z",
+  "sourceFiles": [
+    "gen-001.json",
+    "gen-002.json",
+    "gen-003.json",
+    "gen-004.json",
+    "gen-005.json",
+    "gen-006.json",
+    "gen-007.json",
+    "gen-008.json",
+    "gen-009.json",
+    "gen-010.json",
+    "gen-011.json",
+    "gen-012.json",
+    "gen-013.json",
+    "gen-014.json",
+    "gen-015.json",
+    "gen-016.json",
+    "gen-017.json",
+    "gen-018.json",
+    "gen-019.json",
+    "gen-020.json"
+  ],
+  "uniqueCandidates": 5180,
+  "selected": 5000,
+  "removed": {
+    "base": [],
+    "exact": [
+      {
+        "id": "cg-1532",
+        "duplicateOf": "cg-1015",
+        "question": "¿Qué partícula subatómica tiene carga eléctrica negativa?"
+      },
+      {
+        "id": "cg-1533",
+        "duplicateOf": "cg-1016",
+        "question": "¿Qué partícula del núcleo atómico carece de carga eléctrica?"
+      },
+      {
+        "id": "cg-1815",
+        "duplicateOf": "cg-1621",
+        "question": "¿Qué científico británico descubrió la penicilina en 1928?"
+      },
+      {
+        "id": "cg-2041",
+        "duplicateOf": "cg-1820",
+        "question": "¿Qué órgano filtra la sangre y produce la orina?"
+      },
+      {
+        "id": "cg-2048",
+        "duplicateOf": "cg-1999",
+        "question": "¿Qué grupo sanguíneo se considera donante universal de glóbulos rojos?"
+      },
+      {
+        "id": "cg-2103",
+        "duplicateOf": "cg-1076",
+        "question": "¿Qué físico alemán descubrió los rayos X en 1895?"
+      },
+      {
+        "id": "cg-2269",
+        "duplicateOf": "cg-1976",
+        "question": "¿Qué genetista estadounidense descubrió los transposones en el maíz?"
+      },
+      {
+        "id": "cg-3421",
+        "duplicateOf": "cg-2333",
+        "question": "¿Qué matemático griego escribió los Elementos, tratado base de la geometría?"
+      },
+      {
+        "id": "cg-3910",
+        "duplicateOf": "cg-3441",
+        "question": "¿Qué sistema de cuerdas anudadas usaban los incas para registrar información?"
+      },
+      {
+        "id": "cg-4143",
+        "duplicateOf": "cg-3735",
+        "question": "¿Qué orden religiosa fundó Ignacio de Loyola en 1540?"
+      },
+      {
+        "id": "cg-4165",
+        "duplicateOf": "cg-3734",
+        "question": "¿Qué pensador florentino escribió *El príncipe* en 1513?"
+      },
+      {
+        "id": "cg-4404",
+        "duplicateOf": "cg-3383",
+        "question": "¿Qué poeta griego compuso la Ilíada y la Odisea?"
+      },
+      {
+        "id": "cg-5171",
+        "duplicateOf": "cg-5073",
+        "question": "¿Qué dramaturgo alemán escribió Madre Coraje y sus hijos?"
+      },
+      {
+        "id": "cg-5272",
+        "duplicateOf": "cg-5078",
+        "question": "¿Qué poeta ruso escribió la novela en verso Eugenio Oneguin?"
+      },
+      {
+        "id": "cg-5681",
+        "duplicateOf": "cg-3145",
+        "question": "¿En qué ciudad se encuentra la Torre Eiffel?"
+      },
+      {
+        "id": "cg-5683",
+        "duplicateOf": "cg-3153",
+        "question": "¿En qué país se encuentra el Taj Mahal?"
+      },
+      {
+        "id": "cg-5691",
+        "duplicateOf": "cg-3261",
+        "question": "¿En qué país se encuentra el templo de Angkor Wat?"
+      },
+      {
+        "id": "cg-5692",
+        "duplicateOf": "cg-3157",
+        "question": "¿En qué ciudad se encuentra la Alhambra?"
+      },
+      {
+        "id": "cg-5701",
+        "duplicateOf": "cg-3156",
+        "question": "¿En qué país se encuentra la Ópera de Sídney?"
+      },
+      {
+        "id": "cg-5706",
+        "duplicateOf": "cg-3263",
+        "question": "¿En qué ciudad se encuentra el puente Golden Gate?"
+      }
+    ],
+    "near": []
+  },
+  "totals": {
+    "byTopic": {
+      "physics": 250,
+      "astronomy": 250,
+      "chemistry": 250,
+      "biology": 250,
+      "medicine": 250,
+      "mathematics": 250,
+      "technology": 250,
+      "earth_science": 250,
+      "geography": 250,
+      "history_ancient_medieval": 250,
+      "history_modern": 250,
+      "archaeology": 250,
+      "philosophy_religion": 250,
+      "mythology": 250,
+      "linguistics": 250,
+      "literature": 250,
+      "theater_poetry": 250,
+      "visual_arts": 250,
+      "architecture_design": 250,
+      "music_cinema_culture": 250
+    },
+    "byDifficulty": {
+      "easy": 1966,
+      "medium": 2028,
+      "hard": 1006
+    },
+    "byIndex": {
+      "0": 1248,
+      "1": 1250,
+      "2": 1246,
+      "3": 1256
+    }
+  }
+}

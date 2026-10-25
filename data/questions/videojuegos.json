@@ -45,7 +45,7 @@
     "id": "vg-0004",
     "category": "videogames",
     "difficulty": "easy",
-    "question": "¿Qué tipo de animal es Yoshi?",
+    "question": "¿Qué tipo de animal es Yoshi, el compañero de Mario?",
     "options": [
       "Un dragón",
       "Una tortuga",
@@ -115,7 +115,7 @@
     "id": "vg-0009",
     "category": "videogames",
     "difficulty": "easy",
-    "question": "¿Cómo se llama el caballo de Link?",
+    "question": "¿Cómo se llama el caballo de Link en la saga The Legend of Zelda?",
     "options": [
       "Agro",
       "Roach",
@@ -129,7 +129,7 @@
     "id": "vg-0010",
     "category": "videogames",
     "difficulty": "easy",
-    "question": "¿Qué Pokémon es la mascota más reconocida de la franquicia?",
+    "question": "¿Qué Pokémon es la mascota más reconocida de la franquicia creada por Satoshi Tajiri?",
     "options": [
       "Charmander",
       "Pikachu",
@@ -143,7 +143,7 @@
     "id": "vg-0011",
     "category": "videogames",
     "difficulty": "easy",
-    "question": "¿De qué tipo es Pikachu?",
+    "question": "¿De qué tipo es Pikachu en los juegos de Pokémon?",
     "options": [
       "Fuego",
       "Agua",
@@ -199,7 +199,7 @@
     "id": "vg-0015",
     "category": "videogames",
     "difficulty": "easy",
-    "question": "¿Qué tipo de animal es Sonic?",
+    "question": "¿Qué tipo de animal es Sonic, la mascota de Sega?",
     "options": [
       "Un erizo",
       "Un zorro",
@@ -367,7 +367,7 @@
     "id": "vg-0027",
     "category": "videogames",
     "difficulty": "easy",
-    "question": "¿Qué personaje rosado absorbe a sus enemigos en sus juegos?",
+    "question": "¿Qué personaje rosado de Nintendo absorbe a sus enemigos en sus juegos?",
     "options": [
       "Jigglypuff",
       "Toad",
@@ -437,7 +437,7 @@
     "id": "vg-0032",
     "category": "videogames",
     "difficulty": "easy",
-    "question": "¿Cómo se llama la técnica de bola de fuego de Ryu?",
+    "question": "¿Cómo se llama la técnica de bola de fuego de Ryu en Street Fighter?",
     "options": [
       "Shoryuken",
       "Tatsumaki Senpukyaku",
@@ -549,7 +549,7 @@
     "id": "vg-0040",
     "category": "videogames",
     "difficulty": "easy",
-    "question": "¿Qué consola portátil de Nintendo tiene dos pantallas?",
+    "question": "¿Qué consola portátil de Nintendo, lanzada originalmente en 2004, tiene dos pantallas?",
     "options": [
       "Game Boy Advance",
       "PlayStation Portable",
@@ -647,7 +647,7 @@
     "id": "vg-0047",
     "category": "videogames",
     "difficulty": "easy",
-    "question": "¿Qué robot azul es el protagonista de la saga de Capcom?",
+    "question": "¿Qué robot azul de Capcom, que copia las armas de sus enemigos, protagoniza una saga de plataformas iniciada en 1987?",
     "options": [
       "Mega Man",
       "Proto Man",
@@ -675,7 +675,7 @@
     "id": "vg-0049",
     "category": "videogames",
     "difficulty": "easy",
-    "question": "¿Qué personaje coloca bombas para abrirse camino en sus juegos?",
+    "question": "¿Qué personaje de Hudson Soft coloca bombas para abrirse camino en sus juegos?",
     "options": [
       "Pac-Man",
       "Kirby",
@@ -913,7 +913,7 @@
     "id": "vg-0066",
     "category": "videogames",
     "difficulty": "easy",
-    "question": "¿Qué mando de Nintendo funciona con sensores de movimiento?",
+    "question": "¿Qué mando de Nintendo, introducido en 2006, funciona con sensores de movimiento?",
     "options": [
       "Mando de GameCube",
       "Wii Remote",
@@ -941,7 +941,7 @@
     "id": "vg-0068",
     "category": "videogames",
     "difficulty": "easy",
-    "question": "¿Qué es un cartucho en las consolas antiguas?",
+    "question": "¿Qué era un cartucho en las consolas de videojuegos de los años 80 y 90?",
     "options": [
       "Un mando adicional",
       "Un cable de vídeo",
@@ -1179,7 +1179,7 @@
     "id": "vg-0085",
     "category": "videogames",
     "difficulty": "medium",
-    "question": "¿Cuál es el subtítulo de Zelda II para NES?",
+    "question": "¿Cuál es el subtítulo oficial de Zelda II, la secuela de The Legend of Zelda lanzada en 1987?",
     "options": [
       "A Link to the Past",
       "Link's Awakening",
@@ -1459,7 +1459,7 @@
     "id": "vg-0105",
     "category": "videogames",
     "difficulty": "medium",
-    "question": "¿Qué consola se considera la primera videoconsola doméstica?",
+    "question": "¿Qué consola comercializada en 1972 se considera la primera videoconsola doméstica?",
     "options": [
       "Magnavox Odyssey",
       "Atari 2600",
@@ -1529,7 +1529,7 @@
     "id": "vg-0110",
     "category": "videogames",
     "difficulty": "medium",
-    "question": "¿En qué año se lanzó la GameCube?",
+    "question": "¿En qué año se lanzó la GameCube en Japón?",
     "options": [
       "2001",
       "1998",
@@ -1557,7 +1557,7 @@
     "id": "vg-0112",
     "category": "videogames",
     "difficulty": "medium",
-    "question": "¿Qué personaje femenino debutó en Street Fighter II?",
+    "question": "¿Qué personaje femenino debutó en la versión original de Street Fighter II, lanzada en 1991?",
     "options": [
       "Cammy",
       "Chun-Li",
@@ -1571,7 +1571,7 @@
     "id": "vg-0113",
     "category": "videogames",
     "difficulty": "medium",
-    "question": "¿Cómo se llama el dictador villano de Street Fighter II?",
+    "question": "¿Cómo se llama el dictador villano de Street Fighter II en las versiones occidentales?",
     "options": [
       "Vega",
       "M. Bison",
@@ -1767,7 +1767,7 @@
     "id": "vg-0127",
     "category": "videogames",
     "difficulty": "medium",
-    "question": "¿Con qué nombre se conoció Dragon Quest en Norteamérica hasta los años 2000?",
+    "question": "¿Con qué nombre se conoció la saga Dragon Quest en Norteamérica antes de 2005?",
     "options": [
       "Dragon Saga",
       "Dragon Master",
@@ -1921,7 +1921,7 @@
     "id": "vg-0138",
     "category": "videogames",
     "difficulty": "medium",
-    "question": "¿En qué año se lanzó F-Zero en la Super Nintendo?",
+    "question": "¿En qué año se lanzó F-Zero para Super Nintendo en Japón?",
     "options": [
       "1988",
       "1992",
@@ -2089,7 +2089,7 @@
     "id": "vg-0150",
     "category": "videogames",
     "difficulty": "hard",
-    "question": "¿Qué consola incluía un módem de serie para jugar en línea?",
+    "question": "¿Qué consola de Sega lanzada en 1998 incluía un módem de serie para jugar en línea?",
     "options": [
       "Saturn",
       "PlayStation 2",
@@ -2313,7 +2313,7 @@
     "id": "vg-0166",
     "category": "videogames",
     "difficulty": "hard",
-    "question": "¿Quién compuso la banda sonora de Final Fantasy?",
+    "question": "¿Quién compuso la banda sonora del Final Fantasy original de 1987?",
     "options": [
       "Koji Kondo",
       "Akira Toriyama",
@@ -3475,7 +3475,7 @@
     "id": "vg-0249",
     "category": "videogames",
     "difficulty": "medium",
-    "question": "¿En qué año se lanzó la Xbox original?",
+    "question": "¿En qué año se lanzó la Xbox original en Norteamérica?",
     "options": [
       "2000",
       "2002",
@@ -3937,7 +3937,7 @@
     "id": "vg-0282",
     "category": "videogames",
     "difficulty": "medium",
-    "question": "¿Cómo se llama la hija adoptiva de Geralt de Rivia?",
+    "question": "En la saga The Witcher, ¿cómo se llama la hija adoptiva de Geralt de Rivia?",
     "options": [
       "Yennefer",
       "Triss Merigold",
@@ -4413,7 +4413,7 @@
     "id": "vg-0316",
     "category": "videogames",
     "difficulty": "hard",
-    "question": "¿Cuál es el nombre real de Nathan Drake?",
+    "question": "En la saga Uncharted, ¿cuál es el nombre real de Nathan Drake?",
     "options": [
       "Nathan Morgan",
       "Sam Morgan",

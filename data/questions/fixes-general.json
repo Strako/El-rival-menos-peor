@@ -1,0 +1,117 @@
+[
+  {
+    "id": "cg-0023",
+    "question": "¿Qué mamífero australiano de pico de pato y hábitos acuáticos pone huevos?",
+    "reason": "Se añaden rasgos distintivos para no confundirlo con otros mamíferos que también ponen huevos."
+  },
+  {
+    "id": "cg-0046",
+    "question": "¿Cuál es la isla más grande del mundo, excluyendo las masas continentales?",
+    "reason": "Aclara que no se cuentan los continentes, para evitar la confusión con Australia."
+  },
+  {
+    "id": "cg-0086",
+    "question": "¿Cuál es el punto más bajo de la superficie terrestre emergida?",
+    "reason": "Sustituye «tierra firme» por una expresión geográfica inequívoca."
+  },
+  {
+    "id": "cg-0088",
+    "question": "¿Qué cordillera, que separa la Rusia europea de Siberia, se considera la frontera natural entre Europa y Asia?",
+    "reason": "Precisa la cordillera para distinguirla de otras fronteras convencionales entre Europa y Asia."
+  },
+  {
+    "id": "cg-0092",
+    "question": "¿Qué volcán siciliano, situado junto a Catania, es el más activo de Europa?",
+    "reason": "Ubica el volcán para distinguirlo de otros volcanes italianos con actividad frecuente."
+  },
+  {
+    "id": "cg-0094",
+    "question": "¿Cuál es el mayor desierto polar del planeta, situado en el hemisferio sur?",
+    "reason": "Ubica el desierto polar en el hemisferio sur para distinguirlo del Ártico."
+  },
+  {
+    "id": "cg-0101",
+    "question": "¿En qué capa de la atmósfera se encuentra la mayor parte del ozono?",
+    "reason": "Aclara que se pregunta por una capa de la atmósfera."
+  },
+  {
+    "id": "cg-0121",
+    "question": "¿Qué naturalista inglés expuso la evolución por selección natural en El origen de las especies, publicado en 1859?",
+    "reason": "Identifica la obra y el año para distinguir al autor de otros proponentes de la selección natural."
+  },
+  {
+    "id": "cg-0130",
+    "question": "¿Qué navegante español completó la primera vuelta al mundo al mando de la expedición en 1522?",
+    "reason": "Aclara que se pregunta por quien culminó la expedición, no por quien la inició."
+  },
+  {
+    "id": "cg-0137",
+    "question": "¿Qué líder dirigió la Revolución haitiana en su fase inicial, entre 1791 y 1802?",
+    "reason": "Delimita la etapa para no confundirlo con otros líderes posteriores de la independencia."
+  },
+  {
+    "id": "cg-0162",
+    "question": "¿En qué año capturó Francisco Pizarro a Atahualpa?",
+    "reason": "Completa el nombre del conquistador para evitar la ambigüedad con otros miembros de la familia Pizarro."
+  },
+  {
+    "id": "cg-0182",
+    "question": "¿Qué compositor alemán escribió la Quinta Sinfonía, estrenada en 1808 y conocida por su motivo de cuatro notas?",
+    "reason": "Precisa la obra y su estreno para distinguirla de otras quintas sinfonías."
+  },
+  {
+    "id": "cg-0204",
+    "question": "¿Qué actor interpretó a Jack Dawson en la película Titanic de 1997?",
+    "reason": "Identifica la película concreta a la que pertenece el personaje."
+  },
+  {
+    "id": "cg-0220",
+    "question": "¿Qué instrumento de cuerda frotada, el más agudo de la familia, tiene cuatro cuerdas y se toca con arco en una orquesta?",
+    "reason": "Añade que es el más agudo de la familia para distinguirlo de la viola, que también tiene cuatro cuerdas y se toca con arco."
+  },
+  {
+    "id": "cg-0228",
+    "question": "¿Quién protagonizó la película Casablanca de 1942 junto a Ingrid Bergman?",
+    "reason": "Identifica la película de 1942 para contextualizar el reparto."
+  },
+  {
+    "id": "cg-0233",
+    "question": "¿Qué selección ganó la final del Mundial de Fútbol de 2014?",
+    "reason": "Formula la pregunta con «qué selección» para que el referente sea un equipo nacional."
+  },
+  {
+    "id": "cg-0260",
+    "question": "¿Qué escritor de lengua alemana escribió la novela corta La metamorfosis, publicada en 1915?",
+    "reason": "Precisa el género y la fecha para distinguir la obra de Kafka de otras con títulos similares."
+  },
+  {
+    "id": "cg-0267",
+    "question": "¿Qué compositor italiano escribió la ópera El barbero de Sevilla, estrenada en 1816?",
+    "reason": "Añade el año de estreno para distinguirla de otras óperas con el mismo título."
+  },
+  {
+    "id": "cg-0287",
+    "question": "¿Qué selección ganó la primera Eurocopa de fútbol, en 1960?",
+    "reason": "Especifica que se trata de la Eurocopa de fútbol."
+  },
+  {
+    "id": "cg-0293",
+    "question": "¿Qué piloto brasileño ganó los campeonatos mundiales de Fórmula 1 de 1988, 1990 y 1991?",
+    "reason": "Concreta los años para distinguirlo de otro piloto brasileño que también ganó tres títulos mundiales."
+  },
+  {
+    "id": "cg-0339",
+    "question": "¿Qué club ganó la primera Copa de Europa de fútbol, en 1956?",
+    "reason": "Aclara que la Copa de Europa mencionada es la competición futbolística."
+  },
+  {
+    "id": "cg-0340",
+    "question": "¿Qué boxeador ganó el título mundial de los pesos pesados en 1964 y se proclamó a sí mismo «el más grande»?",
+    "reason": "Aclara que «el más grande» era una autoproclamación del propio boxeador."
+  },
+  {
+    "id": "cg-0344",
+    "question": "¿A qué matemático británico se le considera el padre de la informática por formalizar la computación con una máquina teórica?",
+    "reason": "Añade el aporte que lo distingue de otros pioneros de la computación."
+  }
+]

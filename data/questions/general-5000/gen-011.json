@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-3601",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué monarcas financiaron el primer viaje de Cristóbal Colón en 1492?",
+    "options": [
+      "Isabel I de Castilla y Fernando II de Aragón",
+      "Juana I de Castilla y Felipe el Hermoso",
+      "Carlos V y Isabel de Portugal",
+      "Enrique IV y Juana de Trastámara"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los Reyes Católicos firmaron las Capitulaciones de Santa Fe con Colón."
+  },
+  {
+    "id": "cg-3602",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué navegante portugués dirigió la expedición que en 1519 circunnavegó el globo por primera vez?",
+    "options": [
+      "Vasco da Gama",
+      "Fernando de Magallanes",
+      "Bartolomé Díaz",
+      "Pedro Álvares Cabral"
+    ],
+    "correctIndex": 1,
+    "explanation": "Magallanes murió en 1521 y la expedición fue completada por Juan Sebastián Elcano."
+  },
+  {
+    "id": "cg-3603",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué pintor renacentista italiano creó el fresco La escuela de Atenas en el Vaticano?",
+    "options": [
+      "Miguel Ángel",
+      "Leonardo da Vinci",
+      "Rafael Sanzio",
+      "Tiziano Vecellio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rafael pintó La escuela de Atenas en las Estancias Vaticanas entre 1510 y 1511."
+  },
+  {
+    "id": "cg-3604",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué artista italiano decoró la bóveda de la Capilla Sixtina por encargo del papa Julio II?",
+    "options": [
+      "Rafael Sanzio",
+      "Sandro Botticelli",
+      "Leonardo da Vinci",
+      "Miguel Ángel"
+    ],
+    "correctIndex": 3,
+    "explanation": "Miguel Ángel pintó los frescos de la bóveda de la Capilla Sixtina entre 1508 y 1512."
+  },
+  {
+    "id": "cg-3605",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué monje alemán publicó en 1517 las noventa y cinco tesis contra la venta de indulgencias?",
+    "options": [
+      "Martín Lutero",
+      "Juan Calvino",
+      "Ulrico Zuinglio",
+      "Erasmo de Róterdam"
+    ],
+    "correctIndex": 0,
+    "explanation": "Martín Lutero fijó sus tesis en Wittenberg, dando inicio a la Reforma protestante."
+  },
+  {
+    "id": "cg-3606",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué rey inglés rompió con Roma y creó la Iglesia de Inglaterra en 1534?",
+    "options": [
+      "Enrique VII",
+      "Enrique VIII",
+      "Eduardo VI",
+      "Jacobo I"
+    ],
+    "correctIndex": 1,
+    "explanation": "Enrique VIII se declaró cabeza de la Iglesia de Inglaterra mediante el Acta de Supremacía."
+  },
+  {
+    "id": "cg-3607",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué astrónomo polaco propuso en el siglo XVI que la Tierra gira alrededor del Sol?",
+    "options": [
+      "Tycho Brahe",
+      "Johannes Kepler",
+      "Nicolás Copérnico",
+      "Galileo Galilei"
+    ],
+    "correctIndex": 2,
+    "explanation": "Copérnico expuso su modelo heliocéntrico en De revolutionibus orbium coelestium."
+  },
+  {
+    "id": "cg-3608",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué científico italiano fue condenado por la Inquisición en 1633 por defender el heliocentrismo?",
+    "options": [
+      "Giordano Bruno",
+      "Nicolás Copérnico",
+      "Johannes Kepler",
+      "Galileo Galilei"
+    ],
+    "correctIndex": 3,
+    "explanation": "Galileo fue obligado a abjurar de la doctrina heliocéntrica y quedó bajo arresto domiciliario."
+  },
+  {
+    "id": "cg-3609",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué científico inglés publicó en 1687 los Principia, tratado sobre el movimiento y la gravitación?",
+    "options": [
+      "Isaac Newton",
+      "Robert Boyle",
+      "Edmond Halley",
+      "Christiaan Huygens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Newton formuló las leyes del movimiento y la ley de gravitación universal en los Principia."
+  },
+  {
+    "id": "cg-3610",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué rey de Francia, conocido como el Rey Sol, trasladó la corte a Versalles?",
+    "options": [
+      "Luis XV",
+      "Luis XIV",
+      "Francisco I",
+      "Enrique IV"
+    ],
+    "correctIndex": 1,
+    "explanation": "Luis XIV gobernó de 1643 a 1715 e hizo de Versalles el centro de la vida cortesana."
+  },
+  {
+    "id": "cg-3611",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué fortaleza de París fue tomada por la multitud el 14 de julio de 1789?",
+    "options": [
+      "El Louvre",
+      "La Conciergerie",
+      "La Bastilla",
+      "El Palacio Real"
+    ],
+    "correctIndex": 2,
+    "explanation": "La toma de la Bastilla marcó el inicio simbólico de la Revolución Francesa."
+  },
+  {
+    "id": "cg-3612",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué general francés se proclamó emperador en 1804?",
+    "options": [
+      "Luis XVIII",
+      "Lafayette",
+      "Robespierre",
+      "Napoleón Bonaparte"
+    ],
+    "correctIndex": 3,
+    "explanation": "Napoleón fue coronado emperador de los franceses el 2 de diciembre de 1804."
+  },
+  {
+    "id": "cg-3613",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué isla murió Napoleón Bonaparte en 1821?",
+    "options": [
+      "Santa Elena",
+      "Elba",
+      "Córcega",
+      "Malta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Napoleón permaneció prisionero de los británicos en Santa Elena hasta su muerte."
+  },
+  {
+    "id": "cg-3614",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué documento aprobó el Congreso Continental estadounidense en julio de 1776?",
+    "options": [
+      "La Constitución federal",
+      "La Declaración de Independencia",
+      "La Carta de Derechos",
+      "El Tratado de París"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Declaración de Independencia proclamó la separación de las Trece Colonias de Gran Bretaña."
+  },
+  {
+    "id": "cg-3615",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué libertador venezolano impulsó la creación de la Gran Colombia en 1819?",
+    "options": [
+      "José de San Martín",
+      "Antonio José de Sucre",
+      "Simón Bolívar",
+      "Francisco de Miranda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bolívar promovió la unión de Venezuela, Nueva Granada y Ecuador en la Gran Colombia."
+  },
+  {
+    "id": "cg-3616",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué militar argentino cruzó la cordillera de los Andes en 1817 para liberar Chile?",
+    "options": [
+      "Manuel Belgrano",
+      "Bernardo O'Higgins",
+      "José Artigas",
+      "José de San Martín"
+    ],
+    "correctIndex": 3,
+    "explanation": "San Martín organizó el Ejército de los Andes y venció en Chacabuco y Maipú."
+  },
+  {
+    "id": "cg-3617",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué fuente de energía impulsó principalmente la industrialización británica del siglo XVIII?",
+    "options": [
+      "El carbón",
+      "El petróleo",
+      "La electricidad",
+      "El gas natural"
+    ],
+    "correctIndex": 0,
+    "explanation": "El carbón alimentó las máquinas de vapor y la siderurgia."
+  },
+  {
+    "id": "cg-3618",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué ingeniero escocés mejoró de forma decisiva la máquina de vapor en el siglo XVIII?",
+    "options": [
+      "Thomas Newcomen",
+      "James Watt",
+      "Richard Arkwright",
+      "George Stephenson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Watt añadió un condensador separado que aumentó enormemente la eficiencia de la máquina de vapor."
+  },
+  {
+    "id": "cg-3619",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año se rindió el general confederado Robert E. Lee en Appomattox?",
+    "options": [
+      "1863",
+      "1864",
+      "1865",
+      "1866"
+    ],
+    "correctIndex": 2,
+    "explanation": "La rendición en Appomattox Court House, en abril de 1865, precipitó el fin de la Guerra Civil."
+  },
+  {
+    "id": "cg-3620",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año se firmó el armisticio que puso fin a los combates de la Gran Guerra?",
+    "options": [
+      "1917",
+      "1919",
+      "1920",
+      "1918"
+    ],
+    "correctIndex": 3,
+    "explanation": "El armisticio entró en vigor el 11 de noviembre de 1918."
+  },
+  {
+    "id": "cg-3621",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué líder bolchevique encabezó la Revolución Rusa de octubre de 1917?",
+    "options": [
+      "Vladímir Lenin",
+      "León Trotski",
+      "Iósif Stalin",
+      "Aleksandr Kérenski"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lenin dirigió al partido bolchevique en la toma del poder de octubre de 1917."
+  },
+  {
+    "id": "cg-3622",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué país fue invadido por Alemania el 1 de septiembre de 1939?",
+    "options": [
+      "Checoslovaquia",
+      "Polonia",
+      "Francia",
+      "Bélgica"
+    ],
+    "correctIndex": 1,
+    "explanation": "La invasión de Polonia llevó a Gran Bretaña y Francia a declarar la guerra a Alemania."
+  },
+  {
+    "id": "cg-3623",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué base naval estadounidense de Hawái fue atacada por Japón el 7 de diciembre de 1941?",
+    "options": [
+      "Midway",
+      "Guam",
+      "Pearl Harbor",
+      "Wake"
+    ],
+    "correctIndex": 2,
+    "explanation": "El ataque a Pearl Harbor provocó la entrada de Estados Unidos en la Segunda Guerra Mundial."
+  },
+  {
+    "id": "cg-3624",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué región francesa desembarcaron las fuerzas aliadas el 6 de junio de 1944?",
+    "options": [
+      "Bretaña",
+      "Provenza",
+      "Alsacia",
+      "Normandía"
+    ],
+    "correctIndex": 3,
+    "explanation": "El desembarco de Normandía abrió un nuevo frente en Europa occidental."
+  },
+  {
+    "id": "cg-3625",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué programa estadounidense de 1948 financió la reconstrucción de Europa occidental?",
+    "options": [
+      "El Plan Marshall",
+      "El Plan Dawes",
+      "El New Deal",
+      "El Plan Schlieffen"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Plan Marshall buscó evitar la crisis económica y frenar la influencia comunista en Europa."
+  },
+  {
+    "id": "cg-3626",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué país europeo estuvo dividido en dos Estados, uno occidental y otro comunista, entre 1949 y 1990?",
+    "options": [
+      "Austria",
+      "Alemania",
+      "Corea",
+      "Vietnam"
+    ],
+    "correctIndex": 1,
+    "explanation": "La República Federal y la República Democrática Alemana se reunificaron en 1990."
+  },
+  {
+    "id": "cg-3627",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué tratado de 1529 fijó la frontera entre las zonas española y portuguesa en el océano Pacífico?",
+    "options": [
+      "El Tratado de Tordesillas",
+      "El Tratado de Alcáçovas",
+      "El Tratado de Zaragoza",
+      "El Tratado de Madrid"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zaragoza completó el reparto iniciado en Tordesillas al delimitar el extremo oriental."
+  },
+  {
+    "id": "cg-3628",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué conquistador español exploró el suroeste de Estados Unidos en busca de las Siete Ciudades de Oro?",
+    "options": [
+      "Hernando de Soto",
+      "Juan Ponce de León",
+      "Álvar Núñez Cabeza de Vaca",
+      "Francisco Vázquez de Coronado"
+    ],
+    "correctIndex": 3,
+    "explanation": "Coronado recorrió el actual suroeste estadounidense entre 1540 y 1542."
+  },
+  {
+    "id": "cg-3629",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué conquistador español derrotó al imperio mexica entre 1519 y 1521?",
+    "options": [
+      "Hernán Cortés",
+      "Francisco Pizarro",
+      "Diego de Almagro",
+      "Pedro de Alvarado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cortés tomó Tenochtitlan en 1521 con el apoyo de pueblos sometidos a los mexicas."
+  },
+  {
+    "id": "cg-3630",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué imperio andino fue conquistado por Francisco Pizarro a partir de 1532?",
+    "options": [
+      "El Imperio mexica",
+      "El Imperio inca",
+      "El Imperio maya",
+      "El Imperio chimú"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pizarro aprovechó la guerra civil inca para imponer el dominio español."
+  },
+  {
+    "id": "cg-3631",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué monarca reunió en su persona la Corona de España y el Sacro Imperio Romano Germánico entre 1519 y 1556?",
+    "options": [
+      "Felipe II",
+      "Fernando II",
+      "Carlos V",
+      "Maximiliano I"
+    ],
+    "correctIndex": 2,
+    "explanation": "Carlos V heredó los dominios de los Habsburgo y fue elegido emperador en 1519."
+  },
+  {
+    "id": "cg-3632",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué rey español ordenó enviar la Armada Invencible contra Inglaterra en 1588?",
+    "options": [
+      "Carlos V",
+      "Felipe III",
+      "Felipe IV",
+      "Felipe II"
+    ],
+    "correctIndex": 3,
+    "explanation": "Felipe II intentó invadir Inglaterra para restaurar el catolicismo y frenar el corso inglés."
+  },
+  {
+    "id": "cg-3633",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué edicto de 1598 concedió libertad de culto a los hugonotes franceses?",
+    "options": [
+      "El Edicto de Nantes",
+      "El Edicto de Worms",
+      "El Edicto de Milán",
+      "El Edicto de Restitución"
+    ],
+    "correctIndex": 0,
+    "explanation": "Enrique IV promulgó el Edicto de Nantes para pacificar las guerras de religión."
+  },
+  {
+    "id": "cg-3634",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué líder puritano gobernó Inglaterra como Lord Protector tras la Guerra Civil?",
+    "options": [
+      "Carlos I",
+      "Oliver Cromwell",
+      "Jacobo II",
+      "William Laud"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cromwell gobernó entre 1653 y 1658 tras la ejecución de Carlos I."
+  },
+  {
+    "id": "cg-3635",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué rey inglés fue depuesto en la Revolución Gloriosa de 1688?",
+    "options": [
+      "Carlos II",
+      "Enrique VIII",
+      "Jacobo II",
+      "Jorge I"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jacobo II fue reemplazado por Guillermo III y María II."
+  },
+  {
+    "id": "cg-3636",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué zar ruso fundó San Petersburgo en 1703?",
+    "options": [
+      "Iván el Terrible",
+      "Catalina la Grande",
+      "Alejandro I",
+      "Pedro el Grande"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pedro el Grande buscó abrir Rusia al Báltico y a Europa occidental."
+  },
+  {
+    "id": "cg-3637",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué rey prusiano, llamado el Grande, reinó entre 1740 y 1786?",
+    "options": [
+      "Federico II",
+      "Federico Guillermo I",
+      "Guillermo I",
+      "Otto von Bismarck"
+    ],
+    "correctIndex": 0,
+    "explanation": "Federico II convirtió Prusia en una potencia militar y territorial."
+  },
+  {
+    "id": "cg-3638",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo francés escribió El contrato social en 1762?",
+    "options": [
+      "Voltaire",
+      "Jean-Jacques Rousseau",
+      "Montesquieu",
+      "Denis Diderot"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rousseau defendió la soberanía popular y la voluntad general."
+  },
+  {
+    "id": "cg-3639",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué pensador francés defendió la separación de poderes en El espíritu de las leyes?",
+    "options": [
+      "Rousseau",
+      "Voltaire",
+      "Montesquieu",
+      "Thomas Hobbes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Montesquieu propuso dividir el poder en legislativo, ejecutivo y judicial."
+  },
+  {
+    "id": "cg-3640",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué ciudad se produjo el motín del té de 1773 contra los impuestos británicos?",
+    "options": [
+      "Nueva York",
+      "Filadelfia",
+      "Charleston",
+      "Boston"
+    ],
+    "correctIndex": 3,
+    "explanation": "Colonos disfrazados arrojaron cargamentos de té al puerto de Boston."
+  },
+  {
+    "id": "cg-3641",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué victoria estadounidense de 1777 convenció a Francia de apoyar la independencia?",
+    "options": [
+      "Saratoga",
+      "Yorktown",
+      "Trenton",
+      "Bunker Hill"
+    ],
+    "correctIndex": 0,
+    "explanation": "La rendición británica en Saratoga llevó a Francia a firmar una alianza con los colonos."
+  },
+  {
+    "id": "cg-3642",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué ciudad se reunió en 1787 la convención que redactó la Constitución de Estados Unidos?",
+    "options": [
+      "Boston",
+      "Filadelfia",
+      "Nueva York",
+      "Annapolis"
+    ],
+    "correctIndex": 1,
+    "explanation": "La convención de Filadelfia sustituyó los Artículos de la Confederación."
+  },
+  {
+    "id": "cg-3643",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué asamblea convocó Luis XVI en mayo de 1789 por primera vez desde 1614?",
+    "options": [
+      "La Asamblea Nacional",
+      "La Convención",
+      "Los Estados Generales",
+      "El Parlamento de París"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los Estados Generales reunían a clero, nobleza y tercer estado."
+  },
+  {
+    "id": "cg-3644",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué líder jacobino dominó el Comité de Salvación Pública durante el Terror?",
+    "options": [
+      "Georges Danton",
+      "Jean-Paul Marat",
+      "Lafayette",
+      "Maximilien Robespierre"
+    ],
+    "correctIndex": 3,
+    "explanation": "Robespierre fue ejecutado en julio de 1794 tras la caída de su facción."
+  },
+  {
+    "id": "cg-3645",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué escritora francesa publicó en 1791 la Declaración de los Derechos de la Mujer y de la Ciudadana?",
+    "options": [
+      "Olympe de Gouges",
+      "Mary Wollstonecraft",
+      "Madame de Staël",
+      "Simone de Beauvoir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Olympe de Gouges reclamó la igualdad jurídica y política de las mujeres."
+  },
+  {
+    "id": "cg-3646",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué batalla de 1824 se selló la independencia del Perú?",
+    "options": [
+      "Boyacá",
+      "Ayacucho",
+      "Carabobo",
+      "Junín"
+    ],
+    "correctIndex": 1,
+    "explanation": "La victoria de Sucre en Ayacucho terminó con el dominio español en el Perú."
+  },
+  {
+    "id": "cg-3647",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué militar mexicano proclamó el Plan de Iguala en 1821?",
+    "options": [
+      "Vicente Guerrero",
+      "Miguel Hidalgo",
+      "Agustín de Iturbide",
+      "Benito Juárez"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Plan de Iguala unió a insurgentes y realistas en favor de la independencia mexicana."
+  },
+  {
+    "id": "cg-3648",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué príncipe portugués proclamó la independencia de Brasil en 1822?",
+    "options": [
+      "Juan VI",
+      "Pedro II",
+      "José I",
+      "Pedro I"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pedro I se convirtió en emperador de Brasil tras romper con Lisboa."
+  },
+  {
+    "id": "cg-3649",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué presidente estadounidense anunció en 1823 la doctrina que rechazaba nuevas intervenciones europeas en América?",
+    "options": [
+      "James Monroe",
+      "John Quincy Adams",
+      "Thomas Jefferson",
+      "Andrew Jackson"
+    ],
+    "correctIndex": 0,
+    "explanation": "La doctrina Monroe advirtió contra la colonización europea en el hemisferio occidental."
+  },
+  {
+    "id": "cg-3650",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué país obtuvo su independencia del Imperio otomano con el Tratado de Londres de 1830?",
+    "options": [
+      "Serbia",
+      "Grecia",
+      "Bulgaria",
+      "Rumanía"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las potencias europeas reconocieron la independencia griega tras la guerra de 1821-1829."
+  },
+  {
+    "id": "cg-3651",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué ley británica de 1832 amplió el derecho al voto y reformó los distritos electorales?",
+    "options": [
+      "Las Leyes del Trigo",
+      "La Ley de Pobres",
+      "La Ley de Reforma de 1832",
+      "La Ley de Fábricas"
+    ],
+    "correctIndex": 2,
+    "explanation": "La reforma eliminó muchos distritos podridos y amplió el electorado urbano."
+  },
+  {
+    "id": "cg-3652",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué tratado de 1848 puso fin a la guerra entre México y Estados Unidos?",
+    "options": [
+      "El Tratado de Velasco",
+      "El Tratado de Adams-Onís",
+      "El Tratado de La Mesilla",
+      "El Tratado de Guadalupe Hidalgo"
+    ],
+    "correctIndex": 3,
+    "explanation": "México cedió vastos territorios del norte a cambio de una indemnización."
+  },
+  {
+    "id": "cg-3653",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Ante qué asamblea del Sacro Imperio se negó Martín Lutero a retractarse de sus tesis en 1521?",
+    "options": [
+      "La Dieta de Worms",
+      "La Dieta de Augsburgo",
+      "El Concilio de Trento",
+      "La Dieta de Espira"
+    ],
+    "correctIndex": 0,
+    "explanation": "En Worms, Lutero defendió su doctrina ante el emperador Carlos V."
+  },
+  {
+    "id": "cg-3654",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué paz de 1555 reconoció la existencia de territorios luteranos en el Sacro Imperio?",
+    "options": [
+      "La Paz de Westfalia",
+      "La Paz de Augsburgo",
+      "La Paz de Utrecht",
+      "La Paz de Cateau-Cambrésis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Augsburgo aplicó el principio de que cada príncipe fijara la religión de su territorio."
+  },
+  {
+    "id": "cg-3655",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿En qué batalla de 1526 el ejército otomano derrotó al reino de Hungría?",
+    "options": [
+      "Lepanto",
+      "Kosovo",
+      "Mohács",
+      "Nicópolis"
+    ],
+    "correctIndex": 2,
+    "explanation": "La derrota húngara en Mohács abrió paso a la ocupación otomana de gran parte de Hungría."
+  },
+  {
+    "id": "cg-3656",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué episodio de 1618 en Praga desencadenó la Guerra de los Treinta Años?",
+    "options": [
+      "La firma de la Paz de Augsburgo",
+      "La revuelta de los campesinos",
+      "El saqueo de Magdeburgo",
+      "La defenestración de funcionarios imperiales"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nobles protestantes arrojaron por una ventana a representantes del emperador."
+  },
+  {
+    "id": "cg-3657",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué tratado de 1713 reconoció a Felipe V como rey de España y cedió Gibraltar a Gran Bretaña?",
+    "options": [
+      "El Tratado de Utrecht",
+      "El Tratado de Rastatt",
+      "El Tratado de Aquisgrán",
+      "El Tratado de París"
+    ],
+    "correctIndex": 0,
+    "explanation": "Utrecht puso fin a la Guerra de Sucesión Española."
+  },
+  {
+    "id": "cg-3658",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 1757 consolidó el dominio británico en Bengala?",
+    "options": [
+      "Panipat",
+      "Plassey",
+      "Seringapatam",
+      "Buxar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Robert Clive venció al nawab de Bengala con apoyo de la Compañía de las Indias Orientales."
+  },
+  {
+    "id": "cg-3659",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué ley británica de 1765 gravó los documentos impresos en las colonias americanas?",
+    "options": [
+      "La Ley del Té",
+      "Las Leyes de Townshend",
+      "La Ley del Timbre",
+      "Las Leyes Intolerables"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Ley del Timbre exigió un sello fiscal en periódicos y documentos legales."
+  },
+  {
+    "id": "cg-3660",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿En qué lugar se rindió el ejército británico de Cornwallis en 1781?",
+    "options": [
+      "Saratoga",
+      "Charleston",
+      "Trenton",
+      "Yorktown"
+    ],
+    "correctIndex": 3,
+    "explanation": "La rendición de Yorktown puso fin a las operaciones principales de la guerra de independencia."
+  },
+  {
+    "id": "cg-3661",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué tratado de 1783 reconoció la independencia de Estados Unidos?",
+    "options": [
+      "El Tratado de París",
+      "El Tratado de Versalles",
+      "El Tratado de Gante",
+      "El Tratado de Utrecht"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gran Bretaña reconoció formalmente a Estados Unidos en el Tratado de París."
+  },
+  {
+    "id": "cg-3662",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 1792 detuvo la invasión prusiana contra la Francia revolucionaria?",
+    "options": [
+      "Jemappes",
+      "Valmy",
+      "Fleurus",
+      "Austerlitz"
+    ],
+    "correctIndex": 1,
+    "explanation": "El cañoneo de Valmy obligó a los prusianos a retroceder."
+  },
+  {
+    "id": "cg-3663",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué nombre adoptó la colonia francesa de Saint-Domingue al independizarse en 1804?",
+    "options": [
+      "Santo Domingo",
+      "Martinica",
+      "Haití",
+      "Guadalupe"
+    ],
+    "correctIndex": 2,
+    "explanation": "Haití fue la primera república negra surgida de una revolución de esclavizados."
+  },
+  {
+    "id": "cg-3664",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué potencia presidió el Congreso de Viena de 1815 mediante su canciller Metternich?",
+    "options": [
+      "Prusia",
+      "Rusia",
+      "Gran Bretaña",
+      "Austria"
+    ],
+    "correctIndex": 3,
+    "explanation": "Metternich convirtió a Austria en el eje del orden restauracionista europeo."
+  },
+  {
+    "id": "cg-3665",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 1819 aseguró la independencia de Nueva Granada?",
+    "options": [
+      "Boyacá",
+      "Carabobo",
+      "Pichincha",
+      "Ayacucho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bolívar cruzó los Andes y venció en Boyacá, entrando luego en Bogotá."
+  },
+  {
+    "id": "cg-3666",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué flota envió España contra Inglaterra en 1588 y fue derrotada en el canal de la Mancha?",
+    "options": [
+      "La Flota de Indias",
+      "La Armada Invencible",
+      "La Armada de Flandes",
+      "La Escuadra del Atlántico"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Armada Invencible sufrió graves pérdidas por el combate y las tormentas."
+  },
+  {
+    "id": "cg-3667",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué invención de mediados del siglo XV atribuida a Johannes Gutenberg revolucionó la difusión de textos en Europa?",
+    "options": [
+      "El telégrafo",
+      "La brújula",
+      "La imprenta de tipos móviles",
+      "El papel"
+    ],
+    "correctIndex": 2,
+    "explanation": "La imprenta permitió producir libros en serie y difundir ideas con rapidez."
+  },
+  {
+    "id": "cg-3668",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo inglés escribió Hamlet y Romeo y Julieta?",
+    "options": [
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "John Milton",
+      "William Shakespeare"
+    ],
+    "correctIndex": 3,
+    "explanation": "Shakespeare fue el autor teatral más influyente del Renacimiento inglés."
+  },
+  {
+    "id": "cg-3669",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué personaje acompaña a Don Quijote como su escudero en la novela de Cervantes?",
+    "options": [
+      "Sancho Panza",
+      "Rocinante",
+      "Dulcinea del Toboso",
+      "Grisóstomo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sancho Panza aporta el contrapunto realista a las fantasías de Don Quijote."
+  },
+  {
+    "id": "cg-3670",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué explorador español cruzó el istmo de Panamá y llegó al océano Pacífico en 1513?",
+    "options": [
+      "Hernán Cortés",
+      "Vasco Núñez de Balboa",
+      "Fernando de Magallanes",
+      "Francisco Pizarro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Balboa tomó posesión del mar del Sur en nombre de la Corona de Castilla."
+  },
+  {
+    "id": "cg-3671",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué reformador francés estableció su centro en Ginebra y defendió la predestinación?",
+    "options": [
+      "Martín Lutero",
+      "Ulrico Zuinglio",
+      "Juan Calvino",
+      "Enrique VIII"
+    ],
+    "correctIndex": 2,
+    "explanation": "Calvino organizó una iglesia reformada de gran influencia en Europa y América."
+  },
+  {
+    "id": "cg-3672",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué emperador mexica gobernaba Tenochtitlan cuando llegaron los españoles en 1519?",
+    "options": [
+      "Cuauhtémoc",
+      "Cuitláhuac",
+      "Axayácatl",
+      "Moctezuma II"
+    ],
+    "correctIndex": 3,
+    "explanation": "Moctezuma II recibió a Cortés y murió durante el conflicto."
+  },
+  {
+    "id": "cg-3673",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué conflicto devastó Europa central entre 1618 y 1648?",
+    "options": [
+      "La Guerra de los Treinta Años",
+      "La Guerra de los Cien Años",
+      "La Guerra de los Siete Años",
+      "La Guerra de Sucesión Española"
+    ],
+    "correctIndex": 0,
+    "explanation": "El conflicto mezcló rivalidades religiosas y dinásticas y terminó con la Paz de Westfalia."
+  },
+  {
+    "id": "cg-3674",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué rey francés fue ejecutado en la guillotina en enero de 1793?",
+    "options": [
+      "Luis XIV",
+      "Luis XVI",
+      "Luis XV",
+      "Carlos X"
+    ],
+    "correctIndex": 1,
+    "explanation": "Luis XVI fue juzgado por la Convención y ejecutado por traición."
+  },
+  {
+    "id": "cg-3675",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿A qué país invadió Napoleón en 1812 en una campaña que terminó en desastre?",
+    "options": [
+      "Prusia",
+      "Austria",
+      "Rusia",
+      "España"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Grande Armée sufrió enormes pérdidas por el frío, el hambre y la resistencia rusa."
+  },
+  {
+    "id": "cg-3676",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿A qué isla fue desterrado Napoleón en 1814 antes de regresar al poder?",
+    "options": [
+      "Santa Elena",
+      "Córcega",
+      "Malta",
+      "Elba"
+    ],
+    "correctIndex": 3,
+    "explanation": "Napoleón escapó de Elba en 1815 e inició el periodo de los Cien Días."
+  },
+  {
+    "id": "cg-3677",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año declaró Argentina su independencia del dominio español?",
+    "options": [
+      "1816",
+      "1810",
+      "1819",
+      "1824"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Congreso de Tucumán proclamó la independencia el 9 de julio de 1816."
+  },
+  {
+    "id": "cg-3678",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué misión de Texas fue sitiada y tomada por las tropas de Santa Anna en 1836?",
+    "options": [
+      "San Jacinto",
+      "El Álamo",
+      "Goliad",
+      "La Bahía"
+    ],
+    "correctIndex": 1,
+    "explanation": "La caída de El Álamo precedió a la victoria texana en San Jacinto."
+  },
+  {
+    "id": "cg-3679",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año comenzó la Guerra Civil estadounidense?",
+    "options": [
+      "1858",
+      "1863",
+      "1861",
+      "1865"
+    ],
+    "correctIndex": 2,
+    "explanation": "El ataque confederado a Fort Sumter en abril de 1861 inició el conflicto."
+  },
+  {
+    "id": "cg-3680",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué dos mares conecta el canal de Suez?",
+    "options": [
+      "El Mediterráneo y el mar Negro",
+      "El mar Rojo y el golfo Pérsico",
+      "El Atlántico y el Mediterráneo",
+      "El Mediterráneo y el mar Rojo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El canal atraviesa el istmo de Suez y evita rodear África."
+  },
+  {
+    "id": "cg-3681",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué canciller prusiano dirigió la unificación de Alemania en 1871?",
+    "options": [
+      "Otto von Bismarck",
+      "Guillermo II",
+      "Federico III",
+      "Klemens von Metternich"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bismarck combinó guerra y diplomacia para crear el Imperio alemán."
+  },
+  {
+    "id": "cg-3682",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué país africano fue invadido por la Italia fascista en 1935?",
+    "options": [
+      "Libia",
+      "Etiopía",
+      "Somalia",
+      "Eritrea"
+    ],
+    "correctIndex": 1,
+    "explanation": "La invasión italiana buscó vengar la derrota de Adwa y crear un imperio colonial."
+  },
+  {
+    "id": "cg-3683",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué océano atravesaba el Titanic cuando chocó con un iceberg en 1912?",
+    "options": [
+      "El Pacífico",
+      "El Índico",
+      "El Atlántico",
+      "El Ártico"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Titanic se hundió en el Atlántico norte durante su viaje inaugural."
+  },
+  {
+    "id": "cg-3684",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué archiduque austriaco fue asesinado en Sarajevo en 1914?",
+    "options": [
+      "Guillermo II",
+      "Nicolás II",
+      "Eduardo VII",
+      "Francisco Fernando"
+    ],
+    "correctIndex": 3,
+    "explanation": "El asesinato de Francisco Fernando fue el detonante de la crisis de julio de 1914."
+  },
+  {
+    "id": "cg-3685",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué organización internacional se creó en 1920 a partir de los tratados de paz que siguieron a la Gran Guerra?",
+    "options": [
+      "La Sociedad de Naciones",
+      "La Organización de las Naciones Unidas",
+      "La OTAN",
+      "La Unión Europea"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Sociedad de Naciones tuvo su sede en Ginebra y fracasó en evitar nuevos conflictos."
+  },
+  {
+    "id": "cg-3686",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año se produjo el crac de la bolsa de Nueva York que precedió a la Gran Depresión?",
+    "options": [
+      "1919",
+      "1929",
+      "1933",
+      "1937"
+    ],
+    "correctIndex": 1,
+    "explanation": "El desplome de Wall Street en octubre de 1929 desencadenó una crisis mundial."
+  },
+  {
+    "id": "cg-3687",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué programa de reformas económicas impulsó Franklin D. Roosevelt para enfrentar la Gran Depresión?",
+    "options": [
+      "El Plan Marshall",
+      "La Gran Sociedad",
+      "El New Deal",
+      "El Nuevo Horizonte"
+    ],
+    "correctIndex": 2,
+    "explanation": "El New Deal creó obras públicas, regulación financiera y seguridad social."
+  },
+  {
+    "id": "cg-3688",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año se independizó la India del Reino Unido?",
+    "options": [
+      "1945",
+      "1950",
+      "1962",
+      "1947"
+    ],
+    "correctIndex": 3,
+    "explanation": "La independencia vino acompañada de la partición entre India y Pakistán."
+  },
+  {
+    "id": "cg-3689",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año se proclamó el Estado de Israel?",
+    "options": [
+      "1948",
+      "1945",
+      "1956",
+      "1967"
+    ],
+    "correctIndex": 0,
+    "explanation": "La proclamación israelí ocurrió al terminar el mandato británico sobre Palestina."
+  },
+  {
+    "id": "cg-3690",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué misión espacial llevó a los primeros seres humanos a la Luna en 1969?",
+    "options": [
+      "Apolo 8",
+      "Apolo 11",
+      "Sputnik 1",
+      "Vostok 1"
+    ],
+    "correctIndex": 1,
+    "explanation": "Neil Armstrong y Buzz Aldrin caminaron sobre la Luna en julio de 1969."
+  },
+  {
+    "id": "cg-3691",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año asumió Nelson Mandela la presidencia de Sudáfrica?",
+    "options": [
+      "1990",
+      "1991",
+      "1994",
+      "1996"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mandela ganó las primeras elecciones sudafricanas con sufragio universal."
+  },
+  {
+    "id": "cg-3692",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué concilio reunido entre 1545 y 1563 respondió a la Reforma protestante?",
+    "options": [
+      "El Concilio Vaticano I",
+      "El Concilio de Nicea",
+      "El Concilio de Letrán",
+      "El Concilio de Trento"
+    ],
+    "correctIndex": 3,
+    "explanation": "Trento reafirmó la doctrina católica y reformó la disciplina del clero."
+  },
+  {
+    "id": "cg-3693",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué sacerdote continuó la lucha de independencia mexicana tras la muerte de Miguel Hidalgo?",
+    "options": [
+      "José María Morelos",
+      "Agustín de Iturbide",
+      "Vicente Guerrero",
+      "Guadalupe Victoria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Morelos organizó el Congreso de Chilpancingo en 1813."
+  },
+  {
+    "id": "cg-3694",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué patriota chileno asumió el gobierno tras la independencia de Chile en 1818?",
+    "options": [
+      "José Miguel Carrera",
+      "Bernardo O'Higgins",
+      "Manuel Rodríguez",
+      "Diego Portales"
+    ],
+    "correctIndex": 1,
+    "explanation": "O'Higgins fue director supremo de Chile entre 1818 y 1823."
+  },
+  {
+    "id": "cg-3695",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué batalla de 1836 el ejército texano derrotó a Santa Anna?",
+    "options": [
+      "El Álamo",
+      "Goliad",
+      "San Jacinto",
+      "Monterrey"
+    ],
+    "correctIndex": 2,
+    "explanation": "La victoria de San Jacinto aseguró la independencia de Texas."
+  },
+  {
+    "id": "cg-3696",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué descubrimiento de 1848 atrajo a miles de migrantes a California?",
+    "options": [
+      "Petróleo en Pennsylvania",
+      "Plata en Nevada",
+      "Cobre en Montana",
+      "Oro en Sutter's Mill"
+    ],
+    "correctIndex": 3,
+    "explanation": "La fiebre del oro aceleró la incorporación de California a Estados Unidos."
+  },
+  {
+    "id": "cg-3697",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué batalla de 1863 se detuvo la invasión confederada hacia el norte?",
+    "options": [
+      "Gettysburg",
+      "Antietam",
+      "Chancellorsville",
+      "Vicksburg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gettysburg fue la batalla más sangrienta de la Guerra Civil estadounidense."
+  },
+  {
+    "id": "cg-3698",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué patriota italiano lideró a los Camisas Rojas en la unificación del sur de Italia?",
+    "options": [
+      "Camillo Cavour",
+      "Giuseppe Garibaldi",
+      "Víctor Manuel II",
+      "Giuseppe Mazzini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Garibaldi conquistó el reino de las Dos Sicilias en 1860."
+  },
+  {
+    "id": "cg-3699",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué gobierno revolucionario controló París en 1871 tras la guerra franco-prusiana?",
+    "options": [
+      "El Directorio",
+      "La Convención",
+      "La Comuna de París",
+      "El Consulado"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Comuna fue reprimida por el ejército francés en la Semana Sangrienta."
+  },
+  {
+    "id": "cg-3700",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué emperador japonés impulsó desde 1868 una restauración que modernizó Japón?",
+    "options": [
+      "Taisho",
+      "Showa",
+      "Komei",
+      "Meiji"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Restauración Meiji industrializó Japón y fortaleció el poder imperial."
+  },
+  {
+    "id": "cg-3701",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué enmienda de la Constitución estadounidense reconoció el voto femenino en 1920?",
+    "options": [
+      "La Decimonovena",
+      "La Decimotercera",
+      "La Decimocuarta",
+      "La Decimoquinta"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Decimonovena enmienda prohibió negar el voto por razón de sexo."
+  },
+  {
+    "id": "cg-3702",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué acción de 1930 lideró Mahatma Gandhi contra el monopolio británico de la sal?",
+    "options": [
+      "La marcha sobre Roma",
+      "La marcha de la sal",
+      "La huelga de hambre de Dandi",
+      "El boicot de Calcuta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gandhi caminó hasta Dandi para producir sal y desafiar la ley colonial."
+  },
+  {
+    "id": "cg-3703",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué primer ministro británico aceptó la independencia de la India en 1947?",
+    "options": [
+      "Winston Churchill",
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "Anthony Eden"
+    ],
+    "correctIndex": 2,
+    "explanation": "El gobierno laborista de Attlee culminó el proceso de transferencia de poder."
+  },
+  {
+    "id": "cg-3704",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué dos Estados surgieron de la partición del subcontinente indio en 1947?",
+    "options": [
+      "India y Bangladés",
+      "Pakistán y Afganistán",
+      "India y Ceilán",
+      "India y Pakistán"
+    ],
+    "correctIndex": 3,
+    "explanation": "La partición provocó desplazamientos masivos y violencia comunal."
+  },
+  {
+    "id": "cg-3705",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué año se fundó la Organización del Tratado del Atlántico Norte?",
+    "options": [
+      "1949",
+      "1945",
+      "1955",
+      "1961"
+    ],
+    "correctIndex": 0,
+    "explanation": "La OTAN se creó como alianza militar defensiva del bloque occidental."
+  },
+  {
+    "id": "cg-3706",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Entre qué años se libró la Guerra de Corea?",
+    "options": [
+      "1948 y 1950",
+      "1950 y 1953",
+      "1953 y 1956",
+      "1960 y 1963"
+    ],
+    "correctIndex": 1,
+    "explanation": "El armisticio de Panmunjom de 1953 mantuvo la división de Corea."
+  },
+  {
+    "id": "cg-3707",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué año triunfó la Revolución Cubana encabezada por Fidel Castro?",
+    "options": [
+      "1956",
+      "1961",
+      "1959",
+      "1962"
+    ],
+    "correctIndex": 2,
+    "explanation": "El derrocamiento de Batista llevó a Castro al poder en enero de 1959."
+  },
+  {
+    "id": "cg-3708",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué crisis de 1962 enfrentó a Estados Unidos y la Unión Soviética por misiles nucleares en el Caribe?",
+    "options": [
+      "La crisis de Suez",
+      "La crisis de Berlín",
+      "La crisis de Hungría",
+      "La crisis de los misiles de Cuba"
+    ],
+    "correctIndex": 3,
+    "explanation": "El bloqueo naval estadounidense y la retirada soviética evitaron la guerra."
+  },
+  {
+    "id": "cg-3709",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué año comenzó la construcción del Muro de Berlín?",
+    "options": [
+      "1961",
+      "1953",
+      "1968",
+      "1971"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Muro dividió Berlín hasta su caída en 1989."
+  },
+  {
+    "id": "cg-3710",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué dirigente soviético denunció los crímenes de Stalin en el XX Congreso del Partido en 1956?",
+    "options": [
+      "Iósif Stalin",
+      "Nikita Jruschov",
+      "Leonid Brézhnev",
+      "Gueorgui Malenkov"
+    ],
+    "correctIndex": 1,
+    "explanation": "El discurso secreto de Jruschov inició la desestalinización de la Unión Soviética."
+  },
+  {
+    "id": "cg-3711",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué invasión de 1961 fracasó en su intento de derrocar a Fidel Castro?",
+    "options": [
+      "La invasión de Granada",
+      "La operación Tormenta del Desierto",
+      "La invasión de Bahía de Cochinos",
+      "El desembarco de Santiago de Cuba"
+    ],
+    "correctIndex": 2,
+    "explanation": "La fuerza apoyada por la CIA se rindió en menos de tres días."
+  },
+  {
+    "id": "cg-3712",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué guerra de 1967 enfrentó a Israel con Egipto, Siria y Jordania?",
+    "options": [
+      "La guerra de Yom Kipur",
+      "La guerra del Líbano",
+      "La guerra de Suez",
+      "La Guerra de los Seis Días"
+    ],
+    "correctIndex": 3,
+    "explanation": "Israel ocupó la península del Sinaí, Gaza y Cisjordania."
+  },
+  {
+    "id": "cg-3713",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué acuerdo de 1978 facilitó la paz entre Egipto e Israel?",
+    "options": [
+      "Los Acuerdos de Camp David",
+      "Los Acuerdos de Oslo",
+      "El Tratado de Versalles",
+      "La Conferencia de Bandung"
+    ],
+    "correctIndex": 0,
+    "explanation": "Camp David condujo al tratado de paz egipcio-israelí de 1979."
+  },
+  {
+    "id": "cg-3714",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué revolución de 1979 derrocó al sah de Irán?",
+    "options": [
+      "La Revolución de los Claveles",
+      "La Revolución Islámica",
+      "La Revolución Húngara",
+      "La Revolución Blanca"
+    ],
+    "correctIndex": 1,
+    "explanation": "El ayatolá Jomeiní instauró una república islámica."
+  },
+  {
+    "id": "cg-3715",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué sindicato polaco liderado por Lech Walesa desafió al régimen comunista en 1980?",
+    "options": [
+      "Carta 77",
+      "Primavera de Praga",
+      "Solidaridad",
+      "El Sindicato Libre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Solidaridad nació en los astilleros de Gdansk."
+  },
+  {
+    "id": "cg-3716",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué año se reunificó Alemania?",
+    "options": [
+      "1989",
+      "1991",
+      "1992",
+      "1990"
+    ],
+    "correctIndex": 3,
+    "explanation": "La reunificación se formalizó el 3 de octubre de 1990."
+  },
+  {
+    "id": "cg-3717",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué año se disolvió la Unión Soviética?",
+    "options": [
+      "1991",
+      "1989",
+      "1990",
+      "1993"
+    ],
+    "correctIndex": 0,
+    "explanation": "La disolución se consumó en diciembre de 1991 con la creación de la CEI."
+  },
+  {
+    "id": "cg-3718",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué paz de 1559 puso fin a las guerras entre Francia y los Habsburgo?",
+    "options": [
+      "La Paz de Augsburgo",
+      "La Paz de Cateau-Cambrésis",
+      "La Paz de Westfalia",
+      "La Paz de los Pirineos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cateau-Cambrésis cerró el conflicto italiano entre Francia y España."
+  },
+  {
+    "id": "cg-3719",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué unión de 1579 sentó las bases de la independencia de las provincias del norte de los Países Bajos?",
+    "options": [
+      "La Unión de Arras",
+      "La Unión de Kalmar",
+      "La Unión de Utrecht",
+      "La Unión de Lublin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las provincias rebeldes coordinaron su lucha contra Felipe II."
+  },
+  {
+    "id": "cg-3720",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué edicto de 1685 revocó la tolerancia religiosa concedida a los hugonotes franceses?",
+    "options": [
+      "El Edicto de Nantes",
+      "El Edicto de Worms",
+      "El Edicto de Tolerancia",
+      "El Edicto de Fontainebleau"
+    ],
+    "correctIndex": 3,
+    "explanation": "Luis XIV revocó el Edicto de Nantes y provocó la emigración de muchos protestantes."
+  },
+  {
+    "id": "cg-3721",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué guerra librada entre 1756 y 1763 enfrentó a Gran Bretaña y Francia por el dominio colonial?",
+    "options": [
+      "La Guerra de los Siete Años",
+      "La Guerra de Sucesión Austriaca",
+      "La Guerra de Crimea",
+      "La Guerra de los Treinta Años"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Tratado de París de 1763 confirmó el predominio británico en América del Norte."
+  },
+  {
+    "id": "cg-3722",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué conjunto de leyes británicas de 1774 castigó a Massachusetts tras el motín del té?",
+    "options": [
+      "Las Leyes de Townshend",
+      "Las Leyes Intolerables",
+      "La Ley del Timbre",
+      "Las Leyes de Navegación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las leyes cerraron el puerto de Boston y limitaron el autogobierno colonial."
+  },
+  {
+    "id": "cg-3723",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué sentencia de 1803 estableció la revisión judicial en Estados Unidos?",
+    "options": [
+      "Dred Scott contra Sandford",
+      "Brown contra la Junta de Educación",
+      "Marbury contra Madison",
+      "Plessy contra Ferguson"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Corte Suprema, presidida por Marshall, afirmó que podía anular leyes inconstitucionales."
+  },
+  {
+    "id": "cg-3724",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 1821 aseguró la independencia de Venezuela?",
+    "options": [
+      "Boyacá",
+      "Pichincha",
+      "Ayacucho",
+      "Carabobo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bolívar venció en Carabobo a las fuerzas realistas de Miguel de la Torre."
+  },
+  {
+    "id": "cg-3725",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué revolución de 1830 derrocó en Francia a Carlos X?",
+    "options": [
+      "La Revolución de Julio",
+      "La Revolución de Febrero",
+      "La Comuna de París",
+      "La Revolución de 1848"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Revolución de Julio llevó al trono a Luis Felipe de Orleans."
+  },
+  {
+    "id": "cg-3726",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué tratado de 1842 puso fin a la guerra del Opio iniciada en 1839?",
+    "options": [
+      "El Tratado de Shimonoseki",
+      "El Tratado de Nankín",
+      "El Tratado de Tientsin",
+      "El Tratado de Pekín"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nankín cedió Hong Kong a Gran Bretaña y abrió varios puertos chinos."
+  },
+  {
+    "id": "cg-3727",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué ley de 1854 permitió a los colonos de dos nuevos territorios decidir sobre la esclavitud?",
+    "options": [
+      "El Compromiso de Misuri",
+      "El Compromiso de 1850",
+      "La Ley de Kansas-Nebraska",
+      "La Ley de Fugitivos"
+    ],
+    "correctIndex": 2,
+    "explanation": "La ley derogó el Compromiso de Misuri y agravó las tensiones seccionales."
+  },
+  {
+    "id": "cg-3728",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 1866 decidió la guerra entre Prusia y Austria?",
+    "options": [
+      "Sedán",
+      "Solferino",
+      "Metz",
+      "Königgrätz"
+    ],
+    "correctIndex": 3,
+    "explanation": "La victoria prusiana excluyó a Austria de la unificación alemana."
+  },
+  {
+    "id": "cg-3729",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué incidente colonial de 1898 enfrentó a Francia y Gran Bretaña en Sudán?",
+    "options": [
+      "El incidente de Fachoda",
+      "El incidente de Agadir",
+      "La crisis de Tánger",
+      "La guerra de los Bóeres"
+    ],
+    "correctIndex": 0,
+    "explanation": "La retirada francesa evitó la guerra y allanó la Entente Cordiale."
+  },
+  {
+    "id": "cg-3730",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 1916 simbolizó la guerra de desgaste entre Francia y Alemania?",
+    "options": [
+      "El Marne",
+      "Verdún",
+      "Ypres",
+      "Cambrai"
+    ],
+    "correctIndex": 1,
+    "explanation": "Verdún causó cientos de miles de bajas sin cambiar el frente."
+  },
+  {
+    "id": "cg-3731",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué país europeo se originó el movimiento renacentista del siglo XV?",
+    "options": [
+      "Francia",
+      "Alemania",
+      "Italia",
+      "Inglaterra"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Renacimiento surgió en ciudades italianas como Florencia, Venecia y Roma."
+  },
+  {
+    "id": "cg-3732",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué familia de banqueros florentinos fue mecenas de artistas como Botticelli y Miguel Ángel?",
+    "options": [
+      "Los Borgia",
+      "Los Sforza",
+      "Los Este",
+      "Los Médici"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los Médici financiaron buena parte del arte renacentista florentino."
+  },
+  {
+    "id": "cg-3733",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué humanista inglés escribió Utopía en 1516?",
+    "options": [
+      "Tomás Moro",
+      "Francis Bacon",
+      "Erasmo de Róterdam",
+      "John Locke"
+    ],
+    "correctIndex": 0,
+    "explanation": "Utopía describió una sociedad imaginaria organizada con justicia."
+  },
+  {
+    "id": "cg-3734",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué pensador florentino escribió El príncipe en 1513?",
+    "options": [
+      "Tomás Moro",
+      "Nicolás Maquiavelo",
+      "Erasmo",
+      "Dante Alighieri"
+    ],
+    "correctIndex": 1,
+    "explanation": "Maquiavelo analizó el poder político y la razón de Estado."
+  },
+  {
+    "id": "cg-3735",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué orden religiosa fundó Ignacio de Loyola en 1540?",
+    "options": [
+      "Los dominicos",
+      "Los franciscanos",
+      "La Compañía de Jesús",
+      "Los agustinos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los jesuitas se dedicaron a la educación y a las misiones."
+  },
+  {
+    "id": "cg-3736",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué matanza de hugonotes ocurrió en París en 1572?",
+    "options": [
+      "La Noche de los Cristales Rotos",
+      "La Semana Sangrienta",
+      "El Domingo Sangriento",
+      "La Noche de San Bartolomé"
+    ],
+    "correctIndex": 3,
+    "explanation": "La matanza agravó las guerras de religión francesas."
+  },
+  {
+    "id": "cg-3737",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué documento de 1689 limitó el poder de la monarquía inglesa?",
+    "options": [
+      "La Declaración de Derechos",
+      "La Carta Magna",
+      "El Acta de Unión",
+      "El Edicto de Nantes"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Declaración de Derechos consolidó la primacía del Parlamento."
+  },
+  {
+    "id": "cg-3738",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué emperatriz rusa reinó entre 1762 y 1796 y expandió los territorios del imperio?",
+    "options": [
+      "Isabel I",
+      "Catalina la Grande",
+      "María Teresa",
+      "Ana de Rusia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Catalina II impulsó reformas ilustradas y victorias contra el Imperio otomano."
+  },
+  {
+    "id": "cg-3739",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué país fue repartido entre Rusia, Prusia y Austria en 1772, 1793 y 1795?",
+    "options": [
+      "Hungría",
+      "Suecia",
+      "Polonia",
+      "Dinamarca"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los tres repartos borraron Polonia del mapa hasta 1918."
+  },
+  {
+    "id": "cg-3740",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué conjunto de enmiendas de 1791 garantizó derechos individuales en Estados Unidos?",
+    "options": [
+      "La Declaración de Independencia",
+      "Los Artículos de la Confederación",
+      "La Enmienda de Derechos",
+      "La Carta de Derechos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las diez primeras enmiendas protegieron libertades como la expresión y el juicio con jurado."
+  },
+  {
+    "id": "cg-3741",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año abolió la Convención la monarquía francesa y proclamó la república?",
+    "options": [
+      "1792",
+      "1789",
+      "1795",
+      "1804"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Convención abolió la monarquía y proclamó la república en septiembre de 1792."
+  },
+  {
+    "id": "cg-3742",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué golpe de Estado llevó a Napoleón al poder en 1799?",
+    "options": [
+      "El 9 de Termidor",
+      "El 18 de Brumario",
+      "El 14 de Julio",
+      "El 2 de Diciembre"
+    ],
+    "correctIndex": 1,
+    "explanation": "El golpe de Brumario terminó con el Directorio y creó el Consulado."
+  },
+  {
+    "id": "cg-3743",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué constitución española se promulgó en 1812 durante la guerra contra Napoleón?",
+    "options": [
+      "La Constitución de Bayona",
+      "El Estatuto Real",
+      "La Constitución de Cádiz",
+      "La Constitución de 1876"
+    ],
+    "correctIndex": 2,
+    "explanation": "La de Cádiz estableció la soberanía nacional y un régimen liberal."
+  },
+  {
+    "id": "cg-3744",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué país se independizó de los Países Bajos en 1830?",
+    "options": [
+      "Luxemburgo",
+      "Suiza",
+      "Noruega",
+      "Bélgica"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bélgica se separó tras una revolución inspirada en ideas liberales."
+  },
+  {
+    "id": "cg-3745",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año una ola de revoluciones liberales recorrió Europa?",
+    "options": [
+      "1848",
+      "1830",
+      "1815",
+      "1871"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las revoluciones de 1848 afectaron a Francia, Alemania, Italia y el Imperio austriaco."
+  },
+  {
+    "id": "cg-3746",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué guerra enfrentó a Rusia con el Imperio otomano, Gran Bretaña y Francia entre 1853 y 1856?",
+    "options": [
+      "La Guerra de los Siete Años",
+      "La Guerra de Crimea",
+      "La Guerra ruso-japonesa",
+      "La Guerra de los Balcanes"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Tratado de París de 1856 puso fin al conflicto."
+  },
+  {
+    "id": "cg-3747",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué enfermera británica organizó la atención de heridos durante la Guerra de Crimea?",
+    "options": [
+      "Clara Barton",
+      "Mary Seacole",
+      "Florence Nightingale",
+      "Edith Cavell"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nightingale profesionalizó la enfermería y mejoró la sanidad militar."
+  },
+  {
+    "id": "cg-3748",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué rebelión de 1857 enfrentó a tropas indias con el dominio británico?",
+    "options": [
+      "La rebelión de los bóxers",
+      "La revuelta de Taiping",
+      "La guerra de los Bóeres",
+      "La rebelión de los cipayos"
+    ],
+    "correctIndex": 3,
+    "explanation": "La revuelta llevó a la Corona británica a asumir el gobierno directo de la India."
+  },
+  {
+    "id": "cg-3749",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué partido indio se fundó en 1885 para reclamar mayor participación política?",
+    "options": [
+      "El Congreso Nacional Indio",
+      "La Liga Musulmana",
+      "El Partido del Congreso de Bengala",
+      "El Movimiento Swadeshi"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Congreso Nacional Indio se convirtió en el principal canal del nacionalismo indio."
+  },
+  {
+    "id": "cg-3750",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué conferencia de 1884 y 1885 repartió África entre las potencias europeas?",
+    "options": [
+      "El Congreso de Viena",
+      "La Conferencia de Berlín",
+      "La Conferencia de Yalta",
+      "La Conferencia de Potsdam"
+    ],
+    "correctIndex": 1,
+    "explanation": "La conferencia fijó reglas para la ocupación efectiva de territorios africanos."
+  },
+  {
+    "id": "cg-3751",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué guerra de 1904 y 1905 enfrentó a Rusia y Japón por el control de Manchuria y Corea?",
+    "options": [
+      "La Guerra de Crimea",
+      "La Guerra de los Bóeres",
+      "La Guerra ruso-japonesa",
+      "La Guerra del Opio"
+    ],
+    "correctIndex": 2,
+    "explanation": "La derrota rusa sorprendió a las potencias europeas."
+  },
+  {
+    "id": "cg-3752",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año comenzó la Revolución Mexicana?",
+    "options": [
+      "1900",
+      "1917",
+      "1920",
+      "1910"
+    ],
+    "correctIndex": 3,
+    "explanation": "El levantamiento contra Porfirio Díaz inició una década de conflicto."
+  },
+  {
+    "id": "cg-3753",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué revolución de 1911 puso fin al imperio Qing en China?",
+    "options": [
+      "La Revolución de Xinhai",
+      "La Revolución Cultural",
+      "La rebelión de los bóxers",
+      "La Revolución de 1949"
+    ],
+    "correctIndex": 0,
+    "explanation": "La revolución llevó a la fundación de la República de China."
+  },
+  {
+    "id": "cg-3754",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué líder fascista italiano marchó sobre Roma en 1922?",
+    "options": [
+      "Adolf Hitler",
+      "Benito Mussolini",
+      "Francisco Franco",
+      "Antonio Salazar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mussolini fue nombrado primer ministro tras la Marcha sobre Roma."
+  },
+  {
+    "id": "cg-3755",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año fue nombrado Adolf Hitler canciller de Alemania?",
+    "options": [
+      "1929",
+      "1935",
+      "1933",
+      "1939"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hitler llegó al poder en enero de 1933 y pronto instauró una dictadura."
+  },
+  {
+    "id": "cg-3756",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad japonesa fue destruida por una bomba atómica el 6 de agosto de 1945?",
+    "options": [
+      "Nagasaki",
+      "Tokio",
+      "Kobe",
+      "Hiroshima"
+    ],
+    "correctIndex": 3,
+    "explanation": "Estados Unidos lanzó la bomba sobre Hiroshima al final de la Segunda Guerra Mundial."
+  },
+  {
+    "id": "cg-3757",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué humanista neerlandés escribió Elogio de la locura en 1509?",
+    "options": [
+      "Erasmo de Róterdam",
+      "Tomás Moro",
+      "Nicolás Maquiavelo",
+      "Juan Luis Vives"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erasmo criticó con ironía los abusos de la Iglesia y de la sociedad."
+  },
+  {
+    "id": "cg-3758",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué exploradores dirigieron la expedición estadounidense que llegó al Pacífico en 1805?",
+    "options": [
+      "Pike y Frémont",
+      "Lewis y Clark",
+      "Boone y Crockett",
+      "Carson y Bridger"
+    ],
+    "correctIndex": 1,
+    "explanation": "La expedición recorrió el territorio de la compra de Luisiana hasta la costa del Pacífico."
+  },
+  {
+    "id": "cg-3759",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué guerra enfrentó a Estados Unidos con Gran Bretaña entre 1812 y 1815?",
+    "options": [
+      "La guerra de Independencia",
+      "La guerra de Secesión",
+      "La guerra de 1812",
+      "La guerra México-Estados Unidos"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Tratado de Gante restableció la situación anterior al conflicto."
+  },
+  {
+    "id": "cg-3760",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué alianza de 1815 unió a Rusia, Austria y Prusia en defensa del orden monárquico?",
+    "options": [
+      "La Triple Entente",
+      "La Triple Alianza",
+      "La Sociedad de Naciones",
+      "La Santa Alianza"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Santa Alianza fue impulsada por el zar Alejandro I."
+  },
+  {
+    "id": "cg-3761",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué texto de 1848 de Marx y Engels proclamó la lucha de clases y la revolución proletaria?",
+    "options": [
+      "El Manifiesto Comunista",
+      "El Capital",
+      "La Comuna de París",
+      "La Internacional"
+    ],
+    "correctIndex": 0,
+    "explanation": "El manifiesto se publicó en Londres poco antes de las revoluciones de 1848."
+  },
+  {
+    "id": "cg-3762",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué rey de Cerdeña se convirtió en el primer rey de Italia unificada en 1861?",
+    "options": [
+      "Humberto I",
+      "Víctor Manuel II",
+      "Carlos Alberto",
+      "Víctor Manuel III"
+    ],
+    "correctIndex": 1,
+    "explanation": "Víctor Manuel II reinó sobre un país unificado bajo la casa de Saboya."
+  },
+  {
+    "id": "cg-3763",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿A qué país compró Estados Unidos el territorio de Alaska en 1867?",
+    "options": [
+      "Canadá",
+      "México",
+      "Rusia",
+      "Gran Bretaña"
+    ],
+    "correctIndex": 2,
+    "explanation": "La compra fue impulsada por el secretario de Estado William Seward."
+  },
+  {
+    "id": "cg-3764",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué organización fundada en 1864 reunió a movimientos obreros de varios países?",
+    "options": [
+      "La Segunda Internacional",
+      "La Comuna de París",
+      "La Liga de los Comunistas",
+      "La Primera Internacional"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Asociación Internacional de Trabajadores tuvo sede en Londres."
+  },
+  {
+    "id": "cg-3765",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué alianza de 1873 unió a los emperadores de Alemania, Austria-Hungría y Rusia?",
+    "options": [
+      "La Liga de los Tres Emperadores",
+      "La Triple Entente",
+      "La Santa Alianza",
+      "El Pacto de Acero"
+    ],
+    "correctIndex": 0,
+    "explanation": "La liga intentó preservar el equilibrio conservador en Europa central."
+  },
+  {
+    "id": "cg-3766",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué congreso de 1878 revisó el mapa de los Balcanes tras la guerra ruso-turca?",
+    "options": [
+      "La Conferencia de Berlín",
+      "El Congreso de Berlín",
+      "El Congreso de Viena",
+      "La Conferencia de París"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bismarck presidió el congreso que redujo las ganancias rusas."
+  },
+  {
+    "id": "cg-3767",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué guerra de 1899 a 1902 enfrentó a Gran Bretaña con los colonos neerlandeses de Sudáfrica?",
+    "options": [
+      "La Guerra del Opio",
+      "La Guerra de Crimea",
+      "La Guerra de los Bóeres",
+      "La Guerra de Zulú"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los británicos impusieron campos de concentración y anexaron las repúblicas bóeres."
+  },
+  {
+    "id": "cg-3768",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué movimiento xenófobo chino se levantó contra las potencias extranjeras en 1900?",
+    "options": [
+      "La rebelión de los cipayos",
+      "La Revolución de Xinhai",
+      "El movimiento Taiping",
+      "La rebelión de los bóxers"
+    ],
+    "correctIndex": 3,
+    "explanation": "Una coalición internacional reprimió la rebelión y ocupó Pekín."
+  },
+  {
+    "id": "cg-3769",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué revolución de 1905 precedió a la caída del zarismo en Rusia?",
+    "options": [
+      "La Revolución de 1905",
+      "La Revolución de Febrero",
+      "La Revolución de Octubre",
+      "La Revolución de 1917"
+    ],
+    "correctIndex": 0,
+    "explanation": "La represión del Domingo Sangriento desató protestas y reformas limitadas."
+  },
+  {
+    "id": "cg-3770",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué levantamiento de 1916 en Dublín precedió a la independencia irlandesa?",
+    "options": [
+      "La Rebelión de los Bóeres",
+      "El Alzamiento de Pascua",
+      "El Domingo Sangriento",
+      "La Guerra Civil irlandesa"
+    ],
+    "correctIndex": 1,
+    "explanation": "El alzamiento fue reprimido, pero reforzó el apoyo al nacionalismo irlandés."
+  },
+  {
+    "id": "cg-3771",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué año se reconoció por primera vez el voto de las mujeres en el Reino Unido?",
+    "options": [
+      "1908",
+      "1928",
+      "1918",
+      "1945"
+    ],
+    "correctIndex": 2,
+    "explanation": "La ley de 1918 otorgó el voto a mujeres mayores de 30 años con ciertas condiciones."
+  },
+  {
+    "id": "cg-3772",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué fenómeno monetario extremo sufrió Alemania en 1923?",
+    "options": [
+      "La deflación",
+      "La dolarización",
+      "La devaluación fija",
+      "La hiperinflación"
+    ],
+    "correctIndex": 3,
+    "explanation": "El precio de bienes básicos se multiplicó por millones en pocos meses."
+  },
+  {
+    "id": "cg-3773",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué intento de golpe de Estado protagonizó Hitler en Múnich en 1923?",
+    "options": [
+      "El Putsch de la cervecería",
+      "La Marcha sobre Roma",
+      "El golpe de Kapp",
+      "La Noche de los Cuchillos Largos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El fracaso del putsch llevó a Hitler a buscar el poder por vía electoral."
+  },
+  {
+    "id": "cg-3774",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué incendio de 1933 sirvió de pretexto para suspender derechos en Alemania?",
+    "options": [
+      "El incendio de la Ópera",
+      "El incendio del Reichstag",
+      "El atentado de Sarajevo",
+      "La Noche de los Cristales Rotos"
+    ],
+    "correctIndex": 1,
+    "explanation": "El decreto posterior permitió detenciones políticas masivas."
+  },
+  {
+    "id": "cg-3775",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué leyes de 1935 privaron de derechos a los judíos alemanes?",
+    "options": [
+      "Las Leyes de Weimar",
+      "El Edicto de Potsdam",
+      "Las Leyes de Núremberg",
+      "Las Leyes de Restitución"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las leyes prohibieron matrimonios mixtos y excluyeron a los judíos de la ciudadanía."
+  },
+  {
+    "id": "cg-3776",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué acuerdo de 1938 permitió a Alemania anexar los Sudetes checoslovacos?",
+    "options": [
+      "El Pacto de Acero",
+      "El Pacto Molotov-Ribbentrop",
+      "El Tratado de Versalles",
+      "El Acuerdo de Múnich"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las potencias occidentales aceptaron la anexión para evitar la guerra."
+  },
+  {
+    "id": "cg-3777",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué pogromo de noviembre de 1938 destruyó sinagogas y comercios judíos en Alemania?",
+    "options": [
+      "La Noche de los Cristales Rotos",
+      "La Noche de San Bartolomé",
+      "La Semana Sangrienta",
+      "El Domingo Sangriento"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pogromo marcó una escalada de la persecución nazi."
+  },
+  {
+    "id": "cg-3778",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué batalla aérea de 1940 impidió la invasión alemana de Gran Bretaña?",
+    "options": [
+      "La Batalla de Stalingrado",
+      "La Batalla de Inglaterra",
+      "La Batalla de Midway",
+      "La Batalla del Atlántico"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Royal Air Force resistió los ataques de la Luftwaffe."
+  },
+  {
+    "id": "cg-3779",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué operación de 1941 inició la invasión alemana de la Unión Soviética?",
+    "options": [
+      "La Operación Overlord",
+      "La Operación Torch",
+      "La Operación Barbarroja",
+      "La Operación Market Garden"
+    ],
+    "correctIndex": 2,
+    "explanation": "La invasión abrió el frente oriental, el más mortífero de la guerra."
+  },
+  {
+    "id": "cg-3780",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué batalla de 1942 y 1943 terminó con la rendición del VI Ejército alemán?",
+    "options": [
+      "Kursk",
+      "Moscú",
+      "Berlín",
+      "Stalingrado"
+    ],
+    "correctIndex": 3,
+    "explanation": "La derrota alemana en Stalingrado marcó un punto de inflexión en el frente oriental."
+  },
+  {
+    "id": "cg-3781",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué batalla naval de 1942 frenó la expansión japonesa en el Pacífico?",
+    "options": [
+      "Midway",
+      "Pearl Harbor",
+      "Leyte",
+      "Okinawa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Estados Unidos hundió cuatro portaaviones japoneses en Midway."
+  },
+  {
+    "id": "cg-3782",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué conferencia de febrero de 1945 reunió a Roosevelt, Churchill y Stalin?",
+    "options": [
+      "La Conferencia de Potsdam",
+      "La Conferencia de Yalta",
+      "La Conferencia de Teherán",
+      "La Conferencia de Casablanca"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yalta acordó la ocupación de Alemania en zonas y avanzó la creación de la ONU."
+  },
+  {
+    "id": "cg-3783",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿En qué batalla de 1525 fue capturado el rey francés Francisco I?",
+    "options": [
+      "Marignano",
+      "Bicoca",
+      "Pavía",
+      "Cerisoles"
+    ],
+    "correctIndex": 2,
+    "explanation": "La victoria imperial en Pavía permitió a Carlos V dominar Italia."
+  },
+  {
+    "id": "cg-3784",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué ciudad fue sitiada por los otomanos en 1683 y liberada por una coalición cristiana?",
+    "options": [
+      "Budapest",
+      "Belgrado",
+      "Venecia",
+      "Viena"
+    ],
+    "correctIndex": 3,
+    "explanation": "La derrota otomana marcó el inicio de su retroceso en Europa central."
+  },
+  {
+    "id": "cg-3785",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 1704 supuso una gran victoria del duque de Marlborough sobre Francia?",
+    "options": [
+      "Blenheim",
+      "Malplaquet",
+      "Ramillies",
+      "Oudenarde"
+    ],
+    "correctIndex": 0,
+    "explanation": "La victoria salvó Viena y debilitó a Luis XIV."
+  },
+  {
+    "id": "cg-3786",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué tratado de 1748 puso fin a la Guerra de Sucesión Austriaca?",
+    "options": [
+      "El Tratado de Utrecht",
+      "El Tratado de Aquisgrán",
+      "El Tratado de París",
+      "El Tratado de Hubertusburgo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El tratado confirmó la posesión prusiana de Silesia."
+  },
+  {
+    "id": "cg-3787",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué victoria francesa de 1794 permitió ocupar los Países Bajos austriacos?",
+    "options": [
+      "Valmy",
+      "Jemappes",
+      "Fleurus",
+      "Wattignies"
+    ],
+    "correctIndex": 2,
+    "explanation": "La victoria abrió el camino a la anexión francesa de Bélgica."
+  },
+  {
+    "id": "cg-3788",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué tratado de 1797 puso fin a la guerra entre Francia y Austria en Italia?",
+    "options": [
+      "El Tratado de Lunéville",
+      "La Paz de Amiens",
+      "El Tratado de Pressburgo",
+      "El Tratado de Campo Formio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Napoleón intercambió Venecia por el reconocimiento de sus conquistas."
+  },
+  {
+    "id": "cg-3789",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué batalla naval de 1805 destruyó la flota franco-española?",
+    "options": [
+      "Trafalgar",
+      "Austerlitz",
+      "Abukir",
+      "Copenhague"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelson murió durante la victoria británica en Trafalgar."
+  },
+  {
+    "id": "cg-3790",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué victoria de 1805 es considerada una de las grandes hazañas militares de Napoleón?",
+    "options": [
+      "Jena",
+      "Austerlitz",
+      "Eylau",
+      "Wagram"
+    ],
+    "correctIndex": 1,
+    "explanation": "Austerlitz llevó a la disolución del Sacro Imperio Romano Germánico."
+  },
+  {
+    "id": "cg-3791",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué tratados de 1807 reorganizaron Europa tras la derrota de Prusia y Rusia?",
+    "options": [
+      "Los Tratados de Westfalia",
+      "El Tratado de Campo Formio",
+      "Los Tratados de Tilsit",
+      "El Congreso de Viena"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tilsit creó el Gran Ducado de Varsovia y redujo Prusia."
+  },
+  {
+    "id": "cg-3792",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 1813 fue conocida como la batalla de las Naciones?",
+    "options": [
+      "Dresde",
+      "Bautzen",
+      "Lützen",
+      "Leipzig"
+    ],
+    "correctIndex": 3,
+    "explanation": "La derrota en Leipzig obligó a Napoleón a retirarse de Alemania."
+  },
+  {
+    "id": "cg-3793",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué batalla naval de 1827 permitió la independencia griega?",
+    "options": [
+      "Navarino",
+      "Lepanto",
+      "Trafalgar",
+      "Salamina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las flotas británica, francesa y rusa destruyeron la escuadra otomana-egipcia."
+  },
+  {
+    "id": "cg-3794",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué conflicto de 1839 a 1842 enfrentó a China con Gran Bretaña por el comercio de opio?",
+    "options": [
+      "La segunda guerra del Opio",
+      "La primera guerra del Opio",
+      "La rebelión de los bóxers",
+      "La guerra sino-japonesa"
+    ],
+    "correctIndex": 1,
+    "explanation": "La derrota china llevó al Tratado de Nankín."
+  },
+  {
+    "id": "cg-3795",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 1859 enfrentó a Francia y Cerdeña con Austria en Italia?",
+    "options": [
+      "Magenta",
+      "Custoza",
+      "Solferino",
+      "Novara"
+    ],
+    "correctIndex": 2,
+    "explanation": "La sangría de Solferino inspiró la fundación de la Cruz Roja."
+  },
+  {
+    "id": "cg-3796",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué navegante portugués llegó a las costas de Brasil en 1500?",
+    "options": [
+      "Vasco da Gama",
+      "Bartolomé Díaz",
+      "Américo Vespucio",
+      "Pedro Álvares Cabral"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cabral tomó posesión de Brasil para la Corona portuguesa."
+  },
+  {
+    "id": "cg-3797",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué explorador italiano dio nombre al continente americano?",
+    "options": [
+      "Américo Vespucio",
+      "Cristóbal Colón",
+      "Fernando de Magallanes",
+      "Juan de la Cosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cartógrafos usaron el nombre América a partir de sus escritos."
+  },
+  {
+    "id": "cg-3798",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué marino inglés completó una vuelta al mundo entre 1577 y 1580?",
+    "options": [
+      "Walter Raleigh",
+      "Francis Drake",
+      "John Hawkins",
+      "James Cook"
+    ],
+    "correctIndex": 1,
+    "explanation": "Drake fue el segundo navegante en completar la circunnavegación."
+  },
+  {
+    "id": "cg-3799",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué asentamiento inglés se fundó en Virginia en 1607?",
+    "options": [
+      "Plymouth",
+      "Roanoke",
+      "Jamestown",
+      "Boston"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jamestown fue la primera colonia inglesa permanente en América del Norte."
+  },
+  {
+    "id": "cg-3800",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué barco llevó a los peregrinos a Nueva Inglaterra en 1620?",
+    "options": [
+      "Santa María",
+      "Golden Hind",
+      "Beagle",
+      "Mayflower"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los peregrinos fundaron Plymouth tras cruzar el Atlántico en el Mayflower."
+  },
+  {
+    "id": "cg-3801",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué general se convirtió en el primer presidente de Estados Unidos en 1789?",
+    "options": [
+      "George Washington",
+      "Thomas Jefferson",
+      "John Adams",
+      "Benjamin Franklin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Washington fue elegido por unanimidad por el colegio electoral."
+  },
+  {
+    "id": "cg-3802",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué declaración aprobó la Asamblea Nacional francesa en agosto de 1789?",
+    "options": [
+      "La Declaración de Independencia",
+      "La Declaración de los Derechos del Hombre y del Ciudadano",
+      "La Carta de Derechos",
+      "La Constitución de 1791"
+    ],
+    "correctIndex": 1,
+    "explanation": "La declaración proclamó la libertad, la igualdad jurídica y la soberanía nacional."
+  },
+  {
+    "id": "cg-3803",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué reina de Francia fue ejecutada en octubre de 1793?",
+    "options": [
+      "Catalina de Médici",
+      "Ana de Austria",
+      "María Antonieta",
+      "Juana de Arco"
+    ],
+    "correctIndex": 2,
+    "explanation": "María Antonieta, esposa de Luis XVI, fue guillotinada durante el Terror."
+  },
+  {
+    "id": "cg-3804",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año se consumó la independencia de México?",
+    "options": [
+      "1810",
+      "1815",
+      "1824",
+      "1821"
+    ],
+    "correctIndex": 3,
+    "explanation": "La entrada del Ejército Trigarante en Ciudad de México selló la independencia."
+  },
+  {
+    "id": "cg-3805",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año proclamó José de San Martín la independencia del Perú?",
+    "options": [
+      "1821",
+      "1818",
+      "1824",
+      "1810"
+    ],
+    "correctIndex": 0,
+    "explanation": "San Martín proclamó la independencia en Lima el 28 de julio de 1821."
+  },
+  {
+    "id": "cg-3806",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué país se independizó en 1828 tras la guerra entre Argentina y Brasil?",
+    "options": [
+      "Paraguay",
+      "Uruguay",
+      "Bolivia",
+      "Ecuador"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Convención Preliminar de Paz creó el Estado Oriental del Uruguay."
+  },
+  {
+    "id": "cg-3807",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año se anexó Texas a Estados Unidos?",
+    "options": [
+      "1836",
+      "1848",
+      "1845",
+      "1850"
+    ],
+    "correctIndex": 2,
+    "explanation": "La anexión texana precipitó la guerra con México."
+  },
+  {
+    "id": "cg-3808",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué proclamación de 1863 declaró libres a los esclavos en los estados confederados?",
+    "options": [
+      "La Decimotercera Enmienda",
+      "La Carta de Derechos",
+      "El Compromiso de Misuri",
+      "La Proclamación de Emancipación"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lincoln firmó la proclamación como medida de guerra."
+  },
+  {
+    "id": "cg-3809",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué general estadounidense murió en la batalla de Little Bighorn en 1876?",
+    "options": [
+      "George Custer",
+      "Ulysses Grant",
+      "Philip Sheridan",
+      "William Sherman"
+    ],
+    "correctIndex": 0,
+    "explanation": "Custer y su regimiento fueron aniquilados por siux y cheyenes."
+  },
+  {
+    "id": "cg-3810",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué masacre de 1890 puso fin a las guerras indias en las Grandes Llanuras?",
+    "options": [
+      "Little Bighorn",
+      "Wounded Knee",
+      "Sand Creek",
+      "Pine Ridge"
+    ],
+    "correctIndex": 1,
+    "explanation": "La masacre de Wounded Knee dejó cientos de siux muertos."
+  },
+  {
+    "id": "cg-3811",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año se independizó Panamá de Colombia?",
+    "options": [
+      "1898",
+      "1914",
+      "1903",
+      "1921"
+    ],
+    "correctIndex": 2,
+    "explanation": "Panamá se separó con apoyo estadounidense para construir el canal."
+  },
+  {
+    "id": "cg-3812",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué país construyó el canal de Panamá antes de transferir su control a Panamá?",
+    "options": [
+      "Francia",
+      "Gran Bretaña",
+      "Colombia",
+      "Estados Unidos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Estados Unidos retomó la obra tras el fracaso francés y la inauguró en 1914."
+  },
+  {
+    "id": "cg-3813",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué transatlántico británico fue hundido por un submarino alemán en 1915?",
+    "options": [
+      "Lusitania",
+      "Titanic",
+      "Britannic",
+      "Mauretania"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hundimiento causó víctimas estadounidenses y tensó las relaciones con Alemania."
+  },
+  {
+    "id": "cg-3814",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año entró Estados Unidos en la guerra europea iniciada en 1914?",
+    "options": [
+      "1915",
+      "1917",
+      "1916",
+      "1918"
+    ],
+    "correctIndex": 1,
+    "explanation": "La guerra submarina y el telegrama Zimmermann impulsaron la entrada estadounidense."
+  },
+  {
+    "id": "cg-3815",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué líder fundó la República de Turquía en 1923?",
+    "options": [
+      "Mehmed VI",
+      "Enver Pasha",
+      "Mustafá Kemal Atatürk",
+      "Ismet Inönü"
+    ],
+    "correctIndex": 2,
+    "explanation": "Atatürk impulsó reformas laicas y nacionalistas."
+  },
+  {
+    "id": "cg-3816",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué dirigente soviético consolidó su poder tras la muerte de Lenin en 1924?",
+    "options": [
+      "León Trotski",
+      "Nikita Jruschov",
+      "Grigori Zinóviev",
+      "Iósif Stalin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Stalin se impuso sobre sus rivales en la lucha por la sucesión."
+  },
+  {
+    "id": "cg-3817",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿En qué año se proclamó la Segunda República Española?",
+    "options": [
+      "1931",
+      "1923",
+      "1936",
+      "1939"
+    ],
+    "correctIndex": 0,
+    "explanation": "La república se proclamó tras la victoria republicana en las elecciones municipales."
+  },
+  {
+    "id": "cg-3818",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Entre qué años se libró la Guerra Civil Española?",
+    "options": [
+      "1931 y 1936",
+      "1936 y 1939",
+      "1939 y 1945",
+      "1923 y 1930"
+    ],
+    "correctIndex": 1,
+    "explanation": "El conflicto terminó con la victoria de Franco en 1939."
+  },
+  {
+    "id": "cg-3819",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad vasca fue bombardeada en 1937 durante la Guerra Civil Española?",
+    "options": [
+      "Bilbao",
+      "San Sebastián",
+      "Guernica",
+      "Madrid"
+    ],
+    "correctIndex": 2,
+    "explanation": "El bombardeo inspiró el famoso cuadro de Picasso."
+  },
+  {
+    "id": "cg-3820",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué joven escribió un diario durante su ocultamiento en Ámsterdam bajo la ocupación nazi?",
+    "options": [
+      "Etty Hillesum",
+      "Ruth Maier",
+      "Hanneli Goslar",
+      "Ana Frank"
+    ],
+    "correctIndex": 3,
+    "explanation": "El diario de Ana Frank se publicó después de su muerte en Bergen-Belsen."
+  },
+  {
+    "id": "cg-3821",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "easy",
+    "question": "¿Qué campo de concentración y exterminio fue liberado por el ejército soviético en enero de 1945?",
+    "options": [
+      "Auschwitz",
+      "Dachau",
+      "Buchenwald",
+      "Treblinka"
+    ],
+    "correctIndex": 0,
+    "explanation": "Auschwitz-Birkenau se convirtió en símbolo del Holocausto."
+  },
+  {
+    "id": "cg-3822",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué derrota francesa de 1954 puso fin a su dominio colonial en Indochina?",
+    "options": [
+      "Cao Bang",
+      "Dien Bien Phu",
+      "Na San",
+      "Hanoi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La derrota llevó a los Acuerdos de Ginebra y a la división de Vietnam."
+  },
+  {
+    "id": "cg-3823",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué país africano liderado por Kwame Nkrumah se independizó del Reino Unido en 1957?",
+    "options": [
+      "Nigeria",
+      "Kenia",
+      "Ghana",
+      "Tanganica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ghana se convirtió en un referente de la descolonización africana."
+  },
+  {
+    "id": "cg-3824",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué año se independizó el Congo de Bélgica?",
+    "options": [
+      "1958",
+      "1962",
+      "1965",
+      "1960"
+    ],
+    "correctIndex": 3,
+    "explanation": "Patrice Lumumba se convirtió en el primer jefe de gobierno."
+  },
+  {
+    "id": "cg-3825",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué año se independizó Nigeria del Reino Unido?",
+    "options": [
+      "1960",
+      "1957",
+      "1963",
+      "1966"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nigeria se independizó dentro de la Commonwealth."
+  },
+  {
+    "id": "cg-3826",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué líder dirigió la independencia de Kenia en 1963?",
+    "options": [
+      "Kwame Nkrumah",
+      "Jomo Kenyatta",
+      "Julius Nyerere",
+      "Patrice Lumumba"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kenyatta fue el primer presidente de Kenia."
+  },
+  {
+    "id": "cg-3827",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué masacre de 1960 en Sudáfrica desató protestas contra el apartheid?",
+    "options": [
+      "La masacre de Soweto",
+      "El Domingo Sangriento",
+      "La masacre de Sharpeville",
+      "La masacre de Marikana"
+    ],
+    "correctIndex": 2,
+    "explanation": "La policía disparó contra manifestantes que protestaban por las leyes de pases."
+  },
+  {
+    "id": "cg-3828",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué levantamiento de 1976 en Sudáfrica protestó contra la educación en afrikáans?",
+    "options": [
+      "La masacre de Sharpeville",
+      "La Rebelión de los Bóeres",
+      "El boicot de Durban",
+      "El levantamiento de Soweto"
+    ],
+    "correctIndex": 3,
+    "explanation": "La represión dejó cientos de muertos y radicalizó la lucha antiapartheid."
+  },
+  {
+    "id": "cg-3829",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué año se independizó Argelia de Francia?",
+    "options": [
+      "1962",
+      "1958",
+      "1960",
+      "1965"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los Acuerdos de Evian pusieron fin a la guerra de independencia."
+  },
+  {
+    "id": "cg-3830",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué crisis de 1956 enfrentó a Egipto con Gran Bretaña, Francia e Israel?",
+    "options": [
+      "La crisis de los misiles",
+      "La crisis de Suez",
+      "La crisis de Berlín",
+      "La guerra de Yom Kipur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nasser nacionalizó el canal y las potencias intervinieron militarmente."
+  },
+  {
+    "id": "cg-3831",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué acuerdo de 1954 dividió Vietnam en dos zonas tras la retirada francesa?",
+    "options": [
+      "Los Acuerdos de París",
+      "El Tratado de Saigón",
+      "Los Acuerdos de Ginebra",
+      "La Conferencia de Bandung"
+    ],
+    "correctIndex": 2,
+    "explanation": "La división se estableció en el paralelo 17."
+  },
+  {
+    "id": "cg-3832",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué país se independizó de Pakistán en 1971?",
+    "options": [
+      "Sri Lanka",
+      "Nepal",
+      "Birmania",
+      "Bangladés"
+    ],
+    "correctIndex": 3,
+    "explanation": "La guerra de liberación contó con apoyo indio."
+  },
+  {
+    "id": "cg-3833",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué golpe de Estado de 1973 derrocó al presidente Salvador Allende?",
+    "options": [
+      "El golpe encabezado por Augusto Pinochet",
+      "La revolución sandinista",
+      "El golpe de Estado de 1964",
+      "La Revolución de los Claveles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pinochet instauró una dictadura militar que duró hasta 1990."
+  },
+  {
+    "id": "cg-3834",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué revolución de 1974 terminó con la dictadura salazarista en Portugal?",
+    "options": [
+      "La Revolución Húngara",
+      "La Revolución de los Claveles",
+      "La Revolución de Terciopelo",
+      "La Revolución de Febrero"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oficiales del ejército derrocaron al régimen sin gran resistencia."
+  },
+  {
+    "id": "cg-3835",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué constitución aprobaron los españoles en referéndum en 1978?",
+    "options": [
+      "La Constitución de 1931",
+      "La Ley para la Reforma Política",
+      "La Constitución de 1978",
+      "El Estatuto Real"
+    ],
+    "correctIndex": 2,
+    "explanation": "La constitución consolidó la monarquía parlamentaria y el Estado autonómico."
+  },
+  {
+    "id": "cg-3836",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué país firmó con Panamá los tratados de 1977 sobre el canal?",
+    "options": [
+      "Francia",
+      "Colombia",
+      "Gran Bretaña",
+      "Estados Unidos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los tratados preveían la transferencia gradual del canal a Panamá."
+  },
+  {
+    "id": "cg-3837",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué país invadió Afganistán en 1979?",
+    "options": [
+      "La Unión Soviética",
+      "Estados Unidos",
+      "Pakistán",
+      "Irán"
+    ],
+    "correctIndex": 0,
+    "explanation": "La invasión soviética provocó una guerra de diez años."
+  },
+  {
+    "id": "cg-3838",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué país se encuentra la central nuclear de Chernóbil?",
+    "options": [
+      "Rusia",
+      "Ucrania",
+      "Bielorrusia",
+      "Kazajistán"
+    ],
+    "correctIndex": 1,
+    "explanation": "La central está cerca de la frontera con Bielorrusia, en el norte de Ucrania."
+  },
+  {
+    "id": "cg-3839",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué tratado de 1992 creó la Unión Europea?",
+    "options": [
+      "El Tratado de Roma",
+      "El Acta Única Europea",
+      "El Tratado de Maastricht",
+      "El Tratado de Lisboa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Maastricht estableció la ciudadanía europea y sentó las bases del euro."
+  },
+  {
+    "id": "cg-3840",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué año se produjo el genocidio de Ruanda?",
+    "options": [
+      "1990",
+      "1992",
+      "1996",
+      "1994"
+    ],
+    "correctIndex": 3,
+    "explanation": "En unos cien días fueron asesinadas cientos de miles de personas tutsis y hutus moderados."
+  },
+  {
+    "id": "cg-3841",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué acuerdos de 1995 pusieron fin a la guerra de Bosnia?",
+    "options": [
+      "Los Acuerdos de Dayton",
+      "Los Acuerdos de Oslo",
+      "El Tratado de Versalles",
+      "La Conferencia de Yalta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dayton dividió Bosnia y Herzegovina en dos entidades."
+  },
+  {
+    "id": "cg-3842",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿A qué país se devolvió Hong Kong en 1997?",
+    "options": [
+      "Reino Unido",
+      "China",
+      "Portugal",
+      "Japón"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Reino Unido entregó Hong Kong a China bajo el principio de un país, dos sistemas."
+  },
+  {
+    "id": "cg-3843",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué tratado de 1921 creó el Estado Libre Irlandés?",
+    "options": [
+      "El Acta de Unión",
+      "El Tratado de Versalles",
+      "El Tratado anglo-irlandés",
+      "El Acuerdo de Viernes Santo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El tratado excluyó a Irlanda del Norte y provocó una guerra civil."
+  },
+  {
+    "id": "cg-3844",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué año se independizó Noruega de Suecia?",
+    "options": [
+      "1814",
+      "1918",
+      "1931",
+      "1905"
+    ],
+    "correctIndex": 3,
+    "explanation": "Noruega se separó pacíficamente de la unión con Suecia."
+  },
+  {
+    "id": "cg-3845",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué año declaró Finlandia su independencia de Rusia?",
+    "options": [
+      "1917",
+      "1905",
+      "1918",
+      "1920"
+    ],
+    "correctIndex": 0,
+    "explanation": "La independencia se proclamó tras la Revolución Rusa de 1917."
+  },
+  {
+    "id": "cg-3846",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿En qué año se separaron pacíficamente Chequia y Eslovaquia?",
+    "options": [
+      "1989",
+      "1993",
+      "1991",
+      "1995"
+    ],
+    "correctIndex": 1,
+    "explanation": "La separación se conoció como el divorcio de terciopelo."
+  },
+  {
+    "id": "cg-3847",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "medium",
+    "question": "¿Qué presidente estadounidense impulsó el programa social conocido como la Gran Sociedad en la década de 1960?",
+    "options": [
+      "John F. Kennedy",
+      "Richard Nixon",
+      "Lyndon B. Johnson",
+      "Dwight Eisenhower"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Gran Sociedad amplió programas de salud, educación y lucha contra la pobreza."
+  },
+  {
+    "id": "cg-3848",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué ofensiva británica de 1916 causó enormes bajas en el frente occidental?",
+    "options": [
+      "Verdún",
+      "Passchendaele",
+      "Cambrai",
+      "El Somme"
+    ],
+    "correctIndex": 3,
+    "explanation": "El primer día del Somme dejó casi 60.000 bajas británicas."
+  },
+  {
+    "id": "cg-3849",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 1914 frustró el plan alemán de vencer rápidamente a Francia?",
+    "options": [
+      "El Marne",
+      "Verdún",
+      "Tannenberg",
+      "Ypres"
+    ],
+    "correctIndex": 0,
+    "explanation": "La contraofensiva aliada en el Marne arruinó la guerra relámpago alemana."
+  },
+  {
+    "id": "cg-3850",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué tratado de 1918 sacó a Rusia de la Gran Guerra?",
+    "options": [
+      "El Tratado de Versalles",
+      "El Tratado de Brest-Litovsk",
+      "El Tratado de Rapallo",
+      "El Tratado de Trianon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rusia cedió vastos territorios a Alemania y sus aliados."
+  },
+  {
+    "id": "cg-3851",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué tratado de 1920 redujo drásticamente el territorio de Hungría?",
+    "options": [
+      "El Tratado de Saint-Germain",
+      "El Tratado de Sèvres",
+      "El Tratado de Trianon",
+      "El Tratado de Neuilly"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hungría perdió Transilvania y otras regiones en favor de sus vecinos."
+  },
+  {
+    "id": "cg-3852",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué tratado de 1920 desmembró el Imperio otomano tras la Gran Guerra?",
+    "options": [
+      "El Tratado de Lausana",
+      "El Tratado de Trianon",
+      "El Tratado de Versalles",
+      "El Tratado de Sèvres"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sèvres nunca se aplicó plenamente y fue reemplazado por Lausana en 1923."
+  },
+  {
+    "id": "cg-3853",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué plan de 1924 reorganizó el pago de las reparaciones alemanas?",
+    "options": [
+      "El Plan Dawes",
+      "El Plan Marshall",
+      "El Plan Schlieffen",
+      "El Plan Molotov"
+    ],
+    "correctIndex": 0,
+    "explanation": "El plan buscó estabilizar la economía alemana con préstamos estadounidenses."
+  },
+  {
+    "id": "cg-3854",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué tratados de 1925 garantizaron las fronteras occidentales de Alemania?",
+    "options": [
+      "El Pacto de Varsovia",
+      "Los Tratados de Locarno",
+      "La Entente Cordiale",
+      "El Pacto de Acero"
+    ],
+    "correctIndex": 1,
+    "explanation": "Locarno buscó la reconciliación franco-alemana tras la Primera Guerra Mundial."
+  },
+  {
+    "id": "cg-3855",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué conferencia de 1942 coordinó la llamada solución final del régimen nazi?",
+    "options": [
+      "La Conferencia de Yalta",
+      "La Conferencia de Potsdam",
+      "La Conferencia de Wannsee",
+      "La Conferencia de Teherán"
+    ],
+    "correctIndex": 2,
+    "explanation": "Altos funcionarios nazis planificaron la deportación y exterminio de los judíos europeos."
+  },
+  {
+    "id": "cg-3856",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué conferencia de 1944 creó el Fondo Monetario Internacional y el Banco Mundial?",
+    "options": [
+      "La Conferencia de Yalta",
+      "La Conferencia de San Francisco",
+      "La Conferencia de Potsdam",
+      "La Conferencia de Bretton Woods"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bretton Woods diseñó el sistema monetario de posguerra."
+  },
+  {
+    "id": "cg-3857",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué doctrina de 1947 comprometió a Estados Unidos a contener el comunismo?",
+    "options": [
+      "La Doctrina Truman",
+      "La Doctrina Monroe",
+      "La Doctrina Eisenhower",
+      "La Doctrina Brezhnev"
+    ],
+    "correctIndex": 0,
+    "explanation": "La doctrina surgió tras la crisis de Grecia y Turquía."
+  },
+  {
+    "id": "cg-3858",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué golpe de 1948 llevó a los comunistas al poder en Checoslovaquia?",
+    "options": [
+      "La Primavera de Praga",
+      "El golpe de Praga",
+      "La Revolución de Terciopelo",
+      "El levantamiento de Budapest"
+    ],
+    "correctIndex": 1,
+    "explanation": "El golpe consolidó el dominio soviético en Europa central."
+  },
+  {
+    "id": "cg-3859",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué conferencia de 1955 reunió a países asiáticos y africanos recién independizados?",
+    "options": [
+      "La Conferencia de Berlín",
+      "La Conferencia de Ginebra",
+      "La Conferencia de Bandung",
+      "La Conferencia de Belgrado"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bandung impulsó el Movimiento de Países No Alineados."
+  },
+  {
+    "id": "cg-3860",
+    "category": "general",
+    "topic": "history_modern",
+    "difficulty": "hard",
+    "question": "¿Qué incidente de 1960 agravó las tensiones entre Estados Unidos y la Unión Soviética?",
+    "options": [
+      "La crisis de los misiles",
+      "El bloqueo de Berlín",
+      "La invasión de Bahía de Cochinos",
+      "El derribo de un avión espía U-2"
+    ],
+    "correctIndex": 3,
+    "explanation": "El derribo del avión estadounidense canceló una cumbre en París."
+  }
+]

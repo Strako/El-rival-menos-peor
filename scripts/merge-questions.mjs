@@ -36,6 +36,22 @@ for (const name of ORDER) {
   all.push(...data);
 }
 
+// Aplicar correcciones de contexto manteniendo IDs, opciones y respuesta.
+const FIXES_FILE = path.join(ROOT, 'data', 'questions', 'context-fixes.json');
+if (fs.existsSync(FIXES_FILE)) {
+  const fixes = JSON.parse(fs.readFileSync(FIXES_FILE, 'utf8'));
+  const fixMap = new Map(fixes.map((fix) => [fix.id, fix.question]));
+  let applied = 0;
+  for (const question of all) {
+    const fixed = fixMap.get(question.id);
+    if (fixed) {
+      question.question = fixed;
+      applied += 1;
+    }
+  }
+  console.log(`Correcciones de contexto aplicadas: ${applied}`);
+}
+
 const ids = new Set();
 const prompts = new Set();
 for (const q of all) {

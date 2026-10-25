@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-4121",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo griego fue maestro de Platón y murió condenado a beber cicuta en Atenas?",
+    "options": [
+      "Aristóteles",
+      "Pitágoras",
+      "Sócrates",
+      "Epicuro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sócrates fue maestro de Platón y murió en el 399 a.C. tras ser condenado por la asamblea ateniense."
+  },
+  {
+    "id": "cg-4122",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo griego escribió el diálogo *La República*, sobre la justicia y el Estado ideal?",
+    "options": [
+      "Aristóteles",
+      "Sócrates",
+      "Platón",
+      "Heráclito"
+    ],
+    "correctIndex": 2,
+    "explanation": "Platón desarrolló en *La República* su concepción de la justicia y del Estado ideal."
+  },
+  {
+    "id": "cg-4123",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué discípulo de Platón fundó el Liceo de Atenas y fue tutor de Alejandro Magno?",
+    "options": [
+      "Sócrates",
+      "Jenófanes",
+      "Plotino",
+      "Aristóteles"
+    ],
+    "correctIndex": 3,
+    "explanation": "Aristóteles fundó el Liceo y educó a Alejandro Magno en la corte de Macedonia."
+  },
+  {
+    "id": "cg-4124",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo alemán escribió *Crítica de la razón pura* en 1781?",
+    "options": [
+      "Georg Hegel",
+      "Arthur Schopenhauer",
+      "Immanuel Kant",
+      "Friedrich Nietzsche"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kant publicó *Crítica de la razón pura* en 1781, obra central del idealismo trascendental."
+  },
+  {
+    "id": "cg-4125",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo alemán escribió *Así habló Zaratustra*?",
+    "options": [
+      "Karl Marx",
+      "Martin Heidegger",
+      "Max Weber",
+      "Friedrich Nietzsche"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nietzsche publicó *Así habló Zaratustra* entre 1883 y 1885."
+  },
+  {
+    "id": "cg-4126",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué pensador alemán publicó el primer tomo de *El capital* en 1867?",
+    "options": [
+      "Friedrich Engels",
+      "Adam Smith",
+      "Pierre-Joseph Proudhon",
+      "Karl Marx"
+    ],
+    "correctIndex": 3,
+    "explanation": "Marx publicó el primer volumen de *El capital* en 1867; Engels editó los siguientes."
+  },
+  {
+    "id": "cg-4127",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo francés formuló la frase «pienso, luego existo»?",
+    "options": [
+      "Blaise Pascal",
+      "René Descartes",
+      "Voltaire",
+      "Jean-Paul Sartre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Descartes llegó al *cogito, ergo sum* como primera certeza indudable en el *Discurso del método*."
+  },
+  {
+    "id": "cg-4128",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué emperador romano y filósofo estoico escribió *Meditaciones*?",
+    "options": [
+      "Séneca",
+      "Epicteto",
+      "Juliano",
+      "Marco Aurelio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Marco Aurelio escribió sus *Meditaciones* en griego mientras gobernaba el Imperio romano."
+  },
+  {
+    "id": "cg-4129",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué pensador chino es la figura central del taoísmo y autor tradicional del *Tao Te Ching*?",
+    "options": [
+      "Confucio",
+      "Laozi",
+      "Mencio",
+      "Zhuangzi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La tradición atribuye a Laozi el *Tao Te Ching*, texto fundacional del taoísmo."
+  },
+  {
+    "id": "cg-4130",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué sabio chino es la figura central de las *Analectas*?",
+    "options": [
+      "Laozi",
+      "Confucio",
+      "Xunzi",
+      "Mozi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las *Analectas* recogen conversaciones y enseñanzas atribuidas a Confucio y sus discípulos."
+  },
+  {
+    "id": "cg-4131",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué religión considera el Corán su texto sagrado?",
+    "options": [
+      "Judaísmo",
+      "Islam",
+      "Cristianismo",
+      "Sijismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Corán es el texto sagrado del islam y recoge la revelación recibida por Mahoma."
+  },
+  {
+    "id": "cg-4132",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué religión tiene la Torá como uno de sus textos sagrados centrales?",
+    "options": [
+      "Islam",
+      "Judaísmo",
+      "Hinduismo",
+      "Budismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Torá comprende los cinco primeros libros de la Biblia hebrea y es central en el judaísmo."
+  },
+  {
+    "id": "cg-4133",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué religión se basa en las enseñanzas de Siddhartha Gautama?",
+    "options": [
+      "Budismo",
+      "Jainismo",
+      "Sijismo",
+      "Sintoísmo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Siddhartha Gautama, el Buda, originó el budismo en el norte de la India hacia el siglo V a.C."
+  },
+  {
+    "id": "cg-4134",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué conjunto de textos es sagrado para el cristianismo?",
+    "options": [
+      "El Corán",
+      "El Talmud",
+      "El Avesta",
+      "La Biblia"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Biblia cristiana reúne el Antiguo y el Nuevo Testamento."
+  },
+  {
+    "id": "cg-4135",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra el Muro de las Lamentaciones, lugar sagrado del judaísmo?",
+    "options": [
+      "La Meca",
+      "Roma",
+      "Estambul",
+      "Jerusalén"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Muro de las Lamentaciones es un vestigio del segundo templo de Jerusalén."
+  },
+  {
+    "id": "cg-4136",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué profeta es considerado el receptor de la revelación del Corán en el islam?",
+    "options": [
+      "Jesús",
+      "Mahoma",
+      "Moisés",
+      "Abraham"
+    ],
+    "correctIndex": 1,
+    "explanation": "El islam considera a Mahoma el último profeta y receptor del Corán."
+  },
+  {
+    "id": "cg-4137",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué fiesta cristiana conmemora el nacimiento de Jesús?",
+    "options": [
+      "Pascua",
+      "Pentecostés",
+      "Epifanía",
+      "Navidad"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Navidad celebra el nacimiento de Jesús y se festeja el 25 de diciembre en la tradición occidental."
+  },
+  {
+    "id": "cg-4138",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué fiesta cristiana conmemora la resurrección de Jesús?",
+    "options": [
+      "Navidad",
+      "Pascua",
+      "Cuaresma",
+      "Adviento"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Pascua de Resurrección es la fiesta central del calendario cristiano."
+  },
+  {
+    "id": "cg-4139",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué sacramento cristiano marca la incorporación de una persona a la Iglesia?",
+    "options": [
+      "Confirmación",
+      "Eucaristía",
+      "Bautismo",
+      "Matrimonio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El bautismo es el sacramento de iniciación que incorpora al creyente a la comunidad cristiana."
+  },
+  {
+    "id": "cg-4140",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué rama del cristianismo se separó de la Iglesia de Roma en el cisma de 1054?",
+    "options": [
+      "Iglesia anglicana",
+      "Iglesia luterana",
+      "Iglesia copta",
+      "Iglesia ortodoxa"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cisma de Oriente de 1054 separó a la Iglesia ortodoxa de la Iglesia católica de Roma."
+  },
+  {
+    "id": "cg-4141",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué reformador alemán publicó las 95 tesis en 1517?",
+    "options": [
+      "Juan Calvino",
+      "Martín Lutero",
+      "Ulrico Zwinglio",
+      "Jan Hus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lutero dio a conocer sus 95 tesis en Wittenberg, dando inicio a la Reforma protestante."
+  },
+  {
+    "id": "cg-4142",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué rey de Inglaterra rompió con Roma en 1534 para anular su matrimonio con Catalina de Aragón?",
+    "options": [
+      "Enrique VIII",
+      "Carlos I",
+      "Francisco I",
+      "Felipe II"
+    ],
+    "correctIndex": 0,
+    "explanation": "Enrique VIII impulsó el Acta de Supremacía de 1534, que separó a la Iglesia de Inglaterra de Roma."
+  },
+  {
+    "id": "cg-4143",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué orden religiosa fundó Ignacio de Loyola en 1540?",
+    "options": [
+      "Compañía de Jesús",
+      "Orden franciscana",
+      "Orden dominicana",
+      "Orden benedictina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ignacio de Loyola fundó la Compañía de Jesús, cuyos miembros se conocen como jesuitas."
+  },
+  {
+    "id": "cg-4144",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué santo italiano fundó la orden de los franciscanos?",
+    "options": [
+      "Domingo de Guzmán",
+      "Benito de Nursia",
+      "Bernardo de Claraval",
+      "Francisco de Asís"
+    ],
+    "correctIndex": 3,
+    "explanation": "Francisco de Asís fundó la orden franciscana a comienzos del siglo XIII."
+  },
+  {
+    "id": "cg-4145",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué monje fundó la orden benedictina en el siglo VI?",
+    "options": [
+      "Francisco de Asís",
+      "Agustín de Hipona",
+      "Benito de Nursia",
+      "Ignacio de Loyola"
+    ],
+    "correctIndex": 2,
+    "explanation": "Benito de Nursia estableció en Montecasino la regla que organizó la vida monástica occidental."
+  },
+  {
+    "id": "cg-4146",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué teólogo medieval escribió la *Suma teológica*?",
+    "options": [
+      "Tomás de Aquino",
+      "Agustín de Hipona",
+      "Anselmo de Canterbury",
+      "Guillermo de Ockham"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tomás de Aquino redactó la *Suma teológica*, síntesis de la teología escolástica."
+  },
+  {
+    "id": "cg-4147",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué obispo de Hipona escribió las *Confesiones*?",
+    "options": [
+      "Jerónimo",
+      "Ambrosio",
+      "Gregorio Magno",
+      "Agustín"
+    ],
+    "correctIndex": 3,
+    "explanation": "Agustín de Hipona narró su conversión y su vida interior en las *Confesiones*."
+  },
+  {
+    "id": "cg-4148",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo griego es recordado por la paradoja de Aquiles y la tortuga?",
+    "options": [
+      "Parménides",
+      "Heráclito",
+      "Zenón de Elea",
+      "Pitágoras"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zenón de Elea formuló paradojas sobre el movimiento, entre ellas la de Aquiles y la tortuga."
+  },
+  {
+    "id": "cg-4149",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo presocrático sostuvo que todo fluye y nada permanece?",
+    "options": [
+      "Tales",
+      "Parménides",
+      "Empédocles",
+      "Heráclito"
+    ],
+    "correctIndex": 3,
+    "explanation": "Heráclito de Éfeso defendió el cambio continuo de todas las cosas."
+  },
+  {
+    "id": "cg-4150",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo presocrático propuso el agua como principio de todas las cosas?",
+    "options": [
+      "Anaxímenes",
+      "Heráclito",
+      "Pitágoras",
+      "Tales de Mileto"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tales de Mileto consideró el agua el elemento originario de la realidad."
+  },
+  {
+    "id": "cg-4151",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo eleata afirmó que el ser es y que el no ser no es?",
+    "options": [
+      "Heráclito",
+      "Demócrito",
+      "Protágoras",
+      "Parménides"
+    ],
+    "correctIndex": 3,
+    "explanation": "Parménides sostuvo la unidad e inmutabilidad del ser en su poema *Sobre la naturaleza*."
+  },
+  {
+    "id": "cg-4152",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué escuela filosófica griega fundó Epicuro?",
+    "options": [
+      "Estoicismo",
+      "Escepticismo",
+      "Epicureísmo",
+      "Cinismo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Epicuro fundó su escuela en Atenas, conocida como el Jardín, y de ahí el epicureísmo."
+  },
+  {
+    "id": "cg-4153",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué escuela filosófica fundó Zenón de Citio en Atenas?",
+    "options": [
+      "Estoicismo",
+      "Epicureísmo",
+      "Pirronismo",
+      "Neoplatonismo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zenón de Citio enseñó en el Pórtico pintado, estoá en griego, y dio nombre al estoicismo."
+  },
+  {
+    "id": "cg-4154",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo cínico vivía en un tonel y pidió a Alejandro Magno que se apartara de su sol?",
+    "options": [
+      "Diógenes",
+      "Epicteto",
+      "Zenón de Citio",
+      "Pirrón"
+    ],
+    "correctIndex": 0,
+    "explanation": "Diógenes de Sinope es la figura más célebre del cinismo antiguo."
+  },
+  {
+    "id": "cg-4155",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué diálogo de Platón narra el juicio y la condena de Sócrates?",
+    "options": [
+      "Apología",
+      "Fedón",
+      "Banquete",
+      "Timeo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La *Apología* reproduce el discurso de defensa de Sócrates ante el tribunal ateniense."
+  },
+  {
+    "id": "cg-4156",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué alegoría de Platón describe a unos prisioneros encadenados que solo ven sombras?",
+    "options": [
+      "Mito de la caverna",
+      "Mito de Er",
+      "Anillo de Giges",
+      "Alegoría del carro alado"
+    ],
+    "correctIndex": 0,
+    "explanation": "El mito de la caverna, en *La República*, ilustra el ascenso del alma hacia el conocimiento."
+  },
+  {
+    "id": "cg-4157",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué institución educativa fundó Platón en Atenas hacia el año 387 a.C.?",
+    "options": [
+      "Liceo",
+      "Pórtico",
+      "Jardín",
+      "Academia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Platón fundó la Academia, que funcionó hasta su cierre en el siglo VI d.C."
+  },
+  {
+    "id": "cg-4158",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo romano escribió las *Cartas a Lucilio*?",
+    "options": [
+      "Marco Aurelio",
+      "Séneca",
+      "Epicteto",
+      "Cicerón"
+    ],
+    "correctIndex": 1,
+    "explanation": "Séneca dirigió a su amigo Lucilio una serie de cartas sobre ética estoica."
+  },
+  {
+    "id": "cg-4159",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué poeta romano expuso el epicureísmo en *De rerum natura*?",
+    "options": [
+      "Virgilio",
+      "Horacio",
+      "Lucrecio",
+      "Ovidio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lucrecio desarrolló en verso la física atomista y la ética epicúrea."
+  },
+  {
+    "id": "cg-4160",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué emperador romano convocó el Concilio de Nicea en 325?",
+    "options": [
+      "Teodosio",
+      "Juliano",
+      "Constantino",
+      "Diocleciano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Constantino convocó el Concilio de Nicea, que condenó el arrianismo."
+  },
+  {
+    "id": "cg-4161",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo inglés formuló el principio de economía explicativa conocido como su navaja?",
+    "options": [
+      "Francis Bacon",
+      "Guillermo de Ockham",
+      "Roger Bacon",
+      "Juan Duns Escoto"
+    ],
+    "correctIndex": 1,
+    "explanation": "La navaja de Ockham aconseja no multiplicar los entes sin necesidad."
+  },
+  {
+    "id": "cg-4162",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo inglés escribió *Leviatán* en 1651?",
+    "options": [
+      "Thomas Hobbes",
+      "John Locke",
+      "David Hume",
+      "Francis Bacon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hobbes expuso en *Leviatán* su teoría del contrato social y del poder soberano."
+  },
+  {
+    "id": "cg-4163",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo ginebrino escribió *El contrato social* en 1762?",
+    "options": [
+      "Voltaire",
+      "Jean-Jacques Rousseau",
+      "Montesquieu",
+      "Diderot"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rousseau desarrolló en *El contrato social* la idea de la voluntad general."
+  },
+  {
+    "id": "cg-4164",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo inglés escribió *Dos tratados sobre el gobierno civil*?",
+    "options": [
+      "John Locke",
+      "Thomas Hobbes",
+      "John Stuart Mill",
+      "Adam Smith"
+    ],
+    "correctIndex": 0,
+    "explanation": "Locke defendió en esos tratados el gobierno por consentimiento y los derechos naturales."
+  },
+  {
+    "id": "cg-4165",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué pensador florentino escribió *El príncipe* en 1513?",
+    "options": [
+      "Tomás Moro",
+      "Nicolás Maquiavelo",
+      "Erasmo de Rotterdam",
+      "Giordano Bruno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Maquiavelo escribió *El príncipe* como tratado sobre el ejercicio realista del poder político."
+  },
+  {
+    "id": "cg-4166",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo británico escribió *Utilitarismo* en 1861?",
+    "options": [
+      "John Stuart Mill",
+      "Jeremy Bentham",
+      "Henry Sidgwick",
+      "Herbert Spencer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mill expuso y matizó la doctrina utilitarista en el ensayo *Utilitarismo*."
+  },
+  {
+    "id": "cg-4167",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo británico es considerado el fundador del utilitarismo moderno?",
+    "options": [
+      "John Stuart Mill",
+      "David Hume",
+      "Adam Smith",
+      "Jeremy Bentham"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bentham formuló el principio de la mayor felicidad para el mayor número."
+  },
+  {
+    "id": "cg-4168",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo alemán publicó *Fenomenología del espíritu* en 1807?",
+    "options": [
+      "Georg Wilhelm Friedrich Hegel",
+      "Immanuel Kant",
+      "Friedrich Schelling",
+      "Arthur Schopenhauer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hegel publicó *Fenomenología del espíritu* en 1807, obra clave del idealismo alemán."
+  },
+  {
+    "id": "cg-4169",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo alemán escribió *El mundo como voluntad y representación*?",
+    "options": [
+      "Hegel",
+      "Nietzsche",
+      "Fichte",
+      "Arthur Schopenhauer"
+    ],
+    "correctIndex": 3,
+    "explanation": "Schopenhauer publicó esa obra en 1818 y situó la voluntad en el centro de su metafísica."
+  },
+  {
+    "id": "cg-4170",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo danés escribió *Temor y temblor* y es considerado precursor del existencialismo?",
+    "options": [
+      "Friedrich Nietzsche",
+      "Martin Heidegger",
+      "Jean-Paul Sartre",
+      "Søren Kierkegaard"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kierkegaard publicó *Temor y temblor* en 1843 bajo el seudónimo Johannes de Silentio."
+  },
+  {
+    "id": "cg-4171",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo francés escribió *El ser y la nada* en 1943?",
+    "options": [
+      "Albert Camus",
+      "Maurice Merleau-Ponty",
+      "Jean-Paul Sartre",
+      "Simone de Beauvoir"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sartre desarrolló en *El ser y la nada* su concepción de la libertad y la mala fe."
+  },
+  {
+    "id": "cg-4172",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué escritor francés publicó *El mito de Sísifo* en 1942?",
+    "options": [
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "André Gide",
+      "Michel Foucault"
+    ],
+    "correctIndex": 0,
+    "explanation": "Camus exploró en *El mito de Sísifo* el absurdo y la rebelión humana."
+  },
+  {
+    "id": "cg-4173",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo austríaco escribió el *Tractatus logico-philosophicus*?",
+    "options": [
+      "Karl Popper",
+      "Ludwig Wittgenstein",
+      "Moritz Schlick",
+      "Rudolf Carnap"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wittgenstein publicó el *Tractatus* en 1921 y influyó decisivamente en la filosofía analítica."
+  },
+  {
+    "id": "cg-4174",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo británico fue coautor de *Principia Mathematica* con Alfred North Whitehead?",
+    "options": [
+      "Bertrand Russell",
+      "Gottlob Frege",
+      "George Boole",
+      "Ludwig Wittgenstein"
+    ],
+    "correctIndex": 0,
+    "explanation": "Russell y Whitehead publicaron *Principia Mathematica* entre 1910 y 1913."
+  },
+  {
+    "id": "cg-4175",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo austríaco propuso la falsabilidad como criterio de demarcación científica?",
+    "options": [
+      "Thomas Kuhn",
+      "Karl Popper",
+      "Rudolf Carnap",
+      "Ludwig Wittgenstein"
+    ],
+    "correctIndex": 1,
+    "explanation": "Popper sostuvo que una teoría científica debe poder ser refutada por la experiencia."
+  },
+  {
+    "id": "cg-4176",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo griego escribió la *Ética a Nicómaco*?",
+    "options": [
+      "Aristóteles",
+      "Platón",
+      "Sócrates",
+      "Epicuro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aristóteles dedicó la *Ética a Nicómaco* al estudio de la felicidad y las virtudes."
+  },
+  {
+    "id": "cg-4177",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué concepto aristotélico designa la excelencia de carácter que se adquiere por hábito?",
+    "options": [
+      "Virtud",
+      "Fortuna",
+      "Placer",
+      "Honor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para Aristóteles la virtud es un hábito adquirido que consiste en el término medio racional."
+  },
+  {
+    "id": "cg-4178",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo griego definió al ser humano como un animal político?",
+    "options": [
+      "Aristóteles",
+      "Platón",
+      "Sócrates",
+      "Protágoras"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aristóteles consideró que el ser humano solo se realiza plenamente en la comunidad política."
+  },
+  {
+    "id": "cg-4179",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué religión es mayoritaria entre la población de la India?",
+    "options": [
+      "Hinduismo",
+      "Budismo",
+      "Islam",
+      "Jainismo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hinduismo es la religión mayoritaria en la India y reúne a cientos de millones de fieles."
+  },
+  {
+    "id": "cg-4180",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿En qué país se halla La Meca?",
+    "options": [
+      "Irak",
+      "Egipto",
+      "Arabia Saudita",
+      "Jordania"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Meca está en la región del Hiyaz, en Arabia Saudita."
+  },
+  {
+    "id": "cg-4181",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Hacia qué ciudad orientan sus oraciones los musulmanes?",
+    "options": [
+      "Medina",
+      "Jerusalén",
+      "Bagdad",
+      "La Meca"
+    ],
+    "correctIndex": 3,
+    "explanation": "La alquibla, dirección de la oración islámica, apunta hacia la Kaaba en La Meca."
+  },
+  {
+    "id": "cg-4182",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Durante qué mes lunar ayunan los musulmanes desde el amanecer hasta el anochecer?",
+    "options": [
+      "Muharram",
+      "Rajab",
+      "Ramadán",
+      "Shaabán"
+    ],
+    "correctIndex": 2,
+    "explanation": "El ramadán es el noveno mes del calendario islámico y en él se practica el ayuno ritual."
+  },
+  {
+    "id": "cg-4183",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Cuántos pilares tiene el islam suní?",
+    "options": [
+      "Cinco",
+      "Tres",
+      "Siete",
+      "Diez"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cinco pilares son la profesión de fe, la oración, la limosna, el ayuno y la peregrinación."
+  },
+  {
+    "id": "cg-4184",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué peregrinación a La Meca debe realizar al menos una vez en la vida todo musulmán con medios para ello?",
+    "options": [
+      "Umrah",
+      "Ziyara",
+      "Hach",
+      "Yihad"
+    ],
+    "correctIndex": 2,
+    "explanation": "El hach es la peregrinación mayor anual a La Meca y uno de los cinco pilares del islam."
+  },
+  {
+    "id": "cg-4185",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué profeta bíblico recibió las tablas de la ley en el monte Sinaí?",
+    "options": [
+      "Abraham",
+      "David",
+      "Elías",
+      "Moisés"
+    ],
+    "correctIndex": 3,
+    "explanation": "Según el Éxodo, Moisés recibió las tablas de la ley en el monte Sinaí."
+  },
+  {
+    "id": "cg-4186",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué patriarca bíblico es considerado padre del monoteísmo abrahámico?",
+    "options": [
+      "Abraham",
+      "Noé",
+      "Isaac",
+      "Jacob"
+    ],
+    "correctIndex": 0,
+    "explanation": "Judaísmo, cristianismo e islam reconocen a Abraham como referencia común de su monoteísmo."
+  },
+  {
+    "id": "cg-4187",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué libro bíblico narra la salida del pueblo de Israel de Egipto?",
+    "options": [
+      "Génesis",
+      "Levítico",
+      "Deuteronomio",
+      "Éxodo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Éxodo relata la liberación de los israelitas de Egipto bajo la guía de Moisés."
+  },
+  {
+    "id": "cg-4188",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué rey de Israel construyó el primer templo de Jerusalén?",
+    "options": [
+      "David",
+      "Saúl",
+      "Salomón",
+      "Ezequías"
+    ],
+    "correctIndex": 2,
+    "explanation": "La tradición bíblica atribuye a Salomón la construcción del primer templo de Jerusalén."
+  },
+  {
+    "id": "cg-4189",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué profeta bíblico fue arrojado a un foso de leones y salió ileso según el relato?",
+    "options": [
+      "Daniel",
+      "Jeremías",
+      "Isaías",
+      "Jonás"
+    ],
+    "correctIndex": 0,
+    "explanation": "El libro de Daniel narra su salvación en el foso de los leones."
+  },
+  {
+    "id": "cg-4190",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué personaje bíblico fue vendido por sus hermanos y llegó a ser alto funcionario en Egipto?",
+    "options": [
+      "Moisés",
+      "José",
+      "Jacob",
+      "Esdras"
+    ],
+    "correctIndex": 1,
+    "explanation": "La historia de José, hijo de Jacob, ocupa los últimos capítulos del Génesis."
+  },
+  {
+    "id": "cg-4191",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué apóstol negó tres veces a Jesús antes de la crucifixión según los evangelios?",
+    "options": [
+      "Juan",
+      "Santiago",
+      "Tomás",
+      "Pedro"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los evangelios narran que Pedro negó a Jesús tres veces antes del canto del gallo."
+  },
+  {
+    "id": "cg-4192",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué oración cristiana comienza con las palabras «Padre nuestro»?",
+    "options": [
+      "Ave María",
+      "Gloria",
+      "Credo",
+      "Padrenuestro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El padrenuestro es la oración que los evangelios atribuyen a la enseñanza de Jesús."
+  },
+  {
+    "id": "cg-4193",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué concilio del siglo XX renovó la liturgia católica y se celebró entre 1962 y 1965?",
+    "options": [
+      "Vaticano II",
+      "Vaticano I",
+      "Trento",
+      "Nicea II"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Concilio Vaticano II impulsó la reforma litúrgica y la apertura de la Iglesia católica."
+  },
+  {
+    "id": "cg-4194",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué papa convocó el Concilio Vaticano II?",
+    "options": [
+      "Pío XII",
+      "Pablo VI",
+      "Juan Pablo II",
+      "Juan XXIII"
+    ],
+    "correctIndex": 3,
+    "explanation": "Juan XXIII convocó el Concilio Vaticano II en 1959 y lo inauguró en 1962."
+  },
+  {
+    "id": "cg-4195",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo francés fundó el positivismo en el siglo XIX?",
+    "options": [
+      "Auguste Comte",
+      "Émile Durkheim",
+      "Henri Bergson",
+      "Jean-Paul Sartre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Comte propuso el positivismo como etapa final del desarrollo intelectual de la humanidad."
+  },
+  {
+    "id": "cg-4196",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué psicólogo y filósofo estadounidense publicó *Pragmatismo* en 1907?",
+    "options": [
+      "William James",
+      "John Dewey",
+      "Charles Sanders Peirce",
+      "Josiah Royce"
+    ],
+    "correctIndex": 0,
+    "explanation": "James difundió el pragmatismo en conferencias publicadas como *Pragmatismo* en 1907."
+  },
+  {
+    "id": "cg-4197",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo estadounidense es considerado fundador del pragmatismo?",
+    "options": [
+      "Charles Sanders Peirce",
+      "William James",
+      "John Dewey",
+      "Oliver Wendell Holmes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Peirce formuló la máxima pragmatista en sus escritos de la década de 1870."
+  },
+  {
+    "id": "cg-4198",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué humanista neerlandés escribió *Elogio de la locura* en 1511?",
+    "options": [
+      "Tomás Moro",
+      "Nicolás Maquiavelo",
+      "Erasmo de Rotterdam",
+      "Juan Luis Vives"
+    ],
+    "correctIndex": 2,
+    "explanation": "Erasmo satirizó las costumbres de su época en el *Elogio de la locura*."
+  },
+  {
+    "id": "cg-4199",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo francés defendió la separación de poderes en *El espíritu de las leyes*?",
+    "options": [
+      "Montesquieu",
+      "Voltaire",
+      "Rousseau",
+      "Diderot"
+    ],
+    "correctIndex": 0,
+    "explanation": "Montesquieu propuso dividir el poder legislativo, ejecutivo y judicial para limitar el despotismo."
+  },
+  {
+    "id": "cg-4200",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo francés dirigió la *Encyclopédie* junto con Jean d’Alembert?",
+    "options": [
+      "Voltaire",
+      "Montesquieu",
+      "Condorcet",
+      "Denis Diderot"
+    ],
+    "correctIndex": 3,
+    "explanation": "Diderot y d’Alembert editaron la *Encyclopédie*, gran empresa de la Ilustración francesa."
+  },
+  {
+    "id": "cg-4201",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo griego propuso junto con Leucipo una explicación atomista del universo?",
+    "options": [
+      "Demócrito",
+      "Empédocles",
+      "Anaxágoras",
+      "Heráclito"
+    ],
+    "correctIndex": 0,
+    "explanation": "Demócrito desarrolló la teoría de que la realidad se compone de átomos y vacío."
+  },
+  {
+    "id": "cg-4202",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo de Samos sostuvo que los números son la esencia de todas las cosas?",
+    "options": [
+      "Tales",
+      "Anaximandro",
+      "Jenófanes",
+      "Pitágoras"
+    ],
+    "correctIndex": 3,
+    "explanation": "La escuela pitagórica vio en las relaciones numéricas el orden fundamental del cosmos."
+  },
+  {
+    "id": "cg-4203",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué profeta persa fundó la religión dualista adoradora de Ahura Mazda?",
+    "options": [
+      "Mani",
+      "Mazdak",
+      "Zoroastro",
+      "Buda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zoroastro, o Zaratustra, es el fundador tradicional del zoroastrismo."
+  },
+  {
+    "id": "cg-4204",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué texto sagrado se atribuye a Zoroastro en la religión zoroástrica?",
+    "options": [
+      "Vedas",
+      "Corán",
+      "Torá",
+      "Avesta"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Avesta reúne los textos litúrgicos y doctrinales del zoroastrismo."
+  },
+  {
+    "id": "cg-4205",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué religión japonesa venera a los kami y se asocia con santuarios como el de Ise?",
+    "options": [
+      "Budismo zen",
+      "Taoísmo",
+      "Sintoísmo",
+      "Confucianismo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sintoísmo es la tradición religiosa autóctona de Japón y venera a los kami."
+  },
+  {
+    "id": "cg-4206",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué tradición ética y política china se basa en las enseñanzas de Confucio?",
+    "options": [
+      "Taoísmo",
+      "Legalismo",
+      "Confucianismo",
+      "Moísmo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El confucianismo ordena la vida social en torno a la virtud, el ritual y las relaciones jerárquicas."
+  },
+  {
+    "id": "cg-4207",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué texto taoísta se atribuye tradicionalmente a Laozi?",
+    "options": [
+      "Analectas",
+      "Tao Te Ching",
+      "Zhuangzi",
+      "I Ching"
+    ],
+    "correctIndex": 1,
+    "explanation": "El *Tao Te Ching* expone en ochenta y un capítulos la doctrina del tao y del no actuar."
+  },
+  {
+    "id": "cg-4208",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué maestro del siglo XV fundó el sijismo en el Punjab?",
+    "options": [
+      "Guru Nanak",
+      "Guru Gobind Singh",
+      "Kabir",
+      "Ram Mohan Roy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Guru Nanak fundó el sijismo y fue el primero de sus diez gurús."
+  },
+  {
+    "id": "cg-4209",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué texto es la escritura sagrada central del sijismo?",
+    "options": [
+      "Bhagavad Gita",
+      "Avesta",
+      "Tripitaka",
+      "Guru Granth Sahib"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Guru Granth Sahib reúne himnos de los gurús y de otros poetas religiosos."
+  },
+  {
+    "id": "cg-4210",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué religión india se caracteriza por la no violencia radical y el ascetismo extremo?",
+    "options": [
+      "Sijismo",
+      "Budismo",
+      "Hinduismo",
+      "Jainismo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El jainismo, fundado por Mahavira, practica la ahimsa o no violencia hacia todos los seres."
+  },
+  {
+    "id": "cg-4211",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué concepto hindú designa la ley universal del deber y el orden cósmico?",
+    "options": [
+      "Karma",
+      "Samsara",
+      "Dharma",
+      "Moksha"
+    ],
+    "correctIndex": 2,
+    "explanation": "El dharma engloba el deber, la norma moral y el orden que sostiene el cosmos."
+  },
+  {
+    "id": "cg-4212",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué concepto budista e hindú designa el ciclo de nacimiento, muerte y renacimiento?",
+    "options": [
+      "Nirvana",
+      "Dharma",
+      "Samsara",
+      "Karma"
+    ],
+    "correctIndex": 2,
+    "explanation": "El samsara es el ciclo de reencarnaciones del que se busca liberarse."
+  },
+  {
+    "id": "cg-4213",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué término budista designa el sufrimiento o la insatisfacción inherente a la existencia?",
+    "options": [
+      "Dukkha",
+      "Anatta",
+      "Anicca",
+      "Nirvana"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dukkha es la primera noble verdad del budismo y abarca el dolor y la insatisfacción."
+  },
+  {
+    "id": "cg-4214",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué doctrina budista niega la existencia de un yo permanente e inmutable?",
+    "options": [
+      "Anicca",
+      "Anatta",
+      "Karma",
+      "Samsara"
+    ],
+    "correctIndex": 1,
+    "explanation": "Anatta, o ausencia de yo, sostiene que la persona se compone de procesos cambiantes."
+  },
+  {
+    "id": "cg-4215",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué figura del budismo mahayana posterga la iluminación para ayudar a otros seres?",
+    "options": [
+      "Bodhisattva",
+      "Arhat",
+      "Buda",
+      "Lama"
+    ],
+    "correctIndex": 0,
+    "explanation": "El bodhisattva renuncia al nirvana definitivo hasta que todos los seres puedan liberarse."
+  },
+  {
+    "id": "cg-4216",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué rama del budismo, también llamada Vajrayana, predomina en el Tíbet?",
+    "options": [
+      "Theravada",
+      "Zen",
+      "Tierra Pura",
+      "Budismo tibetano"
+    ],
+    "correctIndex": 3,
+    "explanation": "El budismo tibetano o Vajrayana desarrolló prácticas tántricas y una compleja tradición monástica."
+  },
+  {
+    "id": "cg-4217",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué rama del budismo predomina en Sri Lanka y el sudeste asiático?",
+    "options": [
+      "Mahayana",
+      "Vajrayana",
+      "Zen",
+      "Theravada"
+    ],
+    "correctIndex": 3,
+    "explanation": "La escuela Theravada se basa en el canon pali y es mayoritaria en Sri Lanka, Tailandia y Birmania."
+  },
+  {
+    "id": "cg-4218",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué rama del budismo predomina en China, Corea y Japón?",
+    "options": [
+      "Theravada",
+      "Vajrayana",
+      "Mahayana",
+      "Hinayana"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Mahayana se extendió por Asia oriental y desarrolló escuelas como el zen y la Tierra Pura."
+  },
+  {
+    "id": "cg-4219",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué texto hindú, parte del *Mahabharata*, narra el diálogo entre Krishna y Arjuna?",
+    "options": [
+      "Ramayana",
+      "Bhagavad Gita",
+      "Rigveda",
+      "Manusmriti"
+    ],
+    "correctIndex": 1,
+    "explanation": "La *Bhagavad Gita* es un episodio del *Mahabharata* sobre el deber y la acción desinteresada."
+  },
+  {
+    "id": "cg-4220",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Cuál de los cuatro Vedas se considera el de composición anterior?",
+    "options": [
+      "Samaveda",
+      "Yajurveda",
+      "Rigveda",
+      "Atharvaveda"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Rigveda reúne los himnos más antiguos conservados en la tradición védica."
+  },
+  {
+    "id": "cg-4221",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo indio del siglo VIII sistematizó la escuela Advaita Vedanta?",
+    "options": [
+      "Ramanuja",
+      "Shankara",
+      "Madhva",
+      "Nagarjuna"
+    ],
+    "correctIndex": 1,
+    "explanation": "Shankara desarrolló el Vedanta no dualista y comentó los textos fundamentales de la escuela."
+  },
+  {
+    "id": "cg-4222",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué líder indio del siglo XX promovió la resistencia no violenta contra el dominio británico?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi",
+      "B. R. Ambedkar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gandhi dirigió la lucha por la independencia de la India mediante la desobediencia civil pacífica."
+  },
+  {
+    "id": "cg-4223",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué líder espiritual budista tibetano recibió el Premio Nobel de la Paz en 1989?",
+    "options": [
+      "Thich Nhat Hanh",
+      "Dalái Lama",
+      "Desmond Tutu",
+      "Aung San Suu Kyi"
+    ],
+    "correctIndex": 1,
+    "explanation": "El decimocuarto Dalái Lama recibió el Nobel de la Paz por su defensa no violenta del Tíbet."
+  },
+  {
+    "id": "cg-4224",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo judío medieval escribió *Guía de los perplejos*?",
+    "options": [
+      "Ibn Gabirol",
+      "Saadia Gaón",
+      "Maimónides",
+      "Spinoza"
+    ],
+    "correctIndex": 2,
+    "explanation": "Maimónides buscó armonizar la tradición judía con la filosofía aristotélica en esa obra."
+  },
+  {
+    "id": "cg-4225",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo presocrático sostuvo que el aire es el principio de todas las cosas?",
+    "options": [
+      "Tales de Mileto",
+      "Heráclito",
+      "Anaxímenes",
+      "Empédocles"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anaxímenes de Mileto propuso el aire, mediante condensación y rarefacción, como origen del cosmos."
+  },
+  {
+    "id": "cg-4226",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo griego, maestro de Demócrito, formuló por primera vez la doctrina atomista?",
+    "options": [
+      "Leucipo",
+      "Anaxágoras",
+      "Empédocles",
+      "Parménides"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leucipo inició el atomismo, que Demócrito desarrolló después con mayor detalle."
+  },
+  {
+    "id": "cg-4227",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué sofista griego afirmó que «el hombre es la medida de todas las cosas»?",
+    "options": [
+      "Gorgias",
+      "Isócrates",
+      "Protágoras",
+      "Trasímaco"
+    ],
+    "correctIndex": 2,
+    "explanation": "Protágoras de Abdera defendió una forma de relativismo y humanismo en su enseñanza."
+  },
+  {
+    "id": "cg-4228",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué sofista griego sostuvo que nada existe y que, si algo existiera, sería incognoscible?",
+    "options": [
+      "Gorgias",
+      "Protágoras",
+      "Pródico",
+      "Hipias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gorgias expuso esas tres tesis en su tratado *Sobre el no ser*."
+  },
+  {
+    "id": "cg-4229",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué diálogo de Platón describe la formación del cosmos por obra de un demiurgo?",
+    "options": [
+      "Timeo",
+      "Fedro",
+      "Banquete",
+      "Político"
+    ],
+    "correctIndex": 0,
+    "explanation": "El *Timeo* presenta una cosmología en la que un demiurgo ordena la materia siguiendo modelos eternos."
+  },
+  {
+    "id": "cg-4230",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué diálogo de Platón, continuación del *Timeo*, narra la guerra de Atenas contra la Atlántida?",
+    "options": [
+      "Leyes",
+      "Critias",
+      "Filebo",
+      "Menéxeno"
+    ],
+    "correctIndex": 1,
+    "explanation": "El *Critias* relata la historia de la Atlántida y su enfrentamiento con la antigua Atenas."
+  },
+  {
+    "id": "cg-4231",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué conjunto de tratados de Aristóteles reúne sus obras de lógica?",
+    "options": [
+      "Organon",
+      "Metafísica",
+      "Física",
+      "Retórica"
+    ],
+    "correctIndex": 0,
+    "explanation": "El *Organon* agrupa los tratados lógicos de Aristóteles, como las *Categorías* y los *Analíticos*."
+  },
+  {
+    "id": "cg-4232",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué término aristotélico designa el fin o propósito hacia el que tiende un ser?",
+    "options": [
+      "Logos",
+      "Ethos",
+      "Telos",
+      "Pathos"
+    ],
+    "correctIndex": 2,
+    "explanation": "El telos es la finalidad inmanente que orienta el desarrollo de cada ser natural."
+  },
+  {
+    "id": "cg-4233",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué doctrina aristotélica sostiene que todo ser natural se compone de materia y forma?",
+    "options": [
+      "Atomismo",
+      "Hilemorfismo",
+      "Dualismo",
+      "Monismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El hilemorfismo explica la realidad sensible como unión de materia y forma."
+  },
+  {
+    "id": "cg-4234",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo griego fundó la escuela escéptica que busca la suspensión del juicio?",
+    "options": [
+      "Zenón de Citio",
+      "Epicuro",
+      "Antístenes",
+      "Pirrón de Elis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pirrón de Elis propuso la epojé o suspensión del juicio como camino hacia la tranquilidad."
+  },
+  {
+    "id": "cg-4235",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo neoplatónico escribió las *Enéadas*?",
+    "options": [
+      "Proclo",
+      "Plotino",
+      "Jámblico",
+      "Porfirio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Plotino enseñó en Roma y sus discípulos compilaron sus escritos en las *Enéadas*."
+  },
+  {
+    "id": "cg-4236",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué principio de la filosofía de Plotino designa la realidad suprema de la que emana todo?",
+    "options": [
+      "El Demiurgo",
+      "El Logos",
+      "La Materia",
+      "El Uno"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para Plotino, el Uno es la fuente inefable de la que proceden el intelecto y el alma."
+  },
+  {
+    "id": "cg-4237",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué emperador bizantino ordenó cerrar las escuelas filosóficas paganas de Atenas en 529?",
+    "options": [
+      "Justiniano",
+      "Constantino",
+      "Teodosio II",
+      "Heraclio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Justiniano prohibió la enseñanza de la filosofía pagana y la Academia de Atenas dejó de funcionar."
+  },
+  {
+    "id": "cg-4238",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué matemática y filósofa neoplatónica de Alejandría fue asesinada por una turba en 415?",
+    "options": [
+      "Aspasia",
+      "Hipatia",
+      "Teano",
+      "Sulpicia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hipatia enseñó matemáticas y astronomía en Alejandría y murió en un contexto de conflicto religioso."
+  },
+  {
+    "id": "cg-4239",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué teólogo medieval formuló el argumento ontológico en el *Proslogion*?",
+    "options": [
+      "Anselmo de Canterbury",
+      "Tomás de Aquino",
+      "Pedro Abelardo",
+      "Juan Duns Escoto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anselmo argumentó que Dios, como aquello mayor que lo cual nada puede pensarse, debe existir."
+  },
+  {
+    "id": "cg-4240",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué franciscano medieval escribió el *Itinerario del alma a Dios*?",
+    "options": [
+      "Roger Bacon",
+      "Duns Escoto",
+      "Buenaventura",
+      "Ockham"
+    ],
+    "correctIndex": 2,
+    "explanation": "Buenaventura, general de los franciscanos, describió en esa obra el ascenso místico hacia Dios."
+  },
+  {
+    "id": "cg-4241",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué fraile inglés del siglo XIII, llamado Doctor Admirable, defendió el valor de la experimentación?",
+    "options": [
+      "Roger Bacon",
+      "Francis Bacon",
+      "Grosseteste",
+      "Beda el Venerable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Roger Bacon anticipó ideas sobre el método experimental y criticó la autoridad sin fundamento."
+  },
+  {
+    "id": "cg-4242",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué místico dominico alemán fue acusado de herejía por sus sermones sobre la unión del alma con Dios?",
+    "options": [
+      "Heinrich Seuse",
+      "Johannes Tauler",
+      "Nicolás de Cusa",
+      "Maestro Eckhart"
+    ],
+    "correctIndex": 3,
+    "explanation": "Eckhart predicó una mística de la identidad del fondo del alma con Dios y fue investigado tras su muerte."
+  },
+  {
+    "id": "cg-4243",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo de Amsterdam fue excomulgado por la comunidad judía y escribió la *Ética*?",
+    "options": [
+      "Moses Mendelssohn",
+      "Baruch Spinoza",
+      "Uriel da Costa",
+      "Isaac Luria"
+    ],
+    "correctIndex": 1,
+    "explanation": "Spinoza fue excomulgado en 1656 y desarrolló un sistema panteísta expuesto geométricamente en la *Ética*."
+  },
+  {
+    "id": "cg-4244",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo alemán describió el universo como compuesto de mónadas en la *Monadología*?",
+    "options": [
+      "Christian Wolff",
+      "Johann Fichte",
+      "Gottfried Leibniz",
+      "Immanuel Kant"
+    ],
+    "correctIndex": 2,
+    "explanation": "Leibniz llamó mónadas a las sustancias simples e inextensas que constituyen la realidad."
+  },
+  {
+    "id": "cg-4245",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo inglés comparó la mente al nacer con una tabula rasa?",
+    "options": [
+      "Thomas Hobbes",
+      "George Berkeley",
+      "David Hume",
+      "John Locke"
+    ],
+    "correctIndex": 3,
+    "explanation": "Locke rechazó las ideas innatas y sostuvo que el conocimiento proviene de la experiencia."
+  },
+  {
+    "id": "cg-4246",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo irlandés resumió su idealismo en la fórmula «ser es ser percibido»?",
+    "options": [
+      "John Locke",
+      "David Hume",
+      "Thomas Reid",
+      "George Berkeley"
+    ],
+    "correctIndex": 3,
+    "explanation": "Berkeley negó la existencia de la materia independiente de la percepción."
+  },
+  {
+    "id": "cg-4247",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo escocés escribió *Investigación sobre el entendimiento humano* en 1748?",
+    "options": [
+      "David Hume",
+      "Adam Smith",
+      "Thomas Reid",
+      "Francis Hutcheson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hume analizó en esa obra la causalidad y los límites del conocimiento empírico."
+  },
+  {
+    "id": "cg-4248",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo alemán formuló el imperativo categórico en la *Fundamentación de la metafísica de las costumbres*?",
+    "options": [
+      "Immanuel Kant",
+      "Hegel",
+      "Fichte",
+      "Schopenhauer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kant propuso obrar solo según máximas que puedan convertirse en ley universal."
+  },
+  {
+    "id": "cg-4249",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo alemán describió la dialéctica del amo y el esclavo en la *Fenomenología del espíritu*?",
+    "options": [
+      "Marx",
+      "Hegel",
+      "Nietzsche",
+      "Kierkegaard"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hegel analizó esa relación como momento de la formación de la autoconciencia."
+  },
+  {
+    "id": "cg-4250",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué pensador alemán calificó la religión como «opio del pueblo»?",
+    "options": [
+      "Ludwig Feuerbach",
+      "Friedrich Engels",
+      "Karl Marx",
+      "Max Stirner"
+    ],
+    "correctIndex": 2,
+    "explanation": "Marx usó esa expresión en la introducción a su crítica de la filosofía del derecho de Hegel."
+  },
+  {
+    "id": "cg-4251",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo anarquista ruso escribió *La conquista del pan*?",
+    "options": [
+      "Mijaíl Bakunin",
+      "Piotr Kropotkin",
+      "Lev Tolstói",
+      "Aleksandr Herzen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kropotkin defendió el comunismo anarquista y la organización social por cooperación voluntaria."
+  },
+  {
+    "id": "cg-4252",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo británico escribió *Sobre la libertad* en 1859?",
+    "options": [
+      "John Locke",
+      "Jeremy Bentham",
+      "John Stuart Mill",
+      "Thomas Carlyle"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mill defendió la libertad individual y el principio del daño en ese ensayo."
+  },
+  {
+    "id": "cg-4253",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo ginebrino escribió *Discurso sobre el origen de la desigualdad entre los hombres*?",
+    "options": [
+      "Voltaire",
+      "Diderot",
+      "Montesquieu",
+      "Jean-Jacques Rousseau"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rousseau sostuvo que la desigualdad social surge de la propiedad y de la vida en sociedad."
+  },
+  {
+    "id": "cg-4254",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo italiano escribió *La ciencia nueva* en 1725?",
+    "options": [
+      "Giambattista Vico",
+      "Tommaso Campanella",
+      "Giordano Bruno",
+      "Nicolás Maquiavelo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vico propuso una filosofía de la historia basada en el desarrollo de las naciones y el lenguaje."
+  },
+  {
+    "id": "cg-4255",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo inglés propuso el método inductivo en el *Novum Organum*?",
+    "options": [
+      "Roger Bacon",
+      "William Gilbert",
+      "Isaac Newton",
+      "Francis Bacon"
+    ],
+    "correctIndex": 3,
+    "explanation": "Francis Bacon criticó el silogismo escolástico y defendió la observación y la inducción."
+  },
+  {
+    "id": "cg-4256",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo y matemático francés formuló la «apuesta» sobre la existencia de Dios en los *Pensamientos*?",
+    "options": [
+      "René Descartes",
+      "Nicolas Malebranche",
+      "Blaise Pascal",
+      "Pierre Bayle"
+    ],
+    "correctIndex": 2,
+    "explanation": "La apuesta de Pascal argumenta que creer en Dios es la opción racional ante la incertidumbre."
+  },
+  {
+    "id": "cg-4257",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo francés escribió *Ensayo sobre los datos inmediatos de la conciencia*?",
+    "options": [
+      "Émile Durkheim",
+      "Jean-Paul Sartre",
+      "Henri Bergson",
+      "Maurice Merleau-Ponty"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bergson distinguió el tiempo vivido de la conciencia del tiempo medible de la ciencia."
+  },
+  {
+    "id": "cg-4258",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo alemán escribió *La genealogía de la moral* en 1887?",
+    "options": [
+      "Arthur Schopenhauer",
+      "Friedrich Nietzsche",
+      "Max Scheler",
+      "Karl Jaspers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nietzsche rastreó el origen histórico de los valores morales y la distinción entre bueno y malo."
+  },
+  {
+    "id": "cg-4259",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo alemán publicó *El ser y el tiempo* en 1927?",
+    "options": [
+      "Edmund Husserl",
+      "Karl Jaspers",
+      "Hans-Georg Gadamer",
+      "Martin Heidegger"
+    ],
+    "correctIndex": 3,
+    "explanation": "Heidegger analizó la existencia humana como ser-en-el-mundo en *El ser y el tiempo*."
+  },
+  {
+    "id": "cg-4260",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofa alemana analizó los regímenes totalitarios en *Los orígenes del totalitarismo*?",
+    "options": [
+      "Simone Weil",
+      "Rosa Luxemburg",
+      "Hannah Arendt",
+      "Simone de Beauvoir"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arendt estudió el totalitarismo, la burocracia y la pérdida del espacio público."
+  },
+  {
+    "id": "cg-4261",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué sociólogo alemán escribió *La ética protestante y el espíritu del capitalismo*?",
+    "options": [
+      "Émile Durkheim",
+      "Max Weber",
+      "Karl Marx",
+      "Georg Simmel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Weber relacionó la ética calvinista con el desarrollo del capitalismo moderno."
+  },
+  {
+    "id": "cg-4262",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo italiano escribió los *Cuadernos de la cárcel*?",
+    "options": [
+      "Benedetto Croce",
+      "Antonio Gramsci",
+      "Giovanni Gentile",
+      "Norberto Bobbio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gramsci redactó esos cuadernos mientras estaba encarcelado por el régimen fascista."
+  },
+  {
+    "id": "cg-4263",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo alemán escribió *Dialéctica de la Ilustración* junto con Max Horkheimer?",
+    "options": [
+      "Walter Benjamin",
+      "Herbert Marcuse",
+      "Theodor Adorno",
+      "Jürgen Habermas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Adorno y Horkheimer analizaron la racionalidad instrumental y la crisis de la Ilustración."
+  },
+  {
+    "id": "cg-4264",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo francés analizó la prisión y las instituciones disciplinarias en *Vigilar y castigar*?",
+    "options": [
+      "Jacques Derrida",
+      "Michel Foucault",
+      "Gilles Deleuze",
+      "Louis Althusser"
+    ],
+    "correctIndex": 1,
+    "explanation": "Foucault estudió cómo las sociedades modernas producen cuerpos dóciles mediante el disciplinamiento."
+  },
+  {
+    "id": "cg-4265",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo francés asoció su método con la deconstrucción de textos?",
+    "options": [
+      "Michel Foucault",
+      "Jacques Derrida",
+      "Paul Ricoeur",
+      "Claude Lévi-Strauss"
+    ],
+    "correctIndex": 1,
+    "explanation": "Derrida propuso la deconstrucción para mostrar las oposiciones jerárquicas implícitas en los textos."
+  },
+  {
+    "id": "cg-4266",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo estadounidense publicó *Una teoría de la justicia* en 1971?",
+    "options": [
+      "Robert Nozick",
+      "Ronald Dworkin",
+      "John Rawls",
+      "Amartya Sen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rawls formuló una concepción de la justicia basada en la posición original y el velo de la ignorancia."
+  },
+  {
+    "id": "cg-4267",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo estadounidense escribió *Anarquía, Estado y utopía* en 1974?",
+    "options": [
+      "John Rawls",
+      "Robert Nozick",
+      "Michael Walzer",
+      "Friedrich Hayek"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nozick defendió un Estado mínimo y los derechos individuales frente a la redistribución."
+  },
+  {
+    "id": "cg-4268",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo y pedagogo estadounidense escribió *Democracia y educación*?",
+    "options": [
+      "William James",
+      "Charles Peirce",
+      "George Santayana",
+      "John Dewey"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dewey vinculó la educación con la experiencia y la vida democrática en esa obra."
+  },
+  {
+    "id": "cg-4269",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué físico e historiador estadounidense describió las revoluciones científicas en 1962?",
+    "options": [
+      "Karl Popper",
+      "Imre Lakatos",
+      "Paul Feyerabend",
+      "Thomas Kuhn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kuhn introdujo los conceptos de paradigma y cambio de paradigma en la historia de la ciencia."
+  },
+  {
+    "id": "cg-4270",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué matemático austríaco formuló los teoremas de incompletitud en 1931?",
+    "options": [
+      "Alfred Tarski",
+      "Kurt Gödel",
+      "John von Neumann",
+      "David Hilbert"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gödel demostró que todo sistema formal consistente y suficientemente expresivo contiene verdades indecidibles."
+  },
+  {
+    "id": "cg-4271",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué matemático irlandés creó el álgebra que lleva su nombre?",
+    "options": [
+      "Augustus De Morgan",
+      "Gottlob Frege",
+      "George Boole",
+      "Giuseppe Peano"
+    ],
+    "correctIndex": 2,
+    "explanation": "El álgebra de Boole formalizó las operaciones lógicas y es la base de la informática digital."
+  },
+  {
+    "id": "cg-4272",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué lógico británico formuló en 1901 una paradoja sobre el conjunto de todos los conjuntos que no se contienen a sí mismos?",
+    "options": [
+      "Gottlob Frege",
+      "Bertrand Russell",
+      "Alfred Whitehead",
+      "Ernst Zermelo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La paradoja de Russell mostró inconsistencias en la teoría ingenua de conjuntos."
+  },
+  {
+    "id": "cg-4273",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo lituano-francés escribió *Totalidad e infinito* y desarrolló una ética de la alteridad?",
+    "options": [
+      "Paul Ricoeur",
+      "Jacques Derrida",
+      "Emmanuel Levinas",
+      "Maurice Merleau-Ponty"
+    ],
+    "correctIndex": 2,
+    "explanation": "Levinas situó la responsabilidad ante el otro como fundamento de la ética."
+  },
+  {
+    "id": "cg-4274",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo alemán propuso el principio de responsabilidad ante la técnica moderna?",
+    "options": [
+      "Jürgen Habermas",
+      "Hans Jonas",
+      "Martin Heidegger",
+      "Ernst Bloch"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jonas defendió una ética orientada al futuro y a la preservación de la vida humana."
+  },
+  {
+    "id": "cg-4275",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo austríaco escribió *La sociedad abierta y sus enemigos*?",
+    "options": [
+      "Karl Popper",
+      "Friedrich Hayek",
+      "Isaiah Berlin",
+      "Thomas Kuhn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Popper criticó el historicismo y defendió la sociedad abierta y la libertad crítica."
+  },
+  {
+    "id": "cg-4276",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo español escribió *La rebelión de las masas* en 1929?",
+    "options": [
+      "Miguel de Unamuno",
+      "Ramón Menéndez Pidal",
+      "Eugenio d’Ors",
+      "José Ortega y Gasset"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ortega analizó la irrupción de las masas en la vida pública y la crisis de la cultura europea."
+  },
+  {
+    "id": "cg-4277",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo español escribió *Del sentimiento trágico de la vida*?",
+    "options": [
+      "Miguel de Unamuno",
+      "Ortega y Gasset",
+      "Eugenio d’Ors",
+      "José Ferrater Mora"
+    ],
+    "correctIndex": 0,
+    "explanation": "Unamuno planteó el conflicto entre la razón y el deseo de inmortalidad en esa obra."
+  },
+  {
+    "id": "cg-4278",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo alemán escribió *La decadencia de Occidente*?",
+    "options": [
+      "Karl Jaspers",
+      "Oswald Spengler",
+      "Arnold Toynbee",
+      "Max Weber"
+    ],
+    "correctIndex": 1,
+    "explanation": "Spengler interpretó las civilizaciones como organismos sujetos a nacimiento y decadencia."
+  },
+  {
+    "id": "cg-4279",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo alemán escribió *La crisis de las ciencias europeas* en 1936?",
+    "options": [
+      "Martin Heidegger",
+      "Karl Jaspers",
+      "Edmund Husserl",
+      "Wilhelm Dilthey"
+    ],
+    "correctIndex": 2,
+    "explanation": "Husserl diagnosticó una crisis de sentido en las ciencias y propuso la fenomenología como respuesta."
+  },
+  {
+    "id": "cg-4280",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo francés escribió *Lo visible y lo invisible*?",
+    "options": [
+      "Jean-Paul Sartre",
+      "Maurice Merleau-Ponty",
+      "Gabriel Marcel",
+      "Paul Ricoeur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Merleau-Ponty desarrolló una ontología de la carne y de la percepción en esa obra póstuma."
+  },
+  {
+    "id": "cg-4281",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo alemán propuso un proyecto de paz perpetua entre las naciones en 1795?",
+    "options": [
+      "Hegel",
+      "Immanuel Kant",
+      "Fichte",
+      "Rousseau"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kant esbozó en *La paz perpetua* un orden internacional basado en el derecho y la federación de Estados."
+  },
+  {
+    "id": "cg-4282",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo alemán escribió *La esencia del cristianismo* en 1841?",
+    "options": [
+      "Karl Marx",
+      "Bruno Bauer",
+      "David Strauss",
+      "Ludwig Feuerbach"
+    ],
+    "correctIndex": 3,
+    "explanation": "Feuerbach sostuvo que la idea de Dios es una proyección de los atributos humanos."
+  },
+  {
+    "id": "cg-4283",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué pensador ruso es considerado una de las principales figuras del anarquismo del siglo XIX?",
+    "options": [
+      "Piotr Kropotkin",
+      "Mijaíl Bakunin",
+      "Karl Marx",
+      "Aleksandr Herzen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bakunin criticó el Estado y defendió la revolución social y la federación libre de comunidades."
+  },
+  {
+    "id": "cg-4284",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo inglés describió el estado de naturaleza como una guerra de todos contra todos?",
+    "options": [
+      "John Locke",
+      "Jean-Jacques Rousseau",
+      "Samuel Pufendorf",
+      "Thomas Hobbes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hobbes justificó el poder absoluto del soberano como salida de la inseguridad del estado natural."
+  },
+  {
+    "id": "cg-4285",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué libro bíblico narra la creación del mundo y de los primeros seres humanos?",
+    "options": [
+      "Éxodo",
+      "Salmos",
+      "Génesis",
+      "Isaías"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Génesis abre la Biblia con los relatos de la creación y de los patriarcas."
+  },
+  {
+    "id": "cg-4286",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué libro bíblico reúne composiciones atribuidas tradicionalmente al rey David?",
+    "options": [
+      "Salmos",
+      "Proverbios",
+      "Eclesiastés",
+      "Cantar de los Cantares"
+    ],
+    "correctIndex": 0,
+    "explanation": "El libro de los Salmos es una colección de oraciones y poemas litúrgicos de Israel."
+  },
+  {
+    "id": "cg-4287",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Cuál de los cuatro evangelios canónicos se considera anterior a los otros tres?",
+    "options": [
+      "Marcos",
+      "Mateo",
+      "Lucas",
+      "Juan"
+    ],
+    "correctIndex": 0,
+    "explanation": "La mayoría de los estudiosos sitúa la composición del evangelio de Marcos en torno al año 70."
+  },
+  {
+    "id": "cg-4288",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué autor escribió buena parte de las cartas del Nuevo Testamento?",
+    "options": [
+      "Pedro",
+      "Juan",
+      "Pablo",
+      "Santiago"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tradicionalmente se atribuyen a Pablo trece o catorce cartas del Nuevo Testamento."
+  },
+  {
+    "id": "cg-4289",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué concilio de 451 definió que Cristo tiene dos naturalezas, divina y humana?",
+    "options": [
+      "Éfeso",
+      "Nicea",
+      "Constantinopla I",
+      "Calcedonia"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Concilio de Calcedonia formuló la doctrina de las dos naturalezas en una sola persona."
+  },
+  {
+    "id": "cg-4290",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué concilio de 431 proclamó a María Theotokos, madre de Dios?",
+    "options": [
+      "Calcedonia",
+      "Éfeso",
+      "Nicea II",
+      "Trento"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Concilio de Éfeso defendió el título de Theotokos frente a la posición de Nestorio."
+  },
+  {
+    "id": "cg-4291",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué reformador de Ginebra defendió la doctrina de la predestinación?",
+    "options": [
+      "Juan Calvino",
+      "Martín Lutero",
+      "Ulrico Zwinglio",
+      "Menno Simons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Calvino sistematizó la teología reformada en la *Institución de la religión cristiana*."
+  },
+  {
+    "id": "cg-4292",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué reformador suizo murió en la batalla de Kappel en 1531?",
+    "options": [
+      "Juan Calvino",
+      "Martín Lutero",
+      "Thomas Müntzer",
+      "Ulrico Zwinglio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Zwinglio lideró la Reforma en Zúrich y murió combatiendo contra los cantones católicos."
+  },
+  {
+    "id": "cg-4293",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué predicador inglés del siglo XVIII fundó el metodismo junto con su hermano Charles?",
+    "options": [
+      "George Whitefield",
+      "Jonathan Edwards",
+      "Thomas Cranmer",
+      "John Wesley"
+    ],
+    "correctIndex": 3,
+    "explanation": "John Wesley impulsó el metodismo mediante la predicación itinerante y las sociedades religiosas."
+  },
+  {
+    "id": "cg-4294",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué teólogo checo fue condenado y quemado en el Concilio de Constanza en 1415?",
+    "options": [
+      "Jan Hus",
+      "Jerónimo de Praga",
+      "Pedro Valdo",
+      "John Wycliffe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jan Hus criticó abusos eclesiásticos y fue ejecutado pese al salvoconducto imperial."
+  },
+  {
+    "id": "cg-4295",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué concilio católico reunido entre 1545 y 1563 respondió a la Reforma protestante?",
+    "options": [
+      "Vaticano I",
+      "Trento",
+      "Letrán IV",
+      "Basilea"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Concilio de Trento fijó la doctrina católica y reformó la disciplina eclesiástica."
+  },
+  {
+    "id": "cg-4296",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué decreto de 1598 concedió cierta tolerancia religiosa a los protestantes en Francia?",
+    "options": [
+      "Edicto de Fontainebleau",
+      "Paz de Augsburgo",
+      "Edicto de Nantes",
+      "Edicto de Milán"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Edicto de Nantes, firmado por Enrique IV, puso fin a las guerras de religión francesas."
+  },
+  {
+    "id": "cg-4297",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué padre de la Iglesia escribió *Contra las herejías* en el siglo II?",
+    "options": [
+      "Tertuliano",
+      "Ireneo de Lyon",
+      "Orígenes",
+      "Clemente de Roma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ireneo combatió las doctrinas gnósticas y subrayó la tradición de las iglesias apostólicas."
+  },
+  {
+    "id": "cg-4298",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué jesuita italiano introdujo el cristianismo en la corte Ming de China en el siglo XVI?",
+    "options": [
+      "Francisco Javier",
+      "Roberto de Nobili",
+      "Adam Schall",
+      "Matteo Ricci"
+    ],
+    "correctIndex": 3,
+    "explanation": "Matteo Ricci adoptó costumbres chinas y tradujo textos occidentales para la corte Ming."
+  },
+  {
+    "id": "cg-4299",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué conjunto de relatos islámicos recoge sentencias y hechos atribuidos a Mahoma?",
+    "options": [
+      "Tafsir",
+      "Fiqh",
+      "Hadiz",
+      "Sira"
+    ],
+    "correctIndex": 2,
+    "explanation": "El hadiz complementa el Corán y es una fuente central de la jurisprudencia islámica."
+  },
+  {
+    "id": "cg-4300",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué rama del islam considera a Alí y a sus descendientes herederos legítimos de Mahoma?",
+    "options": [
+      "Sunismo",
+      "Jariyismo",
+      "Chiismo",
+      "Sufismo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El chiismo surgió de la disputa por la sucesión de Mahoma y reconoce la autoridad de la familia del Profeta."
+  },
+  {
+    "id": "cg-4301",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué corriente mística del islam busca la unión interior con Dios mediante la renuncia y el recuerdo constante?",
+    "options": [
+      "Mutazilismo",
+      "Salafismo",
+      "Wahabismo",
+      "Sufismo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El sufismo desarrolló prácticas de ascetismo, poesía y meditación centradas en el amor divino."
+  },
+  {
+    "id": "cg-4302",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué jurista islámico del siglo VIII fundó la escuela jurídica hanafí?",
+    "options": [
+      "Malik ibn Anas",
+      "Al-Shafi’i",
+      "Abu Hanifa",
+      "Ahmad ibn Hanbal"
+    ],
+    "correctIndex": 2,
+    "explanation": "La escuela hanafí, fundada por Abu Hanifa, es una de las cuatro grandes escuelas jurídicas suníes."
+  },
+  {
+    "id": "cg-4303",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué teólogo islámico del siglo X fundó la escuela teológica asharí?",
+    "options": [
+      "Al-Ashari",
+      "Al-Maturidi",
+      "Ibn Taymiyya",
+      "Al-Ghazali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al-Ashari defendió una teología que concilia la omnipotencia divina con la responsabilidad humana."
+  },
+  {
+    "id": "cg-4304",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad es considerada la tercera ciudad santa del islam, después de La Meca y Medina?",
+    "options": [
+      "Bagdad",
+      "Damasco",
+      "Kairuán",
+      "Jerusalén"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jerusalén alberga la mezquita de Al-Aqsa y la Cúpula de la Roca, lugares sagrados del islam."
+  },
+  {
+    "id": "cg-4305",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué sura del Corán supera en extensión a todas las demás?",
+    "options": [
+      "Al-Fatiha",
+      "Al-Ikhlas",
+      "An-Nas",
+      "Al-Baqara"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al-Baqara, la segunda sura, es la más extensa del Corán y contiene numerosas normas jurídicas."
+  },
+  {
+    "id": "cg-4306",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué profesión de fe islámica afirma que no hay más dios que Alá y que Mahoma es su mensajero?",
+    "options": [
+      "Salat",
+      "Shahada",
+      "Zakat",
+      "Sawm"
+    ],
+    "correctIndex": 1,
+    "explanation": "La shahada es el primero de los cinco pilares y resume la fe islámica."
+  },
+  {
+    "id": "cg-4307",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué limosna obligatoria forma parte de los cinco pilares del islam?",
+    "options": [
+      "Sadaqa",
+      "Zakat",
+      "Jizya",
+      "Kharaj"
+    ],
+    "correctIndex": 1,
+    "explanation": "El zakat es una contribución anual destinada a los necesitados y a fines comunitarios."
+  },
+  {
+    "id": "cg-4308",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué fiesta islámica celebra el final del mes de ramadán?",
+    "options": [
+      "Eid al-Adha",
+      "Ashura",
+      "Mawlid",
+      "Eid al-Fitr"
+    ],
+    "correctIndex": 3,
+    "explanation": "Eid al-Fitr es la fiesta de la ruptura del ayuno y se celebra el primer día de Shawwal."
+  },
+  {
+    "id": "cg-4309",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué compilación judía recoge la ley oral y sus discusiones rabínicas?",
+    "options": [
+      "Tanaj",
+      "Talmud",
+      "Midrash",
+      "Sidur"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Talmud combina la Mishná con la Guemará y es fundamental para la interpretación rabínica."
+  },
+  {
+    "id": "cg-4310",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué fiesta judía conmemora la salida de Egipto y se celebra con un séder?",
+    "options": [
+      "Shavuot",
+      "Pésaj",
+      "Sucot",
+      "Purim"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pésaj recuerda el Éxodo y se celebra con una cena ritual llamada séder."
+  },
+  {
+    "id": "cg-4311",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué día judío de ayuno y arrepentimiento cierra los diez días penitenciales?",
+    "options": [
+      "Rosh Hashaná",
+      "Yom Kipur",
+      "Tisha b’Av",
+      "Purim"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yom Kipur es el día de la expiación y uno de los más solemnes del calendario judío."
+  },
+  {
+    "id": "cg-4312",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué fiesta judía de ocho días conmemora la rededicación del Templo y se celebra encendiendo velas?",
+    "options": [
+      "Pésaj",
+      "Sucot",
+      "Janucá",
+      "Shavuot"
+    ],
+    "correctIndex": 2,
+    "explanation": "Janucá recuerda la victoria de los macabeos y la purificación del Templo de Jerusalén."
+  },
+  {
+    "id": "cg-4313",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué movimiento judío de Europa oriental, fundado por Israel ben Eliezer, enfatiza la alegría y la piedad popular?",
+    "options": [
+      "Jasidismo",
+      "Haskalá",
+      "Sionismo",
+      "Judaísmo reformista"
+    ],
+    "correctIndex": 0,
+    "explanation": "El jasidismo, impulsado por el Baal Shem Tov, extendió una espiritualidad basada en la alegría y la devoción."
+  },
+  {
+    "id": "cg-4314",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué dios hindú es considerado el preservador del universo en la trimurti?",
+    "options": [
+      "Brahma",
+      "Shiva",
+      "Indra",
+      "Vishnu"
+    ],
+    "correctIndex": 3,
+    "explanation": "La trimurti hindú asocia la creación a Brahma, la preservación a Vishnu y la destrucción a Shiva."
+  },
+  {
+    "id": "cg-4315",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué dios hindú representa la destrucción y la transformación en la trimurti?",
+    "options": [
+      "Shiva",
+      "Vishnu",
+      "Brahma",
+      "Ganesha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shiva es el dios de la transformación y aparece vinculado a la danza cósmica."
+  },
+  {
+    "id": "cg-4316",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué dios hindú tiene cabeza de elefante y es invocado antes de comenzar empresas?",
+    "options": [
+      "Hanuman",
+      "Ganesha",
+      "Krishna",
+      "Kartikeya"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ganesha es venerado como removedor de obstáculos y patrón de los comienzos."
+  },
+  {
+    "id": "cg-4317",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué concepto hindú designa la consecuencia de las acciones que condiciona las reencarnaciones?",
+    "options": [
+      "Dharma",
+      "Karma",
+      "Maya",
+      "Moksha"
+    ],
+    "correctIndex": 1,
+    "explanation": "El karma es la ley de causa y efecto moral que determina el destino de las personas."
+  },
+  {
+    "id": "cg-4318",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué término hindú designa la liberación del ciclo de reencarnaciones?",
+    "options": [
+      "Samsara",
+      "Karma",
+      "Moksha",
+      "Nirvana"
+    ],
+    "correctIndex": 2,
+    "explanation": "El moksha es la meta espiritual última del hinduismo y supone salir del samsara."
+  },
+  {
+    "id": "cg-4319",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué casta hindú tradicional agrupaba a guerreros y gobernantes?",
+    "options": [
+      "Kshatriya",
+      "Brahmán",
+      "Vaishya",
+      "Shudra"
+    ],
+    "correctIndex": 0,
+    "explanation": "El sistema varna tradicional distingue brahmanes, kshatriyas, vaishyas y shudras."
+  },
+  {
+    "id": "cg-4320",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué festival hindú de las luces celebra la victoria de la luz sobre la oscuridad?",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Navaratri",
+      "Pongal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Diwali se celebra con lámparas y reúne a comunidades hindúes, jainistas y sijes."
+  },
+  {
+    "id": "cg-4321",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué colección de textos budistas en lengua pali forma el canon de la escuela Theravada?",
+    "options": [
+      "Canon chino",
+      "Tripitaka chino",
+      "Canon Pali",
+      "Kangyur"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Canon Pali, o Tipitaka, reúne los discursos, las reglas monásticas y la doctrina budista."
+  },
+  {
+    "id": "cg-4322",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué primeras enseñanzas del Buda resumen el sufrimiento, su origen, su cese y el camino?",
+    "options": [
+      "Cinco preceptos",
+      "Tres refugios",
+      "Siete factores",
+      "Cuatro nobles verdades"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las cuatro nobles verdades constituyen el núcleo de la doctrina budista."
+  },
+  {
+    "id": "cg-4323",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué conjunto de ocho prácticas prescribe el budismo para alcanzar la liberación?",
+    "options": [
+      "Diez mandamientos",
+      "Cinco pilares",
+      "Cuatro virtudes",
+      "Óctuple sendero"
+    ],
+    "correctIndex": 3,
+    "explanation": "El noble óctuple sendero incluye recta visión, recta palabra, recta acción y recta meditación."
+  },
+  {
+    "id": "cg-4324",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué concepto budista designa la impermanencia de todos los fenómenos?",
+    "options": [
+      "Anatta",
+      "Dukkha",
+      "Nirvana",
+      "Anicca"
+    ],
+    "correctIndex": 3,
+    "explanation": "Anicca enseña que todo lo condicionado surge y desaparece constantemente."
+  },
+  {
+    "id": "cg-4325",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué emperador indio se convirtió al budismo tras la guerra de Kalinga?",
+    "options": [
+      "Chandragupta",
+      "Kanishka",
+      "Ashoka",
+      "Harsha"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ashoka difundió el budismo y dejó inscripciones sobre la moral y la tolerancia religiosa."
+  },
+  {
+    "id": "cg-4326",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo budista indio del siglo II fundó la escuela Madhyamaka?",
+    "options": [
+      "Vasubandhu",
+      "Nagarjuna",
+      "Asanga",
+      "Dignaga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nagarjuna desarrolló la doctrina de la vacuidad y es una figura central del budismo mahayana."
+  },
+  {
+    "id": "cg-4327",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo taoísta narró el sueño en el que no sabía si era hombre o mariposa?",
+    "options": [
+      "Zhuangzi",
+      "Laozi",
+      "Liezi",
+      "Mozi"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pasaje de la mariposa, en el *Zhuangzi*, plantea la relación entre el sueño y la vigilia."
+  },
+  {
+    "id": "cg-4328",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "medium",
+    "question": "¿Qué pensador confuciano sostuvo que la naturaleza humana es originariamente buena?",
+    "options": [
+      "Xunzi",
+      "Han Fei",
+      "Mencio",
+      "Mozi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mencio defendió que las personas poseen semillas naturales de virtud que deben cultivarse."
+  },
+  {
+    "id": "cg-4329",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué concepto de Anaximandro designa lo indefinido e ilimitado como origen de todas las cosas?",
+    "options": [
+      "Arjé",
+      "Ápeiron",
+      "Cosmos",
+      "Logos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Anaximandro llamó ápeiron a la materia primordial indefinida de la que surgen los contrarios."
+  },
+  {
+    "id": "cg-4330",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué filósofo presocrático introdujo el nous como inteligencia ordenadora del cosmos?",
+    "options": [
+      "Empédocles",
+      "Demócrito",
+      "Anaxágoras",
+      "Parménides"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anaxágoras sostuvo que una inteligencia o nous puso orden en la mezcla original de las cosas."
+  },
+  {
+    "id": "cg-4331",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué pitagórico del siglo V a.C. situó un fuego central en el centro del universo?",
+    "options": [
+      "Filolao",
+      "Arquitas",
+      "Timeo",
+      "Heráclides"
+    ],
+    "correctIndex": 0,
+    "explanation": "Filolao propuso un cosmos con un fuego central, anticipando modelos no geocéntricos."
+  },
+  {
+    "id": "cg-4332",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué filósofo griego continuó la doctrina de Parménides y afirmó que el ser es infinito e inmóvil?",
+    "options": [
+      "Zenón de Elea",
+      "Meliso de Samos",
+      "Jenófanes",
+      "Empédocles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Meliso defendió la unidad e infinitud del ser frente a las críticas a la escuela eleática."
+  },
+  {
+    "id": "cg-4333",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué analogía de Platón divide el conocimiento en cuatro niveles, desde la imaginación hasta la intelección?",
+    "options": [
+      "Línea dividida",
+      "Mito de la caverna",
+      "Alegoría del sol",
+      "Carro alado"
+    ],
+    "correctIndex": 0,
+    "explanation": "La línea dividida, en *La República*, jerarquiza los grados de conocimiento y de realidad."
+  },
+  {
+    "id": "cg-4334",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué diálogo de Platón presenta argumentos sobre la inmortalidad del alma antes de la muerte de Sócrates?",
+    "options": [
+      "Fedón",
+      "Apología",
+      "Critón",
+      "Menón"
+    ],
+    "correctIndex": 0,
+    "explanation": "En el *Fedón*, Sócrates conversa sobre la inmortalidad del alma en sus últimas horas."
+  },
+  {
+    "id": "cg-4335",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué concepto aristotélico designa el primer motor que mueve sin ser movido?",
+    "options": [
+      "Demiurgo",
+      "Logos",
+      "Éter",
+      "Motor inmóvil"
+    ],
+    "correctIndex": 3,
+    "explanation": "Aristóteles postuló un motor inmóvil como causa final del movimiento del cosmos."
+  },
+  {
+    "id": "cg-4336",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué par de conceptos aristotélicos explica el cambio como paso de lo posible a lo realizado?",
+    "options": [
+      "Acto y potencia",
+      "Materia y forma",
+      "Ser y devenir",
+      "Uno y múltiple"
+    ],
+    "correctIndex": 0,
+    "explanation": "El acto y la potencia permiten a Aristóteles explicar el devenir sin negar la permanencia del ser."
+  },
+  {
+    "id": "cg-4337",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué término epicúreo designa la ausencia de dolor físico?",
+    "options": [
+      "Ataraxia",
+      "Hedoné",
+      "Eudaimonía",
+      "Aponía"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para Epicuro, la aponía es la ausencia de dolor corporal y la ataraxia la ausencia de perturbación mental."
+  },
+  {
+    "id": "cg-4338",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué filósofo estoico griego, nacido esclavo, enseñó que solo el juicio depende de nosotros?",
+    "options": [
+      "Séneca",
+      "Marco Aurelio",
+      "Epicteto",
+      "Cleantes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Epicteto distinguió entre lo que está en nuestro poder y lo que no, núcleo de su ética estoica."
+  },
+  {
+    "id": "cg-4339",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué autor romano escribió *De officiis*, tratado sobre los deberes morales?",
+    "options": [
+      "Séneca",
+      "Cicerón",
+      "Lucrecio",
+      "Epicteto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cicerón expuso en *De officiis* una ética inspirada en el estoicismo y adaptada a la vida pública."
+  },
+  {
+    "id": "cg-4340",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué teólogo alejandrino escribió *Contra Celso* en defensa del cristianismo?",
+    "options": [
+      "Clemente de Alejandría",
+      "Orígenes",
+      "Atanasio",
+      "Justino"
+    ],
+    "correctIndex": 1,
+    "explanation": "Orígenes respondió a las críticas del filósofo pagano Celso en esa obra apologética."
+  },
+  {
+    "id": "cg-4341",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué padre capadocio defendió la divinidad del Espíritu Santo en el siglo IV?",
+    "options": [
+      "Gregorio Nacianceno",
+      "Basilio de Cesarea",
+      "Juan Crisóstomo",
+      "Atanasio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Basilio escribió *Sobre el Espíritu Santo* y fue clave en la formulación trinitaria de Nicea."
+  },
+  {
+    "id": "cg-4342",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué presbítero alejandrino negó que el Hijo fuera consustancial al Padre?",
+    "options": [
+      "Nestorio",
+      "Pelagio",
+      "Arrio",
+      "Macedonio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arrio sostuvo que el Hijo era una criatura del Padre, doctrina condenada en Nicea."
+  },
+  {
+    "id": "cg-4343",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué doctrina teológica sostiene que Dios ha elegido desde la eternidad a quienes se salvarán?",
+    "options": [
+      "Justificación",
+      "Predestinación",
+      "Gracia santificante",
+      "Providencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "La predestinación fue desarrollada por Agustín y luego por Calvino en la tradición reformada."
+  },
+  {
+    "id": "cg-4344",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué teólogo escolástico distinguió entre verdades demostrables por la razón y misterios accesibles solo por la fe?",
+    "options": [
+      "Anselmo de Canterbury",
+      "Tomás de Aquino",
+      "Guillermo de Ockham",
+      "Juan Duns Escoto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tomás de Aquino sostuvo que razón y fe no se contradicen, aunque la fe excede a la razón."
+  },
+  {
+    "id": "cg-4345",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué filósofo andalusí sostuvo que la filosofía y la revelación conducen a la misma verdad?",
+    "options": [
+      "Al-Ghazali",
+      "Avicena",
+      "Averroes",
+      "Ibn Arabi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Averroes defendió la armonía entre el aristotelismo y el islam en sus comentarios y tratados."
+  },
+  {
+    "id": "cg-4346",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué cabalista de Safed del siglo XVI formuló la doctrina de la contracción o tzimtzum?",
+    "options": [
+      "Moisés Cordovero",
+      "Baal Shem Tov",
+      "Abraham Abulafia",
+      "Isaac Luria"
+    ],
+    "correctIndex": 3,
+    "explanation": "Luria explicó la creación como un retiro o contracción de Dios que deja espacio para el mundo."
+  },
+  {
+    "id": "cg-4347",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué filósofo italiano fue quemado en Roma en 1600 por sus ideas sobre el universo infinito?",
+    "options": [
+      "Tommaso Campanella",
+      "Galileo Galilei",
+      "Lucilio Vanini",
+      "Giordano Bruno"
+    ],
+    "correctIndex": 3,
+    "explanation": "Giordano Bruno defendió la infinitud del universo y murió ejecutado por la Inquisición."
+  },
+  {
+    "id": "cg-4348",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué filósofo italiano imaginó en *Civitas Solis* una utopía comunitaria?",
+    "options": [
+      "Giordano Bruno",
+      "Tomás Moro",
+      "Francis Bacon",
+      "Tommaso Campanella"
+    ],
+    "correctIndex": 3,
+    "explanation": "Campanella imaginó en *Civitas Solis* una sociedad regida por la sabiduría y la comunidad de bienes."
+  },
+  {
+    "id": "cg-4349",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué filósofo francés sostuvo que Dios es la única causa verdadera y que las criaturas son solo ocasiones?",
+    "options": [
+      "Nicolas Malebranche",
+      "René Descartes",
+      "Blaise Pascal",
+      "Antoine Arnauld"
+    ],
+    "correctIndex": 0,
+    "explanation": "El ocasionalismo de Malebranche explica la causalidad natural como intervención divina en cada ocasión."
+  },
+  {
+    "id": "cg-4350",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué filósofo alemán distinguió los juicios analíticos de los sintéticos en la *Crítica de la razón pura*?",
+    "options": [
+      "David Hume",
+      "Gottfried Leibniz",
+      "Immanuel Kant",
+      "Christian Wolff"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kant clasificó los juicios según su valor cognitivo y buscó explicar los juicios sintéticos a priori."
+  },
+  {
+    "id": "cg-4351",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué concilio de 787 restauró la veneración de las imágenes en el Imperio bizantino?",
+    "options": [
+      "Constantinopla II",
+      "Éfeso",
+      "Nicea II",
+      "Calcedonia"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Segundo Concilio de Nicea distinguió entre la veneración de las imágenes y la adoración debida a Dios."
+  },
+  {
+    "id": "cg-4352",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué emperador bizantino prohibió el culto de las imágenes en 726 e inició la iconoclasia?",
+    "options": [
+      "Constantino V",
+      "Justiniano II",
+      "León III",
+      "Basilio I"
+    ],
+    "correctIndex": 2,
+    "explanation": "León III ordenó retirar las imágenes religiosas, desencadenando un conflicto de más de un siglo."
+  },
+  {
+    "id": "cg-4353",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué patriarca de Constantinopla fue excomulgado en 1054, consumando el cisma con Roma?",
+    "options": [
+      "Focio",
+      "Ignacio",
+      "Miguel Cerulario",
+      "Atanasio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Miguel Cerulario lideró la Iglesia constantinopolitana durante el cisma de Oriente."
+  },
+  {
+    "id": "cg-4354",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué papa excomulgó al patriarca Miguel Cerulario en 1054?",
+    "options": [
+      "Gregorio VII",
+      "León IX",
+      "Inocencio III",
+      "Urbano II"
+    ],
+    "correctIndex": 1,
+    "explanation": "La legación de León IX excomulgó a Cerulario, y este respondió con una excomunión recíproca."
+  },
+  {
+    "id": "cg-4355",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué orden militar y religiosa fue fundada hacia 1118 para proteger a los peregrinos en Tierra Santa?",
+    "options": [
+      "Hospitalarios",
+      "Teutónicos",
+      "Caballeros de Santiago",
+      "Templarios"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Orden del Temple nació en Jerusalén y se convirtió en una poderosa organización medieval."
+  },
+  {
+    "id": "cg-4356",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué abad de Claraval impulsó la orden cisterciense en el siglo XII?",
+    "options": [
+      "Roberto de Molesmes",
+      "Bernardo de Claraval",
+      "Pedro el Venerable",
+      "Norberto de Xanten"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bernardo de Claraval reformó la vida monástica y tuvo enorme influencia en la Iglesia medieval."
+  },
+  {
+    "id": "cg-4357",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué movimiento medieval del sur de Francia profesaba un dualismo entre el bien y el mal y fue reprimido por la cruzada albigense?",
+    "options": [
+      "Valdenses",
+      "Cátaros",
+      "Husitas",
+      "Beguinas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los cátaros o albigenses fueron combatidos por la cruzada albigense y la Inquisición medieval."
+  },
+  {
+    "id": "cg-4358",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué papa convocó en el Concilio de Clermont de 1095 una expedición para recuperar Tierra Santa?",
+    "options": [
+      "Gregorio VII",
+      "Pascual II",
+      "Urbano II",
+      "Alejandro III"
+    ],
+    "correctIndex": 2,
+    "explanation": "Urbano II llamó en Clermont a recuperar Jerusalén, dando inicio a la primera cruzada."
+  },
+  {
+    "id": "cg-4359",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué santo castellano fundó la orden de los predicadores, conocida como dominicos?",
+    "options": [
+      "Domingo de Guzmán",
+      "Francisco de Asís",
+      "Pedro Nolasco",
+      "Juan de Mata"
+    ],
+    "correctIndex": 0,
+    "explanation": "Domingo de Guzmán fundó la orden dominicana, dedicada a la predicación y al estudio."
+  },
+  {
+    "id": "cg-4360",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué teólogo suizo escribió la *Dogmática eclesiástica* y criticó el liberalismo teológico?",
+    "options": [
+      "Rudolf Bultmann",
+      "Paul Tillich",
+      "Karl Barth",
+      "Emil Brunner"
+    ],
+    "correctIndex": 2,
+    "explanation": "Karl Barth renovó la teología protestante con su énfasis en la revelación y la trascendencia divina."
+  },
+  {
+    "id": "cg-4361",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué pastor luterano alemán fue ejecutado por los nazis en 1945 tras conspirar contra Hitler?",
+    "options": [
+      "Martin Niemöller",
+      "Karl Barth",
+      "Paul Schneider",
+      "Dietrich Bonhoeffer"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bonhoeffer participó en la resistencia antinazi y fue ahorcado en el campo de Flossenbürg."
+  },
+  {
+    "id": "cg-4362",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué arzobispo salvadoreño fue asesinado en 1980 durante la celebración de una misa?",
+    "options": [
+      "Rutilio Grande",
+      "Ignacio Ellacuría",
+      "Miguel Obando",
+      "Óscar Romero"
+    ],
+    "correctIndex": 3,
+    "explanation": "Óscar Romero denunció la violencia y la injusticia social antes de ser asesinado en San Salvador."
+  },
+  {
+    "id": "cg-4363",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué encíclica de 1891 de León XIII abordó la cuestión social y los derechos de los trabajadores?",
+    "options": [
+      "Quadragesimo anno",
+      "Mater et magistra",
+      "Pacem in terris",
+      "Rerum novarum"
+    ],
+    "correctIndex": 3,
+    "explanation": "*Rerum novarum* inauguró la doctrina social moderna de la Iglesia católica."
+  },
+  {
+    "id": "cg-4364",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué dogma fue definido en el Concilio Vaticano I en 1870?",
+    "options": [
+      "Inmaculada Concepción",
+      "Infalibilidad papal",
+      "Asunción de María",
+      "Transustanciación"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Vaticano I proclamó la infalibilidad del papa cuando enseña solemnemente en materia de fe y costumbres."
+  },
+  {
+    "id": "cg-4365",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué concilio de 381 completó el credo niceno y afirmó la divinidad del Espíritu Santo?",
+    "options": [
+      "Constantinopla I",
+      "Nicea I",
+      "Éfeso",
+      "Calcedonia"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Primer Concilio de Constantinopla amplió el credo niceno y condenó el arrianismo."
+  },
+  {
+    "id": "cg-4366",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 624 supuso el primer gran triunfo de Mahoma frente a los mecanos?",
+    "options": [
+      "Uhud",
+      "Jandaq",
+      "Jáibar",
+      "Badr"
+    ],
+    "correctIndex": 3,
+    "explanation": "La victoria de Badr consolidó la posición de Mahoma y de la comunidad musulmana en Medina."
+  },
+  {
+    "id": "cg-4367",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué califa ordenó fijar una versión oficial única del Corán en el siglo VII?",
+    "options": [
+      "Abu Bakr",
+      "Uthman",
+      "Umar",
+      "Alí"
+    ],
+    "correctIndex": 1,
+    "explanation": "Uthman hizo copiar y distribuir un texto coránico estandarizado para evitar variantes."
+  },
+  {
+    "id": "cg-4368",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué dinastía califal fundó Bagdad en 762 y patrocinó las ciencias?",
+    "options": [
+      "Omeya",
+      "Fatimí",
+      "Abasí",
+      "Selyúcida"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los abasíes trasladaron la capital a Bagdad y convirtieron la ciudad en un centro intelectual."
+  },
+  {
+    "id": "cg-4369",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué califa abasí impulsó la Casa de la Sabiduría y la traducción de textos griegos?",
+    "options": [
+      "Harun al-Rashid",
+      "Al-Mamún",
+      "Al-Mutawakkil",
+      "Al-Mu’tasim"
+    ],
+    "correctIndex": 1,
+    "explanation": "Al-Mamún promovió la traducción al árabe de obras griegas, persas e indias en Bagdad."
+  },
+  {
+    "id": "cg-4370",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué teólogo islámico escribió *La incoherencia de los filósofos* contra Avicena y los aristotélicos?",
+    "options": [
+      "Ibn Rushd",
+      "Ibn Sina",
+      "Al-Ghazali",
+      "Al-Farabi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al-Ghazali criticó las pretensiones metafísicas de los filósofos y defendió la teología asharí."
+  },
+  {
+    "id": "cg-4371",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué filósofo y médico persa compiló una enciclopedia filosófica titulada *Al-Shifa*?",
+    "options": [
+      "Al-Razi",
+      "Avicena",
+      "Ibn Rushd",
+      "Al-Kindi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Avicena, o Ibn Sina, compuso una amplia enciclopedia filosófica y científica conocida como *El libro de la curación*."
+  },
+  {
+    "id": "cg-4372",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué místico andalusí escribió *Las revelaciones de La Meca*?",
+    "options": [
+      "Ibn Arabi",
+      "Ibn al-Farid",
+      "Al-Hallaj",
+      "Rumi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ibn Arabi desarrolló una metafísica sufí de la unidad del ser en esa extensa obra."
+  },
+  {
+    "id": "cg-4373",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué pensador tunecino del siglo XIV escribió la *Muqaddima*, introducción a la historia?",
+    "options": [
+      "Ibn Battuta",
+      "Al-Masudi",
+      "Ibn Jaldún",
+      "Ibn Hazm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ibn Jaldún analizó en la *Muqaddima* la sociedad, la economía y el ciclo de las dinastías."
+  },
+  {
+    "id": "cg-4374",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué movimiento reformista del siglo XVIII, fundado por Muhammad ibn Abd al-Wahhab, propuso volver al islam de los primeros tiempos?",
+    "options": [
+      "Wahabismo",
+      "Sufismo",
+      "Mutazilismo",
+      "Ismailismo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El wahabismo surgió en Arabia central y rechazó prácticas que consideraba innovaciones religiosas."
+  },
+  {
+    "id": "cg-4375",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué filósofo judío de Alejandría intentó conciliar la Torá con la filosofía griega mediante la alegoría?",
+    "options": [
+      "Filón de Alejandría",
+      "Flavio Josefo",
+      "Saadia Gaón",
+      "Maimónides"
+    ],
+    "correctIndex": 0,
+    "explanation": "Filón interpretó alegóricamente la Biblia para armonizarla con el platonismo y el estoicismo."
+  },
+  {
+    "id": "cg-4376",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué texto cabalístico medieval se presenta como comentario místico de la Torá?",
+    "options": [
+      "Talmud",
+      "Midrash",
+      "Zohar",
+      "Sefer Yetzirah"
+    ],
+    "correctIndex": 2,
+    "explanation": "El *Zohar* es la obra principal de la cábala y se atribuye tradicionalmente a Simeón bar Yojai."
+  },
+  {
+    "id": "cg-4377",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué filósofo hindú del siglo XI defendió el Vedanta no dualista cualificado?",
+    "options": [
+      "Ramanuja",
+      "Shankara",
+      "Madhva",
+      "Nimbarka"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ramanuja sostuvo que las almas y el mundo son reales pero dependen del Brahman."
+  },
+  {
+    "id": "cg-4378",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué concepto del Vedanta designa el poder ilusorio que oculta la unidad del Brahman?",
+    "options": [
+      "Maya",
+      "Karma",
+      "Dharma",
+      "Atman"
+    ],
+    "correctIndex": 0,
+    "explanation": "Maya es la apariencia que hace percibir la multiplicidad como separada de la unidad última."
+  },
+  {
+    "id": "cg-4379",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué escuela budista mahayana sostiene que todos los fenómenos son solo conciencia?",
+    "options": [
+      "Madhyamaka",
+      "Theravada",
+      "Yogacara",
+      "Sarvastivada"
+    ],
+    "correctIndex": 2,
+    "explanation": "La escuela Yogacara, asociada a Vasubandhu y Asanga, desarrolló la doctrina de la conciencia única."
+  },
+  {
+    "id": "cg-4380",
+    "category": "general",
+    "topic": "philosophy_religion",
+    "difficulty": "hard",
+    "question": "¿Qué filósofo confuciano sostuvo que la naturaleza humana es mala y requiere corrección?",
+    "options": [
+      "Xunzi",
+      "Mencio",
+      "Confucio",
+      "Mozi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Xunzi defendió que la educación y los rituales corrigen las inclinaciones naturales del ser humano."
+  }
+]

@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-3081",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Portugal?",
+    "options": [
+      "Oporto",
+      "Coímbra",
+      "Braga",
+      "Lisboa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lisboa es la capital de Portugal y su ciudad más poblada."
+  },
+  {
+    "id": "cg-3082",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Grecia?",
+    "options": [
+      "Atenas",
+      "Patras",
+      "Heraclión",
+      "Salónica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Atenas es la capital de Grecia desde 1834."
+  },
+  {
+    "id": "cg-3083",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Suecia?",
+    "options": [
+      "Upsala",
+      "Estocolmo",
+      "Gotemburgo",
+      "Malmö"
+    ],
+    "correctIndex": 1,
+    "explanation": "Estocolmo es la capital de Suecia y está construida sobre varias islas."
+  },
+  {
+    "id": "cg-3084",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Noruega?",
+    "options": [
+      "Bergen",
+      "Oslo",
+      "Trondheim",
+      "Stavanger"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oslo es la capital de Noruega y está situada al fondo del fiordo de Oslo."
+  },
+  {
+    "id": "cg-3085",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Finlandia?",
+    "options": [
+      "Espoo",
+      "Turku",
+      "Tampere",
+      "Helsinki"
+    ],
+    "correctIndex": 3,
+    "explanation": "Helsinki es la capital de Finlandia desde 1812."
+  },
+  {
+    "id": "cg-3086",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Dinamarca?",
+    "options": [
+      "Aarhus",
+      "Copenhague",
+      "Odense",
+      "Aalborg"
+    ],
+    "correctIndex": 1,
+    "explanation": "Copenhague es la capital de Dinamarca y está en la isla de Selandia."
+  },
+  {
+    "id": "cg-3087",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Irlanda?",
+    "options": [
+      "Limerick",
+      "Dublín",
+      "Galway",
+      "Cork"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dublín es la capital de Irlanda y está en la desembocadura del río Liffey."
+  },
+  {
+    "id": "cg-3088",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Polonia?",
+    "options": [
+      "Cracovia",
+      "Varsovia",
+      "Lodz",
+      "Gdansk"
+    ],
+    "correctIndex": 1,
+    "explanation": "Varsovia es la capital de Polonia desde 1596."
+  },
+  {
+    "id": "cg-3089",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Hungría?",
+    "options": [
+      "Szeged",
+      "Miskolc",
+      "Debrecen",
+      "Budapest"
+    ],
+    "correctIndex": 3,
+    "explanation": "Budapest se formó en 1873 por la unión de Buda, Pest y Óbuda."
+  },
+  {
+    "id": "cg-3090",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Austria?",
+    "options": [
+      "Salzburgo",
+      "Viena",
+      "Linz",
+      "Graz"
+    ],
+    "correctIndex": 1,
+    "explanation": "Viena es la capital de Austria y fue sede de los Habsburgo."
+  },
+  {
+    "id": "cg-3091",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Bélgica?",
+    "options": [
+      "Bruselas",
+      "Brujas",
+      "Amberes",
+      "Gante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bruselas es la capital de Bélgica y alberga las instituciones centrales de la Unión Europea."
+  },
+  {
+    "id": "cg-3092",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Suiza?",
+    "options": [
+      "Berna",
+      "Ginebra",
+      "Zúrich",
+      "Basilea"
+    ],
+    "correctIndex": 0,
+    "explanation": "Berna es la capital federal de Suiza, aunque Zúrich es la ciudad más poblada."
+  },
+  {
+    "id": "cg-3093",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Ucrania?",
+    "options": [
+      "Odesa",
+      "Kiev",
+      "Járkov",
+      "Leópolis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kiev es la capital de Ucrania y está a orillas del río Dniéper."
+  },
+  {
+    "id": "cg-3094",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Rumanía?",
+    "options": [
+      "Bucarest",
+      "Constanza",
+      "Cluj-Napoca",
+      "Timișoara"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bucarest es la capital de Rumanía y está en la llanura del Danubio."
+  },
+  {
+    "id": "cg-3095",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Cuba?",
+    "options": [
+      "Camagüey",
+      "La Habana",
+      "Holguín",
+      "Santiago de Cuba"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Habana es la capital de Cuba y su principal puerto."
+  },
+  {
+    "id": "cg-3096",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Venezuela?",
+    "options": [
+      "Barquisimeto",
+      "Maracaibo",
+      "Valencia",
+      "Caracas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Caracas es la capital de Venezuela y está en un valle cercano al Caribe."
+  },
+  {
+    "id": "cg-3097",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Ecuador?",
+    "options": [
+      "Guayaquil",
+      "Cuenca",
+      "Quito",
+      "Loja"
+    ],
+    "correctIndex": 2,
+    "explanation": "Quito es la capital de Ecuador y está a unos 2.850 metros de altitud."
+  },
+  {
+    "id": "cg-3098",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Uruguay?",
+    "options": [
+      "Montevideo",
+      "Salto",
+      "Paysandú",
+      "Maldonado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Montevideo es la capital de Uruguay y está en la orilla norte del Río de la Plata."
+  },
+  {
+    "id": "cg-3099",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Paraguay?",
+    "options": [
+      "Asunción",
+      "Ciudad del Este",
+      "Encarnación",
+      "San Lorenzo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Asunción es la capital de Paraguay y está junto al río Paraguay."
+  },
+  {
+    "id": "cg-3100",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Costa Rica?",
+    "options": [
+      "San José",
+      "Alajuela",
+      "Cartago",
+      "Heredia"
+    ],
+    "correctIndex": 0,
+    "explanation": "San José es la capital de Costa Rica y está en el valle central del país."
+  },
+  {
+    "id": "cg-3101",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de la República Dominicana?",
+    "options": [
+      "Puerto Plata",
+      "Santiago de los Caballeros",
+      "La Romana",
+      "Santo Domingo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Santo Domingo es la capital de la República Dominicana y la ciudad europea más antigua de América."
+  },
+  {
+    "id": "cg-3102",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Islandia?",
+    "options": [
+      "Selfoss",
+      "Akureyri",
+      "Keflavik",
+      "Reikiavik"
+    ],
+    "correctIndex": 3,
+    "explanation": "Reikiavik es la capital de Islandia y la ciudad más septentrional de un Estado soberano."
+  },
+  {
+    "id": "cg-3103",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de la India?",
+    "options": [
+      "Bombay",
+      "Calcuta",
+      "Nueva Delhi",
+      "Bangalore"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nueva Delhi es la capital de la India y forma parte de la región metropolitana de Delhi."
+  },
+  {
+    "id": "cg-3104",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de China?",
+    "options": [
+      "Cantón",
+      "Shenzhen",
+      "Pekín",
+      "Shanghái"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pekín es la capital de China y sede del gobierno central."
+  },
+  {
+    "id": "cg-3105",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Corea del Sur?",
+    "options": [
+      "Daegu",
+      "Incheon",
+      "Busan",
+      "Seúl"
+    ],
+    "correctIndex": 3,
+    "explanation": "Seúl es la capital de Corea del Sur y está a orillas del río Han."
+  },
+  {
+    "id": "cg-3106",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Indonesia?",
+    "options": [
+      "Medan",
+      "Surabaya",
+      "Yakarta",
+      "Bandung"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yakarta es la capital de Indonesia y está en la isla de Java."
+  },
+  {
+    "id": "cg-3107",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Filipinas?",
+    "options": [
+      "Manila",
+      "Dávao",
+      "Ciudad Quezón",
+      "Cebú"
+    ],
+    "correctIndex": 0,
+    "explanation": "Manila es la capital de Filipinas y forma parte de la Gran Manila."
+  },
+  {
+    "id": "cg-3108",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Malasia?",
+    "options": [
+      "George Town",
+      "Johor Bahru",
+      "Ipoh",
+      "Kuala Lumpur"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kuala Lumpur es la capital de Malasia; Putrajaya alberga gran parte del gobierno."
+  },
+  {
+    "id": "cg-3109",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Irán?",
+    "options": [
+      "Tabriz",
+      "Mashhad",
+      "Teherán",
+      "Isfahán"
+    ],
+    "correctIndex": 2,
+    "explanation": "Teherán es la capital de Irán y la ciudad más poblada del país."
+  },
+  {
+    "id": "cg-3110",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Kenia?",
+    "options": [
+      "Nairobi",
+      "Kisumu",
+      "Nakuru",
+      "Mombasa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nairobi es la capital de Kenia y su nombre proviene de una expresión masái."
+  },
+  {
+    "id": "cg-3111",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Mozambique?",
+    "options": [
+      "Nampula",
+      "Beira",
+      "Maputo",
+      "Quelimane"
+    ],
+    "correctIndex": 2,
+    "explanation": "Maputo es la capital de Mozambique y está en la bahía de Maputo."
+  },
+  {
+    "id": "cg-3112",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué continente se encuentra Kenia?",
+    "options": [
+      "Asia",
+      "América del Sur",
+      "Europa",
+      "África"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kenia está en África oriental, junto al océano Índico."
+  },
+  {
+    "id": "cg-3113",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué continente se encuentra Chile?",
+    "options": [
+      "Europa",
+      "América del Sur",
+      "América del Norte",
+      "África"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chile está en el suroeste de América del Sur."
+  },
+  {
+    "id": "cg-3114",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué continente se encuentra Noruega?",
+    "options": [
+      "Europa",
+      "América del Norte",
+      "Asia",
+      "Oceanía"
+    ],
+    "correctIndex": 0,
+    "explanation": "Noruega está en el norte de Europa, en la península escandinava."
+  },
+  {
+    "id": "cg-3115",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué continente se encuentra Vietnam?",
+    "options": [
+      "Europa",
+      "Asia",
+      "América del Sur",
+      "África"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vietnam está en el sudeste asiático, en la península de Indochina."
+  },
+  {
+    "id": "cg-3116",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué continente se encuentra Nueva Zelanda?",
+    "options": [
+      "Oceanía",
+      "Asia",
+      "América del Sur",
+      "África"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nueva Zelanda está en Oceanía, en el suroeste del océano Pacífico."
+  },
+  {
+    "id": "cg-3117",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué continente se encuentra Canadá?",
+    "options": [
+      "Europa",
+      "América del Norte",
+      "Asia",
+      "América del Sur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Canadá ocupa la parte norte de América del Norte."
+  },
+  {
+    "id": "cg-3118",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué océano baña las costas de Mozambique?",
+    "options": [
+      "Océano Pacífico",
+      "Océano Índico",
+      "Océano Ártico",
+      "Océano Atlántico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mozambique está en la costa suroccidental del océano Índico."
+  },
+  {
+    "id": "cg-3119",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué océano baña las costas de Portugal?",
+    "options": [
+      "Océano Pacífico",
+      "Océano Índico",
+      "Mar Mediterráneo",
+      "Océano Atlántico"
+    ],
+    "correctIndex": 3,
+    "explanation": "Portugal tiene costa en el océano Atlántico."
+  },
+  {
+    "id": "cg-3120",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué océano baña las costas de California?",
+    "options": [
+      "Océano Ártico",
+      "Océano Atlántico",
+      "Océano Pacífico",
+      "Océano Índico"
+    ],
+    "correctIndex": 2,
+    "explanation": "California está en la costa occidental de Estados Unidos, bañada por el Pacífico."
+  },
+  {
+    "id": "cg-3121",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué océano rodea el polo norte?",
+    "options": [
+      "Océano Atlántico",
+      "Océano Antártico",
+      "Océano Ártico",
+      "Océano Índico"
+    ],
+    "correctIndex": 2,
+    "explanation": "El océano Ártico rodea el polo norte y está cubierto en gran parte por hielo marino."
+  },
+  {
+    "id": "cg-3122",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué océano rodea la Antártida?",
+    "options": [
+      "Océano Índico",
+      "Océano Ártico",
+      "Océano Antártico",
+      "Océano Atlántico"
+    ],
+    "correctIndex": 2,
+    "explanation": "El océano Antártico, también llamado océano Austral, rodea la Antártida."
+  },
+  {
+    "id": "cg-3123",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué mar separa Europa de África?",
+    "options": [
+      "Mar Mediterráneo",
+      "Mar Rojo",
+      "Mar Negro",
+      "Mar Báltico"
+    ],
+    "correctIndex": 0,
+    "explanation": "El mar Mediterráneo se extiende entre Europa, África y Asia."
+  },
+  {
+    "id": "cg-3124",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué mar baña las costas de Turquía y Ucrania?",
+    "options": [
+      "Mar Negro",
+      "Mar Báltico",
+      "Mar Rojo",
+      "Mar Adriático"
+    ],
+    "correctIndex": 0,
+    "explanation": "El mar Negro está entre Europa oriental, el Cáucaso y Anatolia."
+  },
+  {
+    "id": "cg-3125",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué mar baña las costas de Arabia Saudita y Egipto?",
+    "options": [
+      "Mar Negro",
+      "Mar Caspio",
+      "Mar Rojo",
+      "Mar Mediterráneo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El mar Rojo está entre el noreste de África y la península arábiga."
+  },
+  {
+    "id": "cg-3126",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué estrecho separa España de Marruecos?",
+    "options": [
+      "Estrecho del Bósforo",
+      "Estrecho de Gibraltar",
+      "Estrecho de los Dardanelos",
+      "Estrecho de Mesina"
+    ],
+    "correctIndex": 1,
+    "explanation": "El estrecho de Gibraltar une el océano Atlántico con el mar Mediterráneo."
+  },
+  {
+    "id": "cg-3127",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué canal une el mar Mediterráneo con el mar Rojo?",
+    "options": [
+      "Canal de Panamá",
+      "Canal de Corinto",
+      "Canal de Suez",
+      "Canal de Kiel"
+    ],
+    "correctIndex": 2,
+    "explanation": "El canal de Suez, inaugurado en 1869, atraviesa Egipto."
+  },
+  {
+    "id": "cg-3128",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué canal une el océano Atlántico con el océano Pacífico en América Central?",
+    "options": [
+      "Canal de Corinto",
+      "Canal de Suez",
+      "Canal de Panamá",
+      "Canal de Kiel"
+    ],
+    "correctIndex": 2,
+    "explanation": "El canal de Panamá, inaugurado en 1914, cruza el istmo de Panamá."
+  },
+  {
+    "id": "cg-3129",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué cordillera separa España de Francia?",
+    "options": [
+      "Cárpatos",
+      "Pirineos",
+      "Alpes",
+      "Apeninos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los Pirineos forman la frontera natural entre España y Francia."
+  },
+  {
+    "id": "cg-3130",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué cordillera recorre el oeste de América del Sur?",
+    "options": [
+      "Apalaches",
+      "Andes",
+      "Urales",
+      "Montañas Rocosas"
+    ],
+    "correctIndex": 1,
+    "explanation": "La cordillera de los Andes atraviesa siete países sudamericanos."
+  },
+  {
+    "id": "cg-3131",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué desierto se extiende por el norte de Chile?",
+    "options": [
+      "Kalahari",
+      "Gobi",
+      "Atacama",
+      "Sahara"
+    ],
+    "correctIndex": 2,
+    "explanation": "El desierto de Atacama es uno de los lugares más secos del planeta."
+  },
+  {
+    "id": "cg-3132",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué desierto se extiende por Botsuana, Namibia y Sudáfrica?",
+    "options": [
+      "Gobi",
+      "Sahara",
+      "Atacama",
+      "Kalahari"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Kalahari es un desierto del sur de África con dunas y sabanas secas."
+  },
+  {
+    "id": "cg-3133",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué volcán de Japón, de casi 3.800 metros, es un símbolo nacional?",
+    "options": [
+      "Mont Blanc",
+      "Monte Etna",
+      "Kilimanjaro",
+      "Monte Fuji"
+    ],
+    "correctIndex": 3,
+    "explanation": "El monte Fuji es la cumbre más alta de Japón."
+  },
+  {
+    "id": "cg-3134",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué volcán domina la bahía de Nápoles y sepultó Pompeya?",
+    "options": [
+      "Etna",
+      "Teide",
+      "Estrómboli",
+      "Vesubio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Vesubio entró en erupción en el año 79 y sepultó Pompeya y Herculano."
+  },
+  {
+    "id": "cg-3135",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene una bandera con un círculo rojo sobre fondo blanco?",
+    "options": [
+      "China",
+      "Corea del Sur",
+      "Japón",
+      "Tailandia"
+    ],
+    "correctIndex": 2,
+    "explanation": "La bandera de Japón representa el sol naciente con un disco rojo central."
+  },
+  {
+    "id": "cg-3136",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene una bandera verde con un rombo amarillo y un círculo azul?",
+    "options": [
+      "Brasil",
+      "Venezuela",
+      "Argentina",
+      "Uruguay"
+    ],
+    "correctIndex": 0,
+    "explanation": "La bandera de Brasil muestra el cielo estrellado sobre un rombo amarillo."
+  },
+  {
+    "id": "cg-3137",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene una bandera azul con una cruz amarilla?",
+    "options": [
+      "Dinamarca",
+      "Finlandia",
+      "Suecia",
+      "Noruega"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cruz amarilla sobre fondo azul es la bandera de Suecia."
+  },
+  {
+    "id": "cg-3138",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene una bandera roja con una cruz blanca?",
+    "options": [
+      "Dinamarca",
+      "Suiza",
+      "Austria",
+      "Polonia"
+    ],
+    "correctIndex": 0,
+    "explanation": "La bandera danesa, llamada Dannebrog, es roja con una cruz blanca."
+  },
+  {
+    "id": "cg-3139",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene una bandera con un cedro verde en el centro?",
+    "options": [
+      "Siria",
+      "Israel",
+      "Líbano",
+      "Jordania"
+    ],
+    "correctIndex": 2,
+    "explanation": "El cedro del Líbano aparece en el centro de su bandera."
+  },
+  {
+    "id": "cg-3140",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene una bandera roja con una gran estrella amarilla?",
+    "options": [
+      "Corea del Norte",
+      "Laos",
+      "China",
+      "Vietnam"
+    ],
+    "correctIndex": 3,
+    "explanation": "La bandera de Vietnam tiene una estrella amarilla de cinco puntas sobre fondo rojo."
+  },
+  {
+    "id": "cg-3141",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene una bandera azul y blanca con un sol dorado con rostro?",
+    "options": [
+      "Argentina",
+      "Uruguay",
+      "El Salvador",
+      "Honduras"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Sol de Mayo aparece en el centro de la bandera argentina."
+  },
+  {
+    "id": "cg-3142",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene una bandera azul con la Union Jack y estrellas blancas, entre ellas una de siete puntas?",
+    "options": [
+      "Papúa Nueva Guinea",
+      "Nueva Zelanda",
+      "Australia",
+      "Fiyi"
+    ],
+    "correctIndex": 2,
+    "explanation": "La bandera australiana incluye la Union Jack y la estrella de la Mancomunidad."
+  },
+  {
+    "id": "cg-3143",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene una bandera con franjas horizontales negra, roja y amarilla?",
+    "options": [
+      "España",
+      "Austria",
+      "Bélgica",
+      "Alemania"
+    ],
+    "correctIndex": 3,
+    "explanation": "La bandera de Alemania usa los colores negro, rojo y dorado."
+  },
+  {
+    "id": "cg-3144",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene una bandera con franjas verticales azul, blanca y roja?",
+    "options": [
+      "Irlanda",
+      "Francia",
+      "Italia",
+      "Países Bajos"
+    ],
+    "correctIndex": 1,
+    "explanation": "La bandera tricolor francesa tiene franjas verticales azul, blanca y roja."
+  },
+  {
+    "id": "cg-3145",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra la torre Eiffel?",
+    "options": [
+      "Lyon",
+      "Niza",
+      "Marsella",
+      "París"
+    ],
+    "correctIndex": 3,
+    "explanation": "La torre Eiffel se construyó en París para la Exposición Universal de 1889."
+  },
+  {
+    "id": "cg-3146",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra el Coliseo?",
+    "options": [
+      "Florencia",
+      "Nápoles",
+      "Roma",
+      "Milán"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Coliseo romano es un anfiteatro inaugurado en el año 80."
+  },
+  {
+    "id": "cg-3147",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra la Puerta de Brandeburgo?",
+    "options": [
+      "Hamburgo",
+      "Dresde",
+      "Múnich",
+      "Berlín"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Puerta de Brandeburgo es un monumento neoclásico de Berlín."
+  },
+  {
+    "id": "cg-3148",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra el Kremlin?",
+    "options": [
+      "Moscú",
+      "Minsk",
+      "Kiev",
+      "San Petersburgo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Kremlin es el conjunto fortificado del centro de Moscú."
+  },
+  {
+    "id": "cg-3149",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra la estatua de la Libertad?",
+    "options": [
+      "Washington D. C.",
+      "Nueva York",
+      "Boston",
+      "Filadelfia"
+    ],
+    "correctIndex": 1,
+    "explanation": "La estatua de la Libertad está en la isla de la Libertad, en la bahía de Nueva York."
+  },
+  {
+    "id": "cg-3150",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra el Cristo Redentor?",
+    "options": [
+      "Río de Janeiro",
+      "Brasilia",
+      "São Paulo",
+      "Salvador"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Cristo Redentor corona el cerro del Corcovado, en Río de Janeiro."
+  },
+  {
+    "id": "cg-3151",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra Machu Picchu?",
+    "options": [
+      "Ecuador",
+      "Perú",
+      "Chile",
+      "Bolivia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Machu Picchu es una ciudad inca del siglo XV situada en los Andes peruanos."
+  },
+  {
+    "id": "cg-3152",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra Petra?",
+    "options": [
+      "Siria",
+      "Jordania",
+      "Líbano",
+      "Egipto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Petra es una antigua ciudad nabatea excavada en roca, en Jordania."
+  },
+  {
+    "id": "cg-3153",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra el Taj Mahal?",
+    "options": [
+      "India",
+      "Nepal",
+      "Pakistán",
+      "Bangladés"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Taj Mahal es un mausoleo del siglo XVII situado en Agra, India."
+  },
+  {
+    "id": "cg-3154",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra Chichén Itzá?",
+    "options": [
+      "Honduras",
+      "México",
+      "Belice",
+      "Guatemala"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chichén Itzá es una ciudad maya de la península de Yucatán, en México."
+  },
+  {
+    "id": "cg-3155",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra Stonehenge?",
+    "options": [
+      "Francia",
+      "Dinamarca",
+      "Irlanda",
+      "Reino Unido"
+    ],
+    "correctIndex": 3,
+    "explanation": "Stonehenge es un conjunto megalítico neolítico del sur de Inglaterra."
+  },
+  {
+    "id": "cg-3156",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra la ópera de Sídney?",
+    "options": [
+      "Nueva Zelanda",
+      "Sudáfrica",
+      "Canadá",
+      "Australia"
+    ],
+    "correctIndex": 3,
+    "explanation": "La ópera de Sídney, diseñada por Jørn Utzon, se inauguró en 1973."
+  },
+  {
+    "id": "cg-3157",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra la Alhambra?",
+    "options": [
+      "Granada",
+      "Córdoba",
+      "Sevilla",
+      "Toledo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Alhambra es un conjunto palaciego nazarí situado en Granada, España."
+  },
+  {
+    "id": "cg-3158",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué isla, perteneciente a Dinamarca, es la de mayor superficie del mundo?",
+    "options": [
+      "Nueva Guinea",
+      "Groenlandia",
+      "Borneo",
+      "Madagascar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Groenlandia es la isla más grande del mundo, aunque no es un continente."
+  },
+  {
+    "id": "cg-3159",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país recibe su nombre de la línea imaginaria que lo atraviesa?",
+    "options": [
+      "Colombia",
+      "Perú",
+      "Brasil",
+      "Ecuador"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ecuador debe su nombre a la línea del ecuador, que cruza su territorio."
+  },
+  {
+    "id": "cg-3160",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento señala el norte magnético?",
+    "options": [
+      "Astrolabio",
+      "Sextante",
+      "Brújula",
+      "Barómetro"
+    ],
+    "correctIndex": 2,
+    "explanation": "La brújula usa una aguja imantada que apunta al norte magnético."
+  },
+  {
+    "id": "cg-3161",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué línea imaginaria divide la Tierra en hemisferio norte y hemisferio sur?",
+    "options": [
+      "El trópico de Cáncer",
+      "El ecuador",
+      "El meridiano de Greenwich",
+      "El círculo polar ártico"
+    ],
+    "correctIndex": 1,
+    "explanation": "El ecuador es el paralelo de latitud 0 grados."
+  },
+  {
+    "id": "cg-3162",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Por qué ciudad pasa el meridiano de Greenwich?",
+    "options": [
+      "París",
+      "Madrid",
+      "Roma",
+      "Londres"
+    ],
+    "correctIndex": 3,
+    "explanation": "El meridiano de Greenwich cruza el observatorio real situado en Londres."
+  },
+  {
+    "id": "cg-3163",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué continente está unido a Asia por el istmo de Suez?",
+    "options": [
+      "Oceanía",
+      "África",
+      "América del Sur",
+      "Europa"
+    ],
+    "correctIndex": 1,
+    "explanation": "El istmo de Suez, en Egipto, une África con Asia."
+  },
+  {
+    "id": "cg-3164",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país está al norte de Estados Unidos?",
+    "options": [
+      "Canadá",
+      "Cuba",
+      "Groenlandia",
+      "México"
+    ],
+    "correctIndex": 0,
+    "explanation": "Canadá comparte con Estados Unidos la frontera terrestre más larga del mundo."
+  },
+  {
+    "id": "cg-3165",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país comparte con Haití la isla de La Española?",
+    "options": [
+      "Cuba",
+      "Puerto Rico",
+      "República Dominicana",
+      "Jamaica"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Española está dividida entre Haití y la República Dominicana."
+  },
+  {
+    "id": "cg-3166",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país está completamente rodeado por Sudáfrica?",
+    "options": [
+      "Botsuana",
+      "Lesoto",
+      "Esuatini",
+      "Zimbabue"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lesoto es un enclave montañoso dentro de Sudáfrica."
+  },
+  {
+    "id": "cg-3167",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país tiene costas en el mar Negro y en el mar Egeo?",
+    "options": [
+      "Turquía",
+      "Bulgaria",
+      "Grecia",
+      "Rumanía"
+    ],
+    "correctIndex": 0,
+    "explanation": "Turquía se extiende entre el mar Negro y el Egeo, con salida también al Mediterráneo."
+  },
+  {
+    "id": "cg-3168",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país sudamericano sin salida al mar tiene su capital en Asunción?",
+    "options": [
+      "Surinam",
+      "Uruguay",
+      "Bolivia",
+      "Paraguay"
+    ],
+    "correctIndex": 3,
+    "explanation": "Paraguay es un país sin litoral y su capital es Asunción."
+  },
+  {
+    "id": "cg-3169",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país de América del Sur tiene costas en el océano Pacífico y en el mar Caribe?",
+    "options": [
+      "Ecuador",
+      "Venezuela",
+      "Perú",
+      "Colombia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Colombia tiene litoral en el Caribe y en el Pacífico."
+  },
+  {
+    "id": "cg-3170",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país de Oceanía comparte la isla de Nueva Guinea con Indonesia?",
+    "options": [
+      "Papúa Nueva Guinea",
+      "Fiyi",
+      "Vanuatu",
+      "Islas Salomón"
+    ],
+    "correctIndex": 0,
+    "explanation": "Papúa Nueva Guinea ocupa la mitad oriental de la isla de Nueva Guinea."
+  },
+  {
+    "id": "cg-3171",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país africano forma un enclave casi completo dentro de Senegal?",
+    "options": [
+      "Guinea-Bisáu",
+      "Guinea",
+      "Gambia",
+      "Mauritania"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gambia se extiende a lo largo del río Gambia y está rodeado por Senegal salvo en la costa."
+  },
+  {
+    "id": "cg-3172",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué país africano, el de mayor superficie del continente, limita con Marruecos y Níger?",
+    "options": [
+      "Malí",
+      "Libia",
+      "Argelia",
+      "Egipto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Argelia es el país más extenso de África y comparte fronteras con Marruecos y Níger."
+  },
+  {
+    "id": "cg-3173",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué lago de América del Sur comparten Bolivia y Perú?",
+    "options": [
+      "Lago Buenos Aires",
+      "Lago de Maracaibo",
+      "Lago Titicaca",
+      "Lago Nahuel Huapi"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Titicaca es el lago navegable más alto del mundo."
+  },
+  {
+    "id": "cg-3174",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué río atraviesa Roma y desemboca en el mar Tirreno?",
+    "options": [
+      "Arno",
+      "Ebro",
+      "Po",
+      "Tíber"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Tíber atraviesa Roma y desemboca en el Tirreno."
+  },
+  {
+    "id": "cg-3175",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué río atraviesa Viena y Budapest?",
+    "options": [
+      "Danubio",
+      "Elba",
+      "Vístula",
+      "Rin"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Danubio cruza diez países y pasa por Viena y Budapest."
+  },
+  {
+    "id": "cg-3176",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué río atraviesa El Cairo?",
+    "options": [
+      "Níger",
+      "Éufrates",
+      "Nilo",
+      "Jordán"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Nilo atraviesa El Cairo antes de formar su delta."
+  },
+  {
+    "id": "cg-3177",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué cordillera separa Francia de Italia y Suiza?",
+    "options": [
+      "Alpes",
+      "Pirineos",
+      "Cárpatos",
+      "Apeninos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los Alpes forman una barrera montañosa entre Francia, Italia, Suiza y Austria."
+  },
+  {
+    "id": "cg-3178",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué desierto del sur de África se extiende junto a la costa de Namibia?",
+    "options": [
+      "Atacama",
+      "Sahara",
+      "Namib",
+      "Kalahari"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Namib es un desierto costero muy antiguo del suroeste de África."
+  },
+  {
+    "id": "cg-3179",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra Marrakech?",
+    "options": [
+      "Túnez",
+      "Marruecos",
+      "Egipto",
+      "Argelia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marrakech es una ciudad del centro-sur de Marruecos, al pie de la cordillera del Atlas."
+  },
+  {
+    "id": "cg-3180",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué estrecho separa Asia de América del Norte?",
+    "options": [
+      "Estrecho de Malaca",
+      "Estrecho de Magallanes",
+      "Estrecho de Torres",
+      "Estrecho de Bering"
+    ],
+    "correctIndex": 3,
+    "explanation": "El estrecho de Bering separa Siberia de Alaska."
+  },
+  {
+    "id": "cg-3181",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué estrecho separa Australia de Papúa Nueva Guinea?",
+    "options": [
+      "Estrecho de Torres",
+      "Estrecho de Bass",
+      "Estrecho de Bering",
+      "Estrecho de Malaca"
+    ],
+    "correctIndex": 0,
+    "explanation": "El estrecho de Torres está entre el norte de Australia y Nueva Guinea."
+  },
+  {
+    "id": "cg-3182",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué mar está entre Italia y la península de los Balcanes?",
+    "options": [
+      "Mar Tirreno",
+      "Mar Adriático",
+      "Mar Jónico",
+      "Mar Egeo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El mar Adriático separa Italia de los Balcanes."
+  },
+  {
+    "id": "cg-3183",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué península asiática incluye Tailandia, Malasia y Myanmar?",
+    "options": [
+      "Península de Corea",
+      "Península arábiga",
+      "Península de Kamchatka",
+      "Península de Indochina"
+    ],
+    "correctIndex": 3,
+    "explanation": "La península de Indochina se encuentra en el sudeste asiático."
+  },
+  {
+    "id": "cg-3184",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "easy",
+    "question": "¿Qué cabo se encuentra en el extremo meridional de América del Sur?",
+    "options": [
+      "Cabo Verde",
+      "Cabo Norte",
+      "Cabo de Hornos",
+      "Cabo de Buena Esperanza"
+    ],
+    "correctIndex": 2,
+    "explanation": "El cabo de Hornos está en el archipiélago de Tierra del Fuego."
+  },
+  {
+    "id": "cg-3185",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Bielorrusia?",
+    "options": [
+      "Brest",
+      "Grodno",
+      "Minsk",
+      "Vítebsk"
+    ],
+    "correctIndex": 2,
+    "explanation": "Minsk es la capital de Bielorrusia y su ciudad más grande."
+  },
+  {
+    "id": "cg-3186",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Georgia, país del Cáucaso?",
+    "options": [
+      "Kutaisi",
+      "Rustavi",
+      "Batumi",
+      "Tiflis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tiflis, también llamada Tbilisi, es la capital de Georgia."
+  },
+  {
+    "id": "cg-3187",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Armenia?",
+    "options": [
+      "Giumri",
+      "Vagharshapat",
+      "Ereván",
+      "Vanadzor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ereván es la capital de Armenia y una de las ciudades habitadas más antiguas del mundo."
+  },
+  {
+    "id": "cg-3188",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Azerbaiyán?",
+    "options": [
+      "Lankaran",
+      "Ganja",
+      "Sumqayit",
+      "Bakú"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bakú es la capital de Azerbaiyán y está a orillas del mar Caspio."
+  },
+  {
+    "id": "cg-3189",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Uzbekistán?",
+    "options": [
+      "Fergana",
+      "Bujará",
+      "Taskent",
+      "Samarcanda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Taskent es la capital de Uzbekistán y la ciudad más poblada de Asia Central."
+  },
+  {
+    "id": "cg-3190",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Mongolia?",
+    "options": [
+      "Darkhan",
+      "Erdenet",
+      "Ulán Bator",
+      "Choibalsan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ulán Bator es la capital de Mongolia y está en el valle del río Tuul."
+  },
+  {
+    "id": "cg-3191",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Nepal?",
+    "options": [
+      "Biratnagar",
+      "Katmandú",
+      "Pokhara",
+      "Lalitpur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Katmandú es la capital de Nepal y está en el valle homónimo del Himalaya."
+  },
+  {
+    "id": "cg-3192",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Bangladés?",
+    "options": [
+      "Chittagong",
+      "Khulna",
+      "Daca",
+      "Sylhet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Daca es la capital de Bangladés y está junto al río Buriganga."
+  },
+  {
+    "id": "cg-3193",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Camboya?",
+    "options": [
+      "Sihanoukville",
+      "Battambang",
+      "Nom Pen",
+      "Siem Reap"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nom Pen es la capital de Camboya y está en la confluencia del Mekong y el Tonlé Sap."
+  },
+  {
+    "id": "cg-3194",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Catar?",
+    "options": [
+      "Al Wakrah",
+      "Al Rayyan",
+      "Al Khor",
+      "Doha"
+    ],
+    "correctIndex": 3,
+    "explanation": "Doha es la capital de Catar y está en la costa del golfo Pérsico."
+  },
+  {
+    "id": "cg-3195",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Omán?",
+    "options": [
+      "Sohar",
+      "Mascate",
+      "Nizwa",
+      "Salalah"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mascate es la capital de Omán y su principal puerto."
+  },
+  {
+    "id": "cg-3196",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Jordania?",
+    "options": [
+      "Áqaba",
+      "Zarqa",
+      "Amán",
+      "Irbid"
+    ],
+    "correctIndex": 2,
+    "explanation": "Amán es la capital de Jordania y está en una meseta del norte del país."
+  },
+  {
+    "id": "cg-3197",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué río atraviesa Praga?",
+    "options": [
+      "Elba",
+      "Danubio",
+      "Moldava",
+      "Vístula"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Moldava cruza Praga y desemboca en el Elba."
+  },
+  {
+    "id": "cg-3198",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué río atraviesa Florencia?",
+    "options": [
+      "Tíber",
+      "Po",
+      "Adigio",
+      "Arno"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Arno atraviesa Florencia y Pisa antes de llegar al Tirreno."
+  },
+  {
+    "id": "cg-3199",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué río atraviesa Turín?",
+    "options": [
+      "Po",
+      "Tíber",
+      "Arno",
+      "Adigio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Po cruza Turín y recorre la llanura del norte de Italia."
+  },
+  {
+    "id": "cg-3200",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué río atraviesa Hamburgo?",
+    "options": [
+      "Rin",
+      "Elba",
+      "Weser",
+      "Danubio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Elba desemboca en el mar del Norte y pasa por Hamburgo."
+  },
+  {
+    "id": "cg-3201",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué río atraviesa Varsovia?",
+    "options": [
+      "Moldava",
+      "Dniéper",
+      "Vístula",
+      "Oder"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Vístula es el río más largo de Polonia y cruza Varsovia."
+  },
+  {
+    "id": "cg-3202",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué río atraviesa Kiev?",
+    "options": [
+      "Don",
+      "Volga",
+      "Dniéster",
+      "Dniéper"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Dniéper cruza Kiev y desemboca en el mar Negro."
+  },
+  {
+    "id": "cg-3203",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué río pasa por Ginebra y desemboca en el mar Mediterráneo?",
+    "options": [
+      "Ródano",
+      "Sena",
+      "Rin",
+      "Po"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Ródano nace en los Alpes suizos y desemboca en el Mediterráneo francés."
+  },
+  {
+    "id": "cg-3204",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué río pasa por Colonia y desemboca en el mar del Norte?",
+    "options": [
+      "Mosa",
+      "Elba",
+      "Danubio",
+      "Rin"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Rin es una de las vías fluviales más importantes de Europa."
+  },
+  {
+    "id": "cg-3205",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué río forma parte de la frontera entre Estados Unidos y México?",
+    "options": [
+      "Río Misisipi",
+      "Río Grande de Santiago",
+      "Río Bravo",
+      "Río Colorado"
+    ],
+    "correctIndex": 2,
+    "explanation": "El río Bravo, llamado Grande en Estados Unidos, marca buena parte de esa frontera."
+  },
+  {
+    "id": "cg-3206",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué río es el principal de Nigeria y desemboca en el golfo de Guinea?",
+    "options": [
+      "Volta",
+      "Congo",
+      "Níger",
+      "Nilo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Níger nace en Guinea y desemboca en el golfo de Guinea."
+  },
+  {
+    "id": "cg-3207",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué río de la India es sagrado para los hindúes?",
+    "options": [
+      "Ganges",
+      "Indo",
+      "Godavari",
+      "Brahmaputra"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Ganges es un río sagrado y muy poblado del norte de la India."
+  },
+  {
+    "id": "cg-3208",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué gran río de China pasa por Chongqing y Wuhan?",
+    "options": [
+      "Yangtsé",
+      "Río Amarillo",
+      "Mekong",
+      "Amur"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Yangtsé es el río más largo de Asia y atraviesa el centro de China."
+  },
+  {
+    "id": "cg-3209",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué río atraviesa Nueva Orleans y desemboca en el golfo de México?",
+    "options": [
+      "Ohio",
+      "Misisipi",
+      "Misuri",
+      "Colorado"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Misisipi desemboca en el golfo de México al sur de Nueva Orleans."
+  },
+  {
+    "id": "cg-3210",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué río australiano forma, junto con el Darling, la cuenca fluvial más importante del país?",
+    "options": [
+      "Darwin",
+      "Murray",
+      "Yarra",
+      "Swan"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Murray y el Darling forman la principal cuenca fluvial de Australia."
+  },
+  {
+    "id": "cg-3211",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué río de Irak discurre junto al Tigris y define con él la región de Mesopotamia?",
+    "options": [
+      "Orontes",
+      "Jordán",
+      "Karun",
+      "Éufrates"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Éufrates y el Tigris delimitan la región histórica de Mesopotamia."
+  },
+  {
+    "id": "cg-3212",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué río forma el Gran Cañón en Arizona?",
+    "options": [
+      "Río Grande",
+      "Río Arkansas",
+      "Río Colorado",
+      "Río Columbia"
+    ],
+    "correctIndex": 2,
+    "explanation": "El río Colorado excavó el Gran Cañón a lo largo de millones de años."
+  },
+  {
+    "id": "cg-3213",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué cumbre de los Alpes, en la frontera entre Francia e Italia, supera los 4.800 metros?",
+    "options": [
+      "Mont Blanc",
+      "Monte Rosa",
+      "Matterhorn",
+      "Eiger"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Mont Blanc es la cumbre más alta de los Alpes."
+  },
+  {
+    "id": "cg-3214",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué volcán ecuatoriano, cerca de Quito, es una de las cumbres más altas del país?",
+    "options": [
+      "Chimborazo",
+      "Cotopaxi",
+      "Tungurahua",
+      "Pichincha"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Cotopaxi es un estratovolcán activo de la cordillera de los Andes."
+  },
+  {
+    "id": "cg-3215",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué volcán se alza junto a Puebla, en México?",
+    "options": [
+      "Pico de Orizaba",
+      "Paricutín",
+      "Nevado de Colima",
+      "Popocatépetl"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Popocatépetl es un volcán activo del centro de México."
+  },
+  {
+    "id": "cg-3216",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué volcán de Hawái es uno de los de mayor volumen del planeta?",
+    "options": [
+      "Kilauea",
+      "Haleakala",
+      "Mauna Kea",
+      "Mauna Loa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mauna Loa es un volcán en escudo que ocupa buena parte de la isla de Hawái."
+  },
+  {
+    "id": "cg-3217",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué desierto del centro de Australia es famoso por sus dunas rojas?",
+    "options": [
+      "Desierto de Gibson",
+      "Desierto Simpson",
+      "Desierto de Tanami",
+      "Desierto Victoria"
+    ],
+    "correctIndex": 1,
+    "explanation": "El desierto Simpson está en el centro de Australia y tiene dunas de arena roja."
+  },
+  {
+    "id": "cg-3218",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué desierto se extiende entre la India y Pakistán?",
+    "options": [
+      "Desierto de Karakum",
+      "Desierto de Gobi",
+      "Desierto de Lut",
+      "Desierto de Thar"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Thar es un desierto de arena del noroeste de la India y el este de Pakistán."
+  },
+  {
+    "id": "cg-3219",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué desierto del sur de Arabia Saudita es uno de los más áridos del mundo?",
+    "options": [
+      "Rub al-Jali",
+      "An Nafud",
+      "Desierto de Siria",
+      "Desierto de Negev"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rub al-Jali, el \"cuarto vacío\", ocupa el sureste de la península arábiga."
+  },
+  {
+    "id": "cg-3220",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué meseta de América del Sur comparten Bolivia y Perú?",
+    "options": [
+      "Altiplano andino",
+      "Gran Chaco",
+      "Patagonia",
+      "Meseta de Mato Grosso"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Altiplano andino es una meseta elevada entre Bolivia y Perú."
+  },
+  {
+    "id": "cg-3221",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué meseta de Asia Central es conocida como el techo del mundo?",
+    "options": [
+      "Meseta de Decán",
+      "Meseta de Mongolia",
+      "Meseta de Anatolia",
+      "Meseta del Tíbet"
+    ],
+    "correctIndex": 3,
+    "explanation": "La meseta del Tíbet tiene una altitud media superior a los 4.000 metros."
+  },
+  {
+    "id": "cg-3222",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué llanura de América del Sur se extiende por Argentina, Uruguay y el sur de Brasil?",
+    "options": [
+      "Llanos del Orinoco",
+      "Gran Chaco",
+      "Pampa",
+      "Patagonia"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Pampa es una extensa llanura de clima templado y vocación ganadera."
+  },
+  {
+    "id": "cg-3223",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué península de América del Norte separa el golfo de México del mar Caribe?",
+    "options": [
+      "Península de Baja California",
+      "Península de Yucatán",
+      "Península de Florida",
+      "Península de Alaska"
+    ],
+    "correctIndex": 1,
+    "explanation": "La península de Yucatán pertenece a México y está entre el golfo y el Caribe."
+  },
+  {
+    "id": "cg-3224",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué cataratas se encuentran en la frontera entre Argentina y Brasil?",
+    "options": [
+      "Salto del Ángel",
+      "Cataratas del Iguazú",
+      "Cataratas del Niágara",
+      "Cataratas Victoria"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las cataratas del Iguazú están formadas por unos 270 saltos de agua."
+  },
+  {
+    "id": "cg-3225",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué cataratas se encuentran en la frontera entre Zambia y Zimbabue?",
+    "options": [
+      "Cataratas Khone",
+      "Cataratas Victoria",
+      "Cataratas del Niágara",
+      "Cataratas del Iguazú"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las cataratas Victoria, llamadas Mosi-oa-Tunya, están en el río Zambeze."
+  },
+  {
+    "id": "cg-3226",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué salto de agua venezolano, en el Auyantepui, es el de mayor caída del mundo?",
+    "options": [
+      "Cataratas del Iguazú",
+      "Salto del Tequendama",
+      "Salto del Ángel",
+      "Salto de Kaieteur"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Salto del Ángel, en el Auyantepui, supera los 970 metros de caída."
+  },
+  {
+    "id": "cg-3227",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué arrecife de coral se extiende frente a la costa noreste de Australia?",
+    "options": [
+      "Gran Barrera de Coral",
+      "Arrecife de Palancar",
+      "Arrecife de Belice",
+      "Barrera de Coral de Nueva Caledonia"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Gran Barrera de Coral es el mayor sistema de arrecifes del mundo."
+  },
+  {
+    "id": "cg-3228",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué cumbre de Alaska, de más de 6.100 metros, es el punto culminante de América del Norte?",
+    "options": [
+      "Monte Whitney",
+      "Denali",
+      "Monte Elbrús",
+      "Monte Logan"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Denali, antes llamado McKinley, supera los 6.100 metros."
+  },
+  {
+    "id": "cg-3229",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué mar se encuentra entre Grecia y Turquía?",
+    "options": [
+      "Mar Egeo",
+      "Mar de Mármara",
+      "Mar Adriático",
+      "Mar Jónico"
+    ],
+    "correctIndex": 0,
+    "explanation": "El mar Egeo está salpicado por numerosas islas griegas."
+  },
+  {
+    "id": "cg-3230",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué mar baña la costa occidental de Italia?",
+    "options": [
+      "Mar Jónico",
+      "Mar Egeo",
+      "Mar Adriático",
+      "Mar Tirreno"
+    ],
+    "correctIndex": 3,
+    "explanation": "El mar Tirreno está entre Italia, Sicilia y Cerdeña."
+  },
+  {
+    "id": "cg-3231",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué mar baña la costa oriental de Sicilia y el sur de Italia?",
+    "options": [
+      "Mar Tirreno",
+      "Mar Jónico",
+      "Mar Adriático",
+      "Mar Egeo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El mar Jónico se encuentra al sureste de Italia y al oeste de Grecia."
+  },
+  {
+    "id": "cg-3232",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué gran masa de agua salada interior está rodeada por Rusia, Kazajistán, Turkmenistán, Irán y Azerbaiyán?",
+    "options": [
+      "Mar Negro",
+      "Mar Caspio",
+      "Lago Baikal",
+      "Mar de Aral"
+    ],
+    "correctIndex": 1,
+    "explanation": "El mar Caspio es el lago de mayor superficie del mundo."
+  },
+  {
+    "id": "cg-3233",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué golfo separa la península arábiga de Irán?",
+    "options": [
+      "Golfo de Bengala",
+      "Golfo Pérsico",
+      "Golfo de Omán",
+      "Golfo de Adén"
+    ],
+    "correctIndex": 1,
+    "explanation": "El golfo Pérsico es una importante región productora de petróleo."
+  },
+  {
+    "id": "cg-3234",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué golfo baña las costas de la India, Bangladés y Myanmar?",
+    "options": [
+      "Golfo de México",
+      "Golfo de Guinea",
+      "Golfo Pérsico",
+      "Golfo de Bengala"
+    ],
+    "correctIndex": 3,
+    "explanation": "El golfo de Bengala es la mayor bahía del mundo."
+  },
+  {
+    "id": "cg-3235",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué golfo baña las costas de Nigeria, Ghana y Camerún?",
+    "options": [
+      "Golfo Pérsico",
+      "Golfo de Bengala",
+      "Golfo de Adén",
+      "Golfo de Guinea"
+    ],
+    "correctIndex": 3,
+    "explanation": "El golfo de Guinea forma parte del océano Atlántico frente a África occidental."
+  },
+  {
+    "id": "cg-3236",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué golfo se encuentra entre el norte de España y el oeste de Francia?",
+    "options": [
+      "Golfo de Cádiz",
+      "Golfo de León",
+      "Golfo de Génova",
+      "Golfo de Vizcaya"
+    ],
+    "correctIndex": 3,
+    "explanation": "El golfo de Vizcaya es un entrante del Atlántico entre España y Francia."
+  },
+  {
+    "id": "cg-3237",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué estrecho separa América del Sur de la Antártida?",
+    "options": [
+      "Estrecho de Bass",
+      "Estrecho de Magallanes",
+      "Estrecho de Bering",
+      "Paso de Drake"
+    ],
+    "correctIndex": 3,
+    "explanation": "El paso de Drake une el océano Atlántico con el Pacífico al sur de Sudamérica."
+  },
+  {
+    "id": "cg-3238",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué estrecho separa la península de Malaca de la isla de Sumatra?",
+    "options": [
+      "Estrecho de Luzón",
+      "Estrecho de Torres",
+      "Estrecho de Malaca",
+      "Estrecho de Sunda"
+    ],
+    "correctIndex": 2,
+    "explanation": "El estrecho de Malaca es una de las rutas marítimas más transitadas del mundo."
+  },
+  {
+    "id": "cg-3239",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué estrecho separa Australia de Tasmania?",
+    "options": [
+      "Estrecho de Bass",
+      "Estrecho de Cook",
+      "Estrecho de Torres",
+      "Estrecho de Malaca"
+    ],
+    "correctIndex": 0,
+    "explanation": "El estrecho de Bass está al sur de Australia continental."
+  },
+  {
+    "id": "cg-3240",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué estrecho une el océano Atlántico con el océano Pacífico y separa Tierra del Fuego del continente?",
+    "options": [
+      "Paso de Drake",
+      "Estrecho de Bering",
+      "Estrecho de Cook",
+      "Estrecho de Magallanes"
+    ],
+    "correctIndex": 3,
+    "explanation": "El estrecho de Magallanes atraviesa el sur de Chile."
+  },
+  {
+    "id": "cg-3241",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país europeo limita con Francia, Alemania, Austria e Italia?",
+    "options": [
+      "Eslovenia",
+      "Suiza",
+      "Luxemburgo",
+      "Bélgica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Suiza comparte fronteras con cinco países y no tiene salida al mar."
+  },
+  {
+    "id": "cg-3242",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país de América del Sur limita con todos los países del continente excepto Chile y Ecuador?",
+    "options": [
+      "Perú",
+      "Brasil",
+      "Bolivia",
+      "Argentina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Brasil tiene frontera con diez países sudamericanos."
+  },
+  {
+    "id": "cg-3243",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país del Himalaya limita con China y la India y tiene ocho de las diez cumbres más altas del mundo?",
+    "options": [
+      "Bután",
+      "Nepal",
+      "Myanmar",
+      "Bangladés"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nepal es un país sin litoral situado entre China y la India."
+  },
+  {
+    "id": "cg-3244",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país del sudeste asiático está entre Tailandia, Laos y Vietnam?",
+    "options": [
+      "Camboya",
+      "Laos",
+      "Malasia",
+      "Myanmar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Camboya limita al oeste con Tailandia, al norte con Laos y al este con Vietnam."
+  },
+  {
+    "id": "cg-3245",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país está entre Francia y España, en los Pirineos?",
+    "options": [
+      "San Marino",
+      "Liechtenstein",
+      "Mónaco",
+      "Andorra"
+    ],
+    "correctIndex": 3,
+    "explanation": "Andorra es un microestado de los Pirineos."
+  },
+  {
+    "id": "cg-3246",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país, junto con el Vaticano, está completamente rodeado por Italia?",
+    "options": [
+      "Liechtenstein",
+      "Mónaco",
+      "Malta",
+      "San Marino"
+    ],
+    "correctIndex": 3,
+    "explanation": "San Marino es un enclave dentro de Italia."
+  },
+  {
+    "id": "cg-3247",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país alpino se encuentra entre Suiza y Austria y tiene su capital en Vaduz?",
+    "options": [
+      "Luxemburgo",
+      "Liechtenstein",
+      "Andorra",
+      "Mónaco"
+    ],
+    "correctIndex": 1,
+    "explanation": "Liechtenstein es un pequeño principado entre Suiza y Austria."
+  },
+  {
+    "id": "cg-3248",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país sudamericano sin litoral limita con Brasil, Argentina y Bolivia?",
+    "options": [
+      "Uruguay",
+      "Paraguay",
+      "Ecuador",
+      "Guyana"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paraguay está rodeado por Bolivia, Brasil y Argentina."
+  },
+  {
+    "id": "cg-3249",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país de América Central limita con Nicaragua y Panamá?",
+    "options": [
+      "El Salvador",
+      "Costa Rica",
+      "Belice",
+      "Honduras"
+    ],
+    "correctIndex": 1,
+    "explanation": "Costa Rica está entre Nicaragua, al norte, y Panamá, al sur."
+  },
+  {
+    "id": "cg-3250",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país ocupa la parte oriental de la isla de Timor?",
+    "options": [
+      "Indonesia",
+      "Brunéi",
+      "Timor Oriental",
+      "Papúa Nueva Guinea"
+    ],
+    "correctIndex": 2,
+    "explanation": "Timor Oriental es independiente desde 2002 y ocupa el este de la isla."
+  },
+  {
+    "id": "cg-3251",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué isla del Mediterráneo es la de mayor superficie?",
+    "options": [
+      "Creta",
+      "Córcega",
+      "Sicilia",
+      "Cerdeña"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sicilia es la isla más grande del mar Mediterráneo."
+  },
+  {
+    "id": "cg-3252",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿A qué país pertenece la isla de Córcega?",
+    "options": [
+      "Grecia",
+      "Francia",
+      "España",
+      "Italia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Córcega es una isla francesa situada al norte de Cerdeña."
+  },
+  {
+    "id": "cg-3253",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país europeo tiene una bandera con nueve franjas azules y blancas y una cruz en el cantón?",
+    "options": [
+      "Grecia",
+      "Israel",
+      "Finlandia",
+      "Argentina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La bandera griega alterna franjas azules y blancas con una cruz blanca."
+  },
+  {
+    "id": "cg-3254",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país tiene una bandera formada por la unión de las cruces de San Jorge, San Andrés y San Patricio?",
+    "options": [
+      "Reino Unido",
+      "Irlanda",
+      "Noruega",
+      "Dinamarca"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Union Jack combina las cruces de Inglaterra, Escocia e Irlanda."
+  },
+  {
+    "id": "cg-3255",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país tiene una bandera verde y roja con una esfera armilar y un escudo?",
+    "options": [
+      "Italia",
+      "Hungría",
+      "México",
+      "Portugal"
+    ],
+    "correctIndex": 3,
+    "explanation": "La bandera portuguesa incluye la esfera armilar, símbolo de la era de los descubrimientos."
+  },
+  {
+    "id": "cg-3256",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país tiene una bandera roja, amarilla y roja con un escudo en el centro?",
+    "options": [
+      "Alemania",
+      "España",
+      "Bélgica",
+      "Colombia"
+    ],
+    "correctIndex": 1,
+    "explanation": "La bandera de España tiene franjas roja, amarilla y roja con el escudo nacional."
+  },
+  {
+    "id": "cg-3257",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país tiene una bandera de seis colores con una forma de Y acostada?",
+    "options": [
+      "Kenia",
+      "Namibia",
+      "Sudáfrica",
+      "Jamaica"
+    ],
+    "correctIndex": 2,
+    "explanation": "La bandera sudafricana combina negro, amarillo, verde, blanco, rojo y azul."
+  },
+  {
+    "id": "cg-3258",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país tiene una bandera formada por dos triángulos, uno amarillo y otro naranja, con un dragón blanco?",
+    "options": [
+      "Sri Lanka",
+      "Tailandia",
+      "Bután",
+      "Nepal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bután muestra un dragón blanco sobre fondo amarillo y naranja."
+  },
+  {
+    "id": "cg-3259",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país tiene una bandera blanca con un círculo rojo y azul y cuatro trigramas negros?",
+    "options": [
+      "Corea del Sur",
+      "China",
+      "Mongolia",
+      "Japón"
+    ],
+    "correctIndex": 0,
+    "explanation": "La bandera surcoreana incluye el símbolo del taeguk y cuatro trigramas."
+  },
+  {
+    "id": "cg-3260",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué país tiene una bandera con el único diseño nacional no rectangular de dos triángulos?",
+    "options": [
+      "Nepal",
+      "Bután",
+      "Suiza",
+      "Vaticano"
+    ],
+    "correctIndex": 0,
+    "explanation": "La bandera de Nepal tiene forma de dos triángulos unidos."
+  },
+  {
+    "id": "cg-3261",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿En qué país se encuentra el templo de Angkor Wat?",
+    "options": [
+      "Tailandia",
+      "Laos",
+      "Vietnam",
+      "Camboya"
+    ],
+    "correctIndex": 3,
+    "explanation": "Angkor Wat es un complejo de templos jemeres del siglo XII en Camboya."
+  },
+  {
+    "id": "cg-3262",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿En qué ciudad se encuentra la Acrópolis con el Partenón?",
+    "options": [
+      "Atenas",
+      "Esparta",
+      "Delfos",
+      "Salónica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Acrópolis de Atenas está coronada por el Partenón, dedicado a Atenea."
+  },
+  {
+    "id": "cg-3263",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿En qué ciudad se encuentra el puente Golden Gate?",
+    "options": [
+      "Los Ángeles",
+      "San Francisco",
+      "San Diego",
+      "Seattle"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Golden Gate cruza la entrada de la bahía de San Francisco."
+  },
+  {
+    "id": "cg-3264",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿En qué país se encuentra el monumento tallado en roca del monte Rushmore?",
+    "options": [
+      "Estados Unidos",
+      "Brasil",
+      "Canadá",
+      "México"
+    ],
+    "correctIndex": 0,
+    "explanation": "El monte Rushmore está en las Black Hills de Dakota del Sur."
+  },
+  {
+    "id": "cg-3265",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿En qué país se encuentra la Mezquita-Catedral de Córdoba?",
+    "options": [
+      "Italia",
+      "España",
+      "Portugal",
+      "Marruecos"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Mezquita-Catedral de Córdoba es un monumento andalusí de España."
+  },
+  {
+    "id": "cg-3266",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿En qué país se encuentran las pirámides de Giza?",
+    "options": [
+      "Egipto",
+      "Sudán",
+      "Irak",
+      "México"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las pirámides de Giza se levantaron en el antiguo Egipto, cerca de El Cairo."
+  },
+  {
+    "id": "cg-3267",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿En qué país se encuentran las líneas y geoglifos de Nazca?",
+    "options": [
+      "Ecuador",
+      "Chile",
+      "Bolivia",
+      "Perú"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las líneas de Nazca son geoglifos precolombinos del sur de Perú."
+  },
+  {
+    "id": "cg-3268",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿En qué país se encuentra el templo budista de Borobudur?",
+    "options": [
+      "Camboya",
+      "Myanmar",
+      "Indonesia",
+      "Tailandia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Borobudur es un templo mahayana del siglo IX situado en Java, Indonesia."
+  },
+  {
+    "id": "cg-3269",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué proyección cartográfica conserva las direcciones y es muy usada en navegación?",
+    "options": [
+      "Proyección de Mercator",
+      "Proyección cónica",
+      "Proyección azimutal",
+      "Proyección de Peters"
+    ],
+    "correctIndex": 0,
+    "explanation": "La proyección de Mercator representa los meridianos como líneas rectas paralelas."
+  },
+  {
+    "id": "cg-3270",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué proyección cartográfica busca conservar las superficies relativas de los continentes?",
+    "options": [
+      "Proyección de Mercator",
+      "Proyección de Peters",
+      "Proyección estereográfica",
+      "Proyección de Robinson"
+    ],
+    "correctIndex": 1,
+    "explanation": "La proyección de Peters es equivalente, aunque deforma las formas."
+  },
+  {
+    "id": "cg-3271",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué elemento de un mapa explica el significado de sus símbolos y colores?",
+    "options": [
+      "Leyenda",
+      "Rosa de los vientos",
+      "Título",
+      "Escala"
+    ],
+    "correctIndex": 0,
+    "explanation": "La leyenda asocia cada símbolo del mapa con su significado."
+  },
+  {
+    "id": "cg-3272",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el diagrama circular que indica los puntos cardinales en un mapa?",
+    "options": [
+      "Rosa de los vientos",
+      "Escala gráfica",
+      "Leyenda",
+      "Cuadrícula"
+    ],
+    "correctIndex": 0,
+    "explanation": "La rosa de los vientos señala el norte y los demás puntos cardinales."
+  },
+  {
+    "id": "cg-3273",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué coordenada geográfica indica la distancia angular al norte o al sur del ecuador?",
+    "options": [
+      "Altitud",
+      "Longitud",
+      "Latitud",
+      "Azimut"
+    ],
+    "correctIndex": 2,
+    "explanation": "La latitud se mide en grados desde el ecuador hacia los polos."
+  },
+  {
+    "id": "cg-3274",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué coordenada geográfica expresa la posición de un punto al oriente o al occidente del meridiano de Greenwich?",
+    "options": [
+      "Longitud",
+      "Declinación",
+      "Altitud",
+      "Latitud"
+    ],
+    "correctIndex": 0,
+    "explanation": "La longitud se mide en grados desde el meridiano de Greenwich."
+  },
+  {
+    "id": "cg-3275",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cómo se llaman las líneas imaginarias paralelas al ecuador?",
+    "options": [
+      "Paralelos",
+      "Isolíneas",
+      "Meridianos",
+      "Rumbos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los paralelos son círculos de latitud constante."
+  },
+  {
+    "id": "cg-3276",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cómo se llaman las líneas imaginarias que unen los polos?",
+    "options": [
+      "Paralelos",
+      "Meridianos",
+      "Círculos polares",
+      "Trópicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los meridianos son semicírculos de longitud constante."
+  },
+  {
+    "id": "cg-3277",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué representan las curvas de nivel de un mapa topográfico?",
+    "options": [
+      "Puntos de igual temperatura",
+      "Puntos de igual presión",
+      "Puntos de igual altitud",
+      "Puntos de igual profundidad marina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cada curva de nivel une puntos situados a la misma altitud."
+  },
+  {
+    "id": "cg-3278",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de mapa muestra fronteras, países y divisiones administrativas?",
+    "options": [
+      "Mapa político",
+      "Mapa físico",
+      "Mapa topográfico",
+      "Mapa climático"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los mapas políticos representan límites y unidades administrativas."
+  },
+  {
+    "id": "cg-3279",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de mapa representa montañas, valles, ríos y otros elementos naturales?",
+    "options": [
+      "Mapa económico",
+      "Mapa histórico",
+      "Mapa político",
+      "Mapa físico"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los mapas físicos muestran el relieve y los elementos naturales."
+  },
+  {
+    "id": "cg-3280",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Qué sistema de posicionamiento por satélite permite conocer coordenadas en la Tierra?",
+    "options": [
+      "Sonar",
+      "SIG",
+      "GPS",
+      "Radar"
+    ],
+    "correctIndex": 2,
+    "explanation": "El GPS es un sistema global de navegación por satélite."
+  },
+  {
+    "id": "cg-3281",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama un conjunto de islas próximas entre sí?",
+    "options": [
+      "Archipiélago",
+      "Istmo",
+      "Península",
+      "Atolón"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un archipiélago es una agrupación de islas."
+  },
+  {
+    "id": "cg-3282",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la franja de tierra que une dos masas continentales?",
+    "options": [
+      "Golfo",
+      "Península",
+      "Istmo",
+      "Cabo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un istmo une dos porciones de tierra separadas por agua."
+  },
+  {
+    "id": "cg-3283",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama una porción de tierra rodeada de agua por tres lados?",
+    "options": [
+      "Istmo",
+      "Isla",
+      "Península",
+      "Archipiélago"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una península está unida al continente por una franja de tierra."
+  },
+  {
+    "id": "cg-3284",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la desembocadura de un río que se divide en varios brazos?",
+    "options": [
+      "Estuario",
+      "Fiordo",
+      "Delta",
+      "Meandro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un delta se forma por la acumulación de sedimentos en la desembocadura."
+  },
+  {
+    "id": "cg-3285",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la desembocadura ancha de un río invadida por el mar?",
+    "options": [
+      "Albufera",
+      "Delta",
+      "Ría",
+      "Estuario"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un estuario es un tramo fluvial final influido por las mareas."
+  },
+  {
+    "id": "cg-3286",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama un río que vierte sus aguas en otro río mayor?",
+    "options": [
+      "Afluente",
+      "Emisario",
+      "Caudal",
+      "Meandro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un afluente es un curso de agua que desemboca en otro río."
+  },
+  {
+    "id": "cg-3287",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama un valle glaciar inundado por el mar, típico de Noruega?",
+    "options": [
+      "Ría",
+      "Delta",
+      "Atolón",
+      "Fiordo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los fiordos son antiguos valles glaciares ocupados por agua marina."
+  },
+  {
+    "id": "cg-3288",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama un arrecife de coral en forma de anillo que rodea una laguna?",
+    "options": [
+      "Estuario",
+      "Delta",
+      "Fiordo",
+      "Atolón"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los atolones son formaciones coralinas circulares típicas del Pacífico."
+  },
+  {
+    "id": "cg-3289",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la proyección que representa la Tierra sobre un cilindro?",
+    "options": [
+      "Proyección azimutal",
+      "Proyección cónica",
+      "Proyección cilíndrica",
+      "Proyección policónica"
+    ],
+    "correctIndex": 2,
+    "explanation": "La proyección cilíndrica envuelve el globo con un cilindro y luego lo despliega."
+  },
+  {
+    "id": "cg-3290",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la proyección que se obtiene al proyectar la Tierra sobre un cono?",
+    "options": [
+      "Proyección cónica",
+      "Proyección cilíndrica",
+      "Proyección azimutal",
+      "Proyección estereográfica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La proyección cónica es adecuada para latitudes medias."
+  },
+  {
+    "id": "cg-3291",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la proyección que proyecta la superficie terrestre sobre un plano tangente?",
+    "options": [
+      "Proyección cónica",
+      "Proyección cilíndrica",
+      "Proyección azimutal",
+      "Proyección de Mercator"
+    ],
+    "correctIndex": 2,
+    "explanation": "La proyección azimutal se usa para representar regiones polares."
+  },
+  {
+    "id": "cg-3292",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué deforma de manera más acusada la proyección de Mercator?",
+    "options": [
+      "La posición de los meridianos",
+      "Las superficies cercanas a los polos",
+      "Las distancias en el ecuador",
+      "La forma de las islas tropicales"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mercator exagera enormemente las áreas polares."
+  },
+  {
+    "id": "cg-3293",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "En un mapa a escala 1:50.000, ¿a cuántos metros equivale un centímetro?",
+    "options": [
+      "50 metros",
+      "500 metros",
+      "5 kilómetros",
+      "500 kilómetros"
+    ],
+    "correctIndex": 1,
+    "explanation": "50.000 centímetros son 500 metros."
+  },
+  {
+    "id": "cg-3294",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "En un mapa a escala 1:25.000, ¿a qué distancia equivale una medida de 4 centímetros?",
+    "options": [
+      "250 metros",
+      "10 kilómetros",
+      "1 kilómetro",
+      "2,5 kilómetros"
+    ],
+    "correctIndex": 2,
+    "explanation": "4 centímetros por 25.000 equivalen a 100.000 centímetros, es decir, 1 kilómetro."
+  },
+  {
+    "id": "cg-3295",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Cuántos grados de longitud abarca cada huso horario?",
+    "options": [
+      "30 grados",
+      "15 grados",
+      "10 grados",
+      "24 grados"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Tierra gira 360 grados en 24 horas, es decir, 15 grados por hora."
+  },
+  {
+    "id": "cg-3296",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué línea imaginaria sigue aproximadamente el meridiano de 180 grados?",
+    "options": [
+      "Ecuador",
+      "Trópico de Capricornio",
+      "Meridiano de Greenwich",
+      "Línea internacional de cambio de fecha"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al cruzar la línea de cambio de fecha se ajusta el día del calendario."
+  },
+  {
+    "id": "cg-3297",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la diferencia angular entre el norte magnético y el norte geográfico?",
+    "options": [
+      "Desviación de la escala",
+      "Variación de la proyección",
+      "Declinación magnética",
+      "Corrección por altitud"
+    ],
+    "correctIndex": 2,
+    "explanation": "La declinación magnética varía según el lugar y la época."
+  },
+  {
+    "id": "cg-3298",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué estudia la hipsometría en un mapa?",
+    "options": [
+      "La altitud del relieve",
+      "La temperatura media",
+      "La presión atmosférica",
+      "La profundidad de los océanos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hipsometría representa las diferencias de altura del terreno mediante colores o curvas."
+  },
+  {
+    "id": "cg-3299",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué estudia la batimetría?",
+    "options": [
+      "La altitud de las montañas",
+      "La dirección de las corrientes",
+      "La salinidad del agua",
+      "La profundidad de los fondos marinos"
+    ],
+    "correctIndex": 3,
+    "explanation": "La batimetría elabora mapas del relieve submarino."
+  },
+  {
+    "id": "cg-3300",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué indica la equidistancia entre curvas de nivel consecutivas?",
+    "options": [
+      "Una diferencia de altitud constante",
+      "La escala del mapa",
+      "El grosor de la línea",
+      "La distancia entre dos mapas"
+    ],
+    "correctIndex": 0,
+    "explanation": "La equidistancia es el desnivel fijo entre una curva de nivel y la siguiente."
+  },
+  {
+    "id": "cg-3301",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué proyección de aspecto elíptico busca un compromiso entre forma y superficie en mapas del mundo?",
+    "options": [
+      "Proyección de Robinson",
+      "Proyección de Mercator",
+      "Proyección de Peters",
+      "Proyección gnómica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La proyección de Robinson no es equivalente ni conforme, pero resulta visualmente equilibrada."
+  },
+  {
+    "id": "cg-3302",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué sistema de coordenadas divide la Tierra en zonas de 6 grados de longitud?",
+    "options": [
+      "UTM",
+      "GPS",
+      "Mercator",
+      "Geoide"
+    ],
+    "correctIndex": 0,
+    "explanation": "El sistema UTM usa 60 zonas de 6 grados de longitud."
+  },
+  {
+    "id": "cg-3303",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué modelo matemático aproxima la forma real de la Tierra?",
+    "options": [
+      "El datum horizontal",
+      "La eclíptica",
+      "El geoide",
+      "El eje terrestre"
+    ],
+    "correctIndex": 2,
+    "explanation": "El geoide es una superficie equipotencial que se aproxima al nivel medio del mar."
+  },
+  {
+    "id": "cg-3304",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué define un datum en cartografía?",
+    "options": [
+      "El tipo de proyección",
+      "La escala gráfica del mapa",
+      "La leyenda de símbolos",
+      "El sistema de referencia para las coordenadas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un datum fija el origen y la orientación del sistema de coordenadas."
+  },
+  {
+    "id": "cg-3305",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué fosa oceánica es la de mayor profundidad conocida?",
+    "options": [
+      "Fosa de Tonga",
+      "Fosa de las Marianas",
+      "Fosa de Java",
+      "Fosa de Puerto Rico"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fosa de las Marianas supera los 10.900 metros de profundidad."
+  },
+  {
+    "id": "cg-3306",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué cordillera submarina recorre el océano Atlántico de norte a sur?",
+    "options": [
+      "Plataforma continental europea",
+      "Fosa de las Aleutianas",
+      "Dorsal del Pacífico Oriental",
+      "Dorsal mesoatlántica"
+    ],
+    "correctIndex": 3,
+    "explanation": "La dorsal mesoatlántica es una cadena volcánica submarina donde se separan placas."
+  },
+  {
+    "id": "cg-3307",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué falla geológica atraviesa California y es famosa por su actividad sísmica?",
+    "options": [
+      "Falla de San Andrés",
+      "Falla de Anatolia",
+      "Falla de Wasatch",
+      "Falla de New Madrid"
+    ],
+    "correctIndex": 0,
+    "explanation": "La falla de San Andrés marca el límite entre las placas Pacífica y Norteamericana."
+  },
+  {
+    "id": "cg-3308",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué lago de Siberia es el de mayor profundidad del mundo?",
+    "options": [
+      "Lago Tanganica",
+      "Lago Superior",
+      "Lago Baikal",
+      "Lago Victoria"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Baikal contiene cerca de una quinta parte del agua dulce superficial del planeta."
+  },
+  {
+    "id": "cg-3309",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué lago africano es el segundo más profundo del mundo?",
+    "options": [
+      "Lago Turkana",
+      "Lago Tanganica",
+      "Lago Victoria",
+      "Lago Malaui"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Tanganica se extiende por el valle del Rift entre varios países de África oriental."
+  },
+  {
+    "id": "cg-3310",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué lago, situado entre Israel y Jordania, es famoso por su alta salinidad?",
+    "options": [
+      "Mar Caspio",
+      "Lago Baikal",
+      "Mar de Aral",
+      "Mar Muerto"
+    ],
+    "correctIndex": 3,
+    "explanation": "El mar Muerto se encuentra a más de 400 metros bajo el nivel del mar."
+  },
+  {
+    "id": "cg-3311",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué depresión desértica del Cuerno de África es conocida por sus altas temperaturas?",
+    "options": [
+      "Depresión de Qattara",
+      "Valle de la Muerte",
+      "Depresión de Danakil",
+      "Desierto del Namib"
+    ],
+    "correctIndex": 2,
+    "explanation": "La depresión de Danakil forma parte del valle del Rift y contiene vulcanismo activo."
+  },
+  {
+    "id": "cg-3312",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué cabo marca el extremo meridional de África?",
+    "options": [
+      "Cabo Agulhas",
+      "Cabo Norte",
+      "Cabo de Buena Esperanza",
+      "Cabo de Hornos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cabo Agulhas está al sureste de Ciudad del Cabo y es el punto más austral de África."
+  },
+  {
+    "id": "cg-3313",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué montaña es la segunda más alta del mundo?",
+    "options": [
+      "Kangchenjunga",
+      "Makalu",
+      "K2",
+      "Lhotse"
+    ],
+    "correctIndex": 2,
+    "explanation": "El K2, en la cordillera del Karakórum, supera los 8.600 metros."
+  },
+  {
+    "id": "cg-3314",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué macizo alberga la cumbre más alta de la Antártida?",
+    "options": [
+      "Monte Sidley",
+      "Monte Erebus",
+      "Monte Kirkpatrick",
+      "Macizo Vinson"
+    ],
+    "correctIndex": 3,
+    "explanation": "El macizo Vinson, en la cordillera Sentinel, alcanza unos 4.892 metros."
+  },
+  {
+    "id": "cg-3315",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué gran monolito de arenisca es un símbolo del centro de Australia?",
+    "options": [
+      "Kata Tjuta",
+      "Monte Augustus",
+      "Monte Kosciuszko",
+      "Uluru"
+    ],
+    "correctIndex": 3,
+    "explanation": "Uluru, también llamado Ayers Rock, es un lugar sagrado para los pueblos aborígenes."
+  },
+  {
+    "id": "cg-3316",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué volcán activo se encuentra en la isla de Ross, en la Antártida?",
+    "options": [
+      "Monte Erebus",
+      "Eyjafjallajökull",
+      "Monte Etna",
+      "Monte Fuji"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Erebus es uno de los pocos volcanes activos de la Antártida."
+  },
+  {
+    "id": "cg-3317",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué volcán indonesio protagonizó una erupción catastrófica en 1883?",
+    "options": [
+      "Merapi",
+      "Tambora",
+      "Pinatubo",
+      "Krakatoa"
+    ],
+    "correctIndex": 3,
+    "explanation": "La erupción del Krakatoa en 1883 provocó tsunamis y afectó el clima global."
+  },
+  {
+    "id": "cg-3318",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué península volcánica se encuentra en el extremo oriental de Rusia?",
+    "options": [
+      "Península de Chukotka",
+      "Península de Taymyr",
+      "Península de Kamchatka",
+      "Península de Kola"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kamchatka tiene numerosos volcanes y géiseres."
+  },
+  {
+    "id": "cg-3319",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué lago de Asia Central se redujo drásticamente por el desvío de los ríos que lo alimentaban?",
+    "options": [
+      "Mar de Aral",
+      "Lago Baljash",
+      "Lago Baikal",
+      "Mar Caspio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El desvío de agua para regadío provocó la desecación parcial del mar de Aral."
+  },
+  {
+    "id": "cg-3320",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué delta interior se forma en el norte de Botsuana?",
+    "options": [
+      "Delta del Zambeze",
+      "Delta del Congo",
+      "Delta del Níger",
+      "Delta del Okavango"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Okavango desemboca en una llanura interior sin llegar al mar."
+  },
+  {
+    "id": "cg-3321",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué dos países son los únicos del mundo doblemente sin litoral, es decir, rodeados solo por países sin costa?",
+    "options": [
+      "Austria y Kazajistán",
+      "Liechtenstein y Uzbekistán",
+      "Suiza y Mongolia",
+      "Nepal y Paraguay"
+    ],
+    "correctIndex": 1,
+    "explanation": "Liechtenstein y Uzbekistán solo limitan con Estados sin salida al mar."
+  },
+  {
+    "id": "cg-3322",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿A qué país pertenece el exclave de Kaliningrado, situado entre Polonia y Lituania?",
+    "options": [
+      "Lituania",
+      "Polonia",
+      "Bielorrusia",
+      "Rusia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kaliningrado es un territorio ruso separado del resto del país."
+  },
+  {
+    "id": "cg-3323",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué Estado soberano se encuentra completamente dentro de Roma?",
+    "options": [
+      "San Marino",
+      "Ciudad del Vaticano",
+      "Mónaco",
+      "Liechtenstein"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Ciudad del Vaticano es el Estado soberano más pequeño del mundo."
+  },
+  {
+    "id": "cg-3324",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Entre qué dos países se extiende la frontera terrestre más larga del mundo?",
+    "options": [
+      "Rusia y China",
+      "India y China",
+      "Estados Unidos y Canadá",
+      "Argentina y Chile"
+    ],
+    "correctIndex": 2,
+    "explanation": "La frontera entre Estados Unidos y Canadá supera los 8.800 kilómetros."
+  },
+  {
+    "id": "cg-3325",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué tres países comparten la triple frontera junto a las cataratas del Iguazú?",
+    "options": [
+      "Argentina, Chile y Bolivia",
+      "Paraguay, Bolivia y Brasil",
+      "Brasil, Uruguay y Argentina",
+      "Argentina, Brasil y Paraguay"
+    ],
+    "correctIndex": 3,
+    "explanation": "La triple frontera del Iguazú reúne a Argentina, Brasil y Paraguay."
+  },
+  {
+    "id": "cg-3326",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué país tiene departamentos de ultramar en América del Sur y en el Caribe, además de su territorio europeo?",
+    "options": [
+      "Reino Unido",
+      "Francia",
+      "Dinamarca",
+      "Países Bajos"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Guayana Francesa está en América del Sur y Guadalupe y Martinica en el Caribe."
+  },
+  {
+    "id": "cg-3327",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué país está formado por cuatro naciones constituyentes: Inglaterra, Escocia, Gales e Irlanda del Norte?",
+    "options": [
+      "Irlanda",
+      "Países Bajos",
+      "Dinamarca",
+      "Reino Unido"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Reino Unido es un Estado formado por cuatro naciones constituyentes."
+  },
+  {
+    "id": "cg-3328",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué país tiene capitales en Pretoria, Ciudad del Cabo y Bloemfontein?",
+    "options": [
+      "Sudáfrica",
+      "Nigeria",
+      "Australia",
+      "Brasil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sudáfrica reparte las funciones de capital entre tres ciudades."
+  },
+  {
+    "id": "cg-3329",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué país tiene como capital oficial Sri Jayawardenepura Kotte?",
+    "options": [
+      "Bangladés",
+      "Maldivas",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "correctIndex": 3,
+    "explanation": "Colombo es la ciudad principal, pero la capital oficial de Sri Lanka es Sri Jayawardenepura Kotte."
+  },
+  {
+    "id": "cg-3330",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué país de Oceanía tiene su capital en Ngerulmud?",
+    "options": [
+      "Palaos",
+      "Islas Marshall",
+      "Micronesia",
+      "Nauru"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ngerulmud sustituyó a Koror como capital de Palaos en 2006."
+  },
+  {
+    "id": "cg-3331",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué país africano tiene su capital en Yamena?",
+    "options": [
+      "Níger",
+      "Chad",
+      "Sudán",
+      "República Centroafricana"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yamena está situada junto al río Chari, frente a Camerún."
+  },
+  {
+    "id": "cg-3332",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué país del sur de África tiene su capital en Lilongüe?",
+    "options": [
+      "Zimbabue",
+      "Zambia",
+      "Malaui",
+      "Mozambique"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lilongüe es la capital de Malaui desde 1975."
+  },
+  {
+    "id": "cg-3333",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama una gran masa de hielo que fluye lentamente por un valle?",
+    "options": [
+      "Casquete polar",
+      "Glaciar",
+      "Iceberg",
+      "Morrena"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un glaciar es hielo en movimiento que modela el paisaje."
+  },
+  {
+    "id": "cg-3334",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué bioma se caracteriza por suelo helado, musgos y líquenes?",
+    "options": [
+      "Taiga",
+      "Tundra",
+      "Sabana",
+      "Estepa"
+    ],
+    "correctIndex": 1,
+    "explanation": "La tundra aparece en latitudes altas, donde el subsuelo permanece helado."
+  },
+  {
+    "id": "cg-3335",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Qué bioma de coníferas se extiende por Siberia y el norte de Canadá?",
+    "options": [
+      "Tundra",
+      "Taiga",
+      "Selva tropical",
+      "Chaparral"
+    ],
+    "correctIndex": 1,
+    "explanation": "La taiga es el bosque boreal de coníferas."
+  },
+  {
+    "id": "cg-3336",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el territorio cuyas aguas drenan hacia un mismo río o sistema fluvial?",
+    "options": [
+      "Delta",
+      "Acuífero",
+      "Cuenca hidrográfica",
+      "Estuario"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cuenca hidrográfica está delimitada por la divisoria de aguas."
+  },
+  {
+    "id": "cg-3337",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama un río que no llega al mar y termina en una cuenca cerrada?",
+    "options": [
+      "Río endorreico",
+      "Río perenne",
+      "Río exorreico",
+      "Río arreico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los ríos endorreicos desembocan en lagos o zonas interiores sin salida al mar."
+  },
+  {
+    "id": "cg-3338",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama una zona fértil con agua en medio de un desierto?",
+    "options": [
+      "Uadi",
+      "Duna",
+      "Oasis",
+      "Salar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un oasis se forma donde el agua subterránea llega a la superficie."
+  },
+  {
+    "id": "cg-3339",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama una acumulación de arena modelada por el viento?",
+    "options": [
+      "Duna",
+      "Delta",
+      "Loess",
+      "Morrena"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las dunas son formas de relieve típicas de los desiertos y las costas."
+  },
+  {
+    "id": "cg-3340",
+    "category": "general",
+    "topic": "geography",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la zona submarina poco profunda que bordea un continente?",
+    "options": [
+      "Dorsal oceánica",
+      "Plataforma continental",
+      "Fosa abisal",
+      "Talud continental"
+    ],
+    "correctIndex": 1,
+    "explanation": "La plataforma continental se extiende desde la costa hasta el talud."
+  }
+]

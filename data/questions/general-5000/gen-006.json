@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-2301",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 7 + 8?",
+    "options": [
+      "15",
+      "13",
+      "14",
+      "16"
+    ],
+    "correctIndex": 0,
+    "explanation": "La suma de 7 y 8 es igual a 15."
+  },
+  {
+    "id": "cg-2302",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 12 × 12?",
+    "options": [
+      "124",
+      "144",
+      "132",
+      "148"
+    ],
+    "correctIndex": 1,
+    "explanation": "Doce multiplicado por doce da 144."
+  },
+  {
+    "id": "cg-2303",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la raíz cuadrada de 81?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "11"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nueve elevado al cuadrado es 81, así que la raíz es 9."
+  },
+  {
+    "id": "cg-2304",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 100 ÷ 4?",
+    "options": [
+      "20",
+      "24",
+      "40",
+      "25"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cien dividido entre cuatro es igual a 25."
+  },
+  {
+    "id": "cg-2305",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 2 elevado a la quinta potencia?",
+    "options": [
+      "32",
+      "10",
+      "16",
+      "64"
+    ],
+    "correctIndex": 0,
+    "explanation": "2^5 = 2 × 2 × 2 × 2 × 2 = 32."
+  },
+  {
+    "id": "cg-2306",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 15 − 27?",
+    "options": [
+      "−42",
+      "−12",
+      "−2",
+      "−22"
+    ],
+    "correctIndex": 1,
+    "explanation": "Al restar 27 de 15 se obtiene −12."
+  },
+  {
+    "id": "cg-2307",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cómo se escribe la fracción 3/4 en forma decimal?",
+    "options": [
+      "0,25",
+      "0,34",
+      "0,75",
+      "1,25"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tres dividido entre cuatro es 0,75."
+  },
+  {
+    "id": "cg-2308",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es el 25 % de 80?",
+    "options": [
+      "15",
+      "25",
+      "32",
+      "20"
+    ],
+    "correctIndex": 3,
+    "explanation": "El 25 % equivale a una cuarta parte, y 80 ÷ 4 = 20."
+  },
+  {
+    "id": "cg-2309",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es el perímetro de un cuadrado de 6 cm de lado?",
+    "options": [
+      "24 cm",
+      "12 cm",
+      "18 cm",
+      "36 cm"
+    ],
+    "correctIndex": 0,
+    "explanation": "El perímetro de un cuadrado es cuatro veces el lado: 4 × 6 = 24 cm."
+  },
+  {
+    "id": "cg-2310",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es el área de un rectángulo de 5 cm por 8 cm?",
+    "options": [
+      "13 cm²",
+      "40 cm²",
+      "26 cm²",
+      "80 cm²"
+    ],
+    "correctIndex": 1,
+    "explanation": "El área de un rectángulo es base por altura: 5 × 8 = 40 cm²."
+  },
+  {
+    "id": "cg-2311",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto suman los ángulos interiores de un triángulo en geometría euclidiana?",
+    "options": [
+      "90°",
+      "270°",
+      "180°",
+      "360°"
+    ],
+    "correctIndex": 2,
+    "explanation": "En un triángulo euclidiano los tres ángulos interiores suman 180°."
+  },
+  {
+    "id": "cg-2312",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuántos grados mide un ángulo recto?",
+    "options": [
+      "45°",
+      "180°",
+      "360°",
+      "90°"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un ángulo recto mide exactamente 90 grados."
+  },
+  {
+    "id": "cg-2313",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué valor aproximado tiene el número π?",
+    "options": [
+      "3,1416",
+      "2,7183",
+      "1,6180",
+      "1,4142"
+    ],
+    "correctIndex": 0,
+    "explanation": "π es aproximadamente 3,14159; 2,7183 corresponde a e y 1,6180 al número áureo."
+  },
+  {
+    "id": "cg-2314",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "Si x + 5 = 12, ¿cuánto vale x?",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "17"
+    ],
+    "correctIndex": 1,
+    "explanation": "Restando 5 en ambos lados se obtiene x = 7."
+  },
+  {
+    "id": "cg-2315",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "Si 2x = 18, ¿cuánto vale x?",
+    "options": [
+      "6",
+      "16",
+      "9",
+      "36"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dividiendo ambos lados entre 2 resulta x = 9."
+  },
+  {
+    "id": "cg-2316",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la mediana del conjunto 2, 4, 6, 8, 10?",
+    "options": [
+      "4",
+      "5",
+      "8",
+      "6"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al ordenar los cinco datos, el valor central es 6."
+  },
+  {
+    "id": "cg-2317",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la media aritmética de 2, 4 y 6?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "correctIndex": 0,
+    "explanation": "La suma es 12 y, dividida entre 3, da una media de 4."
+  },
+  {
+    "id": "cg-2318",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la moda del conjunto 3, 3, 5, 7, 9?",
+    "options": [
+      "5",
+      "3",
+      "7",
+      "9"
+    ],
+    "correctIndex": 1,
+    "explanation": "La moda es el valor que más se repite; aquí el 3 aparece dos veces."
+  },
+  {
+    "id": "cg-2319",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la probabilidad de obtener cara al lanzar una moneda equilibrada?",
+    "options": [
+      "1/4",
+      "1/3",
+      "1/2",
+      "1"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hay dos resultados equiprobables y uno de ellos es cara."
+  },
+  {
+    "id": "cg-2320",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la probabilidad de obtener un 6 al lanzar un dado de seis caras?",
+    "options": [
+      "1/3",
+      "1/2",
+      "6",
+      "1/6"
+    ],
+    "correctIndex": 3,
+    "explanation": "El dado tiene seis caras equiprobables y solo una muestra el 6."
+  },
+  {
+    "id": "cg-2321",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué número primo es el único que es par?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0,
+    "explanation": "El 2 es divisible solo por 1 y por sí mismo, y además es par."
+  },
+  {
+    "id": "cg-2322",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué valor tiene el número romano X?",
+    "options": [
+      "5",
+      "10",
+      "50",
+      "100"
+    ],
+    "correctIndex": 1,
+    "explanation": "En numeración romana, X representa el valor 10."
+  },
+  {
+    "id": "cg-2323",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué valor tiene el número romano VII?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "12"
+    ],
+    "correctIndex": 2,
+    "explanation": "V vale 5 y II vale 2; sumados dan 7."
+  },
+  {
+    "id": "cg-2324",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué valor tiene el número romano M?",
+    "options": [
+      "100",
+      "500",
+      "5000",
+      "1000"
+    ],
+    "correctIndex": 3,
+    "explanation": "En el sistema romano, M representa mil."
+  },
+  {
+    "id": "cg-2325",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuántos metros hay en un kilómetro?",
+    "options": [
+      "1000",
+      "10",
+      "100",
+      "10000"
+    ],
+    "correctIndex": 0,
+    "explanation": "El prefijo kilo indica mil, por lo que un kilómetro tiene 1000 metros."
+  },
+  {
+    "id": "cg-2326",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuántos segundos hay en una hora?",
+    "options": [
+      "60",
+      "3600",
+      "600",
+      "36000"
+    ],
+    "correctIndex": 1,
+    "explanation": "Una hora tiene 60 minutos y cada minuto 60 segundos: 60 × 60 = 3600."
+  },
+  {
+    "id": "cg-2327",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué fracción equivale a 0,5?",
+    "options": [
+      "1/5",
+      "2/5",
+      "1/2",
+      "1/4"
+    ],
+    "correctIndex": 2,
+    "explanation": "El número decimal 0,5 representa la mitad, es decir, 1/2."
+  },
+  {
+    "id": "cg-2328",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿A qué porcentaje equivale la fracción 1/4?",
+    "options": [
+      "14 %",
+      "20 %",
+      "40 %",
+      "25 %"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un cuarto de 100 es 25, por lo que 1/4 equivale al 25 %."
+  },
+  {
+    "id": "cg-2329",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 10 elevado al cubo?",
+    "options": [
+      "1000",
+      "30",
+      "100",
+      "10000"
+    ],
+    "correctIndex": 0,
+    "explanation": "10³ = 10 × 10 × 10 = 1000."
+  },
+  {
+    "id": "cg-2330",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 6 × 7?",
+    "options": [
+      "36",
+      "42",
+      "48",
+      "56"
+    ],
+    "correctIndex": 1,
+    "explanation": "Seis multiplicado por siete es igual a 42."
+  },
+  {
+    "id": "cg-2331",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es el mínimo común múltiplo de 4 y 6?",
+    "options": [
+      "6",
+      "18",
+      "12",
+      "24"
+    ],
+    "correctIndex": 2,
+    "explanation": "El menor múltiplo común de 4 y 6 es 12."
+  },
+  {
+    "id": "cg-2332",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es el máximo común divisor de 12 y 18?",
+    "options": [
+      "2",
+      "3",
+      "9",
+      "6"
+    ],
+    "correctIndex": 3,
+    "explanation": "El mayor divisor compartido por 12 y 18 es 6."
+  },
+  {
+    "id": "cg-2333",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué matemático griego escribió los Elementos, tratado base de la geometría?",
+    "options": [
+      "Euclides",
+      "Pitágoras",
+      "Arquímedes",
+      "Apolonio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Euclides compiló los Elementos, obra fundamental de la geometría antigua."
+  },
+  {
+    "id": "cg-2334",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué matemático suizo del siglo XVIII es famoso por la constante e y la fórmula de los poliedros?",
+    "options": [
+      "Carl Friedrich Gauss",
+      "Leonhard Euler",
+      "Blaise Pascal",
+      "René Descartes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Euler estudió la constante e, los poliedros y numerosas ramas del análisis."
+  },
+  {
+    "id": "cg-2335",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué matemático alemán del siglo XIX es conocido por la distribución normal o campana?",
+    "options": [
+      "Leonhard Euler",
+      "Bernhard Riemann",
+      "Carl Friedrich Gauss",
+      "David Hilbert"
+    ],
+    "correctIndex": 2,
+    "explanation": "La distribución normal también se llama gaussiana en honor a Gauss."
+  },
+  {
+    "id": "cg-2336",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál de los siguientes números es primo?",
+    "options": [
+      "21",
+      "27",
+      "33",
+      "17"
+    ],
+    "correctIndex": 3,
+    "explanation": "El 17 solo es divisible por 1 y por 17; los otros tres son múltiplos de 3."
+  },
+  {
+    "id": "cg-2337",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál de los siguientes números es divisible por 3?",
+    "options": [
+      "27",
+      "14",
+      "22",
+      "35"
+    ],
+    "correctIndex": 0,
+    "explanation": "La suma de las cifras de 27 es 9, divisible por 3."
+  },
+  {
+    "id": "cg-2338",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es el área de un triángulo de 10 cm de base y 6 cm de altura?",
+    "options": [
+      "16 cm²",
+      "30 cm²",
+      "60 cm²",
+      "80 cm²"
+    ],
+    "correctIndex": 1,
+    "explanation": "El área es base por altura dividida entre 2: 10 × 6 ÷ 2 = 30 cm²."
+  },
+  {
+    "id": "cg-2339",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué fórmula da la longitud de una circunferencia de radio r?",
+    "options": [
+      "π · r^2",
+      "π · r",
+      "2 · π · r",
+      "4 · π · r^2"
+    ],
+    "correctIndex": 2,
+    "explanation": "La longitud o perímetro de la circunferencia es 2πr."
+  },
+  {
+    "id": "cg-2340",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué fórmula da el área de un círculo de radio r?",
+    "options": [
+      "2 · π · r",
+      "π · r",
+      "4 · π · r^2",
+      "π · r^2"
+    ],
+    "correctIndex": 3,
+    "explanation": "El área del círculo es π multiplicado por el radio al cuadrado."
+  },
+  {
+    "id": "cg-2341",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué relación establece el teorema de Pitágoras en un triángulo rectángulo?",
+    "options": [
+      "La suma de los cuadrados de los catetos iguala el cuadrado de la hipotenusa",
+      "La suma de los catetos iguala la hipotenusa",
+      "La diferencia de los cuadrados de los catetos iguala el cuadrado de la hipotenusa",
+      "El producto de los catetos iguala el cuadrado de la hipotenusa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La suma de los cuadrados de los catetos es igual al cuadrado de la hipotenusa."
+  },
+  {
+    "id": "cg-2342",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "En un triángulo rectángulo de catetos 3 y 4, ¿cuánto mide la hipotenusa?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "12"
+    ],
+    "correctIndex": 1,
+    "explanation": "Por Pitágoras, 3² + 4² = 9 + 16 = 25, y su raíz es 5."
+  },
+  {
+    "id": "cg-2343",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuántos grados mide un ángulo llano?",
+    "options": [
+      "90°",
+      "270°",
+      "180°",
+      "360°"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un ángulo llano tiene sus lados alineados y mide 180°."
+  },
+  {
+    "id": "cg-2344",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuántos grados mide un ángulo completo?",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "correctIndex": 3,
+    "explanation": "Una vuelta completa equivale a 360 grados."
+  },
+  {
+    "id": "cg-2345",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto mide cada ángulo interior de un triángulo equilátero?",
+    "options": [
+      "60°",
+      "45°",
+      "90°",
+      "120°"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los tres ángulos son iguales y suman 180°, por lo que cada uno mide 60°."
+  },
+  {
+    "id": "cg-2346",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuántas caras tiene un cubo?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un cubo tiene seis caras cuadradas."
+  },
+  {
+    "id": "cg-2347",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuántas aristas tiene un cubo?",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "16"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un cubo tiene doce aristas."
+  },
+  {
+    "id": "cg-2348",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuántos vértices tiene un cubo?",
+    "options": [
+      "6",
+      "12",
+      "16",
+      "8"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un cubo tiene ocho vértices."
+  },
+  {
+    "id": "cg-2349",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cómo se escribe 1000 en notación científica?",
+    "options": [
+      "1 × 10^3",
+      "1 × 10^2",
+      "10 × 10^3",
+      "1 × 10^4"
+    ],
+    "correctIndex": 0,
+    "explanation": "1000 es 1 multiplicado por 10 elevado a 3."
+  },
+  {
+    "id": "cg-2350",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál de los siguientes números es mayor que −3?",
+    "options": [
+      "−5",
+      "−1",
+      "−4",
+      "−6"
+    ],
+    "correctIndex": 1,
+    "explanation": "En la recta numérica, −1 está a la derecha de −3 y es mayor."
+  },
+  {
+    "id": "cg-2351",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es el valor absoluto de −7?",
+    "options": [
+      "−7 (negativo)",
+      "0",
+      "7",
+      "14"
+    ],
+    "correctIndex": 2,
+    "explanation": "El valor absoluto expresa la distancia al cero y siempre es no negativo."
+  },
+  {
+    "id": "cg-2352",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 2 + 3 × 4?",
+    "options": [
+      "20",
+      "24",
+      "9",
+      "14"
+    ],
+    "correctIndex": 3,
+    "explanation": "Primero se multiplica: 3 × 4 = 12, y luego se suma 2."
+  },
+  {
+    "id": "cg-2353",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "Si primero se suma 2 + 3 y después se multiplica el resultado por 4, ¿qué valor se obtiene?",
+    "options": [
+      "20",
+      "14",
+      "18",
+      "24"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los paréntesis obligan a sumar primero: 5 × 4 = 20."
+  },
+  {
+    "id": "cg-2354",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 10 − 2 × 3?",
+    "options": [
+      "24",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctIndex": 1,
+    "explanation": "La multiplicación tiene prioridad: 10 − 6 = 4."
+  },
+  {
+    "id": "cg-2355",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 1/2 + 1/4?",
+    "options": [
+      "1/6",
+      "2/6",
+      "3/4",
+      "1/8"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un medio equivale a dos cuartos; dos cuartos más un cuarto dan tres cuartos."
+  },
+  {
+    "id": "cg-2356",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 0,25 + 0,75?",
+    "options": [
+      "0,9",
+      "1,25",
+      "1,5",
+      "1"
+    ],
+    "correctIndex": 3,
+    "explanation": "La suma de 0,25 y 0,75 completa una unidad."
+  },
+  {
+    "id": "cg-2357",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 3,5 + 1,5?",
+    "options": [
+      "5",
+      "4",
+      "4,5",
+      "6"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tres unidades y media más una y media suman cinco."
+  },
+  {
+    "id": "cg-2358",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es el 20 % de 150?",
+    "options": [
+      "20",
+      "30",
+      "25",
+      "45"
+    ],
+    "correctIndex": 1,
+    "explanation": "El 20 % de 150 se calcula como 150 × 0,20 = 30."
+  },
+  {
+    "id": "cg-2359",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es el 10 % de 250?",
+    "options": [
+      "10",
+      "50",
+      "25",
+      "100"
+    ],
+    "correctIndex": 2,
+    "explanation": "El 10 % de 250 equivale a dividir 250 entre 10."
+  },
+  {
+    "id": "cg-2360",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es el 50 % de 90?",
+    "options": [
+      "35",
+      "40",
+      "50",
+      "45"
+    ],
+    "correctIndex": 3,
+    "explanation": "El 50 % es la mitad, y la mitad de 90 es 45."
+  },
+  {
+    "id": "cg-2361",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuántos años hay en una década?",
+    "options": [
+      "10",
+      "5",
+      "50",
+      "100"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una década comprende diez años."
+  },
+  {
+    "id": "cg-2362",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuántos años hay en un siglo?",
+    "options": [
+      "10",
+      "100",
+      "50",
+      "1000"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un siglo equivale a cien años."
+  },
+  {
+    "id": "cg-2363",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuántas unidades hay en una docena?",
+    "options": [
+      "6",
+      "10",
+      "12",
+      "24"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una docena agrupa doce unidades."
+  },
+  {
+    "id": "cg-2364",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuántos kilogramos hay en una tonelada métrica?",
+    "options": [
+      "100 kg",
+      "500 kg",
+      "10000 kg",
+      "1000 kg"
+    ],
+    "correctIndex": 3,
+    "explanation": "Una tonelada métrica equivale a mil kilogramos."
+  },
+  {
+    "id": "cg-2365",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuántos mililitros hay en un litro?",
+    "options": [
+      "1000 ml",
+      "100 ml",
+      "500 ml",
+      "10000 ml"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un litro contiene mil mililitros."
+  },
+  {
+    "id": "cg-2366",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuántos centímetros hay en un metro?",
+    "options": [
+      "10 cm",
+      "100 cm",
+      "1000 cm",
+      "10000 cm"
+    ],
+    "correctIndex": 1,
+    "explanation": "El prefijo centi indica una centésima, así que un metro tiene cien centímetros."
+  },
+  {
+    "id": "cg-2367",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuántos gramos hay en un kilogramo?",
+    "options": [
+      "100 g",
+      "500 g",
+      "1000 g",
+      "10000 g"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un kilogramo equivale a mil gramos."
+  },
+  {
+    "id": "cg-2368",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "Si se suman dos números pares, ¿qué paridad tiene el resultado?",
+    "options": [
+      "Impar",
+      "Puede ser par o impar",
+      "Siempre es cero",
+      "Par"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dos números pares son múltiplos de 2 y su suma también es múltiplo de 2."
+  },
+  {
+    "id": "cg-2369",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué signo tiene el producto de dos números negativos?",
+    "options": [
+      "Positivo",
+      "Negativo",
+      "Cero",
+      "Depende del orden de los factores"
+    ],
+    "correctIndex": 0,
+    "explanation": "La regla de los signos indica que menos por menos da más."
+  },
+  {
+    "id": "cg-2370",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto vale 0 factorial?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "No está definido"
+    ],
+    "correctIndex": 1,
+    "explanation": "Por convención matemática, 0! = 1, lo que mantiene consistentes las fórmulas combinatorias."
+  },
+  {
+    "id": "cg-2371",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto vale 5 factorial?",
+    "options": [
+      "25",
+      "60",
+      "120",
+      "720"
+    ],
+    "correctIndex": 2,
+    "explanation": "5! = 5 × 4 × 3 × 2 × 1 = 120."
+  },
+  {
+    "id": "cg-2372",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la media aritmética de 10, 20 y 30?",
+    "options": [
+      "15",
+      "25",
+      "60",
+      "20"
+    ],
+    "correctIndex": 3,
+    "explanation": "La suma es 60 y, dividida entre 3, da 20."
+  },
+  {
+    "id": "cg-2373",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es el rango del conjunto 3, 7 y 10?",
+    "options": [
+      "7",
+      "3",
+      "4",
+      "10"
+    ],
+    "correctIndex": 0,
+    "explanation": "El rango es la diferencia entre el mayor y el menor: 10 − 3 = 7."
+  },
+  {
+    "id": "cg-2374",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la mediana del conjunto 1, 3, 5, 7?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con cuatro datos, la mediana es la media de los dos centrales: (3 + 5) ÷ 2 = 4."
+  },
+  {
+    "id": "cg-2375",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la moda del conjunto 2, 4, 4, 6?",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "6"
+    ],
+    "correctIndex": 2,
+    "explanation": "El 4 es el valor que más veces aparece en el conjunto."
+  },
+  {
+    "id": "cg-2376",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué probabilidad tiene un suceso imposible?",
+    "options": [
+      "1",
+      "1/2",
+      "No se puede saber",
+      "0"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un suceso imposible no puede ocurrir y tiene probabilidad cero."
+  },
+  {
+    "id": "cg-2377",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué probabilidad tiene un suceso seguro?",
+    "options": [
+      "1",
+      "0",
+      "1/2",
+      "2"
+    ],
+    "correctIndex": 0,
+    "explanation": "La probabilidad de un suceso seguro es igual a uno."
+  },
+  {
+    "id": "cg-2378",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la probabilidad de obtener un número par al lanzar un dado de seis caras?",
+    "options": [
+      "1/3",
+      "1/2",
+      "1/6",
+      "2/3"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hay tres caras pares entre seis, de modo que la probabilidad es 3/6 = 1/2."
+  },
+  {
+    "id": "cg-2379",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto suman los ángulos interiores de un cuadrilátero convexo?",
+    "options": [
+      "180°",
+      "270°",
+      "360°",
+      "540°"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un cuadrilátero puede dividirse en dos triángulos, y 2 × 180° = 360°."
+  },
+  {
+    "id": "cg-2380",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "Si se redondea 4,6 a la unidad más cercana, ¿qué número se obtiene?",
+    "options": [
+      "4",
+      "4,5",
+      "6",
+      "5"
+    ],
+    "correctIndex": 3,
+    "explanation": "La cifra decimal 6 es mayor o igual que 5, por lo que se redondea hacia arriba."
+  },
+  {
+    "id": "cg-2381",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 3² + 4²?",
+    "options": [
+      "25",
+      "7",
+      "12",
+      "49"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nueve más dieciséis es igual a 25."
+  },
+  {
+    "id": "cg-2382",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la raíz cuadrada de 144?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "24"
+    ],
+    "correctIndex": 1,
+    "explanation": "Doce elevado al cuadrado es 144."
+  },
+  {
+    "id": "cg-2383",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 1000 − 457?",
+    "options": [
+      "443",
+      "533",
+      "543",
+      "553"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al restar 457 de 1000 quedan 543 unidades."
+  },
+  {
+    "id": "cg-2384",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué científico inglés desarrolló el cálculo infinitesimal junto con Gottfried Leibniz?",
+    "options": [
+      "Albert Einstein",
+      "James Clerk Maxwell",
+      "Charles Babbage",
+      "Isaac Newton"
+    ],
+    "correctIndex": 3,
+    "explanation": "Newton y Leibniz desarrollaron el cálculo de manera independiente en el siglo XVII."
+  },
+  {
+    "id": "cg-2385",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿A qué matemático griego se atribuye el teorema que relaciona los catetos con la hipotenusa?",
+    "options": [
+      "Pitágoras",
+      "Euclides",
+      "Tales de Mileto",
+      "Arquímedes"
+    ],
+    "correctIndex": 0,
+    "explanation": "El teorema de Pitágoras lleva el nombre de la escuela pitagórica."
+  },
+  {
+    "id": "cg-2386",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué matemático persa del siglo IX es considerado un precursor del álgebra?",
+    "options": [
+      "Ibn Sina",
+      "Al-Juarismi",
+      "Al-Biruni",
+      "Averroes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Al-Juarismi escribió tratados que dieron origen a la palabra álgebra."
+  },
+  {
+    "id": "cg-2387",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué matemática británica del siglo XIX es considerada pionera de la programación?",
+    "options": [
+      "Marie Curie",
+      "Emmy Noether",
+      "Ada Lovelace",
+      "Sofia Kovalevskaya"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ada Lovelace describió algoritmos para la máquina analítica de Charles Babbage."
+  },
+  {
+    "id": "cg-2388",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué matemático indio del siglo XX destacó por sus resultados sobre números y particiones?",
+    "options": [
+      "Augustin-Louis Cauchy",
+      "David Hilbert",
+      "Norbert Wiener",
+      "Srinivasa Ramanujan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ramanujan hizo contribuciones notables en teoría de números y funciones especiales."
+  },
+  {
+    "id": "cg-2389",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué matemático húngaro del siglo XX es famoso por su trabajo en combinatoria y teoría de grafos?",
+    "options": [
+      "Paul Erdős",
+      "John von Neumann",
+      "Alan Turing",
+      "Kurt Gödel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erdős colaboró con numerosos matemáticos y destacó en combinatoria y teoría de grafos."
+  },
+  {
+    "id": "cg-2390",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "Al dividir un número real entre cero, ¿qué ocurre?",
+    "options": [
+      "El resultado es cero",
+      "La operación no está definida",
+      "El resultado es el mismo número",
+      "El resultado es siempre infinito"
+    ],
+    "correctIndex": 1,
+    "explanation": "En los números reales la división por cero no está definida."
+  },
+  {
+    "id": "cg-2391",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama un polígono de cinco lados?",
+    "options": [
+      "Hexágono",
+      "Heptágono",
+      "Pentágono",
+      "Octágono"
+    ],
+    "correctIndex": 2,
+    "explanation": "El prefijo penta indica cinco, de modo que un polígono de cinco lados es un pentágono."
+  },
+  {
+    "id": "cg-2392",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama un polígono de seis lados?",
+    "options": [
+      "Pentágono",
+      "Heptágono",
+      "Octágono",
+      "Hexágono"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un hexágono es un polígono con seis lados."
+  },
+  {
+    "id": "cg-2393",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama un polígono de ocho lados?",
+    "options": [
+      "Octágono",
+      "Hexágono",
+      "Heptágono",
+      "Decágono"
+    ],
+    "correctIndex": 0,
+    "explanation": "El octágono tiene ocho lados y ocho ángulos."
+  },
+  {
+    "id": "cg-2394",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento se usa para medir ángulos?",
+    "options": [
+      "Compás",
+      "Transportador",
+      "Regla",
+      "Escuadra"
+    ],
+    "correctIndex": 1,
+    "explanation": "El transportador está graduado en grados y permite medir ángulos."
+  },
+  {
+    "id": "cg-2395",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué letra se usa tradicionalmente para representar una incógnita en álgebra?",
+    "options": [
+      "a",
+      "n",
+      "x",
+      "z"
+    ],
+    "correctIndex": 2,
+    "explanation": "La letra x se popularizó como símbolo de la incógnita en el álgebra."
+  },
+  {
+    "id": "cg-2396",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la operación representada por el símbolo +?",
+    "options": [
+      "Resta",
+      "Multiplicación",
+      "División",
+      "Suma"
+    ],
+    "correctIndex": 3,
+    "explanation": "El signo más representa la adición o suma."
+  },
+  {
+    "id": "cg-2397",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la mitad de 50?",
+    "options": [
+      "25",
+      "20",
+      "30",
+      "100"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dividir 50 entre 2 da como resultado 25."
+  },
+  {
+    "id": "cg-2398",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuál es el doble de 37?",
+    "options": [
+      "64",
+      "74",
+      "72",
+      "84"
+    ],
+    "correctIndex": 1,
+    "explanation": "Multiplicar 37 por 2 da 74."
+  },
+  {
+    "id": "cg-2399",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 1 + 2 + 3 + 4 + 5?",
+    "options": [
+      "10",
+      "14",
+      "15",
+      "20"
+    ],
+    "correctIndex": 2,
+    "explanation": "La suma de los primeros cinco números naturales es 15."
+  },
+  {
+    "id": "cg-2400",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 100 − 99 + 1?",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "2"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cien menos noventa y nueve es uno, y uno más uno es dos."
+  },
+  {
+    "id": "cg-2401",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cómo se simplifica la fracción 2/4?",
+    "options": [
+      "1/2",
+      "1/4",
+      "2/3",
+      "4/2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dividiendo numerador y denominador entre 2 se obtiene 1/2."
+  },
+  {
+    "id": "cg-2402",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cuánto es 6 ÷ 3?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "18"
+    ],
+    "correctIndex": 1,
+    "explanation": "Seis dividido entre tres es igual a dos."
+  },
+  {
+    "id": "cg-2403",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Qué fracción equivale a 0,1?",
+    "options": [
+      "1/100",
+      "1/5",
+      "1/10",
+      "10/1"
+    ],
+    "correctIndex": 2,
+    "explanation": "El decimal 0,1 corresponde a una décima, es decir, 1/10."
+  },
+  {
+    "id": "cg-2404",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "easy",
+    "question": "¿Cómo se escribe la fracción 1/5 en forma decimal?",
+    "options": [
+      "0,15",
+      "0,5",
+      "1,5",
+      "0,2"
+    ],
+    "correctIndex": 3,
+    "explanation": "Uno dividido entre cinco es igual a 0,2."
+  },
+  {
+    "id": "cg-2405",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "Si 2x + 3 = 11, ¿cuánto vale x?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "7"
+    ],
+    "correctIndex": 0,
+    "explanation": "Restando 3 y dividiendo entre 2 se obtiene x = 4."
+  },
+  {
+    "id": "cg-2406",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "Si 3x − 5 = 16, ¿cuánto vale x?",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "9"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sumando 5 y dividiendo entre 3 resulta x = 7."
+  },
+  {
+    "id": "cg-2407",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es la solución positiva de x² = 49?",
+    "options": [
+      "5",
+      "9",
+      "7",
+      "14"
+    ],
+    "correctIndex": 2,
+    "explanation": "La raíz cuadrada positiva de 49 es 7."
+  },
+  {
+    "id": "cg-2408",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cómo se factoriza la expresión x² − 9?",
+    "options": [
+      "(x menos 9)(x más 1)",
+      "(x menos 3) al cuadrado",
+      "(x más 3) al cuadrado",
+      "(x menos 3)(x más 3)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Es una diferencia de cuadrados: x² − 3² = (x − 3)(x + 3)."
+  },
+  {
+    "id": "cg-2409",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el desarrollo de (x + 2)²?",
+    "options": [
+      "x² + 4x + 4",
+      "x² + 4",
+      "x² + 2x + 4",
+      "x² + 4x + 2"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cuadrado del binomio es x² + 2·2x + 2² = x² + 4x + 4."
+  },
+  {
+    "id": "cg-2410",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es la pendiente de la recta que pasa por (1, 2) y (3, 6)?",
+    "options": [
+      "1/2",
+      "2",
+      "1",
+      "4"
+    ],
+    "correctIndex": 1,
+    "explanation": "La pendiente es (6 − 2)/(3 − 1) = 4/2 = 2."
+  },
+  {
+    "id": "cg-2411",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "En la recta y = 2x + 1, ¿qué valor toma y cuando x = 3?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "9"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sustituyendo x = 3: y = 2·3 + 1 = 7."
+  },
+  {
+    "id": "cg-2412",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "Si x + y = 10 y x − y = 2, ¿cuánto valen x e y?",
+    "options": [
+      "x = 5, y = 5",
+      "x = 7, y = 3",
+      "x = 8, y = 2",
+      "x = 6, y = 4"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sumando las ecuaciones se obtiene 2x = 12, de donde x = 6 e y = 4."
+  },
+  {
+    "id": "cg-2413",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuánto interés simple producen 1000 unidades monetarias al 5 % anual durante 2 años?",
+    "options": [
+      "100",
+      "50",
+      "105",
+      "200"
+    ],
+    "correctIndex": 0,
+    "explanation": "El interés simple es capital por tasa por tiempo: 1000 × 0,05 × 2 = 100."
+  },
+  {
+    "id": "cg-2414",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "Si una cantidad pasa de 50 a 60, ¿qué aumento porcentual experimenta?",
+    "options": [
+      "10 %",
+      "20 %",
+      "16,7 %",
+      "25 %"
+    ],
+    "correctIndex": 1,
+    "explanation": "El aumento es 10 sobre 50, es decir, un 20 %."
+  },
+  {
+    "id": "cg-2415",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuánto se paga por un artículo de 80 unidades con un descuento del 20 %?",
+    "options": [
+      "60",
+      "70",
+      "64",
+      "76"
+    ],
+    "correctIndex": 2,
+    "explanation": "El descuento es 16 unidades, por lo que se pagan 80 − 16 = 64."
+  },
+  {
+    "id": "cg-2416",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "Se reparten 25 unidades en razón 3:2. ¿Cuánto recibe la parte mayor?",
+    "options": [
+      "10",
+      "12",
+      "20",
+      "15"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hay cinco partes iguales de 5 unidades; la mayor recibe 3 × 5 = 15."
+  },
+  {
+    "id": "cg-2417",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "Si 4/6 = x/9, ¿cuánto vale x?",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "9"
+    ],
+    "correctIndex": 0,
+    "explanation": "Multiplicando en cruz: 4 × 9 = 6x, de donde x = 6."
+  },
+  {
+    "id": "cg-2418",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "Si 5 trabajadores tardan 12 días en una tarea, ¿cuántos días tardarán 6 trabajadores al mismo ritmo?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctIndex": 1,
+    "explanation": "El trabajo total es 60 jornadas; repartidas entre 6 trabajadores dan 10 días."
+  },
+  {
+    "id": "cg-2419",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el mínimo común múltiplo de 8 y 12?",
+    "options": [
+      "16",
+      "36",
+      "24",
+      "48"
+    ],
+    "correctIndex": 2,
+    "explanation": "El menor múltiplo común de 8 y 12 es 24."
+  },
+  {
+    "id": "cg-2420",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el máximo común divisor de 24 y 36?",
+    "options": [
+      "6",
+      "8",
+      "18",
+      "12"
+    ],
+    "correctIndex": 3,
+    "explanation": "El mayor divisor común de 24 y 36 es 12."
+  },
+  {
+    "id": "cg-2421",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuántos números primos hay entre 20 y 30?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0,
+    "explanation": "En ese intervalo solo 23 y 29 son primos."
+  },
+  {
+    "id": "cg-2422",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué regla permite saber si un número es divisible por 9?",
+    "options": [
+      "Que termine en 9",
+      "Que la suma de sus cifras sea divisible por 9",
+      "Que la suma de sus cifras sea impar",
+      "Que su última cifra sea divisible por 3"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un número es divisible por 9 cuando la suma de sus cifras también lo es."
+  },
+  {
+    "id": "cg-2423",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuánto es 2 elevado a la décima potencia?",
+    "options": [
+      "512",
+      "1000",
+      "1024",
+      "2048"
+    ],
+    "correctIndex": 2,
+    "explanation": "2^10 = 1024, valor habitual en informática."
+  },
+  {
+    "id": "cg-2424",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el valor de log₂ 8?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "3"
+    ],
+    "correctIndex": 3,
+    "explanation": "El logaritmo en base 2 de 8 es 3 porque 2³ = 8."
+  },
+  {
+    "id": "cg-2425",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el valor de log₁₀ 1000?",
+    "options": [
+      "3",
+      "2",
+      "10",
+      "100"
+    ],
+    "correctIndex": 0,
+    "explanation": "El logaritmo decimal de 1000 es 3 porque 10³ = 1000."
+  },
+  {
+    "id": "cg-2426",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cómo se simplifica √50?",
+    "options": [
+      "2√5",
+      "5√2",
+      "10√5",
+      "25√2"
+    ],
+    "correctIndex": 1,
+    "explanation": "Como 50 = 25 × 2, se obtiene √25 · √2 = 5√2."
+  },
+  {
+    "id": "cg-2427",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cómo se racionaliza 1/√2?",
+    "options": [
+      "raíz de 2",
+      "2 dividido entre raíz de 2",
+      "raíz de 2 dividida entre 2",
+      "1/2"
+    ],
+    "correctIndex": 2,
+    "explanation": "Multiplicando numerador y denominador por √2 resulta √2/2."
+  },
+  {
+    "id": "cg-2428",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el ángulo complementario de 35°?",
+    "options": [
+      "45°",
+      "65°",
+      "145°",
+      "55°"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dos ángulos complementarios suman 90°, y 90° − 35° = 55°."
+  },
+  {
+    "id": "cg-2429",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el ángulo suplementario de 120°?",
+    "options": [
+      "60°",
+      "30°",
+      "50°",
+      "80°"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dos ángulos suplementarios suman 180°, y 180° − 120° = 60°."
+  },
+  {
+    "id": "cg-2430",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "En un triángulo rectángulo de catetos 6 y 8, ¿cuánto mide la hipotenusa?",
+    "options": [
+      "12",
+      "10",
+      "14",
+      "100"
+    ],
+    "correctIndex": 1,
+    "explanation": "Por Pitágoras, 6² + 8² = 36 + 64 = 100, cuya raíz es 10."
+  },
+  {
+    "id": "cg-2431",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el área de un trapecio de bases 8 y 4 y altura 5?",
+    "options": [
+      "20",
+      "40",
+      "30",
+      "60"
+    ],
+    "correctIndex": 2,
+    "explanation": "El área del trapecio es (8 + 4) × 5 ÷ 2 = 30."
+  },
+  {
+    "id": "cg-2432",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el volumen de un cubo de 4 cm de arista?",
+    "options": [
+      "16 cm³",
+      "32 cm³",
+      "48 cm³",
+      "64 cm³"
+    ],
+    "correctIndex": 3,
+    "explanation": "El volumen del cubo es la arista al cubo: 4³ = 64 cm³."
+  },
+  {
+    "id": "cg-2433",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué fórmula da el volumen de un cilindro de radio r y altura h?",
+    "options": [
+      "πr²h",
+      "2πrh",
+      "4/3πr³",
+      "πrh"
+    ],
+    "correctIndex": 0,
+    "explanation": "El volumen del cilindro es el área de la base circular por la altura."
+  },
+  {
+    "id": "cg-2434",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuánto mide la diagonal de un cuadrado de 5 cm de lado?",
+    "options": [
+      "5 cm",
+      "5√2 cm",
+      "10 cm",
+      "2√5 cm"
+    ],
+    "correctIndex": 1,
+    "explanation": "La diagonal de un cuadrado de lado a mide a√2."
+  },
+  {
+    "id": "cg-2435",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuánto suman los ángulos interiores de un pentágono convexo?",
+    "options": [
+      "360°",
+      "480°",
+      "540°",
+      "720°"
+    ],
+    "correctIndex": 2,
+    "explanation": "La suma es (5 − 2) × 180° = 540°."
+  },
+  {
+    "id": "cg-2436",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuánto mide cada ángulo interior de un hexágono regular?",
+    "options": [
+      "108°",
+      "135°",
+      "150°",
+      "120°"
+    ],
+    "correctIndex": 3,
+    "explanation": "La suma interior es 720° y, dividida entre seis, da 120°."
+  },
+  {
+    "id": "cg-2437",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuántas combinaciones de 2 elementos se pueden formar con 5 elementos?",
+    "options": [
+      "10",
+      "5",
+      "20",
+      "25"
+    ],
+    "correctIndex": 0,
+    "explanation": "C(5,2) = 5! / (2! · 3!) = 10."
+  },
+  {
+    "id": "cg-2438",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuánto vale 4 factorial?",
+    "options": [
+      "12",
+      "24",
+      "16",
+      "48"
+    ],
+    "correctIndex": 1,
+    "explanation": "4! = 4 × 3 × 2 × 1 = 24."
+  },
+  {
+    "id": "cg-2439",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuánto vale 5! dividido entre 3!?",
+    "options": [
+      "2",
+      "10",
+      "20",
+      "60"
+    ],
+    "correctIndex": 2,
+    "explanation": "5!/3! = (5 × 4 × 3!) / 3! = 20."
+  },
+  {
+    "id": "cg-2440",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuánto vale el coeficiente binomial C(6,3)?",
+    "options": [
+      "15",
+      "18",
+      "120",
+      "20"
+    ],
+    "correctIndex": 3,
+    "explanation": "C(6,3) = 6! / (3! · 3!) = 20."
+  },
+  {
+    "id": "cg-2441",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es la derivada de x² respecto de x?",
+    "options": [
+      "2x",
+      "x",
+      "2",
+      "x²/2"
+    ],
+    "correctIndex": 0,
+    "explanation": "La regla de la potencia da d(x²)/dx = 2x."
+  },
+  {
+    "id": "cg-2442",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es la derivada de 3x respecto de x?",
+    "options": [
+      "3x",
+      "3",
+      "0",
+      "x"
+    ],
+    "correctIndex": 1,
+    "explanation": "La derivada de una función lineal kx es la constante k."
+  },
+  {
+    "id": "cg-2443",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es la derivada de sen x respecto de x?",
+    "options": [
+      "menos coseno de x",
+      "menos seno de x",
+      "coseno de x",
+      "tangente de x"
+    ],
+    "correctIndex": 2,
+    "explanation": "La derivada del seno es el coseno."
+  },
+  {
+    "id": "cg-2444",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es la integral indefinida de 2x respecto de x?",
+    "options": [
+      "2x^2 + C",
+      "x + C",
+      "2 + C",
+      "x^2 + C"
+    ],
+    "correctIndex": 3,
+    "explanation": "La primitiva de 2x es x², más la constante de integración."
+  },
+  {
+    "id": "cg-2445",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el límite de (x² − 1)/(x − 1) cuando x tiende a 1?",
+    "options": [
+      "2",
+      "0",
+      "1",
+      "No existe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para x distinto de 1 la expresión equivale a x + 1, cuyo límite es 2."
+  },
+  {
+    "id": "cg-2446",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuánto suman los números enteros del 1 al 10?",
+    "options": [
+      "45",
+      "55",
+      "50",
+      "100"
+    ],
+    "correctIndex": 1,
+    "explanation": "La suma es 10 × 11 ÷ 2 = 55."
+  },
+  {
+    "id": "cg-2447",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué fórmula da la suma de los primeros n números naturales?",
+    "options": [
+      "n por (n menos 1), dividido entre 2",
+      "n al cuadrado",
+      "n por (n más 1), dividido entre 2",
+      "n por (n más 1)"
+    ],
+    "correctIndex": 2,
+    "explanation": "La suma 1 + 2 + ... + n es igual a n(n + 1)/2."
+  },
+  {
+    "id": "cg-2448",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "En la sucesión de Fibonacci 1, 1, 2, 3, 5, 8, ¿qué número sigue?",
+    "options": [
+      "11",
+      "12",
+      "16",
+      "13"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cada término es la suma de los dos anteriores: 5 + 8 = 13."
+  },
+  {
+    "id": "cg-2449",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "En la sucesión 2, 4, 8, 16, ¿qué número sigue?",
+    "options": [
+      "32",
+      "18",
+      "24",
+      "64"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cada término duplica al anterior, por lo que sigue 32."
+  },
+  {
+    "id": "cg-2450",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuánto vale i², donde i es la unidad imaginaria?",
+    "options": [
+      "1",
+      "−1 (negativo)",
+      "i",
+      "−i (negativo)"
+    ],
+    "correctIndex": 1,
+    "explanation": "La unidad imaginaria se define por la igualdad i² = −1."
+  },
+  {
+    "id": "cg-2451",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el módulo del número complejo 3 + 4i?",
+    "options": [
+      "7",
+      "12",
+      "5",
+      "25"
+    ],
+    "correctIndex": 2,
+    "explanation": "El módulo es √(3² + 4²) = √25 = 5."
+  },
+  {
+    "id": "cg-2452",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuáles son las raíces de x² − 5x + 6 = 0?",
+    "options": [
+      "menos 2 y menos 3",
+      "1 y 6",
+      "menos 1 y menos 6",
+      "2 y 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "La ecuación se factoriza como (x − 2)(x − 3) = 0."
+  },
+  {
+    "id": "cg-2453",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué expresión permite calcular el discriminante de ax² + bx + c = 0?",
+    "options": [
+      "b al cuadrado menos 4ac",
+      "4ac menos b al cuadrado",
+      "b al cuadrado más 4ac",
+      "2a dividido entre b"
+    ],
+    "correctIndex": 0,
+    "explanation": "El discriminante es b² − 4ac y determina la naturaleza de las raíces."
+  },
+  {
+    "id": "cg-2454",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué afirma el teorema de Tales sobre rectas paralelas que cortan dos transversales?",
+    "options": [
+      "Que los ángulos son complementarios",
+      "Que los segmentos correspondientes son proporcionales",
+      "Que las rectas se cortan en el centro",
+      "Que los segmentos son iguales siempre"
+    ],
+    "correctIndex": 1,
+    "explanation": "El teorema de Tales establece proporcionalidad entre los segmentos determinados."
+  },
+  {
+    "id": "cg-2455",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿A cuántos radianes equivalen 180°?",
+    "options": [
+      "π/2 rad (cuarto de vuelta)",
+      "2π rad (vuelta completa)",
+      "π rad (media vuelta)",
+      "π/4 rad (octava parte)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Media vuelta equivale a π radianes."
+  },
+  {
+    "id": "cg-2456",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿A cuántos radianes equivalen 90°?",
+    "options": [
+      "π rad (media vuelta)",
+      "π/4 rad (octava parte)",
+      "2π rad (vuelta completa)",
+      "π/2 rad (cuarto de vuelta)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un ángulo recto es la cuarta parte de 2π, es decir, π/2."
+  },
+  {
+    "id": "cg-2457",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuánto vale sen 30°?",
+    "options": [
+      "1/2",
+      "√3/2",
+      "1",
+      "√2/2"
+    ],
+    "correctIndex": 0,
+    "explanation": "El seno de 30 grados es 1/2."
+  },
+  {
+    "id": "cg-2458",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuánto vale cos 60°?",
+    "options": [
+      "√3/2",
+      "1/2",
+      "√2/2",
+      "0"
+    ],
+    "correctIndex": 1,
+    "explanation": "El coseno de 60 grados es 1/2."
+  },
+  {
+    "id": "cg-2459",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuánto vale tan 45°?",
+    "options": [
+      "0",
+      "√3",
+      "1",
+      "No está definida"
+    ],
+    "correctIndex": 2,
+    "explanation": "En 45 grados el seno y el coseno son iguales, por lo que la tangente es 1."
+  },
+  {
+    "id": "cg-2460",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿A qué es igual la identidad sen²x + cos²x?",
+    "options": [
+      "0",
+      "2",
+      "tan²x",
+      "1"
+    ],
+    "correctIndex": 3,
+    "explanation": "La identidad pitagórica trigonométrica vale 1 para cualquier ángulo."
+  },
+  {
+    "id": "cg-2461",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué relación expresa la ley de los senos en un triángulo?",
+    "options": [
+      "a/sen A = b/sen B = c/sen C",
+      "a² = b² + c²",
+      "a/sen A = b/c",
+      "a + b = sen C"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los lados son proporcionales a los senos de sus ángulos opuestos."
+  },
+  {
+    "id": "cg-2462",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué valor aproximado tiene el número e?",
+    "options": [
+      "3,1416",
+      "2,7183",
+      "1,6180",
+      "1,4142"
+    ],
+    "correctIndex": 1,
+    "explanation": "La constante de Euler o base de los logaritmos naturales es aproximadamente 2,71828."
+  },
+  {
+    "id": "cg-2463",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué valor aproximado tiene el número áureo φ?",
+    "options": [
+      "2,7183",
+      "3,1416",
+      "1,6180",
+      "1,4142"
+    ],
+    "correctIndex": 2,
+    "explanation": "El número áureo es aproximadamente 1,61803."
+  },
+  {
+    "id": "cg-2464",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de número es √2?",
+    "options": [
+      "Entero",
+      "Racional",
+      "Complejo no real",
+      "Irracional"
+    ],
+    "correctIndex": 3,
+    "explanation": "√2 no puede escribirse como cociente de enteros, por lo que es irracional."
+  },
+  {
+    "id": "cg-2465",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de número es π?",
+    "options": [
+      "Trascendente",
+      "Racional",
+      "Entero",
+      "Algebraico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lindemann demostró en 1882 que π es trascendente, no solo irracional."
+  },
+  {
+    "id": "cg-2466",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué conjunto numérico representa la letra Q?",
+    "options": [
+      "Los números enteros",
+      "Los números racionales",
+      "Los números naturales",
+      "Los números irracionales"
+    ],
+    "correctIndex": 1,
+    "explanation": "Q designa el conjunto de cocientes de enteros, es decir, los racionales."
+  },
+  {
+    "id": "cg-2467",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuánto es |−3| + |5|?",
+    "options": [
+      "−8 (negativo)",
+      "2",
+      "8",
+      "15"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los valores absolutos son 3 y 5, y su suma es 8."
+  },
+  {
+    "id": "cg-2468",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "Si f(x) = 2x + 1, ¿cuánto vale f(3)?",
+    "options": [
+      "6",
+      "9",
+      "3",
+      "7"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sustituyendo x = 3 se obtiene 2·3 + 1 = 7."
+  },
+  {
+    "id": "cg-2469",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el dominio de la función f(x) = 1/x?",
+    "options": [
+      "Todos los reales excepto 0",
+      "Todos los reales",
+      "Solo los reales positivos",
+      "Solo los reales no negativos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La división entre cero no está definida, así que se excluye x = 0."
+  },
+  {
+    "id": "cg-2470",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es la esperanza matemática del resultado de un dado equilibrado de seis caras?",
+    "options": [
+      "3",
+      "3,5",
+      "4",
+      "6"
+    ],
+    "correctIndex": 1,
+    "explanation": "La media de 1, 2, 3, 4, 5 y 6 es 21/6 = 3,5."
+  },
+  {
+    "id": "cg-2471",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué intervalo de valores puede tomar el coeficiente de correlación?",
+    "options": [
+      "De 0 a 1",
+      "De −∞ a ∞",
+      "De −1 a 1",
+      "De 0 a 100"
+    ],
+    "correctIndex": 2,
+    "explanation": "El coeficiente de correlación está acotado entre −1 y 1."
+  },
+  {
+    "id": "cg-2472",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuántas diagonales tiene un pentágono?",
+    "options": [
+      "4",
+      "6",
+      "10",
+      "5"
+    ],
+    "correctIndex": 3,
+    "explanation": "La fórmula n(n − 3)/2 con n = 5 da 5 diagonales."
+  },
+  {
+    "id": "cg-2473",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el área de un rombo cuyas diagonales miden 6 y 8?",
+    "options": [
+      "24",
+      "14",
+      "28",
+      "48"
+    ],
+    "correctIndex": 0,
+    "explanation": "El área del rombo es el producto de las diagonales dividido entre 2: 48/2 = 24."
+  },
+  {
+    "id": "cg-2474",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el área de un paralelogramo de base 7 y altura 4?",
+    "options": [
+      "11",
+      "28",
+      "22",
+      "56"
+    ],
+    "correctIndex": 1,
+    "explanation": "El área del paralelogramo es base por altura: 7 × 4 = 28."
+  },
+  {
+    "id": "cg-2475",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué fórmula da el volumen de una esfera de radio r?",
+    "options": [
+      "4πr²",
+      "2/3πr³",
+      "4/3πr³",
+      "πr³"
+    ],
+    "correctIndex": 2,
+    "explanation": "El volumen de la esfera es cuatro tercios de π por el radio al cubo."
+  },
+  {
+    "id": "cg-2476",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué fórmula da la superficie de una esfera de radio r?",
+    "options": [
+      "2πr²",
+      "4/3πr³",
+      "πr²",
+      "4πr²"
+    ],
+    "correctIndex": 3,
+    "explanation": "El área superficial de la esfera es 4πr²."
+  },
+  {
+    "id": "cg-2477",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué fórmula da el volumen de un cono de radio r y altura h?",
+    "options": [
+      "1/3πr²h",
+      "πr²h",
+      "2/3πr²h",
+      "4/3πr³"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cono tiene un tercio del volumen del cilindro con la misma base y altura."
+  },
+  {
+    "id": "cg-2478",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "Si 2^x = 8, ¿cuánto vale x?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "8"
+    ],
+    "correctIndex": 1,
+    "explanation": "Como 8 = 2³, el exponente buscado es 3."
+  },
+  {
+    "id": "cg-2479",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cómo se escribe 0,00045 en notación científica?",
+    "options": [
+      "4,5 × 10^−3",
+      "4,5 × 10^−5",
+      "4,5 × 10^−4",
+      "4,5 × 10^−6"
+    ],
+    "correctIndex": 2,
+    "explanation": "El punto decimal se desplaza cuatro lugares a la derecha, de ahí el exponente −4."
+  },
+  {
+    "id": "cg-2480",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuáles son las soluciones de |x| = 5?",
+    "options": [
+      "Solamente el valor positivo 5",
+      "Solamente el valor negativo menos 5",
+      "Ningún valor real",
+      "Los valores 5 y menos 5"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los números con valor absoluto 5 son 5 y −5."
+  },
+  {
+    "id": "cg-2481",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es la solución de la inecuación x + 3 < 7?",
+    "options": [
+      "x menor que 4",
+      "x mayor que 4",
+      "x menor que 10",
+      "x mayor que 10"
+    ],
+    "correctIndex": 0,
+    "explanation": "Restando 3 en ambos lados queda x < 4."
+  },
+  {
+    "id": "cg-2482",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "Si una recta tiene pendiente 2, ¿qué pendiente tiene una recta perpendicular?",
+    "options": [
+      "un medio",
+      "menos un medio",
+      "2",
+      "menos 2"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las pendientes perpendiculares son inversas y de signo opuesto."
+  },
+  {
+    "id": "cg-2483",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es la distancia entre los puntos (0, 0) y (3, 4)?",
+    "options": [
+      "7",
+      "12",
+      "5",
+      "25"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aplicando la fórmula de distancia: √(3² + 4²) = 5."
+  },
+  {
+    "id": "cg-2484",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el punto medio del segmento entre (2, 4) y (6, 8)?",
+    "options": [
+      "(3, 5)",
+      "(8, 12)",
+      "(2, 2)",
+      "(4, 6)"
+    ],
+    "correctIndex": 3,
+    "explanation": "El punto medio es el promedio de las coordenadas: (4, 6)."
+  },
+  {
+    "id": "cg-2485",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué radio tiene la circunferencia x² + y² = 25?",
+    "options": [
+      "5",
+      "25",
+      "10",
+      "raíz de 5"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ecuación x² + y² = r² tiene radio r = √25 = 5."
+  },
+  {
+    "id": "cg-2486",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el vértice de la parábola y = x²?",
+    "options": [
+      "(1, 1)",
+      "(0, 0)",
+      "(0, 1)",
+      "(1, 0)"
+    ],
+    "correctIndex": 1,
+    "explanation": "La parábola y = x² alcanza su mínimo en el origen."
+  },
+  {
+    "id": "cg-2487",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿A qué es igual log(ab) en logaritmos de la misma base?",
+    "options": [
+      "log a menos log b",
+      "log a por log b",
+      "log a más log b",
+      "log a entre log b"
+    ],
+    "correctIndex": 2,
+    "explanation": "El logaritmo de un producto es la suma de los logaritmos."
+  },
+  {
+    "id": "cg-2488",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cómo se expresa log_b a mediante un cambio de base?",
+    "options": [
+      "log a por log b",
+      "log a menos log b",
+      "b dividido entre a",
+      "log a entre log b"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cambio de base usa el cociente de logaritmos en una base común."
+  },
+  {
+    "id": "cg-2489",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es la probabilidad de obtener dos caras al lanzar dos monedas equilibradas?",
+    "options": [
+      "1/4",
+      "1/2",
+      "1/3",
+      "3/4"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cuatro resultados son equiprobables y solo uno es cara-cara."
+  },
+  {
+    "id": "cg-2490",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es la probabilidad de que la suma de dos dados de seis caras sea 7?",
+    "options": [
+      "1/9",
+      "1/6",
+      "1/12",
+      "7/36"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hay seis combinaciones favorables entre treinta y seis posibles."
+  },
+  {
+    "id": "cg-2491",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es la probabilidad de obtener al menos un 6 al lanzar dos dados?",
+    "options": [
+      "1/6",
+      "1/3",
+      "11/36",
+      "25/36"
+    ],
+    "correctIndex": 2,
+    "explanation": "El complemento es no sacar ningún 6, con probabilidad 25/36; el resultado es 11/36."
+  },
+  {
+    "id": "cg-2492",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cómo se calcula la probabilidad del suceso complementario de A?",
+    "options": [
+      "la probabilidad de A",
+      "uno más la probabilidad de A",
+      "la probabilidad de A menos uno",
+      "uno menos la probabilidad de A"
+    ],
+    "correctIndex": 3,
+    "explanation": "La probabilidad de que no ocurra A es uno menos la probabilidad de A."
+  },
+  {
+    "id": "cg-2493",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "En un conjunto ordenado con una cantidad par de datos, ¿cómo se obtiene la mediana?",
+    "options": [
+      "Promediando los dos valores centrales",
+      "Tomando el valor central único",
+      "Restando el menor del mayor",
+      "Eligiendo el valor más frecuente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con un número par de datos no hay un único centro, así que se promedian los dos centrales."
+  },
+  {
+    "id": "cg-2494",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "Un estudiante obtiene 6, 8 y 10 en tres pruebas con pesos 1, 2 y 2. ¿Cuál es su media ponderada?",
+    "options": [
+      "8",
+      "8,4",
+      "8,5",
+      "9"
+    ],
+    "correctIndex": 1,
+    "explanation": "La media ponderada es (6·1 + 8·2 + 10·2)/(1 + 2 + 2) = 42/5 = 8,4."
+  },
+  {
+    "id": "cg-2495",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es la media geométrica de 4 y 9?",
+    "options": [
+      "6,5",
+      "13",
+      "6",
+      "36"
+    ],
+    "correctIndex": 2,
+    "explanation": "La media geométrica de dos números es la raíz de su producto: √36 = 6."
+  },
+  {
+    "id": "cg-2496",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué mide la varianza de un conjunto de datos?",
+    "options": [
+      "El valor central",
+      "La frecuencia del dato más repetido",
+      "La diferencia entre el máximo y el mínimo",
+      "La dispersión respecto a la media"
+    ],
+    "correctIndex": 3,
+    "explanation": "La varianza promedia los cuadrados de las desviaciones respecto a la media."
+  },
+  {
+    "id": "cg-2497",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué relación tiene la desviación estándar con la varianza?",
+    "options": [
+      "Es su raíz cuadrada",
+      "Es su cuadrado",
+      "Es su inversa",
+      "Es el doble"
+    ],
+    "correctIndex": 0,
+    "explanation": "La desviación estándar es la raíz cuadrada de la varianza."
+  },
+  {
+    "id": "cg-2498",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "En una distribución normal, ¿qué porcentaje aproximado de los datos queda a menos de una desviación estándar de la media?",
+    "options": [
+      "50 %",
+      "68 %",
+      "95 %",
+      "99,7 %"
+    ],
+    "correctIndex": 1,
+    "explanation": "La regla empírica asigna cerca del 68 % al intervalo de una desviación estándar."
+  },
+  {
+    "id": "cg-2499",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué permite calcular el teorema de Bayes?",
+    "options": [
+      "El área bajo una curva",
+      "La suma de una serie geométrica",
+      "La probabilidad condicional inversa a partir de probabilidades conocidas",
+      "El máximo de una función"
+    ],
+    "correctIndex": 2,
+    "explanation": "El teorema de Bayes relaciona P(A|B) con P(B|A) y las probabilidades marginales."
+  },
+  {
+    "id": "cg-2500",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué afirma el teorema central del límite sobre la media muestral?",
+    "options": [
+      "Que siempre es igual a la media poblacional",
+      "Que su varianza crece con la muestra",
+      "Que solo se aplica a poblaciones normales",
+      "Que se aproxima a una distribución normal al aumentar el tamaño de la muestra"
+    ],
+    "correctIndex": 3,
+    "explanation": "La distribución de la media muestral tiende a la normalidad con muestras grandes."
+  },
+  {
+    "id": "cg-2501",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Qué afirma la ley de los grandes números?",
+    "options": [
+      "Que la frecuencia relativa tiende a la probabilidad teórica al aumentar los ensayos",
+      "Que todos los resultados son equiprobables",
+      "Que la media muestral nunca cambia",
+      "Que las probabilidades dependen del tamaño de la población"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con muchos ensayos, la frecuencia observada se acerca a la probabilidad esperada."
+  },
+  {
+    "id": "cg-2502",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuánto suman los números de la fila n del triángulo de Pascal, comenzando con n = 0?",
+    "options": [
+      "n al cuadrado",
+      "2^n",
+      "n factorial",
+      "2n"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cada fila del triángulo de Pascal suma una potencia de 2."
+  },
+  {
+    "id": "cg-2503",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "En el desarrollo de (a + b)^4, ¿cuál es el coeficiente del término a²b²?",
+    "options": [
+      "4",
+      "8",
+      "6",
+      "12"
+    ],
+    "correctIndex": 2,
+    "explanation": "El coeficiente binomial C(4,2) es 6."
+  },
+  {
+    "id": "cg-2504",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "En una progresión aritmética con primer término 3 y diferencia 4, ¿cuál es el quinto término?",
+    "options": [
+      "15",
+      "18",
+      "23",
+      "19"
+    ],
+    "correctIndex": 3,
+    "explanation": "El término n-ésimo es 3 + 4(n − 1); para n = 5 resulta 19."
+  },
+  {
+    "id": "cg-2505",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "En una progresión geométrica con primer término 2 y razón 3, ¿cuál es el cuarto término?",
+    "options": [
+      "54",
+      "18",
+      "24",
+      "162"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cuarto término es 2 × 3³ = 54."
+  },
+  {
+    "id": "cg-2506",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuántos subconjuntos tiene un conjunto de 5 elementos?",
+    "options": [
+      "10",
+      "32",
+      "25",
+      "64"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cada elemento puede incluirse o no, lo que da 2^5 = 32 subconjuntos."
+  },
+  {
+    "id": "cg-2507",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "Si se distribuyen 13 personas entre 12 meses, ¿qué garantiza el principio del palomar?",
+    "options": [
+      "Que todas cumplen en meses distintos",
+      "Que exactamente dos comparten mes",
+      "Que al menos dos cumplen años en el mismo mes",
+      "Que ninguna comparte mes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Con más personas que meses, alguna casilla debe contener al menos dos."
+  },
+  {
+    "id": "cg-2508",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el resto de dividir 17 entre 5?",
+    "options": [
+      "3",
+      "5",
+      "12",
+      "2"
+    ],
+    "correctIndex": 3,
+    "explanation": "17 = 5 × 3 + 2, por lo que el resto es 2."
+  },
+  {
+    "id": "cg-2509",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué matemático británico demostró el último teorema de Fermat en la década de 1990?",
+    "options": [
+      "Andrew Wiles",
+      "Grigori Perelman",
+      "Terence Tao",
+      "Paul Erdős"
+    ],
+    "correctIndex": 0,
+    "explanation": "Andrew Wiles presentó la demostración en 1994, completando un problema abierto durante siglos."
+  },
+  {
+    "id": "cg-2510",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué matemático ruso demostró la conjetura de Poincaré a comienzos del siglo XXI?",
+    "options": [
+      "Andrew Wiles",
+      "Grigori Perelman",
+      "John Nash",
+      "Michael Atiyah"
+    ],
+    "correctIndex": 1,
+    "explanation": "Perelman publicó la demostración entre 2002 y 2003 y rechazó la medalla Fields."
+  },
+  {
+    "id": "cg-2511",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué teorema de teoría de grafos afirma que cuatro colores bastan para colorear cualquier mapa plano?",
+    "options": [
+      "Teorema de Ramsey",
+      "Teorema de Euler",
+      "Teorema de los cuatro colores",
+      "Teorema de Kuratowski"
+    ],
+    "correctIndex": 2,
+    "explanation": "El teorema de los cuatro colores fue demostrado en 1976 por Appel y Haken."
+  },
+  {
+    "id": "cg-2512",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué conjetura sobre el empaquetamiento de esferas demostró Thomas Hales en 1998?",
+    "options": [
+      "Conjetura de Goldbach",
+      "Hipótesis de Riemann",
+      "Conjetura de Poincaré",
+      "Conjetura de Kepler"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hales demostró que el empaquetamiento cúbico centrado es el más denso posible."
+  },
+  {
+    "id": "cg-2513",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué demuestran los teoremas de incompletitud de Gödel?",
+    "options": [
+      "Que todo sistema formal consistente y suficientemente potente tiene proposiciones indecidibles",
+      "Que la aritmética es inconsistente",
+      "Que todo teorema puede demostrarse",
+      "Que los números reales son numerables"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gödel mostró en 1931 que ningún sistema formal suficiente escapa a proposiciones indecidibles."
+  },
+  {
+    "id": "cg-2514",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué argumento usó Cantor para demostrar que los números reales no son numerables?",
+    "options": [
+      "El principio del palomar",
+      "El argumento diagonal",
+      "La inducción matemática",
+      "El teorema de Bolzano-Weierstrass"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cantor construyó un número que difiere de cada elemento de cualquier lista enumerada."
+  },
+  {
+    "id": "cg-2515",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué ilustra la paradoja del hotel de Hilbert?",
+    "options": [
+      "Que los hoteles tienen habitaciones finitas",
+      "Que todo conjunto infinito es numerable",
+      "Que un conjunto infinito puede alojar más elementos sin dejar de ser infinito",
+      "Que no existen biyecciones entre infinitos"
+    ],
+    "correctIndex": 2,
+    "explanation": "El hotel con infinitas habitaciones puede reasignar huéspedes y admitir nuevos sin expulsar a nadie."
+  },
+  {
+    "id": "cg-2516",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué afirma la paradoja de Banach-Tarski?",
+    "options": [
+      "Que toda esfera es numerable",
+      "Que el volumen siempre se conserva en cualquier descomposición",
+      "Que no se puede dividir un conjunto infinito",
+      "Que una esfera puede descomponerse y recomponerse en dos esferas iguales usando el axioma de elección"
+    ],
+    "correctIndex": 3,
+    "explanation": "La duplicación usa piezas no medibles y depende del axioma de elección."
+  },
+  {
+    "id": "cg-2517",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "En el problema de Monty Hall, con tres puertas y un premio, ¿qué estrategia duplica aproximadamente la probabilidad de ganar?",
+    "options": [
+      "Cambiar de puerta",
+      "Mantener la puerta elegida",
+      "Elegir al azar entre las dos restantes",
+      "No influye la estrategia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cambiar de puerta da 2/3 de probabilidad de ganar, frente a 1/3 si se mantiene."
+  },
+  {
+    "id": "cg-2518",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Cuántas personas se necesitan para que la probabilidad de que al menos dos compartan cumpleaños supere el 50 %?",
+    "options": [
+      "12",
+      "23",
+      "50",
+      "183"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con 23 personas la probabilidad de coincidencia supera ligeramente el 50 %."
+  },
+  {
+    "id": "cg-2519",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué describe la paradoja de Simpson?",
+    "options": [
+      "Una contradicción en la teoría de conjuntos",
+      "Un juego con ganancia infinita",
+      "Una tendencia que aparece en grupos separados y se invierte al combinarlos",
+      "Un conjunto que contiene a todos los conjuntos"
+    ],
+    "correctIndex": 2,
+    "explanation": "La asociación entre variables puede cambiar al agregar o separar grupos."
+  },
+  {
+    "id": "cg-2520",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué muestra la paradoja de Bertrand sobre la probabilidad?",
+    "options": [
+      "Que la probabilidad geométrica no existe",
+      "Que todos los puntos son equiprobables",
+      "Que el azar no puede modelarse",
+      "Que el resultado depende del método de selección del punto en la circunferencia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Distintos procedimientos de elección producen probabilidades distintas para una misma pregunta."
+  },
+  {
+    "id": "cg-2521",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué plantea el problema de los dos sobres?",
+    "options": [
+      "Que cambiar de sobre parece ventajoso aunque el razonamiento simétrico lleva a una contradicción",
+      "Que un sobre siempre contiene el doble",
+      "Que la esperanza matemática no existe",
+      "Que los sobres tienen contenido finito"
+    ],
+    "correctIndex": 0,
+    "explanation": "El argumento de cambiar mejora la esperanza, pero se aplicaría igual al otro sobre."
+  },
+  {
+    "id": "cg-2522",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué ilustra la paradoja de San Petersburgo?",
+    "options": [
+      "Que las monedas nunca salen cara",
+      "Un juego con esperanza matemática infinita pero disposición a pagar finita",
+      "Que toda esperanza es cero",
+      "Que los juegos infinitos no tienen reglas"
+    ],
+    "correctIndex": 1,
+    "explanation": "La esperanza del juego es infinita, aunque nadie pagaría una suma arbitrariamente alta por jugar."
+  },
+  {
+    "id": "cg-2523",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué propiedad tiene el cuerno de Gabriel?",
+    "options": [
+      "Volumen infinito y superficie finita",
+      "Volumen y superficie finitos",
+      "Volumen finito y superficie infinita",
+      "Volumen y superficie infinitos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al girar la curva y = 1/x se obtiene un sólido con volumen finito y área lateral infinita."
+  },
+  {
+    "id": "cg-2524",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué propiedad tiene el copo de nieve de Koch?",
+    "options": [
+      "Área infinita y perímetro finito",
+      "Área y perímetro finitos",
+      "Área y perímetro infinitos",
+      "Área finita y perímetro infinito"
+    ],
+    "correctIndex": 3,
+    "explanation": "La curva de Koch encierra un área finita pero su longitud crece sin límite."
+  },
+  {
+    "id": "cg-2525",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué propiedad tiene el conjunto de Cantor?",
+    "options": [
+      "Tiene medida cero pero la misma cardinalidad que los reales",
+      "Es numerable y de medida positiva",
+      "Es un intervalo abierto",
+      "Contiene solo números racionales"
+    ],
+    "correctIndex": 0,
+    "explanation": "El conjunto de Cantor es no numerable pese a tener longitud total cero."
+  },
+  {
+    "id": "cg-2526",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Cuál es el valor de 1 + 1/4 + 1/9 + 1/16 + ...?",
+    "options": [
+      "π/4",
+      "π²/6",
+      "1",
+      "2"
+    ],
+    "correctIndex": 1,
+    "explanation": "Euler resolvió el problema de Basilea: la suma de los inversos de los cuadrados es π²/6."
+  },
+  {
+    "id": "cg-2527",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué comportamiento tiene la suma 1 + 1/2 + 1/3 + 1/4 + ...?",
+    "options": [
+      "Converge a 1",
+      "Converge a π",
+      "Es divergente",
+      "Converge a e"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aunque sus términos tienden a cero, la suma parcial crece sin límite."
+  },
+  {
+    "id": "cg-2528",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Cuánto vale la expresión decimal 0,999... con infinitos nueves?",
+    "options": [
+      "0,9",
+      "0,99",
+      "No está definida",
+      "1"
+    ],
+    "correctIndex": 3,
+    "explanation": "La serie geométrica 0,9 + 0,09 + ... converge exactamente a 1."
+  },
+  {
+    "id": "cg-2529",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué argumento usó Euclides para probar que hay infinitos números primos?",
+    "options": [
+      "Suponer un número finito de primos y construir otro primo fuera de la lista",
+      "Usar el teorema de Pitágoras",
+      "Aplicar el principio del palomar",
+      "Usar la criba de Eratóstenes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Euclides multiplicó los primos supuestos y sumó uno para obtener una contradicción."
+  },
+  {
+    "id": "cg-2530",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué afirma el teorema fundamental de la aritmética?",
+    "options": [
+      "Que todo número es primo",
+      "Que todo entero mayor que 1 se descompone de forma única en primos",
+      "Que la suma de primos es única",
+      "Que todo entero tiene raíz cuadrada exacta"
+    ],
+    "correctIndex": 1,
+    "explanation": "La factorización en primos existe y es única salvo el orden de los factores."
+  },
+  {
+    "id": "cg-2531",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué afirma el teorema fundamental del álgebra?",
+    "options": [
+      "Que toda ecuación lineal tiene solución entera",
+      "Que todo polinomio tiene raíces reales",
+      "Que todo polinomio no constante de grado n tiene n raíces complejas contadas con multiplicidad",
+      "Que el grado de un polinomio es siempre par"
+    ],
+    "correctIndex": 2,
+    "explanation": "Todo polinomio complejo no constante se factoriza por completo en raíces complejas."
+  },
+  {
+    "id": "cg-2532",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué relaciona el teorema fundamental del cálculo?",
+    "options": [
+      "Los números primos y los compuestos",
+      "Las series y los límites",
+      "Los ángulos y los lados",
+      "La derivación y la integración como operaciones inversas"
+    ],
+    "correctIndex": 3,
+    "explanation": "El teorema conecta la integral definida con la primitiva de la función."
+  },
+  {
+    "id": "cg-2533",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué fórmula cumple todo poliedro convexo según Euler?",
+    "options": [
+      "vértices menos aristas más caras igual a 2",
+      "vértices más aristas menos caras igual a 2",
+      "vértices menos aristas menos caras igual a 2",
+      "vértices más aristas más caras igual a 2"
+    ],
+    "correctIndex": 0,
+    "explanation": "La relación de Euler es vértices menos aristas más caras igual a 2."
+  },
+  {
+    "id": "cg-2534",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué igualdad se conoce como identidad de Euler?",
+    "options": [
+      "e elevado a iπ, menos 1, igual a 0",
+      "e elevado a iπ, más 1, igual a 0",
+      "e elevado a iπ, igual a 1",
+      "e elevado a iπ, más i, igual a 0"
+    ],
+    "correctIndex": 1,
+    "explanation": "La identidad reúne e, i, π, 1 y 0 en una sola ecuación."
+  },
+  {
+    "id": "cg-2535",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué permite calcular la fórmula de De Moivre?",
+    "options": [
+      "Raíces de polinomios de grado cinco",
+      "Áreas de polígonos regulares",
+      "Potencias de números complejos en forma trigonométrica",
+      "Sumas de series armónicas"
+    ],
+    "correctIndex": 2,
+    "explanation": "De Moivre relaciona la potencia de un complejo con el múltiplo de su ángulo."
+  },
+  {
+    "id": "cg-2536",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué afirma el pequeño teorema de Fermat?",
+    "options": [
+      "Que todo número de la forma 2^n + 1 es primo",
+      "Que todo primo es impar",
+      "Que la suma de dos primos es par",
+      "Si p es primo y a no es múltiplo de p, entonces a^(p−1) ≡ 1 (mod p)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Es una congruencia fundamental en teoría de números modular."
+  },
+  {
+    "id": "cg-2537",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué condición da el teorema de Wilson para un número p mayor que 1?",
+    "options": [
+      "p es primo si y solo si (p−1)! ≡ −1 (mod p)",
+      "p es primo si y solo si p divide a 2^p",
+      "p es primo si y solo si p² − 1 es par",
+      "p es primo si y solo si p termina en 1 o 9"
+    ],
+    "correctIndex": 0,
+    "explanation": "El teorema caracteriza los primos mediante el factorial de p − 1."
+  },
+  {
+    "id": "cg-2538",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Para qué sirve el teorema chino del resto?",
+    "options": [
+      "Para factorizar polinomios de grado par",
+      "Para resolver sistemas de congruencias con módulos coprimos",
+      "Para calcular áreas de círculos",
+      "Para demostrar el teorema de Pitágoras"
+    ],
+    "correctIndex": 1,
+    "explanation": "Garantiza una solución única módulo el producto cuando los módulos son coprimos."
+  },
+  {
+    "id": "cg-2539",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Cuánto vale la función φ de Euler para n = 12?",
+    "options": [
+      "6",
+      "8",
+      "4",
+      "12"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los números menores que 12 y coprimos con él son 1, 5, 7 y 11."
+  },
+  {
+    "id": "cg-2540",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué afirma el teorema de los números primos?",
+    "options": [
+      "Que todo número par es suma de dos primos",
+      "Que hay infinitos primos gemelos",
+      "Que todo primo es de la forma 4k + 1",
+      "Que π(x) se aproxima asintóticamente a x / ln x"
+    ],
+    "correctIndex": 3,
+    "explanation": "La cantidad de primos hasta x crece como x dividido por el logaritmo natural de x."
+  },
+  {
+    "id": "cg-2541",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué conjetura afirma que todo número par mayor que 2 es suma de dos primos?",
+    "options": [
+      "Conjetura de Goldbach",
+      "Conjetura de los primos gemelos",
+      "Conjetura de Collatz",
+      "Hipótesis de Riemann"
+    ],
+    "correctIndex": 0,
+    "explanation": "Goldbach propuso que todo par mayor que 2 se expresa como suma de dos primos."
+  },
+  {
+    "id": "cg-2542",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué conjetura afirma que existen infinitos pares de primos que difieren en 2?",
+    "options": [
+      "Conjetura de Goldbach",
+      "Conjetura de los primos gemelos",
+      "Conjetura de Kepler",
+      "Conjetura de Poincaré"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los primos gemelos son pares como 11 y 13, y se conjetura que hay infinitos."
+  },
+  {
+    "id": "cg-2543",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué hipótesis abierta relaciona los ceros de la función zeta con los números primos?",
+    "options": [
+      "Hipótesis del continuo",
+      "Conjetura de Goldbach",
+      "Hipótesis de Riemann",
+      "Conjetura de los primos gemelos"
+    ],
+    "correctIndex": 2,
+    "explanation": "La hipótesis de Riemann describe la posición de los ceros no triviales de la función zeta."
+  },
+  {
+    "id": "cg-2544",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué pregunta el problema P versus NP?",
+    "options": [
+      "Si todo número par es suma de primos",
+      "Si el espacio tiene dimensión finita",
+      "Si toda función continua es derivable",
+      "Si todo problema cuya solución se verifica rápido puede resolverse también rápido"
+    ],
+    "correctIndex": 3,
+    "explanation": "El problema compara la dificultad de verificar una solución con la de encontrarla."
+  },
+  {
+    "id": "cg-2545",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué estatus tiene la hipótesis del continuo en la teoría de conjuntos de Zermelo-Fraenkel?",
+    "options": [
+      "Es independiente: no puede demostrarse ni refutarse con esos axiomas",
+      "Fue demostrada por Cantor",
+      "Fue refutada por Gödel",
+      "Es un axioma de la aritmética de Peano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gödel y Cohen mostraron que es independiente de los axiomas habituales."
+  },
+  {
+    "id": "cg-2546",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué demostraron Abel y Ruffini sobre la ecuación general de quinto grado?",
+    "options": [
+      "Que todas sus raíces son reales",
+      "Que no existe una fórmula general con radicales para resolverla",
+      "Que siempre tiene cinco raíces enteras",
+      "Que puede resolverse con regla y compás"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ecuación general de grado cinco no es resoluble por radicales."
+  },
+  {
+    "id": "cg-2547",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué problema geométrico clásico es imposible resolver con regla y compás?",
+    "options": [
+      "Trazar la mediatriz de un segmento",
+      "Bisecar un ángulo",
+      "Duplicar el cubo",
+      "Construir un triángulo equilátero"
+    ],
+    "correctIndex": 2,
+    "explanation": "Duplicar el volumen de un cubo exige construir la raíz cúbica de 2, imposible con regla y compás."
+  },
+  {
+    "id": "cg-2548",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué problema clásico demostró Wantzel que es imposible con regla y compás?",
+    "options": [
+      "Trazar una perpendicular",
+      "Construir un cuadrado",
+      "Bisecar un segmento",
+      "Trisectar un ángulo arbitrario"
+    ],
+    "correctIndex": 3,
+    "explanation": "Wantzel probó en 1837 la imposibilidad de trisecar cualquier ángulo con esas herramientas."
+  },
+  {
+    "id": "cg-2549",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué polígono regular de 17 lados demostró Gauss que es construible con regla y compás?",
+    "options": [
+      "Heptadecágono",
+      "Pentágono",
+      "Hexágono",
+      "Nonágono"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gauss descubrió la construcción del polígono regular de 17 lados."
+  },
+  {
+    "id": "cg-2550",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué problema resolvió Euler al analizar los puentes de Königsberg?",
+    "options": [
+      "El área exacta de la ciudad",
+      "La imposibilidad de recorrer todos los puentes una sola vez y volver al punto de partida",
+      "La longitud total de los puentes",
+      "La distancia mínima entre dos islas"
+    ],
+    "correctIndex": 1,
+    "explanation": "El análisis dio origen a la teoría de grafos y a los caminos eulerianos."
+  },
+  {
+    "id": "cg-2551",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué afirma el teorema de la bola peluda?",
+    "options": [
+      "Toda esfera puede peinarse sin remolinos",
+      "Toda superficie tiene un campo constante",
+      "No existe un campo vectorial continuo y no nulo tangente a la esfera",
+      "La esfera es homeomorfa al toro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Todo campo tangente continuo sobre la esfera se anula en algún punto."
+  },
+  {
+    "id": "cg-2552",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué garantiza el teorema del punto fijo de Brouwer en un disco cerrado?",
+    "options": [
+      "Que toda función es inyectiva",
+      "Que toda función alcanza un máximo",
+      "Que toda función es derivable",
+      "Que toda función continua del disco en sí mismo tiene al menos un punto fijo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Toda aplicación continua del disco cerrado en sí mismo deja algún punto fijo."
+  },
+  {
+    "id": "cg-2553",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué propiedad topológica tiene la banda de Möbius?",
+    "options": [
+      "Tiene una sola cara y un solo borde",
+      "Tiene dos caras y dos bordes",
+      "Es homeomorfa a una esfera",
+      "Tiene tres bordes"
+    ],
+    "correctIndex": 0,
+    "explanation": "La banda de Möbius es una superficie no orientable con una única cara."
+  },
+  {
+    "id": "cg-2554",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué afirma el teorema de la parada de Turing?",
+    "options": [
+      "Que todo programa termina",
+      "Que no existe un algoritmo general que decida si cualquier programa se detiene",
+      "Que todo programa puede optimizarse",
+      "Que la computación cuántica resuelve todo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El problema de la parada es indecidible para máquinas de Turing."
+  },
+  {
+    "id": "cg-2555",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué conjunto genera la paradoja de Russell?",
+    "options": [
+      "El conjunto de los números pares",
+      "El conjunto vacío",
+      "El conjunto de todos los conjuntos que no se contienen a sí mismos",
+      "El conjunto de los números primos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Preguntar si ese conjunto se contiene a sí mismo produce una contradicción."
+  },
+  {
+    "id": "cg-2556",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué ilustra la paradoja de Aquiles y la tortuga de Zenón?",
+    "options": [
+      "Que la velocidad es siempre constante",
+      "Que el infinito no existe en matemáticas",
+      "Que las tortugas son más rápidas",
+      "La dificultad de fundamentar el movimiento mediante una suma infinita de etapas"
+    ],
+    "correctIndex": 3,
+    "explanation": "La paradoja muestra que una suma infinita de intervalos puede tener suma finita."
+  },
+  {
+    "id": "cg-2557",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué muestra la paradoja de Galileo sobre los números naturales y sus cuadrados?",
+    "options": [
+      "Que un subconjunto propio puede tener la misma cardinalidad que el conjunto completo",
+      "Que todo conjunto es finito",
+      "Que los cuadrados son más numerosos",
+      "Que no existen biyecciones"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cada natural tiene un cuadrado único, lo que establece una biyección con una parte propia."
+  },
+  {
+    "id": "cg-2558",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Qué postulado diferencia la geometría euclidiana de las geometrías no euclidianas?",
+    "options": [
+      "El postulado de la suma",
+      "El postulado de las paralelas",
+      "El axioma de elección",
+      "El teorema de Pitágoras"
+    ],
+    "correctIndex": 1,
+    "explanation": "Al modificar el postulado de las paralelas surgen la geometría hiperbólica y la elíptica."
+  },
+  {
+    "id": "cg-2559",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Cuántos sólidos platónicos existen?",
+    "options": [
+      "4",
+      "6",
+      "5",
+      "8"
+    ],
+    "correctIndex": 2,
+    "explanation": "Son el tetraedro, el cubo, el octaedro, el dodecaedro y el icosaedro."
+  },
+  {
+    "id": "cg-2560",
+    "category": "general",
+    "topic": "mathematics",
+    "difficulty": "hard",
+    "question": "¿Cuál es la característica de Euler de un toro?",
+    "options": [
+      "1",
+      "2",
+      "−2 (negativo)",
+      "0"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para el toro, vértices menos aristas más caras es igual a 0."
+  }
+]

@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-3341",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué río fue fundamental para el desarrollo de la civilización del antiguo Egipto?",
+    "options": [
+      "El Nilo",
+      "El Tigris",
+      "El Éufrates",
+      "El Indo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Nilo proporcionó agua, transporte y limo fértil a la civilización egipcia."
+  },
+  {
+    "id": "cg-3342",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué sistema de escritura usaban los antiguos egipcios en templos y papiros?",
+    "options": [
+      "La cuneiforme",
+      "Los jeroglíficos",
+      "El lineal B",
+      "El alfabeto fenicio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los jeroglíficos egipcios combinaban signos pictográficos y fonéticos."
+  },
+  {
+    "id": "cg-3343",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué monumento funerario de la meseta de Giza fue construido para el faraón Keops?",
+    "options": [
+      "El Templo de Artemisa",
+      "El Zigurat de Ur",
+      "La Gran Pirámide",
+      "El Coloso de Rodas"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Gran Pirámide de Giza es la tumba del faraón Keops, de la dinastía IV."
+  },
+  {
+    "id": "cg-3344",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿En qué región se desarrollaron las ciudades sumerias como Ur y Uruk?",
+    "options": [
+      "Anatolia",
+      "El valle del Indo",
+      "El norte de África",
+      "Mesopotamia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sumer surgió en Mesopotamia, entre los ríos Tigris y Éufrates."
+  },
+  {
+    "id": "cg-3345",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad-estado griega era famosa por su educación militar y sus hoplitas?",
+    "options": [
+      "Esparta",
+      "Atenas",
+      "Corinto",
+      "Tebas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Esparta organizaba su sociedad en torno al entrenamiento militar de sus ciudadanos."
+  },
+  {
+    "id": "cg-3346",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad griega se reunía la Eclésia para votar leyes en el siglo V a. C.?",
+    "options": [
+      "Esparta",
+      "Atenas",
+      "Mileto",
+      "Siracusa"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Eclésia ateniense era la asamblea de ciudadanos que aprobaba leyes y decisiones de guerra."
+  },
+  {
+    "id": "cg-3347",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué rey macedonio conquistó el Imperio persa entre 334 y 323 a. C.?",
+    "options": [
+      "Filipo II",
+      "Darío III",
+      "Alejandro Magno",
+      "Pirro de Epiro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alejandro Magno derrotó a Darío III y creó un imperio que llegó hasta la India."
+  },
+  {
+    "id": "cg-3348",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué emperador romano ordenó construir una muralla en el norte de Britania?",
+    "options": [
+      "Trajano",
+      "Nerón",
+      "Marco Aurelio",
+      "Adriano"
+    ],
+    "correctIndex": 3,
+    "explanation": "El muro de Adriano se construyó a partir del año 122 para defender la frontera britana."
+  },
+  {
+    "id": "cg-3349",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿En qué año fue depuesto el último emperador romano de Occidente, Rómulo Augústulo?",
+    "options": [
+      "476 d. C.",
+      "410 d. C.",
+      "395 d. C.",
+      "527 d. C."
+    ],
+    "correctIndex": 0,
+    "explanation": "La deposición de Rómulo Augústulo en 476 se considera el fin del Imperio romano de Occidente."
+  },
+  {
+    "id": "cg-3350",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad romana de la bahía de Nápoles quedó sepultada por el Vesubio en el año 79 d. C.?",
+    "options": [
+      "Ostia",
+      "Pompeya",
+      "Rávena",
+      "Capua"
+    ],
+    "correctIndex": 1,
+    "explanation": "La erupción del Vesubio cubrió Pompeya y Herculano con ceniza y lapilli."
+  },
+  {
+    "id": "cg-3351",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué general cartaginés cruzó los Alpes con elefantes para atacar Roma?",
+    "options": [
+      "Asdrúbal",
+      "Amílcar Barca",
+      "Aníbal",
+      "Sifax"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aníbal Barca invadió Italia durante la Segunda Guerra Púnica."
+  },
+  {
+    "id": "cg-3352",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué conflicto enfrentó a Atenas y Esparta entre 431 y 404 a. C.?",
+    "options": [
+      "Las guerras médicas",
+      "La guerra de Corinto",
+      "La guerra de Troya",
+      "La guerra del Peloponeso"
+    ],
+    "correctIndex": 3,
+    "explanation": "La guerra del Peloponeso terminó con la derrota de Atenas ante Esparta."
+  },
+  {
+    "id": "cg-3353",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿En qué desfiladero resistieron los griegos a los persas en 480 a. C.?",
+    "options": [
+      "Las Termópilas",
+      "Maratón",
+      "Salamina",
+      "Platea"
+    ],
+    "correctIndex": 0,
+    "explanation": "En las Termópilas, Leónidas y sus hoplitas frenaron brevemente al ejército de Jerjes."
+  },
+  {
+    "id": "cg-3354",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué rey fundó el Imperio aqueménida de Persia?",
+    "options": [
+      "Darío I",
+      "Ciro el Grande",
+      "Jerjes I",
+      "Artajerjes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ciro II el Grande unificó Persia y conquistó Babilonia en 539 a. C."
+  },
+  {
+    "id": "cg-3355",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué dinastía china unificó los reinos rivales en 221 a. C.?",
+    "options": [
+      "La dinastía Han",
+      "La dinastía Zhou",
+      "La dinastía Qin",
+      "La dinastía Tang"
+    ],
+    "correctIndex": 2,
+    "explanation": "Qin Shi Huang sometió a los reinos rivales y proclamó el primer imperio chino unificado."
+  },
+  {
+    "id": "cg-3356",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué gobernante chino ordenó unificar pesos, medidas y escritura en el siglo III a. C.?",
+    "options": [
+      "Wu de Han",
+      "Taizong",
+      "Kangxi",
+      "Qin Shi Huang"
+    ],
+    "correctIndex": 3,
+    "explanation": "Qin Shi Huang estandarizó la moneda, las medidas y la escritura durante su reinado."
+  },
+  {
+    "id": "cg-3357",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué extensa fortificación defensiva se construyó en el norte de China para frenar incursiones nómadas?",
+    "options": [
+      "La Gran Muralla",
+      "El Gran Canal",
+      "La Ruta de la Seda",
+      "La Ciudad Prohibida"
+    ],
+    "correctIndex": 0,
+    "explanation": "Diversas dinastías ampliaron la Gran Muralla; la mayor parte visible es de época Ming."
+  },
+  {
+    "id": "cg-3358",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué dinastía china gobernó entre 206 a. C. y 220 d. C.?",
+    "options": [
+      "La dinastía Qin",
+      "La dinastía Han",
+      "La dinastía Song",
+      "La dinastía Ming"
+    ],
+    "correctIndex": 1,
+    "explanation": "La dinastía Han consolidó el imperio chino y abrió rutas comerciales hacia Asia Central."
+  },
+  {
+    "id": "cg-3359",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué red de rutas comerciales conectó China con el Mediterráneo?",
+    "options": [
+      "El Camino Real",
+      "La Vía Apia",
+      "La Ruta de la Seda",
+      "La ruta de los Incas"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Ruta de la Seda transportó seda, especias e ideas entre Asia y Europa."
+  },
+  {
+    "id": "cg-3360",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué civilización antigua tuvo ciudades como Harappa y Mohenjo-Daro?",
+    "options": [
+      "La civilización maya",
+      "La civilización hitita",
+      "La civilización etrusca",
+      "La civilización del Indo"
+    ],
+    "correctIndex": 3,
+    "explanation": "La civilización del Indo floreció en el actual Pakistán y noroeste de la India hacia 2600 a. C."
+  },
+  {
+    "id": "cg-3361",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué religión fundó Siddharta Gautama en el norte de la India?",
+    "options": [
+      "El budismo",
+      "El hinduismo",
+      "El jainismo",
+      "El zoroastrismo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Siddharta Gautama, el Buda, enseñó el camino hacia el fin del sufrimiento."
+  },
+  {
+    "id": "cg-3362",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué dinastía india fundó Chandragupta Maurya en el siglo IV a. C.?",
+    "options": [
+      "La dinastía Gupta",
+      "La dinastía Maurya",
+      "La dinastía Chola",
+      "La dinastía Mughal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chandragupta Maurya creó el primer gran imperio unificado de la India."
+  },
+  {
+    "id": "cg-3363",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad mesoamericana albergó las pirámides del Sol y de la Luna?",
+    "options": [
+      "Tikal",
+      "Tenochtitlán",
+      "Teotihuacán",
+      "Chichén Itzá"
+    ],
+    "correctIndex": 2,
+    "explanation": "Teotihuacán, en el valle de México, fue una de las mayores ciudades de la Antigüedad americana."
+  },
+  {
+    "id": "cg-3364",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué civilización mesoamericana desarrolló un calendario y una escritura jeroglífica propios?",
+    "options": [
+      "Los incas",
+      "Los aztecas",
+      "Los olmecas",
+      "Los mayas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los mayas registraron fechas y relatos en estelas, códices y templos."
+  },
+  {
+    "id": "cg-3365",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué emperador azteca gobernaba Tenochtitlán cuando llegaron los españoles en 1519?",
+    "options": [
+      "Moctezuma II",
+      "Cuauhtémoc",
+      "Itzcóatl",
+      "Ahuitzotl"
+    ],
+    "correctIndex": 0,
+    "explanation": "Moctezuma II recibió a Hernán Cortés en 1519 y murió durante el conflicto."
+  },
+  {
+    "id": "cg-3366",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué imperio andino construyó la ciudadela de Machu Picchu?",
+    "options": [
+      "El Imperio chimú",
+      "El Imperio inca",
+      "El Imperio tiwanaku",
+      "El Imperio nazca"
+    ],
+    "correctIndex": 1,
+    "explanation": "Machu Picchu fue una residencia real inca construida en el siglo XV."
+  },
+  {
+    "id": "cg-3367",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad fue fundada por Constantino en 330 d. C. como nueva capital del Imperio romano?",
+    "options": [
+      "Roma",
+      "Alejandría",
+      "Constantinopla",
+      "Antioquía"
+    ],
+    "correctIndex": 2,
+    "explanation": "Constantinopla se levantó sobre la antigua Bizancio, en el estrecho del Bósforo."
+  },
+  {
+    "id": "cg-3368",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué emperador bizantino ordenó compilar el Corpus Iuris Civilis?",
+    "options": [
+      "Heraclio",
+      "Basilio II",
+      "León III",
+      "Justiniano I"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Corpus Iuris Civilis reunió y ordenó el derecho romano bajo Justiniano."
+  },
+  {
+    "id": "cg-3369",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué profeta fundó el islam en Arabia en el siglo VII?",
+    "options": [
+      "Mahoma",
+      "Alí",
+      "Abu Bakr",
+      "Omar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mahoma predicó el islam en La Meca y Medina a partir de 610."
+  },
+  {
+    "id": "cg-3370",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Hacia qué ciudad se dirige la peregrinación obligatoria del islam?",
+    "options": [
+      "Medina",
+      "La Meca",
+      "Jerusalén",
+      "Damasco"
+    ],
+    "correctIndex": 1,
+    "explanation": "El hach es la peregrinación a La Meca que todo musulmán debe realizar al menos una vez."
+  },
+  {
+    "id": "cg-3371",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué batalla de 732 detuvo el avance musulmán en el norte de la actual Francia?",
+    "options": [
+      "La batalla de Hastings",
+      "La batalla de Manzikert",
+      "La batalla de Poitiers",
+      "La batalla de Yarmuk"
+    ],
+    "correctIndex": 2,
+    "explanation": "Carlos Martel derrotó a una fuerza omeya entre Tours y Poitiers."
+  },
+  {
+    "id": "cg-3372",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué rey franco fue coronado emperador por el papa en el año 800?",
+    "options": [
+      "Clodoveo",
+      "Carlos Martel",
+      "Luis el Piadoso",
+      "Carlomagno"
+    ],
+    "correctIndex": 3,
+    "explanation": "León III coronó a Carlomagno emperador en la basílica de San Pedro."
+  },
+  {
+    "id": "cg-3373",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué sistema de organización social y territorial predominó en la Europa medieval?",
+    "options": [
+      "El feudalismo",
+      "El mercantilismo",
+      "El absolutismo",
+      "El colonialismo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El feudalismo articuló relaciones de vasallaje y señoríos en la Europa medieval."
+  },
+  {
+    "id": "cg-3374",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué pandemia provocó una enorme mortandad en Europa en el siglo XIV?",
+    "options": [
+      "La gripe española",
+      "La Peste Negra",
+      "El cólera",
+      "La viruela"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Peste Negra, causada por Yersinia pestis, mató a cerca de un tercio de la población europea."
+  },
+  {
+    "id": "cg-3375",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué guerra enfrentó a Inglaterra y Francia entre 1337 y 1453?",
+    "options": [
+      "La guerra de las Dos Rosas",
+      "La guerra de los Treinta Años",
+      "La guerra de los Cien Años",
+      "La guerra de Sucesión"
+    ],
+    "correctIndex": 2,
+    "explanation": "La guerra de los Cien Años disputó el trono francés y territorios continentales."
+  },
+  {
+    "id": "cg-3376",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué joven francesa dirigió la liberación de Orleans en 1429?",
+    "options": [
+      "Isabel de Baviera",
+      "Catalina de Médici",
+      "Blanca de Castilla",
+      "Juana de Arco"
+    ],
+    "correctIndex": 3,
+    "explanation": "Juana de Arco impulsó la victoria francesa en Orleans durante la guerra de los Cien Años."
+  },
+  {
+    "id": "cg-3377",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué documento inglés de 1215 limitó el poder del rey?",
+    "options": [
+      "La Carta Magna",
+      "El Domesday Book",
+      "La Petición de Derechos",
+      "El Bill of Rights"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Carta Magna impuso límites al rey Juan sin Tierra y protegió ciertos derechos de los nobles."
+  },
+  {
+    "id": "cg-3378",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Quién dirigió la conquista normanda de Inglaterra en 1066?",
+    "options": [
+      "Harold Godwinson",
+      "Guillermo el Conquistador",
+      "Ricardo Corazón de León",
+      "Eduardo el Confesor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Guillermo, duque de Normandía, venció en Hastings y se convirtió en rey de Inglaterra."
+  },
+  {
+    "id": "cg-3379",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué emperador romano legalizó el cristianismo con el Edicto de Milán en 313?",
+    "options": [
+      "Diocleciano",
+      "Teodosio",
+      "Constantino",
+      "Juliano"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Edicto de Milán permitió el culto cristiano y devolvió bienes confiscados."
+  },
+  {
+    "id": "cg-3380",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad fue destruida por Roma en 146 a. C. al final de la Tercera Guerra Púnica?",
+    "options": [
+      "Corinto",
+      "Numancia",
+      "Siracusa",
+      "Cartago"
+    ],
+    "correctIndex": 3,
+    "explanation": "La destrucción de Cartago en 146 a. C. dejó a Roma el control del Mediterráneo occidental."
+  },
+  {
+    "id": "cg-3381",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué rey de Babilonia promulgó un famoso código legal en el siglo XVIII a. C.?",
+    "options": [
+      "Hammurabi",
+      "Nabucodonosor II",
+      "Sargón de Acad",
+      "Asurbanipal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El código de Hammurabi recogió leyes y castigos en una estela de basalto."
+  },
+  {
+    "id": "cg-3382",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué pueblo antiguo creó un alfabeto que influyó en los alfabetos griego y latino?",
+    "options": [
+      "Los hititas",
+      "Los fenicios",
+      "Los asirios",
+      "Los etruscos"
+    ],
+    "correctIndex": 1,
+    "explanation": "El alfabeto fenicio, de origen consonántico, se difundió por el Mediterráneo."
+  },
+  {
+    "id": "cg-3383",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué poeta griego compuso la Ilíada y la Odisea?",
+    "options": [
+      "Hesíodo",
+      "Safo",
+      "Homero",
+      "Píndaro"
+    ],
+    "correctIndex": 2,
+    "explanation": "A Homero se atribuyen los dos grandes poemas épicos griegos."
+  },
+  {
+    "id": "cg-3384",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo griego fue maestro de Alejandro Magno?",
+    "options": [
+      "Platón",
+      "Sócrates",
+      "Epicuro",
+      "Aristóteles"
+    ],
+    "correctIndex": 3,
+    "explanation": "Aristóteles educó a Alejandro en Macedonia durante su juventud."
+  },
+  {
+    "id": "cg-3385",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo ateniense fue condenado a muerte y bebió cicuta en 399 a. C.?",
+    "options": [
+      "Sócrates",
+      "Platón",
+      "Aristóteles",
+      "Diógenes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sócrates fue juzgado por impiedad y corrupción de la juventud en Atenas."
+  },
+  {
+    "id": "cg-3386",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué estadista ateniense impulsó la construcción del Partenón?",
+    "options": [
+      "Solón",
+      "Pericles",
+      "Cleístenes",
+      "Temístocles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pericles promovió el programa monumental de la Acrópolis en el siglo V a. C."
+  },
+  {
+    "id": "cg-3387",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿A qué diosa griega está dedicado el Partenón de la Acrópolis ateniense?",
+    "options": [
+      "Hera",
+      "Artemisa",
+      "Atenea",
+      "Afrodita"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Partenón albergaba la estatua crisoelefantina de Atenea Partenos."
+  },
+  {
+    "id": "cg-3388",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿En qué santuario griego se celebraban los juegos en honor a Zeus?",
+    "options": [
+      "Delfos",
+      "Delos",
+      "Epidauro",
+      "Olimpia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los Juegos Olímpicos antiguos se celebraban cada cuatro años en Olimpia."
+  },
+  {
+    "id": "cg-3389",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué emperador romano estableció la Tetrarquía a finales del siglo III?",
+    "options": [
+      "Diocleciano",
+      "Constantino",
+      "Teodosio",
+      "Trajano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Diocleciano dividió el gobierno entre dos augustos y dos césares para administrar mejor el imperio."
+  },
+  {
+    "id": "cg-3390",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué político romano fue asesinado en el Senado en los idus de marzo de 44 a. C.?",
+    "options": [
+      "Pompeyo",
+      "Julio César",
+      "Cicerón",
+      "Augusto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un grupo de senadores encabezado por Bruto y Casio asesinó a Julio César."
+  },
+  {
+    "id": "cg-3391",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué faraón egipcio impulsó el culto exclusivo a Atón?",
+    "options": [
+      "Tutankamón",
+      "Ramsés II",
+      "Akenatón",
+      "Tutmosis III"
+    ],
+    "correctIndex": 2,
+    "explanation": "Akenatón, antes Amenhotep IV, promovió una reforma religiosa centrada en Atón."
+  },
+  {
+    "id": "cg-3392",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué reina egipcia fue la última gobernante de la dinastía ptolemaica?",
+    "options": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Arsínoe II",
+      "Cleopatra VII"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cleopatra VII reinó hasta la conquista romana de Egipto en 30 a. C."
+  },
+  {
+    "id": "cg-3393",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué piedra hallada en Egipto permitió descifrar los jeroglíficos en 1822?",
+    "options": [
+      "La Piedra de Rosetta",
+      "La Piedra de Palermo",
+      "El Papiro de Turín",
+      "La Estela de Merneptah"
+    ],
+    "correctIndex": 0,
+    "explanation": "Champollion usó el texto trilingüe de la Piedra de Rosetta para descifrar los jeroglíficos."
+  },
+  {
+    "id": "cg-3394",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué arqueólogo británico descubrió la tumba de Tutankamón en 1922?",
+    "options": [
+      "Flinders Petrie",
+      "Howard Carter",
+      "Heinrich Schliemann",
+      "Arthur Evans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Howard Carter encontró la tumba casi intacta de Tutankamón en el Valle de los Reyes."
+  },
+  {
+    "id": "cg-3395",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad mesopotámica fue capital del Imperio neobabilónico bajo Nabucodonosor II?",
+    "options": [
+      "Nínive",
+      "Ur",
+      "Babilonia",
+      "Nippur"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nabucodonosor II embelleció Babilonia con murallas, palacios y templos."
+  },
+  {
+    "id": "cg-3396",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿A qué ciudad se atribuyen los legendarios Jardines Colgantes?",
+    "options": [
+      "Nínive",
+      "Susa",
+      "Pérgamo",
+      "Babilonia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los Jardines Colgantes de Babilonia figuran entre las Siete Maravillas antiguas."
+  },
+  {
+    "id": "cg-3397",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué pueblo indoeuropeo compuso los Vedas tras llegar al norte de la India?",
+    "options": [
+      "Los arios",
+      "Los dravidianos",
+      "Los hunos",
+      "Los escitas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los textos védicos se compusieron en sánscrito entre los siglos XV y VI a. C."
+  },
+  {
+    "id": "cg-3398",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué sistema social tradicional de la India divide a la población en grupos hereditarios?",
+    "options": [
+      "El feudalismo",
+      "El sistema de castas",
+      "El califato",
+      "El clan patriarcal"
+    ],
+    "correctIndex": 1,
+    "explanation": "El sistema de castas organizó históricamente la sociedad india en varnas y jatis."
+  },
+  {
+    "id": "cg-3399",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué emperador maurya difundió el budismo tras la guerra de Kalinga?",
+    "options": [
+      "Chandragupta Maurya",
+      "Samudragupta",
+      "Ashoka",
+      "Harsha"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ashoka abrazó el budismo y difundió sus principios mediante edictos en pilares y rocas."
+  },
+  {
+    "id": "cg-3400",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué dinastía china gobernó entre 618 y 907 y es recordada como una edad de oro?",
+    "options": [
+      "La dinastía Han",
+      "La dinastía Sui",
+      "La dinastía Yuan",
+      "La dinastía Tang"
+    ],
+    "correctIndex": 3,
+    "explanation": "La dinastía Tang destacó por su expansión territorial, poesía y comercio exterior."
+  },
+  {
+    "id": "cg-3401",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué dinastía china gobernó entre 960 y 1279 y emitió papel moneda?",
+    "options": [
+      "La dinastía Song",
+      "La dinastía Tang",
+      "La dinastía Ming",
+      "La dinastía Qin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los Song desarrollaron la imprenta, la pólvora y el papel moneda."
+  },
+  {
+    "id": "cg-3402",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué caudillo unificó las tribus mongolas y fundó el Imperio mongol en 1206?",
+    "options": [
+      "Kublai Kan",
+      "Gengis Kan",
+      "Batu Kan",
+      "Hulagu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Temuyín fue proclamado Gengis Kan y lanzó una serie de conquistas por Eurasia."
+  },
+  {
+    "id": "cg-3403",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué nieto de Gengis Kan fundó la dinastía Yuan en China?",
+    "options": [
+      "Batu Kan",
+      "Ogodei",
+      "Kublai Kan",
+      "Möngke"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kublai Kan estableció la dinastía Yuan y trasladó su capital a Pekín."
+  },
+  {
+    "id": "cg-3404",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué viajero veneciano describió su estancia en la corte de Kublai Kan?",
+    "options": [
+      "Ibn Battuta",
+      "Odorico de Pordenone",
+      "Guillermo de Rubruck",
+      "Marco Polo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Marco Polo dictó sus viajes por Asia en el libro Il Milione."
+  },
+  {
+    "id": "cg-3405",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué imperio islámico gobernó desde Bagdad entre los siglos VIII y XIII?",
+    "options": [
+      "El califato abasí",
+      "El califato omeya",
+      "El califato fatimí",
+      "El Imperio sasánida"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los abasíes fundaron Bagdad en 762 y convirtieron la ciudad en un gran centro cultural."
+  },
+  {
+    "id": "cg-3406",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad es santa para judíos, cristianos y musulmanes?",
+    "options": [
+      "La Meca",
+      "Jerusalén",
+      "Roma",
+      "Constantinopla"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jerusalén alberga el Muro de las Lamentaciones, el Santo Sepulcro y la Explanada de las Mezquitas."
+  },
+  {
+    "id": "cg-3407",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué califato estableció su capital en Damasco en 661?",
+    "options": [
+      "El califato abasí",
+      "El califato fatimí",
+      "El califato omeya",
+      "El califato de Córdoba"
+    ],
+    "correctIndex": 2,
+    "explanation": "Muawiya trasladó la capital del califato a Damasco y fundó la dinastía omeya."
+  },
+  {
+    "id": "cg-3408",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad fue conquistada por los otomanos en 1453?",
+    "options": [
+      "Viena",
+      "Acre",
+      "Belgrado",
+      "Constantinopla"
+    ],
+    "correctIndex": 3,
+    "explanation": "La toma de Constantinopla por Mehmed II puso fin al Imperio bizantino."
+  },
+  {
+    "id": "cg-3409",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué sultán otomano dirigió la conquista de Constantinopla en 1453?",
+    "options": [
+      "Mehmed II",
+      "Solimán el Magnífico",
+      "Murad I",
+      "Bayaceto I"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mehmed II usó artillería pesada para derribar las murallas de la ciudad."
+  },
+  {
+    "id": "cg-3410",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué pueblo escandinavo realizó incursiones y comercio por Europa entre los siglos VIII y XI?",
+    "options": [
+      "Los hunos",
+      "Los vikingos",
+      "Los ávaros",
+      "Los magiares"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los vikingos navegaron desde Escandinavia hasta el Atlántico, el Mediterráneo y el mar Negro."
+  },
+  {
+    "id": "cg-3411",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué yacimiento de Terranova prueba la presencia nórdica en América hacia el año 1000?",
+    "options": [
+      "Vinland",
+      "Helluland",
+      "L'Anse aux Meadows",
+      "Markland"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'Anse aux Meadows conserva restos de un asentamiento nórdico en Norteamérica."
+  },
+  {
+    "id": "cg-3412",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué navegante nórdico estableció una colonia en Groenlandia hacia 985?",
+    "options": [
+      "Leif Erikson",
+      "Bjarni Herjólfsson",
+      "Harald Hardrada",
+      "Erik el Rojo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Erik el Rojo fundó asentamientos nórdicos en la costa suroeste de Groenlandia."
+  },
+  {
+    "id": "cg-3413",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué rey inglés aceptó la Carta Magna en 1215?",
+    "options": [
+      "Juan sin Tierra",
+      "Enrique II",
+      "Ricardo Corazón de León",
+      "Eduardo I"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los barones obligaron a Juan sin Tierra a sellar la Carta Magna en Runnymede."
+  },
+  {
+    "id": "cg-3414",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué papa llamó a la cruzada de 1095 en el concilio de Clermont?",
+    "options": [
+      "Gregorio VII",
+      "Urbano II",
+      "Inocencio III",
+      "Alejandro III"
+    ],
+    "correctIndex": 1,
+    "explanation": "Urbano II llamó a la cristiandad a recuperar Tierra Santa en el concilio de Clermont."
+  },
+  {
+    "id": "cg-3415",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué orden militar se fundó en Jerusalén hacia 1119 para proteger a los peregrinos?",
+    "options": [
+      "Los Hospitalarios",
+      "Los Teutónicos",
+      "Los Templarios",
+      "Los Caballeros de Santiago"
+    ],
+    "correctIndex": 2,
+    "explanation": "La orden del Temple combinó vida religiosa y combate en Tierra Santa."
+  },
+  {
+    "id": "cg-3416",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué reyes de Castilla y Aragón conquistaron Granada en 1492?",
+    "options": [
+      "Los Austrias",
+      "Los Trastámara de Nápoles",
+      "Los Borbones",
+      "Los Reyes Católicos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Isabel I de Castilla y Fernando II de Aragón completaron la conquista del reino nazarí."
+  },
+  {
+    "id": "cg-3417",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad de Al-Ándalus fue capital del califato omeya en la península ibérica?",
+    "options": [
+      "Córdoba",
+      "Sevilla",
+      "Toledo",
+      "Granada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Córdoba alcanzó gran esplendor cultural bajo Abderramán III y Almanzor."
+  },
+  {
+    "id": "cg-3418",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué filósofo andalusí del siglo XII comentó las obras de Aristóteles?",
+    "options": [
+      "Avicena",
+      "Averroes",
+      "Al-Farabi",
+      "Maimónides"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ibn Rushd, conocido como Averroes, ejerció gran influencia en la escolástica europea."
+  },
+  {
+    "id": "cg-3419",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué médico y filósofo persa escribió el Canon de medicina?",
+    "options": [
+      "Al-Razi",
+      "Ibn al-Nafis",
+      "Avicena",
+      "Averroes"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Canon de Avicena fue un texto médico de referencia en Europa y Asia durante siglos."
+  },
+  {
+    "id": "cg-3420",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué viajero musulmán del siglo XIV relató sus viajes por África, Asia y Europa?",
+    "options": [
+      "Ibn Jaldún",
+      "Al-Idrisi",
+      "Ibn Fadlan",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ibn Battuta dictó una rihla que describe su recorrido por el mundo islámico y más allá."
+  },
+  {
+    "id": "cg-3421",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué matemático griego escribió los Elementos, tratado base de la geometría?",
+    "options": [
+      "Euclides",
+      "Pitágoras",
+      "Arquímedes",
+      "Apolonio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los Elementos de Euclides sistematizaron la geometría durante más de dos milenios."
+  },
+  {
+    "id": "cg-3422",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué astrónomo alejandrino del siglo II d. C. sistematizó el modelo geocéntrico en el Almagesto?",
+    "options": [
+      "Aristarco de Samos",
+      "Ptolomeo",
+      "Hiparco",
+      "Eratóstenes"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Almagesto de Ptolomeo presentó un sistema geocéntrico aceptado hasta la Edad Moderna."
+  },
+  {
+    "id": "cg-3423",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué médico griego es considerado el padre de la medicina occidental?",
+    "options": [
+      "Galeno",
+      "Aristóteles",
+      "Hipócrates",
+      "Dioscórides"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hipócrates defendió una explicación natural de la enfermedad y redactó el juramento médico."
+  },
+  {
+    "id": "cg-3424",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué historiador griego escribió la Historia de la guerra del Peloponeso?",
+    "options": [
+      "Heródoto",
+      "Jenofonte",
+      "Polibio",
+      "Tucídides"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tucídides analizó el conflicto entre Atenas y Esparta con un enfoque racional."
+  },
+  {
+    "id": "cg-3425",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué orador romano denunció la conjura de Catilina?",
+    "options": [
+      "Cicerón",
+      "Séneca",
+      "Tácito",
+      "Salustio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cicerón pronunció las Catilinarias contra la conspiración de Lucio Sergio Catilina."
+  },
+  {
+    "id": "cg-3426",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué poeta romano escribió la Eneida?",
+    "options": [
+      "Horacio",
+      "Virgilio",
+      "Ovidio",
+      "Lucano"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Eneida narra las aventuras de Eneas y la fundación legendaria de Roma."
+  },
+  {
+    "id": "cg-3427",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué emperador romano inició la construcción del Coliseo?",
+    "options": [
+      "Tito",
+      "Domiciano",
+      "Vespasiano",
+      "Nerón"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vespasiano mandó construir el anfiteatro Flavio; su hijo Tito lo inauguró."
+  },
+  {
+    "id": "cg-3428",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué emperador romano llevó el imperio a su máxima extensión territorial?",
+    "options": [
+      "Augusto",
+      "Adriano",
+      "Marco Aurelio",
+      "Trajano"
+    ],
+    "correctIndex": 3,
+    "explanation": "Trajano conquistó Dacia y Mesopotamia, ampliando el imperio hasta su mayor tamaño."
+  },
+  {
+    "id": "cg-3429",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué caudillo huno atacó el Imperio romano en el siglo V?",
+    "options": [
+      "Atila",
+      "Genserico",
+      "Alarico",
+      "Teodorico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Atila dirigió incursiones por los Balcanes, la Galia e Italia hasta su muerte en 453."
+  },
+  {
+    "id": "cg-3430",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué rey ostrogodo gobernó Italia tras la caída del último emperador de Occidente?",
+    "options": [
+      "Odoacro",
+      "Teodorico",
+      "Clodoveo",
+      "Alarico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Teodorico el Grande gobernó Italia desde Rávena entre 493 y 526."
+  },
+  {
+    "id": "cg-3431",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué lengua fue la principal en la administración y la cultura del Imperio bizantino?",
+    "options": [
+      "El latín",
+      "El árabe",
+      "El griego",
+      "El arameo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aunque el latín fue oficial al inicio, el griego predominó en Bizancio desde el siglo VII."
+  },
+  {
+    "id": "cg-3432",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué cisma de 1054 separó a las iglesias de Roma y Constantinopla?",
+    "options": [
+      "El cisma de Aviñón",
+      "La Reforma protestante",
+      "El concilio de Nicea",
+      "El cisma de Oriente"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las diferencias teológicas y políticas culminaron en la excomunión mutua de 1054."
+  },
+  {
+    "id": "cg-3433",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué rey visigodo se convirtió al catolicismo en el III Concilio de Toledo?",
+    "options": [
+      "Recaredo",
+      "Leovigildo",
+      "Wamba",
+      "Rodrigo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Recaredo abandonó el arrianismo y unificó religiosamente el reino visigodo en 589."
+  },
+  {
+    "id": "cg-3434",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué batalla de 711 facilitó la conquista musulmana de la península ibérica?",
+    "options": [
+      "La batalla de Covadonga",
+      "La batalla de Guadalete",
+      "La batalla de Poitiers",
+      "La batalla de Sagrajas"
+    ],
+    "correctIndex": 1,
+    "explanation": "La derrota del rey Rodrigo en Guadalete abrió paso a la invasión omeya."
+  },
+  {
+    "id": "cg-3435",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué noble castellano del siglo XI fue desterrado por Alfonso VI y conquistó Valencia?",
+    "options": [
+      "Álvar Fáñez",
+      "Fernán González",
+      "El Cid Campeador",
+      "Pelayo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rodrigo Díaz de Vivar, el Cid, conquistó y gobernó Valencia en nombre propio."
+  },
+  {
+    "id": "cg-3436",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad italiana fue un gran centro del Renacimiento en los siglos XIV y XV?",
+    "options": [
+      "Nápoles",
+      "Milán",
+      "Venecia",
+      "Florencia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Florencia reunió a artistas como Brunelleschi, Donatello y Botticelli."
+  },
+  {
+    "id": "cg-3437",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué familia florentina dominó la banca y el mecenazgo artístico en el siglo XV?",
+    "options": [
+      "Los Médici",
+      "Los Sforza",
+      "Los Visconti",
+      "Los Doria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los Médici gobernaron Florencia y financiaron a numerosos artistas."
+  },
+  {
+    "id": "cg-3438",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad maya de la península de Yucatán alberga el templo de Kukulkán?",
+    "options": [
+      "Palenque",
+      "Chichén Itzá",
+      "Tikal",
+      "Copán"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chichén Itzá destacó por el templo de Kukulkán y el juego de pelota."
+  },
+  {
+    "id": "cg-3439",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad fue la capital del Imperio azteca?",
+    "options": [
+      "Texcoco",
+      "Tlaxcala",
+      "Tenochtitlán",
+      "Tula"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tenochtitlán se construyó sobre islas del lago de Texcoco."
+  },
+  {
+    "id": "cg-3440",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad fue la capital del Imperio inca?",
+    "options": [
+      "Quito",
+      "Machu Picchu",
+      "Chan Chan",
+      "Cuzco"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Cuzco era el centro político y religioso del Tahuantinsuyo."
+  },
+  {
+    "id": "cg-3441",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué sistema de cuerdas anudadas usaban los incas para registrar información?",
+    "options": [
+      "El quipu",
+      "Los códices",
+      "Las estelas",
+      "Los glifos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los quipus registraban datos numéricos y posiblemente relatos mediante nudos."
+  },
+  {
+    "id": "cg-3442",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de templo escalonado fue característico de Mesopotamia?",
+    "options": [
+      "El obelisco",
+      "El zigurat",
+      "El hipogeo",
+      "El anfiteatro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los zigurats eran plataformas escalonadas con un santuario en la cima."
+  },
+  {
+    "id": "cg-3443",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué escritura de signos en forma de cuña se usó en Mesopotamia?",
+    "options": [
+      "La jeroglífica",
+      "La alfabética",
+      "La cuneiforme",
+      "La devanagari"
+    ],
+    "correctIndex": 2,
+    "explanation": "La escritura cuneiforme se grababa con una caña sobre tablillas de arcilla."
+  },
+  {
+    "id": "cg-3444",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad fenicia fundó, según la tradición, la colonia de Cartago?",
+    "options": [
+      "Sidón",
+      "Biblos",
+      "Arados",
+      "Tiro"
+    ],
+    "correctIndex": 3,
+    "explanation": "La tradición atribuye a colonos de Tiro la fundación de Cartago hacia el siglo IX a. C."
+  },
+  {
+    "id": "cg-3445",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué tratado de 1494 dividió las zonas de exploración entre Castilla y Portugal?",
+    "options": [
+      "El Tratado de Tordesillas",
+      "El Tratado de Verdún",
+      "El Tratado de Utrecht",
+      "El Tratado de Cateau-Cambrésis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tordesillas fijó un meridiano que repartió las tierras recién descubiertas entre ambas coronas."
+  },
+  {
+    "id": "cg-3446",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué batalla de 331 a. C. dio a Alejandro Magno el control del corazón del Imperio persa?",
+    "options": [
+      "La batalla de Issos",
+      "La batalla de Gaugamela",
+      "La batalla de Gránico",
+      "La batalla de Platea"
+    ],
+    "correctIndex": 1,
+    "explanation": "En Gaugamela Alejandro derrotó a Darío III y ocupó Babilonia y Susa."
+  },
+  {
+    "id": "cg-3447",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué batalla naval de 31 a. C. aseguró el poder de Octaviano frente a Marco Antonio?",
+    "options": [
+      "La batalla de Nauloco",
+      "La batalla de Salamina",
+      "La batalla de Actium",
+      "La batalla de Mylae"
+    ],
+    "correctIndex": 2,
+    "explanation": "La victoria de Agripa en Actium permitió a Octaviano convertirse en Augusto."
+  },
+  {
+    "id": "cg-3448",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué emperador romano fundó la dinastía Severa en 193 d. C.?",
+    "options": [
+      "Cómodo",
+      "Pertinax",
+      "Caracalla",
+      "Septimio Severo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Septimio Severo tomó el poder tras la guerra civil que siguió al asesinato de Pertinax."
+  },
+  {
+    "id": "cg-3449",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué reforma de Solón canceló las deudas de los campesinos atenienses?",
+    "options": [
+      "La seisachtheia",
+      "La liturgia",
+      "El ostracismo",
+      "La cleruquía"
+    ],
+    "correctIndex": 0,
+    "explanation": "La seisachtheia liberó a los deudores y prohibió la esclavitud por deudas."
+  },
+  {
+    "id": "cg-3450",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué político ateniense introdujo las reformas de 508 a. C. que crearon los demos?",
+    "options": [
+      "Solón",
+      "Cleístenes",
+      "Pericles",
+      "Efialtes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cleístenes reorganizó la población ateniense en demos y tribus territoriales."
+  },
+  {
+    "id": "cg-3451",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué guerra entre Roma y Cartago se libró entre 264 y 241 a. C.?",
+    "options": [
+      "La Segunda Guerra Púnica",
+      "La Tercera Guerra Púnica",
+      "La Primera Guerra Púnica",
+      "La guerra de Numancia"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Primera Guerra Púnica se decidió en el mar y dio a Roma Sicilia."
+  },
+  {
+    "id": "cg-3452",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué general romano derrotó a Aníbal en Zama en 202 a. C.?",
+    "options": [
+      "Marco Claudio Marcelo",
+      "Fabio Máximo",
+      "Cayo Mario",
+      "Escipión el Africano"
+    ],
+    "correctIndex": 3,
+    "explanation": "Escipión venció a Aníbal en Zama y puso fin a la Segunda Guerra Púnica."
+  },
+  {
+    "id": "cg-3453",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué hermanos impulsaron reformas agrarias en Roma y murieron violentamente entre 133 y 121 a. C.?",
+    "options": [
+      "Los Gracos",
+      "Los Escipiones",
+      "Los Catones",
+      "Los Metelos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tiberio y Cayo Graco intentaron repartir tierras públicas entre ciudadanos pobres."
+  },
+  {
+    "id": "cg-3454",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué general romano marchó sobre Roma en 88 a. C. e instauró una dictadura?",
+    "options": [
+      "Cayo Mario",
+      "Sila",
+      "Pompeyo",
+      "Craso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sila impuso una dictadura y reformó el Senado tras vencer a sus rivales."
+  },
+  {
+    "id": "cg-3455",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué emperador convocó el Concilio de Nicea en 325?",
+    "options": [
+      "Teodosio I",
+      "Justiniano",
+      "Constantino",
+      "Diocleciano"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Concilio de Nicea definió la consustancialidad del Hijo frente al arrianismo."
+  },
+  {
+    "id": "cg-3456",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué obispo de Hipona escribió el tratado De civitate Dei?",
+    "options": [
+      "Jerónimo",
+      "Ambrosio",
+      "Boecio",
+      "Agustín"
+    ],
+    "correctIndex": 3,
+    "explanation": "Agustín de Hipona respondió a las críticas paganas tras el saqueo de Roma en 410."
+  },
+  {
+    "id": "cg-3457",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué emperador bizantino prohibió el culto a las imágenes religiosas en 726?",
+    "options": [
+      "León III",
+      "Justiniano II",
+      "Heraclio",
+      "Basilio I"
+    ],
+    "correctIndex": 0,
+    "explanation": "León III inició la crisis iconoclasta, que se prolongó hasta 843."
+  },
+  {
+    "id": "cg-3458",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué emperatriz bizantina restauró la veneración de los iconos en 843?",
+    "options": [
+      "Irene",
+      "Teodora",
+      "Ana de Saboya",
+      "Zoe Porfirogénita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Teodora, regente de Miguel III, puso fin a la iconoclasia con el Triunfo de la Ortodoxia."
+  },
+  {
+    "id": "cg-3459",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué emperador bizantino venció a los búlgaros en 1014 y recibió el apodo de Bulgaróctono?",
+    "options": [
+      "Alejo I Comneno",
+      "Constantino VII",
+      "Basilio II",
+      "Romano II"
+    ],
+    "correctIndex": 2,
+    "explanation": "Basilio II destruyó el ejército búlgaro y restauró la hegemonía bizantina en los Balcanes."
+  },
+  {
+    "id": "cg-3460",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué califa abasí fundó Bagdad en 762?",
+    "options": [
+      "Harún al-Rashid",
+      "Al-Mamún",
+      "Al-Mutasim",
+      "Al-Mansur"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al-Mansur fundó la Ciudad Redonda y la convirtió en capital del califato abasí."
+  },
+  {
+    "id": "cg-3461",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué gobernante omeya proclamó el califato de Córdoba en 929?",
+    "options": [
+      "Abderramán III",
+      "Al-Hakam II",
+      "Hisham II",
+      "Almanzor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Abderramán III asumió el título de califa y rompió la dependencia teórica de Bagdad."
+  },
+  {
+    "id": "cg-3462",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué visir selyúcida fundó escuelas conocidas como nizamiyyas en el siglo XI?",
+    "options": [
+      "Ibn Sina",
+      "Nizam al-Mulk",
+      "Al-Ghazali",
+      "Al-Biruni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nizam al-Mulk promovió madrasas que difundieron el saber suní."
+  },
+  {
+    "id": "cg-3463",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué batalla de 1071 abrió Anatolia a los turcos selyúcidas?",
+    "options": [
+      "La batalla de Yarmuk",
+      "La batalla de Hattin",
+      "La batalla de Manzikert",
+      "La batalla de Kosovo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La derrota bizantina en Manzikert permitió la penetración turca en Anatolia."
+  },
+  {
+    "id": "cg-3464",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué batalla de 1187 permitió a Saladino recuperar Jerusalén?",
+    "options": [
+      "La batalla de Montgisard",
+      "La batalla de Acre",
+      "La batalla de Arsuf",
+      "La batalla de Hattin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Saladino destruyó el ejército cruzado en Hattin y tomó Jerusalén poco después."
+  },
+  {
+    "id": "cg-3465",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué sultán mameluco derrotó a los mongoles en Ain Yalut en 1260?",
+    "options": [
+      "Qutuz",
+      "Baibars",
+      "Saladino",
+      "Nur al-Din"
+    ],
+    "correctIndex": 0,
+    "explanation": "Qutuz detuvo la expansión mongola en Siria, aunque murió poco después."
+  },
+  {
+    "id": "cg-3466",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad fue saqueada por los cruzados en 1204 durante la Cuarta Cruzada?",
+    "options": [
+      "Jerusalén",
+      "Constantinopla",
+      "Acre",
+      "Alejandría"
+    ],
+    "correctIndex": 1,
+    "explanation": "El saqueo de Constantinopla creó el Imperio latino de Oriente."
+  },
+  {
+    "id": "cg-3467",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué rey francés reinó entre 1226 y 1270 y fue canonizado como san Luis?",
+    "options": [
+      "Luis VIII",
+      "Felipe IV",
+      "Luis IX",
+      "Carlos V"
+    ],
+    "correctIndex": 2,
+    "explanation": "Luis IX dirigió dos cruzadas y reforzó la autoridad real y la justicia."
+  },
+  {
+    "id": "cg-3468",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué rey inglés fue derrotado por los escoceses en Bannockburn en 1314?",
+    "options": [
+      "Eduardo I",
+      "Enrique III",
+      "Ricardo II",
+      "Eduardo II"
+    ],
+    "correctIndex": 3,
+    "explanation": "Roberto I de Escocia venció a Eduardo II y consolidó la independencia escocesa."
+  },
+  {
+    "id": "cg-3469",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué guerra civil inglesa del siglo XV enfrentó a las casas de Lancaster y York?",
+    "options": [
+      "La guerra de las Dos Rosas",
+      "La guerra de los Cien Años",
+      "La rebelión de Wat Tyler",
+      "La guerra de los Obispos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La guerra de las Dos Rosas terminó con la victoria de Enrique VII en Bosworth."
+  },
+  {
+    "id": "cg-3470",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué batalla de 1346 mostró la eficacia del arco largo inglés frente a los franceses?",
+    "options": [
+      "La batalla de Agincourt",
+      "La batalla de Crécy",
+      "La batalla de Poitiers",
+      "La batalla de Bouvines"
+    ],
+    "correctIndex": 1,
+    "explanation": "En Crécy Eduardo III derrotó a la caballería francesa con arqueros y cañones incipientes."
+  },
+  {
+    "id": "cg-3471",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué reformador bohemio fue condenado y quemado en Constanza en 1415?",
+    "options": [
+      "John Wycliffe",
+      "Martín Lutero",
+      "Jan Hus",
+      "Pedro Valdo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jan Hus criticó abusos eclesiásticos y murió ejecutado pese al salvoconducto imperial."
+  },
+  {
+    "id": "cg-3472",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué concilio reunido entre 1414 y 1418 puso fin al Cisma de Occidente?",
+    "options": [
+      "El Concilio de Trento",
+      "El Concilio de Basilea",
+      "El Concilio de Letrán",
+      "El Concilio de Constanza"
+    ],
+    "correctIndex": 3,
+    "explanation": "Constanza depuso a los papas rivales y eligió a Martín V."
+  },
+  {
+    "id": "cg-3473",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué emperador del Sacro Imperio esperó descalzo en Canossa en 1077 para obtener el perdón papal?",
+    "options": [
+      "Enrique IV",
+      "Federico Barbarroja",
+      "Otón I",
+      "Conrado III"
+    ],
+    "correctIndex": 0,
+    "explanation": "Enrique IV buscó levantar la excomunión de Gregorio VII durante la Querella de las Investiduras."
+  },
+  {
+    "id": "cg-3474",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué papa se enfrentó a Enrique IV en la Querella de las Investiduras?",
+    "options": [
+      "Inocencio III",
+      "Gregorio VII",
+      "Urbano II",
+      "Alejandro III"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gregorio VII defendió la primacía papal y prohibió las investiduras laicas."
+  },
+  {
+    "id": "cg-3475",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué concordato de 1122 resolvió el conflicto entre el papado y el Imperio por las investiduras?",
+    "options": [
+      "La Paz de Augsburgo",
+      "El Tratado de Verdún",
+      "El Concordato de Worms",
+      "La Bula de Oro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Worms distinguió la investidura espiritual de la temporal y calmó la disputa."
+  },
+  {
+    "id": "cg-3476",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué orden monástica se expandió con Bernardo de Claraval en el siglo XII?",
+    "options": [
+      "Los franciscanos",
+      "Los dominicos",
+      "Los agustinos",
+      "Los cistercienses"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los cistercienses buscaron una observancia estricta de la regla benedictina."
+  },
+  {
+    "id": "cg-3477",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué monje fundó la orden benedictina en Montecasino hacia 529?",
+    "options": [
+      "Benito de Nursia",
+      "Bernardo de Claraval",
+      "Francisco de Asís",
+      "Agustín de Canterbury"
+    ],
+    "correctIndex": 0,
+    "explanation": "La regla de san Benito organizó la vida monástica en torno a la oración y el trabajo."
+  },
+  {
+    "id": "cg-3478",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué tratado de 843 dividió el Imperio carolingio entre los nietos de Carlomagno?",
+    "options": [
+      "El Tratado de Worms",
+      "El Tratado de Verdún",
+      "El Tratado de Ribemont",
+      "La Paz de Constanza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Verdún separó los territorios de Lotario, Luis el Germánico y Carlos el Calvo."
+  },
+  {
+    "id": "cg-3479",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué rey franco se convirtió al catolicismo en Reims hacia el año 496?",
+    "options": [
+      "Childerico I",
+      "Dagoberto I",
+      "Clodoveo",
+      "Carlos Martel"
+    ],
+    "correctIndex": 2,
+    "explanation": "Clodoveo, rey de los francos, recibió el bautismo y fortaleció la alianza con la Iglesia."
+  },
+  {
+    "id": "cg-3480",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué dinastía franca gobernó entre 751 y 987?",
+    "options": [
+      "La dinastía merovingia",
+      "La dinastía capeta",
+      "La dinastía valois",
+      "La dinastía carolingia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pipino el Breve inauguró la dinastía carolingia, destronada luego por los capetos."
+  },
+  {
+    "id": "cg-3481",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué mayordomo de palacio franco detuvo a los musulmanes en Poitiers en 732?",
+    "options": [
+      "Carlos Martel",
+      "Pipino el Breve",
+      "Carlomagno",
+      "Clodoveo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Carlos Martel consolidó el poder de los francos y frenó la expansión omeya."
+  },
+  {
+    "id": "cg-3482",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué emperador bizantino reconquistó partes de Italia y el norte de África en el siglo VI?",
+    "options": [
+      "Heraclio",
+      "Justiniano I",
+      "Constantino V",
+      "Alejo I Comneno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Justiniano lanzó campañas dirigidas por Belisario y Narsés para restaurar el imperio."
+  },
+  {
+    "id": "cg-3483",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué rey vándalo saqueó Roma en 455?",
+    "options": [
+      "Alarico",
+      "Atila",
+      "Genserico",
+      "Odoacro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Genserico aprovechó el caos para saquear Roma durante dos semanas."
+  },
+  {
+    "id": "cg-3484",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué general bizantino reconquistó el norte de África y parte de Italia bajo Justiniano?",
+    "options": [
+      "Narsés",
+      "Heraclio",
+      "Juan Tzimisces",
+      "Belisario"
+    ],
+    "correctIndex": 3,
+    "explanation": "Belisario venció a los vándalos y a los ostrogodos en nombre de Justiniano."
+  },
+  {
+    "id": "cg-3485",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué último emperador romano de Occidente fue depuesto en 476?",
+    "options": [
+      "Rómulo Augústulo",
+      "Julio Nepote",
+      "Rómulo II",
+      "Mayoriano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Odoacro depuso a Rómulo Augústulo y gobernó Italia sin título imperial."
+  },
+  {
+    "id": "cg-3486",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué pueblo germánico se estableció en la Galia y dio nombre a Francia?",
+    "options": [
+      "Los visigodos",
+      "Los francos",
+      "Los ostrogodos",
+      "Los sajones"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los francos unificaron la Galia bajo Clodoveo y sus sucesores."
+  },
+  {
+    "id": "cg-3487",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué pueblo germánico ocupó el norte de África en el siglo V?",
+    "options": [
+      "Los lombardos",
+      "Los alanos",
+      "Los vándalos",
+      "Los bretos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los vándalos cruzaron a África y fundaron un reino con capital en Cartago."
+  },
+  {
+    "id": "cg-3488",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué batalla de 378 supuso una grave derrota romana ante los godos?",
+    "options": [
+      "La batalla de Estrasburgo",
+      "La batalla del río Frígido",
+      "La batalla de Milvio",
+      "La batalla de Adrianópolis"
+    ],
+    "correctIndex": 3,
+    "explanation": "En Adrianópolis murió el emperador Valente y se reveló la debilidad romana ante los godos."
+  },
+  {
+    "id": "cg-3489",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué emperador romano murió en 363 durante una campaña contra Persia?",
+    "options": [
+      "Juliano",
+      "Joviano",
+      "Valente",
+      "Constantino"
+    ],
+    "correctIndex": 0,
+    "explanation": "Juliano, llamado el Apóstata, murió en Mesopotamia durante la retirada."
+  },
+  {
+    "id": "cg-3490",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué emperador romano convirtió el cristianismo niceno en religión oficial con el Edicto de Tesalónica de 380?",
+    "options": [
+      "Constantino",
+      "Teodosio I",
+      "Graciano",
+      "Honorio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Teodosio I impuso el cristianismo niceno como religión del imperio."
+  },
+  {
+    "id": "cg-3491",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué reparto del Imperio romano se produjo a la muerte de Teodosio en 395?",
+    "options": [
+      "Arcadio recibió Occidente y Honorio Oriente",
+      "Graciano recibió Occidente y Teodosio Oriente",
+      "Honorio recibió Occidente y Arcadio Oriente",
+      "Valentiniano III recibió Occidente y Arcadio Oriente"
+    ],
+    "correctIndex": 2,
+    "explanation": "El reparto de 395 consolidó la división permanente entre las dos mitades del imperio."
+  },
+  {
+    "id": "cg-3492",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué líder godo saqueó Roma en 410?",
+    "options": [
+      "Teodorico",
+      "Atila",
+      "Genserico",
+      "Alarico"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alarico tomó Roma en 410, un golpe simbólico para el imperio."
+  },
+  {
+    "id": "cg-3493",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué rey sasánida fue derrotado por Heraclio en 627?",
+    "options": [
+      "Cosroes II",
+      "Sapor I",
+      "Kavad II",
+      "Yazdegerd III"
+    ],
+    "correctIndex": 0,
+    "explanation": "La victoria bizantina en Nínive obligó a Persia a devolver los territorios conquistados."
+  },
+  {
+    "id": "cg-3494",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué dinastía persa gobernó entre 224 y 651 d. C.?",
+    "options": [
+      "La dinastía aqueménida",
+      "La dinastía sasánida",
+      "La dinastía parta",
+      "La dinastía safávida"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los sasánidas restauraron el poder persa y rivalizaron con Roma y Bizancio."
+  },
+  {
+    "id": "cg-3495",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué dinastía irania precedió a los sasánidas?",
+    "options": [
+      "La dinastía aqueménida",
+      "La dinastía seléucida",
+      "La dinastía parta",
+      "La dinastía timúrida"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los partos arsácidas dominaron Irán entre el siglo III a. C. y el 224 d. C."
+  },
+  {
+    "id": "cg-3496",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué rey persa fue derrotado en Maratón en 490 a. C.?",
+    "options": [
+      "Jerjes I",
+      "Artajerjes I",
+      "Ciro el Joven",
+      "Darío I"
+    ],
+    "correctIndex": 3,
+    "explanation": "El ejército de Darío I fue vencido por los atenienses y plateos en Maratón."
+  },
+  {
+    "id": "cg-3497",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué batalla naval de 480 a. C. permitió a los griegos destruir la flota persa?",
+    "options": [
+      "La batalla de Salamina",
+      "La batalla de Micala",
+      "La batalla de Artemisio",
+      "La batalla de Egospótamos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La flota griega de Temístocles destruyó la persa en el estrecho de Salamina."
+  },
+  {
+    "id": "cg-3498",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué general ateniense dirigió la flota griega en Salamina?",
+    "options": [
+      "Milcíades",
+      "Temístocles",
+      "Aristides",
+      "Cimón"
+    ],
+    "correctIndex": 1,
+    "explanation": "Temístocles convenció a los aliados de combatir en el estrecho de Salamina."
+  },
+  {
+    "id": "cg-3499",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué rey espartano murió con sus hombres en las Termópilas en 480 a. C.?",
+    "options": [
+      "Pausanias",
+      "Cleómenes",
+      "Leónidas",
+      "Arquidamo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Leónidas I comandó la retaguardia griega en el desfiladero de las Termópilas."
+  },
+  {
+    "id": "cg-3500",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué general ateniense murió en la desastrosa expedición a Sicilia en 413 a. C.?",
+    "options": [
+      "Alcibíades",
+      "Demóstenes de Atenas",
+      "Lámaco",
+      "Nicias"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nicias fue ejecutado tras la derrota ateniense en Siracusa."
+  },
+  {
+    "id": "cg-3501",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué político y general ateniense cambió de bando y aconsejó a Esparta durante la guerra del Peloponeso?",
+    "options": [
+      "Alcibíades",
+      "Pericles",
+      "Nicias",
+      "Terámenes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alcibíades cambió de bando varias veces durante la guerra del Peloponeso."
+  },
+  {
+    "id": "cg-3502",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo griego fundó la Academia de Atenas?",
+    "options": [
+      "Aristóteles",
+      "Platón",
+      "Sócrates",
+      "Jenócrates"
+    ],
+    "correctIndex": 1,
+    "explanation": "Platón fundó la Academia hacia 387 a. C. y enseñó allí varias décadas."
+  },
+  {
+    "id": "cg-3503",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué filósofo griego fundó el Liceo de Atenas?",
+    "options": [
+      "Platón",
+      "Teofrasto",
+      "Aristóteles",
+      "Epicuro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aristóteles fundó el Liceo, donde enseñó y desarrolló la lógica y la biología."
+  },
+  {
+    "id": "cg-3504",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué matemático griego calculó la circunferencia de la Tierra en el siglo III a. C.?",
+    "options": [
+      "Ptolomeo",
+      "Hiparco",
+      "Euclides",
+      "Eratóstenes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Eratóstenes comparó la sombra en Alejandría y Siena para estimar el tamaño terrestre."
+  },
+  {
+    "id": "cg-3505",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué matemático de Siracusa diseñó máquinas de asedio y estudió la flotación?",
+    "options": [
+      "Arquímedes",
+      "Euclides",
+      "Apolonio de Pérgamo",
+      "Herón de Alejandría"
+    ],
+    "correctIndex": 0,
+    "explanation": "Arquímedes formuló el principio de flotación y colaboró en la defensa de Siracusa."
+  },
+  {
+    "id": "cg-3506",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué rey de Macedonia fue asesinado en 336 a. C. y dejó el trono a Alejandro?",
+    "options": [
+      "Alejandro I",
+      "Filipo II",
+      "Perdicas III",
+      "Antígono"
+    ],
+    "correctIndex": 1,
+    "explanation": "Filipo II unificó Grecia y preparó la invasión de Persia antes de morir asesinado."
+  },
+  {
+    "id": "cg-3507",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué general de Alejandro fundó la dinastía ptolemaica en Egipto?",
+    "options": [
+      "Seleuco I",
+      "Antígono Monoftalmo",
+      "Ptolomeo I",
+      "Lisímaco"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ptolomeo I Sóter se proclamó rey de Egipto y fundó una dinastía que duró hasta Cleopatra."
+  },
+  {
+    "id": "cg-3508",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué general de Alejandro fundó la dinastía seléucida en Siria y Asia?",
+    "options": [
+      "Ptolomeo I",
+      "Casandro",
+      "Eumenes",
+      "Seleuco I"
+    ],
+    "correctIndex": 3,
+    "explanation": "Seleuco I Nicátor creó un vasto reino helenístico con capital en Antioquía."
+  },
+  {
+    "id": "cg-3509",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad egipcia albergó una biblioteca y un museo que fueron centros del saber helenístico?",
+    "options": [
+      "Alejandría",
+      "Menfis",
+      "Tebas",
+      "Pérgamo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La biblioteca de Alejandría reunió obras griegas, egipcias y orientales."
+  },
+  {
+    "id": "cg-3510",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué orador ateniense atacó a Filipo II en sus discursos llamados Filípicas?",
+    "options": [
+      "Esquines",
+      "Demóstenes",
+      "Isócrates",
+      "Lisias"
+    ],
+    "correctIndex": 1,
+    "explanation": "Demóstenes advirtió del peligro macedonio y defendió la libertad de las ciudades griegas."
+  },
+  {
+    "id": "cg-3511",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad de Asia Menor fue capital de un reino helenístico famoso por su biblioteca?",
+    "options": [
+      "Éfeso",
+      "Mileto",
+      "Pérgamo",
+      "Rodas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pérgamo compitió con Alejandría como centro cultural y desarrolló la técnica del pergamino."
+  },
+  {
+    "id": "cg-3512",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué rey de Pérgamo legó su reino a Roma en 133 a. C.?",
+    "options": [
+      "Átalo I",
+      "Eumenes II",
+      "Prusias",
+      "Átalo III"
+    ],
+    "correctIndex": 3,
+    "explanation": "Átalo III dejó su reino a Roma, que lo convirtió en la provincia de Asia."
+  },
+  {
+    "id": "cg-3513",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué esclavo tracio lideró una gran revuelta en Italia entre 73 y 71 a. C.?",
+    "options": [
+      "Espartaco",
+      "Eunus",
+      "Crixo",
+      "Salvio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Espartaco reunió un ejército de esclavos y derrotó varias veces a las legiones."
+  },
+  {
+    "id": "cg-3514",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué emperador romano reconstruyó Roma tras el incendio del año 64?",
+    "options": [
+      "Vespasiano",
+      "Nerón",
+      "Tito",
+      "Domiciano"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nerón impulsó la reconstrucción de Roma y construyó su Domus Aurea."
+  },
+  {
+    "id": "cg-3515",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué dinastía romana sucedió a los Flavios y gobernó hasta 192?",
+    "options": [
+      "La dinastía severa",
+      "La dinastía julio-claudia",
+      "La dinastía nerva-antonina",
+      "La tetrarquía"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nerva inauguró en 96 una serie de emperadores adoptivos que llegó hasta Cómodo."
+  },
+  {
+    "id": "cg-3516",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué emperador romano fue autor de las Meditaciones?",
+    "options": [
+      "Séneca",
+      "Epicteto",
+      "Adriano",
+      "Marco Aurelio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Marco Aurelio anotó sus reflexiones estoicas durante sus campañas militares."
+  },
+  {
+    "id": "cg-3517",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué emperador romano construyó un muro en el norte de Britania hacia 142?",
+    "options": [
+      "Antonino Pío",
+      "Adriano",
+      "Trajano",
+      "Cómodo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El muro de Antonino se levantó más al norte que el de Adriano, entre los fiordos de Forth y Clyde."
+  },
+  {
+    "id": "cg-3518",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué obispo de Milán ejerció gran influencia sobre el emperador Teodosio?",
+    "options": [
+      "Agustín",
+      "Ambrosio",
+      "Jerónimo",
+      "Dámaso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ambrosio obligó a Teodosio a hacer penitencia por la matanza de Tesalónica."
+  },
+  {
+    "id": "cg-3519",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué concilio de 451 definió las dos naturalezas de Cristo y condenó a Eutiques?",
+    "options": [
+      "El Concilio de Nicea",
+      "El Concilio de Éfeso",
+      "El Concilio de Calcedonia",
+      "El Concilio de Constantinopla II"
+    ],
+    "correctIndex": 2,
+    "explanation": "Calcedonia afirmó que Cristo es una persona con dos naturalezas, divina y humana."
+  },
+  {
+    "id": "cg-3520",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué doctrina cristiana negaba la consustancialidad del Hijo y fue condenada en Nicea?",
+    "options": [
+      "El nestorianismo",
+      "El monofisismo",
+      "El iconoclasmo",
+      "El arrianismo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Arrio sostenía que el Hijo era creado y subordinado al Padre."
+  },
+  {
+    "id": "cg-3521",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué emperador bizantino ordenó construir la basílica de Santa Sofía?",
+    "options": [
+      "Justiniano I",
+      "Teodosio II",
+      "Heraclio",
+      "Basilio II"
+    ],
+    "correctIndex": 0,
+    "explanation": "Santa Sofía se completó en 537 y fue durante siglos la mayor iglesia cristiana."
+  },
+  {
+    "id": "cg-3522",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué emperador bizantino fundó la dinastía macedónica en 867?",
+    "options": [
+      "León VI",
+      "Basilio I",
+      "Romano I",
+      "Niceforo II"
+    ],
+    "correctIndex": 1,
+    "explanation": "Basilio I, de origen campesino, fundó una dinastía que gobernó casi dos siglos."
+  },
+  {
+    "id": "cg-3523",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué patriarca de Constantinopla fue excomulgado en el cisma de 1054?",
+    "options": [
+      "Focio",
+      "Ignacio",
+      "Miguel Cerulario",
+      "Eustaquio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Miguel Cerulario y el legado Humberto de Silva Candida se excomulgaron mutuamente."
+  },
+  {
+    "id": "cg-3524",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué rey de Hungría fundó el estado cristiano hacia el año 1000 y fue canonizado?",
+    "options": [
+      "Ladislao I",
+      "Colomán",
+      "Andrés II",
+      "Esteban I"
+    ],
+    "correctIndex": 3,
+    "explanation": "Esteban I recibió la corona de Roma y organizó diócesis y leyes en Hungría."
+  },
+  {
+    "id": "cg-3525",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué rey noruego murió en Stamford Bridge en 1066 al intentar conquistar Inglaterra?",
+    "options": [
+      "Harald Hardrada",
+      "Olaf II",
+      "Sverre",
+      "Magnus I"
+    ],
+    "correctIndex": 0,
+    "explanation": "Harald Hardrada cayó en Stamford Bridge ante Harold Godwinson días antes de Hastings."
+  },
+  {
+    "id": "cg-3526",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué batalla de 1066 dio a Guillermo de Normandía el trono de Inglaterra?",
+    "options": [
+      "La batalla de Stamford Bridge",
+      "La batalla de Hastings",
+      "La batalla de Fulford",
+      "La batalla de Tinchebray"
+    ],
+    "correctIndex": 1,
+    "explanation": "Guillermo derrotó y mató a Harold Godwinson en Hastings."
+  },
+  {
+    "id": "cg-3527",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué registro ordenado por Guillermo I en 1086 inventarió tierras y propiedades de Inglaterra?",
+    "options": [
+      "La Carta Magna",
+      "El Libro de los Feudos",
+      "El Domesday Book",
+      "El Registro de Winchester"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Domesday Book permitió al rey conocer y gravar las riquezas del reino."
+  },
+  {
+    "id": "cg-3528",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué arzobispo de Canterbury fue asesinado en 1170 tras su conflicto con Enrique II?",
+    "options": [
+      "Anselmo de Canterbury",
+      "Stephen Langton",
+      "Lanfranco",
+      "Thomas Becket"
+    ],
+    "correctIndex": 3,
+    "explanation": "Becket se opuso a los privilegios reales sobre la Iglesia y fue canonizado poco después."
+  },
+  {
+    "id": "cg-3529",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué rey inglés perdió Normandía ante Felipe II de Francia en 1204?",
+    "options": [
+      "Juan sin Tierra",
+      "Enrique II",
+      "Ricardo I",
+      "Eduardo I"
+    ],
+    "correctIndex": 0,
+    "explanation": "Juan sin Tierra perdió Normandía, Anjou y Maine frente al rey francés."
+  },
+  {
+    "id": "cg-3530",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué batalla de 1214 consolidó el poder del rey francés Felipe II?",
+    "options": [
+      "La batalla de Muret",
+      "La batalla de Bouvines",
+      "La batalla de Las Navas de Tolosa",
+      "La batalla de Courtrai"
+    ],
+    "correctIndex": 1,
+    "explanation": "Felipe II venció a una coalición anglofamenca y afirmó la autoridad capeta."
+  },
+  {
+    "id": "cg-3531",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué rey francés reinó entre 1180 y 1223 y amplió notablemente el dominio real?",
+    "options": [
+      "Luis VII",
+      "Luis VIII",
+      "Felipe II Augusto",
+      "Carlos VII"
+    ],
+    "correctIndex": 2,
+    "explanation": "Felipe II Augusto triplicó el dominio real y organizó la administración capeta."
+  },
+  {
+    "id": "cg-3532",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué emperador del Sacro Imperio murió ahogado en 1190 durante la Tercera Cruzada?",
+    "options": [
+      "Enrique VI",
+      "Otón IV",
+      "Federico II",
+      "Federico Barbarroja"
+    ],
+    "correctIndex": 3,
+    "explanation": "Federico I Barbarroja se ahogó al cruzar un río en Anatolia."
+  },
+  {
+    "id": "cg-3533",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué cruzada fue dirigida por Ricardo Corazón de León y Felipe II Augusto?",
+    "options": [
+      "La Tercera Cruzada",
+      "La Primera Cruzada",
+      "La Segunda Cruzada",
+      "La Cuarta Cruzada"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Tercera Cruzada intentó recuperar Jerusalén tras la victoria de Saladino en Hattin."
+  },
+  {
+    "id": "cg-3534",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué rey inglés lideró la Tercera Cruzada y firmó una tregua con Saladino?",
+    "options": [
+      "Enrique II",
+      "Ricardo I",
+      "Juan sin Tierra",
+      "Eduardo I"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ricardo I negoció el acceso de peregrinos cristianos a Jerusalén tras no tomarla."
+  },
+  {
+    "id": "cg-3535",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué orden militar se fundó en Acre en 1198?",
+    "options": [
+      "Los Templarios",
+      "Los Hospitalarios",
+      "Los Caballeros Teutónicos",
+      "Los Caballeros de San Lázaro"
+    ],
+    "correctIndex": 2,
+    "explanation": "La orden teutónica surgió de un hospital alemán y luego se expandió por el Báltico."
+  },
+  {
+    "id": "cg-3536",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué rey de Francia ordenó el arresto masivo de los templarios en 1307?",
+    "options": [
+      "Luis IX",
+      "Felipe II",
+      "Carlos IV",
+      "Felipe IV"
+    ],
+    "correctIndex": 3,
+    "explanation": "Felipe IV el Hermoso buscó controlar el poder económico y político de la orden."
+  },
+  {
+    "id": "cg-3537",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué papa trasladó la sede pontificia a Aviñón en 1309?",
+    "options": [
+      "Clemente V",
+      "Bonifacio VIII",
+      "Juan XXII",
+      "Gregorio XI"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clemente V inició el periodo del papado de Aviñón, que duró hasta 1377."
+  },
+  {
+    "id": "cg-3538",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué dinastía bizantina recuperó Constantinopla en 1261?",
+    "options": [
+      "La dinastía Comnena",
+      "La dinastía de los Paleólogos",
+      "La dinastía Macedónica",
+      "La dinastía de los Ducas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Miguel VIII Paleólogo restauró el imperio en Constantinopla y fundó una dinastía duradera."
+  },
+  {
+    "id": "cg-3539",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué sultán otomano derrotó a los serbios en Kosovo en 1389?",
+    "options": [
+      "Bayaceto I",
+      "Orhan",
+      "Murad I",
+      "Selim I"
+    ],
+    "correctIndex": 2,
+    "explanation": "Murad I murió en la batalla, que abrió el dominio otomano sobre los Balcanes."
+  },
+  {
+    "id": "cg-3540",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué batalla de 1396 supuso una grave derrota de una coalición cruzada ante los otomanos?",
+    "options": [
+      "La batalla de Kosovo",
+      "La batalla de Varna",
+      "La batalla de Ankara",
+      "La batalla de Nicópolis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bayaceto I destruyó el ejército cruzado en Nicópolis, cerca del Danubio."
+  },
+  {
+    "id": "cg-3541",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué batalla de 1241 diezmó al ejército húngaro ante los mongoles?",
+    "options": [
+      "La batalla de Mohi",
+      "La batalla de Legnica",
+      "La batalla del río Kalka",
+      "La batalla de Liegnitz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los mongoles de Batu Kan derrotaron a los húngaros en Mohi y ocuparon parte del país."
+  },
+  {
+    "id": "cg-3542",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué kan mongol estableció la Horda de Oro en las estepas rusas?",
+    "options": [
+      "Hulagu",
+      "Batu Kan",
+      "Chagatai",
+      "Ogodei"
+    ],
+    "correctIndex": 1,
+    "explanation": "Batu Kan fundó la Horda de Oro, que dominó Rusia durante más de dos siglos."
+  },
+  {
+    "id": "cg-3543",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué nieto de Gengis Kan fundó el Ilkanato en Persia?",
+    "options": [
+      "Batu Kan",
+      "Kublai Kan",
+      "Hulagu",
+      "Möngke"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hulagu conquistó Bagdad en 1258 y estableció un kanato en Irán y Mesopotamia."
+  },
+  {
+    "id": "cg-3544",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué conquistador turco-mongol saqueó Bagdad en 1401 y derrotó a los otomanos en Ankara?",
+    "options": [
+      "Gengis Kan",
+      "Bayaceto I",
+      "Shah Rukh",
+      "Tamerlán"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tamerlán, o Timur, creó un imperio efímero desde Samarcanda hasta Anatolia."
+  },
+  {
+    "id": "cg-3545",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué dinastía china sucedió a los Yuan en 1368?",
+    "options": [
+      "La dinastía Ming",
+      "La dinastía Song",
+      "La dinastía Qing",
+      "La dinastía Tang"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zhu Yuanzhang expulsó a los mongoles y fundó la dinastía Ming."
+  },
+  {
+    "id": "cg-3546",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué almirante chino dirigió grandes expediciones por el océano Índico a comienzos del siglo XV?",
+    "options": [
+      "Zhang Qian",
+      "Zheng He",
+      "Wang Anshi",
+      "Yue Fei"
+    ],
+    "correctIndex": 1,
+    "explanation": "Zheng He comandó flotas Ming que llegaron al sudeste asiático, la India y África oriental."
+  },
+  {
+    "id": "cg-3547",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué emperador inca fue capturado y ejecutado por Pizarro en 1533?",
+    "options": [
+      "Huáscar",
+      "Manco Cápac",
+      "Atahualpa",
+      "Pachacútec"
+    ],
+    "correctIndex": 2,
+    "explanation": "Atahualpa fue ejecutado tras la captura en Cajamarca y el avance español hacia el Cuzco."
+  },
+  {
+    "id": "cg-3548",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad maya, situada en el actual Honduras, destacó por sus estelas y su dinastía real entre los siglos V y VIII?",
+    "options": [
+      "Tikal",
+      "Calakmul",
+      "Palenque",
+      "Copán"
+    ],
+    "correctIndex": 3,
+    "explanation": "Copán, en el actual Honduras, conserva un conjunto notable de esculturas y altares mayas."
+  },
+  {
+    "id": "cg-3549",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué faraón egipcio firmó hacia 1259 a. C. un tratado de paz con el rey hitita Hattusili III?",
+    "options": [
+      "Ramsés II",
+      "Tutmosis III",
+      "Amenhotep II",
+      "Merneptah"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tratado entre Ramsés II y Hattusili III es uno de los primeros acuerdos internacionales conocidos."
+  },
+  {
+    "id": "cg-3550",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 1274 a. C. enfrentó a egipcios e hititas en Siria?",
+    "options": [
+      "La batalla de Megido",
+      "La batalla de Kadesh",
+      "La batalla de Qarqar",
+      "La batalla de Pelusio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ramsés II y Muwatalli II chocaron en Kadesh; ambos bandos se atribuyeron la victoria."
+  },
+  {
+    "id": "cg-3551",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué mujer gobernó Egipto como faraón en la dinastía XVIII y construyó un templo en Deir el-Bahari?",
+    "options": [
+      "Nefertiti",
+      "Merneptah",
+      "Hatshepsut",
+      "Sobekneferu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hatshepsut asumió los atributos faraónicos y promovió el comercio hacia Punt."
+  },
+  {
+    "id": "cg-3552",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué capital fundó Akenatón en Egipto para el culto a Atón?",
+    "options": [
+      "Menfis",
+      "Tebas",
+      "Tanis",
+      "Amarna"
+    ],
+    "correctIndex": 3,
+    "explanation": "Amarna, llamada Akhetatón, fue abandonada tras la muerte de Akenatón."
+  },
+  {
+    "id": "cg-3553",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué grupo de invasores llegados por el Mediterráneo contribuyó al colapso del Imperio hitita hacia 1180 a. C.?",
+    "options": [
+      "Los pueblos del mar",
+      "Los medos",
+      "Los escitas",
+      "Los casitas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los pueblos del mar arrasaron ciudades del Mediterráneo oriental y debilitaron a los hititas."
+  },
+  {
+    "id": "cg-3554",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué pueblo mesopotámico creó el primer imperio conocido bajo Sargón?",
+    "options": [
+      "Los sumerios",
+      "Los acadios",
+      "Los amorreos",
+      "Los elamitas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sargón de Acad unificó ciudades sumerias y creó un imperio en el siglo XXIII a. C."
+  },
+  {
+    "id": "cg-3555",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué rey de Ur promulgó un código legal anterior al de Hammurabi?",
+    "options": [
+      "Gudea",
+      "Shulgi",
+      "Ur-Nammu",
+      "Entemena"
+    ],
+    "correctIndex": 2,
+    "explanation": "El código de Ur-Nammu, del siglo XXI a. C., incluye normas y compensaciones por daños."
+  },
+  {
+    "id": "cg-3556",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué rey asirio reunió en Nínive una gran biblioteca de tablillas de arcilla?",
+    "options": [
+      "Tiglath-Pileser III",
+      "Sargón II",
+      "Senaquerib",
+      "Asurbanipal"
+    ],
+    "correctIndex": 3,
+    "explanation": "La biblioteca de Asurbanipal conservó textos literarios y administrativos mesopotámicos."
+  },
+  {
+    "id": "cg-3557",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué rey asirio fundó la capital de Dur-Sharrukin?",
+    "options": [
+      "Sargón II",
+      "Asurbanipal",
+      "Senaquerib",
+      "Asurnasirpal II"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sargón II construyó Dur-Sharrukin cerca de Nínive a finales del siglo VIII a. C."
+  },
+  {
+    "id": "cg-3558",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué imperio adoptó el arameo como lengua administrativa en el siglo VI a. C.?",
+    "options": [
+      "El Imperio romano",
+      "El Imperio aqueménida",
+      "El Imperio maurya",
+      "El Imperio hitita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los persas aqueménidas usaron el arameo para comunicarse en un territorio muy extenso."
+  },
+  {
+    "id": "cg-3559",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué rey persa mandó construir la capital ceremonial de Persépolis?",
+    "options": [
+      "Ciro el Grande",
+      "Jerjes I",
+      "Darío I",
+      "Cambises II"
+    ],
+    "correctIndex": 2,
+    "explanation": "Darío I inició Persépolis, ampliada por Jerjes y Artajerjes."
+  },
+  {
+    "id": "cg-3560",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué camino persa unía Sardes, en Asia Menor, con Susa?",
+    "options": [
+      "La Vía Apia",
+      "La Ruta de la Seda",
+      "El Camino de los Reyes",
+      "El Camino Real"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Camino Real contaba con postas y relevos que aceleraban las comunicaciones imperiales."
+  },
+  {
+    "id": "cg-3561",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué dinastía india gobernó entre 320 y 550 d. C. y es asociada a un renacimiento científico y artístico?",
+    "options": [
+      "La dinastía Gupta",
+      "La dinastía Maurya",
+      "La dinastía Chola",
+      "La dinastía Kushan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bajo los Gupta florecieron las matemáticas, la astronomía y la literatura en sánscrito."
+  },
+  {
+    "id": "cg-3562",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué matemático indio del siglo V expuso en el Aryabhatiya que la Tierra gira sobre su eje?",
+    "options": [
+      "Brahmagupta",
+      "Aryabhata",
+      "Bhaskara I",
+      "Varahamihira"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aryabhata sistematizó cálculos astronómicos y defendió la rotación terrestre."
+  },
+  {
+    "id": "cg-3563",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué emperador Han expandió el imperio hacia Asia Central y abrió rutas comerciales?",
+    "options": [
+      "Gaozu",
+      "Wendi",
+      "Wu de Han",
+      "Guangwu"
+    ],
+    "correctIndex": 2,
+    "explanation": "El emperador Wu envió misiones a Asia Central y consolidó el control sobre las rutas occidentales."
+  },
+  {
+    "id": "cg-3564",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué dinastía china construyó el Gran Canal para unir el norte y el sur?",
+    "options": [
+      "La dinastía Zhou",
+      "La dinastía Han",
+      "La dinastía Song",
+      "La dinastía Sui"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los Sui unieron ríos y canales para transportar grano y tropas entre regiones."
+  },
+  {
+    "id": "cg-3565",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué emperador Tang reinó entre 626 y 649 y consolidó el poder imperial chino?",
+    "options": [
+      "Taizong",
+      "Gaozu",
+      "Xuanzong",
+      "Gaozong"
+    ],
+    "correctIndex": 0,
+    "explanation": "Taizong amplió el imperio y organizó una administración basada en exámenes."
+  },
+  {
+    "id": "cg-3566",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué mujer gobernó China como emperadora entre 690 y 705?",
+    "options": [
+      "Empress Dowager Cixi",
+      "Wu Zetian",
+      "Yang Guifei",
+      "Empress Liu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wu Zetian fundó la dinastía Zhou y promovió el budismo y la burocracia."
+  },
+  {
+    "id": "cg-3567",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué reformador chino del siglo XI impulsó un ambicioso programa de reformas fiscales y militares?",
+    "options": [
+      "Zhu Xi",
+      "Sima Guang",
+      "Wang Anshi",
+      "Ouyang Xiu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wang Anshi propuso reformas fiscales y militares que generaron fuerte oposición."
+  },
+  {
+    "id": "cg-3568",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué filósofo chino del siglo XII sistematizó el neoconfucianismo?",
+    "options": [
+      "Confucio",
+      "Mencius",
+      "Wang Yangming",
+      "Zhu Xi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Zhu Xi combinó el confucianismo con ideas metafísicas y educativas."
+  },
+  {
+    "id": "cg-3569",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué clan japonés estableció el shogunato en 1192?",
+    "options": [
+      "El clan Minamoto",
+      "El clan Taira",
+      "El clan Fujiwara",
+      "El clan Ashikaga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Minamoto no Yoritomo recibió el título de shogun y creó un gobierno militar en Kamakura."
+  },
+  {
+    "id": "cg-3570",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué fenómeno natural, interpretado como viento divino, ayudó a detener las invasiones mongolas de Japón en 1274 y 1281?",
+    "options": [
+      "Los terremotos",
+      "Los tifones",
+      "Las erupciones volcánicas",
+      "Las inundaciones"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los tifones destruyeron las flotas mongolas y fueron llamados kamikaze."
+  },
+  {
+    "id": "cg-3571",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué imperio africano medieval tuvo su capital en Niani y controló el comercio transahariano?",
+    "options": [
+      "El Imperio de Ghana",
+      "El Imperio songhai",
+      "El Imperio de Malí",
+      "El reino de Aksum"
+    ],
+    "correctIndex": 2,
+    "explanation": "Malí dominó las rutas del oro y la sal entre el Sahel y el norte de África."
+  },
+  {
+    "id": "cg-3572",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué rey de Malí peregrinó a La Meca en 1324 y distribuyó grandes cantidades de oro?",
+    "options": [
+      "Sundiata Keita",
+      "Askia Mohammed",
+      "Sonni Ali",
+      "Mansa Musa"
+    ],
+    "correctIndex": 3,
+    "explanation": "La peregrinación de Mansa Musa impresionó al mundo islámico por su riqueza."
+  },
+  {
+    "id": "cg-3573",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué ciudad del Sahel se convirtió en centro de comercio y estudios islámicos bajo Malí?",
+    "options": [
+      "Tombuctú",
+      "Gao",
+      "Kumbi Saleh",
+      "Djenné"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tombuctú albergó la mezquita de Djinguereber y importantes bibliotecas de manuscritos."
+  },
+  {
+    "id": "cg-3574",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué reino etíope medieval talló iglesias rupestres en Lalibela?",
+    "options": [
+      "El reino de Aksum",
+      "El reino de Zagüe",
+      "El imperio de Etiopía",
+      "El sultanato de Adal"
+    ],
+    "correctIndex": 1,
+    "explanation": "La dinastía Zagüe construyó once iglesias excavadas en la roca en Lalibela."
+  },
+  {
+    "id": "cg-3575",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué imperio de África occidental precedió a Malí y tuvo su capital en Kumbi Saleh?",
+    "options": [
+      "El Imperio de Malí",
+      "El Imperio de Kanem",
+      "El Imperio de Ghana",
+      "El reino de Benín"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Imperio de Ghana prosperó gracias al comercio de oro y sal entre los siglos VIII y XI."
+  },
+  {
+    "id": "cg-3576",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué cultura andina trazó las grandes figuras geométricas y animales conocidas como líneas de Nazca?",
+    "options": [
+      "La cultura moche",
+      "La cultura chavín",
+      "La cultura paracas",
+      "La cultura nazca"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los nazca dibujaron geoglifos en el desierto peruano entre los siglos I y VII."
+  },
+  {
+    "id": "cg-3577",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué cultura andina construyó Chan Chan en la costa norte del Perú?",
+    "options": [
+      "La cultura chimú",
+      "La cultura nazca",
+      "La cultura tiahuanaco",
+      "La cultura moche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chan Chan fue la capital del reino chimú y la mayor ciudad de adobe de América."
+  },
+  {
+    "id": "cg-3578",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué pueblo mesoamericano dominó el valle de Oaxaca y construyó Monte Albán?",
+    "options": [
+      "Los mixtecas",
+      "Los zapotecas",
+      "Los toltecas",
+      "Los purépechas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Monte Albán fue el centro político zapoteca desde el siglo V a. C."
+  },
+  {
+    "id": "cg-3579",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué ciudad fue capital de los toltecas en el valle de México?",
+    "options": [
+      "Teotihuacán",
+      "Xochicalco",
+      "Tula",
+      "Tenayuca"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tula, o Tollan, influyó en la arquitectura y el imaginario de los aztecas."
+  },
+  {
+    "id": "cg-3580",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué gobernante maya de Palenque dejó un templo funerario con una famosa máscara de jade?",
+    "options": [
+      "Yax Kuk Mo",
+      "Jasaw Chan Kawiil",
+      "Waxaklajuun Ubah Kawiil",
+      "Pakal el Grande"
+    ],
+    "correctIndex": 3,
+    "explanation": "K’inich Janaab Pakal I reinó en Palenque y fue enterrado en el Templo de las Inscripciones."
+  },
+  {
+    "id": "cg-3581",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué ciudad maya de Yucatán dominó la región tras el declive de Chichén Itzá?",
+    "options": [
+      "Mayapán",
+      "Uxmal",
+      "Tulum",
+      "Cobá"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mayapán fue la capital de una liga de señoríos mayas hasta su caída en el siglo XV."
+  },
+  {
+    "id": "cg-3582",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué emperador bizantino trasladó su residencia a Siracusa y fue asesinado en 668?",
+    "options": [
+      "Heraclio",
+      "Constante II",
+      "Justiniano II",
+      "León III"
+    ],
+    "correctIndex": 1,
+    "explanation": "Constante II gobernó desde Sicilia en sus últimos años y murió víctima de una conspiración."
+  },
+  {
+    "id": "cg-3583",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 636 arrebató Siria al Imperio bizantino?",
+    "options": [
+      "La batalla de Qadisiyya",
+      "La batalla de Nahavand",
+      "La batalla de Yarmuk",
+      "La batalla de Ajnadayn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los ejércitos árabes derrotaron a Heraclio en Yarmuk y consolidaron la conquista de Siria."
+  },
+  {
+    "id": "cg-3584",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué dinastía bizantina gobernó entre 867 y 1056?",
+    "options": [
+      "La dinastía Comnena",
+      "La dinastía Paleóloga",
+      "La dinastía Isáurica",
+      "La dinastía macedónica"
+    ],
+    "correctIndex": 3,
+    "explanation": "La dinastía macedónica impulsó una etapa de recuperación territorial y cultural."
+  },
+  {
+    "id": "cg-3585",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué estado bizantino sobrevivió en Asia Menor tras la toma de Constantinopla en 1204?",
+    "options": [
+      "El Imperio de Nicea",
+      "El Despotado de Epiro",
+      "El Imperio de Trebisonda",
+      "El Reino de Tesalónica"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Imperio de Nicea reunió a la élite bizantina y recuperó Constantinopla en 1261."
+  },
+  {
+    "id": "cg-3586",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué emperador de Nicea recuperó Constantinopla en 1261?",
+    "options": [
+      "Juan III Ducas Vatatzés",
+      "Miguel VIII Paleólogo",
+      "Teodoro I Láscaris",
+      "Andrónico II"
+    ],
+    "correctIndex": 1,
+    "explanation": "Miguel VIII entró en Constantinopla y restauró el Imperio bizantino."
+  },
+  {
+    "id": "cg-3587",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué caudillo búlgaro derrotó a los bizantinos en 811 y mató al emperador Nicéforo I?",
+    "options": [
+      "Simeón I",
+      "Boris I",
+      "Krum",
+      "Samuel"
+    ],
+    "correctIndex": 2,
+    "explanation": "Krum emboscó al ejército bizantino y convirtió la calavera de Nicéforo en copa."
+  },
+  {
+    "id": "cg-3588",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué dinastía islámica gobernó Egipto desde 969 y fundó El Cairo?",
+    "options": [
+      "La dinastía ayubí",
+      "La dinastía mameluca",
+      "La dinastía omeya",
+      "La dinastía fatimí"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los fatimíes, de confesión ismailí, crearon un califato rival en Egipto."
+  },
+  {
+    "id": "cg-3589",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué mezquita y universidad fundada en El Cairo en 970 es una de las más antiguas del mundo?",
+    "options": [
+      "Al-Azhar",
+      "La mezquita de Ibn Tulun",
+      "La mezquita de Amr",
+      "La mezquita de Al-Hakim"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al-Azhar se convirtió en un centro principal de enseñanza del islam suní."
+  },
+  {
+    "id": "cg-3590",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 1086 permitió a los almorávides derrotar a Alfonso VI de Castilla?",
+    "options": [
+      "La batalla de Fraga",
+      "La batalla de Sagrajas",
+      "La batalla de Uclés",
+      "La batalla de Alarcos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los almorávides cruzaron el estrecho y vencieron a Alfonso VI cerca de Badajoz en 1086."
+  },
+  {
+    "id": "cg-3591",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué dinastía bereber gobernó Marruecos y Al-Ándalus entre 1147 y 1269?",
+    "options": [
+      "La dinastía almorávide",
+      "La dinastía meriní",
+      "La dinastía almohade",
+      "La dinastía nazarí"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los almohades sustituyeron a los almorávides y promovieron una doctrina islámica rigurosa."
+  },
+  {
+    "id": "cg-3592",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 1212 supuso una gran derrota almohade en la península ibérica?",
+    "options": [
+      "La batalla de Sagrajas",
+      "La batalla de Alarcos",
+      "La batalla de Moclín",
+      "La batalla de Las Navas de Tolosa"
+    ],
+    "correctIndex": 3,
+    "explanation": "La coalición cristiana de Alfonso VIII venció al califa almohade Muhammad al-Nasir."
+  },
+  {
+    "id": "cg-3593",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué sultán mameluco expulsó a los cruzados de Acre en 1291?",
+    "options": [
+      "Al-Ashraf Jalil",
+      "Baibars",
+      "Qalawun",
+      "Qutuz"
+    ],
+    "correctIndex": 0,
+    "explanation": "La caída de Acre en 1291 puso fin a los estados cruzados en Tierra Santa."
+  },
+  {
+    "id": "cg-3594",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué viajero judío del siglo XII recorrió el Mediterráneo y dejó un libro de itinerarios?",
+    "options": [
+      "Abraham ibn Ezra",
+      "Benjamín de Tudela",
+      "Maimónides",
+      "Judá Halevi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Benjamín de Tudela describió comunidades judías desde la península ibérica hasta Oriente."
+  },
+  {
+    "id": "cg-3595",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué monje inglés del siglo VIII escribió la Historia ecclesiastica gentis Anglorum?",
+    "options": [
+      "Alcuino de York",
+      "Gildas",
+      "Beda el Venerable",
+      "Orderico Vital"
+    ],
+    "correctIndex": 2,
+    "explanation": "Beda narró la conversión de los anglos y la historia de Inglaterra hasta 731."
+  },
+  {
+    "id": "cg-3596",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué erudito anglosajón dirigió la escuela palatina de Carlomagno?",
+    "options": [
+      "Beda el Venerable",
+      "Eginardo",
+      "Rábano Mauro",
+      "Alcuino de York"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alcuino organizó la enseñanza en la corte carolingia e impulsó la escritura carolingia."
+  },
+  {
+    "id": "cg-3597",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué rey alemán fue coronado emperador en Roma en 962?",
+    "options": [
+      "Otón I",
+      "Enrique I",
+      "Conrado I",
+      "Otón III"
+    ],
+    "correctIndex": 0,
+    "explanation": "Otón I restauró el Imperio y vinculó la corona alemana al título imperial."
+  },
+  {
+    "id": "cg-3598",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué batalla de 955 detuvo definitivamente a los magiares en Europa central?",
+    "options": [
+      "La batalla de Pressburgo",
+      "La batalla de Lechfeld",
+      "La batalla de Augsburgo",
+      "La batalla de Merseburgo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Otón I derrotó a los magiares en Lechfeld y frenó sus incursiones hacia el oeste."
+  },
+  {
+    "id": "cg-3599",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué rey danés se convirtió al cristianismo hacia 965 y unificó el reino?",
+    "options": [
+      "Canuto el Grande",
+      "Sven Forkbeard",
+      "Harald Blåtand",
+      "Gorm el Viejo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Harald Bluetooth consolidó Dinamarca y dejó las piedras de Jelling."
+  },
+  {
+    "id": "cg-3600",
+    "category": "general",
+    "topic": "history_ancient_medieval",
+    "difficulty": "hard",
+    "question": "¿Qué duque polaco se convirtió al cristianismo en 966 y fundó la dinastía Piast?",
+    "options": [
+      "Boleslao I",
+      "Casimiro I",
+      "Vladislao I",
+      "Mieszko I"
+    ],
+    "correctIndex": 3,
+    "explanation": "El bautismo de Mieszko I integró Polonia en la cristiandad latina."
+  }
+]

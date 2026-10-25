@@ -70,6 +70,13 @@ export function useRoomState(
       .on('broadcast', { event: 'sync' }, () => {
         void refetch(true);
       })
+      .on('broadcast', { event: 'closed' }, () => {
+        if (!mounted.current) return;
+        useSessionStore.getState().setActiveRoom(null);
+        setState(null);
+        setLoading(false);
+        setError('La sala fue cerrada por el anfitrión.');
+      })
       .subscribe((status) => {
         if (mounted.current) setConnected(status === 'SUBSCRIBED');
       });

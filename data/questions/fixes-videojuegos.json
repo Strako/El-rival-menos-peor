@@ -1,0 +1,122 @@
+[
+  {
+    "id": "vg-0004",
+    "question": "¿Qué tipo de animal es Yoshi, el compañero de Mario?",
+    "reason": "No se identificaba a Yoshi ni su vínculo con la saga Mario."
+  },
+  {
+    "id": "vg-0009",
+    "question": "¿Cómo se llama el caballo de Link en la saga The Legend of Zelda?",
+    "reason": "Faltaba la franquicia para identificar al personaje Link."
+  },
+  {
+    "id": "vg-0010",
+    "question": "¿Qué Pokémon es la mascota más reconocida de la franquicia creada por Satoshi Tajiri?",
+    "reason": "«La franquicia» no tenía un antecedente claro en el enunciado."
+  },
+  {
+    "id": "vg-0011",
+    "question": "¿De qué tipo es Pikachu en los juegos de Pokémon?",
+    "reason": "«Tipo» podía interpretarse fuera del contexto de los Pokémon."
+  },
+  {
+    "id": "vg-0015",
+    "question": "¿Qué tipo de animal es Sonic, la mascota de Sega?",
+    "reason": "No se identificaba a Sonic ni su compañía."
+  },
+  {
+    "id": "vg-0027",
+    "question": "¿Qué personaje rosado de Nintendo absorbe a sus enemigos en sus juegos?",
+    "reason": "«Sus juegos» no tenía referente; se añade la compañía."
+  },
+  {
+    "id": "vg-0032",
+    "question": "¿Cómo se llama la técnica de bola de fuego de Ryu en Street Fighter?",
+    "reason": "No se nombraba la saga a la que pertenece Ryu."
+  },
+  {
+    "id": "vg-0040",
+    "question": "¿Qué consola portátil de Nintendo, lanzada originalmente en 2004, tiene dos pantallas?",
+    "reason": "La Nintendo 3DS también tiene dos pantallas; el año acota la respuesta."
+  },
+  {
+    "id": "vg-0047",
+    "question": "¿Qué robot azul de Capcom, que copia las armas de sus enemigos, protagoniza una saga de plataformas iniciada en 1987?",
+    "reason": "«La saga de Capcom» no identificaba una franquicia concreta."
+  },
+  {
+    "id": "vg-0049",
+    "question": "¿Qué personaje de Hudson Soft coloca bombas para abrirse camino en sus juegos?",
+    "reason": "«Sus juegos» no tenía referente; se añade la compañía creadora."
+  },
+  {
+    "id": "vg-0066",
+    "question": "¿Qué mando de Nintendo, introducido en 2006, funciona con sensores de movimiento?",
+    "reason": "Los Joy-Con también usan movimiento; el año acota el mando."
+  },
+  {
+    "id": "vg-0068",
+    "question": "¿Qué era un cartucho en las consolas de videojuegos de los años 80 y 90?",
+    "reason": "«Consolas antiguas» era vago; se concreta el tipo de consola y la época."
+  },
+  {
+    "id": "vg-0085",
+    "question": "¿Cuál es el subtítulo oficial de Zelda II, la secuela de The Legend of Zelda lanzada en 1987?",
+    "reason": "Faltaba identificar a qué juego correspondía «Zelda II» y su época."
+  },
+  {
+    "id": "vg-0105",
+    "question": "¿Qué consola comercializada en 1972 se considera la primera videoconsola doméstica?",
+    "reason": "«Primera» sin alcance temporal; se añade el año de comercialización."
+  },
+  {
+    "id": "vg-0110",
+    "question": "¿En qué año se lanzó la GameCube en Japón?",
+    "reason": "El año de lanzamiento variaba según la región; se concreta Japón."
+  },
+  {
+    "id": "vg-0112",
+    "question": "¿Qué personaje femenino debutó en la versión original de Street Fighter II, lanzada en 1991?",
+    "reason": "Cammy debutó en Super Street Fighter II; se acota a la versión original."
+  },
+  {
+    "id": "vg-0113",
+    "question": "¿Cómo se llama el dictador villano de Street Fighter II en las versiones occidentales?",
+    "reason": "El nombre cambia entre Japón y Occidente; se concreta la versión."
+  },
+  {
+    "id": "vg-0127",
+    "question": "¿Con qué nombre se conoció la saga Dragon Quest en Norteamérica antes de 2005?",
+    "reason": "«Hasta los años 2000» era impreciso; se concreta el país y el límite temporal."
+  },
+  {
+    "id": "vg-0138",
+    "question": "¿En qué año se lanzó F-Zero para Super Nintendo en Japón?",
+    "reason": "El año de lanzamiento variaba según la región; se concreta Japón."
+  },
+  {
+    "id": "vg-0150",
+    "question": "¿Qué consola de Sega lanzada en 1998 incluía un módem de serie para jugar en línea?",
+    "reason": "Faltaban la compañía y la época para acotar la consola."
+  },
+  {
+    "id": "vg-0166",
+    "question": "¿Quién compuso la banda sonora del Final Fantasy original de 1987?",
+    "reason": "La saga tiene varios compositores; se concreta la primera entrega."
+  },
+  {
+    "id": "vg-0249",
+    "question": "¿En qué año se lanzó la Xbox original en Norteamérica?",
+    "reason": "El año de lanzamiento variaba según la región; se concreta Norteamérica."
+  },
+  {
+    "id": "vg-0282",
+    "question": "En la saga The Witcher, ¿cómo se llama la hija adoptiva de Geralt de Rivia?",
+    "reason": "No se nombraba la franquicia del personaje Geralt."
+  },
+  {
+    "id": "vg-0316",
+    "question": "En la saga Uncharted, ¿cuál es el nombre real de Nathan Drake?",
+    "reason": "No se nombraba la franquicia del personaje Nathan Drake."
+  }
+]

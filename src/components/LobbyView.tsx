@@ -12,6 +12,8 @@ export function LobbyView({
   onStart,
   onCopy,
   onNotify,
+  onCloseRoom,
+  onLeave,
 }: {
   state: RoomState;
   busy: boolean;
@@ -19,6 +21,8 @@ export function LobbyView({
   onStart: () => Promise<void>;
   onCopy: (text: string, label: string) => void;
   onNotify: (message: string, tone?: 'error' | 'success' | 'info') => void;
+  onCloseRoom: () => void;
+  onLeave: () => void;
 }) {
   const [mode, setMode] = useState<GameMode>(state.room.mode);
   const [rounds, setRounds] = useState(state.room.maxRounds);
@@ -277,6 +281,21 @@ export function LobbyView({
                 </p>
               )}
             </div>
+
+            <div className="mt-6 border-t border-white/5 pt-5">
+              <Button
+                fullWidth
+                variant="danger"
+                onClick={onCloseRoom}
+                disabled={busy}
+              >
+                Cerrar sala
+              </Button>
+              <p className="mt-2 text-center text-[11px] leading-relaxed text-white/30">
+                Cierra la sala para todos y elimina su historial. Solo está disponible cuando
+                no hay una partida en curso.
+              </p>
+            </div>
           </Card>
         ) : (
           <Card className="p-6">
@@ -310,6 +329,15 @@ export function LobbyView({
               <span className="h-2 w-2 animate-pulse rounded-full bg-cyan-400" />
               Actualizándose en tiempo real
             </div>
+
+            <Button
+              variant="secondary"
+              fullWidth
+              className="mt-5"
+              onClick={onLeave}
+            >
+              Salir de la sala
+            </Button>
           </Card>
         )}
 

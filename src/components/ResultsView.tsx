@@ -16,10 +16,14 @@ export function ResultsView({
   state,
   busy,
   onRestart,
+  onCloseRoom,
+  onLeave,
 }: {
   state: RoomState;
   busy: boolean;
   onRestart: () => Promise<void>;
+  onCloseRoom: () => void;
+  onLeave: () => void;
 }) {
   const [celebrate, setCelebrate] = useState(true);
   const [restartOpen, setRestartOpen] = useState(false);
@@ -217,23 +221,35 @@ export function ResultsView({
             <>
               <p className="text-sm text-white/50">
                 La sala sigue abierta. Puedes cambiar el modo y los turnos antes de volver a
-                empezar.
+                empezar, o cerrarla para todos.
               </p>
-              <Button
-                className="mt-4"
-                size="lg"
-                onClick={() => setRestartOpen(true)}
-                disabled={busy}
-              >
-                Volver a jugar
-              </Button>
+              <div className="mt-4 flex flex-wrap justify-center gap-2">
+                <Button
+                  size="lg"
+                  onClick={() => setRestartOpen(true)}
+                  disabled={busy}
+                >
+                  Volver a jugar
+                </Button>
+                <Button
+                  variant="danger"
+                  size="lg"
+                  onClick={onCloseRoom}
+                  disabled={busy}
+                >
+                  Cerrar sala
+                </Button>
+              </div>
             </>
           ) : (
-            <div className="flex flex-col items-center gap-2">
+            <div className="flex flex-col items-center gap-3">
               <span className="h-2 w-2 animate-pulse rounded-full bg-cyan-400" />
               <p className="text-sm text-white/45">
                 Esperando al anfitrión para configurar la siguiente partida.
               </p>
+              <Button variant="secondary" onClick={onLeave}>
+                Salir de la sala
+              </Button>
             </div>
           )}
         </Card>

@@ -29,6 +29,7 @@ const ERROR_MESSAGES: Record<string, string> = {
   NOT_HOST: 'Solo el creador de la sala puede hacer esto.',
   ROOM_NOT_IN_LOBBY: 'La sala ya no está en la espera.',
   ROOM_NOT_FINISHED: 'La partida todavía no terminó.',
+  ROOM_IN_PROGRESS: 'No se puede cerrar la sala mientras haya una partida en curso con jugadores.',
   NOT_ENOUGH_PLAYERS: 'Faltan jugadores para comenzar.',
   NOT_ENOUGH_QUESTIONS: 'No hay preguntas suficientes para esta configuración.',
   INVALID_MODE: 'Modo de juego inválido.',
@@ -421,6 +422,22 @@ async function handleRoom(
     return ok(await getState(player.id, roomId));
   }
 
+  if (action === 'room.close') {
+    const { data, error } = await admin.rpc('rpc_close_room', {
+      p_host_id: player.id,
+      p_room_id: roomId,
+    });
+    if (error) throw error;
+
+    try {
+      await broadcastToTopic(`room:${roomId}`, 'closed', { roomId });
+    } catch (broadcastError) {
+      console.error('No se pudo avisar del cierre de sala:', broadcastError);
+    }
+
+    return ok(data ?? { closed: true });
+  }
+
   if (action === 'room.start') {
     const room = await getRoom(roomId);
     const startRpc = room.mode === 'race' ? 'rpc_start_race_game' : 'rpc_start_game';
@@ -713,7 +730,8 @@ function mapError(error: unknown): Response {
       known === 'RACE_TIME_EXPIRED' ||
       known === 'TIME_EXPIRED' ||
       known === 'INVITE_EXPIRED' ||
-      known === 'INVITE_NOT_PENDING'
+      known === 'INVITE_NOT_PENDING' ||
+      known === 'ROOM_IN_PROGRESS'
         ? 409
         : 400;
     return fail(known, status);

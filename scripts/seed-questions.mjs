@@ -16,9 +16,14 @@ import { createClient } from '@supabase/supabase-js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
-const questions = JSON.parse(
+const baseQuestions = JSON.parse(
   fs.readFileSync(path.join(ROOT, 'data', 'questions.json'), 'utf8'),
 );
+const extraFile = path.join(ROOT, 'data', 'questions', 'general-5000.json');
+const extraQuestions = fs.existsSync(extraFile)
+  ? JSON.parse(fs.readFileSync(extraFile, 'utf8'))
+  : [];
+const questions = [...baseQuestions, ...extraQuestions];
 
 const url = process.env.SUPABASE_URL;
 const secret =
@@ -40,6 +45,7 @@ const rows = questions.map((q) => ({
   external_id: q.id,
   category: q.category,
   difficulty: q.difficulty,
+  topic: q.topic ?? null,
   question: q.question,
   options: q.options,
   correct_index: q.correctIndex,

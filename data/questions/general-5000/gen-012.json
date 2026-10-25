@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-3861",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe el esqueleto fósil de Australopithecus afarensis hallado en Etiopía en 1974?",
+    "options": [
+      "Lucy",
+      "Selam",
+      "Ardi",
+      "Toumaï"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lucy fue descubierta por Donald Johanson y tiene unos 3,2 millones de años."
+  },
+  {
+    "id": "cg-3862",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra el monumento megalítico de Stonehenge?",
+    "options": [
+      "Irlanda",
+      "Reino Unido",
+      "Francia",
+      "Dinamarca"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stonehenge se alza en la llanura de Salisbury, en Inglaterra."
+  },
+  {
+    "id": "cg-3863",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué cultura prehispánica construyó la ciudadela de Machu Picchu en los Andes peruanos?",
+    "options": [
+      "Nazca",
+      "Moche",
+      "Inca",
+      "Tiahuanaco"
+    ],
+    "correctIndex": 2,
+    "explanation": "Machu Picchu fue erigida por los incas en el siglo XV, probablemente bajo Pachacútec."
+  },
+  {
+    "id": "cg-3864",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué arqueólogo británico descubrió la tumba del faraón Tutankamón en 1922?",
+    "options": [
+      "Flinders Petrie",
+      "Giovanni Belzoni",
+      "Theodore Davis",
+      "Howard Carter"
+    ],
+    "correctIndex": 3,
+    "explanation": "Howard Carter halló la tumba casi intacta en el Valle de los Reyes."
+  },
+  {
+    "id": "cg-3865",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué volcán sepultó las ciudades romanas de Pompeya y Herculano en el año 79?",
+    "options": [
+      "Vesubio",
+      "Etna",
+      "Estrómboli",
+      "Campi Flegrei"
+    ],
+    "correctIndex": 0,
+    "explanation": "La erupción del Vesubio cubrió Pompeya y Herculano con ceniza y piroclastos."
+  },
+  {
+    "id": "cg-3866",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra la antigua ciudad nabatea de Petra, tallada en acantilados de arenisca?",
+    "options": [
+      "Líbano",
+      "Jordania",
+      "Siria",
+      "Egipto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Petra fue capital del reino nabateo y destaca por su fachada llamada Al-Jazneh."
+  },
+  {
+    "id": "cg-3867",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe el ejército de figuras de arcilla que custodia la tumba de Qin Shi Huang, unificador de China?",
+    "options": [
+      "Guardia de Xi'an",
+      "Legión de Qin",
+      "Ejército de Terracota",
+      "Soldados de barro de Luoyang"
+    ],
+    "correctIndex": 2,
+    "explanation": "Miles de guerreros de terracota fueron enterrados junto al mausoleo del emperador Qin."
+  },
+  {
+    "id": "cg-3868",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué método de datación mide la desintegración del carbono-14 en restos orgánicos?",
+    "options": [
+      "Termoluminiscencia",
+      "Potasio-argón",
+      "Dendrocronología",
+      "Radiocarbono"
+    ],
+    "correctIndex": 3,
+    "explanation": "El radiocarbono permite fechar materiales orgánicos de hasta unos 50.000 años."
+  },
+  {
+    "id": "cg-3869",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué especie humana extinta habitó Europa y Asia occidental hasta hace unos 40.000 años?",
+    "options": [
+      "Homo neanderthalensis",
+      "Homo erectus",
+      "Homo floresiensis",
+      "Homo sapiens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los neandertales se extinguieron tras convivir con los humanos modernos."
+  },
+  {
+    "id": "cg-3870",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra la cueva de Lascaux, famosa por sus pinturas rupestres paleolíticas?",
+    "options": [
+      "España",
+      "Francia",
+      "Italia",
+      "Alemania"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lascaux, en la Dordoña francesa, conserva bisontes y caballos pintados hace unos 17.000 años."
+  },
+  {
+    "id": "cg-3871",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué arqueóloga británica dirigió el hallazgo de las huellas de homininos de Laetoli, en Tanzania?",
+    "options": [
+      "Gertrude Caton-Thompson",
+      "Kathleen Kenyon",
+      "Mary Leakey",
+      "Dorothy Garrod"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mary Leakey identificó en 1978 huellas de Australopithecus de 3,6 millones de años."
+  },
+  {
+    "id": "cg-3872",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué disciplina estudia de forma integral las sociedades humanas, su cultura y su evolución?",
+    "options": [
+      "Sociología",
+      "Etología",
+      "Paleontología",
+      "Antropología"
+    ],
+    "correctIndex": 3,
+    "explanation": "La antropología abarca dimensiones biológicas, culturales, lingüísticas y arqueológicas."
+  },
+  {
+    "id": "cg-3873",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué período prehistórico se caracteriza por el uso de piedra tallada y la caza de grandes animales?",
+    "options": [
+      "Paleolítico",
+      "Neolítico",
+      "Edad del Bronce",
+      "Calcolítico"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Paleolítico o Edad de la Piedra Antigua precede a la agricultura."
+  },
+  {
+    "id": "cg-3874",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué práctica del antiguo Egipto buscaba preservar el cuerpo para la vida después de la muerte?",
+    "options": [
+      "Cremación",
+      "Momificación",
+      "Inhumación en urnas",
+      "Exposición ritual"
+    ],
+    "correctIndex": 1,
+    "explanation": "La momificación egipcia combinaba desecación con natrón, resinas y vendas."
+  },
+  {
+    "id": "cg-3875",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿En qué continente se han hallado los fósiles de homininos más antiguos conocidos?",
+    "options": [
+      "Asia",
+      "Europa",
+      "África",
+      "Oceanía"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los homininos surgieron en África hace más de seis millones de años."
+  },
+  {
+    "id": "cg-3876",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué naturalista británico propuso la teoría de la evolución mediante selección natural en 1859?",
+    "options": [
+      "Alfred Russel Wallace",
+      "Gregor Mendel",
+      "Jean-Baptiste Lamarck",
+      "Charles Darwin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Darwin expuso la selección natural en El origen de las especies."
+  },
+  {
+    "id": "cg-3877",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué término arqueológico designa cualquier objeto fabricado o modificado por seres humanos?",
+    "options": [
+      "Artefacto",
+      "Ecofacto",
+      "Estrato",
+      "Matriz sedimentaria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los artefactos se distinguen de los ecofactos, que no fueron transformados deliberadamente."
+  },
+  {
+    "id": "cg-3878",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿En qué isla de Indonesia se descubrieron los fósiles de Homo erectus conocidos como hombre de Java?",
+    "options": [
+      "Sumatra",
+      "Java",
+      "Célebes",
+      "Bali"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eugène Dubois halló los fósiles en Trinil, junto al río Solo, en Java."
+  },
+  {
+    "id": "cg-3879",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué gran ciudad prehispánica del altiplano mexicano alberga las pirámides del Sol y de la Luna?",
+    "options": [
+      "Tikal",
+      "Monte Albán",
+      "Teotihuacán",
+      "Chichén Itzá"
+    ],
+    "correctIndex": 2,
+    "explanation": "Teotihuacán dominó el valle de México entre los siglos I y VII."
+  },
+  {
+    "id": "cg-3880",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué pueblo de Mesopotamia desarrolló la escritura cuneiforme hacia el 3200 a. C.?",
+    "options": [
+      "Acadios",
+      "Babilonios",
+      "Hititas",
+      "Sumerios"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los sumerios usaron cañas para imprimir signos en tablillas de arcilla."
+  },
+  {
+    "id": "cg-3881",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué faraón de la cuarta dinastía ordenó construir la Gran Pirámide de Guiza?",
+    "options": [
+      "Keops",
+      "Kefrén",
+      "Micerino",
+      "Zoser"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Gran Pirámide de Keops es la única maravilla antigua que sigue en pie."
+  },
+  {
+    "id": "cg-3882",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué rasgo distingue la cantería inca de muros como los de Sacsayhuamán?",
+    "options": [
+      "Ladrillos cocidos unidos con cal",
+      "Piedras encajadas sin mortero",
+      "Muros de adobe reforzados",
+      "Sillares soldados con plomo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los incas pulían bloques de formas irregulares que encajaban con enorme precisión."
+  },
+  {
+    "id": "cg-3883",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe la etapa prehistórica en que aparecen la agricultura y la ganadería?",
+    "options": [
+      "Paleolítico",
+      "Mesolítico",
+      "Neolítico",
+      "Edad de los Metales"
+    ],
+    "correctIndex": 2,
+    "explanation": "La revolución neolítica supuso el paso a economías productoras."
+  },
+  {
+    "id": "cg-3884",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿De qué aleación está hecho el bronce que da nombre a una edad prehistórica?",
+    "options": [
+      "Hierro y carbono",
+      "Oro y plata",
+      "Plomo y zinc",
+      "Cobre y estaño"
+    ],
+    "correctIndex": 3,
+    "explanation": "La metalurgia del bronce se difundió en Europa durante la Edad del Bronce."
+  },
+  {
+    "id": "cg-3885",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué arqueólogo alemán excavó las ruinas de Troya en la década de 1870?",
+    "options": [
+      "Heinrich Schliemann",
+      "Wilhelm Dörpfeld",
+      "Carl Blegen",
+      "Ernst Curtius"
+    ],
+    "correctIndex": 0,
+    "explanation": "Schliemann identificó en Hisarlik varias ciudades superpuestas, entre ellas la Troya II."
+  },
+  {
+    "id": "cg-3886",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad maya del norte de Yucatán destaca por la pirámide de Kukulkán?",
+    "options": [
+      "Uxmal",
+      "Chichén Itzá",
+      "Palenque",
+      "Copán"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Castillo o pirámide de Kukulkán muestra un efecto de sombra en los equinoccios."
+  },
+  {
+    "id": "cg-3887",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe la momia prehistórica hallada en 1991 en un glaciar de los Alpes tiroleses?",
+    "options": [
+      "Hombre de Tollund",
+      "Momia de Chinchorro",
+      "Ötzi",
+      "Kwäday Dän Ts'ìnchi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ötzi vivió hace unos 5.300 años y conserva ropa, equipo y tatuajes."
+  },
+  {
+    "id": "cg-3888",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué investigador francés descifró la escritura jeroglífica egipcia en 1822?",
+    "options": [
+      "Thomas Young",
+      "Michael Ventris",
+      "Henry Rawlinson",
+      "Jean-François Champollion"
+    ],
+    "correctIndex": 3,
+    "explanation": "Champollion aprovechó los nombres reales de la Piedra Rosetta."
+  },
+  {
+    "id": "cg-3889",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué pieza de basalto con tres escrituras permitió descifrar los jeroglíficos egipcios?",
+    "options": [
+      "Piedra Rosetta",
+      "Piedra de Palermo",
+      "Estela de Merneptah",
+      "Papiro de Ani"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Piedra Rosetta contiene textos en jeroglífico, demótico y griego."
+  },
+  {
+    "id": "cg-3890",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué especie de hominino se asocia con las primeras herramientas de piedra olduvayenses?",
+    "options": [
+      "Homo erectus",
+      "Homo habilis",
+      "Australopithecus africanus",
+      "Homo sapiens"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Homo habilis fabricó cantos tallados en Olduvai hace unos 2,5 millones de años."
+  },
+  {
+    "id": "cg-3891",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿De qué lengua procede el término arqueología, formado por las palabras archaios y logos?",
+    "options": [
+      "Latín",
+      "Árabe",
+      "Griego",
+      "Sánscrito"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arqueología significa etimológicamente estudio de lo antiguo."
+  },
+  {
+    "id": "cg-3892",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto y visir egipcio diseñó la pirámide escalonada de Saqqara para el faraón Zoser?",
+    "options": [
+      "Hemiunu",
+      "Senenmut",
+      "Amenhotep hijo de Hapu",
+      "Imhotep"
+    ],
+    "correctIndex": 3,
+    "explanation": "Imhotep fue divinizado tras su muerte como dios de la medicina."
+  },
+  {
+    "id": "cg-3893",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra el santuario neolítico de Göbekli Tepe, con pilares en forma de T?",
+    "options": [
+      "Turquía",
+      "Irak",
+      "Siria",
+      "Irán"
+    ],
+    "correctIndex": 0,
+    "explanation": "Göbekli Tepe, en el sureste de Anatolia, fue erigido hace unos 11.000 años."
+  },
+  {
+    "id": "cg-3894",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué cultura preincaica del sur de Perú trazó las grandes figuras geométricas y animales conocidas como líneas de Nazca?",
+    "options": [
+      "Moche",
+      "Nazca",
+      "Chimú",
+      "Paracas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las líneas de Nazca se hicieron retirando piedras oscuras para exponer el suelo claro."
+  },
+  {
+    "id": "cg-3895",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿En qué isla griega se encuentra el palacio minoico de Cnosos?",
+    "options": [
+      "Rodas",
+      "Chipre",
+      "Creta",
+      "Santorini"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cnosos fue el mayor centro palacial de la civilización minoica."
+  },
+  {
+    "id": "cg-3896",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué cultura de la Edad del Bronce se desarrolló en Creta y construyó grandes palacios como Cnosos?",
+    "options": [
+      "Micénica",
+      "Cicládica",
+      "Heládica",
+      "Minoica"
+    ],
+    "correctIndex": 3,
+    "explanation": "La civilización minoica floreció en Creta entre el 2000 y el 1450 a. C."
+  },
+  {
+    "id": "cg-3897",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué emperador romano inició la construcción del Coliseo en el siglo I?",
+    "options": [
+      "Vespasiano",
+      "Tito",
+      "Trajano",
+      "Nerón"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vespasiano comenzó el anfiteatro Flavio, inaugurado por Tito en el año 80."
+  },
+  {
+    "id": "cg-3898",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad romana de la bahía de Nápoles, sepultada por el Vesubio, es famosa por la Villa de los Papiros?",
+    "options": [
+      "Pompeya",
+      "Herculano",
+      "Estabia",
+      "Oplontis"
+    ],
+    "correctIndex": 1,
+    "explanation": "En Herculano se halló una biblioteca de papiros carbonizados."
+  },
+  {
+    "id": "cg-3899",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué disciplina se ocupa del estudio de las inscripciones grabadas en piedra, metal u otros soportes antiguos?",
+    "options": [
+      "Numismática",
+      "Papirología",
+      "Epigrafía",
+      "Paleografía"
+    ],
+    "correctIndex": 2,
+    "explanation": "La epigrafía interpreta textos inscritos, a menudo sobre monumentos públicos."
+  },
+  {
+    "id": "cg-3900",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué especialidad estudia los restos óseos humanos de yacimientos para inferir salud, dieta y movilidad?",
+    "options": [
+      "Zooarqueología",
+      "Etnoarqueología",
+      "Palinología",
+      "Bioarqueología"
+    ],
+    "correctIndex": 3,
+    "explanation": "La bioarqueología aplica métodos biológicos al registro esquelético humano."
+  },
+  {
+    "id": "cg-3901",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de utensilio de piedra, característico del Neolítico, se obtenía por pulido en lugar de talla?",
+    "options": [
+      "Hacha pulida",
+      "Bifaz achelense",
+      "Punta de flecha solutrense",
+      "Lasca olduvayense"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pulido de hachas y azuelas acompaña la deforestación y la agricultura neolítica."
+  },
+  {
+    "id": "cg-3902",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué cambio económico define la llamada revolución neolítica?",
+    "options": [
+      "Invención de la metalurgia del hierro",
+      "Paso de la caza-recolección a la agricultura y ganadería",
+      "Aparición de la escritura alfabética",
+      "Construcción de las primeras ciudades-estado"
+    ],
+    "correctIndex": 1,
+    "explanation": "La producción de alimentos permitió sedentarismo y crecimiento demográfico."
+  },
+  {
+    "id": "cg-3903",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué cereal fue uno de los primeros domesticados en el Creciente Fértil?",
+    "options": [
+      "Maíz",
+      "Arroz",
+      "Trigo",
+      "Mijo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El trigo esmeril y la cebada se cultivaron desde el Neolítico precerámico."
+  },
+  {
+    "id": "cg-3904",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué animal fue domesticado antes que las cabras y las ovejas, según la evidencia arqueológica?",
+    "options": [
+      "Cabra",
+      "Oveja",
+      "Buey",
+      "Perro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El perro desciende del lobo y aparece domesticado hace al menos 15.000 años."
+  },
+  {
+    "id": "cg-3905",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe la tumba egipcia de planta rectangular y techo plano, precursora de las pirámides?",
+    "options": [
+      "Mastaba",
+      "Hipogeo",
+      "Cenotafio",
+      "Zigurat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las mastabas de Saqqara precedieron a la pirámide escalonada de Zoser."
+  },
+  {
+    "id": "cg-3906",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué material recubría originalmente la Gran Pirámide de Guiza y hoy apenas se conserva?",
+    "options": [
+      "Basalto negro",
+      "Caliza blanca",
+      "Mármol gris",
+      "Arenisca roja"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un revestimiento de caliza pulida de Tura daba a la pirámide una superficie lisa."
+  },
+  {
+    "id": "cg-3907",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué civilización mesoamericana desarrolló la cuenta larga y un calendario solar de 365 días?",
+    "options": [
+      "Azteca",
+      "Olmeca",
+      "Maya",
+      "Zapoteca"
+    ],
+    "correctIndex": 2,
+    "explanation": "El calendario maya combinaba un ciclo ritual de 260 días con otro solar de 365."
+  },
+  {
+    "id": "cg-3908",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué capital del Imperio mexica yace hoy bajo el centro histórico de México?",
+    "options": [
+      "Texcoco",
+      "Tlacopan",
+      "Tlatelolco",
+      "Tenochtitlan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tenochtitlan se fundó en 1325 sobre islotes del lago de Texcoco."
+  },
+  {
+    "id": "cg-3909",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué conquistador español dirigió la toma de Tenochtitlan en 1521?",
+    "options": [
+      "Hernán Cortés",
+      "Francisco Pizarro",
+      "Pedro de Alvarado",
+      "Diego de Velázquez"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cortés sitió la capital mexica con aliados tlaxcaltecas y fuerzas indígenas."
+  },
+  {
+    "id": "cg-3910",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué sistema de cuerdas anudadas usaban los incas para registrar información?",
+    "options": [
+      "Códice maya",
+      "Quipu",
+      "Escritura pictográfica",
+      "Ábaco de madera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los quipus codificaban cantidades y posiblemente relatos mediante nudos y colores."
+  },
+  {
+    "id": "cg-3911",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué significado aproximado tiene el título egipcio faraón, asociado al palacio real?",
+    "options": [
+      "Hijo del sol",
+      "Señor de las Dos Tierras",
+      "Casa grande",
+      "Rey guerrero"
+    ],
+    "correctIndex": 2,
+    "explanation": "El término egipcio per-aa designaba el palacio y pasó a nombrar al soberano."
+  },
+  {
+    "id": "cg-3912",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué reina egipcia es retratada en el famoso busto de caliza hallado en Amarna y conservado en Berlín?",
+    "options": [
+      "Hatshepsut",
+      "Cleopatra VII",
+      "Nefertari",
+      "Nefertiti"
+    ],
+    "correctIndex": 3,
+    "explanation": "El busto de Nefertiti, esposa de Akenatón, se halló en el taller de Tutmosis."
+  },
+  {
+    "id": "cg-3913",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué faraón egipcio impulsó el culto exclusivo al disco solar Atón?",
+    "options": [
+      "Akenatón",
+      "Tutankamón",
+      "Ramsés II",
+      "Amenhotep III"
+    ],
+    "correctIndex": 0,
+    "explanation": "Akenatón trasladó la corte a Amarna y promovió un arte de formas naturalistas."
+  },
+  {
+    "id": "cg-3914",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué río fue el eje de la civilización del antiguo Egipto y de sus crecidas anuales?",
+    "options": [
+      "Éufrates",
+      "Nilo",
+      "Tigris",
+      "Jordán"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las crecidas del Nilo fertilizaban las tierras y marcaban el calendario agrícola."
+  },
+  {
+    "id": "cg-3915",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Sobre qué material escribían los escribas mesopotámicos con cañas en forma de cuña?",
+    "options": [
+      "Papiro",
+      "Pergamino",
+      "Tablillas de arcilla",
+      "Láminas de cobre"
+    ],
+    "correctIndex": 2,
+    "explanation": "La arcilla húmeda recibía las impresiones y luego se cocía o secaba."
+  },
+  {
+    "id": "cg-3916",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué rey de Babilonia promulgó un famoso código legal grabado en una estela de basalto?",
+    "options": [
+      "Nabucodonosor II",
+      "Sargón de Acad",
+      "Asurbanipal",
+      "Hammurabi"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Código de Hammurabi, del siglo XVIII a. C., recoge leyes y castigos."
+  },
+  {
+    "id": "cg-3917",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad mesopotámica tenía la puerta de Ishtar, hoy reconstruida en un museo de Berlín?",
+    "options": [
+      "Babilonia",
+      "Nínive",
+      "Ur",
+      "Uruk"
+    ],
+    "correctIndex": 0,
+    "explanation": "La puerta de Ishtar formaba parte de la muralla interior de Babilonia."
+  },
+  {
+    "id": "cg-3918",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿A qué ciudad antigua se atribuyen los legendarios Jardines Colgantes, una de las Siete Maravillas?",
+    "options": [
+      "Nínive",
+      "Babilonia",
+      "Alejandría",
+      "Éfeso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los jardines se atribuyen a Nabucodonosor II, aunque su existencia es debatida."
+  },
+  {
+    "id": "cg-3919",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué pueblo construyó el Templo Mayor dedicado a Huitzilopochtli y Tláloc en el centro de Tenochtitlan?",
+    "options": [
+      "Mayas",
+      "Toltecas",
+      "Mexicas",
+      "Mixtecas"
+    ],
+    "correctIndex": 2,
+    "explanation": "El recinto sagrado mexica se halla bajo el Zócalo de la Ciudad de México."
+  },
+  {
+    "id": "cg-3920",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué arqueólogo británico excavó el palacio de Cnosos en Creta a partir de 1900?",
+    "options": [
+      "Howard Carter",
+      "Austen Henry Layard",
+      "Leonard Woolley",
+      "Arthur Evans"
+    ],
+    "correctIndex": 3,
+    "explanation": "Evans identificó la civilización minoica y reconstruyó partes del palacio."
+  },
+  {
+    "id": "cg-3921",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe un resto de organismo antiguo conservado en roca o sedimento?",
+    "options": [
+      "Fósil",
+      "Artefacto",
+      "Mineral",
+      "Estratotipo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los fósiles pueden conservar huesos, conchas o impresiones de organismos."
+  },
+  {
+    "id": "cg-3922",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué rama de la antropología se dedica al estudio del lenguaje y su relación con la cultura?",
+    "options": [
+      "Antropología física",
+      "Antropología lingüística",
+      "Arqueología",
+      "Etnología"
+    ],
+    "correctIndex": 1,
+    "explanation": "La antropología lingüística analiza lenguas, discursos y prácticas comunicativas."
+  },
+  {
+    "id": "cg-3923",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué método de investigación antropológica se basa en la observación directa y la convivencia prolongada con una comunidad?",
+    "options": [
+      "Encuesta estadística",
+      "Experimento de laboratorio",
+      "Etnografía",
+      "Análisis de archivo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La etnografía produce descripciones densas a partir del trabajo de campo."
+  },
+  {
+    "id": "cg-3924",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué principio de la excavación arqueológica afirma que los estratos inferiores se depositaron antes que los superiores?",
+    "options": [
+      "Uniformitarismo",
+      "Asociación",
+      "Seriación",
+      "Superposición"
+    ],
+    "correctIndex": 3,
+    "explanation": "El principio de superposición es básico para ordenar cronológicamente los depósitos."
+  },
+  {
+    "id": "cg-3925",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué término designa el lugar donde se conservan restos arqueológicos y se realizan excavaciones?",
+    "options": [
+      "Yacimiento",
+      "Depósito",
+      "Cantera",
+      "Sondeo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un yacimiento puede ser un poblado, una necrópolis, una cueva o un naufragio."
+  },
+  {
+    "id": "cg-3926",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué expresa la locución latina in situ aplicada a un hallazgo arqueológico?",
+    "options": [
+      "Que fue restaurado en laboratorio",
+      "Que se encuentra en su posición original",
+      "Que carece de contexto estratigráfico",
+      "Que procede de un saqueo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Registrar un objeto in situ permite documentar su relación con el entorno."
+  },
+  {
+    "id": "cg-3927",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre reciben los restos naturales como semillas, huesos o carbones recuperados en un yacimiento?",
+    "options": [
+      "Artefactos",
+      "Geofactos",
+      "Ecofactos",
+      "Iconos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los ecofactos aportan información sobre dieta, clima y explotación del entorno."
+  },
+  {
+    "id": "cg-3928",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué ciencia estudia los granos de polen conservados en sedimentos para reconstruir paisajes antiguos?",
+    "options": [
+      "Carpología",
+      "Antracología",
+      "Malacología",
+      "Palinología"
+    ],
+    "correctIndex": 3,
+    "explanation": "La palinología reconstruye la vegetación y el clima del pasado."
+  },
+  {
+    "id": "cg-3929",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué pueblo de la isla de Pascua talló las grandes estatuas conocidas como moáis?",
+    "options": [
+      "Rapanui",
+      "Maorí",
+      "Tahitiano",
+      "Hawaiano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los rapanui erigieron los moáis entre los siglos XIII y XVI."
+  },
+  {
+    "id": "cg-3930",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de escritura desarrollaron los mayas y se descifró en gran parte durante el siglo XX?",
+    "options": [
+      "Cuneiforme",
+      "Jeroglífica",
+      "Alfabética",
+      "Quipu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los signos mayas combinan logogramas y elementos silábicos."
+  },
+  {
+    "id": "cg-3931",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad maya de la selva del Petén, en Guatemala, destaca por sus templos y altas pirámides?",
+    "options": [
+      "Copán",
+      "Palenque",
+      "Tikal",
+      "Calakmul"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tikal fue una de las mayores capitales mayas del período Clásico."
+  },
+  {
+    "id": "cg-3932",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué cultura andina construyó el centro ceremonial de Tiwanaku junto al lago Titicaca?",
+    "options": [
+      "Wari",
+      "Moche",
+      "Chavín",
+      "Tiahuanaco"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tiwanaku, en Bolivia, floreció entre los siglos V y X."
+  },
+  {
+    "id": "cg-3933",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿En qué país africano se encuentran las ruinas de piedra de Gran Zimbabue?",
+    "options": [
+      "Zimbabue",
+      "Kenia",
+      "Etiopía",
+      "Sudáfrica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gran Zimbabue fue capital de un Estado shona entre los siglos XI y XV."
+  },
+  {
+    "id": "cg-3934",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué cultura de Nigeria es conocida por sus esculturas de terracota con cabezas de rasgos estilizados?",
+    "options": [
+      "Benín",
+      "Nok",
+      "Ife",
+      "Kushita"
+    ],
+    "correctIndex": 1,
+    "explanation": "La cultura Nok floreció en el centro de Nigeria hacia el primer milenio a. C."
+  },
+  {
+    "id": "cg-3935",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué reino de África occidental produjo las famosas placas de bronce saqueadas por los británicos en 1897?",
+    "options": [
+      "Malí",
+      "Ghana",
+      "Benín",
+      "Dahomey"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las placas del palacio de Benín se repartieron entre museos europeos."
+  },
+  {
+    "id": "cg-3936",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué pueblo del sur de África es autor de gran parte del arte rupestre con figuras humanas y animales del Drakensberg?",
+    "options": [
+      "Zulú",
+      "Masái",
+      "Pigmeo",
+      "San"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los san, cazadores-recolectores, pintaron escenas rituales y de caza."
+  },
+  {
+    "id": "cg-3937",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra la cueva de Chauvet, conocida por sus pinturas de leones y rinocerontes del Paleolítico?",
+    "options": [
+      "Francia",
+      "España",
+      "Portugal",
+      "Suiza"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chauvet, en el Ardèche, conserva arte rupestre de hace unos 36.000 años."
+  },
+  {
+    "id": "cg-3938",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿En qué país se localiza la cueva de Altamira, célebre por sus bisontes pintados?",
+    "options": [
+      "Francia",
+      "España",
+      "Italia",
+      "Grecia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Altamira, en Cantabria, fue declarada Patrimonio de la Humanidad."
+  },
+  {
+    "id": "cg-3939",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre genérico reciben las figurillas femeninas paleolíticas de formas exageradas, como la de Willendorf?",
+    "options": [
+      "Ídolos cicládicos",
+      "Muñecas de marfil",
+      "Venus paleolíticas",
+      "Estatuillas de terracota"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las venus paleolíticas se tallaron en piedra, hueso o marfil."
+  },
+  {
+    "id": "cg-3940",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿En qué país se halló la Venus de Willendorf, figurilla paleolítica de hace unos 30.000 años?",
+    "options": [
+      "Alemania",
+      "República Checa",
+      "Hungría",
+      "Austria"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Venus de Willendorf se encontró en 1908 en la Baja Austria."
+  },
+  {
+    "id": "cg-3941",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe un monumento megalítico formado por dos o más piedras verticales y una losa horizontal?",
+    "options": [
+      "Dolmen",
+      "Menhir",
+      "Crómlech",
+      "Túmulo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los dólmenes solían servir como cámaras funerarias colectivas."
+  },
+  {
+    "id": "cg-3942",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué término designa una gran piedra vertical clavada en el suelo, típica del megalitismo europeo?",
+    "options": [
+      "Dolmen",
+      "Menhir",
+      "Talayot",
+      "Naveta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los menhires pueden aparecer aislados o formando alineaciones."
+  },
+  {
+    "id": "cg-3943",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra la concentración de menhires más célebre de Europa, en la localidad de Carnac?",
+    "options": [
+      "Irlanda",
+      "Portugal",
+      "Francia",
+      "Suecia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Carnac, en Bretaña, reúne miles de piedras alineadas."
+  },
+  {
+    "id": "cg-3944",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra el conjunto megalítico de Newgrange, con un pasillo alineado al solsticio de invierno?",
+    "options": [
+      "Escocia",
+      "Gales",
+      "Inglaterra",
+      "Irlanda"
+    ],
+    "correctIndex": 3,
+    "explanation": "Newgrange es una tumba de corredor neolítica del valle del Boyne."
+  },
+  {
+    "id": "cg-3945",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre científico recibe la especie humana actual, surgida en África hace unos 300.000 años?",
+    "options": [
+      "Homo sapiens",
+      "Homo neanderthalensis",
+      "Homo erectus",
+      "Homo heidelbergensis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los humanos anatómicamente modernos se expandieron fuera de África hace unos 70.000 años."
+  },
+  {
+    "id": "cg-3946",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué rasgo locomotor distingue a los homininos del resto de los grandes simios?",
+    "options": [
+      "Cola prensil",
+      "Marcha bípeda",
+      "Visión nocturna",
+      "Dieta exclusivamente insectívora"
+    ],
+    "correctIndex": 1,
+    "explanation": "La bipedestación se relaciona con cambios en la pelvis y el pie."
+  },
+  {
+    "id": "cg-3947",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe la industria lítica más antigua, basada en cantos tallados, hallada en Olduvai?",
+    "options": [
+      "Achelense",
+      "Musteriense",
+      "Olduvayense",
+      "Magdaleniense"
+    ],
+    "correctIndex": 2,
+    "explanation": "La industria olduvayense aparece hace unos 2,6 millones de años."
+  },
+  {
+    "id": "cg-3948",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué industria lítica del Paleolítico inferior se caracteriza por los bifaces de simetría cuidada?",
+    "options": [
+      "Olduvayense",
+      "Solutrense",
+      "Gravetiense",
+      "Achelense"
+    ],
+    "correctIndex": 3,
+    "explanation": "El achelense se asocia a Homo erectus y a especies posteriores."
+  },
+  {
+    "id": "cg-3949",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué industria lítica se asocia tradicionalmente a los neandertales?",
+    "options": [
+      "Musteriense",
+      "Achelense",
+      "Magdaleniense",
+      "Neolítico"
+    ],
+    "correctIndex": 0,
+    "explanation": "El musteriense se caracteriza por lascas y puntas retocadas."
+  },
+  {
+    "id": "cg-3950",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de pigmentos usaron los artistas rupestres paleolíticos para pintar bisontes y caballos?",
+    "options": [
+      "Tintes sintéticos",
+      "Ocres minerales",
+      "Óleos industriales",
+      "Esmaltes vítreos"
+    ],
+    "correctIndex": 1,
+    "explanation": "El ocre rojo y el carbón vegetal fueron los pigmentos más empleados."
+  },
+  {
+    "id": "cg-3951",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué práctica funeraria de los neandertales constituye una de las evidencias más antiguas de enterramiento deliberado?",
+    "options": [
+      "Cremación generalizada",
+      "Momificación artificial",
+      "Inhumación de los muertos",
+      "Exposición a las aves"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yacimientos como Shanidar y Kebara muestran cuerpos colocados intencionalmente."
+  },
+  {
+    "id": "cg-3952",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿En qué región del Próximo Oriente surgieron la agricultura y las primeras aldeas neolíticas?",
+    "options": [
+      "Valle del Indo",
+      "Mesoamérica",
+      "Cuenca del Yangtsé",
+      "Creciente Fértil"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Creciente Fértil abarca el Levante, Anatolia y Mesopotamia."
+  },
+  {
+    "id": "cg-3953",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué yacimiento del valle del Jordán conserva una de las torres y murallas neolíticas más antiguas?",
+    "options": [
+      "Jericó",
+      "Çatalhöyük",
+      "Eridu",
+      "Uruk"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jericó tiene ocupación desde el Neolítico precerámico, hacia el 9000 a. C."
+  },
+  {
+    "id": "cg-3954",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra el yacimiento neolítico de Çatalhöyük, con casas sin calles?",
+    "options": [
+      "Grecia",
+      "Turquía",
+      "Bulgaria",
+      "Irán"
+    ],
+    "correctIndex": 1,
+    "explanation": "En Çatalhöyük se accedía a las viviendas por el techo."
+  },
+  {
+    "id": "cg-3955",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué innovación del Neolítico permitió almacenar y cocinar alimentos usando arcilla cocida?",
+    "options": [
+      "Vidrio soplado",
+      "Metalurgia del hierro",
+      "Cerámica",
+      "Yeso ornamental"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cerámica neolítica facilitó el almacenamiento y la cocción."
+  },
+  {
+    "id": "cg-3956",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué cultura de la costa de Chile y Perú realizó las momias artificiales más antiguas conocidas?",
+    "options": [
+      "Paracas",
+      "Nazca",
+      "Mapuche",
+      "Chinchorro"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los chinchorro momificaron cuerpos hace unos 7.000 años."
+  },
+  {
+    "id": "cg-3957",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿En qué país se halló el hombre de Tollund, momia de un sacrificio depositada en una turbera?",
+    "options": [
+      "Dinamarca",
+      "Países Bajos",
+      "Alemania",
+      "Irlanda"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hombre de Tollund conserva soga al cuello y rasgos faciales."
+  },
+  {
+    "id": "cg-3958",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre reciben los cuerpos conservados de forma natural en turberas del norte de Europa?",
+    "options": [
+      "Momias de hielo",
+      "Momias de turbera",
+      "Momias de sal",
+      "Momias de arena"
+    ],
+    "correctIndex": 1,
+    "explanation": "La acidez y el frío de las turberas conservan piel, pelo y ropa."
+  },
+  {
+    "id": "cg-3959",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué gobernante inca ordenó construir Machu Picchu, según la arqueología actual?",
+    "options": [
+      "Atahualpa",
+      "Huayna Cápac",
+      "Pachacútec",
+      "Manco Cápac"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pachacútec gobernó en el siglo XV y ordenó edificar la residencia real."
+  },
+  {
+    "id": "cg-3960",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué investigador descifró en 1952 el lineal B, la escritura de las tablillas micénicas?",
+    "options": [
+      "Arthur Evans",
+      "Alice Kober",
+      "Henry Rawlinson",
+      "Michael Ventris"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ventris demostró que el lineal B transcribía una forma antigua de griego."
+  },
+  {
+    "id": "cg-3961",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué pueblo marinero del Mediterráneo oriental fundó colonias como Cartago?",
+    "options": [
+      "Fenicios",
+      "Griegos",
+      "Etruscos",
+      "Micénicos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los fenicios establecieron redes comerciales por todo el Mediterráneo."
+  },
+  {
+    "id": "cg-3962",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué civilización precolombina de los Andes centrales construyó el centro ceremonial de Chavín de Huántar?",
+    "options": [
+      "Moche",
+      "Chavín",
+      "Nazca",
+      "Wari"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chavín de Huántar floreció entre el 900 y el 200 a. C. en Áncash, Perú."
+  },
+  {
+    "id": "cg-3963",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué antigua capital hitita, con grandes murallas y la puerta de los Leones, se halla en Turquía?",
+    "options": [
+      "Gordión",
+      "Troya",
+      "Hattusa",
+      "Éfeso"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hattusa fue capital del Imperio hitita en Anatolia central."
+  },
+  {
+    "id": "cg-3964",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad egipcia fue famosa por su biblioteca y su faro, dos símbolos del mundo helenístico?",
+    "options": [
+      "Menfis",
+      "Tebas",
+      "Alepo",
+      "Alejandría"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alejandría fue fundada por Alejandro Magno y fue capital ptolemaica."
+  },
+  {
+    "id": "cg-3965",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué método de datación se basa en la desintegración del potasio-40 en argón-40 y se aplica a rocas volcánicas?",
+    "options": [
+      "Potasio-argón",
+      "Radiocarbono",
+      "Termoluminiscencia",
+      "Dendrocronología"
+    ],
+    "correctIndex": 0,
+    "explanation": "El potasio-argón permite datar cenizas volcánicas asociadas a yacimientos muy antiguos."
+  },
+  {
+    "id": "cg-3966",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué técnica data cerámicas y sedimentos midiendo la luz emitida por minerales al calentarlos?",
+    "options": [
+      "Radiocarbono",
+      "Termoluminiscencia",
+      "Serie del uranio",
+      "Hidratación de obsidiana"
+    ],
+    "correctIndex": 1,
+    "explanation": "La termoluminiscencia estima cuándo se calentó por última vez un material cristalino."
+  },
+  {
+    "id": "cg-3967",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué método cuenta los anillos de crecimiento de árboles para datar maderas antiguas?",
+    "options": [
+      "Palinología",
+      "Radiocarbono",
+      "Dendrocronología",
+      "Arqueomagnetismo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La dendrocronología ofrece cronologías anuales y calibra el radiocarbono."
+  },
+  {
+    "id": "cg-3968",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de muestra resulta idónea para una datación por radiocarbono?",
+    "options": [
+      "Roca volcánica",
+      "Cerámica vidriada",
+      "Metal fundido",
+      "Hueso, madera o carbón"
+    ],
+    "correctIndex": 3,
+    "explanation": "El radiocarbono requiere carbono orgánico reciente en términos geológicos."
+  },
+  {
+    "id": "cg-3969",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué arqueólogo británico excavó Ur y halló sus tumbas reales en la década de 1920?",
+    "options": [
+      "Leonard Woolley",
+      "Howard Carter",
+      "John Garstang",
+      "Max Mallowan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Woolley excavó el cementerio real de Ur y reconstruyó su ajuar."
+  },
+  {
+    "id": "cg-3970",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué arqueóloga británica excavó Jericó entre 1952 y 1958 y precisó su secuencia estratigráfica?",
+    "options": [
+      "Mary Leakey",
+      "Kathleen Kenyon",
+      "Dorothy Garrod",
+      "Gertrude Caton-Thompson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kenyon aplicó una excavación estratigráfica rigurosa en el tell de Jericó."
+  },
+  {
+    "id": "cg-3971",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué egiptólogo británico desarrolló métodos sistemáticos de registro y seriación de cerámicas en Egipto?",
+    "options": [
+      "Howard Carter",
+      "Champollion",
+      "Flinders Petrie",
+      "Belzoni"
+    ],
+    "correctIndex": 2,
+    "explanation": "Petrie impulsó la arqueología científica y la seriación de materiales."
+  },
+  {
+    "id": "cg-3972",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué antropóloga estadounidense estudió la adolescencia en Samoa y publicó Coming of Age in Samoa?",
+    "options": [
+      "Ruth Benedict",
+      "Mary Douglas",
+      "Zora Neale Hurston",
+      "Margaret Mead"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mead fue discípula de Franz Boas y una figura central del relativismo cultural."
+  },
+  {
+    "id": "cg-3973",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué antropólogo de origen polaco fundó el funcionalismo y estudió las islas Trobriand?",
+    "options": [
+      "Bronisław Malinowski",
+      "Claude Lévi-Strauss",
+      "Franz Boas",
+      "Alfred Radcliffe-Brown"
+    ],
+    "correctIndex": 0,
+    "explanation": "Malinowski defendió la observación participante prolongada."
+  },
+  {
+    "id": "cg-3974",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué antropólogo francés propuso la distinción entre estructuras elementales del parentesco?",
+    "options": [
+      "Marcel Mauss",
+      "Claude Lévi-Strauss",
+      "Émile Durkheim",
+      "Pierre Bourdieu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lévi-Strauss analizó el parentesco como sistema de intercambio."
+  },
+  {
+    "id": "cg-3975",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué antropólogo británico es conocido por sus estudios de los nuer y los dinka en Sudán?",
+    "options": [
+      "Bronisław Malinowski",
+      "James Frazer",
+      "E. E. Evans-Pritchard",
+      "Clifford Geertz"
+    ],
+    "correctIndex": 2,
+    "explanation": "Evans-Pritchard combinó etnografía y análisis político en el sur de Sudán."
+  },
+  {
+    "id": "cg-3976",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué etnógrafo británico escribió La rama dorada, obra sobre magia y religión comparadas?",
+    "options": [
+      "Edward Tylor",
+      "Lewis Morgan",
+      "Mircea Eliade",
+      "James Frazer"
+    ],
+    "correctIndex": 3,
+    "explanation": "La rama dorada influyó en la antropología y la literatura del siglo XX."
+  },
+  {
+    "id": "cg-3977",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué antropóloga estadounidense es autora de Patrones de cultura, publicado en 1934?",
+    "options": [
+      "Ruth Benedict",
+      "Margaret Mead",
+      "Mary Douglas",
+      "Marilyn Strathern"
+    ],
+    "correctIndex": 0,
+    "explanation": "Benedict propuso que cada cultura configura un patrón dominante."
+  },
+  {
+    "id": "cg-3978",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué teoría explica el poblamiento de América por grupos que cruzaron el estrecho de Bering durante la última glaciación?",
+    "options": [
+      "Ruta transpacífica",
+      "Poblamiento por Beringia",
+      "Colonización vikinga",
+      "Origen andino"
+    ],
+    "correctIndex": 1,
+    "explanation": "Beringia unió Asia y América cuando el nivel del mar era menor."
+  },
+  {
+    "id": "cg-3979",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura paleoindia de Norteamérica se caracteriza por sus puntas de proyectil acanaladas?",
+    "options": [
+      "Folsom",
+      "Adena",
+      "Clovis",
+      "Mississippiense"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las puntas Clovis, de unos 13.000 años, se hallaron en todo Norteamérica."
+  },
+  {
+    "id": "cg-3980",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué yacimiento de Chile, con ocupación humana de hace unos 14.500 años, es clave para el poblamiento americano?",
+    "options": [
+      "Pedra Furada",
+      "Meadowcroft",
+      "Tlapacoya",
+      "Monte Verde"
+    ],
+    "correctIndex": 3,
+    "explanation": "Monte Verde conserva restos de campamento y vegetales en un humedal."
+  },
+  {
+    "id": "cg-3981",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué yacimiento brasileño de Piauí es famoso por sus pinturas rupestres y ocupaciones pleistocenas?",
+    "options": [
+      "Pedra Furada",
+      "Lapa Vermelha",
+      "Serra da Capivara",
+      "Santana do Riacho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pedra Furada se encuentra en el parque nacional de la Serra da Capivara."
+  },
+  {
+    "id": "cg-3982",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura neolítica del valle del río Amarillo es famosa por su cerámica pintada y el cultivo de mijo?",
+    "options": [
+      "Longshan",
+      "Yangshao",
+      "Dawenkou",
+      "Liangzhu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yangshao se desarrolló en el Neolítico chino hace unos 6.000 años."
+  },
+  {
+    "id": "cg-3983",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura del valle del Indo construyó ciudades planificadas como Mohenjo-Daro y Harappa?",
+    "options": [
+      "Védica",
+      "Maurya",
+      "Harappana",
+      "Gupta"
+    ],
+    "correctIndex": 2,
+    "explanation": "La civilización del Indo floreció entre el 2600 y el 1900 a. C."
+  },
+  {
+    "id": "cg-3984",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué escritura de la civilización del Indo, presente en sellos de piedra, sigue sin descifrarse?",
+    "options": [
+      "Lineal B",
+      "Cuneiforme elamita",
+      "Jeroglífico hitita",
+      "Escritura del Indo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los sellos del Indo contienen signos breves cuya lengua se desconoce."
+  },
+  {
+    "id": "cg-3985",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad del Indo destaca por su gran baño público conocido como el Gran Baño?",
+    "options": [
+      "Mohenjo-Daro",
+      "Harappa",
+      "Lothal",
+      "Dholavira"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Gran Baño de Mohenjo-Daro tenía impermeabilización de betún."
+  },
+  {
+    "id": "cg-3986",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué función principal tenía el zigurat mesopotámico?",
+    "options": [
+      "Palacio real fortificado",
+      "Templo sobre una plataforma dedicada a una divinidad",
+      "Tumba de los reyes acadios",
+      "Mercado cubierto"
+    ],
+    "correctIndex": 1,
+    "explanation": "El zigurat era una montaña sagrada artificial con santuario en la cima."
+  },
+  {
+    "id": "cg-3987",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué rey asirio reunió en Nínive una gran biblioteca de tablillas cuneiformes?",
+    "options": [
+      "Sargón II",
+      "Tiglatpileser III",
+      "Asurbanipal",
+      "Nabopolasar"
+    ],
+    "correctIndex": 2,
+    "explanation": "La biblioteca de Asurbanipal conservó textos literarios y científicos."
+  },
+  {
+    "id": "cg-3988",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué inscripción trilingüe de Irán permitió a Rawlinson avanzar en el descifrado del cuneiforme?",
+    "options": [
+      "Estela de Merneptah",
+      "Piedra Rosetta",
+      "Tablillas de Amarna",
+      "Inscripción de Behistún"
+    ],
+    "correctIndex": 3,
+    "explanation": "Behistún repite un texto en persa antiguo, elamita y babilonio."
+  },
+  {
+    "id": "cg-3989",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura de Anatolia construyó la capital Hattusa y dominó el Próximo Oriente hacia 1300 a. C.?",
+    "options": [
+      "Hitita",
+      "Frigia",
+      "Licia",
+      "Urartu"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Imperio hitita compitió con Egipto por el control de Siria."
+  },
+  {
+    "id": "cg-3990",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué tratado de paz del siglo XIII a. C. firmaron egipcios e hititas tras la batalla de Kadesh?",
+    "options": [
+      "Paz de Antalcidas",
+      "Tratado de Kadesh",
+      "Tratado de Apamea",
+      "Paz de Calias"
+    ],
+    "correctIndex": 1,
+    "explanation": "El tratado entre Ramsés II y Hattusili III es uno de los más antiguos conservados."
+  },
+  {
+    "id": "cg-3991",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad fundó Akenatón como nueva capital y sede del culto a Atón?",
+    "options": [
+      "Tebas",
+      "Menfis",
+      "Amarna",
+      "Abidos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Amarna, antigua Ajetatón, se abandonó tras la muerte de Akenatón."
+  },
+  {
+    "id": "cg-3992",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué reina egipcia gobernó como faraón y organizó una expedición comercial al país de Punt?",
+    "options": [
+      "Nefertiti",
+      "Nefertari",
+      "Cleopatra VII",
+      "Hatshepsut"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los relieves de Deir el-Bahari representan la expedición a Punt de Hatshepsut."
+  },
+  {
+    "id": "cg-3993",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué templo egipcio de Abu Simbel fue desmontado y reubicado por una campaña internacional para salvarlo del lago Nasser?",
+    "options": [
+      "Gran Templo de Ramsés II",
+      "Templo de Karnak",
+      "Templo de Luxor",
+      "Templo de Filae"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Unesco coordinó el traslado de Abu Simbel en la década de 1960."
+  },
+  {
+    "id": "cg-3994",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿A qué divinidad principal estaba dedicado el gran recinto templario de Karnak, cerca de Luxor?",
+    "options": [
+      "Osiris",
+      "Amón-Ra",
+      "Anubis",
+      "Ptah"
+    ],
+    "correctIndex": 1,
+    "explanation": "Karnak creció durante siglos como centro del culto a Amón-Ra."
+  },
+  {
+    "id": "cg-3995",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe una cámara funeraria egipcia excavada en la roca, como las del Valle de los Reyes?",
+    "options": [
+      "Mastaba",
+      "Cenotafio",
+      "Hipogeo",
+      "Zigurat"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los hipogeos del Valle de los Reyes ocultaban las tumbas reales."
+  },
+  {
+    "id": "cg-3996",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué técnica constructiva romana a base de hormigón permitió levantar bóvedas y cúpulas amplias?",
+    "options": [
+      "Opus incertum",
+      "Opus sectile",
+      "Opus quadratum",
+      "Opus caementicium"
+    ],
+    "correctIndex": 3,
+    "explanation": "El hormigón romano con puzolana sostiene la cúpula del Panteón."
+  },
+  {
+    "id": "cg-3997",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad romana de Argelia, inscrita por la Unesco, es famosa por su foro, sus termas y sus mosaicos?",
+    "options": [
+      "Timgad",
+      "Leptis Magna",
+      "Volubilis",
+      "Djemila"
+    ],
+    "correctIndex": 0,
+    "explanation": "Timgad fue fundada por Trajano como colonia para veteranos."
+  },
+  {
+    "id": "cg-3998",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad romana de Francia conserva un teatro y un arco de triunfo dedicados a Augusto?",
+    "options": [
+      "Nimes",
+      "Orange",
+      "Arlés",
+      "Vienne"
+    ],
+    "correctIndex": 1,
+    "explanation": "El teatro romano de Orange sigue en uso y conserva su muro de escena."
+  },
+  {
+    "id": "cg-3999",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué acueducto romano de Segovia, en España, carece de mortero y sigue en pie?",
+    "options": [
+      "Acueducto de los Milagros",
+      "Pont du Gard",
+      "Acueducto de Segovia",
+      "Acueducto de Claudio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sus sillares de granito se sostienen por equilibrio y gravedad."
+  },
+  {
+    "id": "cg-4000",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad romana sepultada por el Vesubio es famosa por las pinturas de la Villa de los Misterios?",
+    "options": [
+      "Herculano",
+      "Estabia",
+      "Oplontis",
+      "Pompeya"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Villa de los Misterios conserva un ciclo pictórico de iniciación."
+  },
+  {
+    "id": "cg-4001",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué técnica de prospección arqueológica mide la resistencia del suelo al paso de una corriente eléctrica?",
+    "options": [
+      "Prospección eléctrica",
+      "Prospección magnética",
+      "Radar de subsuelo",
+      "Análisis de fosfatos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las anomalías de resistividad revelan muros, fosos o cavidades enterradas."
+  },
+  {
+    "id": "cg-4002",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué aparato se emplea en prospección para localizar objetos metálicos enterrados?",
+    "options": [
+      "Magnetómetro de protones",
+      "Detector de metales",
+      "Estación total",
+      "Espectrómetro de masas"
+    ],
+    "correctIndex": 1,
+    "explanation": "El detector de metales responde a la conductividad de metales cercanos."
+  },
+  {
+    "id": "cg-4003",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué método de prospección usa imágenes satelitales y aéreas para detectar yacimientos sin excavar?",
+    "options": [
+      "Flotación",
+      "Cribado en seco",
+      "Teledetección",
+      "Seriación cerámica"
+    ],
+    "correctIndex": 2,
+    "explanation": "La teledetección detecta cambios de vegetación, humedad y relieve."
+  },
+  {
+    "id": "cg-4004",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de fotografía aérea, tomada con luz rasante, revela microrelieves de estructuras enterradas?",
+    "options": [
+      "Fotografía cenital nocturna",
+      "Fotografía infrarroja térmica",
+      "Fotografía estereoscópica vertical",
+      "Fotografía aérea oblicua"
+    ],
+    "correctIndex": 3,
+    "explanation": "La luz rasante genera sombras que delatan muros y fosos poco profundos."
+  },
+  {
+    "id": "cg-4005",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué principio arqueológico vincula objetos hallados en un mismo nivel cerrado y contemporáneo?",
+    "options": [
+      "Asociación",
+      "Superposición",
+      "Uniformitarismo",
+      "Actualismo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La asociación permite inferir relaciones de uso y cronología relativa."
+  },
+  {
+    "id": "cg-4006",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de documento gráfico registra plantas, secciones y alzados de una excavación a escala?",
+    "options": [
+      "Fotografía aérea",
+      "Dibujo arqueológico",
+      "Mapa topográfico regional",
+      "Catálogo numismático"
+    ],
+    "correctIndex": 1,
+    "explanation": "El dibujo arqueológico normaliza la representación de estratos y estructuras."
+  },
+  {
+    "id": "cg-4007",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué técnica genera modelos tridimensionales de yacimientos a partir de numerosas fotografías?",
+    "options": [
+      "Espectroscopía Raman",
+      "Difracción de rayos X",
+      "Fotogrametría",
+      "Cartografía por satélite"
+    ],
+    "correctIndex": 2,
+    "explanation": "La fotogrametría reconstruye la geometría mediante puntos homólogos."
+  },
+  {
+    "id": "cg-4008",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué especialidad estudia las semillas y frutos antiguos recuperados en yacimientos?",
+    "options": [
+      "Palinología",
+      "Antracología",
+      "Zooarqueología",
+      "Carpología"
+    ],
+    "correctIndex": 3,
+    "explanation": "La carpología informa sobre cultivos, recolección y dieta vegetal."
+  },
+  {
+    "id": "cg-4009",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué especialidad analiza los huesos de animales para reconstruir dietas y prácticas ganaderas?",
+    "options": [
+      "Zooarqueología",
+      "Bioarqueología",
+      "Arqueobotánica",
+      "Tafonomía"
+    ],
+    "correctIndex": 0,
+    "explanation": "La zooarqueología identifica especies, edades y patrones de carnicería."
+  },
+  {
+    "id": "cg-4010",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué análisis mide isótopos estables en huesos y dientes para inferir dieta y procedencia?",
+    "options": [
+      "Radiocarbono",
+      "Isótopos estables",
+      "Termoluminiscencia",
+      "Seriación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Carbono, nitrógeno y estroncio aportan información sobre alimentación y movilidad."
+  },
+  {
+    "id": "cg-4011",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué disciplina recupera y analiza ADN de restos antiguos para estudiar poblaciones pasadas?",
+    "options": [
+      "Paleopatología",
+      "Arqueometría",
+      "Paleogenética",
+      "Etnobotánica"
+    ],
+    "correctIndex": 2,
+    "explanation": "La paleogenética secuencia genomas de huesos y dientes antiguos."
+  },
+  {
+    "id": "cg-4012",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué hominino de pequeño tamaño fue hallado en 2003 en la isla indonesia de Flores?",
+    "options": [
+      "Homo naledi",
+      "Homo erectus",
+      "Homo luzonensis",
+      "Homo floresiensis"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Homo floresiensis medía alrededor de un metro de altura."
+  },
+  {
+    "id": "cg-4013",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué grupo humano extinto se identificó en 2010 a partir de un fragmento de dedo hallado en Siberia?",
+    "options": [
+      "Denisovanos",
+      "Neandertales",
+      "Hobbits de Flores",
+      "Hombres de Java"
+    ],
+    "correctIndex": 0,
+    "explanation": "El ADN de la cueva de Denisova reveló un linaje distinto de homininos."
+  },
+  {
+    "id": "cg-4014",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe la región sudafricana de cuevas declarada Patrimonio de la Humanidad por sus fósiles de homininos?",
+    "options": [
+      "Valle del Rift",
+      "Cuna de la Humanidad",
+      "Cuenca de Turkana",
+      "Sierra de Atapuerca"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Cuna de la Humanidad incluye Sterkfontein, Swartkrans y Kromdraai."
+  },
+  {
+    "id": "cg-4015",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe el fósil infantil de Australopithecus afarensis hallado en Dikika, Etiopía?",
+    "options": [
+      "Lucy",
+      "Ardi",
+      "Selam",
+      "Toumaï"
+    ],
+    "correctIndex": 2,
+    "explanation": "Selam, de unos tres años, vivió hace 3,3 millones de años."
+  },
+  {
+    "id": "cg-4016",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué yacimiento de Kenia, junto al lago Turkana, ha proporcionado fósiles de Homo habilis y Homo erectus?",
+    "options": [
+      "Olduvai",
+      "Laetoli",
+      "Hadar",
+      "Koobi Fora"
+    ],
+    "correctIndex": 3,
+    "explanation": "Koobi Fora forma parte de la cuenca de Turkana y se excavó desde los años sesenta."
+  },
+  {
+    "id": "cg-4017",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué fósil de Kenia, hallado por Kamoya Kimeu, es un esqueleto casi completo de Homo erectus adolescente?",
+    "options": [
+      "Niño de Turkana",
+      "Niño de Taung",
+      "Hombre de Pekín",
+      "Hombre de Neander"
+    ],
+    "correctIndex": 0,
+    "explanation": "El niño de Turkana o Nariokotome vivió hace unos 1,6 millones de años."
+  },
+  {
+    "id": "cg-4018",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe la tribu de homininos que incluye a los géneros Australopithecus y Homo?",
+    "options": [
+      "Homininae",
+      "Hominini",
+      "Ponginae",
+      "Hylobatidae"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los Hominini se separaron del linaje de los chimpancés hace millones de años."
+  },
+  {
+    "id": "cg-4019",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué rasgo dental suele distinguir a los homininos de los grandes simios?",
+    "options": [
+      "Incisivos ausentes",
+      "Muelas de crecimiento continuo",
+      "Caninos reducidos",
+      "Esmalte negro"
+    ],
+    "correctIndex": 2,
+    "explanation": "La reducción de los caninos se relaciona con cambios de dieta y sociabilidad."
+  },
+  {
+    "id": "cg-4020",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué industria del Paleolítico superior se caracteriza por hojas largas, buriles y se asocia a los primeros sapiens europeos?",
+    "options": [
+      "Musteriense",
+      "Achelense",
+      "Magdaleniense",
+      "Auriñaciense"
+    ],
+    "correctIndex": 3,
+    "explanation": "El auriñaciense aparece en Europa hace unos 43.000 años."
+  },
+  {
+    "id": "cg-4021",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura del Paleolítico superior es famosa por sus venus y por pinturas como las de Lascaux?",
+    "options": [
+      "Magdaleniense",
+      "Solutrense",
+      "Auriñaciense",
+      "Gravetiense"
+    ],
+    "correctIndex": 0,
+    "explanation": "El magdaleniense se extendió por Europa occidental entre 17.000 y 12.000 años atrás."
+  },
+  {
+    "id": "cg-4022",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura del Paleolítico superior elaboró puntas de sílex con pedúnculo y aletas?",
+    "options": [
+      "Magdaleniense",
+      "Solutrense",
+      "Musteriense",
+      "Olduvayense"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las puntas solutrenses destacan por su talla bifacial extremadamente fina."
+  },
+  {
+    "id": "cg-4023",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura epipaleolítica del Levante mediterráneo construyó poblados con casas circulares y domesticó el perro?",
+    "options": [
+      "Zarziense",
+      "Neolítico de cerámica de bandas",
+      "Natufiense",
+      "Halafiense"
+    ],
+    "correctIndex": 2,
+    "explanation": "El natufiense anticipó la sedentarización previa a la agricultura."
+  },
+  {
+    "id": "cg-4024",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cueva del monte Carmelo, en Israel, conservó un esqueleto neandertal con hueso hioides?",
+    "options": [
+      "Shanidar",
+      "Tabun",
+      "Skhul",
+      "Kebara"
+    ],
+    "correctIndex": 3,
+    "explanation": "El hioides de Kebara se usó para discutir la capacidad de habla neandertal."
+  },
+  {
+    "id": "cg-4025",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cueva sudafricana junto al océano Índico conserva conchas, ocres y piezas de hueso de hace 100.000 años?",
+    "options": [
+      "Blombos",
+      "Border Cave",
+      "Rising Star",
+      "Wonderwerk"
+    ],
+    "correctIndex": 0,
+    "explanation": "Blombos ha aportado evidencias tempranas de simbolismo y tecnología."
+  },
+  {
+    "id": "cg-4026",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿En qué isla de Indonesia se hallaron pinturas rupestres de animales con más de 40.000 años en cuevas de Maros?",
+    "options": [
+      "Java",
+      "Célebes",
+      "Sumatra",
+      "Borneo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las cuevas de Maros-Pangkep, en Sulawesi, conservan arte figurativo muy antiguo."
+  },
+  {
+    "id": "cg-4027",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de representación rupestre se obtiene aplicando pigmento alrededor de una mano apoyada en la pared?",
+    "options": [
+      "Petroglifos incisos",
+      "Manos en positivo",
+      "Manos en negativo",
+      "Figuras esquemáticas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las manos en negativo aparecen en cuevas de Europa, Asia, África y América."
+  },
+  {
+    "id": "cg-4028",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué macizo montañoso del Sahara argelino conserva pinturas rupestres de jirafas, bóvidos y ganado?",
+    "options": [
+      "Ahaggar",
+      "Tibesti",
+      "Ennedi",
+      "Tassili n'Ajjer"
+    ],
+    "correctIndex": 3,
+    "explanation": "El arte del Tassili refleja un Sahara húmedo y habitado."
+  },
+  {
+    "id": "cg-4029",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué figura de ave, trazada en el desierto peruano, es una de las más conocidas de las líneas de Nazca?",
+    "options": [
+      "Colibrí",
+      "Cóndor",
+      "Flamenco",
+      "Garza"
+    ],
+    "correctIndex": 0,
+    "explanation": "El colibrí de Nazca mide unos 90 metros y se trazó con una sola línea continua."
+  },
+  {
+    "id": "cg-4030",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de tumba vertical, con una cámara al fondo, caracteriza a las culturas prehispánicas del occidente de México?",
+    "options": [
+      "Tumba de corredor",
+      "Tumba de tiro",
+      "Mastaba",
+      "Hipogeo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las tumbas de tiro de Jalisco y Colima contenían ricos ajuares cerámicos."
+  },
+  {
+    "id": "cg-4031",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura mesoamericana talló las cabezas colosales de basalto de La Venta y San Lorenzo?",
+    "options": [
+      "Maya",
+      "Zapoteca",
+      "Olmeca",
+      "Totonaca"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las cabezas olmecas representan gobernantes con cascos rituales."
+  },
+  {
+    "id": "cg-4032",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué centro olmeca de Tabasco alberga cabezas colosales y una gran pirámide de tierra?",
+    "options": [
+      "San Lorenzo",
+      "Tres Zapotes",
+      "El Manatí",
+      "La Venta"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Venta fue un importante centro ritual olmeca hacia el 900 a. C."
+  },
+  {
+    "id": "cg-4033",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura de Oaxaca construyó Monte Albán y desarrolló un calendario propio?",
+    "options": [
+      "Zapoteca",
+      "Mixteca",
+      "Totonaca",
+      "Tarasca"
+    ],
+    "correctIndex": 0,
+    "explanation": "Monte Albán dominó los valles centrales de Oaxaca durante más de mil años."
+  },
+  {
+    "id": "cg-4034",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura del golfo de México sucedió a los olmecas y construyó El Tajín?",
+    "options": [
+      "Huasteca",
+      "Totonaca",
+      "Maya",
+      "Tolteca"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Tajín destaca por la pirámide de los Nichos y el juego de pelota."
+  },
+  {
+    "id": "cg-4035",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad tolteca de Hidalgo, con estatuas de atlantes, fue capital de un importante Estado mesoamericano?",
+    "options": [
+      "Teotihuacán",
+      "Xochicalco",
+      "Tula",
+      "Cholula"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tula se asocia al gobernante Ce Ácatl Topiltzin y al mito de Quetzalcóatl."
+  },
+  {
+    "id": "cg-4036",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué dios mexica de la guerra y del sol era honrado en la cima del Templo Mayor de Tenochtitlan?",
+    "options": [
+      "Quetzalcóatl",
+      "Tláloc",
+      "Tezcatlipoca",
+      "Huitzilopochtli"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Templo Mayor compartía la cima entre Huitzilopochtli y Tláloc."
+  },
+  {
+    "id": "cg-4037",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura andina del norte de Perú construyó las huacas del Sol y de la Luna?",
+    "options": [
+      "Moche",
+      "Chimú",
+      "Nazca",
+      "Recuay"
+    ],
+    "correctIndex": 0,
+    "explanation": "La huaca del Sol fue un gran edificio administrativo moche de adobe."
+  },
+  {
+    "id": "cg-4038",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura andina del sur de Perú dejó fardos funerarios con textiles bordados en la península de Paracas?",
+    "options": [
+      "Nazca",
+      "Paracas",
+      "Ica",
+      "Chincha"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los mantos de Paracas figuran entre los textiles más finos del mundo antiguo."
+  },
+  {
+    "id": "cg-4039",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura andina construyó el centro urbano de Huari y dominó buena parte de los Andes antes de los incas?",
+    "options": [
+      "Tiahuanaco",
+      "Moche",
+      "Wari",
+      "Chavín"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Estado wari se expandió entre los siglos VII y XI."
+  },
+  {
+    "id": "cg-4040",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura del altiplano boliviano esculpió la Puerta del Sol de Tiwanaku?",
+    "options": [
+      "Wari",
+      "Inca",
+      "Chiripa",
+      "Tiahuanaco"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Puerta del Sol está tallada en un solo bloque de andesita."
+  },
+  {
+    "id": "cg-4041",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe la gran red de caminos que articulaba el Imperio inca?",
+    "options": [
+      "Qhapaq Ñan",
+      "Camino de la Costa",
+      "Ruta del Spondylus",
+      "Sendero de los Andes"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Qhapaq Ñan unía Cuzco con regiones del actual Perú, Bolivia, Chile y Argentina."
+  },
+  {
+    "id": "cg-4042",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué fortaleza inca de grandes muros ciclópeos domina el valle del Urubamba, cerca de Cuzco?",
+    "options": [
+      "Ollantaytambo",
+      "Sacsayhuamán",
+      "Pisac",
+      "Machu Picchu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sacsayhuamán se construyó con bloques de varias toneladas encajados con precisión."
+  },
+  {
+    "id": "cg-4043",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué sitio inca de Perú muestra terrazas circulares concéntricas que pudieron servir de laboratorio agrícola?",
+    "options": [
+      "Tipón",
+      "Písac",
+      "Moray",
+      "Chinchero"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los andenes de Moray recrean microclimas a distintas alturas."
+  },
+  {
+    "id": "cg-4044",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué técnica agrícola inca consistía en terrazas escalonadas para cultivar en laderas de montaña?",
+    "options": [
+      "Camellones",
+      "Chinampas",
+      "Terrazas fluviales",
+      "Andenes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los andenes incas combinaban muros de contención, relleno y canales."
+  },
+  {
+    "id": "cg-4045",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué pueblo precolombino de Colombia elaboró figuras de oro con aleaciones como la tumbaga?",
+    "options": [
+      "Muiscas",
+      "Taironas",
+      "Quimbayas",
+      "Zenúes"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tumbaga mezcla oro y cobre para obtener tonos y durezas distintas."
+  },
+  {
+    "id": "cg-4046",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura precolombina de Colombia talló las grandes estatuas de piedra de San Agustín?",
+    "options": [
+      "Cultura Calima",
+      "Cultura de San Agustín",
+      "Cultura Nariño",
+      "Cultura Tierradentro"
+    ],
+    "correctIndex": 1,
+    "explanation": "El parque arqueológico de San Agustín conserva esculturas y túmulos."
+  },
+  {
+    "id": "cg-4047",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad maya de Honduras es famosa por su escalinata jeroglífica y sus estelas reales?",
+    "options": [
+      "Quiriguá",
+      "Palenque",
+      "Copán",
+      "Yaxchilán"
+    ],
+    "correctIndex": 2,
+    "explanation": "Copán fue capital de un reino maya del sureste durante el Clásico."
+  },
+  {
+    "id": "cg-4048",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad maya de Chiapas destaca por sus murales que representan batallas y cortes?",
+    "options": [
+      "Yaxchilán",
+      "Palenque",
+      "Toniná",
+      "Bonampak"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los murales de Bonampak, del siglo VIII, conservan colores originales."
+  },
+  {
+    "id": "cg-4049",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad maya de Campeche, con numerosas torres, fue una gran capital del período Clásico?",
+    "options": [
+      "Calakmul",
+      "Uxmal",
+      "Edzná",
+      "Dzibilchaltún"
+    ],
+    "correctIndex": 0,
+    "explanation": "Calakmul compitió con Tikal por la hegemonía maya."
+  },
+  {
+    "id": "cg-4050",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué gobernante maya de Palenque mandó construir el Templo de las Inscripciones?",
+    "options": [
+      "Yuknoom Yich'aak K'ahk'",
+      "K'inich Janaab Pakal I",
+      "Jasaw Chan K'awiil",
+      "18 Conejo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La tumba de Pakal se halló en 1952 bajo el Templo de las Inscripciones."
+  },
+  {
+    "id": "cg-4051",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura neolítica de la costa de Ecuador, una de las más antiguas de América, elaboró figurillas femeninas de cerámica?",
+    "options": [
+      "Machalilla",
+      "Chorrera",
+      "Valdivia",
+      "La Tolita"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cultura Valdivia se desarrolló hace unos 5.500 años."
+  },
+  {
+    "id": "cg-4052",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué pueblo del Pacífico colonizó Hawái, Tahití y Nueva Zelanda en una vasta expansión marítima?",
+    "options": [
+      "Micronesios",
+      "Melanesios",
+      "Aborígenes australianos",
+      "Polinesios"
+    ],
+    "correctIndex": 3,
+    "explanation": "La expansión polinesia alcanzó islas remotas hacia el año 1000."
+  },
+  {
+    "id": "cg-4053",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de embarcación de doble casco usaron los polinesios para colonizar el Pacífico?",
+    "options": [
+      "Canoa de doble casco",
+      "Galera de remos",
+      "Balsa de juncos",
+      "Drakkar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las canoas de doble casco eran estables y capaces de largas travesías."
+  },
+  {
+    "id": "cg-4054",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué sistema de navegación polinesio se basaba en la observación de estrellas, olas y vientos?",
+    "options": [
+      "Navegación por brújula",
+      "Navegación estelar",
+      "Cabotaje por sondas",
+      "Orientación por aves migratorias"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los navegantes polinesios memorizaban rutas celestes y patrones de oleaje."
+  },
+  {
+    "id": "cg-4055",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué nombre reciben las plataformas ceremoniales de piedra sobre las que se erigían los moáis de Rapa Nui?",
+    "options": [
+      "Marae",
+      "Paoa",
+      "Ahu",
+      "Tupa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los ahu eran altares y tumbas de linajes de la isla de Pascua."
+  },
+  {
+    "id": "cg-4056",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué pueblo del sur de África construyó las murallas de piedra de Gran Zimbabue?",
+    "options": [
+      "Zulú",
+      "Swazi",
+      "Tsuana",
+      "Shona"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los antepasados shona levantaron Gran Zimbabue sin argamasa."
+  },
+  {
+    "id": "cg-4057",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué antigua ciudad de Etiopía fue capital del reino de Aksum y conserva estelas gigantes?",
+    "options": [
+      "Aksum",
+      "Lalibela",
+      "Gondar",
+      "Harar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aksum dominó el comercio del mar Rojo y adoptó el cristianismo en el siglo IV."
+  },
+  {
+    "id": "cg-4058",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué conjunto de iglesias medievales de Etiopía está excavado en la roca volcánica de Lalibela?",
+    "options": [
+      "Monasterios de Debre Damo",
+      "Iglesias rupestres",
+      "Tumbas de Aksum",
+      "Palacios de Gondar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las once iglesias de Lalibela se tallaron bajo el nivel del suelo."
+  },
+  {
+    "id": "cg-4059",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura prehistórica de las islas Baleares construyó talayots y navetas?",
+    "options": [
+      "Megalítica atlántica",
+      "Campaniforme",
+      "Talayótica",
+      "El Argar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los talayots son torres de piedra de la Edad del Bronce balear."
+  },
+  {
+    "id": "cg-4060",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura de la Edad del Hierro centroeuropea es famosa por sus túmulos principescos y objetos de hierro?",
+    "options": [
+      "La Tène",
+      "Villanova",
+      "Lusaciana",
+      "Hallstatt"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hallstatt da nombre a la primera fase de la cultura celta."
+  },
+  {
+    "id": "cg-4061",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué cultura celta de la Edad del Hierro, con torques y espadas curvas, sucedió a Hallstatt?",
+    "options": [
+      "La Tène",
+      "Hallstatt",
+      "Campos de Urnas",
+      "Únetice"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Tène se desarrolló entre el siglo V y el I a. C."
+  },
+  {
+    "id": "cg-4062",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué pueblo prerromano de la península ibérica esculpió la Dama de Elche?",
+    "options": [
+      "Celtíberos",
+      "Íberos",
+      "Vascones",
+      "Tartesios"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Dama de Elche es una escultura ibérica de caliza del siglo IV a. C."
+  },
+  {
+    "id": "cg-4063",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad celtíbera resistió el asedio de Escipión Emiliano en el año 133 a. C.?",
+    "options": [
+      "Celtiberia",
+      "Sagunto",
+      "Numancia",
+      "Termantia"
+    ],
+    "correctIndex": 2,
+    "explanation": "La caída de Numancia completó la conquista romana del interior peninsular."
+  },
+  {
+    "id": "cg-4064",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué pueblo escandinavo del periodo vikingo enterró a sus dignatarios en barcos como el de Oseberg?",
+    "options": [
+      "Godos",
+      "Sajones",
+      "Francos",
+      "Vikingos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los entierros en barco reflejan creencias sobre el viaje al más allá."
+  },
+  {
+    "id": "cg-4065",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué disciplina estudia las monedas antiguas como fuente histórica y arqueológica?",
+    "options": [
+      "Numismática",
+      "Sigilografía",
+      "Epigrafía",
+      "Papirología"
+    ],
+    "correctIndex": 0,
+    "explanation": "La numismática ayuda a datar estratos y reconstruir circulación económica."
+  },
+  {
+    "id": "cg-4066",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué científico neerlandés describió en 1891 los fósiles de Homo erectus hallados en Java?",
+    "options": [
+      "Rudolf Virchow",
+      "Eugène Dubois",
+      "Marcellin Boule",
+      "Raymond Dart"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dubois buscaba el eslabón perdido entre simios y humanos."
+  },
+  {
+    "id": "cg-4067",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué arqueólogo mexicano descubrió en 1952 la tumba de Pakal bajo el Templo de las Inscripciones de Palenque?",
+    "options": [
+      "Alfonso Caso",
+      "Manuel Gamio",
+      "Alberto Ruz Lhuillier",
+      "Eduardo Noguera"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ruz Lhuillier halló el sarcófago tras años de explorar la escalera interior."
+  },
+  {
+    "id": "cg-4068",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "medium",
+    "question": "¿Qué sitio inca del valle del Urubamba conserva terrazas, un templo del Sol y muros de granito?",
+    "options": [
+      "Písac",
+      "Chinchero",
+      "Tipón",
+      "Ollantaytambo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ollantaytambo fue una residencia real y bastión defensivo inca."
+  },
+  {
+    "id": "cg-4069",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué isótopo cosmogénico se emplea para datar superficies rocosas expuestas durante milenios?",
+    "options": [
+      "Berilio-10",
+      "Carbono-14",
+      "Potasio-40",
+      "Torio-230"
+    ],
+    "correctIndex": 0,
+    "explanation": "El berilio-10 se produce por rayos cósmicos y permite datar exposiciones superficiales."
+  },
+  {
+    "id": "cg-4070",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué método se aplica a espeleotemas y corales midiendo el desequilibrio entre uranio-238 y torio-230?",
+    "options": [
+      "Radiocarbono",
+      "Serie del uranio",
+      "Termoluminiscencia",
+      "Dendrocronología"
+    ],
+    "correctIndex": 1,
+    "explanation": "La serie del uranio permite datar carbonatos de cientos de miles de años."
+  },
+  {
+    "id": "cg-4071",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué antigüedad máxima aproximada alcanza la datación convencional por radiocarbono?",
+    "options": [
+      "Unos 5.000 años",
+      "Unos 500.000 años",
+      "Unos 50.000 años",
+      "Unos 5 millones de años"
+    ],
+    "correctIndex": 2,
+    "explanation": "Más allá de ese límite queda demasiado poco carbono-14 para medirlo con fiabilidad."
+  },
+  {
+    "id": "cg-4072",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué causa principal obliga a calibrar las fechas de radiocarbono con curvas como IntCal?",
+    "options": [
+      "La contaminación por metales pesados",
+      "El aumento del nivel del mar",
+      "La deriva de los continentes",
+      "Variaciones de la producción de carbono-14 en la atmósfera"
+    ],
+    "correctIndex": 3,
+    "explanation": "La actividad solar y el campo geomagnético modifican la proporción de carbono-14."
+  },
+  {
+    "id": "cg-4073",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué método data sedimentos midiendo la luz liberada por granos de cuarzo o feldespato previamente estimulados?",
+    "options": [
+      "Luminiscencia ópticamente estimulada",
+      "Radiocarbono",
+      "Racemización de aminoácidos",
+      "Hidratación de obsidiana"
+    ],
+    "correctIndex": 0,
+    "explanation": "La técnica OSL determina cuándo se expuso por última vez el sedimento a la luz."
+  },
+  {
+    "id": "cg-4074",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué método data conchas y huesos fósiles midiendo la conversión de aminoácidos L en D?",
+    "options": [
+      "Serie del uranio",
+      "Racemización de aminoácidos",
+      "Termoluminiscencia",
+      "Arqueomagnetismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La racemización depende de la temperatura y permite estimar edades relativas."
+  },
+  {
+    "id": "cg-4075",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué técnica data herramientas de obsidiana midiendo la capa de agua absorbida en su superficie?",
+    "options": [
+      "Termoluminiscencia",
+      "Radiocarbono",
+      "Hidratación de obsidiana",
+      "Resonancia paramagnética"
+    ],
+    "correctIndex": 2,
+    "explanation": "El grosor de la capa hidratada crece con el tiempo desde la talla."
+  },
+  {
+    "id": "cg-4076",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué análisis isotópico permite rastrear la procedencia del metal de objetos antiguos?",
+    "options": [
+      "Isótopos de carbono",
+      "Isótopos de nitrógeno",
+      "Isótopos de oxígeno",
+      "Isótopos de plomo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las proporciones de isótopos de plomo varían según la mina de origen."
+  },
+  {
+    "id": "cg-4077",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de análisis recupera material genético degradado de huesos y dientes antiguos?",
+    "options": [
+      "ADN antiguo",
+      "Análisis de fosfatos",
+      "Difracción de rayos X",
+      "Espectroscopía de fluorescencia"
+    ],
+    "correctIndex": 0,
+    "explanation": "El ADN antiguo suele estar fragmentado y contaminado por microbios."
+  },
+  {
+    "id": "cg-4078",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué investigador dirigió la secuenciación del genoma neandertal y fundó un instituto de antropología evolutiva en Leipzig?",
+    "options": [
+      "David Reich",
+      "Svante Pääbo",
+      "Chris Stringer",
+      "Lee Berger"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pääbo desarrolló métodos para trabajar con ADN fósil muy degradado."
+  },
+  {
+    "id": "cg-4079",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué premio Nobel recibió Svante Pääbo en 2022 por sus estudios sobre genomas de homininos extintos?",
+    "options": [
+      "Nobel de Química",
+      "Nobel de Física",
+      "Nobel de Medicina",
+      "Nobel de Literatura"
+    ],
+    "correctIndex": 2,
+    "explanation": "El comité destacó sus descubrimientos sobre el genoma de neandertales y denisovanos."
+  },
+  {
+    "id": "cg-4080",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué yacimiento de la sierra de Atapuerca, en España, ha proporcionado los fósiles de Homo antecessor?",
+    "options": [
+      "Sima de los Huesos",
+      "Galería del Sílex",
+      "Cueva Mayor",
+      "Gran Dolina"
+    ],
+    "correctIndex": 3,
+    "explanation": "En Gran Dolina se hallaron restos de hace unos 800.000 años."
+  },
+  {
+    "id": "cg-4081",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué especie de hominino descrita en 1997 a partir de Atapuerca se propuso como antepasado común de neandertales y sapiens?",
+    "options": [
+      "Homo antecessor",
+      "Homo heidelbergensis",
+      "Homo neanderthalensis",
+      "Homo ergaster"
+    ],
+    "correctIndex": 0,
+    "explanation": "Homo antecessor presenta un rostro moderno y una dentición arcaica."
+  },
+  {
+    "id": "cg-4082",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué yacimiento de Atapuerca contiene decenas de esqueletos acumulados de homininos del Pleistoceno medio?",
+    "options": [
+      "Gran Dolina",
+      "Sima de los Huesos",
+      "Cueva de El Castillo",
+      "Cueva de la Carihuela"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Sima de los Huesos ha aportado miles de restos humanos."
+  },
+  {
+    "id": "cg-4083",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué grupo humano extinto aportó variantes genéticas relacionadas con la tolerancia a la altitud en poblaciones tibetanas?",
+    "options": [
+      "Neandertales",
+      "Homo floresiensis",
+      "Denisovanos",
+      "Homo naledi"
+    ],
+    "correctIndex": 2,
+    "explanation": "La variante del gen EPAS1 en tibetanos procede de denisovanos."
+  },
+  {
+    "id": "cg-4084",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué proporción aproximada del genoma de las poblaciones no africanas procede de neandertales?",
+    "options": [
+      "Entre el 10 y el 15 %",
+      "Menos del 0,1 %",
+      "Alrededor del 50 %",
+      "Entre el 1 y el 2 %"
+    ],
+    "correctIndex": 3,
+    "explanation": "La hibridación con neandertales dejó una huella pequeña pero significativa."
+  },
+  {
+    "id": "cg-4085",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué mineral de óxido de hierro proporciona el pigmento rojo más usado en el arte rupestre?",
+    "options": [
+      "Hematita",
+      "Malaquita",
+      "Yeso",
+      "Calcita"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hematita molida produce ocres rojos estables."
+  },
+  {
+    "id": "cg-4086",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué técnica pictórica rupestre consiste en proyectar pigmento pulverizado sobre la pared?",
+    "options": [
+      "Talla por incisión",
+      "Aerografía por soplado",
+      "Grabado a punta seca",
+      "Pintura al temple"
+    ],
+    "correctIndex": 1,
+    "explanation": "El soplado con la boca o con tubos crea trazos difusos y siluetas."
+  },
+  {
+    "id": "cg-4087",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué cueva francesa conserva pinturas de leones de las cavernas datadas en unos 36.000 años?",
+    "options": [
+      "Lascaux",
+      "Niaux",
+      "Chauvet",
+      "Rouffignac"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cueva Chauvet destaca por escenas de animales y un uso temprano de la perspectiva."
+  },
+  {
+    "id": "cg-4088",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué nombre recibe una figura grabada en la roca mediante percusión, abrasión o incisión?",
+    "options": [
+      "Pictograma",
+      "Geoglifo",
+      "Bajorrelieve",
+      "Petroglifo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los petroglifos se conservan en superficies rocosas expuestas."
+  },
+  {
+    "id": "cg-4089",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué nombre recibe el conjunto de herramientas fabricadas con astas, huesos y marfil en el Paleolítico?",
+    "options": [
+      "Industria ósea",
+      "Industria lítica",
+      "Industria metalúrgica",
+      "Industria cerámica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La industria ósea incluye azagayas, agujas y bastones perforados."
+  },
+  {
+    "id": "cg-4090",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué técnica de talla produce hojas largas y estrechas a partir de un núcleo preparado de forma prismática?",
+    "options": [
+      "Talla por percusión directa",
+      "Talla laminar",
+      "Talla bipolar",
+      "Retoque por presión"
+    ],
+    "correctIndex": 1,
+    "explanation": "La talla laminar caracteriza buena parte del Paleolítico superior."
+  },
+  {
+    "id": "cg-4091",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué método de talla, típico del Paleolítico medio, prepara el núcleo para obtener una lasca de forma predeterminada?",
+    "options": [
+      "Olduvayense",
+      "Achelense",
+      "Levallois",
+      "Solutrense"
+    ],
+    "correctIndex": 2,
+    "explanation": "El método Levallois requiere planificar la extracción antes de golpear."
+  },
+  {
+    "id": "cg-4092",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué roca verde de gran dureza se talló en hachas neolíticas y se extrajo de yacimientos alpinos como Mont Viso?",
+    "options": [
+      "Obsidiana",
+      "Basalto",
+      "Cuarcita",
+      "Jadeíta"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las hachas de jadeíta circularon a cientos de kilómetros de sus canteras."
+  },
+  {
+    "id": "cg-4093",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de estudio permite atribuir un objeto lítico a una cantera concreta mediante análisis químicos?",
+    "options": [
+      "Caracterización de materias primas",
+      "Seriación tipológica",
+      "Análisis de residuos",
+      "Datación absoluta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los elementos traza actúan como huella geoquímica de la fuente."
+  },
+  {
+    "id": "cg-4094",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué cultura neolítica del Danubio se define por su cerámica decorada con bandas y sus casas largas?",
+    "options": [
+      "Cultura de Rössen",
+      "Cerámica de bandas",
+      "Cultura de Lengyel",
+      "Cultura de Vinča"
+    ],
+    "correctIndex": 1,
+    "explanation": "La cultura de la cerámica de bandas se expandió por Europa central hacia el 5500 a. C."
+  },
+  {
+    "id": "cg-4095",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de tumba megalítica consta de un pasillo de acceso y una cámara cubierta por un túmulo?",
+    "options": [
+      "Dolmen simple",
+      "Menhir alineado",
+      "Tumba de corredor",
+      "Cista de lajas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Newgrange es un ejemplo destacado de tumba de corredor."
+  },
+  {
+    "id": "cg-4096",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué cerámica decorada con bandas incisas se difundió por Europa durante el Calcolítico y la Edad del Bronce?",
+    "options": [
+      "Cerámica cardial",
+      "Cerámica de bandas",
+      "Cerámica a torno",
+      "Vaso campaniforme"
+    ],
+    "correctIndex": 3,
+    "explanation": "El campaniforme aparece en ajuares funerarios desde Portugal hasta Europa central."
+  },
+  {
+    "id": "cg-4097",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué cultura de la Edad del Bronce del Egeo construyó las murallas ciclópeas de Micenas?",
+    "options": [
+      "Micénica",
+      "Minoica",
+      "Cicládica",
+      "Heládica media"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los griegos clásicos atribuyeron las murallas a los cíclopes por su tamaño."
+  },
+  {
+    "id": "cg-4098",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué escritura silábica de la Creta minoica continúa sin descifrar?",
+    "options": [
+      "Lineal B",
+      "Lineal A",
+      "Jeroglífico cretense",
+      "Alfabeto chipriota"
+    ],
+    "correctIndex": 1,
+    "explanation": "El lineal A se usó en palacios minoicos antes del lineal B micénico."
+  },
+  {
+    "id": "cg-4099",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué lengua indoeuropea registran las tablillas micénicas escritas en lineal B?",
+    "options": [
+      "Hitita",
+      "Latín arcaico",
+      "Griego micénico",
+      "Fenicio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El descifrado del lineal B reveló una forma arcaica de griego."
+  },
+  {
+    "id": "cg-4100",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué sistema de escritura de la antigua Persia fue descifrado por Grotefend y Rawlinson?",
+    "options": [
+      "Jeroglífico egipcio",
+      "Lineal A",
+      "Alfabeto ugarítico",
+      "Cuneiforme persa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las inscripciones reales aqueménidas sirvieron de base al descifrado."
+  },
+  {
+    "id": "cg-4101",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué rey persa mandó grabar la inscripción trilingüe de Behistún?",
+    "options": [
+      "Darío I",
+      "Ciro II",
+      "Jerjes I",
+      "Artajerjes I"
+    ],
+    "correctIndex": 0,
+    "explanation": "Darío I narra sus victorias en persa antiguo, elamita y babilonio."
+  },
+  {
+    "id": "cg-4102",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué lengua semítica fue lingua franca del Próximo Oriente y se usó en la correspondencia de Amarna?",
+    "options": [
+      "Ugarítico",
+      "Acadio",
+      "Arameo",
+      "Fenicio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El acadio babilonio fue la lengua diplomática del Bronce tardío."
+  },
+  {
+    "id": "cg-4103",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué archivo de tablillas hallado en Egipto contiene la correspondencia diplomática de Amenhotep III y Akenatón?",
+    "options": [
+      "Biblioteca de Nínive",
+      "Archivo de Ebla",
+      "Archivo de Amarna",
+      "Archivo de Mari"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las cartas de Amarna documentan relaciones entre Egipto y otras cortes."
+  },
+  {
+    "id": "cg-4104",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de escritura emplearon los fenicios y sirvió de base al alfabeto griego?",
+    "options": [
+      "Escritura logosilábica",
+      "Alfabeto vocálico",
+      "Sistema de quipus",
+      "Alfabeto consonántico"
+    ],
+    "correctIndex": 3,
+    "explanation": "El alfabeto fenicio representaba solo consonantes."
+  },
+  {
+    "id": "cg-4105",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué papiro egipcio conserva el relato de la conspiración palaciega contra Ramsés III?",
+    "options": [
+      "Papiro Judicial de Turín",
+      "Papiro de Ani",
+      "Papiro de Ebers",
+      "Papiro de Rhind"
+    ],
+    "correctIndex": 0,
+    "explanation": "El texto recoge interrogatorios y condenas de los implicados."
+  },
+  {
+    "id": "cg-4106",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué especialidad aplica tratamientos físicos y químicos para estabilizar materiales arqueológicos extraídos?",
+    "options": [
+      "Restauración pictórica",
+      "Conservación arqueológica",
+      "Museografía",
+      "Arqueometría"
+    ],
+    "correctIndex": 1,
+    "explanation": "La conservación busca detener la degradación sin alterar la información del objeto."
+  },
+  {
+    "id": "cg-4107",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué compuesto se usa para impregnar y estabilizar madera arqueológica húmeda antes de secarla?",
+    "options": [
+      "Formol",
+      "Hipoclorito de sodio",
+      "Polietilenglicol",
+      "Ácido clorhídrico"
+    ],
+    "correctIndex": 2,
+    "explanation": "El polietilenglicol sustituye el agua y evita el colapso de las fibras."
+  },
+  {
+    "id": "cg-4108",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué disciplina estudia los procesos de formación, alteración y conservación de los yacimientos?",
+    "options": [
+      "Estratigrafía",
+      "Tipología",
+      "Seriación",
+      "Tafonomía"
+    ],
+    "correctIndex": 3,
+    "explanation": "La tafonomía distingue alteraciones naturales de acciones humanas."
+  },
+  {
+    "id": "cg-4109",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué sarcófago de mármol hallado en Sidón muestra escenas de caza y batalla atribuidas a Alejandro Magno?",
+    "options": [
+      "Sarcófago de Alejandro",
+      "Sarcófago de los Plañideros",
+      "Sarcófago de Ankhnesneferibre",
+      "Sarcófago de Escipión"
+    ],
+    "correctIndex": 0,
+    "explanation": "El sarcófago de Alejandro se conserva en el Museo de Estambul."
+  },
+  {
+    "id": "cg-4110",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué biblioteca romana de Éfeso, dedicada a un senador, conserva una fachada de dos pisos reconstruida?",
+    "options": [
+      "Biblioteca de Pérgamo",
+      "Biblioteca de Celso",
+      "Biblioteca de Alejandría",
+      "Biblioteca de Atenas"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Biblioteca de Celso se construyó en el siglo II como monumento funerario."
+  },
+  {
+    "id": "cg-4111",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué maravilla antigua era una torre de señales y guía de navegantes en la isla de Faro, junto a Alejandría?",
+    "options": [
+      "Coloso de Rodas",
+      "Mausoleo de Halicarnaso",
+      "Faro de Alejandría",
+      "Templo de Artemisa"
+    ],
+    "correctIndex": 2,
+    "explanation": "El faro de Alejandría superaba los cien metros de altura."
+  },
+  {
+    "id": "cg-4112",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué sepulcro monumental de Caria, una de las Siete Maravillas, dio nombre a los mausoleos?",
+    "options": [
+      "Templo de Artemisa",
+      "Faro de Alejandría",
+      "Coloso de Rodas",
+      "Mausoleo de Halicarnaso"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fue construido para Mausolo, sátrapa de Caria, y su esposa Artemisa."
+  },
+  {
+    "id": "cg-4113",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué escultor griego dirigió la decoración escultórica del Partenón en Atenas?",
+    "options": [
+      "Fidias",
+      "Policleto",
+      "Praxiteles",
+      "Lisipo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fidias supervisó el friso, las metopas y los frontones del Partenón."
+  },
+  {
+    "id": "cg-4114",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué nombre recibe el aparejo inca de bloques de múltiples lados encajados sin argamasa?",
+    "options": [
+      "Opus quadratum",
+      "Cantería poligonal",
+      "Aparejo ciclópeo",
+      "Sillería almohadillada"
+    ],
+    "correctIndex": 1,
+    "explanation": "La cantería poligonal inca resiste terremotos por su flexibilidad."
+  },
+  {
+    "id": "cg-4115",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué templo inca del Cuzco, dedicado al Sol, tenía muros recubiertos de láminas de oro?",
+    "options": [
+      "Sacsayhuamán",
+      "Qenqo",
+      "Coricancha",
+      "Puca Pucara"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Coricancha se transformó en convento de Santo Domingo tras la conquista."
+  },
+  {
+    "id": "cg-4116",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de bóveda maya, construida por aproximación de hiladas, cubría cámaras estrechas?",
+    "options": [
+      "Bóveda de cañón",
+      "Cúpula de arista",
+      "Bóveda de crucería",
+      "Bóveda maya"
+    ],
+    "correctIndex": 3,
+    "explanation": "El arco maya o falso arco avanza cada hilada hasta cerrar el vano."
+  },
+  {
+    "id": "cg-4117",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué material obtenido al calcinar caliza usaron los mayas para recubrir templos y pavimentos?",
+    "options": [
+      "Estuco de cal",
+      "Mortero de yeso",
+      "Hormigón puzolánico",
+      "Adobe"
+    ],
+    "correctIndex": 0,
+    "explanation": "El estuco maya se modelaba y pintaba sobre los edificios."
+  },
+  {
+    "id": "cg-4118",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué estructura de Chichén Itzá, de planta circular, se interpreta como observatorio astronómico?",
+    "options": [
+      "El Castillo",
+      "El Caracol",
+      "Templo de los Guerreros",
+      "Juego de Pelota"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Caracol tiene aberturas alineadas con eventos celestes."
+  },
+  {
+    "id": "cg-4119",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué nombre reciben las líneas imaginarias que partían del Coricancha y organizaban el espacio ritual inca?",
+    "options": [
+      "Andenes",
+      "Ayllus",
+      "Ceques",
+      "Huacas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los ceques vinculaban santuarios y linajes con el centro del Cuzco."
+  },
+  {
+    "id": "cg-4120",
+    "category": "general",
+    "topic": "archaeology",
+    "difficulty": "hard",
+    "question": "¿Qué especialidad estudia el tratamiento de los muertos y la organización de las tumbas en contextos arqueológicos?",
+    "options": [
+      "Paleopatología",
+      "Bioestratinomía",
+      "Antropología forense",
+      "Arqueotanatología"
+    ],
+    "correctIndex": 3,
+    "explanation": "La arqueotanatología reconstruye gestos funerarios y descomposición de los cuerpos."
+  }
+]

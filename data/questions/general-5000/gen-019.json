@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-5681",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra la Torre Eiffel?",
+    "options": [
+      "Roma",
+      "París",
+      "Londres",
+      "Viena"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Torre Eiffel se levantó en París para la Exposición Universal de 1889."
+  },
+  {
+    "id": "cg-5682",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué ingeniero francés diseñó la Torre Eiffel?",
+    "options": [
+      "Ferdinand de Lesseps",
+      "Gustave Eiffel",
+      "Charles Garnier",
+      "Baron Haussmann"
+    ],
+    "correctIndex": 1,
+    "explanation": "La estructura fue proyectada por la empresa de Gustave Eiffel y sus ingenieros."
+  },
+  {
+    "id": "cg-5683",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra el Taj Mahal?",
+    "options": [
+      "Pakistán",
+      "India",
+      "Nepal",
+      "Bangladés"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Taj Mahal está en Agra, en el norte de la India."
+  },
+  {
+    "id": "cg-5684",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué emperador mogol mandó construir el Taj Mahal?",
+    "options": [
+      "Akbar",
+      "Shah Jahan",
+      "Aurangzeb",
+      "Babur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Shah Jahan ordenó el mausoleo para su esposa Mumtaz Mahal."
+  },
+  {
+    "id": "cg-5685",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra el Coliseo romano?",
+    "options": [
+      "Atenas",
+      "Nápoles",
+      "Estambul",
+      "Roma"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Coliseo o Anfiteatro Flavio se halla en el centro de Roma."
+  },
+  {
+    "id": "cg-5686",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué civilización de la Antigüedad construyó el Coliseo?",
+    "options": [
+      "La Grecia clásica",
+      "El antiguo Egipto",
+      "La Roma antigua",
+      "El Imperio bizantino"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Coliseo fue construido por los romanos entre los años 70 y 80."
+  },
+  {
+    "id": "cg-5687",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra el Partenón?",
+    "options": [
+      "Esparta",
+      "Corinto",
+      "Delfos",
+      "Atenas"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Partenón corona la Acrópolis de Atenas."
+  },
+  {
+    "id": "cg-5688",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra el sitio arqueológico de Machu Picchu?",
+    "options": [
+      "Bolivia",
+      "Ecuador",
+      "Perú",
+      "Colombia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Machu Picchu está en los Andes peruanos, sobre el valle del Urubamba."
+  },
+  {
+    "id": "cg-5689",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué cultura prehispánica construyó Machu Picchu?",
+    "options": [
+      "La inca",
+      "La mexica",
+      "La maya",
+      "La moche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Machu Picchu fue una ciudad inca del siglo XV."
+  },
+  {
+    "id": "cg-5690",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué país se halla el yacimiento nabateo de Petra?",
+    "options": [
+      "Siria",
+      "Jordania",
+      "Líbano",
+      "Egipto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Petra, famosa por sus fachadas talladas en la roca, está en Jordania."
+  },
+  {
+    "id": "cg-5691",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra el templo de Angkor Wat?",
+    "options": [
+      "Camboya",
+      "Tailandia",
+      "Vietnam",
+      "Laos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Angkor Wat es un complejo religioso jemer del siglo XII en Camboya."
+  },
+  {
+    "id": "cg-5692",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra la Alhambra?",
+    "options": [
+      "Sevilla",
+      "Córdoba",
+      "Toledo",
+      "Granada"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Alhambra se alza sobre la colina de la Sabika, en Granada."
+  },
+  {
+    "id": "cg-5693",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué dinastía musulmana construyó la Alhambra de Granada?",
+    "options": [
+      "La omeya",
+      "La almohade",
+      "La nazarí",
+      "La almorávide"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los sultanes nazaríes edificaron la Alhambra entre los siglos XIII y XV."
+  },
+  {
+    "id": "cg-5694",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra la Mezquita-Catedral de Córdoba?",
+    "options": [
+      "Córdoba",
+      "Sevilla",
+      "Málaga",
+      "Jaén"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Mezquita-Catedral de Córdoba es un monumento clave del arte omeya andalusí."
+  },
+  {
+    "id": "cg-5695",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra la basílica de la Sagrada Familia?",
+    "options": [
+      "Madrid",
+      "Valencia",
+      "Barcelona",
+      "Zaragoza"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Sagrada Familia se construye en Barcelona desde 1882."
+  },
+  {
+    "id": "cg-5696",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto diseñó el Parque Güell de Barcelona?",
+    "options": [
+      "Lluís Domènech i Montaner",
+      "Antoni Gaudí",
+      "Josep Puig i Cadafalch",
+      "Enric Sagnier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gaudí proyectó el Parque Güell entre 1900 y 1914."
+  },
+  {
+    "id": "cg-5697",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto diseñó la Casa Batlló de Barcelona?",
+    "options": [
+      "Lluís Domènech i Montaner",
+      "Josep Puig i Cadafalch",
+      "Antoni Gaudí",
+      "Josep Maria Jujol"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gaudí reformó la Casa Batlló entre 1904 y 1906."
+  },
+  {
+    "id": "cg-5698",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto estadounidense diseñó el Museo Guggenheim de Nueva York?",
+    "options": [
+      "Frank Gehry",
+      "Frank Lloyd Wright",
+      "Philip Johnson",
+      "Louis Kahn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wright proyectó el Guggenheim neoyorquino, abierto en 1959."
+  },
+  {
+    "id": "cg-5699",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué estado de Estados Unidos se encuentra la Casa de la Cascada de Frank Lloyd Wright?",
+    "options": [
+      "Nueva York",
+      "Illinois",
+      "Pensilvania",
+      "Ohio"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Casa de la Cascada fue construida en Mill Run, Pensilvania, en 1935."
+  },
+  {
+    "id": "cg-5700",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto danés diseñó la Ópera de Sídney?",
+    "options": [
+      "Alvar Aalto",
+      "Arne Jacobsen",
+      "Sverre Fehn",
+      "Jørn Utzon"
+    ],
+    "correctIndex": 3,
+    "explanation": "Utzon ganó en 1957 el concurso para la Ópera de Sídney."
+  },
+  {
+    "id": "cg-5701",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra la Ópera de Sídney?",
+    "options": [
+      "Nueva Zelanda",
+      "Australia",
+      "Canadá",
+      "Sudáfrica"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Ópera de Sídney es un icono de la ciudad australiana."
+  },
+  {
+    "id": "cg-5702",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra el Empire State Building?",
+    "options": [
+      "Chicago",
+      "Los Ángeles",
+      "Nueva York",
+      "Boston"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Empire State Building se inauguró en Nueva York en 1931."
+  },
+  {
+    "id": "cg-5703",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra el rascacielos Burj Khalifa?",
+    "options": [
+      "Abu Dabi",
+      "Dubái",
+      "Doha",
+      "Riad"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Burj Khalifa se alza en Dubái y se inauguró en 2010."
+  },
+  {
+    "id": "cg-5704",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentran las Torres Petronas?",
+    "options": [
+      "Singapur",
+      "Indonesia",
+      "Malasia",
+      "Tailandia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las Torres Petronas están en Kuala Lumpur, Malasia."
+  },
+  {
+    "id": "cg-5705",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentran las Torres Petronas?",
+    "options": [
+      "Yakarta",
+      "Kuala Lumpur",
+      "Bangkok",
+      "Manila"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las torres gemelas de César Pelli se inauguraron en Kuala Lumpur en 1998."
+  },
+  {
+    "id": "cg-5706",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra el puente Golden Gate?",
+    "options": [
+      "Los Ángeles",
+      "Seattle",
+      "San Diego",
+      "San Francisco"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Golden Gate cruza la bahía de San Francisco."
+  },
+  {
+    "id": "cg-5707",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra la estatua del Cristo Redentor?",
+    "options": [
+      "São Paulo",
+      "Brasilia",
+      "Río de Janeiro",
+      "Salvador"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Cristo Redentor corona el cerro del Corcovado, en Río de Janeiro."
+  },
+  {
+    "id": "cg-5708",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra el Cristo Redentor?",
+    "options": [
+      "Argentina",
+      "Portugal",
+      "Chile",
+      "Brasil"
+    ],
+    "correctIndex": 3,
+    "explanation": "La estatua se inauguró en Brasil en 1931."
+  },
+  {
+    "id": "cg-5709",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra la torre del reloj conocida como Big Ben?",
+    "options": [
+      "Edimburgo",
+      "Londres",
+      "Dublín",
+      "Mánchester"
+    ],
+    "correctIndex": 1,
+    "explanation": "Big Ben es el nombre popular de la torre del reloj del Palacio de Westminster."
+  },
+  {
+    "id": "cg-5710",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra la torre inclinada de Pisa?",
+    "options": [
+      "Grecia",
+      "Francia",
+      "Croacia",
+      "Italia"
+    ],
+    "correctIndex": 3,
+    "explanation": "La torre de Pisa es el campanario de la catedral de la ciudad italiana."
+  },
+  {
+    "id": "cg-5711",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra la catedral de San Basilio?",
+    "options": [
+      "San Petersburgo",
+      "Moscú",
+      "Kiev",
+      "Novgorod"
+    ],
+    "correctIndex": 1,
+    "explanation": "La catedral de San Basilio preside la plaza Roja de Moscú."
+  },
+  {
+    "id": "cg-5712",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra el castillo de Neuschwanstein?",
+    "options": [
+      "Alemania",
+      "Austria",
+      "Suiza",
+      "República Checa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neuschwanstein se construyó en Baviera a finales del siglo XIX."
+  },
+  {
+    "id": "cg-5713",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra el Mont Saint-Michel?",
+    "options": [
+      "Bélgica",
+      "Francia",
+      "Reino Unido",
+      "Países Bajos"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Mont Saint-Michel es una abadía fortificada en la costa de Normandía."
+  },
+  {
+    "id": "cg-5714",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué estilo arquitectónico define a la catedral de Notre-Dame de París?",
+    "options": [
+      "Románico",
+      "Gótico",
+      "Barroco",
+      "Neoclásico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Notre-Dame de París es una catedral gótica iniciada en 1163."
+  },
+  {
+    "id": "cg-5715",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se encuentra la basílica de San Pedro?",
+    "options": [
+      "Florencia",
+      "Milán",
+      "Ciudad del Vaticano",
+      "Venecia"
+    ],
+    "correctIndex": 2,
+    "explanation": "La basílica de San Pedro está en el Vaticano, dentro de Roma."
+  },
+  {
+    "id": "cg-5716",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué artista renacentista diseñó la cúpula de la basílica de San Pedro?",
+    "options": [
+      "Donato Bramante",
+      "Rafael",
+      "Giorgio Vasari",
+      "Miguel Ángel"
+    ],
+    "correctIndex": 3,
+    "explanation": "Miguel Ángel proyectó la cúpula vaticana en el siglo XVI."
+  },
+  {
+    "id": "cg-5717",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto renacentista diseñó la cúpula de la catedral de Florencia?",
+    "options": [
+      "Leon Battista Alberti",
+      "Filippo Brunelleschi",
+      "Andrea Palladio",
+      "Michelozzo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Brunelleschi completó la cúpula del Duomo florentino en 1436."
+  },
+  {
+    "id": "cg-5718",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto romano escribió el tratado De architectura?",
+    "options": [
+      "Vitruvio",
+      "Plinio el Viejo",
+      "Séneca",
+      "Apicio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vitruvio dedicó su tratado de arquitectura al emperador Augusto."
+  },
+  {
+    "id": "cg-5719",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué orden griego se caracteriza por un capitel con volutas?",
+    "options": [
+      "El dórico",
+      "El jónico",
+      "El corintio",
+      "El toscano"
+    ],
+    "correctIndex": 1,
+    "explanation": "El capitel jónico luce dos volutas laterales."
+  },
+  {
+    "id": "cg-5720",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué orden griego tiene capitel sencillo y carece de basa en la columna?",
+    "options": [
+      "El dórico",
+      "El jónico",
+      "El corintio",
+      "El compuesto"
+    ],
+    "correctIndex": 0,
+    "explanation": "La columna dórica se apoya directamente en el estilóbato."
+  },
+  {
+    "id": "cg-5721",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué elemento arquitectónico gótico transmite al exterior el empuje lateral de la bóveda?",
+    "options": [
+      "El arbotante",
+      "El contrafuerte románico",
+      "La columna salomónica",
+      "El dintel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los arbotantes permitieron elevar los muros y abrir grandes ventanales."
+  },
+  {
+    "id": "cg-5722",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué abertura circular con vidrieras es característica de las catedrales góticas?",
+    "options": [
+      "El óculo",
+      "La saetera",
+      "El rosetón",
+      "El tragaluz"
+    ],
+    "correctIndex": 2,
+    "explanation": "El rosetón es un gran ventanal circular con tracería y vidrieras."
+  },
+  {
+    "id": "cg-5723",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué templo romano de planta circular conserva una cúpula con un óculo central?",
+    "options": [
+      "El Templo de Saturno",
+      "La Maison Carrée",
+      "El Templo de Diana",
+      "El Panteón de Roma"
+    ],
+    "correctIndex": 3,
+    "explanation": "La cúpula del Panteón de Agripa se abre en un óculo de unos nueve metros."
+  },
+  {
+    "id": "cg-5724",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué pueblo de la Antigüedad construyó el acueducto de Segovia?",
+    "options": [
+      "Los visigodos",
+      "Los árabes",
+      "Los celtíberos",
+      "Los romanos"
+    ],
+    "correctIndex": 3,
+    "explanation": "El acueducto de Segovia es una obra de ingeniería romana."
+  },
+  {
+    "id": "cg-5725",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué ingeniero diseñó el puente de Brooklyn?",
+    "options": [
+      "Gustave Eiffel",
+      "Isambard Kingdom Brunel",
+      "John Roebling",
+      "Thomas Telford"
+    ],
+    "correctIndex": 2,
+    "explanation": "John Roebling proyectó el puente de Brooklyn, inaugurado en 1883."
+  },
+  {
+    "id": "cg-5726",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué país regaló la Estatua de la Libertad a Estados Unidos?",
+    "options": [
+      "Reino Unido",
+      "España",
+      "Italia",
+      "Francia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Francia entregó la estatua en 1886 para conmemorar la independencia estadounidense."
+  },
+  {
+    "id": "cg-5727",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué escuela de arte y diseño fundó Walter Gropius en 1919?",
+    "options": [
+      "La Bauhaus",
+      "La Escuela de Glasgow",
+      "El Werkbund",
+      "La Secesión de Viena"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Bauhaus unió artesanía, arte y diseño industrial."
+  },
+  {
+    "id": "cg-5728",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad alemana se fundó la Bauhaus en 1919?",
+    "options": [
+      "Dessau",
+      "Weimar",
+      "Berlín",
+      "Múnich"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Bauhaus nació en Weimar y luego se trasladó a Dessau."
+  },
+  {
+    "id": "cg-5729",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto acuñó la frase menos es más?",
+    "options": [
+      "Le Corbusier",
+      "Ludwig Mies van der Rohe",
+      "Frank Lloyd Wright",
+      "Louis Sullivan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mies van der Rohe resumió así su ideal de depuración formal."
+  },
+  {
+    "id": "cg-5730",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto estadounidense afirmó que la forma sigue a la función?",
+    "options": [
+      "Daniel Burnham",
+      "Louis Sullivan",
+      "Frank Lloyd Wright",
+      "Cass Gilbert"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sullivan formuló el principio en su obra teórica sobre el rascacielos."
+  },
+  {
+    "id": "cg-5731",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué urbanista británico propuso el modelo de ciudad jardín a finales del siglo XIX?",
+    "options": [
+      "Patrick Geddes",
+      "Raymond Unwin",
+      "Ebenezer Howard",
+      "Clarence Stein"
+    ],
+    "correctIndex": 2,
+    "explanation": "Howard publicó en 1898 su propuesta de ciudades jardín autosuficientes."
+  },
+  {
+    "id": "cg-5732",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto planificó el trazado urbano de Brasilia?",
+    "options": [
+      "Óscar Niemeyer",
+      "Roberto Burle Marx",
+      "Ruy Ohtake",
+      "Lúcio Costa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lúcio Costa ganó el concurso del plan piloto de Brasilia en 1957."
+  },
+  {
+    "id": "cg-5733",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto brasileño diseñó la catedral de Brasilia?",
+    "options": [
+      "Óscar Niemeyer",
+      "Lúcio Costa",
+      "Lina Bo Bardi",
+      "Paulo Mendes da Rocha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Niemeyer diseñó la catedral de Brasilia, inaugurada en 1970."
+  },
+  {
+    "id": "cg-5734",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto suizo-francés diseñó la Villa Savoye en Poissy?",
+    "options": [
+      "Auguste Perret",
+      "Le Corbusier",
+      "Robert Mallet-Stevens",
+      "Tony Garnier"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Villa Savoye, terminada en 1931, es una obra clave del Movimiento Moderno."
+  },
+  {
+    "id": "cg-5735",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto diseñó el edificio Seagram de Nueva York junto a Philip Johnson?",
+    "options": [
+      "Walter Gropius",
+      "Eero Saarinen",
+      "Ludwig Mies van der Rohe",
+      "Skidmore, Owings & Merrill"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Seagram Building se inauguró en 1958 y definió el estilo corporativo moderno."
+  },
+  {
+    "id": "cg-5736",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto italiano diseñó el Centro Pompidou de París junto a Richard Rogers?",
+    "options": [
+      "Carlo Scarpa",
+      "Renzo Piano",
+      "Paolo Soleri",
+      "Gio Ponti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Piano y Rogers ganaron el concurso del Centre Pompidou en 1971."
+  },
+  {
+    "id": "cg-5737",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto chino-estadounidense diseñó la pirámide de vidrio del Louvre?",
+    "options": [
+      "I. M. Pei",
+      "Kenzo Tange",
+      "César Pelli",
+      "Minoru Yamasaki"
+    ],
+    "correctIndex": 0,
+    "explanation": "La pirámide del Louvre, obra de I. M. Pei, se inauguró en 1989."
+  },
+  {
+    "id": "cg-5738",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto británico diseñó el viaducto de Millau en Francia?",
+    "options": [
+      "Richard Rogers",
+      "James Stirling",
+      "Terry Farrell",
+      "Norman Foster"
+    ],
+    "correctIndex": 3,
+    "explanation": "Foster firmó el diseño arquitectónico del viaducto, abierto en 2004."
+  },
+  {
+    "id": "cg-5739",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué apodo recibe el rascacielos londinense 30 St Mary Axe, obra de Norman Foster?",
+    "options": [
+      "El Huevo",
+      "La Zanahoria",
+      "El Reloj",
+      "El Pepino"
+    ],
+    "correctIndex": 3,
+    "explanation": "Su forma redondeada y acristalada le valió el apodo de Gherkin, el pepino."
+  },
+  {
+    "id": "cg-5740",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué metal recubre la piel exterior del Museo Guggenheim de Bilbao?",
+    "options": [
+      "Cobre",
+      "Aluminio",
+      "Zinc",
+      "Titanio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las láminas de titanio dan al museo de Frank Gehry su brillo característico."
+  },
+  {
+    "id": "cg-5741",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto canadiense-estadounidense diseñó la Casa Danzante de Praga?",
+    "options": [
+      "Frank Gehry",
+      "Daniel Libeskind",
+      "Peter Eisenman",
+      "Zaha Hadid"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gehry diseñó la Casa Danzante con el arquitecto checo Vlado Milunić."
+  },
+  {
+    "id": "cg-5742",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué estudio suizo diseñó el Estadio Olímpico de Pekín conocido como Nido de Pájaro?",
+    "options": [
+      "SANAA",
+      "OMA",
+      "MVRDV",
+      "Herzog & de Meuron"
+    ],
+    "correctIndex": 3,
+    "explanation": "Herzog & de Meuron diseñaron el estadio con el estudio chino de Ai Weiwei."
+  },
+  {
+    "id": "cg-5743",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto neerlandés dirigió el estudio autor de la sede de CCTV en Pekín?",
+    "options": [
+      "Ben van Berkel",
+      "Rem Koolhaas",
+      "MVRDV",
+      "Aldo van Eyck"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rem Koolhaas y OMA proyectaron la sede central de CCTV, terminada en 2012."
+  },
+  {
+    "id": "cg-5744",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto diseñó el edificio Chrysler de Nueva York?",
+    "options": [
+      "Cass Gilbert",
+      "William Van Alen",
+      "Raymond Hood",
+      "William Le Baron Jenney"
+    ],
+    "correctIndex": 1,
+    "explanation": "Van Alen coronó el Chrysler Building con una aguja de acero inoxidable en 1930."
+  },
+  {
+    "id": "cg-5745",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué edificio neoyorquino recibe su nombre por su planta triangular?",
+    "options": [
+      "El Flatiron Building",
+      "El Chrysler Building",
+      "El Woolworth Building",
+      "El Seagram Building"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Flatiron ocupa una manzana triangular entre Broadway y la Quinta Avenida."
+  },
+  {
+    "id": "cg-5746",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué catedral gótica alemana, situada junto al río Rin, tardó más de seis siglos en completarse?",
+    "options": [
+      "La catedral de Estrasburgo",
+      "La catedral de Friburgo",
+      "La catedral de Ulm",
+      "La catedral de Colonia"
+    ],
+    "correctIndex": 3,
+    "explanation": "La catedral de Colonia se inició en 1248 y se concluyó en 1880."
+  },
+  {
+    "id": "cg-5747",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad italiana es conocida por sus canales y por el puente de Rialto?",
+    "options": [
+      "Florencia",
+      "Bolonia",
+      "Turín",
+      "Venecia"
+    ],
+    "correctIndex": 3,
+    "explanation": "El puente de Rialto cruza el Gran Canal de Venecia."
+  },
+  {
+    "id": "cg-5748",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué basílica bizantina de Estambul, construida en el siglo VI, fue mezquita y luego museo?",
+    "options": [
+      "Santa Sofía",
+      "Santa Irene",
+      "San Salvador de Cora",
+      "La Mezquita Azul"
+    ],
+    "correctIndex": 0,
+    "explanation": "Santa Sofía fue erigida por Justiniano y hoy vuelve a funcionar como mezquita."
+  },
+  {
+    "id": "cg-5749",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué mezquita del siglo XVII, situada frente a Santa Sofía, es conocida como Mezquita Azul?",
+    "options": [
+      "La Mezquita de Süleymaniye",
+      "La Mezquita de Rustem Pasha",
+      "La Mezquita de Selimiye",
+      "La Mezquita del Sultán Ahmed"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Mezquita Azul de Estambul debe su nombre a los azulejos de Iznik de su interior."
+  },
+  {
+    "id": "cg-5750",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué palacio francés mandó ampliar Luis XIV y fue sede de la corte desde 1682?",
+    "options": [
+      "El Palacio de Fontainebleau",
+      "El Castillo de Chambord",
+      "El Palacio de Versalles",
+      "El Palacio de Saint-Germain-en-Laye"
+    ],
+    "correctIndex": 2,
+    "explanation": "Versalles se convirtió en el centro del poder absoluto francés."
+  },
+  {
+    "id": "cg-5751",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué monasterio mandó construir Felipe II en la sierra de Guadarrama?",
+    "options": [
+      "El Monasterio de El Escorial",
+      "El Monasterio de Guadalupe",
+      "El Monasterio de San Millán de Yuso",
+      "El Monasterio de Montserrat"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Escorial se levantó como palacio, monasterio y panteón real."
+  },
+  {
+    "id": "cg-5752",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto asumió las obras del Monasterio de El Escorial tras la muerte de Juan Bautista de Toledo?",
+    "options": [
+      "Juan de Villanueva",
+      "Pedro Machuca",
+      "Diego de Siloé",
+      "Juan de Herrera"
+    ],
+    "correctIndex": 3,
+    "explanation": "Juan de Herrera dio al Escorial su austera imagen final."
+  },
+  {
+    "id": "cg-5753",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto barroco diseñó la columnata que rodea la plaza de San Pedro en el Vaticano?",
+    "options": [
+      "Francesco Borromini",
+      "Gian Lorenzo Bernini",
+      "Carlo Maderno",
+      "Domenico Fontana"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bernini concibió la columnata como un abrazo simbólico a los fieles."
+  },
+  {
+    "id": "cg-5754",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto barroco italiano diseñó la iglesia de San Carlo alle Quattro Fontane en Roma?",
+    "options": [
+      "Pietro da Cortona",
+      "Francesco Borromini",
+      "Guarino Guarini",
+      "Carlo Rainaldi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Borromini desplegó en San Carlo un juego de curvas y superficies onduladas."
+  },
+  {
+    "id": "cg-5755",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto belga fue una figura central del Art Nouveau con la Casa Tassel de Bruselas?",
+    "options": [
+      "Henry van de Velde",
+      "Josef Hoffmann",
+      "Victor Horta",
+      "Hector Guimard"
+    ],
+    "correctIndex": 2,
+    "explanation": "Horta diseñó la Casa Tassel en 1893 con estructuras metálicas vistas."
+  },
+  {
+    "id": "cg-5756",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto catalán lideró el modernismo con obras como la Casa Milà?",
+    "options": [
+      "Lluís Domènech i Montaner",
+      "Antoni Gaudí",
+      "Josep Puig i Cadafalch",
+      "Josep Maria Jujol"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Casa Milà, conocida como La Pedrera, se terminó en 1912."
+  },
+  {
+    "id": "cg-5757",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué estilo decorativo de los años veinte y treinta se asocia al edificio Chrysler de Nueva York?",
+    "options": [
+      "Art Nouveau",
+      "Neoplasticismo",
+      "Art Déco",
+      "Constructivismo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Art Déco combina geometría, lujo y referencias a la máquina."
+  },
+  {
+    "id": "cg-5758",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué estilo arquitectónico de mediados del siglo XX se caracteriza por el hormigón visto y las formas masivas?",
+    "options": [
+      "El racionalismo",
+      "El brutalismo",
+      "El historicismo",
+      "El regionalismo crítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "El brutalismo debe su nombre al béton brut, el hormigón sin revestir."
+  },
+  {
+    "id": "cg-5759",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué corriente arquitectónica de los años setenta y ochenta recuperó ornamentos y citas históricas?",
+    "options": [
+      "El funcionalismo",
+      "El metabolismo",
+      "La posmodernidad",
+      "El deconstructivismo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La arquitectura posmoderna reaccionó contra la austeridad moderna."
+  },
+  {
+    "id": "cg-5760",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto estadounidense diseñó el edificio AT&T de Nueva York, ejemplo de posmodernidad?",
+    "options": [
+      "Michael Graves",
+      "Philip Johnson",
+      "Robert Venturi",
+      "Charles Moore"
+    ],
+    "correctIndex": 1,
+    "explanation": "El AT&T, terminado en 1984, corona su fachada con un frontón en forma de remate."
+  },
+  {
+    "id": "cg-5761",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecta de origen iraquí diseñó el Centro Acuático de los Juegos Olímpicos de Londres 2012?",
+    "options": [
+      "Kazuyo Sejima",
+      "Amanda Levete",
+      "Farshid Moussavi",
+      "Zaha Hadid"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hadid proyectó el Centro Acuático con una cubierta ondulada de inspiración acuática."
+  },
+  {
+    "id": "cg-5762",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto japonés diseñó la Iglesia de la Luz en Ibaraki?",
+    "options": [
+      "Toyo Ito",
+      "Kengo Kuma",
+      "Shigeru Ban",
+      "Tadao Ando"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ando usó un muro de hormigón atravesado por una cruz de luz natural."
+  },
+  {
+    "id": "cg-5763",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto mexicano es conocido por sus muros de colores intensos y por la Casa Gilardi?",
+    "options": [
+      "Pedro Ramírez Vázquez",
+      "Luis Barragán",
+      "Ricardo Legorreta",
+      "Teodoro González de León"
+    ],
+    "correctIndex": 1,
+    "explanation": "Barragán combinó volúmenes limpios, color y luz en la arquitectura mexicana."
+  },
+  {
+    "id": "cg-5764",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto finlandés diseñó el Ayuntamiento de Säynätsalo?",
+    "options": [
+      "Eliel Saarinen",
+      "Eero Saarinen",
+      "Alvar Aalto",
+      "Reima Pietilä"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aalto terminó el Ayuntamiento de Säynätsalo en 1952."
+  },
+  {
+    "id": "cg-5765",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto danés diseñó la silla Egg en 1958?",
+    "options": [
+      "Hans Wegner",
+      "Børge Mogensen",
+      "Arne Jacobsen",
+      "Poul Kjærholm"
+    ],
+    "correctIndex": 2,
+    "explanation": "La silla Egg se diseñó para el vestíbulo del hotel SAS de Copenhague."
+  },
+  {
+    "id": "cg-5766",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué pareja de diseñadores estadounidenses creó la silla Lounge de madera contrachapada en 1956?",
+    "options": [
+      "Charles y Henry Greene",
+      "Josef y Anni Albers",
+      "Charles y Ray Eames",
+      "George y Florence Knoll"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Eames Lounge Chair se convirtió en un clásico del diseño moderno."
+  },
+  {
+    "id": "cg-5767",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto húngaro-estadounidense diseñó la silla Wassily para la Bauhaus?",
+    "options": [
+      "Marcel Breuer",
+      "Ludwig Mies van der Rohe",
+      "Walter Gropius",
+      "László Moholy-Nagy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Breuer creó la silla Wassily con tubos de acero curvado en 1925."
+  },
+  {
+    "id": "cg-5768",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto finlandés-estadounidense diseñó la silla Tulip en 1956?",
+    "options": [
+      "Alvar Aalto",
+      "Eero Saarinen",
+      "Charles Eames",
+      "Harry Bertoia"
+    ],
+    "correctIndex": 1,
+    "explanation": "La silla Tulip resuelve el asiento con un único pedestal central."
+  },
+  {
+    "id": "cg-5769",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué arquitecto alemán diseñó la silla Barcelona para el Pabellón de Alemania de 1929?",
+    "options": [
+      "Marcel Breuer",
+      "Ludwig Mies van der Rohe",
+      "Walter Gropius",
+      "Hans Scharoun"
+    ],
+    "correctIndex": 1,
+    "explanation": "La silla Barcelona se presentó en la Exposición Internacional de 1929."
+  },
+  {
+    "id": "cg-5770",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué diseñador alemán formuló los diez principios del buen diseño mientras trabajaba para Braun?",
+    "options": [
+      "Otl Aicher",
+      "Dieter Rams",
+      "Hans Gugelot",
+      "Wilhelm Wagenfeld"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los principios de Rams influyeron en el diseño de productos de Apple."
+  },
+  {
+    "id": "cg-5771",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué diseñador británico lideró el diseño del iMac y del iPod en Apple?",
+    "options": [
+      "Marc Newson",
+      "Hartmut Esslinger",
+      "Richard Sapper",
+      "Jonathan Ive"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ive dirigió el equipo de diseño industrial de Apple desde los años noventa."
+  },
+  {
+    "id": "cg-5772",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué diseñador francés creó el exprimidor Juicy Salif para Alessi en 1990?",
+    "options": [
+      "Marc Newson",
+      "Ettore Sottsass",
+      "Michele De Lucchi",
+      "Philippe Starck"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Juicy Salif, con patas de araña, es un icono del diseño doméstico."
+  },
+  {
+    "id": "cg-5773",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué diseñador estadounidense creó el logotipo de IBM en 1956?",
+    "options": [
+      "Saul Bass",
+      "Milton Glaser",
+      "Paul Rand",
+      "Massimo Vignelli"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paul Rand diseñó la versión rayada del logotipo de IBM."
+  },
+  {
+    "id": "cg-5774",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué diseñador estadounidense creó el logotipo I Love NY en 1977?",
+    "options": [
+      "Paul Rand",
+      "Herb Lubalin",
+      "Seymour Chwast",
+      "Milton Glaser"
+    ],
+    "correctIndex": 3,
+    "explanation": "Glaser dibujó el emblema para promover el turismo en Nueva York."
+  },
+  {
+    "id": "cg-5775",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué diseñador gráfico estadounidense creó los títulos de crédito de Psicosis y Vértigo?",
+    "options": [
+      "Paul Rand",
+      "Saul Steinberg",
+      "Saul Bass",
+      "Tibor Kalman"
+    ],
+    "correctIndex": 2,
+    "explanation": "Saul Bass revolucionó los créditos cinematográficos con animaciones abstractas."
+  },
+  {
+    "id": "cg-5776",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué tipografía sans serif, creada en 1957 por Max Miedinger, se usa en la señalética del metro de Nueva York?",
+    "options": [
+      "Univers",
+      "Futura",
+      "Gill Sans",
+      "Helvetica"
+    ],
+    "correctIndex": 3,
+    "explanation": "La señalética del metro neoyorquino adoptó Helvetica en los años ochenta."
+  },
+  {
+    "id": "cg-5777",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué tipógrafo suizo creó la tipografía Univers en 1957?",
+    "options": [
+      "Max Miedinger",
+      "Josef Müller-Brockmann",
+      "Emil Ruder",
+      "Adrian Frutiger"
+    ],
+    "correctIndex": 3,
+    "explanation": "Univers se diseñó como una familia coherente de pesos y anchos."
+  },
+  {
+    "id": "cg-5778",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué diseñador creó en 1931 el mapa esquemático del metro de Londres?",
+    "options": [
+      "Edward Johnston",
+      "Harry Beck",
+      "Frank Pick",
+      "Eric Gill"
+    ],
+    "correctIndex": 1,
+    "explanation": "Beck sustituyó la geografía por líneas rectas y ángulos de 45 grados."
+  },
+  {
+    "id": "cg-5779",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué diseñador estadounidense creó en 1970 el símbolo del reciclaje de tres flechas?",
+    "options": [
+      "Gary Anderson",
+      "Saul Bass",
+      "Paul Rand",
+      "Raymond Loewy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anderson presentó el símbolo en un concurso convocado por la ciudad de Chicago."
+  },
+  {
+    "id": "cg-5780",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué inventor francés presentó en 1839 el procedimiento fotográfico que llevó su nombre?",
+    "options": [
+      "Louis Daguerre",
+      "Nicéphore Niépce",
+      "William Henry Fox Talbot",
+      "Hippolyte Bayard"
+    ],
+    "correctIndex": 0,
+    "explanation": "El daguerrotipo fue el primer proceso fotográfico comercializado."
+  },
+  {
+    "id": "cg-5781",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué empresario estadounidense fundó Kodak y popularizó la fotografía de aficionados?",
+    "options": [
+      "Edwin Land",
+      "George Eastman",
+      "Henry Ford",
+      "Thomas Edison"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eastman lanzó la cámara Brownie en 1900 para acercar la fotografía al público."
+  },
+  {
+    "id": "cg-5782",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué inventor estadounidense fundó Polaroid y desarrolló el revelado instantáneo?",
+    "options": [
+      "George Eastman",
+      "Steven Sasson",
+      "Edwin Land",
+      "Harold Edgerton"
+    ],
+    "correctIndex": 2,
+    "explanation": "Land presentó la primera cámara Polaroid en 1948."
+  },
+  {
+    "id": "cg-5783",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué fotógrafo estadounidense es célebre por sus paisajes en blanco y negro del parque nacional de Yosemite?",
+    "options": [
+      "Edward Weston",
+      "Ansel Adams",
+      "Minor White",
+      "Eliot Porter"
+    ],
+    "correctIndex": 1,
+    "explanation": "Adams fotografió Yosemite durante décadas y defendió su conservación."
+  },
+  {
+    "id": "cg-5784",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "easy",
+    "question": "¿Qué fotógrafo francés acuñó el concepto del instante decisivo en la fotografía callejera?",
+    "options": [
+      "Robert Doisneau",
+      "Brassaï",
+      "André Kertész",
+      "Henri Cartier-Bresson"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cartier-Bresson buscaba el instante en que forma y contenido coinciden."
+  },
+  {
+    "id": "cg-5785",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto renacentista diseñó la Villa Rotonda, cerca de Vicenza?",
+    "options": [
+      "Giulio Romano",
+      "Jacopo Sansovino",
+      "Andrea Palladio",
+      "Baldassare Peruzzi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Palladio proyectó la Villa Rotonda hacia 1567, con cúpula central y pórticos simétricos."
+  },
+  {
+    "id": "cg-5786",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto renacentista escribió el tratado De re aedificatoria en el siglo XV?",
+    "options": [
+      "Leon Battista Alberti",
+      "Francesco di Giorgio",
+      "Sebastiano Serlio",
+      "Filarete"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alberti sistematizó la teoría arquitectónica inspirada en Vitruvio."
+  },
+  {
+    "id": "cg-5787",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto diseñó el templete de San Pietro in Montorio en Roma?",
+    "options": [
+      "Andrea Palladio",
+      "Giulio Romano",
+      "Donato Bramante",
+      "Baldassare Peruzzi"
+    ],
+    "correctIndex": 2,
+    "explanation": "El templete de Bramante, de 1502, es una obra clave del Alto Renacimiento."
+  },
+  {
+    "id": "cg-5788",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto diseñó el Palacio de Carlos V en la Alhambra de Granada?",
+    "options": [
+      "Diego de Siloé",
+      "Pedro Machuca",
+      "Juan de Herrera",
+      "Alonso de Covarrubias"
+    ],
+    "correctIndex": 1,
+    "explanation": "Machuca introdujo en Granada un palacio de planta cuadrada con patio circular."
+  },
+  {
+    "id": "cg-5789",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto renacentista español diseñó la catedral de Granada?",
+    "options": [
+      "Pedro Machuca",
+      "Diego de Siloé",
+      "Andrés de Vandelvira",
+      "Juan de Villanueva"
+    ],
+    "correctIndex": 1,
+    "explanation": "Siloé concibió la catedral de Granada con una gran capilla circular."
+  },
+  {
+    "id": "cg-5790",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto diseñó la fachada del Obradoiro de la catedral de Santiago de Compostela?",
+    "options": [
+      "Fernando de Casas Novoa",
+      "Domingo de Andrade",
+      "José Peña de Toro",
+      "Juan de Herrera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Casas Novoa levantó la fachada barroca del Obradoiro entre 1738 y 1750."
+  },
+  {
+    "id": "cg-5791",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto neoclásico español diseñó el edificio del Museo del Prado?",
+    "options": [
+      "Ventura Rodríguez",
+      "Juan de Herrera",
+      "Antonio Palacios",
+      "Juan de Villanueva"
+    ],
+    "correctIndex": 3,
+    "explanation": "Villanueva proyectó el edificio en 1785 para albergar un gabinete de historia natural."
+  },
+  {
+    "id": "cg-5792",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué ingeniero español diseñó el puente transbordador de Vizcaya, inaugurado en 1893?",
+    "options": [
+      "Gustave Eiffel",
+      "Santiago Calatrava",
+      "Leonardo Torres Quevedo",
+      "Alberto de Palacio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El puente de Vizcaya une las dos orillas de la ría del Nervión con una barquilla colgante."
+  },
+  {
+    "id": "cg-5793",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto francés diseñó la Torre Glòries de Barcelona, antes llamada Torre Agbar?",
+    "options": [
+      "Jean Nouvel",
+      "Christian de Portzamparc",
+      "Dominique Perrault",
+      "Paul Andreu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nouvel inauguró la torre en 2005 con una fachada de lamas de colores."
+  },
+  {
+    "id": "cg-5794",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué ingeniero y arquitecto español diseñó el aeropuerto de Bilbao, inaugurado en 2000?",
+    "options": [
+      "Santiago Calatrava",
+      "Rafael Moneo",
+      "Norman Foster",
+      "Richard Rogers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Calatrava dio a la terminal bilbaína una cubierta en forma de ave."
+  },
+  {
+    "id": "cg-5795",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto español diseñó el Museo Nacional de Arte Romano de Mérida?",
+    "options": [
+      "Álvaro Siza",
+      "Juan Navarro Baldeweg",
+      "Rafael Moneo",
+      "Antonio Cruz"
+    ],
+    "correctIndex": 2,
+    "explanation": "Moneo empleó arcos de ladrillo para dialogar con la Roma antigua."
+  },
+  {
+    "id": "cg-5796",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto portugués recibió el Premio Pritzker en 1992?",
+    "options": [
+      "Eduardo Souto de Moura",
+      "Álvaro Siza",
+      "Fernando Távora",
+      "Gonçalo Byrne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Siza obtuvo el Pritzker por su obra de formas depuradas y luz natural."
+  },
+  {
+    "id": "cg-5797",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto portugués diseñó el Estadio Municipal de Braga, inaugurado en 2003?",
+    "options": [
+      "Álvaro Siza",
+      "Rem Koolhaas",
+      "Eduardo Souto de Moura",
+      "Vittorio Gregotti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Souto de Moura excavó el estadio en una cantera y cubrió solo las gradas."
+  },
+  {
+    "id": "cg-5798",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecta recibió el Premio Pritzker en 2004 y diseñó el Centro Phaeno de Wolfsburgo?",
+    "options": [
+      "Kazuyo Sejima",
+      "Zaha Hadid",
+      "Odile Decq",
+      "Amanda Levete"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hadid fue la primera mujer en recibir el Pritzker en solitario."
+  },
+  {
+    "id": "cg-5799",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto japonés diseñó la Torre Cápsula de Nakagin en Tokio, terminada en 1972?",
+    "options": [
+      "Kiyonori Kikutake",
+      "Fumihiko Maki",
+      "Kisho Kurokawa",
+      "Kenzo Tange"
+    ],
+    "correctIndex": 2,
+    "explanation": "La torre de Kurokawa agrupaba cápsulas prefabricadas para viviendas."
+  },
+  {
+    "id": "cg-5800",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué movimiento arquitectónico japonés de los años sesenta propuso ciudades formadas por cápsulas y estructuras cambiantes?",
+    "options": [
+      "El constructivismo",
+      "El brutalismo",
+      "El high tech",
+      "El metabolismo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los metabolistas imaginaron ciudades orgánicas capaces de crecer."
+  },
+  {
+    "id": "cg-5801",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto finlandés-estadounidense diseñó la terminal TWA del aeropuerto JFK de Nueva York?",
+    "options": [
+      "Alvar Aalto",
+      "Philip Johnson",
+      "Eero Saarinen",
+      "Minoru Yamasaki"
+    ],
+    "correctIndex": 2,
+    "explanation": "Saarinen inauguró la terminal TWA en 1962 con una cubierta en forma de ala."
+  },
+  {
+    "id": "cg-5802",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto diseñó el Museo Judío de Berlín, inaugurado en 2001?",
+    "options": [
+      "Daniel Libeskind",
+      "Peter Eisenman",
+      "Rem Koolhaas",
+      "Frank Gehry"
+    ],
+    "correctIndex": 0,
+    "explanation": "El edificio de Libeskind usa vacíos y ejes quebrados para evocar la memoria."
+  },
+  {
+    "id": "cg-5803",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto japonés diseñó el Museo de Arte Moderno de Fort Worth, inaugurado en 2002?",
+    "options": [
+      "Toyo Ito",
+      "Tadao Ando",
+      "Kengo Kuma",
+      "Yoshio Taniguchi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ando distribuyó pabellones acristalados junto a estanques de agua."
+  },
+  {
+    "id": "cg-5804",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto suizo diseñó las Termas de Vals en los Grisones?",
+    "options": [
+      "Mario Botta",
+      "Jacques Herzog",
+      "Christian Kerez",
+      "Peter Zumthor"
+    ],
+    "correctIndex": 3,
+    "explanation": "Zumthor construyó las termas con capas de piedra local en 1996."
+  },
+  {
+    "id": "cg-5805",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto suizo-francés diseñó la capilla de Notre-Dame du Haut en Ronchamp?",
+    "options": [
+      "Auguste Perret",
+      "Le Corbusier",
+      "Tony Garnier",
+      "Robert Mallet-Stevens"
+    ],
+    "correctIndex": 1,
+    "explanation": "La capilla de Ronchamp, terminada en 1955, combina muros curvos y luz cenital."
+  },
+  {
+    "id": "cg-5806",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué sistema de proporciones basado en el cuerpo humano ideó Le Corbusier?",
+    "options": [
+      "El Modulor",
+      "La sección áurea",
+      "El canon de Policleto",
+      "El orden jónico"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Modulor relacionaba medidas humanas con la escala arquitectónica."
+  },
+  {
+    "id": "cg-5807",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto neerlandés diseñó la Casa Schröder en Utrecht en 1924?",
+    "options": [
+      "J.J.P. Oud",
+      "Theo van Doesburg",
+      "Gerrit Rietveld",
+      "Hendrik Petrus Berlage"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rietveld aplicó planos y colores primarios al espacio doméstico."
+  },
+  {
+    "id": "cg-5808",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué movimiento artístico neerlandés, fundado en 1917, se vinculó a la arquitectura de la Casa Schröder?",
+    "options": [
+      "El Art Nouveau",
+      "El expresionismo",
+      "El constructivismo",
+      "De Stijl"
+    ],
+    "correctIndex": 3,
+    "explanation": "De Stijl defendía la abstracción, la línea recta y los colores primarios."
+  },
+  {
+    "id": "cg-5809",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto sueco diseñó el Ayuntamiento de Estocolmo, terminado en 1923?",
+    "options": [
+      "Gunnar Asplund",
+      "Carl Westman",
+      "Ivar Tengbom",
+      "Ragnar Östberg"
+    ],
+    "correctIndex": 3,
+    "explanation": "Östberg combinó ladrillo, arcadas y una torre junto al lago Mälaren."
+  },
+  {
+    "id": "cg-5810",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto finlandés diseñó la biblioteca municipal de Viipuri en los años treinta?",
+    "options": [
+      "Alvar Aalto",
+      "Eliel Saarinen",
+      "Erik Bryggman",
+      "Reima Pietilä"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aalto experimentó en Viipuri con iluminación natural y techos ondulados."
+  },
+  {
+    "id": "cg-5811",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto estadounidense diseñó el edificio Wainwright de San Luis, terminado en 1891?",
+    "options": [
+      "Daniel Burnham",
+      "Louis Sullivan",
+      "William Le Baron Jenney",
+      "Cass Gilbert"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sullivan articuló la estructura de acero con una fachada vertical de ladrillo."
+  },
+  {
+    "id": "cg-5812",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto diseñó el Home Insurance Building de Chicago, considerado el primer rascacielos con estructura de acero?",
+    "options": [
+      "Louis Sullivan",
+      "Daniel Burnham",
+      "Holabird & Roche",
+      "William Le Baron Jenney"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Home Insurance Building se levantó en 1885 con esqueleto metálico."
+  },
+  {
+    "id": "cg-5813",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué inventor estadounidense patentó en 1852 un freno de seguridad para ascensores?",
+    "options": [
+      "Elisha Gray",
+      "George Westinghouse",
+      "Alexander Graham Bell",
+      "Elisha Otis"
+    ],
+    "correctIndex": 3,
+    "explanation": "El freno de Otis hizo viables los rascacielos al evitar la caída de la cabina."
+  },
+  {
+    "id": "cg-5814",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué material constructivo se asocia al ingeniero francés François Hennebique?",
+    "options": [
+      "El acero laminado",
+      "El hierro fundido",
+      "El hormigón armado",
+      "El vidrio templado"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hennebique patentó en 1892 un sistema de vigas y pilares de hormigón armado."
+  },
+  {
+    "id": "cg-5815",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué cemento patentó el británico Joseph Aspdin en 1824?",
+    "options": [
+      "El cemento Portland",
+      "El cemento romano",
+      "El cemento aluminoso",
+      "El cemento blanco"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cemento Portland se convirtió en la base del hormigón moderno."
+  },
+  {
+    "id": "cg-5816",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto ruso diseñó el monumento a la Tercera Internacional, nunca construido, con una espiral inclinada?",
+    "options": [
+      "Vladímir Tatlin",
+      "Kazimir Malévich",
+      "El Lissitzky",
+      "Konstantín Mélnikov"
+    ],
+    "correctIndex": 0,
+    "explanation": "La torre de Tatlin, de 1919, simbolizó el impulso de la vanguardia soviética."
+  },
+  {
+    "id": "cg-5817",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto alemán diseñó la Torre Einstein de Potsdam, terminada en 1924?",
+    "options": [
+      "Erich Mendelsohn",
+      "Bruno Taut",
+      "Hans Poelzig",
+      "Walter Gropius"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mendelsohn dio forma expresionista al observatorio solar de Potsdam."
+  },
+  {
+    "id": "cg-5818",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto vienés diseñó la Casa Majolika, con una fachada de azulejos florales?",
+    "options": [
+      "Otto Wagner",
+      "Adolf Loos",
+      "Josef Hoffmann",
+      "Joseph Maria Olbrich"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wagner construyó la Casa Majolika entre 1898 y 1899 en Viena."
+  },
+  {
+    "id": "cg-5819",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto escocés diseñó la Escuela de Arte de Glasgow, inaugurada en 1899?",
+    "options": [
+      "Robert Adam",
+      "Charles Barry",
+      "Charles Rennie Mackintosh",
+      "Edwin Lutyens"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mackintosh combinó piedra, hierro y vidrio con detalles Art Nouveau."
+  },
+  {
+    "id": "cg-5820",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto británico diseñó el edificio Lloyd's de Londres, terminado en 1986?",
+    "options": [
+      "Norman Foster",
+      "James Stirling",
+      "Richard Rogers",
+      "Terry Farrell"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rogers expuso las instalaciones del Lloyd's en la fachada, al estilo high tech."
+  },
+  {
+    "id": "cg-5821",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto suizo diseñó el Museo de Arte Moderno de San Francisco, inaugurado en 1995?",
+    "options": [
+      "Mario Botta",
+      "Peter Zumthor",
+      "Herzog & de Meuron",
+      "Bernard Tschumi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Botta coronó el museo con un cilindro de ladrillo y una claraboya central."
+  },
+  {
+    "id": "cg-5822",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto estadounidense diseñó el Getty Center de Los Ángeles, inaugurado en 1997?",
+    "options": [
+      "Frank Gehry",
+      "Philip Johnson",
+      "Richard Meier",
+      "Robert A. M. Stern"
+    ],
+    "correctIndex": 2,
+    "explanation": "Meier organizó el Getty Center con módulos de piedra caliza y amplias terrazas."
+  },
+  {
+    "id": "cg-5823",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecta ítalo-brasileña diseñó el Museo de Arte de São Paulo, con un gran vano libre bajo el edificio?",
+    "options": [
+      "Carmen Portinho",
+      "Lina Bo Bardi",
+      "Rosa Grena Kliass",
+      "Janete Costa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bo Bardi suspendió el MASP sobre pórticos rojos en 1968."
+  },
+  {
+    "id": "cg-5824",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto chileno diseñó el conjunto de viviendas sociales Quinta Monroy en Iquique?",
+    "options": [
+      "Smiljan Radic",
+      "Mathias Klotz",
+      "Sebastián Irarrázaval",
+      "Alejandro Aravena"
+    ],
+    "correctIndex": 3,
+    "explanation": "Aravena aplicó la vivienda incremental para realojar a cien familias."
+  },
+  {
+    "id": "cg-5825",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué ingeniero uruguayo es conocido por sus bóvedas y láminas de ladrillo armado, como la iglesia de Atlántida?",
+    "options": [
+      "Eladio Dieste",
+      "Francisco Salamone",
+      "Clorindo Testa",
+      "Mario Palanti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dieste desarrolló el ceramizado armado con formas curvas de gran ligereza."
+  },
+  {
+    "id": "cg-5826",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto argentino diseñó el edificio del Banco de Londres en Buenos Aires, terminado en 1966?",
+    "options": [
+      "Mario Palanti",
+      "Clorindo Testa",
+      "Alejandro Bustillo",
+      "Francisco Salamone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Testa resolvió el banco con una estructura de hormigón visto y grandes voladizos."
+  },
+  {
+    "id": "cg-5827",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto mexicano diseñó el Museo Nacional de Antropología de Ciudad de México, inaugurado en 1964?",
+    "options": [
+      "Luis Barragán",
+      "Juan O'Gorman",
+      "Teodoro González de León",
+      "Pedro Ramírez Vázquez"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ramírez Vázquez organizó el museo alrededor de un patio con paraguas de hormigón."
+  },
+  {
+    "id": "cg-5828",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto mexicano diseñó el Museo Soumaya de Ciudad de México, inaugurado en 2011?",
+    "options": [
+      "Enrique Norten",
+      "Alberto Kalach",
+      "Javier Sordo Madaleno",
+      "Fernando Romero"
+    ],
+    "correctIndex": 3,
+    "explanation": "Romero cubrió el museo con miles de hexágonos de aluminio."
+  },
+  {
+    "id": "cg-5829",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto argentino-estadounidense diseñó las Torres Petronas de Kuala Lumpur?",
+    "options": [
+      "Mario Botta",
+      "César Pelli",
+      "Helmut Jahn",
+      "Kevin Roche"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pelli unió las dos torres con un puente aéreo y las coronó con agujas."
+  },
+  {
+    "id": "cg-5830",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto español diseñó el Palacio de Comunicaciones de Madrid, actual sede del Ayuntamiento?",
+    "options": [
+      "Juan de Villanueva",
+      "Antonio Palacios",
+      "Ventura Rodríguez",
+      "Ricardo Velázquez Bosco"
+    ],
+    "correctIndex": 1,
+    "explanation": "Palacios terminó en 1918 el edificio de Correos de la plaza de Cibeles."
+  },
+  {
+    "id": "cg-5831",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto modernista catalán diseñó el Hospital de Sant Pau en Barcelona?",
+    "options": [
+      "Josep Puig i Cadafalch",
+      "Lluís Domènech i Montaner",
+      "Antoni Gaudí",
+      "Josep Maria Jujol"
+    ],
+    "correctIndex": 1,
+    "explanation": "Domènech i Montaner proyectó el recinto hospitalario con pabellones y cerámica."
+  },
+  {
+    "id": "cg-5832",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto modernista catalán diseñó la Casa Amatller de Barcelona?",
+    "options": [
+      "Josep Puig i Cadafalch",
+      "Lluís Domènech i Montaner",
+      "Antoni Gaudí",
+      "Enric Sagnier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Puig i Cadafalch reformó la Casa Amatller con una fachada de inspiración gótica."
+  },
+  {
+    "id": "cg-5833",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto francés diseñó la Ópera de París, inaugurada en 1875?",
+    "options": [
+      "Eugène Viollet-le-Duc",
+      "Jacques-Germain Soufflot",
+      "Victor Louis",
+      "Charles Garnier"
+    ],
+    "correctIndex": 3,
+    "explanation": "Garnier creó un edificio monumental y decorado, símbolo del Segundo Imperio."
+  },
+  {
+    "id": "cg-5834",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto francés diseñó la iglesia de Sainte-Geneviève, convertida en Panteón de París?",
+    "options": [
+      "Charles Garnier",
+      "Claude Perrault",
+      "Jacques-Germain Soufflot",
+      "Jules Hardouin-Mansart"
+    ],
+    "correctIndex": 2,
+    "explanation": "Soufflot combinó la cúpula y el pórtico clásico con estructura gótica."
+  },
+  {
+    "id": "cg-5835",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué funcionario francés dirigió la gran remodelación urbana de París entre 1853 y 1870?",
+    "options": [
+      "André Le Nôtre",
+      "Eugène Viollet-le-Duc",
+      "Charles Garnier",
+      "Georges-Eugène Haussmann"
+    ],
+    "correctIndex": 3,
+    "explanation": "Haussmann trazó bulevares, plazas y sistemas de alcantarillado."
+  },
+  {
+    "id": "cg-5836",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto diseñó el Arco del Triunfo de París, encargado por Napoleón en 1806?",
+    "options": [
+      "Pierre-François-Léonard Fontaine",
+      "Charles Percier",
+      "Jean Chalgrin",
+      "Jacques-Ignace Hittorff"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chalgrin proyectó el arco inspirado en la arquitectura romana."
+  },
+  {
+    "id": "cg-5837",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto diseñó la basílica del Sagrado Corazón de Montmartre en París?",
+    "options": [
+      "Paul Abadie",
+      "Charles Garnier",
+      "Eugène Viollet-le-Duc",
+      "Victor Laloux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Abadie inició en 1875 la basílica de estilo románico-bizantino."
+  },
+  {
+    "id": "cg-5838",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto belga diseñó la Casa Tassel de Bruselas, obra clave del Art Nouveau?",
+    "options": [
+      "Henry van de Velde",
+      "Victor Horta",
+      "Paul Hankar",
+      "Josef Hoffmann"
+    ],
+    "correctIndex": 1,
+    "explanation": "Horta aplicó líneas curvas y hierro forjado en el interior de la Casa Tassel."
+  },
+  {
+    "id": "cg-5839",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto austriaco diseñó el Palacio Stoclet de Bruselas, terminado en 1911?",
+    "options": [
+      "Otto Wagner",
+      "Adolf Loos",
+      "Joseph Maria Olbrich",
+      "Josef Hoffmann"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hoffmann concibió el palacio como una obra de arte total, con interiores de la Wiener Werkstätte."
+  },
+  {
+    "id": "cg-5840",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto estadounidense diseñó el edificio Woolworth de Nueva York, terminado en 1913?",
+    "options": [
+      "William Van Alen",
+      "Daniel Burnham",
+      "Stanford White",
+      "Cass Gilbert"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gilbert revistió de terracota gótica una estructura de acero de 241 metros."
+  },
+  {
+    "id": "cg-5841",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto estadounidense diseñó el edificio Flatiron de Nueva York, terminado en 1902?",
+    "options": [
+      "Cass Gilbert",
+      "Louis Sullivan",
+      "John Wellborn Root",
+      "Daniel Burnham"
+    ],
+    "correctIndex": 3,
+    "explanation": "Burnham aprovechó la parcela triangular para crear una fachada en proa."
+  },
+  {
+    "id": "cg-5842",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto inglés diseñó la catedral de San Pablo de Londres tras el incendio de 1666?",
+    "options": [
+      "Inigo Jones",
+      "Christopher Wren",
+      "John Vanbrugh",
+      "Nicholas Hawksmoor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wren reconstruyó San Pablo con una gran cúpula y una fachada clásica."
+  },
+  {
+    "id": "cg-5843",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto inglés diseñó el Palacio de Blenheim para el duque de Marlborough?",
+    "options": [
+      "John Vanbrugh",
+      "Christopher Wren",
+      "Inigo Jones",
+      "Robert Adam"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vanbrugh levantó Blenheim entre 1705 y 1722 con un estilo barroco inglés."
+  },
+  {
+    "id": "cg-5844",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto inglés diseñó el Palacio de Westminster tras el incendio de 1834?",
+    "options": [
+      "Charles Barry",
+      "Augustus Pugin",
+      "George Gilbert Scott",
+      "John Nash"
+    ],
+    "correctIndex": 0,
+    "explanation": "Barry dirigió las obras y Pugin aportó los detalles neogóticos."
+  },
+  {
+    "id": "cg-5845",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué diseñador y escritor británico lideró el movimiento Arts and Crafts en el siglo XIX?",
+    "options": [
+      "John Ruskin",
+      "Augustus Pugin",
+      "Christopher Dresser",
+      "William Morris"
+    ],
+    "correctIndex": 3,
+    "explanation": "Morris defendió la artesanía frente a la producción industrial masiva."
+  },
+  {
+    "id": "cg-5846",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué diseñador suizo publicó Sistemas de retícula, obra de referencia del diseño gráfico?",
+    "options": [
+      "Armin Hofmann",
+      "Emil Ruder",
+      "Max Bill",
+      "Josef Müller-Brockmann"
+    ],
+    "correctIndex": 3,
+    "explanation": "Müller-Brockmann sistematizó el uso de retículas en la tipografía suiza."
+  },
+  {
+    "id": "cg-5847",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué diseñador alemán creó el logotipo de Lufthansa en 1963?",
+    "options": [
+      "Dieter Rams",
+      "Herbert Bayer",
+      "Willy Fleckhaus",
+      "Otl Aicher"
+    ],
+    "correctIndex": 3,
+    "explanation": "Aicher combinó una grulla estilizada con una tipografía sans serif."
+  },
+  {
+    "id": "cg-5848",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué diseñador estadounidense creó la identidad gráfica de los Juegos Olímpicos de México 1968?",
+    "options": [
+      "Saul Bass",
+      "Lance Wyman",
+      "Paul Rand",
+      "Otl Aicher"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wyman diseñó el logotipo y la señalética con líneas de inspiración op art."
+  },
+  {
+    "id": "cg-5849",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué diseñador italiano creó el mapa del metro de Nueva York publicado en 1972?",
+    "options": [
+      "Harry Beck",
+      "Massimo Vignelli",
+      "Erik Nitsche",
+      "Ivan Chermayeff"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vignelli sustituyó la geografía por una retícula de líneas rectas y colores."
+  },
+  {
+    "id": "cg-5850",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué tipógrafo alemán diseñó la tipografía Futura, lanzada en 1927?",
+    "options": [
+      "Herbert Bayer",
+      "Jan Tschichold",
+      "Paul Renner",
+      "Rudolf Koch"
+    ],
+    "correctIndex": 2,
+    "explanation": "Futura fue una de las primeras sans serif geométricas de uso comercial."
+  },
+  {
+    "id": "cg-5851",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué tipógrafo británico diseñó la tipografía Gill Sans en 1928?",
+    "options": [
+      "Edward Johnston",
+      "Stanley Morison",
+      "John Baskerville",
+      "Eric Gill"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gill Sans combina proporciones clásicas con formas sans serif."
+  },
+  {
+    "id": "cg-5852",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué diseñador de la Bauhaus creó la tipografía Universal en 1925?",
+    "options": [
+      "László Moholy-Nagy",
+      "Josef Albers",
+      "Herbert Bayer",
+      "Jan Tschichold"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bayer propuso un alfabeto sin mayúsculas y de formas geométricas."
+  },
+  {
+    "id": "cg-5853",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué artista húngaro enseñó en la Bauhaus y experimentó con la fotografía y el fotograma?",
+    "options": [
+      "Wassily Kandinsky",
+      "Oskar Schlemmer",
+      "Johannes Itten",
+      "László Moholy-Nagy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Moholy-Nagy publicó Pintura, fotografía, film en 1925."
+  },
+  {
+    "id": "cg-5854",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué diseñador estadounidense de origen italiano creó la silla Diamond para Knoll en 1952?",
+    "options": [
+      "Harry Bertoia",
+      "Eero Saarinen",
+      "Charles Eames",
+      "George Nelson"
+    ],
+    "correctIndex": 0,
+    "explanation": "La silla Diamond está formada por una malla de varillas de acero."
+  },
+  {
+    "id": "cg-5855",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué arquitecto y diseñador italiano creó la silla Superleggera en 1957?",
+    "options": [
+      "Gio Ponti",
+      "Ettore Sottsass",
+      "Vico Magistretti",
+      "Marco Zanuso"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Superleggera de Ponti pesaba apenas 1,7 kilogramos."
+  },
+  {
+    "id": "cg-5856",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué hermanos diseñadores italianos crearon la lámpara Arco para Flos en 1962?",
+    "options": [
+      "Afra y Tobia Scarpa",
+      "Gae Aulenti y Marco Zanuso",
+      "Vico Magistretti y Mario Bellini",
+      "Pier Giacomo y Achille Castiglioni"
+    ],
+    "correctIndex": 3,
+    "explanation": "La lámpara Arco se apoya en un pie de mármol y un brazo de acero."
+  },
+  {
+    "id": "cg-5857",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué diseñador italiano creó la máquina de escribir Valentine para Olivetti en 1969?",
+    "options": [
+      "Mario Bellini",
+      "Marco Zanuso",
+      "Ettore Sottsass",
+      "Gio Ponti"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Valentine portátil se convirtió en un icono del diseño pop italiano."
+  },
+  {
+    "id": "cg-5858",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué diseñador danés creó la silla Wishbone en 1949?",
+    "options": [
+      "Arne Jacobsen",
+      "Børge Mogensen",
+      "Hans Wegner",
+      "Finn Juhl"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Wishbone combina respaldo de madera y asiento de fibra natural."
+  },
+  {
+    "id": "cg-5859",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué empresa danesa fabrica la silla Egg de Arne Jacobsen desde 1958?",
+    "options": [
+      "Herman Miller",
+      "Fritz Hansen",
+      "Knoll",
+      "Vitra"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fritz Hansen produjo la silla Egg junto al resto del mobiliario del hotel SAS."
+  },
+  {
+    "id": "cg-5860",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué procedimiento fotográfico inventó William Henry Fox Talbot en 1841?",
+    "options": [
+      "El calotipo",
+      "El daguerrotipo",
+      "El cianotipo",
+      "El colodión húmedo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El calotipo producía negativos de papel a partir de los cuales se copiaban positivos."
+  },
+  {
+    "id": "cg-5861",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué procedimiento usó Nicéphore Niépce para obtener en 1826 la fotografía conservada más antigua?",
+    "options": [
+      "El calotipo",
+      "El daguerrotipo",
+      "El autocromo",
+      "La heliografía"
+    ],
+    "correctIndex": 3,
+    "explanation": "Niépce impresionó una vista desde su ventana con betún de Judea."
+  },
+  {
+    "id": "cg-5862",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué técnica de copia en azul usó la botánica Anna Atkins para publicar sus imágenes de algas en 1843?",
+    "options": [
+      "El calotipo",
+      "El colodión",
+      "El cianotipo",
+      "La gelatina de plata"
+    ],
+    "correctIndex": 2,
+    "explanation": "Atkins publicó uno de los primeros libros ilustrados con fotografías."
+  },
+  {
+    "id": "cg-5863",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué proceso de color en placas introdujeron los hermanos Lumière en 1907?",
+    "options": [
+      "El Kodachrome",
+      "El Agfacolor",
+      "El autocromo",
+      "El Technicolor"
+    ],
+    "correctIndex": 2,
+    "explanation": "El autocromo usaba una placa de vidrio con filtros de almidón de patata."
+  },
+  {
+    "id": "cg-5864",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué película en color lanzó Kodak en 1935?",
+    "options": [
+      "El Kodachrome",
+      "El Ektachrome",
+      "El Agfacolor",
+      "El Fujichrome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kodachrome se convirtió en referencia del color fotográfico durante décadas."
+  },
+  {
+    "id": "cg-5865",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué cámara de 35 mm presentó Leitz en 1925 y ayudó a popularizar el formato?",
+    "options": [
+      "La Contax I",
+      "La Leica I",
+      "La Rolleiflex",
+      "La Nikon F"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Leica I usó película de cine de 35 mm en un cuerpo compacto."
+  },
+  {
+    "id": "cg-5866",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de cámara es la Rolleiflex, con dos objetivos y visión a la altura de la cintura?",
+    "options": [
+      "Una réflex de dos objetivos",
+      "Una telémetrica",
+      "Una de visor directo",
+      "Una de gran formato"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Rolleiflex se hizo popular entre fotógrafos de prensa y retrato."
+  },
+  {
+    "id": "cg-5867",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué cámara de gran formato con flash y fuelle usaron los fotoperiodistas estadounidenses en los años cuarenta?",
+    "options": [
+      "La Hasselblad",
+      "La Leica M3",
+      "La Speed Graphic",
+      "La Rolleiflex"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Speed Graphic con flash de bombilla era habitual en la prensa gráfica."
+  },
+  {
+    "id": "cg-5868",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué cámara réflex de 35 mm lanzó Nikon en 1959?",
+    "options": [
+      "La Nikon S2",
+      "La Canonflex",
+      "La Pentax Spotmatic",
+      "La Nikon F"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Nikon F consolidó el sistema réflex con objetivos intercambiables."
+  },
+  {
+    "id": "cg-5869",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué cámara instantánea de formato cuadrado lanzó Polaroid en 1972?",
+    "options": [
+      "La Instamatic",
+      "La SX-70",
+      "La Brownie",
+      "La Land Camera 95"
+    ],
+    "correctIndex": 1,
+    "explanation": "La SX-70 plegable popularizó la fotografía instantánea en color."
+  },
+  {
+    "id": "cg-5870",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué cámara popular de Kodak, lanzada en 1963, usaba cartuchos de película 126?",
+    "options": [
+      "La Brownie",
+      "La Disc",
+      "La Instamatic",
+      "La Pocket"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Instamatic facilitó la carga de película con cartuchos precargados."
+  },
+  {
+    "id": "cg-5871",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué formato de película introdujo Kodak en 1972 para cámaras compactas?",
+    "options": [
+      "El formato 110",
+      "El formato 126",
+      "El formato 127",
+      "El formato APS"
+    ],
+    "correctIndex": 0,
+    "explanation": "El formato 110 usaba cartuchos pequeños y negativos de 16 mm."
+  },
+  {
+    "id": "cg-5872",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué fotógrafo de Yosemite popularizó el sistema de zonas para controlar la exposición en blanco y negro?",
+    "options": [
+      "Ansel Adams",
+      "Edward Weston",
+      "Paul Strand",
+      "Imogen Cunningham"
+    ],
+    "correctIndex": 0,
+    "explanation": "El sistema de zonas divide la escena en once valores de luminosidad."
+  },
+  {
+    "id": "cg-5873",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué grupo fotográfico estadounidense fundaron Ansel Adams y Edward Weston en 1932 para defender la nitidez?",
+    "options": [
+      "La Photo-Secession",
+      "El grupo f/8",
+      "La Escuela de Düsseldorf",
+      "El grupo f/64"
+    ],
+    "correctIndex": 3,
+    "explanation": "El nombre aludía a la abertura mínima que maximiza la profundidad de campo."
+  },
+  {
+    "id": "cg-5874",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué fotógrafa estadounidense de la FSA realizó La madre migrante en 1936?",
+    "options": [
+      "Margaret Bourke-White",
+      "Marion Post Wolcott",
+      "Dorothea Lange",
+      "Berenice Abbott"
+    ],
+    "correctIndex": 2,
+    "explanation": "La imagen de Lange se convirtió en símbolo de la Gran Depresión."
+  },
+  {
+    "id": "cg-5875",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué fotógrafo húngaro-estadounidense cubrió el desembarco de Normandía para la revista Life?",
+    "options": [
+      "Robert Capa",
+      "Henri Cartier-Bresson",
+      "David Seymour",
+      "W. Eugene Smith"
+    ],
+    "correctIndex": 0,
+    "explanation": "Capa desembarcó con la primera oleada aliada en Omaha Beach."
+  },
+  {
+    "id": "cg-5876",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué agencia fotográfica fundaron Robert Capa, Henri Cartier-Bresson y David Seymour en 1947?",
+    "options": [
+      "Associated Press",
+      "Gamma",
+      "Sygma",
+      "Magnum Photos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Magnum permitió a los fotógrafos conservar los derechos de sus imágenes."
+  },
+  {
+    "id": "cg-5877",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué fotógrafo húngaro-francés usó el seudónimo Brassaï para retratar el París nocturno?",
+    "options": [
+      "André Kertész",
+      "Robert Doisneau",
+      "Willy Ronis",
+      "Gyula Halász"
+    ],
+    "correctIndex": 3,
+    "explanation": "Brassaï publicó París de noche en 1933."
+  },
+  {
+    "id": "cg-5878",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué fotógrafo estadounidense, cuyo nombre real era Arthur Fellig, retrató escenas policiales de Nueva York con flash?",
+    "options": [
+      "Walker Evans",
+      "Garry Winogrand",
+      "Weegee",
+      "Lee Friedlander"
+    ],
+    "correctIndex": 2,
+    "explanation": "Weegee trabajó de noche siguiendo a la policía y los bomberos."
+  },
+  {
+    "id": "cg-5879",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué fotógrafa estadounidense realizó en 1967 el retrato Gemelas idénticas, niñas de un pueblo de Pensilvania?",
+    "options": [
+      "Cindy Sherman",
+      "Lisette Model",
+      "Diane Arbus",
+      "Mary Ellen Mark"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arbus retrató a los sujetos fuera de los cánones sociales convencionales."
+  },
+  {
+    "id": "cg-5880",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué fotógrafa estadounidense trabajó como niñera y su archivo callejero se descubrió tras su muerte en 2009?",
+    "options": [
+      "Diane Arbus",
+      "Helen Levitt",
+      "Lee Miller",
+      "Vivian Maier"
+    ],
+    "correctIndex": 3,
+    "explanation": "Maier tomó miles de imágenes en Chicago y Nueva York sin publicarlas."
+  },
+  {
+    "id": "cg-5881",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué fotógrafo estadounidense publicó en 1941 Elogiemos ahora a hombres famosos, con textos de James Agee?",
+    "options": [
+      "Walker Evans",
+      "Dorothea Lange",
+      "Russell Lee",
+      "Ben Shahn"
+    ],
+    "correctIndex": 0,
+    "explanation": "El libro documentó a families de aparceros del sur estadounidense."
+  },
+  {
+    "id": "cg-5882",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué fotógrafo estadounidense realizó desnudos y paisajes en Point Lobos y fue miembro del grupo f/64?",
+    "options": [
+      "Edward Weston",
+      "Paul Strand",
+      "Minor White",
+      "Imogen Cunningham"
+    ],
+    "correctIndex": 0,
+    "explanation": "Weston buscaba formas esenciales mediante el detalle y la luz natural."
+  },
+  {
+    "id": "cg-5883",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué fotógrafo estadounidense fundó la Photo-Secession en 1902 para defender la fotografía como arte?",
+    "options": [
+      "Edward Steichen",
+      "Clarence H. White",
+      "Alfred Stieglitz",
+      "Gertrude Käsebier"
+    ],
+    "correctIndex": 2,
+    "explanation": "Stieglitz difundió el pictorialismo desde la revista Camera Work."
+  },
+  {
+    "id": "cg-5884",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué fotógrafo estadounidense de origen luxemburgués organizó la exposición La familia del hombre en el MoMA en 1955?",
+    "options": [
+      "Edward Steichen",
+      "Alfred Stieglitz",
+      "Beaumont Newhall",
+      "John Szarkowski"
+    ],
+    "correctIndex": 0,
+    "explanation": "La muestra reunió imágenes de 68 países y fue vista por millones de personas."
+  },
+  {
+    "id": "cg-5885",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué fotógrafo suizo-estadounidense publicó en 1958 Los estadounidenses, un retrato crítico del país?",
+    "options": [
+      "Robert Frank",
+      "Garry Winogrand",
+      "Lee Friedlander",
+      "William Klein"
+    ],
+    "correctIndex": 0,
+    "explanation": "Frank retrató la sociedad estadounidense con un enfoque crítico y espontáneo."
+  },
+  {
+    "id": "cg-5886",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué fotógrafa estadounidense retrató a John Lennon y Yoko Ono el 8 de diciembre de 1980, horas antes del asesinato de Lennon?",
+    "options": [
+      "Annie Leibovitz",
+      "Cindy Sherman",
+      "Diane Arbus",
+      "Mary Ellen Mark"
+    ],
+    "correctIndex": 0,
+    "explanation": "La imagen de Lennon desnudo abrazando a Ono apareció en Rolling Stone."
+  },
+  {
+    "id": "cg-5887",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué fotógrafo estadounidense publicó en 1985 In the American West, con retratos de estudio sin fondo?",
+    "options": [
+      "Irving Penn",
+      "Robert Mapplethorpe",
+      "Richard Avedon",
+      "Bruce Weber"
+    ],
+    "correctIndex": 2,
+    "explanation": "Avedon retrató a trabajadores y marginados del oeste con luz neutra."
+  },
+  {
+    "id": "cg-5888",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "medium",
+    "question": "¿Qué fotógrafo alemán-australiano es conocido por sus imágenes de moda provocativas y sus desnudos para Vogue?",
+    "options": [
+      "Helmut Newton",
+      "Peter Lindbergh",
+      "Mario Testino",
+      "Guy Bourdin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Newton construyó escenas de moda con fuerte carga erótica y cinematográfica."
+  },
+  {
+    "id": "cg-5889",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto griego diseñó el Partenón de Atenas junto con Calícrates en el siglo V a. C.?",
+    "options": [
+      "Mnesicles",
+      "Ictino",
+      "Apolodoro de Damasco",
+      "Hermógenes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ictino y Calícrates dirigieron la construcción del Partenón bajo la supervisión de Fidias."
+  },
+  {
+    "id": "cg-5890",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué escultor ateniense supervisó la decoración escultórica del Partenón?",
+    "options": [
+      "Praxíteles",
+      "Fidias",
+      "Policleto",
+      "Mirón"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fidias coordinó el friso, las metopas y los frontones del templo."
+  },
+  {
+    "id": "cg-5891",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto renacentista publicó I quattro libri dell architettura en 1570?",
+    "options": [
+      "Sebastiano Serlio",
+      "Jacopo Barozzi da Vignola",
+      "Andrea Palladio",
+      "Vincenzo Scamozzi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los cuatro libros de Palladio difundieron el clasicismo por Europa y América."
+  },
+  {
+    "id": "cg-5892",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto renacentista diseñó la iglesia de San Andrés de Mantua?",
+    "options": [
+      "Leon Battista Alberti",
+      "Giulio Romano",
+      "Filippo Brunelleschi",
+      "Michelozzo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alberti concibió San Andrés como un templo de fachada triunfal en 1470."
+  },
+  {
+    "id": "cg-5893",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto manierista diseñó el Palacio del Té en Mantua para Federico II Gonzaga?",
+    "options": [
+      "Giorgio Vasari",
+      "Bartolomeo Ammannati",
+      "Giulio Romano",
+      "Baldassare Peruzzi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Giulio Romano construyó el palacio entre 1524 y 1534 con frescos ilusionistas."
+  },
+  {
+    "id": "cg-5894",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto diseñó la iglesia del Gesù de Roma, iniciada en 1568?",
+    "options": [
+      "Giacomo della Porta",
+      "Carlo Maderno",
+      "Jacopo Barozzi da Vignola",
+      "Andrea Palladio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Gesù se convirtió en el modelo de las iglesias jesuitas."
+  },
+  {
+    "id": "cg-5895",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto diseñó la fachada de la basílica de San Pedro del Vaticano, completada en 1614?",
+    "options": [
+      "Domenico Fontana",
+      "Carlo Maderno",
+      "Carlo Rainaldi",
+      "Gian Lorenzo Bernini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Maderno alargó la nave y añadió la fachada con columnas gigantes."
+  },
+  {
+    "id": "cg-5896",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto barroco piamontés diseñó la basílica de Superga en Turín?",
+    "options": [
+      "Guarino Guarini",
+      "Filippo Juvarra",
+      "Bernardo Vittone",
+      "Luigi Vanvitelli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Juvarra levantó Superga entre 1717 y 1731 sobre una colina turinesa."
+  },
+  {
+    "id": "cg-5897",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto bávaro diseñó la iglesia de peregrinación de Wies, terminada en 1754?",
+    "options": [
+      "Johann Michael Fischer",
+      "Dominikus Zimmermann",
+      "Egid Quirin Asam",
+      "Balthasar Neumann"
+    ],
+    "correctIndex": 1,
+    "explanation": "Zimmermann creó un interior rococó ovalado de gran luminosidad."
+  },
+  {
+    "id": "cg-5898",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto diseñó la residencia de Würzburg, con su gran escalera y el fresco de Tiepolo?",
+    "options": [
+      "Dominikus Zimmermann",
+      "Johann Lucas von Hildebrandt",
+      "Balthasar Neumann",
+      "Matthäus Daniel Pöppelmann"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neumann combinó en Würzburg el barroco austriaco y el francés."
+  },
+  {
+    "id": "cg-5899",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto francés diseñó el castillo de Vaux-le-Vicomte para Nicolas Fouquet?",
+    "options": [
+      "Jules Hardouin-Mansart",
+      "François Mansart",
+      "Philibert de l'Orme",
+      "Louis Le Vau"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le Vau trabajó con Le Nôtre y Le Brun en Vaux-le-Vicomte hacia 1656."
+  },
+  {
+    "id": "cg-5900",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto francés diseñó la columnata oriental del Louvre en el siglo XVII?",
+    "options": [
+      "Claude Perrault",
+      "Louis Le Vau",
+      "Jules Hardouin-Mansart",
+      "Jacques Lemercier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Perrault adoptó un orden gigante de columnas pareadas para la fachada."
+  },
+  {
+    "id": "cg-5901",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué jardinero francés diseñó los jardines de Versalles?",
+    "options": [
+      "Jean Le Pautre",
+      "Jean-Baptiste de La Quintinie",
+      "Claude Mollet",
+      "André Le Nôtre"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le Nôtre trazó los ejes, bosquecillos y estanques del jardín versallesco."
+  },
+  {
+    "id": "cg-5902",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto inglés diseñó el Royal Pavilion de Brighton, con cúpulas de estilo indio?",
+    "options": [
+      "John Nash",
+      "John Soane",
+      "Robert Smirke",
+      "William Chambers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nash remodeló el pabellón entre 1815 y 1822 para el príncipe de Gales."
+  },
+  {
+    "id": "cg-5903",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto belga diseñó el Palacio de Justicia de Bruselas, inaugurado en 1883?",
+    "options": [
+      "Victor Horta",
+      "Joseph Poelaert",
+      "Henry van de Velde",
+      "Alphonse Balat"
+    ],
+    "correctIndex": 1,
+    "explanation": "Poelaert levantó un colosal edificio neoclásico con cúpula central."
+  },
+  {
+    "id": "cg-5904",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto francés diseñó la catedral de San Isaac de San Petersburgo?",
+    "options": [
+      "Auguste de Montferrand",
+      "Bartolomeo Rastrelli",
+      "Giacomo Quarenghi",
+      "Carlo Rossi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Montferrand combinó la cúpula dorada con un pórtico de columnas de granito."
+  },
+  {
+    "id": "cg-5905",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto ruso diseñó el mausoleo de Lenin en la plaza Roja de Moscú?",
+    "options": [
+      "Konstantín Mélnikov",
+      "Iván Fomín",
+      "Vladímir Shújov",
+      "Alekséi Shchúsev"
+    ],
+    "correctIndex": 3,
+    "explanation": "Shchúsev proyectó el mausoleo de granito y mármol inaugurado en 1930."
+  },
+  {
+    "id": "cg-5906",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto austriaco publicó en 1908 el ensayo Ornamento y delito?",
+    "options": [
+      "Otto Wagner",
+      "Josef Hoffmann",
+      "Adolf Loos",
+      "Hermann Muthesius"
+    ],
+    "correctIndex": 2,
+    "explanation": "Loos criticó el ornamento superfluo y defendió la depuración formal."
+  },
+  {
+    "id": "cg-5907",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto alemán diseñó junto a Adolf Meyer la fábrica Fagus en Alfeld, terminada en 1911?",
+    "options": [
+      "Peter Behrens",
+      "Walter Gropius",
+      "Hans Poelzig",
+      "Bruno Taut"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Fagus anticipó la transparencia y el rigor de la Bauhaus."
+  },
+  {
+    "id": "cg-5908",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto francés diseñó el Théâtre des Champs-Élysées, inaugurado en 1913, con estructura de hormigón armado?",
+    "options": [
+      "Auguste Perret",
+      "Le Corbusier",
+      "Robert Mallet-Stevens",
+      "Tony Garnier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Perret mostró el hormigón armado en una fachada de gran sobriedad."
+  },
+  {
+    "id": "cg-5909",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto neerlandés diseñó el Café De Unie de Róterdam, obra del movimiento De Stijl?",
+    "options": [
+      "Gerrit Rietveld",
+      "Theo van Doesburg",
+      "Cornelis van Eesteren",
+      "J.J.P. Oud"
+    ],
+    "correctIndex": 3,
+    "explanation": "Oud aplicó planos de color y letras tipográficas en la fachada de 1925."
+  },
+  {
+    "id": "cg-5910",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto alemán diseñó el Pabellón de Cristal de la exposición del Werkbund en Colonia en 1914?",
+    "options": [
+      "Walter Gropius",
+      "Henry van de Velde",
+      "Bruno Taut",
+      "Peter Behrens"
+    ],
+    "correctIndex": 2,
+    "explanation": "Taut construyó una cúpula de vidrio y hormigón como manifiesto expresionista."
+  },
+  {
+    "id": "cg-5911",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto estadounidense diseñó el Instituto Salk en La Jolla, California?",
+    "options": [
+      "Louis Kahn",
+      "Paul Rudolph",
+      "I. M. Pei",
+      "Eero Saarinen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kahn separó los laboratorios y las torres de estudio con una plaza central."
+  },
+  {
+    "id": "cg-5912",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecto estadounidense diseñó la casa Vanna Venturi en Filadelfia, terminada en 1964?",
+    "options": [
+      "Robert Venturi",
+      "Michael Graves",
+      "Charles Moore",
+      "Philip Johnson"
+    ],
+    "correctIndex": 0,
+    "explanation": "La casa retomó el frontón y la chimenea como citas domésticas."
+  },
+  {
+    "id": "cg-5913",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué científico británico propuso en 1839 el término fotografía?",
+    "options": [
+      "William Henry Fox Talbot",
+      "John Herschel",
+      "Humphry Davy",
+      "Thomas Wedgwood"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herschel acuñó el término y también describió el proceso del cianotipo."
+  },
+  {
+    "id": "cg-5914",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué fotografía de Louis Daguerre, tomada hacia 1838 en París, muestra por primera vez a una persona?",
+    "options": [
+      "Vista desde la ventana de Le Gras",
+      "La madre migrante",
+      "Boulevard du Temple",
+      "El beso del Hôtel de Ville"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un transeúnte que se detuvo a limpiarse los zapatos quedó registrado en la exposición."
+  },
+  {
+    "id": "cg-5915",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué fotógrafo estadounidense dedicó el proyecto The North American Indian a los pueblos nativos?",
+    "options": [
+      "Timothy O'Sullivan",
+      "William Henry Jackson",
+      "Mathew Brady",
+      "Edward S. Curtis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Curtis recorrió Norteamérica durante décadas y publicó veinte volúmenes."
+  },
+  {
+    "id": "cg-5916",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué fotógrafo francés, autor de retratos de Baudelaire, usó el seudónimo Nadar?",
+    "options": [
+      "Étienne Carjat",
+      "Gustave Le Gray",
+      "Hippolyte Bayard",
+      "Gaspard-Félix Tournachon"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nadar retrató a la intelectualidad parisina y realizó fotografías aéreas en globo."
+  },
+  {
+    "id": "cg-5917",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué ingeniero alemán diseñó la cámara Leica de 35 mm, comercializada en 1925?",
+    "options": [
+      "Ernst Leitz",
+      "Paul Rudolph",
+      "Joseph Petzval",
+      "Oskar Barnack"
+    ],
+    "correctIndex": 3,
+    "explanation": "Barnack adaptó el formato de cine de 35 mm a una cámara fotográfica."
+  },
+  {
+    "id": "cg-5918",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué matemático húngaro diseñó en 1840 el objetivo de retrato Petzval?",
+    "options": [
+      "Paul Rudolph",
+      "Carl Zeiss",
+      "Joseph Petzval",
+      "Oskar Barnack"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Petzval aportó gran luminosidad y se usó en retratos y paisajes."
+  },
+  {
+    "id": "cg-5919",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué fotógrafo estadounidense fundó la revista Aperture en 1952?",
+    "options": [
+      "Ansel Adams",
+      "Beaumont Newhall",
+      "Edward Steichen",
+      "Minor White"
+    ],
+    "correctIndex": 3,
+    "explanation": "Aperture se convirtió en una publicación de referencia para la fotografía artística."
+  },
+  {
+    "id": "cg-5920",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué historiador estadounidense fue el primer conservador de fotografía del Museo de Arte Moderno de Nueva York?",
+    "options": [
+      "Beaumont Newhall",
+      "John Szarkowski",
+      "Edward Steichen",
+      "Peter Galassi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Newhall organizó en 1937 la exposición Photography 1839-1937."
+  },
+  {
+    "id": "cg-5921",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué fotógrafa alemana murió en 1937 durante la Guerra Civil Española mientras cubría el conflicto?",
+    "options": [
+      "Gerda Taro",
+      "Lee Miller",
+      "Margaret Bourke-White",
+      "Tina Modotti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Taro trabajó junto a Robert Capa y falleció en el frente de Brunete."
+  },
+  {
+    "id": "cg-5922",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué físico británico demostró en 1861 el método aditivo de la fotografía en color con tres negativos?",
+    "options": [
+      "John Herschel",
+      "William Thomson",
+      "James Clerk Maxwell",
+      "Gabriel Lippmann"
+    ],
+    "correctIndex": 2,
+    "explanation": "Maxwell proyectó tres negativos con filtros rojo, verde y azul."
+  },
+  {
+    "id": "cg-5923",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué fotógrafo ruso documentó el Imperio ruso a principios del siglo XX con placas de cristal en color?",
+    "options": [
+      "Aleksandr Ródchenko",
+      "Yevgeny Khaldei",
+      "Serguéi Prokudin-Gorski",
+      "Dmitri Baltermants"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prokudin-Gorski viajó en un vagón laboratorio para registrar paisajes y gentes."
+  },
+  {
+    "id": "cg-5924",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué fotógrafo estadounidense de la FSA realizó en 1936 la imagen Huida de una tormenta de polvo?",
+    "options": [
+      "Arthur Rothstein",
+      "Dorothea Lange",
+      "Walker Evans",
+      "Russell Lee"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rothstein documentó las tormentas de polvo en Oklahoma y Texas."
+  },
+  {
+    "id": "cg-5925",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué fotógrafa estadounidense publicó en 1986 La balada de la dependencia sexual, un diario visual personal?",
+    "options": [
+      "Laurie Simmons",
+      "Sally Mann",
+      "Nan Goldin",
+      "Carrie Mae Weems"
+    ],
+    "correctIndex": 2,
+    "explanation": "Goldin retrató su entorno cercano con luz directa y carácter diarístico."
+  },
+  {
+    "id": "cg-5926",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué fotógrafo estadounidense tomó en 1907 la imagen La cubierta de tercera clase, conocida como The Steerage?",
+    "options": [
+      "Edward Steichen",
+      "Paul Strand",
+      "Alfred Stieglitz",
+      "Lewis Hine"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Steerage se publicó en Camera Work y es clave de la fotografía moderna."
+  },
+  {
+    "id": "cg-5927",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué fotógrafo vietnamita ganó el Pulitzer en 1973 por la imagen de una niña quemada por napalm?",
+    "options": [
+      "Eddie Adams",
+      "Dirck Halstead",
+      "Nick Ut",
+      "David Hume Kennerly"
+    ],
+    "correctIndex": 2,
+    "explanation": "La imagen de Kim Phúc se convirtió en símbolo de la guerra de Vietnam."
+  },
+  {
+    "id": "cg-5928",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué fotógrafo estadounidense tomó en 1945 la imagen del izado de la bandera en Iwo Jima?",
+    "options": [
+      "Joe Rosenthal",
+      "Robert Capa",
+      "W. Eugene Smith",
+      "David Douglas Duncan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rosenthal fotografió a los marines alzando la bandera en el monte Suribachi."
+  },
+  {
+    "id": "cg-5929",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué fotógrafo soviético capturó en 1945 la bandera roja sobre el Reichstag en Berlín?",
+    "options": [
+      "Dmitri Baltermants",
+      "Max Alpert",
+      "Arkady Shaikhet",
+      "Yevgeny Khaldei"
+    ],
+    "correctIndex": 3,
+    "explanation": "Khaldei reconstruyó la escena con soldados y una bandera cosida para la ocasión."
+  },
+  {
+    "id": "cg-5930",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué marca sueca de cámaras de formato medio fue usada por la NASA en las misiones Apolo?",
+    "options": [
+      "Rolleiflex",
+      "Mamiya",
+      "Hasselblad",
+      "Bronica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las Hasselblad modificadas acompañaron a los astronautas en la Luna."
+  },
+  {
+    "id": "cg-5931",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué diseñador industrial estadounidense de origen francés rediseñó el logotipo de Shell y el paquete de Lucky Strike?",
+    "options": [
+      "Henry Dreyfuss",
+      "Raymond Loewy",
+      "Norman Bel Geddes",
+      "Walter Dorwin Teague"
+    ],
+    "correctIndex": 1,
+    "explanation": "Loewy fue una figura central del diseño industrial y de la cultura de consumo."
+  },
+  {
+    "id": "cg-5932",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué diseñador industrial estadounidense creó el teléfono de sobremesa Bell Model 500 en 1950?",
+    "options": [
+      "Henry Dreyfuss",
+      "Raymond Loewy",
+      "Norman Bel Geddes",
+      "Harley Earl"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dreyfuss aplicó criterios ergonómicos al diseño de productos cotidianos."
+  },
+  {
+    "id": "cg-5933",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué diseñador estadounidense creó la exposición Futurama para General Motors en la Feria de Nueva York de 1939?",
+    "options": [
+      "Raymond Loewy",
+      "Norman Bel Geddes",
+      "Henry Dreyfuss",
+      "Walter Dorwin Teague"
+    ],
+    "correctIndex": 1,
+    "explanation": "Futurama imaginaba autopistas automáticas para el futuro cercano."
+  },
+  {
+    "id": "cg-5934",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué diseñador estadounidense de automóviles introdujo las aletas traseras en el Cadillac de 1948?",
+    "options": [
+      "Raymond Loewy",
+      "Norman Bel Geddes",
+      "Harley Earl",
+      "Henry Dreyfuss"
+    ],
+    "correctIndex": 2,
+    "explanation": "Earl dirigió el diseño de General Motors e impuso la estética aeronáutica."
+  },
+  {
+    "id": "cg-5935",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué diseñador italiano dibujó la carrocería del Volkswagen Golf de primera generación en 1974?",
+    "options": [
+      "Giorgetto Giugiaro",
+      "Pininfarina",
+      "Marcello Gandini",
+      "Ercole Spada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Giugiaro creó la línea angulosa del Golf, un icono del diseño automovilístico."
+  },
+  {
+    "id": "cg-5936",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué diseñador australiano creó la chaise longue Lockheed Lounge en 1988?",
+    "options": [
+      "Marc Newson",
+      "Jasper Morrison",
+      "Ross Lovegrove",
+      "Karim Rashid"
+    ],
+    "correctIndex": 0,
+    "explanation": "Newson modeló el asiento con paneles de aluminio remachados."
+  },
+  {
+    "id": "cg-5937",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué diseñador japonés creó la silla Glass Chair en 1976?",
+    "options": [
+      "Naoto Fukasawa",
+      "Shiro Kuramata",
+      "Kenya Hara",
+      "Isamu Noguchi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kuramata unió láminas de vidrio con resina para lograr transparencia estructural."
+  },
+  {
+    "id": "cg-5938",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué artista y diseñador estadounidense creó las lámparas Akari con papel washi y varillas de bambú?",
+    "options": [
+      "Isamu Noguchi",
+      "George Nelson",
+      "Harry Bertoia",
+      "Charles Eames"
+    ],
+    "correctIndex": 0,
+    "explanation": "Noguchi empezó las Akari en 1951 tras visitar Japón."
+  },
+  {
+    "id": "cg-5939",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué arquitecta y diseñadora irlandesa proyectó la casa E-1027 en la costa azul en 1929?",
+    "options": [
+      "Eileen Gray",
+      "Charlotte Perriand",
+      "Lilly Reich",
+      "Florence Knoll"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gray diseñó la casa y su mobiliario, incluida la mesa ajustable E-1027."
+  },
+  {
+    "id": "cg-5940",
+    "category": "general",
+    "topic": "architecture_design",
+    "difficulty": "hard",
+    "question": "¿Qué diseñador danés creó la silla Panton de una sola pieza de plástico en 1960?",
+    "options": [
+      "Verner Panton",
+      "Arne Jacobsen",
+      "Hans Wegner",
+      "Finn Juhl"
+    ],
+    "correctIndex": 0,
+    "explanation": "La silla Panton se produjo industrialmente a partir de 1967."
+  }
+]

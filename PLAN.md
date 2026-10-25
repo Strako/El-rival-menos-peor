@@ -12,12 +12,15 @@
 - [x] MCP de Supabase configurado y autenticado.
 - [x] Proyecto Supabase creado/verificado: `aaojioxhupihfgqfiken`.
 - [x] Esquema, índices, RLS, RPC y seguridad aplicados.
-- [x] **1.050 preguntas** generadas, validadas y cargadas:
-  - 350 cultura general.
+- [x] **6.050 preguntas** cargadas en Supabase:
+  - 5.350 cultura general.
   - 350 videojuegos.
   - 350 series de los 90.
-  - 0 errores del validador.
-- [x] Edge Function `api` desplegada (versión 3) con `verify_jwt = false`.
+  - 0 duplicados normalizados (`question_key`).
+- [x] **5.000 preguntas nuevas** de cultura general sobre artes y ciencias del mundo.
+- [x] **206 correcciones de contexto** en preguntas existentes.
+- [x] Cobertura de 20 temas: física, astronomía, química, biología, medicina, matemáticas, tecnología, ciencias de la Tierra, geografía, historia antigua/moderna, arqueología, filosofía/religión, mitología, lingüística, literatura, teatro/poesía, pintura/escultura, arquitectura/diseño/fotografía, música/danza/cine/culturas.
+- [x] Edge Function `api` desplegada (versión 4) con `verify_jwt = false`.
 - [x] Frontend React + Vite + TypeScript + Tailwind implementado.
 - [x] Sesión local por token, salas, lobby, juego, votación, resultados y reinicio.
 - [x] Ranking solo por sala; sin ranking global.
@@ -29,6 +32,8 @@
 - [x] **Banderas por IP** en lobby, jugadores, scoreboard y resultados.
 - [x] **Listado de conectados** y **modal de invitación** con 60 s de validez.
 - [x] **Chat efímero por sala** solo durante la partida, sin persistencia.
+- [x] **Cierre de sala** por el anfitrión en lobby y resultados, validado en base de datos.
+- [x] **Salida de jugadores** en lobby, partida y resultados; el host se reasigna si es necesario.
 - [x] **Emojis de posición** 🥇🥈🥉, keycaps 4–10 y `#N` desde 11.º.
 - [x] **Sin repetición de preguntas dentro de una partida** (índice único).
 - [x] **Sonidos** de turno, inicio de pregunta, correcta, fallida y tiempo agotado.
@@ -36,7 +41,8 @@
 - [x] **Dificultad progresiva** fácil → media → difícil en Relámpago.
 - [x] Pruebas unitarias: 23/23.
 - [x] Smoke test backend: clásico, eliminación, relámpago, timeout, concurrencia, reinicio y permisos.
-- [x] E2E real con Chrome: clásico, relámpago y social (timer, sonido, banderas, emojis, invitación y chat).
+- [x] Prueba de cierre de sala: permisos de anfitrión, bloqueo en partida, cierre con 0 jugadores y salida libre.
+- [x] E2E real con Chrome: clásico, relámpago, social y cierre de sala.
 - [x] Asesores de seguridad sin advertencias.
 - [x] Backend actualizado mientras había partidas en curso, sin alterar su estado ni su orden ya asignado.
 
@@ -50,7 +56,7 @@
 ### Pendiente
 
 - [ ] Desplegar el frontend en Netlify (requiere cuenta/token o conectar el repositorio).
-- [ ] Revisión factual completa de las 1.050 preguntas. Ya se hizo un muestreo inicial de 15 preguntas sin errores y la validación estructural está al 100%.
+- [ ] Revisión factual completa de las 6.050 preguntas. La validación estructural está al 100%; se hizo muestreo de los lotes nuevos y de las correcciones de contexto.
 
 ### Cómo continuar
 
@@ -68,15 +74,15 @@ Juego de trivia multijugador por salas, cada jugador desde su propio navegador.
 - **Backend:** sin servidor propio; Supabase (Postgres, Realtime y Edge Functions).
 - **Despliegue del frontend:** Netlify.
 - **Idioma de la interfaz:** español.
-- **Modos de juego:** Clásico y Eliminación.
+- **Modos de juego:** Clásico, Eliminación y Relámpago.
 - **Sin ranking global.** Solo tabla de posiciones por sala.
-- **Base de preguntas:** 1050 preguntas, 350 por categoría.
+- **Base de preguntas:** 6.050 preguntas; 5.350 de cultura general, 350 de videojuegos y 350 de series de los 90.
 
 ### Categorías definitivas
 
 | Categoría | Valor interno | Preguntas | Icono |
 |---|---|---|---|
-| Cultura general global | `general` | 350 | 🌍 |
+| Cultura general global | `general` | 5.350 | 🌍 |
 | Videojuegos | `videogames` | 350 | 🎮 |
 | Series de los 90 | `series_90s` | 350 | 📺 |
 
@@ -207,7 +213,7 @@ scripts/seed-questions.mjs
 - 350 cultura general global.
 - 350 videojuegos.
 - 350 series de los 90.
-- **Total: 1050.**
+- **Total del banco base: 1050.** El banco ampliado suma 5.000 preguntas nuevas de cultura general.
 - Dificultad por categoría: 40 % fácil, 40 % media, 20 % difícil.
 
 ### Validación automática
@@ -228,7 +234,7 @@ El script comprobará:
 - Solo hechos consolidados y verificables.
 - Explicación en todas las preguntas.
 - Revisión por muestreo y corrección de errores detectados.
-- **Limitación conocida:** no se verificará con una fuente individual cada una de las 1050 preguntas; se prioriza exactitud y se documenta el muestreo.
+- **Limitación conocida:** no se verificará con una fuente individual cada una de las 6.050 preguntas; se prioriza exactitud, validación estructural y muestreo.
 
 ### Carga en Supabase
 
@@ -737,14 +743,14 @@ jueguito/
 ## 12. Orden de implementación
 
 1. **Fase 0:** configurar MCP, autenticar y reiniciar OpenCode.
-2. **Fase 1:** generar las 1050 preguntas, validarlas y consolidarlas.
+2. **Fase 1:** generar las 1050 preguntas base, validarlas y consolidarlas; después ampliar a 6.050 con 5.000 nuevas.
 3. **Fase 2:** crear migraciones, RLS, RPC, triggers y Realtime; cargar preguntas.
 4. **Fase 3:** implementar y desplegar la Edge Function `api`.
 5. **Fase 4:** implementar el frontend y la sincronización.
 6. **Fase 5:** pruebas unitarias y smoke test real.
 7. **Fase 6:** configurar Netlify, documentar y desplegar si hay token.
 
-> El primer entregable es el **JSON de 1050 preguntas validado**. No se construye frontend/backend antes de eso.
+> El primer entregable fue el **JSON base de 1050 preguntas validado**. El banco final es de 6.050 preguntas.
 
 ---
 
@@ -754,7 +760,7 @@ jueguito/
 - [ ] Reiniciar OpenCode para cargar las herramientas MCP.
 - [ ] Confirmar que el MCP responde (el agente lo verificará con `list_tables` / `get_project_url`).
 - [ ] Opcional: proporcionar token de Netlify para el despliegue final.
-- [ ] Aceptar el muestreo de revisión factual de las 1050 preguntas.
+- [ ] Aceptar el muestreo de revisión factual de las 6.050 preguntas.
 
 ---
 

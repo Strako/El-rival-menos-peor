@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-4901",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Qué novela de Miguel de Cervantes narra las aventuras de un hidalgo que enloquece leyendo libros de caballerías?",
+    "options": [
+      "La Galatea",
+      "Los trabajos de Persiles y Sigismunda",
+      "Don Quijote de la Mancha",
+      "Novelas ejemplares"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alonso Quijano, el hidalgo protagonista, emprende sus aventuras en Don Quijote de la Mancha, publicada en 1605 y 1615."
+  },
+  {
+    "id": "cg-4902",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la comedia teatral Sueño de una noche de verano?",
+    "options": [
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "William Shakespeare",
+      "John Webster"
+    ],
+    "correctIndex": 2,
+    "explanation": "William Shakespeare escribió esta comedia hacia 1595."
+  },
+  {
+    "id": "cg-4903",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo inglés escribió las tragedias Hamlet, Otelo y El rey Lear?",
+    "options": [
+      "Thomas Kyd",
+      "Ben Jonson",
+      "William Shakespeare",
+      "John Milton"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las tres tragedias forman parte de la obra de William Shakespeare."
+  },
+  {
+    "id": "cg-4904",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Orgullo y prejuicio, protagonizada por Elizabeth Bennet?",
+    "options": [
+      "Charlotte Brontë",
+      "George Eliot",
+      "Mary Shelley",
+      "Jane Austen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jane Austen publicó Orgullo y prejuicio en 1813."
+  },
+  {
+    "id": "cg-4905",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Jane Eyre, narrada por su propia protagonista?",
+    "options": [
+      "Emily Brontë",
+      "Anne Brontë",
+      "Charlotte Brontë",
+      "Jane Austen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Charlotte Brontë publicó Jane Eyre en 1847 bajo el seudónimo Currer Bell."
+  },
+  {
+    "id": "cg-4906",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Cumbres borrascosas, ambientada en los páramos de Yorkshire?",
+    "options": [
+      "Emily Brontë",
+      "Charlotte Brontë",
+      "Anne Brontë",
+      "Elizabeth Gaskell"
+    ],
+    "correctIndex": 0,
+    "explanation": "Emily Brontë publicó Cumbres borrascosas en 1847."
+  },
+  {
+    "id": "cg-4907",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Oliver Twist, sobre un huérfano en el Londres del siglo XIX?",
+    "options": [
+      "William Thackeray",
+      "Thomas Hardy",
+      "Charles Dickens",
+      "George Eliot"
+    ],
+    "correctIndex": 2,
+    "explanation": "Charles Dickens publicó Oliver Twist por entregas entre 1837 y 1839."
+  },
+  {
+    "id": "cg-4908",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el relato Cuento de Navidad, protagonizado por Ebenezer Scrooge?",
+    "options": [
+      "Washington Irving",
+      "Charles Dickens",
+      "Oscar Wilde",
+      "Robert Louis Stevenson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Charles Dickens publicó Cuento de Navidad en 1843."
+  },
+  {
+    "id": "cg-4909",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Ana Karenina, ambientada en la Rusia imperial?",
+    "options": [
+      "Fiódor Dostoievski",
+      "León Tolstói",
+      "Iván Turguénev",
+      "Antón Chéjov"
+    ],
+    "correctIndex": 1,
+    "explanation": "León Tolstói publicó Ana Karenina entre 1875 y 1877."
+  },
+  {
+    "id": "cg-4910",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Crimen y castigo, protagonizada por Rodión Raskólnikov?",
+    "options": [
+      "Fiódor Dostoievski",
+      "León Tolstói",
+      "Nikolái Gógol",
+      "Iván Goncharov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fiódor Dostoievski publicó Crimen y castigo en 1866."
+  },
+  {
+    "id": "cg-4911",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Madame Bovary, sobre la esposa de un médico de provincias?",
+    "options": [
+      "Stendhal",
+      "Honoré de Balzac",
+      "Gustave Flaubert",
+      "Émile Zola"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gustave Flaubert publicó Madame Bovary en 1856."
+  },
+  {
+    "id": "cg-4912",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Los miserables, protagonizada por Jean Valjean?",
+    "options": [
+      "Alexandre Dumas",
+      "Émile Zola",
+      "Victor Hugo",
+      "François-René de Chateaubriand"
+    ],
+    "correctIndex": 2,
+    "explanation": "Victor Hugo publicó Los miserables en 1862."
+  },
+  {
+    "id": "cg-4913",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela El conde de Montecristo, sobre la venganza de Edmond Dantès?",
+    "options": [
+      "Victor Hugo",
+      "Stendhal",
+      "Eugène Sue",
+      "Alexandre Dumas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alexandre Dumas publicó El conde de Montecristo entre 1844 y 1846."
+  },
+  {
+    "id": "cg-4914",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Los tres mosqueteros, con D'Artagnan como protagonista?",
+    "options": [
+      "Victor Hugo",
+      "Walter Scott",
+      "Alexandre Dumas",
+      "James Fenimore Cooper"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alexandre Dumas publicó Los tres mosqueteros en 1844."
+  },
+  {
+    "id": "cg-4915",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el poema épico La divina comedia, que recorre el Infierno, el Purgatorio y el Paraíso?",
+    "options": [
+      "Francesco Petrarca",
+      "Giovanni Boccaccio",
+      "Dante Alighieri",
+      "Ludovico Ariosto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dante Alighieri compuso La divina comedia a comienzos del siglo XIV."
+  },
+  {
+    "id": "cg-4916",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el Decamerón, colección de cien relatos narrados por diez jóvenes?",
+    "options": [
+      "Dante Alighieri",
+      "Francesco Petrarca",
+      "Nicolás Maquiavelo",
+      "Giovanni Boccaccio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Giovanni Boccaccio escribió el Decamerón entre 1348 y 1353."
+  },
+  {
+    "id": "cg-4917",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿A qué poeta de la Antigua Grecia se atribuyen la Ilíada y la Odisea?",
+    "options": [
+      "Hesíodo",
+      "Homero",
+      "Sófocles",
+      "Esquilo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La tradición atribuye ambos poemas épicos al poeta Homero."
+  },
+  {
+    "id": "cg-4918",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la epopeya latina La Eneida, que narra las peripecias de Eneas?",
+    "options": [
+      "Ovidio",
+      "Horacio",
+      "Virgilio",
+      "Lucano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Virgilio compuso La Eneida en el siglo I a. C."
+  },
+  {
+    "id": "cg-4919",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la tragedia griega Edipo rey?",
+    "options": [
+      "Esquilo",
+      "Sófocles",
+      "Eurípides",
+      "Aristófanes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sófocles presentó Edipo rey hacia el año 429 a. C."
+  },
+  {
+    "id": "cg-4920",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la tragedia griega Medea, sobre una hechicera abandonada por Jasón?",
+    "options": [
+      "Eurípides",
+      "Sófocles",
+      "Esquilo",
+      "Menandro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Eurípides estrenó Medea en 431 a. C."
+  },
+  {
+    "id": "cg-4921",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la tragedia Fausto, basada en la leyenda del pacto con el diablo?",
+    "options": [
+      "Friedrich Schiller",
+      "Heinrich Heine",
+      "Gotthold Ephraim Lessing",
+      "Johann Wolfgang von Goethe"
+    ],
+    "correctIndex": 3,
+    "explanation": "Goethe publicó la primera parte de Fausto en 1808 y la segunda en 1832."
+  },
+  {
+    "id": "cg-4922",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela epistolar Las penas del joven Werther?",
+    "options": [
+      "Friedrich Schiller",
+      "Novalis",
+      "Jean Paul",
+      "Johann Wolfgang von Goethe"
+    ],
+    "correctIndex": 3,
+    "explanation": "Goethe publicó Las penas del joven Werther en 1774."
+  },
+  {
+    "id": "cg-4923",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Drácula, protagonizada por el conde de Transilvania?",
+    "options": [
+      "Mary Shelley",
+      "Edgar Allan Poe",
+      "Bram Stoker",
+      "Sheridan Le Fanu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bram Stoker publicó Drácula en 1897."
+  },
+  {
+    "id": "cg-4924",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Frankenstein o el moderno Prometeo?",
+    "options": [
+      "Bram Stoker",
+      "Mary Shelley",
+      "Ann Radcliffe",
+      "Horace Walpole"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mary Shelley publicó Frankenstein en 1818."
+  },
+  {
+    "id": "cg-4925",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela El extraño caso del doctor Jekyll y el señor Hyde?",
+    "options": [
+      "Robert Louis Stevenson",
+      "Arthur Conan Doyle",
+      "H. G. Wells",
+      "Oscar Wilde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Robert Louis Stevenson publicó esta novela corta en 1886."
+  },
+  {
+    "id": "cg-4926",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela de aventuras La isla del tesoro?",
+    "options": [
+      "Daniel Defoe",
+      "Jules Verne",
+      "Joseph Conrad",
+      "Robert Louis Stevenson"
+    ],
+    "correctIndex": 3,
+    "explanation": "Robert Louis Stevenson publicó La isla del tesoro en 1883."
+  },
+  {
+    "id": "cg-4927",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Robinson Crusoe, sobre un náufrago que vive años en una isla?",
+    "options": [
+      "Daniel Defoe",
+      "Jonathan Swift",
+      "Samuel Richardson",
+      "Henry Fielding"
+    ],
+    "correctIndex": 0,
+    "explanation": "Daniel Defoe publicó Robinson Crusoe en 1719."
+  },
+  {
+    "id": "cg-4928",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la sátira Los viajes de Gulliver?",
+    "options": [
+      "Daniel Defoe",
+      "Laurence Sterne",
+      "Alexander Pope",
+      "Jonathan Swift"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jonathan Swift publicó Los viajes de Gulliver en 1726."
+  },
+  {
+    "id": "cg-4929",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió Las aventuras de Tom Sawyer, ambientada junto al río Misisipi?",
+    "options": [
+      "Mark Twain",
+      "Herman Melville",
+      "Henry James",
+      "Jack London"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mark Twain publicó Las aventuras de Tom Sawyer en 1876."
+  },
+  {
+    "id": "cg-4930",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela El lobo estepario, protagonizada por Harry Haller?",
+    "options": [
+      "Thomas Mann",
+      "Hermann Hesse",
+      "Franz Kafka",
+      "Robert Musil"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hermann Hesse publicó El lobo estepario en 1927."
+  },
+  {
+    "id": "cg-4931",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela corta La metamorfosis, en la que Gregor Samsa despierta transformado en insecto?",
+    "options": [
+      "Hermann Hesse",
+      "Franz Kafka",
+      "Robert Musil",
+      "Stefan Zweig"
+    ],
+    "correctIndex": 1,
+    "explanation": "Franz Kafka publicó La metamorfosis en 1915."
+  },
+  {
+    "id": "cg-4932",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Cien años de soledad, ambientada en Macondo?",
+    "options": [
+      "Gabriel García Márquez",
+      "Mario Vargas Llosa",
+      "Julio Cortázar",
+      "Juan Rulfo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gabriel García Márquez publicó Cien años de soledad en 1967."
+  },
+  {
+    "id": "cg-4933",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Rayuela, que puede leerse en distintos órdenes?",
+    "options": [
+      "Jorge Luis Borges",
+      "Julio Cortázar",
+      "Mario Vargas Llosa",
+      "Carlos Fuentes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Julio Cortázar publicó Rayuela en 1963."
+  },
+  {
+    "id": "cg-4934",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la colección de relatos Ficciones, que incluye «El jardín de senderos que se bifurcan»?",
+    "options": [
+      "Julio Cortázar",
+      "Adolfo Bioy Casares",
+      "Juan Rulfo",
+      "Jorge Luis Borges"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jorge Luis Borges publicó Ficciones en 1944."
+  },
+  {
+    "id": "cg-4935",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela que retrata el colegio militar Leoncio Prado, en Lima?",
+    "options": [
+      "Julio Cortázar",
+      "Alfredo Bryce Echenique",
+      "Mario Vargas Llosa",
+      "José María Arguedas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mario Vargas Llosa publicó La ciudad y los perros en 1963."
+  },
+  {
+    "id": "cg-4936",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Pedro Páramo, ambientada en el pueblo de Comala?",
+    "options": [
+      "Carlos Fuentes",
+      "Octavio Paz",
+      "Juan Rulfo",
+      "Agustín Yáñez"
+    ],
+    "correctIndex": 2,
+    "explanation": "Juan Rulfo publicó Pedro Páramo en 1955."
+  },
+  {
+    "id": "cg-4937",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el ensayo El laberinto de la soledad, sobre la identidad mexicana?",
+    "options": [
+      "Carlos Fuentes",
+      "Alfonso Reyes",
+      "Samuel Ramos",
+      "Octavio Paz"
+    ],
+    "correctIndex": 3,
+    "explanation": "Octavio Paz publicó El laberinto de la soledad en 1950."
+  },
+  {
+    "id": "cg-4938",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el poemario Veinte poemas de amor y una canción desesperada?",
+    "options": [
+      "Pablo Neruda",
+      "Vicente Huidobro",
+      "César Vallejo",
+      "Federico García Lorca"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pablo Neruda publicó este poemario en 1924."
+  },
+  {
+    "id": "cg-4939",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el poema narrativo gauchesco Martín Fierro?",
+    "options": [
+      "Esteban Echeverría",
+      "José Hernández",
+      "Domingo Faustino Sarmiento",
+      "Bartolomé Hidalgo"
+    ],
+    "correctIndex": 1,
+    "explanation": "José Hernández publicó Martín Fierro en 1872 y su continuación en 1879."
+  },
+  {
+    "id": "cg-4940",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela La vorágine, sobre la explotación del caucho en la selva amazónica?",
+    "options": [
+      "Rómulo Gallegos",
+      "Ricardo Güiraldes",
+      "Horacio Quiroga",
+      "José Eustasio Rivera"
+    ],
+    "correctIndex": 3,
+    "explanation": "José Eustasio Rivera publicó La vorágine en 1924."
+  },
+  {
+    "id": "cg-4941",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Doña Bárbara, ambientada en los llanos venezolanos?",
+    "options": [
+      "José Eustasio Rivera",
+      "Rufino Blanco Fombona",
+      "Arturo Uslar Pietri",
+      "Rómulo Gallegos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rómulo Gallegos publicó Doña Bárbara en 1929."
+  },
+  {
+    "id": "cg-4942",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela El Señor Presidente, sobre una dictadura centroamericana?",
+    "options": [
+      "Miguel Ángel Asturias",
+      "Alejo Carpentier",
+      "Augusto Roa Bastos",
+      "Gabriel García Márquez"
+    ],
+    "correctIndex": 0,
+    "explanation": "Miguel Ángel Asturias publicó El Señor Presidente en 1946."
+  },
+  {
+    "id": "cg-4943",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela El túnel, narrada por el pintor Juan Pablo Castel?",
+    "options": [
+      "Julio Cortázar",
+      "Jorge Luis Borges",
+      "Adolfo Bioy Casares",
+      "Ernesto Sabato"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ernesto Sabato publicó El túnel en 1948."
+  },
+  {
+    "id": "cg-4944",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela La invención de Morel, sobre una isla y una máquina que graba recuerdos?",
+    "options": [
+      "Adolfo Bioy Casares",
+      "Jorge Luis Borges",
+      "Julio Cortázar",
+      "Silvina Ocampo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Adolfo Bioy Casares publicó La invención de Morel en 1940."
+  },
+  {
+    "id": "cg-4945",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Dom Casmurro, narrada por Bento Santiago?",
+    "options": [
+      "José de Alencar",
+      "Graciliano Ramos",
+      "Machado de Assis",
+      "João Guimarães Rosa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Machado de Assis publicó Dom Casmurro en 1899."
+  },
+  {
+    "id": "cg-4946",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Ensayo sobre la ceguera, sobre una epidemia que deja ciegos a casi todos?",
+    "options": [
+      "António Lobo Antunes",
+      "José Saramago",
+      "Fernando Pessoa",
+      "Eça de Queirós"
+    ],
+    "correctIndex": 1,
+    "explanation": "José Saramago publicó Ensayo sobre la ceguera en 1995."
+  },
+  {
+    "id": "cg-4947",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el testimonio Se questo è un uomo, sobre su cautiverio en Auschwitz?",
+    "options": [
+      "Elie Wiesel",
+      "Italo Calvino",
+      "Alberto Moravia",
+      "Primo Levi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Primo Levi publicó Si esto es un hombre en 1947."
+  },
+  {
+    "id": "cg-4948",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela La montaña mágica, ambientada en un sanatorio suizo?",
+    "options": [
+      "Hermann Hesse",
+      "Thomas Mann",
+      "Robert Musil",
+      "Stefan Zweig"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thomas Mann publicó La montaña mágica en 1924."
+  },
+  {
+    "id": "cg-4949",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela El tambor de hojalata, narrada por Oskar Matzerath?",
+    "options": [
+      "Heinrich Böll",
+      "Thomas Mann",
+      "Günter Grass",
+      "Erich Maria Remarque"
+    ],
+    "correctIndex": 2,
+    "explanation": "Günter Grass publicó El tambor de hojalata en 1959."
+  },
+  {
+    "id": "cg-4950",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela La sombra del viento, ambientada en la Barcelona de posguerra?",
+    "options": [
+      "Carlos Ruiz Zafón",
+      "Javier Marías",
+      "Arturo Pérez-Reverte",
+      "Eduardo Mendoza"
+    ],
+    "correctIndex": 0,
+    "explanation": "Carlos Ruiz Zafón publicó La sombra del viento en 2001."
+  },
+  {
+    "id": "cg-4951",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela histórica Los pilares de la tierra, sobre la construcción de una catedral?",
+    "options": [
+      "Ken Follett",
+      "Bernard Cornwell",
+      "Umberto Eco",
+      "Noah Gordon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ken Follett publicó Los pilares de la tierra en 1989."
+  },
+  {
+    "id": "cg-4952",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la saga de fantasía protagonizada por el niño mago Harry Potter?",
+    "options": [
+      "Philip Pullman",
+      "J. K. Rowling",
+      "C. S. Lewis",
+      "J. R. R. Tolkien"
+    ],
+    "correctIndex": 1,
+    "explanation": "J. K. Rowling publicó Harry Potter y la piedra filosofal en 1997."
+  },
+  {
+    "id": "cg-4953",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela El Señor de los Anillos?",
+    "options": [
+      "C. S. Lewis",
+      "J. R. R. Tolkien",
+      "George R. R. Martin",
+      "Philip Pullman"
+    ],
+    "correctIndex": 1,
+    "explanation": "J. R. R. Tolkien publicó El Señor de los Anillos entre 1954 y 1955."
+  },
+  {
+    "id": "cg-4954",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Juego de tronos, primera de la saga Canción de hielo y fuego?",
+    "options": [
+      "J. R. R. Tolkien",
+      "Robert Jordan",
+      "Patrick Rothfuss",
+      "George R. R. Martin"
+    ],
+    "correctIndex": 3,
+    "explanation": "George R. R. Martin publicó Juego de tronos en 1996."
+  },
+  {
+    "id": "cg-4955",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió las siete novelas de fantasía de Las crónicas de Narnia?",
+    "options": [
+      "C. S. Lewis",
+      "J. R. R. Tolkien",
+      "Roald Dahl",
+      "Susan Cooper"
+    ],
+    "correctIndex": 0,
+    "explanation": "C. S. Lewis publicó Las crónicas de Narnia entre 1950 y 1956."
+  },
+  {
+    "id": "cg-4956",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela infantil protagonizada por una niña que cae por la madriguera de un conejo?",
+    "options": [
+      "J. M. Barrie",
+      "Lewis Carroll",
+      "Charles Dickens",
+      "Edward Lear"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lewis Carroll publicó Alicia en el país de las maravillas en 1865."
+  },
+  {
+    "id": "cg-4957",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió Peter Pan, estrenada como comedia en 1904?",
+    "options": [
+      "J. M. Barrie",
+      "Lewis Carroll",
+      "Kenneth Grahame",
+      "A. A. Milne"
+    ],
+    "correctIndex": 0,
+    "explanation": "J. M. Barrie estrenó Peter Pan en Londres en 1904."
+  },
+  {
+    "id": "cg-4958",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió El maravilloso mago de Oz?",
+    "options": [
+      "L. Frank Baum",
+      "Lewis Carroll",
+      "J. M. Barrie",
+      "E. B. White"
+    ],
+    "correctIndex": 0,
+    "explanation": "L. Frank Baum publicó El maravilloso mago de Oz en 1900."
+  },
+  {
+    "id": "cg-4959",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió Las aventuras de Pinocho?",
+    "options": [
+      "Carlo Collodi",
+      "Carlo Goldoni",
+      "Luigi Pirandello",
+      "Gianni Rodari"
+    ],
+    "correctIndex": 0,
+    "explanation": "Carlo Collodi publicó Las aventuras de Pinocho por entregas a partir de 1881."
+  },
+  {
+    "id": "cg-4960",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Qué autor danés escribió el cuento El patito feo?",
+    "options": [
+      "Charles Perrault",
+      "Hans Christian Andersen",
+      "Jacob Grimm",
+      "Wilhelm Hauff"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hans Christian Andersen publicó El patito feo en 1843."
+  },
+  {
+    "id": "cg-4961",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Matar a un ruiseñor, narrada por Scout Finch?",
+    "options": [
+      "Harper Lee",
+      "Truman Capote",
+      "William Faulkner",
+      "John Steinbeck"
+    ],
+    "correctIndex": 0,
+    "explanation": "Harper Lee publicó Matar a un ruiseñor en 1960."
+  },
+  {
+    "id": "cg-4962",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela El guardián entre el centeno, protagonizada por Holden Caulfield?",
+    "options": [
+      "Jack Kerouac",
+      "John Steinbeck",
+      "F. Scott Fitzgerald",
+      "J. D. Salinger"
+    ],
+    "correctIndex": 3,
+    "explanation": "J. D. Salinger publicó El guardián entre el centeno en 1951."
+  },
+  {
+    "id": "cg-4963",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Fahrenheit 451, sobre una sociedad que quema libros?",
+    "options": [
+      "Ray Bradbury",
+      "George Orwell",
+      "Aldous Huxley",
+      "Isaac Asimov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ray Bradbury publicó Fahrenheit 451 en 1953."
+  },
+  {
+    "id": "cg-4964",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela corta Rebelión en la granja?",
+    "options": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "George Orwell",
+      "Arthur Koestler"
+    ],
+    "correctIndex": 2,
+    "explanation": "George Orwell publicó Rebelión en la granja en 1945."
+  },
+  {
+    "id": "cg-4965",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Un mundo feliz?",
+    "options": [
+      "George Orwell",
+      "H. G. Wells",
+      "Yevgueni Zamiatin",
+      "Aldous Huxley"
+    ],
+    "correctIndex": 3,
+    "explanation": "Aldous Huxley publicó Un mundo feliz en 1932."
+  },
+  {
+    "id": "cg-4966",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela El señor de las moscas, sobre niños aislados en una isla?",
+    "options": [
+      "George Orwell",
+      "Joseph Conrad",
+      "Robert Louis Stevenson",
+      "William Golding"
+    ],
+    "correctIndex": 3,
+    "explanation": "William Golding publicó El señor de las moscas en 1954."
+  },
+  {
+    "id": "cg-4967",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela La naranja mecánica, protagonizada por Alex?",
+    "options": [
+      "George Orwell",
+      "Aldous Huxley",
+      "William Burroughs",
+      "Anthony Burgess"
+    ],
+    "correctIndex": 3,
+    "explanation": "Anthony Burgess publicó La naranja mecánica en 1962."
+  },
+  {
+    "id": "cg-4968",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el poema El cuervo, publicado en 1845?",
+    "options": [
+      "Walt Whitman",
+      "Herman Melville",
+      "Edgar Allan Poe",
+      "Nathaniel Hawthorne"
+    ],
+    "correctIndex": 2,
+    "explanation": "Edgar Allan Poe publicó El cuervo en 1845."
+  },
+  {
+    "id": "cg-4969",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Mujercitas, sobre las cuatro hermanas March?",
+    "options": [
+      "Jane Austen",
+      "Louisa May Alcott",
+      "Charlotte Brontë",
+      "Harriet Beecher Stowe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Louisa May Alcott publicó Mujercitas en 1868."
+  },
+  {
+    "id": "cg-4970",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela La letra escarlata, ambientada en la Nueva Inglaterra puritana?",
+    "options": [
+      "Herman Melville",
+      "Edgar Allan Poe",
+      "Nathaniel Hawthorne",
+      "Henry James"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nathaniel Hawthorne publicó La letra escarlata en 1850."
+  },
+  {
+    "id": "cg-4971",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Moby Dick?",
+    "options": [
+      "Herman Melville",
+      "Nathaniel Hawthorne",
+      "Joseph Conrad",
+      "Jack London"
+    ],
+    "correctIndex": 0,
+    "explanation": "Herman Melville publicó Moby Dick en 1851."
+  },
+  {
+    "id": "cg-4972",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela La llamada de lo salvaje, sobre un perro en el Yukón?",
+    "options": [
+      "Mark Twain",
+      "Herman Melville",
+      "John Steinbeck",
+      "Jack London"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jack London publicó La llamada de lo salvaje en 1903."
+  },
+  {
+    "id": "cg-4973",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela La cabaña del tío Tom?",
+    "options": [
+      "Louisa May Alcott",
+      "Mark Twain",
+      "Harriet Jacobs",
+      "Harriet Beecher Stowe"
+    ],
+    "correctIndex": 3,
+    "explanation": "Harriet Beecher Stowe publicó La cabaña del tío Tom en 1852."
+  },
+  {
+    "id": "cg-4974",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Las uvas de la ira, sobre una familia de Oklahoma durante la Gran Depresión?",
+    "options": [
+      "William Faulkner",
+      "F. Scott Fitzgerald",
+      "John Steinbeck",
+      "John Dos Passos"
+    ],
+    "correctIndex": 2,
+    "explanation": "John Steinbeck publicó Las uvas de la ira en 1939."
+  },
+  {
+    "id": "cg-4975",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el drama Esperando a Godot?",
+    "options": [
+      "Samuel Beckett",
+      "Eugène Ionesco",
+      "Jean Genet",
+      "Luigi Pirandello"
+    ],
+    "correctIndex": 0,
+    "explanation": "Samuel Beckett estrenó Esperando a Godot en 1953."
+  },
+  {
+    "id": "cg-4976",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el drama Casa de muñecas, protagonizado por Nora Helmer?",
+    "options": [
+      "August Strindberg",
+      "Antón Chéjov",
+      "Bertolt Brecht",
+      "Henrik Ibsen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Henrik Ibsen estrenó Casa de muñecas en 1879."
+  },
+  {
+    "id": "cg-4977",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el drama Muerte de un viajante?",
+    "options": [
+      "Tennessee Williams",
+      "Eugene O'Neill",
+      "Arthur Miller",
+      "Edward Albee"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arthur Miller estrenó Muerte de un viajante en 1949."
+  },
+  {
+    "id": "cg-4978",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el drama Un tranvía llamado Deseo?",
+    "options": [
+      "Tennessee Williams",
+      "Arthur Miller",
+      "Eugene O'Neill",
+      "Thornton Wilder"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tennessee Williams estrenó Un tranvía llamado Deseo en 1947."
+  },
+  {
+    "id": "cg-4979",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el drama Cyrano de Bergerac?",
+    "options": [
+      "Molière",
+      "Edmond Rostand",
+      "Victor Hugo",
+      "Jean Racine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Edmond Rostand estrenó Cyrano de Bergerac en 1897."
+  },
+  {
+    "id": "cg-4980",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la comedia El avaro, protagonizada por Harpagón?",
+    "options": [
+      "Pierre Corneille",
+      "Jean Racine",
+      "Voltaire",
+      "Molière"
+    ],
+    "correctIndex": 3,
+    "explanation": "Molière estrenó El avaro en 1668."
+  },
+  {
+    "id": "cg-4981",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la comedia Tartufo, sobre un falso devoto?",
+    "options": [
+      "Jean Racine",
+      "Pierre Corneille",
+      "Molière",
+      "Beaumarchais"
+    ],
+    "correctIndex": 2,
+    "explanation": "Molière estrenó Tartufo en 1664."
+  },
+  {
+    "id": "cg-4982",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el drama La vida es sueño, protagonizado por Segismundo?",
+    "options": [
+      "Pedro Calderón de la Barca",
+      "Lope de Vega",
+      "Tirso de Molina",
+      "Juan Ruiz de Alarcón"
+    ],
+    "correctIndex": 0,
+    "explanation": "Calderón de la Barca publicó La vida es sueño en 1636."
+  },
+  {
+    "id": "cg-4983",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió Fuenteovejuna, sobre un pueblo que se rebela contra su señor?",
+    "options": [
+      "Lope de Vega",
+      "Calderón de la Barca",
+      "Tirso de Molina",
+      "Miguel de Cervantes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lope de Vega escribió Fuenteovejuna hacia 1614."
+  },
+  {
+    "id": "cg-4984",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la tragicomedia La Celestina, publicada en 1499?",
+    "options": [
+      "Juan Ruiz, Arcipreste de Hita",
+      "Fernando de Rojas",
+      "Jorge Manrique",
+      "Garcilaso de la Vega"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fernando de Rojas publicó La Celestina en 1499."
+  },
+  {
+    "id": "cg-4985",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Qué novela anónima de 1554 inauguró el género picaresco en España?",
+    "options": [
+      "Guzmán de Alfarache",
+      "El Buscón",
+      "La pícara Justina",
+      "El Lazarillo de Tormes"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Lazarillo de Tormes se publicó en 1554 sin nombre de autor."
+  },
+  {
+    "id": "cg-4986",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela La Regenta, ambientada en Vetusta?",
+    "options": [
+      "Benito Pérez Galdós",
+      "Emilia Pardo Bazán",
+      "Leopoldo Alas «Clarín»",
+      "Juan Valera"
+    ],
+    "correctIndex": 2,
+    "explanation": "Leopoldo Alas «Clarín» publicó La Regenta entre 1884 y 1885."
+  },
+  {
+    "id": "cg-4987",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Fortunata y Jacinta?",
+    "options": [
+      "Leopoldo Alas «Clarín»",
+      "Emilia Pardo Bazán",
+      "Vicente Blasco Ibáñez",
+      "Benito Pérez Galdós"
+    ],
+    "correctIndex": 3,
+    "explanation": "Benito Pérez Galdós publicó Fortunata y Jacinta entre 1886 y 1887."
+  },
+  {
+    "id": "cg-4988",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Niebla, protagonizada por Augusto Pérez?",
+    "options": [
+      "Pío Baroja",
+      "Miguel de Unamuno",
+      "Azorín",
+      "Ramón del Valle-Inclán"
+    ],
+    "correctIndex": 1,
+    "explanation": "Miguel de Unamuno publicó Niebla en 1914."
+  },
+  {
+    "id": "cg-4989",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el poemario Campos de Castilla?",
+    "options": [
+      "Juan Ramón Jiménez",
+      "Federico García Lorca",
+      "Miguel de Unamuno",
+      "Antonio Machado"
+    ],
+    "correctIndex": 3,
+    "explanation": "Antonio Machado publicó Campos de Castilla en 1912."
+  },
+  {
+    "id": "cg-4990",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el poemario Romancero gitano?",
+    "options": [
+      "Federico García Lorca",
+      "Rafael Alberti",
+      "Jorge Guillén",
+      "Pedro Salinas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Federico García Lorca publicó Romancero gitano en 1928."
+  },
+  {
+    "id": "cg-4991",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el drama La casa de Bernarda Alba?",
+    "options": [
+      "Federico García Lorca",
+      "Ramón del Valle-Inclán",
+      "Antonio Buero Vallejo",
+      "Alejandro Casona"
+    ],
+    "correctIndex": 0,
+    "explanation": "Federico García Lorca terminó La casa de Bernarda Alba en 1936."
+  },
+  {
+    "id": "cg-4992",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la prosa poética Platero y yo?",
+    "options": [
+      "Antonio Machado",
+      "Azorín",
+      "Juan Ramón Jiménez",
+      "Gabriel Miró"
+    ],
+    "correctIndex": 2,
+    "explanation": "Juan Ramón Jiménez publicó Platero y yo en 1914."
+  },
+  {
+    "id": "cg-4993",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela La colmena, ambientada en el Madrid de posguerra?",
+    "options": [
+      "Camilo José Cela",
+      "Miguel Delibes",
+      "Carmen Laforet",
+      "Gonzalo Torrente Ballester"
+    ],
+    "correctIndex": 0,
+    "explanation": "Camilo José Cela publicó La colmena en 1951."
+  },
+  {
+    "id": "cg-4994",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela El camino, sobre un niño en la España rural?",
+    "options": [
+      "Miguel Delibes",
+      "Camilo José Cela",
+      "Ana María Matute",
+      "Carmen Martín Gaite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Miguel Delibes publicó El camino en 1950."
+  },
+  {
+    "id": "cg-4995",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Crónica de una muerte anunciada?",
+    "options": [
+      "Mario Vargas Llosa",
+      "Gabriel García Márquez",
+      "Álvaro Mutis",
+      "Juan Rulfo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gabriel García Márquez publicó Crónica de una muerte anunciada en 1981."
+  },
+  {
+    "id": "cg-4996",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela La casa de los espíritus, primera de una saga familiar chilena?",
+    "options": [
+      "Laura Esquivel",
+      "Isabel Allende",
+      "Ángeles Mastretta",
+      "Marcela Serrano"
+    ],
+    "correctIndex": 1,
+    "explanation": "Isabel Allende publicó La casa de los espíritus en 1982."
+  },
+  {
+    "id": "cg-4997",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Como agua para chocolate?",
+    "options": [
+      "Isabel Allende",
+      "Laura Esquivel",
+      "Ángeles Mastretta",
+      "Elena Poniatowska"
+    ],
+    "correctIndex": 1,
+    "explanation": "Laura Esquivel publicó Como agua para chocolate en 1989."
+  },
+  {
+    "id": "cg-4998",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Arráncame la vida, ambientada en la Puebla posrevolucionaria?",
+    "options": [
+      "Ángeles Mastretta",
+      "Laura Esquivel",
+      "Elena Poniatowska",
+      "Carmen Boullosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ángeles Mastretta publicó Arráncame la vida en 1985."
+  },
+  {
+    "id": "cg-4999",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela El amor en los tiempos del cólera?",
+    "options": [
+      "Gabriel García Márquez",
+      "Mario Vargas Llosa",
+      "Álvaro Mutis",
+      "Juan Carlos Onetti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gabriel García Márquez publicó El amor en los tiempos del cólera en 1985."
+  },
+  {
+    "id": "cg-5000",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela Los ríos profundos, sobre un niño en los Andes peruanos?",
+    "options": [
+      "Ciro Alegría",
+      "José María Arguedas",
+      "Mario Vargas Llosa",
+      "Julio Ramón Ribeyro"
+    ],
+    "correctIndex": 1,
+    "explanation": "José María Arguedas publicó Los ríos profundos en 1958."
+  },
+  {
+    "id": "cg-5001",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela La tregua, sobre un viudo que se jubila?",
+    "options": [
+      "Juan Carlos Onetti",
+      "Mario Benedetti",
+      "Eduardo Galeano",
+      "Horacio Quiroga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mario Benedetti publicó La tregua en 1960."
+  },
+  {
+    "id": "cg-5002",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela El principito?",
+    "options": [
+      "Albert Camus",
+      "Jules Verne",
+      "Antoine de Saint-Exupéry",
+      "Romain Gary"
+    ],
+    "correctIndex": 2,
+    "explanation": "Antoine de Saint-Exupéry publicó El principito en 1943."
+  },
+  {
+    "id": "cg-5003",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió el Diario de Ana Frank?",
+    "options": [
+      "Primo Levi",
+      "Elie Wiesel",
+      "Ana Frank",
+      "Etty Hillesum"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ana Frank escribió su diario entre 1942 y 1944 mientras se ocultaba en Ámsterdam."
+  },
+  {
+    "id": "cg-5004",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la novela La historia interminable, protagonizada por Bastian Baltasar Bux?",
+    "options": [
+      "Otfried Preußler",
+      "Cornelia Funke",
+      "Erich Kästner",
+      "Michael Ende"
+    ],
+    "correctIndex": 3,
+    "explanation": "Michael Ende publicó La historia interminable en 1979."
+  },
+  {
+    "id": "cg-5005",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Jane Austen tiene como protagonista a Emma Woodhouse, una joven que se dedica a concertar matrimonios?",
+    "options": [
+      "Mansfield Park",
+      "Persuasión",
+      "Sentido y sensibilidad",
+      "Emma"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jane Austen publicó Emma en 1815."
+  },
+  {
+    "id": "cg-5006",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Charlotte Brontë narra la vida de Lucy Snowe en un internado de la localidad ficticia de Villette?",
+    "options": [
+      "Shirley",
+      "El profesor",
+      "Villette",
+      "Agnes Grey"
+    ],
+    "correctIndex": 2,
+    "explanation": "Charlotte Brontë publicó Villette en 1853."
+  },
+  {
+    "id": "cg-5007",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Charles Dickens narra la vida de Pip, un huérfano que recibe una fortuna de origen desconocido?",
+    "options": [
+      "David Copperfield",
+      "Grandes esperanzas",
+      "Tiempos difíciles",
+      "Nicholas Nickleby"
+    ],
+    "correctIndex": 1,
+    "explanation": "Charles Dickens publicó Grandes esperanzas por entregas entre 1860 y 1861."
+  },
+  {
+    "id": "cg-5008",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Charles Dickens gira en torno al interminable caso judicial Jarndyce y Jarndyce?",
+    "options": [
+      "La pequeña Dorrit",
+      "Martin Chuzzlewit",
+      "Nuestro común amigo",
+      "Casa desolada"
+    ],
+    "correctIndex": 3,
+    "explanation": "Charles Dickens publicó Casa desolada por entregas entre 1852 y 1853."
+  },
+  {
+    "id": "cg-5009",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Thomas Hardy narra la desdicha de Tess Durbeyfield en la Inglaterra rural?",
+    "options": [
+      "Jude el oscuro",
+      "El alcalde de Casterbridge",
+      "Lejos del mundanal ruido",
+      "Tess de los d'Urberville"
+    ],
+    "correctIndex": 3,
+    "explanation": "Thomas Hardy publicó Tess de los d'Urberville en 1891."
+  },
+  {
+    "id": "cg-5010",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de George Eliot se ambienta en una ciudad inglesa ficticia y entrelaza las vidas de Dorothea Brooke y Tertius Lydgate?",
+    "options": [
+      "El molino junto al Floss",
+      "Adam Bede",
+      "Middlemarch",
+      "Daniel Deronda"
+    ],
+    "correctIndex": 2,
+    "explanation": "George Eliot publicó Middlemarch entre 1871 y 1872."
+  },
+  {
+    "id": "cg-5011",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Oscar Wilde narra la corrupción de un joven cuyo retrato envejece en su lugar?",
+    "options": [
+      "El príncipe feliz",
+      "El retrato de Dorian Gray",
+      "Una casa de granadas",
+      "De profundis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oscar Wilde publicó El retrato de Dorian Gray en 1890."
+  },
+  {
+    "id": "cg-5012",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué comedia de Oscar Wilde se basa en el embrollo de Jack Worthing, que se hace llamar Ernest cuando viaja a Londres?",
+    "options": [
+      "Un marido ideal",
+      "La importancia de llamarse Ernesto",
+      "El abanico de lady Windermere",
+      "Salomé"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oscar Wilde estrenó La importancia de llamarse Ernesto en 1895."
+  },
+  {
+    "id": "cg-5013",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de H. G. Wells narra la invasión de Inglaterra por marcianos?",
+    "options": [
+      "La máquina del tiempo",
+      "La guerra de los mundos",
+      "El hombre invisible",
+      "La isla del doctor Moreau"
+    ],
+    "correctIndex": 1,
+    "explanation": "H. G. Wells publicó La guerra de los mundos en 1898."
+  },
+  {
+    "id": "cg-5014",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Joseph Conrad relata el viaje de Marlow por el Congo en busca de Kurtz?",
+    "options": [
+      "Lord Jim",
+      "Nostromo",
+      "El agente secreto",
+      "El corazón de las tinieblas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Joseph Conrad publicó El corazón de las tinieblas en 1899."
+  },
+  {
+    "id": "cg-5015",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Graham Greene sigue a un sacerdote católico perseguido en el México de los años treinta?",
+    "options": [
+      "El tercer hombre",
+      "Nuestro hombre en La Habana",
+      "El poder y la gloria",
+      "El fin del affaire"
+    ],
+    "correctIndex": 2,
+    "explanation": "Graham Greene publicó El poder y la gloria en 1940."
+  },
+  {
+    "id": "cg-5016",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Kazuo Ishiguro está narrada por Stevens, un mayordomo de una casa señorial inglesa?",
+    "options": [
+      "Los restos del día",
+      "Nunca me abandone",
+      "Un artista del mundo flotante",
+      "Cuando fuimos huérfanos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kazuo Ishiguro publicó Los restos del día en 1989."
+  },
+  {
+    "id": "cg-5017",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Kazuo Ishiguro trata sobre jóvenes criados en un internado para donar órganos?",
+    "options": [
+      "Los restos del día",
+      "El gigante enterrado",
+      "Nunca me abandone",
+      "Klara y el sol"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kazuo Ishiguro publicó Nunca me abandone en 2005."
+  },
+  {
+    "id": "cg-5018",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Salman Rushdie narra la historia de Saleem Sinai, nacido en el momento de la independencia de la India?",
+    "options": [
+      "Los versos satánicos",
+      "Hijos de la medianoche",
+      "El último suspiro del moro",
+      "Shalimar el payaso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Salman Rushdie publicó Hijos de la medianoche en 1981."
+  },
+  {
+    "id": "cg-5019",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Hilary Mantel retrata el ascenso de Thomas Cromwell en la corte de Enrique VIII?",
+    "options": [
+      "En la corte del lobo",
+      "Una reina en el estrado",
+      "El mundo conocido",
+      "La heredera de Francia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hilary Mantel publicó En la corte del lobo en 2009."
+  },
+  {
+    "id": "cg-5020",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Dashiell Hammett introduce al detective Sam Spade y una estatuilla codiciada?",
+    "options": [
+      "El sueño eterno",
+      "El cartero siempre llama dos veces",
+      "La llave de cristal",
+      "El halcón maltés"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dashiell Hammett publicó El halcón maltés en 1930."
+  },
+  {
+    "id": "cg-5021",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Toni Morrison narra el regreso de un fantasma a la casa de una antigua esclava en Ohio?",
+    "options": [
+      "Ojos azules",
+      "Sula",
+      "Beloved",
+      "Canción de Salomón"
+    ],
+    "correctIndex": 2,
+    "explanation": "Toni Morrison publicó Beloved en 1987."
+  },
+  {
+    "id": "cg-5022",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de John Kennedy Toole sigue a Ignatius J. Reilly por Nueva Orleans?",
+    "options": [
+      "Trampa 22",
+      "La conjura de los necios",
+      "Alguien voló sobre el nido del cuco",
+      "El guardián entre el centeno"
+    ],
+    "correctIndex": 1,
+    "explanation": "La conjura de los necios se publicó de forma póstuma en 1980."
+  },
+  {
+    "id": "cg-5023",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Joseph Heller satiriza la burocracia militar estadounidense durante la Segunda Guerra Mundial?",
+    "options": [
+      "La conjura de los necios",
+      "Trampa 22",
+      "Adiós a las armas",
+      "El motín del Caine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Joseph Heller publicó Trampa 22 en 1961."
+  },
+  {
+    "id": "cg-5024",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué libro de Truman Capote reconstruye el asesinato de una familia en Kansas en 1959?",
+    "options": [
+      "Desayuno en Tiffany's",
+      "Música para camaleones",
+      "El arpa de hierba",
+      "A sangre fría"
+    ],
+    "correctIndex": 3,
+    "explanation": "Truman Capote publicó A sangre fría en 1966."
+  },
+  {
+    "id": "cg-5025",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Carlos Fuentes narra la vida de un revolucionario mexicano desde su lecho de muerte?",
+    "options": [
+      "La región más transparente",
+      "Aura",
+      "La muerte de Artemio Cruz",
+      "Terra Nostra"
+    ],
+    "correctIndex": 2,
+    "explanation": "Carlos Fuentes publicó La muerte de Artemio Cruz en 1962."
+  },
+  {
+    "id": "cg-5026",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué obra de Juan Rulfo narra la historia de Dionisio Pinzón y la Caponera en el mundo de las peleas de gallos?",
+    "options": [
+      "Pedro Páramo",
+      "El llano en llamas",
+      "La herencia de Matilde Arcángel",
+      "El gallo de oro"
+    ],
+    "correctIndex": 3,
+    "explanation": "Juan Rulfo publicó El gallo de oro en 1980, aunque la escribió antes."
+  },
+  {
+    "id": "cg-5027",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué libro de relatos breves de Juan José Arreola incluye «El guardagujas»?",
+    "options": [
+      "Bestiario",
+      "El llano en llamas",
+      "Confabulario",
+      "La feria"
+    ],
+    "correctIndex": 2,
+    "explanation": "Juan José Arreola publicó Confabulario en 1952."
+  },
+  {
+    "id": "cg-5028",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Rosario Castellanos narra la infancia de una niña en Chiapas y el conflicto con los indígenas?",
+    "options": [
+      "Oficio de tinieblas",
+      "Ciudad real",
+      "Balún Canán",
+      "Álbum de familia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rosario Castellanos publicó Balún Canán en 1957."
+  },
+  {
+    "id": "cg-5029",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué libro de Elena Poniatowska reconstruye la matanza estudiantil de 1968 en México?",
+    "options": [
+      "La noche de Tlatelolco",
+      "Hasta no verte Jesús mío",
+      "Tinísima",
+      "Las soldaderas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elena Poniatowska publicó La noche de Tlatelolco en 1971."
+  },
+  {
+    "id": "cg-5030",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Juan Carlos Onetti tiene como protagonista a Larsen, que regenta un astillero abandonado?",
+    "options": [
+      "La vida breve",
+      "Juntacadáveres",
+      "El pozo",
+      "El astillero"
+    ],
+    "correctIndex": 3,
+    "explanation": "Juan Carlos Onetti publicó El astillero en 1961."
+  },
+  {
+    "id": "cg-5031",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Alejo Carpentier recrea la revolución haitiana e incluye a Mackandal?",
+    "options": [
+      "Los pasos perdidos",
+      "El siglo de las luces",
+      "La consagración de la primavera",
+      "El reino de este mundo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alejo Carpentier publicó El reino de este mundo en 1949."
+  },
+  {
+    "id": "cg-5032",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Augusto Roa Bastos se centra en la figura del dictador paraguayo José Gaspar Rodríguez de Francia?",
+    "options": [
+      "Hijo de hombre",
+      "Yo el Supremo",
+      "El trueno entre las hojas",
+      "La babosa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Augusto Roa Bastos publicó Yo el Supremo en 1974."
+  },
+  {
+    "id": "cg-5033",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Ricardo Piglia combina una investigación literaria con la historia argentina del siglo XX?",
+    "options": [
+      "Respiración artificial",
+      "Plata quemada",
+      "Los siete locos",
+      "Adán Buenosayres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ricardo Piglia publicó Respiración artificial en 1980."
+  },
+  {
+    "id": "cg-5034",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Manuel Puig transcurre en una celda entre dos presos que conversan sobre cine?",
+    "options": [
+      "Boquitas pintadas",
+      "El beso de la mujer araña",
+      "La traición de Rita Hayworth",
+      "Pubis angelical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Manuel Puig publicó El beso de la mujer araña en 1976."
+  },
+  {
+    "id": "cg-5035",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Ernesto Sabato incluye el «Informe sobre ciegos»?",
+    "options": [
+      "El túnel",
+      "Sobre héroes y tumbas",
+      "Abbadón el exterminador",
+      "La resistencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ernesto Sabato publicó Sobre héroes y tumbas en 1961."
+  },
+  {
+    "id": "cg-5036",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Roberto Bolaño sigue a Arturo Belano y Ulises Lima, fundadores del realismo visceral?",
+    "options": [
+      "2666",
+      "Estrella distante",
+      "Los detectives salvajes",
+      "Amuleto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Roberto Bolaño publicó Los detectives salvajes en 1998."
+  },
+  {
+    "id": "cg-5037",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela breve de María Luisa Bombal es narrada por una mujer muerta que escucha a los vivos?",
+    "options": [
+      "La amortajada",
+      "La última niebla",
+      "El árbol",
+      "El lugar sin límites"
+    ],
+    "correctIndex": 0,
+    "explanation": "María Luisa Bombal publicó La amortajada en 1938."
+  },
+  {
+    "id": "cg-5038",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poemario de César Vallejo rompió con las formas poéticas tradicionales y se publicó en 1922?",
+    "options": [
+      "Los heraldos negros",
+      "Trilce",
+      "Poemas humanos",
+      "España, aparta de mí este cáliz"
+    ],
+    "correctIndex": 1,
+    "explanation": "César Vallejo publicó Trilce en 1922."
+  },
+  {
+    "id": "cg-5039",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poema largo de Vicente Huidobro propone un viaje en paracaídas por el lenguaje?",
+    "options": [
+      "Temblor de cielo",
+      "Altazor",
+      "Poemas árticos",
+      "Ecuatorial"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vicente Huidobro publicó Altazor en 1931."
+  },
+  {
+    "id": "cg-5040",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Pío Baroja describe la vida marginal en el Madrid de comienzos del siglo XX?",
+    "options": [
+      "La busca",
+      "El árbol de la ciencia",
+      "Zalacaín el aventurero",
+      "La casa de Aizgorri"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pío Baroja publicó La busca en 1904."
+  },
+  {
+    "id": "cg-5041",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Emilia Pardo Bazán retrata la decadencia de la nobleza rural gallega?",
+    "options": [
+      "La madre naturaleza",
+      "Insolación",
+      "La tribuna",
+      "Los pazos de Ulloa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Emilia Pardo Bazán publicó Los pazos de Ulloa en 1886."
+  },
+  {
+    "id": "cg-5042",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poeta español publicó en 1903 el poemario Soledades, ampliado luego como Soledades, galerías y otros poemas?",
+    "options": [
+      "Antonio Machado",
+      "Juan Ramón Jiménez",
+      "Miguel de Unamuno",
+      "Francisco Villaespesa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Antonio Machado publicó Soledades en 1903."
+  },
+  {
+    "id": "cg-5043",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poeta de la Generación del 27 escribió Sobre los ángeles, marcado por una crisis personal?",
+    "options": [
+      "Federico García Lorca",
+      "Vicente Aleixandre",
+      "Luis Cernuda",
+      "Rafael Alberti"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rafael Alberti publicó Sobre los ángeles en 1929."
+  },
+  {
+    "id": "cg-5044",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poeta de la Generación del 27 escribió La destrucción o el amor y recibió el Nobel en 1977?",
+    "options": [
+      "Vicente Aleixandre",
+      "Jorge Guillén",
+      "Pedro Salinas",
+      "Dámaso Alonso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vicente Aleixandre recibió el Nobel de Literatura en 1977."
+  },
+  {
+    "id": "cg-5045",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué obra teatral de Ramón del Valle-Inclán sigue a Max Estrella por el Madrid de 1920?",
+    "options": [
+      "Las galas del difunto",
+      "Luces de bohemia",
+      "La hija del capitán",
+      "Los cuernos de don Friolera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ramón del Valle-Inclán publicó Luces de bohemia en 1920."
+  },
+  {
+    "id": "cg-5046",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Juan Marsé narra el encuentro entre un joven charnego y una estudiante universitaria en Barcelona?",
+    "options": [
+      "Si te dicen que caí",
+      "El amante bilingüe",
+      "La oscura historia de la prima Montse",
+      "Últimas tardes con Teresa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Juan Marsé publicó Últimas tardes con Teresa en 1966."
+  },
+  {
+    "id": "cg-5047",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Javier Marías comienza con la confesión de un hombre en su noche de bodas?",
+    "options": [
+      "Mañana en la batalla piensa en mí",
+      "Corazón tan blanco",
+      "Tu rostro mañana",
+      "Todas las almas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Javier Marías publicó Corazón tan blanco en 1992."
+  },
+  {
+    "id": "cg-5048",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Eduardo Mendoza, ambientada en Barcelona, mezcla el thriller con la novela histórica?",
+    "options": [
+      "La ciudad de los prodigios",
+      "El misterio de la cripta embrujada",
+      "Sin noticias de Gurb",
+      "La verdad sobre el caso Savolta"
+    ],
+    "correctIndex": 3,
+    "explanation": "Eduardo Mendoza publicó La verdad sobre el caso Savolta en 1975."
+  },
+  {
+    "id": "cg-5049",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Mercè Rodoreda narra la vida de Natalia durante la Segunda República y la guerra civil española?",
+    "options": [
+      "La calle de las camelias",
+      "Espejo roto",
+      "La plaza del Diamante",
+      "Aloma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mercè Rodoreda publicó La plaza del Diamante en 1962."
+  },
+  {
+    "id": "cg-5050",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué ciclo novelesco de Marcel Proust explora la memoria y el tiempo a lo largo de siete volúmenes?",
+    "options": [
+      "Los monederos falsos",
+      "El viaje al fin de la noche",
+      "Jean Santeuil",
+      "En busca del tiempo perdido"
+    ],
+    "correctIndex": 3,
+    "explanation": "Marcel Proust publicó En busca del tiempo perdido entre 1913 y 1927."
+  },
+  {
+    "id": "cg-5051",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Stendhal narra la ambición de Julien Sorel en la Francia de la Restauración?",
+    "options": [
+      "La cartuja de Parma",
+      "Rojo y negro",
+      "Lucien Leuwen",
+      "Armance"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stendhal publicó Rojo y negro en 1830."
+  },
+  {
+    "id": "cg-5052",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Émile Zola describe una huelga de mineros en el norte de Francia?",
+    "options": [
+      "Germinal",
+      "Nana",
+      "La bestia humana",
+      "Thérèse Raquin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Émile Zola publicó Germinal en 1885."
+  },
+  {
+    "id": "cg-5053",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Guy de Maupassant sigue el ascenso social de Georges Duroy en el periodismo parisino?",
+    "options": [
+      "Bel Ami",
+      "Una vida",
+      "Mont-Oriol",
+      "Fuerte como la muerte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Guy de Maupassant publicó Bel Ami en 1885."
+  },
+  {
+    "id": "cg-5054",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poemario de Charles Baudelaire fue procesado por ofensa a la moral en 1857?",
+    "options": [
+      "Los pequeños poemas en prosa",
+      "Las flores del mal",
+      "El spleen de París",
+      "Los despojos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Charles Baudelaire publicó Las flores del mal en 1857."
+  },
+  {
+    "id": "cg-5055",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Albert Camus narra el asesinato de un árabe por Meursault en Argel?",
+    "options": [
+      "La peste",
+      "La caída",
+      "El extranjero",
+      "El primer hombre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Albert Camus publicó El extranjero en 1942."
+  },
+  {
+    "id": "cg-5056",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Jean-Paul Sartre narra las náuseas de Antoine Roquentin en Bouville?",
+    "options": [
+      "Los caminos de la libertad",
+      "El ser y la nada",
+      "Las palabras",
+      "La náusea"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jean-Paul Sartre publicó La náusea en 1938."
+  },
+  {
+    "id": "cg-5057",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué ensayo de Simone de Beauvoir, publicado en 1949, analiza la condición femenina?",
+    "options": [
+      "El segundo sexo",
+      "La mujer rota",
+      "Memorias de una joven formal",
+      "La invitada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Simone de Beauvoir publicó El segundo sexo en 1949."
+  },
+  {
+    "id": "cg-5058",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Marguerite Duras narra un romance adolescente en la Indochina francesa?",
+    "options": [
+      "Moderato cantabile",
+      "El amante",
+      "Hiroshima mon amour",
+      "Un dique contra el Pacífico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marguerite Duras publicó El amante en 1984."
+  },
+  {
+    "id": "cg-5059",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Marguerite Yourcenar imagina la autobiografía del emperador romano Adriano?",
+    "options": [
+      "El tajo",
+      "Opus nigrum",
+      "Cuentos orientales",
+      "Memorias de Adriano"
+    ],
+    "correctIndex": 3,
+    "explanation": "Marguerite Yourcenar publicó Memorias de Adriano en 1951."
+  },
+  {
+    "id": "cg-5060",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poeta italiano del siglo XIV escribió el Cancionero, dedicado a Laura?",
+    "options": [
+      "Dante Alighieri",
+      "Giovanni Boccaccio",
+      "Guido Cavalcanti",
+      "Francesco Petrarca"
+    ],
+    "correctIndex": 3,
+    "explanation": "Francesco Petrarca escribió el Cancionero a lo largo de varias décadas."
+  },
+  {
+    "id": "cg-5061",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poeta italiano escribió el poema caballeresco Orlando furioso?",
+    "options": [
+      "Ludovico Ariosto",
+      "Torquato Tasso",
+      "Matteo Maria Boiardo",
+      "Francesco Petrarca"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ludovico Ariosto publicó Orlando furioso en 1516."
+  },
+  {
+    "id": "cg-5062",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novelista italiano escribió Los novios, ambientada en la Lombardía del siglo XVII?",
+    "options": [
+      "Alessandro Manzoni",
+      "Giacomo Leopardi",
+      "Ugo Foscolo",
+      "Giovanni Verga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alessandro Manzoni publicó Los novios en 1827."
+  },
+  {
+    "id": "cg-5063",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo italiano escribió Seis personajes en busca de autor?",
+    "options": [
+      "Carlo Goldoni",
+      "Dario Fo",
+      "Luigi Pirandello",
+      "Eduardo De Filippo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Luigi Pirandello estrenó Seis personajes en busca de autor en 1921."
+  },
+  {
+    "id": "cg-5064",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novelista italiano escribió La conciencia de Zeno?",
+    "options": [
+      "Alberto Moravia",
+      "Italo Calvino",
+      "Giuseppe Tomasi di Lampedusa",
+      "Italo Svevo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Italo Svevo publicó La conciencia de Zeno en 1923."
+  },
+  {
+    "id": "cg-5065",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Italo Calvino narra la vida de un noble que decide vivir en los árboles?",
+    "options": [
+      "El vizconde demediado",
+      "El caballero inexistente",
+      "El barón rampante",
+      "Las ciudades invisibles"
+    ],
+    "correctIndex": 2,
+    "explanation": "Italo Calvino publicó El barón rampante en 1957."
+  },
+  {
+    "id": "cg-5066",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poeta portugués escribió la epopeya Os Lusíadas?",
+    "options": [
+      "Fernando Pessoa",
+      "Luís de Camões",
+      "Eça de Queirós",
+      "Almeida Garrett"
+    ],
+    "correctIndex": 1,
+    "explanation": "Luís de Camões publicó Os Lusíadas en 1572."
+  },
+  {
+    "id": "cg-5067",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poeta portugués publicó Mensagem y dejó inédito un conjunto de textos conocido como Libro del desasosiego?",
+    "options": [
+      "Mário de Sá-Carneiro",
+      "Fernando Pessoa",
+      "Almada Negreiros",
+      "Sophia de Mello Breyner"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fernando Pessoa publicó Mensagem en 1934 y dejó el Libro del desasosiego inédito."
+  },
+  {
+    "id": "cg-5068",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novelista portugués escribió Los Maias, sobre la decadencia de una familia lisboeta?",
+    "options": [
+      "Camilo Castelo Branco",
+      "Júlio Dinis",
+      "Eça de Queirós",
+      "Ramalho Ortigão"
+    ],
+    "correctIndex": 2,
+    "explanation": "Eça de Queirós publicó Los Maias en 1888."
+  },
+  {
+    "id": "cg-5069",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poeta griego moderno escribió el poema «Ítaca», inspirado en el viaje de Odiseo?",
+    "options": [
+      "Giorgos Seferis",
+      "Constantino Cavafis",
+      "Odysseas Elytis",
+      "Yannis Ritsos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Constantino Cavafis escribió «Ítaca» en 1911."
+  },
+  {
+    "id": "cg-5070",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poeta austríaco escribió las Elegías de Duino y los Sonetos a Orfeo?",
+    "options": [
+      "Rainer Maria Rilke",
+      "Georg Trakl",
+      "Stefan George",
+      "Hugo von Hofmannsthal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rainer Maria Rilke publicó las Elegías de Duino en 1923."
+  },
+  {
+    "id": "cg-5071",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novelista austríaco dejó incompleta El hombre sin atributos?",
+    "options": [
+      "Hermann Broch",
+      "Joseph Roth",
+      "Robert Musil",
+      "Arthur Schnitzler"
+    ],
+    "correctIndex": 2,
+    "explanation": "Robert Musil publicó los tres volúmenes de El hombre sin atributos entre 1930 y 1943."
+  },
+  {
+    "id": "cg-5072",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué escritor austríaco escribió Novela de ajedrez y Carta de una desconocida?",
+    "options": [
+      "Joseph Roth",
+      "Stefan Zweig",
+      "Arthur Schnitzler",
+      "Robert Musil"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stefan Zweig publicó Novela de ajedrez en 1942."
+  },
+  {
+    "id": "cg-5073",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo alemán escribió Madre Coraje y sus hijos?",
+    "options": [
+      "Friedrich Dürrenmatt",
+      "Georg Büchner",
+      "Bertolt Brecht",
+      "Heiner Müller"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bertolt Brecht estrenó Madre Coraje y sus hijos en 1941."
+  },
+  {
+    "id": "cg-5074",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novelista alemán escribió Sin novedad en el frente, sobre la Gran Guerra?",
+    "options": [
+      "Erich Maria Remarque",
+      "Heinrich Böll",
+      "Günter Grass",
+      "Alfred Döblin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erich Maria Remarque publicó Sin novedad en el frente en 1929."
+  },
+  {
+    "id": "cg-5075",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué escritor suizo escribió Homo Faber, sobre un ingeniero atrapado en un destino trágico?",
+    "options": [
+      "Friedrich Dürrenmatt",
+      "Robert Walser",
+      "Gottfried Keller",
+      "Max Frisch"
+    ],
+    "correctIndex": 3,
+    "explanation": "Max Frisch publicó Homo Faber en 1957."
+  },
+  {
+    "id": "cg-5076",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo suizo escribió La visita de la anciana dama?",
+    "options": [
+      "Max Frisch",
+      "Bertolt Brecht",
+      "Friedrich Dürrenmatt",
+      "Peter Weiss"
+    ],
+    "correctIndex": 2,
+    "explanation": "Friedrich Dürrenmatt estrenó La visita de la anciana dama en 1956."
+  },
+  {
+    "id": "cg-5077",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué escritor alemán escribió Austerlitz, novela sobre la memoria del Holocausto?",
+    "options": [
+      "Bernhard Schlink",
+      "Günter Grass",
+      "W. G. Sebald",
+      "Uwe Johnson"
+    ],
+    "correctIndex": 2,
+    "explanation": "W. G. Sebald publicó Austerlitz en 2001."
+  },
+  {
+    "id": "cg-5078",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poeta ruso escribió la novela en verso Eugenio Oneguin?",
+    "options": [
+      "Aleksandr Pushkin",
+      "Mijaíl Lérmontov",
+      "Fiódor Tiútchev",
+      "Afanasi Fet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aleksandr Pushkin publicó Eugenio Oneguin entre 1825 y 1832."
+  },
+  {
+    "id": "cg-5079",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novelista ruso creó a Iliá Ilich Oblómov, símbolo de la apatía aristocrática?",
+    "options": [
+      "Iván Turguénev",
+      "Nikolái Gógol",
+      "Antón Chéjov",
+      "Iván Goncharov"
+    ],
+    "correctIndex": 3,
+    "explanation": "Iván Goncharov publicó Oblómov en 1859."
+  },
+  {
+    "id": "cg-5080",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Iván Turguénev enfrenta a la generación liberal con los nihilistas rusos?",
+    "options": [
+      "Padres e hijos",
+      "Nido de nobles",
+      "Rudin",
+      "Humo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Iván Turguénev publicó Padres e hijos en 1862."
+  },
+  {
+    "id": "cg-5081",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Fiódor Dostoievski tiene como protagonista al príncipe Myshkin?",
+    "options": [
+      "Los demonios",
+      "El jugador",
+      "El idiota",
+      "Pobres gentes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fiódor Dostoievski publicó El idiota en 1869."
+  },
+  {
+    "id": "cg-5082",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué obra teatral de Antón Chéjov gira en torno a la venta de una finca familiar?",
+    "options": [
+      "La gaviota",
+      "Tío Vania",
+      "Las tres hermanas",
+      "El jardín de los cerezos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Antón Chéjov estrenó El jardín de los cerezos en 1904."
+  },
+  {
+    "id": "cg-5083",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Borís Pasternak transcurre durante la Revolución rusa y le valió el Nobel de 1958?",
+    "options": [
+      "Doctor Zhivago",
+      "El Don apacible",
+      "Vida y destino",
+      "Los hijos del Arbat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Borís Pasternak publicó Doctor Zhivago en 1957."
+  },
+  {
+    "id": "cg-5084",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué escritor polaco escribió la novela de ciencia ficción Solaris?",
+    "options": [
+      "Bruno Schulz",
+      "Witold Gombrowicz",
+      "Czesław Miłosz",
+      "Stanisław Lem"
+    ],
+    "correctIndex": 3,
+    "explanation": "Stanisław Lem publicó Solaris en 1961."
+  },
+  {
+    "id": "cg-5085",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poeta polaco, autor de La mente cautiva, recibió el Nobel de Literatura en 1980?",
+    "options": [
+      "Wisława Szymborska",
+      "Tadeusz Różewicz",
+      "Czesław Miłosz",
+      "Zbigniew Herbert"
+    ],
+    "correctIndex": 2,
+    "explanation": "Czesław Miłosz recibió el Nobel de Literatura en 1980."
+  },
+  {
+    "id": "cg-5086",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poeta polaca recibió el Nobel de Literatura en 1996?",
+    "options": [
+      "Olga Tokarczuk",
+      "Anna Świrszczyńska",
+      "Ewa Lipska",
+      "Wisława Szymborska"
+    ],
+    "correctIndex": 3,
+    "explanation": "Wisława Szymborska recibió el Nobel de Literatura en 1996."
+  },
+  {
+    "id": "cg-5087",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novelista polaca recibió el Nobel de Literatura en 2018?",
+    "options": [
+      "Wisława Szymborska",
+      "Hanna Krall",
+      "Olga Tokarczuk",
+      "Magdalena Tulli"
+    ],
+    "correctIndex": 2,
+    "explanation": "Olga Tokarczuk recibió el Nobel de Literatura en 2018."
+  },
+  {
+    "id": "cg-5088",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Witold Gombrowicz narra la vuelta de un escritor maduro a la escuela?",
+    "options": [
+      "Transatlántico",
+      "Pornografía",
+      "Cosmos",
+      "Ferdydurke"
+    ],
+    "correctIndex": 3,
+    "explanation": "Witold Gombrowicz publicó Ferdydurke en 1937."
+  },
+  {
+    "id": "cg-5089",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Milan Kundera explora el amor y la política en la Checoslovaquia comunista?",
+    "options": [
+      "La insoportable levedad del ser",
+      "La broma",
+      "El libro de la risa y el olvido",
+      "La inmortalidad"
+    ],
+    "correctIndex": 0,
+    "explanation": "Milan Kundera publicó La insoportable levedad del ser en 1984."
+  },
+  {
+    "id": "cg-5090",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Natsume Soseki explora la soledad y la culpa de un joven estudiante y su maestro?",
+    "options": [
+      "Kokoro",
+      "Soy un gato",
+      "Botchan",
+      "Sanshiro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Natsume Soseki publicó Kokoro en 1914."
+  },
+  {
+    "id": "cg-5091",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Yasunari Kawabata narra el encuentro de Shimamura con la geisha Komako en un balneario nevado?",
+    "options": [
+      "Lo bello y lo triste",
+      "Mil grullas",
+      "La casa de las bellas durmientes",
+      "País de nieve"
+    ],
+    "correctIndex": 3,
+    "explanation": "Yasunari Kawabata publicó País de nieve en 1948."
+  },
+  {
+    "id": "cg-5092",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Yukio Mishima se inspira en el incendio del templo Kinkaku-ji?",
+    "options": [
+      "Confesiones de una máscara",
+      "El marino que perdió la gracia del mar",
+      "El pabellón de oro",
+      "Sed de amor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yukio Mishima publicó El pabellón de oro en 1956."
+  },
+  {
+    "id": "cg-5093",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué escritor japonés escribió los relatos «Rashomon» y «En la maleza»?",
+    "options": [
+      "Natsume Soseki",
+      "Osamu Dazai",
+      "Junichiro Tanizaki",
+      "Ryunosuke Akutagawa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ryunosuke Akutagawa publicó «Rashomon» en 1915."
+  },
+  {
+    "id": "cg-5094",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué obra de la literatura japonesa del siglo XI se atribuye a Murasaki Shikibu?",
+    "options": [
+      "La historia de Genji",
+      "El libro de la almohada",
+      "Los cuentos de Ise",
+      "El cantar de Heike"
+    ],
+    "correctIndex": 0,
+    "explanation": "La historia de Genji se considera una de las primeras novelas de la literatura universal."
+  },
+  {
+    "id": "cg-5095",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poeta japonés del siglo XVII es famoso por sus haikus y por el diario Oku no Hosomichi?",
+    "options": [
+      "Yosa Buson",
+      "Kobayashi Issa",
+      "Matsuo Bashō",
+      "Masaoka Shiki"
+    ],
+    "correctIndex": 2,
+    "explanation": "Matsuo Bashō escribió Oku no Hosomichi en el siglo XVII."
+  },
+  {
+    "id": "cg-5096",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela china del siglo XVIII narra la decadencia de la familia Jia?",
+    "options": [
+      "Romance de los Tres Reinos",
+      "Viaje al Oeste",
+      "Jin Ping Mei",
+      "Sueño en el pabellón rojo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sueño en el pabellón rojo se atribuye a Cao Xueqin."
+  },
+  {
+    "id": "cg-5097",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué escritor chino moderno publicó en 1918 el relato «Diario de un loco»?",
+    "options": [
+      "Lao She",
+      "Lu Xun",
+      "Ba Jin",
+      "Mo Yan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lu Xun publicó «Diario de un loco» en 1918."
+  },
+  {
+    "id": "cg-5098",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué escritor chino recibió el Nobel de Literatura en 2012?",
+    "options": [
+      "Gao Xingjian",
+      "Bei Dao",
+      "Mo Yan",
+      "Yu Hua"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mo Yan recibió el Nobel de Literatura en 2012."
+  },
+  {
+    "id": "cg-5099",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novela de Arundhati Roy ganó el Booker Prize en 1997?",
+    "options": [
+      "El ministerio de la felicidad suprema",
+      "Hijos de la medianoche",
+      "El tigre blanco",
+      "El dios de las pequeñas cosas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Arundhati Roy ganó el Booker Prize en 1997 con El dios de las pequeñas cosas."
+  },
+  {
+    "id": "cg-5100",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué escritor nigeriano escribió Todo se desmorona (Things Fall Apart)?",
+    "options": [
+      "Wole Soyinka",
+      "Ngũgĩ wa Thiong'o",
+      "Chinua Achebe",
+      "Ben Okri"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chinua Achebe publicó Todo se desmorona en 1958."
+  },
+  {
+    "id": "cg-5101",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué escritor nigeriano recibió el Nobel de Literatura en 1986?",
+    "options": [
+      "Chinua Achebe",
+      "Ben Okri",
+      "Wole Soyinka",
+      "Ngũgĩ wa Thiong'o"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wole Soyinka recibió el Nobel de Literatura en 1986."
+  },
+  {
+    "id": "cg-5102",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué escritora sudafricana recibió el Nobel de Literatura en 1991?",
+    "options": [
+      "Nadine Gordimer",
+      "Doris Lessing",
+      "J. M. Coetzee",
+      "Bessie Head"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nadine Gordimer recibió el Nobel de Literatura en 1991."
+  },
+  {
+    "id": "cg-5103",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué escritor sudafricano recibió el Nobel de Literatura en 2003?",
+    "options": [
+      "J. M. Coetzee",
+      "Nadine Gordimer",
+      "André Brink",
+      "Zakes Mda"
+    ],
+    "correctIndex": 0,
+    "explanation": "J. M. Coetzee recibió el Nobel de Literatura en 2003."
+  },
+  {
+    "id": "cg-5104",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué novelista sudanés escribió Estación de migración hacia el norte?",
+    "options": [
+      "Naguib Mahfuz",
+      "Alaa al Aswany",
+      "Elias Khoury",
+      "Tayeb Salih"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tayeb Salih publicó Estación de migración hacia el norte en 1966."
+  },
+  {
+    "id": "cg-5105",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué escritora senegalesa escribió Una larga carta (Une si longue lettre)?",
+    "options": [
+      "Mariama Bâ",
+      "Aminata Sow Fall",
+      "Ken Bugul",
+      "Fatou Diome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mariama Bâ publicó Una larga carta en 1979."
+  },
+  {
+    "id": "cg-5106",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué escritor egipcio recibió el Nobel de Literatura en 1988?",
+    "options": [
+      "Yusuf Idris",
+      "Tawfiq al-Hakim",
+      "Naguib Mahfuz",
+      "Alaa al Aswany"
+    ],
+    "correctIndex": 2,
+    "explanation": "Naguib Mahfuz recibió el Nobel de Literatura en 1988."
+  },
+  {
+    "id": "cg-5107",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué poeta libanés emigrado a Estados Unidos escribió El profeta en 1923?",
+    "options": [
+      "Kahlil Gibran",
+      "Amin Rihani",
+      "Iliya Abu Madi",
+      "Adonis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kahlil Gibran publicó El profeta en 1923."
+  },
+  {
+    "id": "cg-5108",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "medium",
+    "question": "¿Qué escritor turco recibió el Nobel de Literatura en 2006?",
+    "options": [
+      "Elif Shafak",
+      "Orhan Pamuk",
+      "Yaşar Kemal",
+      "Ahmet Altan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Orhan Pamuk recibió el Nobel de Literatura en 2006."
+  },
+  {
+    "id": "cg-5109",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué poeta griego de la época helenística escribió el poema épico Argonáuticas?",
+    "options": [
+      "Calímaco",
+      "Apolonio de Rodas",
+      "Teócrito",
+      "Arato de Solos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Apolonio de Rodas compuso las Argonáuticas en el siglo III a. C."
+  },
+  {
+    "id": "cg-5110",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué autor latino del siglo I escribió la novela Satiricón, conservada de forma fragmentaria?",
+    "options": [
+      "Apuleyo",
+      "Petronio",
+      "Séneca",
+      "Juvenal"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Satiricón se atribuye a Petronio, cortesano de Nerón."
+  },
+  {
+    "id": "cg-5111",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritora neozelandesa ganó el Booker Prize en 1985 con la novela The Bone People?",
+    "options": [
+      "Keri Hulme",
+      "Eleanor Catton",
+      "Janet Frame",
+      "Patricia Grace"
+    ],
+    "correctIndex": 0,
+    "explanation": "Keri Hulme ganó el Booker Prize en 1985 con The Bone People."
+  },
+  {
+    "id": "cg-5112",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué poeta francés del siglo XV escribió el Testamento, que incluye la «Balada de las damas de antaño»?",
+    "options": [
+      "François Villon",
+      "Charles d'Orléans",
+      "Christine de Pizan",
+      "Clément Marot"
+    ],
+    "correctIndex": 0,
+    "explanation": "François Villon compuso el Testamento hacia 1461."
+  },
+  {
+    "id": "cg-5113",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué poeta español del siglo XVI escribió el poema épico La Araucana, sobre la conquista de Chile?",
+    "options": [
+      "Garcilaso de la Vega",
+      "Fray Luis de León",
+      "Alonso de Ercilla",
+      "Fernando de Herrera"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alonso de Ercilla publicó La Araucana entre 1569 y 1589."
+  },
+  {
+    "id": "cg-5114",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué poeta español del Siglo de Oro escribió la Fábula de Polifemo y Galatea?",
+    "options": [
+      "Luis de Góngora",
+      "Francisco de Quevedo",
+      "Lope de Vega",
+      "Juan de Jáuregui"
+    ],
+    "correctIndex": 0,
+    "explanation": "Luis de Góngora compuso la Fábula de Polifemo y Galatea en 1612."
+  },
+  {
+    "id": "cg-5115",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor español del Barroco escribió la novela picaresca El Buscón?",
+    "options": [
+      "Mateo Alemán",
+      "Luis de Góngora",
+      "Francisco de Quevedo",
+      "Baltasar Gracián"
+    ],
+    "correctIndex": 2,
+    "explanation": "Francisco de Quevedo escribió El Buscón a comienzos del siglo XVII."
+  },
+  {
+    "id": "cg-5116",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo español creó al personaje Don Juan en El burlador de Sevilla?",
+    "options": [
+      "Tirso de Molina",
+      "Lope de Vega",
+      "Calderón de la Barca",
+      "Agustín Moreto"
+    ],
+    "correctIndex": 0,
+    "explanation": "El burlador de Sevilla se atribuye a Tirso de Molina."
+  },
+  {
+    "id": "cg-5117",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo francés escribió la tragedia Fedra en 1677?",
+    "options": [
+      "Pierre Corneille",
+      "Molière",
+      "Voltaire",
+      "Jean Racine"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jean Racine estrenó Fedra en 1677."
+  },
+  {
+    "id": "cg-5118",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor australiano escribió La verdadera historia de la banda de Kelly?",
+    "options": [
+      "Richard Flanagan",
+      "Tim Winton",
+      "Peter Carey",
+      "Thomas Keneally"
+    ],
+    "correctIndex": 2,
+    "explanation": "Peter Carey publicó La verdadera historia de la banda de Kelly en 2000."
+  },
+  {
+    "id": "cg-5119",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor francés de la Ilustración escribió la novela filosófica Cándido?",
+    "options": [
+      "Rousseau",
+      "Diderot",
+      "Voltaire",
+      "Montesquieu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Voltaire publicó Cándido en 1759."
+  },
+  {
+    "id": "cg-5120",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué novela de Stendhal narra la vida de Fabrizio del Dongo en la Italia napoleónica?",
+    "options": [
+      "La cartuja de Parma",
+      "Rojo y negro",
+      "Lucien Leuwen",
+      "Armance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stendhal publicó La cartuja de Parma en 1839."
+  },
+  {
+    "id": "cg-5121",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué novela de Honoré de Balzac narra el sacrificio del padre Goriot por sus hijas en París?",
+    "options": [
+      "Papá Goriot",
+      "Eugenia Grandet",
+      "Las ilusiones perdidas",
+      "La prima Bette"
+    ],
+    "correctIndex": 0,
+    "explanation": "Honoré de Balzac publicó Papá Goriot en 1835."
+  },
+  {
+    "id": "cg-5122",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué poeta francés escribió el poema «El barco ebrio»?",
+    "options": [
+      "Paul Verlaine",
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé",
+      "Charles Baudelaire"
+    ],
+    "correctIndex": 1,
+    "explanation": "Arthur Rimbaud compuso «El barco ebrio» en 1871."
+  },
+  {
+    "id": "cg-5123",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor francés escribió la novela Viaje al fin de la noche?",
+    "options": [
+      "André Malraux",
+      "Antoine de Saint-Exupéry",
+      "Louis-Ferdinand Céline",
+      "Henry Miller"
+    ],
+    "correctIndex": 2,
+    "explanation": "Louis-Ferdinand Céline publicó Viaje al fin de la noche en 1932."
+  },
+  {
+    "id": "cg-5124",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué nombre real tenía la novelista inglesa que firmó Middlemarch como George Eliot?",
+    "options": [
+      "Mary Ann Evans",
+      "Charlotte Brontë",
+      "Elizabeth Gaskell",
+      "Harriet Martineau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mary Ann Evans adoptó el seudónimo George Eliot."
+  },
+  {
+    "id": "cg-5125",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué novelista inglés del siglo XVIII escribió La vida y opiniones de Tristram Shandy?",
+    "options": [
+      "Henry Fielding",
+      "Laurence Sterne",
+      "Samuel Richardson",
+      "Tobias Smollett"
+    ],
+    "correctIndex": 1,
+    "explanation": "Laurence Sterne publicó Tristram Shandy entre 1759 y 1767."
+  },
+  {
+    "id": "cg-5126",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué poeta inglés escribió el poema épico El paraíso perdido?",
+    "options": [
+      "John Dryden",
+      "Alexander Pope",
+      "Edmund Spenser",
+      "John Milton"
+    ],
+    "correctIndex": 3,
+    "explanation": "John Milton publicó El paraíso perdido en 1667."
+  },
+  {
+    "id": "cg-5127",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué novelista inglés escribió La feria de las vanidades, con Becky Sharp como protagonista?",
+    "options": [
+      "Charles Dickens",
+      "William Thackeray",
+      "Anthony Trollope",
+      "George Meredith"
+    ],
+    "correctIndex": 1,
+    "explanation": "William Thackeray publicó La feria de las vanidades en 1848."
+  },
+  {
+    "id": "cg-5128",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué poeta estadounidense publicó Hojas de hierba en 1855?",
+    "options": [
+      "Emily Dickinson",
+      "Henry Wadsworth Longfellow",
+      "Ralph Waldo Emerson",
+      "Walt Whitman"
+    ],
+    "correctIndex": 3,
+    "explanation": "Walt Whitman publicó Hojas de hierba en 1855."
+  },
+  {
+    "id": "cg-5129",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué poeta estadounidense escribió «Porque no pude detenerme para la muerte»?",
+    "options": [
+      "Emily Dickinson",
+      "Sylvia Plath",
+      "Marianne Moore",
+      "Edna St. Vincent Millay"
+    ],
+    "correctIndex": 0,
+    "explanation": "Emily Dickinson compuso ese poema hacia 1863."
+  },
+  {
+    "id": "cg-5130",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué novela de William Faulkner narra la decadencia de la familia Compson en el sur de Estados Unidos?",
+    "options": [
+      "¡Absalón, Absalón!",
+      "Luz de agosto",
+      "El sonido y la furia",
+      "Mientras agonizo"
+    ],
+    "correctIndex": 2,
+    "explanation": "William Faulkner publicó El sonido y la furia en 1929."
+  },
+  {
+    "id": "cg-5131",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué novela de Thomas Pynchon gira en torno a los cohetes V-2 al final de la Segunda Guerra Mundial?",
+    "options": [
+      "La subasta del lote 49",
+      "Vineland",
+      "El arco iris de la gravedad",
+      "Mason y Dixon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thomas Pynchon publicó El arco iris de la gravedad en 1973."
+  },
+  {
+    "id": "cg-5132",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué obra teatral de Henrik Ibsen sigue las aventuras del campesino Peer Gynt?",
+    "options": [
+      "Brand",
+      "Peer Gynt",
+      "El pato salvaje",
+      "Hedda Gabler"
+    ],
+    "correctIndex": 1,
+    "explanation": "Henrik Ibsen publicó Peer Gynt en 1867."
+  },
+  {
+    "id": "cg-5133",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué novelista noruego ganó el Nobel en 1920 y escribió Hambre?",
+    "options": [
+      "Sigrid Undset",
+      "Henrik Ibsen",
+      "Bjørnstjerne Bjørnson",
+      "Knut Hamsun"
+    ],
+    "correctIndex": 3,
+    "explanation": "Knut Hamsun recibió el Nobel de Literatura en 1920."
+  },
+  {
+    "id": "cg-5134",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor nacido en Zanzíbar recibió el Nobel de Literatura en 2021?",
+    "options": [
+      "Wole Soyinka",
+      "Nuruddin Farah",
+      "Abdulrazak Gurnah",
+      "Ngũgĩ wa Thiong'o"
+    ],
+    "correctIndex": 2,
+    "explanation": "Abdulrazak Gurnah recibió el Nobel de Literatura en 2021."
+  },
+  {
+    "id": "cg-5135",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué poeta rumano del siglo XIX escribió el poema «Luceafărul»?",
+    "options": [
+      "George Bacovia",
+      "Tudor Arghezi",
+      "Lucian Blaga",
+      "Mihai Eminescu"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mihai Eminescu publicó «Luceafărul» en 1883."
+  },
+  {
+    "id": "cg-5136",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo de origen rumano escribió La cantante calva?",
+    "options": [
+      "Samuel Beckett",
+      "Eugène Ionesco",
+      "Jean Genet",
+      "Arthur Adamov"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eugène Ionesco estrenó La cantante calva en 1950."
+  },
+  {
+    "id": "cg-5137",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor albanés escribió El general del ejército muerto?",
+    "options": [
+      "Enver Hoxha",
+      "Ismail Kadare",
+      "Dritëro Agolli",
+      "Fatos Kongoli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ismail Kadare publicó El general del ejército muerto en 1963."
+  },
+  {
+    "id": "cg-5138",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor yugoslavo ganó el Nobel en 1961 y escribió El puente sobre el Drina?",
+    "options": [
+      "Miroslav Krleža",
+      "Danilo Kiš",
+      "Miloš Crnjanski",
+      "Ivo Andrić"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ivo Andrić recibió el Nobel de Literatura en 1961."
+  },
+  {
+    "id": "cg-5139",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué novelista polaco ganó el Nobel en 1905 y escribió Quo Vadis?",
+    "options": [
+      "Władysław Reymont",
+      "Henryk Sienkiewicz",
+      "Bolesław Prus",
+      "Stefan Żeromski"
+    ],
+    "correctIndex": 1,
+    "explanation": "Henryk Sienkiewicz recibió el Nobel de Literatura en 1905."
+  },
+  {
+    "id": "cg-5140",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor austríaco escribió La muerte de Virgilio?",
+    "options": [
+      "Hermann Broch",
+      "Robert Musil",
+      "Joseph Roth",
+      "Thomas Bernhard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hermann Broch publicó La muerte de Virgilio en 1945."
+  },
+  {
+    "id": "cg-5141",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritora austríaca ganó el Nobel en 2004 y escribió La pianista?",
+    "options": [
+      "Ingeborg Bachmann",
+      "Christa Wolf",
+      "Elfriede Jelinek",
+      "Herta Müller"
+    ],
+    "correctIndex": 2,
+    "explanation": "Elfriede Jelinek recibió el Nobel de Literatura en 2004."
+  },
+  {
+    "id": "cg-5142",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué poeta rusa escribió Réquiem, sobre las víctimas de la represión estalinista?",
+    "options": [
+      "Marina Tsvetáieva",
+      "Anna Ajmátova",
+      "Sofía Parnok",
+      "Bella Ajmádulina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Anna Ajmátova compuso Réquiem entre 1935 y 1940."
+  },
+  {
+    "id": "cg-5143",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué poeta ruso emigrado a Estados Unidos ganó el Nobel en 1987?",
+    "options": [
+      "Yevgueni Yevtushenko",
+      "Andréi Voznesenski",
+      "Joseph Brodsky",
+      "Vladímir Vysotski"
+    ],
+    "correctIndex": 2,
+    "explanation": "Joseph Brodsky recibió el Nobel de Literatura en 1987."
+  },
+  {
+    "id": "cg-5144",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué poeta ucraniano escribió el poemario Kobzar?",
+    "options": [
+      "Iván Frankó",
+      "Tarás Shevchenko",
+      "Lesya Ukrainka",
+      "Myjailo Kotsiubynsky"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tarás Shevchenko publicó Kobzar en 1840."
+  },
+  {
+    "id": "cg-5145",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritora brasileña escribió La hora de la estrella?",
+    "options": [
+      "Rachel de Queiroz",
+      "Clarice Lispector",
+      "Cecília Meireles",
+      "Lygia Fagundes Telles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clarice Lispector publicó La hora de la estrella en 1977."
+  },
+  {
+    "id": "cg-5146",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué novelista brasileño escribió Grande Sertão: Veredas?",
+    "options": [
+      "Jorge Amado",
+      "João Guimarães Rosa",
+      "Graciliano Ramos",
+      "Érico Veríssimo"
+    ],
+    "correctIndex": 1,
+    "explanation": "João Guimarães Rosa publicó Grande Sertão: Veredas en 1956."
+  },
+  {
+    "id": "cg-5147",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué poeta chileno creó la llamada «antipoesía»?",
+    "options": [
+      "Pablo Neruda",
+      "Nicanor Parra",
+      "Vicente Huidobro",
+      "Gonzalo Rojas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nicanor Parra publicó Poemas y antipoemas en 1954."
+  },
+  {
+    "id": "cg-5148",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor argentino escribió Adán Buenosayres?",
+    "options": [
+      "Roberto Arlt",
+      "Eduardo Mallea",
+      "Ernesto Sabato",
+      "Leopoldo Marechal"
+    ],
+    "correctIndex": 3,
+    "explanation": "Leopoldo Marechal publicó Adán Buenosayres en 1948."
+  },
+  {
+    "id": "cg-5149",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor argentino escribió Zama, novela ambientada en el Paraguay colonial?",
+    "options": [
+      "Juan José Saer",
+      "Antonio Di Benedetto",
+      "Manuel Mujica Láinez",
+      "Adolfo Bioy Casares"
+    ],
+    "correctIndex": 1,
+    "explanation": "Antonio Di Benedetto publicó Zama en 1956."
+  },
+  {
+    "id": "cg-5150",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor cubano escribió la autobiografía Antes que anochezca?",
+    "options": [
+      "José Lezama Lima",
+      "Reinaldo Arenas",
+      "Virgilio Piñera",
+      "Guillermo Cabrera Infante"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reinaldo Arenas escribió Antes que anochezca, publicada de forma póstuma en 1992."
+  },
+  {
+    "id": "cg-5151",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor dominicano-estadounidense ganó el Pulitzer en 2008 con La maravillosa vida breve de Óscar Wao?",
+    "options": [
+      "Julia Alvarez",
+      "Edwidge Danticat",
+      "Ana Lydia Vega",
+      "Junot Díaz"
+    ],
+    "correctIndex": 3,
+    "explanation": "Junot Díaz ganó el Pulitzer de Ficción en 2008."
+  },
+  {
+    "id": "cg-5152",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor mexicano escribió Noticias del Imperio, sobre Maximiliano y Carlota?",
+    "options": [
+      "Carlos Fuentes",
+      "Martín Luis Guzmán",
+      "Fernando del Paso",
+      "José Emilio Pacheco"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fernando del Paso publicó Noticias del Imperio en 1987."
+  },
+  {
+    "id": "cg-5153",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor chino escribió la novela El camello Xiangzi, sobre un conductor de rickshaw?",
+    "options": [
+      "Lu Xun",
+      "Lao She",
+      "Ba Jin",
+      "Shen Congwen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lao She publicó El camello Xiangzi en 1937."
+  },
+  {
+    "id": "cg-5154",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor japonés escribió La mujer de la arena?",
+    "options": [
+      "Kenzaburo Oe",
+      "Shusaku Endo",
+      "Yukio Mishima",
+      "Kobo Abe"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kobo Abe publicó La mujer de la arena en 1962."
+  },
+  {
+    "id": "cg-5155",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor japonés escribió el ensayo Elogio de la sombra?",
+    "options": [
+      "Junichiro Tanizaki",
+      "Yasunari Kawabata",
+      "Natsume Soseki",
+      "Sei Shonagon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Junichiro Tanizaki publicó Elogio de la sombra en 1933."
+  },
+  {
+    "id": "cg-5156",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor filipino escribió la novela Noli me tangere?",
+    "options": [
+      "Nick Joaquin",
+      "F. Sionil José",
+      "José Rizal",
+      "Lope K. Santos"
+    ],
+    "correctIndex": 2,
+    "explanation": "José Rizal publicó Noli me tangere en 1887."
+  },
+  {
+    "id": "cg-5157",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor indonesio escribió la tetralogía de Buru, que comienza con La tierra de los hombres?",
+    "options": [
+      "Chairil Anwar",
+      "Sutan Takdir Alisjahbana",
+      "Eka Kurniawan",
+      "Pramoedya Ananta Toer"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pramoedya Ananta Toer publicó La tierra de los hombres en 1980."
+  },
+  {
+    "id": "cg-5158",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritora nigeriana escribió Medio sol amarillo, sobre la guerra de Biafra?",
+    "options": [
+      "Buchi Emecheta",
+      "Flora Nwapa",
+      "Chimamanda Ngozi Adichie",
+      "Sefi Atta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chimamanda Ngozi Adichie publicó Medio sol amarillo en 2006."
+  },
+  {
+    "id": "cg-5159",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritor australiano recibió el Nobel de Literatura en 1973?",
+    "options": [
+      "Peter Carey",
+      "Patrick White",
+      "Tim Winton",
+      "Les Murray"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patrick White recibió el Nobel de Literatura en 1973."
+  },
+  {
+    "id": "cg-5160",
+    "category": "general",
+    "topic": "literature",
+    "difficulty": "hard",
+    "question": "¿Qué escritora neozelandesa ganó el Booker Prize en 2013 con The Luminaries?",
+    "options": [
+      "Eleanor Catton",
+      "Keri Hulme",
+      "Janet Frame",
+      "Patricia Grace"
+    ],
+    "correctIndex": 0,
+    "explanation": "Eleanor Catton ganó el Booker Prize en 2013 con The Luminaries."
+  }
+]

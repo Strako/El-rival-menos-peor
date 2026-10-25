@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-2561",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué componente de una computadora ejecuta las instrucciones de los programas?",
+    "options": [
+      "El monitor",
+      "La impresora",
+      "La unidad central de procesamiento (CPU)",
+      "El teclado"
+    ],
+    "correctIndex": 2,
+    "explanation": "La CPU interpreta y ejecuta las instrucciones de los programas."
+  },
+  {
+    "id": "cg-2562",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de memoria pierde su contenido cuando se apaga la computadora?",
+    "options": [
+      "La unidad SSD",
+      "La memoria ROM",
+      "El disco duro",
+      "La memoria RAM"
+    ],
+    "correctIndex": 3,
+    "explanation": "La RAM es volátil y se borra al interrumpirse la alimentación."
+  },
+  {
+    "id": "cg-2563",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué dispositivo se utiliza principalmente para introducir texto en una computadora?",
+    "options": [
+      "El altavoz",
+      "El teclado",
+      "La impresora",
+      "El monitor"
+    ],
+    "correctIndex": 1,
+    "explanation": "El teclado es un dispositivo de entrada diseñado para escribir caracteres."
+  },
+  {
+    "id": "cg-2564",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué dispositivo muestra imágenes y texto en una computadora?",
+    "options": [
+      "El micrófono",
+      "El escáner",
+      "El monitor",
+      "El ratón"
+    ],
+    "correctIndex": 2,
+    "explanation": "El monitor es un dispositivo de salida que presenta información visual."
+  },
+  {
+    "id": "cg-2565",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué significan las siglas WWW de las direcciones web?",
+    "options": [
+      "World Wide Web",
+      "Wide Web World",
+      "Web World Wide",
+      "World Web Work"
+    ],
+    "correctIndex": 0,
+    "explanation": "WWW significa World Wide Web, la telaraña mundial de documentos enlazados."
+  },
+  {
+    "id": "cg-2566",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué significan las siglas HTML?",
+    "options": [
+      "Sistema de Transferencia de Hipertexto",
+      "Lenguaje de Manejo de Texto",
+      "Lenguaje de Marcado de Hipertexto",
+      "Protocolo de Texto Enlazado"
+    ],
+    "correctIndex": 2,
+    "explanation": "HTML es el lenguaje de marcado con el que se estructuran las páginas web."
+  },
+  {
+    "id": "cg-2567",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué significan las siglas URL?",
+    "options": [
+      "Registro Único de Red",
+      "Unidad de Recursos Locales",
+      "Localizador Uniforme de Recursos",
+      "Ruta Universal de Enlaces"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una URL es la dirección que identifica un recurso en internet."
+  },
+  {
+    "id": "cg-2568",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué significan las siglas USB de un conector informático?",
+    "options": [
+      "Sistema Único de Banda",
+      "Unidad de Seguridad Básica",
+      "Bus Serie Universal",
+      "Bus Secundario Universal"
+    ],
+    "correctIndex": 2,
+    "explanation": "USB significa Universal Serial Bus, un estándar de conexión de periféricos."
+  },
+  {
+    "id": "cg-2569",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué significan las siglas PDF de un formato de archivo?",
+    "options": [
+      "Paquete Digital de Formato",
+      "Formato de Documento Portátil",
+      "Programa de Datos Fijos",
+      "Protocolo de Documentos"
+    ],
+    "correctIndex": 1,
+    "explanation": "PDF es un formato pensado para conservar el aspecto del documento en cualquier equipo."
+  },
+  {
+    "id": "cg-2570",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué significan las siglas GPS del sistema de navegación?",
+    "options": [
+      "Sistema de Precisión Geográfica",
+      "Guía Personal por Satélite",
+      "Generador de Posición Segura",
+      "Sistema de Posicionamiento Global"
+    ],
+    "correctIndex": 3,
+    "explanation": "El GPS usa satélites para determinar la posición de un receptor en la Tierra."
+  },
+  {
+    "id": "cg-2571",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué significan las siglas IA en informática?",
+    "options": [
+      "Interfaz avanzada",
+      "Inteligencia artificial",
+      "Integración de aplicaciones",
+      "Información automática"
+    ],
+    "correctIndex": 1,
+    "explanation": "La IA es el campo que crea sistemas capaces de realizar tareas asociadas a la inteligencia humana."
+  },
+  {
+    "id": "cg-2572",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es el software de una computadora?",
+    "options": [
+      "El dispositivo de entrada",
+      "La red de conexión",
+      "El conjunto de programas y datos",
+      "La parte física y los cables"
+    ],
+    "correctIndex": 2,
+    "explanation": "El software es la parte lógica: programas, instrucciones y datos."
+  },
+  {
+    "id": "cg-2573",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Cuál es la función principal de un sistema operativo?",
+    "options": [
+      "Diseñar páginas web",
+      "Fabricar circuitos electrónicos",
+      "Gestionar el hardware y el software del equipo",
+      "Comprimir archivos de audio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sistema operativo coordina los recursos y permite ejecutar aplicaciones."
+  },
+  {
+    "id": "cg-2574",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué empresa creó el procesador Pentium?",
+    "options": [
+      "Motorola",
+      "Apple",
+      "Intel",
+      "IBM"
+    ],
+    "correctIndex": 2,
+    "explanation": "Intel lanzó la familia Pentium en la década de 1990."
+  },
+  {
+    "id": "cg-2575",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué empresa desarrolló el sistema operativo macOS?",
+    "options": [
+      "Microsoft",
+      "La Fundación Linux",
+      "Apple",
+      "Dell"
+    ],
+    "correctIndex": 2,
+    "explanation": "macOS es el sistema operativo de las computadoras Mac de Apple."
+  },
+  {
+    "id": "cg-2576",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué empresa fabrica el iPhone?",
+    "options": [
+      "Samsung",
+      "Nokia",
+      "Google",
+      "Apple"
+    ],
+    "correctIndex": 3,
+    "explanation": "Apple diseñó y comercializa el iPhone desde 2007."
+  },
+  {
+    "id": "cg-2577",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué empresa es propietaria de Instagram y WhatsApp?",
+    "options": [
+      "Microsoft",
+      "Apple",
+      "Meta",
+      "Amazon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Meta, antes llamada Facebook, adquirió Instagram y WhatsApp."
+  },
+  {
+    "id": "cg-2578",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué empresa creó el navegador Chrome?",
+    "options": [
+      "Mozilla",
+      "Google",
+      "Microsoft",
+      "Opera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Google presentó Chrome en 2008."
+  },
+  {
+    "id": "cg-2579",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué organización mantiene el navegador Firefox?",
+    "options": [
+      "Microsoft",
+      "Mozilla",
+      "Apple",
+      "Google"
+    ],
+    "correctIndex": 1,
+    "explanation": "Firefox es desarrollado por la Fundación Mozilla y su corporación."
+  },
+  {
+    "id": "cg-2580",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué empresa es propietaria de YouTube?",
+    "options": [
+      "Microsoft",
+      "Meta",
+      "Amazon",
+      "Google"
+    ],
+    "correctIndex": 3,
+    "explanation": "Google compró YouTube en 2006."
+  },
+  {
+    "id": "cg-2581",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Quién creó Facebook?",
+    "options": [
+      "Jeff Bezos",
+      "Larry Page",
+      "Mark Zuckerberg",
+      "Jack Dorsey"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mark Zuckerberg fundó Facebook en 2004 junto a otros estudiantes de Harvard."
+  },
+  {
+    "id": "cg-2582",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué empresa de comercio electrónico fundó Jeff Bezos en 1994?",
+    "options": [
+      "eBay",
+      "Amazon",
+      "Netflix",
+      "Alibaba"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jeff Bezos creó Amazon como una librería en línea en 1994."
+  },
+  {
+    "id": "cg-2583",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Quién cofundó Microsoft junto a Paul Allen?",
+    "options": [
+      "Larry Ellison",
+      "Michael Dell",
+      "Bill Gates",
+      "Steve Wozniak"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bill Gates y Paul Allen fundaron Microsoft en 1975."
+  },
+  {
+    "id": "cg-2584",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Quién cofundó Apple junto a Steve Wozniak?",
+    "options": [
+      "Jeff Bezos",
+      "Mark Zuckerberg",
+      "Bill Gates",
+      "Steve Jobs"
+    ],
+    "correctIndex": 3,
+    "explanation": "Steve Jobs y Steve Wozniak fundaron Apple en 1976."
+  },
+  {
+    "id": "cg-2585",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es un bit en informática?",
+    "options": [
+      "La unidad mínima de información, con valores 0 o 1",
+      "Un bloque de disco",
+      "Un conjunto de ocho bytes",
+      "Una unidad de color"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un bit representa un estado binario y es la unidad básica de información digital."
+  },
+  {
+    "id": "cg-2586",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Cuántos bits forman un byte?",
+    "options": [
+      "Dieciséis",
+      "Treinta y dos",
+      "Cuatro",
+      "Ocho"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un byte está compuesto por ocho bits."
+  },
+  {
+    "id": "cg-2587",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué sistema numérico utiliza únicamente los dígitos 0 y 1?",
+    "options": [
+      "El sistema octal",
+      "El sistema binario",
+      "El sistema hexadecimal",
+      "El sistema decimal"
+    ],
+    "correctIndex": 1,
+    "explanation": "El sistema binario es la base de la representación digital de datos."
+  },
+  {
+    "id": "cg-2588",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿A cuántos megabytes equivale un gigabyte en el uso informático habitual?",
+    "options": [
+      "512 megabytes",
+      "100 megabytes",
+      "2048 megabytes",
+      "1024 megabytes"
+    ],
+    "correctIndex": 3,
+    "explanation": "En informática se suele considerar que un gigabyte equivale a 1024 megabytes."
+  },
+  {
+    "id": "cg-2589",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué característica distingue a una unidad SSD de un disco duro tradicional?",
+    "options": [
+      "No tiene partes móviles",
+      "Solo permite lectura",
+      "Utiliza cinta magnética",
+      "Necesita disquetes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las SSD usan memoria flash y carecen de piezas mecánicas en movimiento."
+  },
+  {
+    "id": "cg-2590",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué memoria contiene instrucciones de arranque y conserva su contenido sin energía?",
+    "options": [
+      "La memoria caché",
+      "La memoria ROM",
+      "La memoria RAM",
+      "El registro del procesador"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ROM es no volátil y almacena firmware o instrucciones de inicio."
+  },
+  {
+    "id": "cg-2591",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué dispositivo conecta dos redes y dirige el tráfico entre ellas?",
+    "options": [
+      "La impresora",
+      "El router",
+      "El monitor",
+      "El teclado"
+    ],
+    "correctIndex": 1,
+    "explanation": "El router encamina paquetes entre redes distintas."
+  },
+  {
+    "id": "cg-2592",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué tecnología permite conectar dispositivos sin cables a corta distancia?",
+    "options": [
+      "HDMI",
+      "Bluetooth",
+      "Ethernet",
+      "USB"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bluetooth es un estándar de comunicación inalámbrica de corto alcance."
+  },
+  {
+    "id": "cg-2593",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es un servidor en una red?",
+    "options": [
+      "Un programa de diseño gráfico",
+      "Un tipo de cable",
+      "Un monitor de gran tamaño",
+      "Un equipo que proporciona servicios a otros equipos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un servidor atiende peticiones de clientes, como páginas web o archivos."
+  },
+  {
+    "id": "cg-2594",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es la computación en la nube?",
+    "options": [
+      "El uso de servicios informáticos alojados en servidores remotos",
+      "El almacenamiento en cintas magnéticas",
+      "Una red exclusivamente local",
+      "El uso de satélites de observación"
+    ],
+    "correctIndex": 0,
+    "explanation": "La nube ofrece almacenamiento y potencia de cálculo a través de internet."
+  },
+  {
+    "id": "cg-2595",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es una copia de seguridad?",
+    "options": [
+      "Un formateo del disco",
+      "Un respaldo de los datos para poder recuperarlos",
+      "Una compresión de video",
+      "Un borrado definitivo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La copia de seguridad permite restaurar información si se pierde o daña."
+  },
+  {
+    "id": "cg-2596",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es un píxel?",
+    "options": [
+      "Un lenguaje de programación",
+      "Un puerto de red",
+      "La unidad mínima de una imagen digital",
+      "Un tipo de archivo comprimido"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las imágenes digitales se forman con una cuadrícula de píxeles."
+  },
+  {
+    "id": "cg-2597",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué formato de imagen es habitual en fotografías y aplica compresión con pérdida?",
+    "options": [
+      "EXE",
+      "JPEG",
+      "MP3",
+      "TXT"
+    ],
+    "correctIndex": 1,
+    "explanation": "JPEG reduce el tamaño descartando información visual poco perceptible."
+  },
+  {
+    "id": "cg-2598",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué formato de imagen admite animación y transparencia?",
+    "options": [
+      "DOCX",
+      "PDF",
+      "GIF",
+      "ZIP"
+    ],
+    "correctIndex": 2,
+    "explanation": "GIF es un formato de mapa de bits que permite animaciones sencillas y transparencia."
+  },
+  {
+    "id": "cg-2599",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué programa de Microsoft se utiliza para hojas de cálculo?",
+    "options": [
+      "Excel",
+      "Access",
+      "Word",
+      "PowerPoint"
+    ],
+    "correctIndex": 0,
+    "explanation": "Excel es la aplicación de hojas de cálculo de la suite Office."
+  },
+  {
+    "id": "cg-2600",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué programa de Microsoft se utiliza para crear presentaciones?",
+    "options": [
+      "PowerPoint",
+      "Word",
+      "Excel",
+      "Outlook"
+    ],
+    "correctIndex": 0,
+    "explanation": "PowerPoint está diseñado para elaborar diapositivas y presentaciones."
+  },
+  {
+    "id": "cg-2601",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué programa de Microsoft se utiliza para procesar textos?",
+    "options": [
+      "Word",
+      "PowerPoint",
+      "Edge",
+      "Excel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Word es el procesador de textos clásico de Microsoft."
+  },
+  {
+    "id": "cg-2602",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué atajo de teclado copia el contenido seleccionado en Windows?",
+    "options": [
+      "Ctrl+V",
+      "Ctrl+Z",
+      "Ctrl+C",
+      "Ctrl+P"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ctrl+C copia la selección al portapapeles."
+  },
+  {
+    "id": "cg-2603",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué atajo de teclado pega el contenido copiado en Windows?",
+    "options": [
+      "Ctrl+C",
+      "Ctrl+X",
+      "Ctrl+V",
+      "Ctrl+S"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ctrl+V inserta el contenido del portapapeles."
+  },
+  {
+    "id": "cg-2604",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué atajo de teclado deshace la última acción en Windows?",
+    "options": [
+      "Ctrl+A",
+      "Ctrl+Y",
+      "Ctrl+C",
+      "Ctrl+Z"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ctrl+Z revierte el último cambio realizado."
+  },
+  {
+    "id": "cg-2605",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es el spam en el correo electrónico?",
+    "options": [
+      "Correo masivo no solicitado",
+      "Una actualización del sistema",
+      "Un tipo de memoria",
+      "Un protocolo de red"
+    ],
+    "correctIndex": 0,
+    "explanation": "El spam es publicidad o contenido no deseado enviado de forma masiva."
+  },
+  {
+    "id": "cg-2606",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es el phishing?",
+    "options": [
+      "Una técnica de compresión",
+      "La suplantación de una entidad para robar datos personales",
+      "Una actualización de firmware",
+      "Una copia de seguridad automática"
+    ],
+    "correctIndex": 1,
+    "explanation": "El phishing engaña al usuario para que entregue contraseñas o datos bancarios."
+  },
+  {
+    "id": "cg-2607",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué hace un programa antivirus?",
+    "options": [
+      "Repara pantallas dañadas",
+      "Detecta y elimina programas maliciosos",
+      "Aumenta la memoria RAM",
+      "Enfría el procesador"
+    ],
+    "correctIndex": 1,
+    "explanation": "El antivirus identifica y neutraliza malware conocido o sospechoso."
+  },
+  {
+    "id": "cg-2608",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué hace un firewall o cortafuegos?",
+    "options": [
+      "Acelera el disco duro",
+      "Carga la batería",
+      "Imprime documentos",
+      "Filtra el tráfico de red según reglas de seguridad"
+    ],
+    "correctIndex": 3,
+    "explanation": "El firewall controla qué conexiones pueden entrar o salir de una red."
+  },
+  {
+    "id": "cg-2609",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es una contraseña?",
+    "options": [
+      "Una dirección IP",
+      "Una credencial secreta que permite acceder a una cuenta",
+      "Un puerto de red",
+      "Un nombre público de usuario"
+    ],
+    "correctIndex": 1,
+    "explanation": "La contraseña autentica al usuario y debe mantenerse secreta."
+  },
+  {
+    "id": "cg-2610",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué aporta la verificación en dos pasos a una cuenta?",
+    "options": [
+      "Más publicidad",
+      "Mayor velocidad de conexión",
+      "Más espacio de almacenamiento",
+      "Un segundo factor de seguridad además de la contraseña"
+    ],
+    "correctIndex": 3,
+    "explanation": "El segundo factor dificulta el acceso aunque la contraseña sea robada."
+  },
+  {
+    "id": "cg-2611",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué hace una red privada virtual o VPN?",
+    "options": [
+      "Crea un túnel cifrado entre el dispositivo y otro servidor",
+      "Aumenta el tamaño de la pantalla",
+      "Cambia el disco duro",
+      "Instala juegos automáticamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "La VPN protege la conexión y oculta la dirección IP real del cliente."
+  },
+  {
+    "id": "cg-2612",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué protocolo indica que una página web usa una conexión cifrada?",
+    "options": [
+      "HTTP",
+      "HTTPS",
+      "FTP",
+      "SMTP"
+    ],
+    "correctIndex": 1,
+    "explanation": "HTTPS añade cifrado TLS al protocolo HTTP."
+  },
+  {
+    "id": "cg-2613",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué protocolo se utiliza para transferir páginas web?",
+    "options": [
+      "HTTP",
+      "DNS",
+      "SSH",
+      "POP3"
+    ],
+    "correctIndex": 0,
+    "explanation": "HTTP es el protocolo de transferencia de hipertexto usado por la web."
+  },
+  {
+    "id": "cg-2614",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué sistema traduce los nombres de dominio a direcciones IP?",
+    "options": [
+      "NAT",
+      "FTP",
+      "DNS",
+      "DHCP"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sistema de nombres de dominio resuelve nombres como ejemplo.com en direcciones IP."
+  },
+  {
+    "id": "cg-2615",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es una dirección IP?",
+    "options": [
+      "Un identificador numérico de un dispositivo en una red",
+      "Un tipo de archivo",
+      "Una marca de computadora",
+      "Un nombre de usuario"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cada dispositivo conectado a una red IP necesita una dirección para comunicarse."
+  },
+  {
+    "id": "cg-2616",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué significa LAN?",
+    "options": [
+      "Red de área local",
+      "Línea de acceso a red",
+      "Red de área amplia",
+      "Lenguaje de alto nivel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una LAN cubre un espacio reducido, como una oficina o una casa."
+  },
+  {
+    "id": "cg-2617",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué significa WAN?",
+    "options": [
+      "Red de área local",
+      "Web de acceso nacional",
+      "Red de área amplia",
+      "Unidad de almacenamiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una WAN interconecta redes separadas por grandes distancias."
+  },
+  {
+    "id": "cg-2618",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué protocolo se usa tradicionalmente para transferir archivos entre equipos?",
+    "options": [
+      "ARP",
+      "FTP",
+      "SMTP",
+      "DNS"
+    ],
+    "correctIndex": 1,
+    "explanation": "FTP está diseñado para subir y descargar archivos en una red."
+  },
+  {
+    "id": "cg-2619",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué protocolo transporta un mensaje desde el cliente de correo hasta el servidor de salida?",
+    "options": [
+      "IMAP",
+      "DNS",
+      "SMTP",
+      "FTP"
+    ],
+    "correctIndex": 2,
+    "explanation": "SMTP se encarga del envío y la transferencia de mensajes de correo."
+  },
+  {
+    "id": "cg-2620",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es una cookie en un navegador web?",
+    "options": [
+      "Un cable de red",
+      "Un virus de hardware",
+      "Un dato que el sitio guarda en el navegador",
+      "Un tipo de monitor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las cookies permiten recordar sesiones, preferencias o actividad del usuario."
+  },
+  {
+    "id": "cg-2621",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es la caché de un sistema informático?",
+    "options": [
+      "Un borrado seguro de archivos",
+      "Una copia temporal de datos para acelerar el acceso",
+      "Un compilador de código",
+      "Un disco externo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La caché guarda datos de uso frecuente en un medio más rápido."
+  },
+  {
+    "id": "cg-2622",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es un error de software conocido como bug?",
+    "options": [
+      "Una actualización del sistema",
+      "Un usuario administrador",
+      "Un fallo en el funcionamiento de un programa",
+      "Un servidor de archivos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un bug es un defecto que produce resultados incorrectos o fallos."
+  },
+  {
+    "id": "cg-2623",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es el código fuente de un programa?",
+    "options": [
+      "Un manual impreso",
+      "Un chip de memoria",
+      "Un archivo comprimido",
+      "Las instrucciones escritas por el programador en un lenguaje de programación"
+    ],
+    "correctIndex": 3,
+    "explanation": "El código fuente se compila o interpreta para que la máquina lo ejecute."
+  },
+  {
+    "id": "cg-2624",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué hace un compilador?",
+    "options": [
+      "Imprime documentos",
+      "Traduce el código fuente a lenguaje máquina o a otro lenguaje",
+      "Conecta redes inalámbricas",
+      "Enfría el procesador"
+    ],
+    "correctIndex": 1,
+    "explanation": "El compilador genera un programa ejecutable a partir del código fuente."
+  },
+  {
+    "id": "cg-2625",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es una variable en programación?",
+    "options": [
+      "Un protocolo de red",
+      "Un espacio con nombre que almacena un valor",
+      "Un tipo de pantalla",
+      "Un error de sintaxis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las variables permiten guardar y modificar datos durante la ejecución."
+  },
+  {
+    "id": "cg-2626",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué estructura de programación repite instrucciones mientras se cumple una condición?",
+    "options": [
+      "El comentario",
+      "El bucle",
+      "La función",
+      "La variable"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los bucles, como while o for, repiten un bloque de código."
+  },
+  {
+    "id": "cg-2627",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué estructura de programación elige entre alternativas según una condición?",
+    "options": [
+      "El bucle",
+      "El array",
+      "El comentario",
+      "La condicional"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las condicionales, como if, ejecutan un bloque solo si se cumple una condición."
+  },
+  {
+    "id": "cg-2628",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es una función en programación?",
+    "options": [
+      "Un cable de conexión",
+      "Un puerto de red",
+      "Un bloque de código reutilizable que realiza una tarea",
+      "Un archivo de imagen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las funciones agrupan instrucciones y pueden recibir parámetros y devolver valores."
+  },
+  {
+    "id": "cg-2629",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es un array o arreglo en programación?",
+    "options": [
+      "Una red de área local",
+      "Una colección ordenada de elementos",
+      "Un lenguaje de programación",
+      "Un monitor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un array almacena varios valores bajo un mismo nombre y los indexa."
+  },
+  {
+    "id": "cg-2630",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es una base de datos?",
+    "options": [
+      "Un tipo de procesador",
+      "Un navegador web",
+      "Un cable de fibra",
+      "Una colección organizada de datos que permite consultarlos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las bases de datos estructuran la información para su almacenamiento y recuperación."
+  },
+  {
+    "id": "cg-2631",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es una tabla en una base de datos relacional?",
+    "options": [
+      "Un protocolo de correo",
+      "Un archivo de audio",
+      "Un programa antivirus",
+      "Un conjunto de filas y columnas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cada fila representa un registro y cada columna un campo."
+  },
+  {
+    "id": "cg-2632",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es una clave primaria en una base de datos relacional?",
+    "options": [
+      "Un campo que identifica de forma única cada fila",
+      "Un puerto de red",
+      "Un tipo de contraseña",
+      "Una fuente de energía"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clave primaria impide registros duplicados y permite referenciarlos."
+  },
+  {
+    "id": "cg-2633",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama una secuencia finita y ordenada de pasos para resolver un problema?",
+    "options": [
+      "Kernel",
+      "Protocolo",
+      "Algoritmo",
+      "Compilador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un algoritmo describe de forma precisa cómo pasar de una entrada a un resultado."
+  },
+  {
+    "id": "cg-2634",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es programar?",
+    "options": [
+      "Ensamblar monitores",
+      "Diseñar teclados",
+      "Instalar cables de red",
+      "Escribir instrucciones para que una computadora realice tareas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Programar consiste en expresar soluciones en un lenguaje que la máquina pueda ejecutar."
+  },
+  {
+    "id": "cg-2635",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué lenguaje se utiliza para definir el estilo visual de las páginas web?",
+    "options": [
+      "C#",
+      "CSS",
+      "SQL",
+      "Python"
+    ],
+    "correctIndex": 1,
+    "explanation": "CSS controla colores, tipografías y distribución de los elementos HTML."
+  },
+  {
+    "id": "cg-2636",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué lenguaje se ejecuta en el navegador y fue creado en Netscape en 1995?",
+    "options": [
+      "PHP",
+      "Java",
+      "JavaScript",
+      "C"
+    ],
+    "correctIndex": 2,
+    "explanation": "Brendan Eich creó JavaScript para dotar de interactividad a las páginas web."
+  },
+  {
+    "id": "cg-2637",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué lenguaje de programación creó Guido van Rossum?",
+    "options": [
+      "Java",
+      "Ruby",
+      "Perl",
+      "Python"
+    ],
+    "correctIndex": 3,
+    "explanation": "Guido van Rossum publicó Python a comienzos de la década de 1990."
+  },
+  {
+    "id": "cg-2638",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué lenguaje de programación creó Dennis Ritchie en Bell Labs?",
+    "options": [
+      "Pascal",
+      "Java",
+      "COBOL",
+      "C"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dennis Ritchie desarrolló C en la década de 1970 para el sistema Unix."
+  },
+  {
+    "id": "cg-2639",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Quién creó el núcleo Linux?",
+    "options": [
+      "Linus Torvalds",
+      "Steve Jobs",
+      "Richard Stallman",
+      "Bill Gates"
+    ],
+    "correctIndex": 0,
+    "explanation": "Linus Torvalds inició el núcleo Linux en 1991."
+  },
+  {
+    "id": "cg-2640",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es un atajo de teclado?",
+    "options": [
+      "Un puerto de red",
+      "Una combinación de teclas que ejecuta una acción",
+      "Un protocolo de comunicación",
+      "Un tipo de archivo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los atajos permiten realizar operaciones sin usar el ratón."
+  },
+  {
+    "id": "cg-2641",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es un archivo informático?",
+    "options": [
+      "Un monitor",
+      "Un conjunto de datos almacenado con un nombre",
+      "Un cable de conexión",
+      "Una red de área local"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los archivos guardan texto, imágenes, programas u otros datos."
+  },
+  {
+    "id": "cg-2642",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es una carpeta en un sistema de archivos?",
+    "options": [
+      "Un programa antivirus",
+      "Un chip de memoria",
+      "Un protocolo de red",
+      "Un contenedor que agrupa archivos y otras carpetas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las carpetas organizan jerárquicamente el contenido de un almacenamiento."
+  },
+  {
+    "id": "cg-2643",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué significa descargar un archivo?",
+    "options": [
+      "Imprimirlo",
+      "Formatear el disco",
+      "Copiarlo desde un servidor remoto al dispositivo local",
+      "Enviarlo a un servidor remoto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Descargar trae datos de la red hacia el equipo del usuario."
+  },
+  {
+    "id": "cg-2644",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué significa subir un archivo a internet?",
+    "options": [
+      "Borrarlo del servidor",
+      "Guardarlo solo en el disco local",
+      "Enviarlo desde el dispositivo a un servidor remoto",
+      "Comprimirlo sin conexión"
+    ],
+    "correctIndex": 2,
+    "explanation": "Subir transfiere datos del cliente hacia un servicio en la red."
+  },
+  {
+    "id": "cg-2645",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es un motor de búsqueda?",
+    "options": [
+      "Un disco de almacenamiento",
+      "Un sistema operativo",
+      "Un lenguaje de programación",
+      "Un servicio que indexa páginas web y permite encontrarlas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los motores de búsqueda rastrean la web y ordenan resultados por relevancia."
+  },
+  {
+    "id": "cg-2646",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué empresa creó el buscador Bing?",
+    "options": [
+      "Apple",
+      "Yahoo",
+      "Google",
+      "Microsoft"
+    ],
+    "correctIndex": 3,
+    "explanation": "Microsoft lanzó Bing en 2009 como sucesor de Live Search."
+  },
+  {
+    "id": "cg-2647",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es un dominio de internet?",
+    "options": [
+      "Un nombre que identifica un sitio o servicio en la red",
+      "Una dirección física de un edificio",
+      "Un programa de diseño",
+      "Un tipo de cable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los dominios, como ejemplo.com, se traducen a direcciones IP mediante DNS."
+  },
+  {
+    "id": "cg-2648",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es un paquete en una red de datos?",
+    "options": [
+      "Un lenguaje de programación",
+      "Una unidad de datos que se transmite por la red",
+      "Un monitor de alta resolución",
+      "Un archivo comprimido"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las redes dividen la información en paquetes que viajan de forma independiente."
+  },
+  {
+    "id": "cg-2649",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es un protocolo de comunicación?",
+    "options": [
+      "Un conjunto de reglas que permite a los sistemas intercambiar datos",
+      "Un disco de almacenamiento",
+      "Un estilo de diseño gráfico",
+      "Un componente de hardware"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los protocolos definen formatos, secuencias y respuestas válidas."
+  },
+  {
+    "id": "cg-2650",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es el firmware de un dispositivo?",
+    "options": [
+      "Un lenguaje de programación",
+      "Una memoria externa",
+      "El software integrado que controla su funcionamiento básico",
+      "Un cable de alimentación"
+    ],
+    "correctIndex": 2,
+    "explanation": "El firmware suele almacenarse en memoria no volátil del propio dispositivo."
+  },
+  {
+    "id": "cg-2651",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es un controlador o driver?",
+    "options": [
+      "Un virus informático",
+      "Un programa que permite al sistema operativo usar un dispositivo",
+      "Un protocolo de correo",
+      "Un monitor externo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El driver traduce las órdenes del sistema a instrucciones del hardware."
+  },
+  {
+    "id": "cg-2652",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es la virtualización?",
+    "options": [
+      "La instalación de una pantalla",
+      "El cambio de la batería",
+      "La creación de recursos informáticos simulados sobre hardware físico",
+      "La limpieza física del disco"
+    ],
+    "correctIndex": 2,
+    "explanation": "La virtualización permite ejecutar varios sistemas o entornos aislados en un equipo."
+  },
+  {
+    "id": "cg-2653",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es un contenedor de software?",
+    "options": [
+      "Un cable de red",
+      "Un entorno aislado que empaqueta una aplicación y sus dependencias",
+      "Un tipo de monitor",
+      "Una base de datos relacional"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los contenedores comparten el núcleo del sistema y facilitan el despliegue."
+  },
+  {
+    "id": "cg-2654",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es el software libre?",
+    "options": [
+      "Un software sin interfaz gráfica",
+      "Un software exclusivamente de pago",
+      "Un software que puede usarse, estudiarse, modificarse y redistribuirse",
+      "Un software solo para empresas"
+    ],
+    "correctIndex": 2,
+    "explanation": "El software libre garantiza libertades sobre el código y su distribución."
+  },
+  {
+    "id": "cg-2655",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es GitHub?",
+    "options": [
+      "Una plataforma para alojar repositorios de código y colaborar",
+      "Un navegador web",
+      "Un sistema operativo",
+      "Un lenguaje de programación"
+    ],
+    "correctIndex": 0,
+    "explanation": "GitHub ofrece alojamiento Git, control de versiones y herramientas de colaboración."
+  },
+  {
+    "id": "cg-2656",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué sistema de control de versiones creó Linus Torvalds en 2005?",
+    "options": [
+      "Subversion",
+      "Mercurial",
+      "CVS",
+      "Git"
+    ],
+    "correctIndex": 3,
+    "explanation": "Git registra el historial de cambios de un proyecto y facilita el trabajo en equipo."
+  },
+  {
+    "id": "cg-2657",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es la inteligencia artificial?",
+    "options": [
+      "El campo que crea sistemas capaces de realizar tareas asociadas a la inteligencia humana",
+      "Un formato de archivo",
+      "Un tipo de hardware para imprimir",
+      "Una red de cables subterráneos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La IA abarca aprendizaje, razonamiento, percepción y generación de lenguaje."
+  },
+  {
+    "id": "cg-2658",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es el aprendizaje automático?",
+    "options": [
+      "Un protocolo de correo",
+      "Un método para limpiar discos",
+      "Un tipo de pantalla táctil",
+      "Una rama de la IA en la que los sistemas aprenden patrones a partir de datos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los modelos de aprendizaje automático mejoran su desempeño con experiencia o datos."
+  },
+  {
+    "id": "cg-2659",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es una red neuronal artificial?",
+    "options": [
+      "Un modelo computacional inspirado en las neuronas del cerebro",
+      "Un cable de fibra óptica",
+      "Un programa antivirus",
+      "Un tipo de base de datos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las redes neuronales conectan unidades simples que procesan información en capas."
+  },
+  {
+    "id": "cg-2660",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué prueba propuso Alan Turing para evaluar si una máquina parece humana en una conversación?",
+    "options": [
+      "La prueba de Von Neumann",
+      "La prueba de Boole",
+      "La prueba de Turing",
+      "El test de Shannon"
+    ],
+    "correctIndex": 2,
+    "explanation": "En la prueba de Turing un evaluador intenta distinguir a la máquina de una persona."
+  },
+  {
+    "id": "cg-2661",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué es un chatbot?",
+    "options": [
+      "Un tipo de monitor",
+      "Un disco de almacenamiento",
+      "Un programa que conversa con usuarios de forma automática",
+      "Un protocolo de red"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los chatbots responden mensajes usando reglas o modelos de lenguaje."
+  },
+  {
+    "id": "cg-2662",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué tecnología permite a una computadora interpretar imágenes y videos?",
+    "options": [
+      "La compresión de audio",
+      "La virtualización de discos",
+      "El cifrado simétrico",
+      "La visión por computadora"
+    ],
+    "correctIndex": 3,
+    "explanation": "La visión por computadora extrae información de imágenes y secuencias visuales."
+  },
+  {
+    "id": "cg-2663",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué servicio de Amazon ofrece computación en la nube?",
+    "options": [
+      "Amazon Web Services (AWS)",
+      "Azure",
+      "Google Cloud",
+      "IBM Cloud"
+    ],
+    "correctIndex": 0,
+    "explanation": "AWS es la plataforma de servicios en la nube de Amazon."
+  },
+  {
+    "id": "cg-2664",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "easy",
+    "question": "¿Qué servicio de Microsoft ofrece computación en la nube?",
+    "options": [
+      "AWS",
+      "Google Cloud",
+      "Azure",
+      "Oracle Cloud"
+    ],
+    "correctIndex": 2,
+    "explanation": "Microsoft Azure proporciona infraestructura y servicios en la nube."
+  },
+  {
+    "id": "cg-2665",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué año fundaron Bill Gates y Paul Allen la empresa Microsoft?",
+    "options": [
+      "1985",
+      "1975",
+      "1981",
+      "1971"
+    ],
+    "correctIndex": 1,
+    "explanation": "Microsoft se fundó en Albuquerque en 1975 y luego se trasladó a Redmond."
+  },
+  {
+    "id": "cg-2666",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué año fundaron Steve Jobs y Steve Wozniak la empresa Apple?",
+    "options": [
+      "1976",
+      "1980",
+      "1972",
+      "1984"
+    ],
+    "correctIndex": 0,
+    "explanation": "Apple Computer se constituyó en 1976, el mismo año del Apple I."
+  },
+  {
+    "id": "cg-2667",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué año fundaron Larry Page y Sergey Brin la empresa Google?",
+    "options": [
+      "2000",
+      "1998",
+      "2004",
+      "1995"
+    ],
+    "correctIndex": 1,
+    "explanation": "Google se constituyó en septiembre de 1998."
+  },
+  {
+    "id": "cg-2668",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Quiénes fundaron Google?",
+    "options": [
+      "Jeff Bezos y MacKenzie Scott",
+      "Bill Gates y Paul Allen",
+      "Steve Jobs y Steve Wozniak",
+      "Larry Page y Sergey Brin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Page y Brin desarrollaron el buscador como estudiantes de Stanford."
+  },
+  {
+    "id": "cg-2669",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué año lanzó IBM su primera computadora personal, el IBM PC?",
+    "options": [
+      "1977",
+      "1981",
+      "1990",
+      "1984"
+    ],
+    "correctIndex": 1,
+    "explanation": "El IBM PC de 1981 impulsó el estándar de las computadoras compatibles."
+  },
+  {
+    "id": "cg-2670",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué procesador utilizó el IBM PC original de 1981?",
+    "options": [
+      "Intel 8088",
+      "Zilog Z80",
+      "Motorola 68000",
+      "Intel 4004"
+    ],
+    "correctIndex": 0,
+    "explanation": "El IBM PC empleó el microprocesador Intel 8088 de 16 bits internos."
+  },
+  {
+    "id": "cg-2671",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué año apareció el microprocesador Intel 4004?",
+    "options": [
+      "1965",
+      "1978",
+      "1971",
+      "1982"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Intel 4004 se considera el primer microprocesador comercial disponible."
+  },
+  {
+    "id": "cg-2672",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué matemático británico diseñó la máquina analítica en el siglo XIX?",
+    "options": [
+      "John von Neumann",
+      "Alan Turing",
+      "Charles Babbage",
+      "Blaise Pascal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Babbage concibió una máquina programable con unidad de cálculo y memoria."
+  },
+  {
+    "id": "cg-2673",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué matemática británica describió en 1843 un algoritmo para la máquina analítica de Charles Babbage?",
+    "options": [
+      "Margaret Hamilton",
+      "Grace Hopper",
+      "Hedy Lamarr",
+      "Ada Lovelace"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ada Lovelace describió en 1843 un algoritmo para la máquina analítica de Babbage."
+  },
+  {
+    "id": "cg-2674",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué matemático británico formalizó el concepto de computación con una máquina abstracta en 1936?",
+    "options": [
+      "Kurt Gödel",
+      "Claude Shannon",
+      "John McCarthy",
+      "Alan Turing"
+    ],
+    "correctIndex": 3,
+    "explanation": "La máquina de Turing define qué problemas pueden resolverse mediante pasos mecánicos."
+  },
+  {
+    "id": "cg-2675",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué centro británico se descifró la máquina alemana Enigma durante la Segunda Guerra Mundial?",
+    "options": [
+      "Aldermaston",
+      "Greenwich",
+      "Bletchley Park",
+      "Porton Down"
+    ],
+    "correctIndex": 2,
+    "explanation": "En Bletchley Park trabajaron Alan Turing y un equipo de criptoanalistas."
+  },
+  {
+    "id": "cg-2676",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué computadora electromecánica programable construyó Konrad Zuse en 1941?",
+    "options": [
+      "La Colossus",
+      "La Z3",
+      "La UNIVAC",
+      "La ENIAC"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Z3 usaba relés y se considera una de las primeras computadoras programables."
+  },
+  {
+    "id": "cg-2677",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué universidad se construyó la computadora ENIAC a mediados de la década de 1940?",
+    "options": [
+      "Universidad de Pensilvania",
+      "Universidad de Harvard",
+      "MIT",
+      "Universidad de Stanford"
+    ],
+    "correctIndex": 0,
+    "explanation": "John Eckert y John Mauchly dirigieron la construcción de la ENIAC en Pensilvania."
+  },
+  {
+    "id": "cg-2678",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué arquitectura de computadoras se basa en almacenar el programa en la misma memoria que los datos?",
+    "options": [
+      "La arquitectura von Neumann",
+      "La arquitectura RISC",
+      "La arquitectura Harvard",
+      "La arquitectura ARM"
+    ],
+    "correctIndex": 0,
+    "explanation": "El modelo de programa almacenado fue descrito por John von Neumann en 1945."
+  },
+  {
+    "id": "cg-2679",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué laboratorio se inventó el transistor en 1947?",
+    "options": [
+      "IBM Research",
+      "Bell Labs",
+      "Xerox PARC",
+      "CERN"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bardeen, Brattain y Shockley desarrollaron el transistor en Bell Labs."
+  },
+  {
+    "id": "cg-2680",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué ingeniero construyó el primer circuito integrado en Texas Instruments en 1958?",
+    "options": [
+      "Jack Kilby",
+      "William Shockley",
+      "Robert Noyce",
+      "Gordon Moore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jack Kilby demostró un circuito integrado de germanio en 1958."
+  },
+  {
+    "id": "cg-2681",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué empresa fundada por Herman Hollerith fue precursora de IBM?",
+    "options": [
+      "Tabulating Machine Company",
+      "Hewlett-Packard",
+      "Burroughs",
+      "NCR"
+    ],
+    "correctIndex": 0,
+    "explanation": "La empresa de Hollerith se fusionó con otras para formar IBM en 1911."
+  },
+  {
+    "id": "cg-2682",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué laboratorios se creó el sistema operativo Unix a finales de los años sesenta?",
+    "options": [
+      "Bell Labs",
+      "Los Alamos",
+      "Xerox PARC",
+      "IBM Research"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ken Thompson y Dennis Ritchie desarrollaron Unix en Bell Labs."
+  },
+  {
+    "id": "cg-2683",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué año apareció el lenguaje de programación C?",
+    "options": [
+      "1972",
+      "1965",
+      "1980",
+      "1989"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dennis Ritchie creó C en Bell Labs para reescribir Unix."
+  },
+  {
+    "id": "cg-2684",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué lenguaje de alto nivel creó John Backus en IBM en 1957?",
+    "options": [
+      "LISP",
+      "ALGOL",
+      "COBOL",
+      "FORTRAN"
+    ],
+    "correctIndex": 3,
+    "explanation": "FORTRAN se diseñó para cálculos científicos y de ingeniería."
+  },
+  {
+    "id": "cg-2685",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué lenguaje creó John McCarthy en 1958 y se asoció históricamente a la inteligencia artificial?",
+    "options": [
+      "BASIC",
+      "Pascal",
+      "COBOL",
+      "LISP"
+    ],
+    "correctIndex": 3,
+    "explanation": "LISP introdujo el procesamiento simbólico y la recursión como base del lenguaje."
+  },
+  {
+    "id": "cg-2686",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué lenguaje de 1959 se diseñó para aplicaciones empresariales y contó con la influencia de Grace Hopper?",
+    "options": [
+      "C",
+      "COBOL",
+      "FORTRAN",
+      "Pascal"
+    ],
+    "correctIndex": 1,
+    "explanation": "COBOL buscaba ser legible y adecuado para gestión administrativa."
+  },
+  {
+    "id": "cg-2687",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué lenguaje crearon John Kemeny y Thomas Kurtz en Dartmouth en 1964?",
+    "options": [
+      "Perl",
+      "BASIC",
+      "C++",
+      "Pascal"
+    ],
+    "correctIndex": 1,
+    "explanation": "BASIC se pensó para que estudiantes principiantes pudieran programar."
+  },
+  {
+    "id": "cg-2688",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué lenguaje creó Niklaus Wirth en 1970 y lleva el nombre de un matemático francés?",
+    "options": [
+      "Ada",
+      "Pascal",
+      "Modula",
+      "Eiffel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pascal fomentaba la programación estructurada y la enseñanza."
+  },
+  {
+    "id": "cg-2689",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué lenguaje creó Bjarne Stroustrup a partir de C?",
+    "options": [
+      "C++",
+      "Java",
+      "Objective-C",
+      "Rust"
+    ],
+    "correctIndex": 0,
+    "explanation": "C++ añadió clases y otras capacidades de orientación a objetos a C."
+  },
+  {
+    "id": "cg-2690",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué centro de investigación se desarrolló la tecnología Ethernet en la década de 1970?",
+    "options": [
+      "Xerox PARC",
+      "CERN",
+      "Bell Labs",
+      "IBM Research"
+    ],
+    "correctIndex": 0,
+    "explanation": "Robert Metcalfe desarrolló Ethernet en Xerox PARC."
+  },
+  {
+    "id": "cg-2691",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué inventor presentó públicamente el ratón de computadora en 1968?",
+    "options": [
+      "Steve Wozniak",
+      "Alan Kay",
+      "Douglas Engelbart",
+      "Robert Noyce"
+    ],
+    "correctIndex": 2,
+    "explanation": "Engelbart mostró el ratón durante la demostración conocida como la madre de todas las demos."
+  },
+  {
+    "id": "cg-2692",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué computadora de Xerox PARC introdujo en 1973 una interfaz gráfica con ventanas e iconos?",
+    "options": [
+      "La Apple II",
+      "La Xerox Alto",
+      "La Commodore 64",
+      "La IBM PC"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Alto influyó en el diseño de interfaces gráficas posteriores."
+  },
+  {
+    "id": "cg-2693",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué año presentó Apple el Macintosh original?",
+    "options": [
+      "1984",
+      "1988",
+      "1979",
+      "1992"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Macintosh popularizó la interfaz gráfica y el ratón en computadoras personales."
+  },
+  {
+    "id": "cg-2694",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué sistema operativo lanzó Microsoft en 1995 como sucesor de Windows 3.1?",
+    "options": [
+      "Windows NT",
+      "Windows 1.0",
+      "Windows XP",
+      "Windows 95"
+    ],
+    "correctIndex": 3,
+    "explanation": "Windows 95 introdujo el menú Inicio y una interfaz de 32 bits."
+  },
+  {
+    "id": "cg-2695",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué red precursora de internet comenzó a funcionar en 1969?",
+    "options": [
+      "NSFNET",
+      "ARPANET",
+      "BITNET",
+      "Minitel"
+    ],
+    "correctIndex": 1,
+    "explanation": "ARPANET conectó inicialmente universidades y centros de investigación estadounidenses."
+  },
+  {
+    "id": "cg-2696",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué protocolos diseñaron Vint Cerf y Bob Kahn en la década de 1970?",
+    "options": [
+      "HTTP y HTML",
+      "TCP/IP",
+      "SMTP y POP3",
+      "FTP y SSH"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCP/IP se convirtió en la base técnica de internet."
+  },
+  {
+    "id": "cg-2697",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué año se adoptó TCP/IP como protocolo obligatorio de ARPANET?",
+    "options": [
+      "1998",
+      "1991",
+      "1983",
+      "1975"
+    ],
+    "correctIndex": 2,
+    "explanation": "El cambio del 1 de enero de 1983 se recuerda como el nacimiento operativo de internet."
+  },
+  {
+    "id": "cg-2698",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué navegador de 1993 ayudó a popularizar la World Wide Web?",
+    "options": [
+      "Chrome",
+      "Mosaic",
+      "Opera",
+      "Firefox"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mosaic, desarrollado en el NCSA, mostraba imágenes junto al texto."
+  },
+  {
+    "id": "cg-2699",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué empresa lanzó el navegador Netscape Navigator en 1994?",
+    "options": [
+      "Netscape",
+      "Sun Microsystems",
+      "Microsoft",
+      "Oracle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Netscape Navigator dominó los primeros años de la web comercial."
+  },
+  {
+    "id": "cg-2700",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó la enciclopedia colaborativa Wikipedia?",
+    "options": [
+      "2005",
+      "2001",
+      "2008",
+      "1997"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wikipedia fue creada por Jimmy Wales y Larry Sanger en 2001."
+  },
+  {
+    "id": "cg-2701",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó Facebook?",
+    "options": [
+      "2010",
+      "2004",
+      "2001",
+      "2007"
+    ],
+    "correctIndex": 1,
+    "explanation": "Facebook nació en 2004 en la Universidad de Harvard."
+  },
+  {
+    "id": "cg-2702",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué año se fundó YouTube?",
+    "options": [
+      "2005",
+      "2002",
+      "2008",
+      "2011"
+    ],
+    "correctIndex": 0,
+    "explanation": "YouTube fue creado en 2005 y comprado por Google al año siguiente."
+  },
+  {
+    "id": "cg-2703",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué año apareció Twitter?",
+    "options": [
+      "2009",
+      "2003",
+      "2006",
+      "2012"
+    ],
+    "correctIndex": 2,
+    "explanation": "Twitter surgió en 2006 como un servicio de mensajes breves."
+  },
+  {
+    "id": "cg-2704",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué año se presentó el primer iPhone?",
+    "options": [
+      "2010",
+      "2013",
+      "2004",
+      "2007"
+    ],
+    "correctIndex": 3,
+    "explanation": "Apple presentó el iPhone en enero de 2007 y lo lanzó ese mismo año."
+  },
+  {
+    "id": "cg-2705",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué año apareció el primer teléfono comercial con Android?",
+    "options": [
+      "2011",
+      "2008",
+      "2005",
+      "2014"
+    ],
+    "correctIndex": 1,
+    "explanation": "El HTC Dream fue el primer teléfono Android comercial, lanzado en 2008."
+  },
+  {
+    "id": "cg-2706",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué año se difundió públicamente la World Wide Web creada por Tim Berners-Lee?",
+    "options": [
+      "1996",
+      "2000",
+      "1985",
+      "1991"
+    ],
+    "correctIndex": 3,
+    "explanation": "Berners-Lee publicó la primera página web y las bases de HTML y HTTP en 1991."
+  },
+  {
+    "id": "cg-2707",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué año se publicó la especificación CSS1?",
+    "options": [
+      "1990",
+      "1996",
+      "2005",
+      "2001"
+    ],
+    "correctIndex": 1,
+    "explanation": "CSS1 se publicó en 1996 para separar presentación y contenido."
+  },
+  {
+    "id": "cg-2708",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué consorcio internacional se fundó en 1994 para desarrollar estándares de la web?",
+    "options": [
+      "ISO",
+      "IEEE",
+      "IETF",
+      "W3C"
+    ],
+    "correctIndex": 3,
+    "explanation": "El World Wide Web Consortium lo dirigió Tim Berners-Lee desde el MIT."
+  },
+  {
+    "id": "cg-2709",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué lenguaje creó Larry Wall en 1987 y es famoso por su potente procesamiento de texto?",
+    "options": [
+      "PHP",
+      "Python",
+      "Ruby",
+      "Perl"
+    ],
+    "correctIndex": 3,
+    "explanation": "Perl se diseñó para manipular texto y automatizar tareas de sistemas."
+  },
+  {
+    "id": "cg-2710",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué lenguaje creó Yukihiro Matsumoto en 1995 buscando una sintaxis agradable para el programador?",
+    "options": [
+      "Perl",
+      "Python",
+      "Elixir",
+      "Ruby"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ruby combina orientación a objetos con una sintaxis expresiva."
+  },
+  {
+    "id": "cg-2711",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué lenguaje creó Rasmus Lerdorf en la década de 1990 para generar páginas web dinámicas?",
+    "options": [
+      "ASP",
+      "JavaScript",
+      "PHP",
+      "Perl"
+    ],
+    "correctIndex": 2,
+    "explanation": "PHP se popularizó como lenguaje del lado del servidor para la web."
+  },
+  {
+    "id": "cg-2712",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué lenguaje diseñó Anders Hejlsberg para Microsoft y se lanzó con .NET en 2000?",
+    "options": [
+      "Delphi",
+      "Visual Basic",
+      "Java",
+      "C#"
+    ],
+    "correctIndex": 3,
+    "explanation": "C# forma parte de la plataforma .NET de Microsoft."
+  },
+  {
+    "id": "cg-2713",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué lenguaje lanzó Google en 2009 y fue diseñado por Robert Griesemer, Rob Pike y Ken Thompson?",
+    "options": [
+      "Rust",
+      "Dart",
+      "Swift",
+      "Go"
+    ],
+    "correctIndex": 3,
+    "explanation": "Go se creó para facilitar programación concurrente y compilación rápida."
+  },
+  {
+    "id": "cg-2714",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué lenguaje presentó Apple en 2014 como alternativa moderna a Objective-C?",
+    "options": [
+      "Rust",
+      "Go",
+      "Swift",
+      "Kotlin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Swift se diseñó para el desarrollo en plataformas Apple con seguridad de tipos."
+  },
+  {
+    "id": "cg-2715",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué lenguaje creó JetBrains en 2011 y es habitual en el desarrollo de Android?",
+    "options": [
+      "Dart",
+      "Kotlin",
+      "Swift",
+      "Scala"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kotlin se ejecuta en la máquina virtual de Java y es interoperable con Java."
+  },
+  {
+    "id": "cg-2716",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué lenguaje desarrolló Microsoft en 2012 como superconjunto tipado de JavaScript?",
+    "options": [
+      "TypeScript",
+      "Flow",
+      "CoffeeScript",
+      "Dart"
+    ],
+    "correctIndex": 0,
+    "explanation": "TypeScript añade tipos estáticos que se compilan a JavaScript."
+  },
+  {
+    "id": "cg-2717",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué lenguaje de consulta desarrolló IBM en la década de 1970 para bases de datos relacionales?",
+    "options": [
+      "XPath",
+      "CQL",
+      "SPARQL",
+      "SQL"
+    ],
+    "correctIndex": 3,
+    "explanation": "SQL se estandarizó y sigue siendo el lenguaje principal de las bases relacionales."
+  },
+  {
+    "id": "cg-2718",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué empresa desarrolló originalmente el lenguaje Java en 1995?",
+    "options": [
+      "Sun Microsystems",
+      "IBM",
+      "Microsoft",
+      "Oracle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Java nació en Sun Microsystems, que después fue adquirida por Oracle."
+  },
+  {
+    "id": "cg-2719",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué grupo cómico británico se inspiró el nombre del lenguaje Python?",
+    "options": [
+      "Monty Python",
+      "Los Beatles",
+      "Fawlty Towers",
+      "The Who"
+    ],
+    "correctIndex": 0,
+    "explanation": "Guido van Rossum eligió Python como referencia a Monty Python."
+  },
+  {
+    "id": "cg-2720",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Quién creó JavaScript en 1995 mientras trabajaba en Netscape?",
+    "options": [
+      "Brendan Eich",
+      "Rasmus Lerdorf",
+      "James Gosling",
+      "Anders Hejlsberg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Brendan Eich diseñó el lenguaje en apenas unos días."
+  },
+  {
+    "id": "cg-2721",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué organización impulsó la creación del lenguaje Rust a partir de 2010?",
+    "options": [
+      "Apple",
+      "Microsoft",
+      "Mozilla",
+      "Google"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rust se originó en Mozilla Research con énfasis en seguridad de memoria."
+  },
+  {
+    "id": "cg-2722",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿A qué matemático debe su nombre el lenguaje funcional Haskell?",
+    "options": [
+      "Alonzo Church",
+      "John McCarthy",
+      "Alan Turing",
+      "Haskell Curry"
+    ],
+    "correctIndex": 3,
+    "explanation": "Haskell es un lenguaje funcional puro nombrado en honor a Haskell Curry."
+  },
+  {
+    "id": "cg-2723",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué nivel de memoria caché está más cerca del procesador?",
+    "options": [
+      "La caché L2",
+      "La caché L3",
+      "La caché L1",
+      "La memoria RAM"
+    ],
+    "correctIndex": 2,
+    "explanation": "La L1 es la más pequeña y rápida, integrada en el propio núcleo."
+  },
+  {
+    "id": "cg-2724",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué unidad del procesador realiza operaciones aritméticas y lógicas?",
+    "options": [
+      "El bus de datos",
+      "El controlador de disco",
+      "La unidad aritmético-lógica (ALU)",
+      "La memoria caché"
+    ],
+    "correctIndex": 2,
+    "explanation": "La ALU ejecuta sumas, restas y operaciones booleanas."
+  },
+  {
+    "id": "cg-2725",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe el conjunto de conductos que transporta datos entre los componentes de una computadora?",
+    "options": [
+      "El socket",
+      "El kernel",
+      "El bus",
+      "El firmware"
+    ],
+    "correctIndex": 2,
+    "explanation": "El bus conecta procesador, memoria y periféricos mediante líneas de datos y control."
+  },
+  {
+    "id": "cg-2726",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de memoria es DDR4 en una computadora personal?",
+    "options": [
+      "Memoria caché estática",
+      "Memoria ROM",
+      "Memoria RAM dinámica",
+      "Almacenamiento flash"
+    ],
+    "correctIndex": 2,
+    "explanation": "DDR4 es una generación de memoria RAM síncrona y volátil."
+  },
+  {
+    "id": "cg-2727",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué significa que una memoria sea volátil?",
+    "options": [
+      "Que no puede reescribirse",
+      "Que es más lenta que un disco",
+      "Que solo puede leerse",
+      "Que pierde sus datos al cortarse la energía"
+    ],
+    "correctIndex": 3,
+    "explanation": "La volatilidad obliga a guardar los datos en almacenamiento permanente."
+  },
+  {
+    "id": "cg-2728",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es el overclocking de un procesador?",
+    "options": [
+      "Reducir su voltaje al mínimo",
+      "Aumentar su frecuencia por encima de la especificación de fábrica",
+      "Cambiar el sistema operativo",
+      "Instalar más disco"
+    ],
+    "correctIndex": 1,
+    "explanation": "El overclocking busca más rendimiento y puede aumentar el calor y el consumo."
+  },
+  {
+    "id": "cg-2729",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué diferencia principal tiene una arquitectura RISC frente a CISC?",
+    "options": [
+      "Usa únicamente instrucciones de 64 bits",
+      "No permite pipelines",
+      "Usa instrucciones más simples y numerosas",
+      "Carece de registros"
+    ],
+    "correctIndex": 2,
+    "explanation": "RISC reduce la complejidad de cada instrucción para ejecutarlas con rapidez."
+  },
+  {
+    "id": "cg-2730",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Cuántos caracteres puede representar el ASCII estándar de 7 bits?",
+    "options": [
+      "64",
+      "128",
+      "256",
+      "512"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con 7 bits se codifican 128 combinaciones, suficientes para el ASCII básico."
+  },
+  {
+    "id": "cg-2731",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué estándar de codificación busca representar textos de casi todos los idiomas?",
+    "options": [
+      "Unicode",
+      "BCD",
+      "ASCII",
+      "EBCDIC"
+    ],
+    "correctIndex": 0,
+    "explanation": "Unicode asigna un punto de código a los caracteres de numerosos sistemas de escritura."
+  },
+  {
+    "id": "cg-2732",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué codificación Unicode usa longitud variable y es habitual en las páginas web?",
+    "options": [
+      "EBCDIC",
+      "UTF-32",
+      "UTF-8",
+      "ASCII de 7 bits"
+    ],
+    "correctIndex": 2,
+    "explanation": "UTF-8 representa los caracteres comunes con un solo byte y otros con varios."
+  },
+  {
+    "id": "cg-2733",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿En qué base numérica se representa el sistema hexadecimal?",
+    "options": [
+      "Base 16",
+      "Base 10",
+      "Base 2",
+      "Base 8"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hexadecimal usa los dígitos 0 a 9 y las letras A a F."
+  },
+  {
+    "id": "cg-2734",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué puerta lógica produce una salida verdadera solo si ambas entradas son verdaderas?",
+    "options": [
+      "XOR",
+      "OR",
+      "NOT",
+      "AND"
+    ],
+    "correctIndex": 3,
+    "explanation": "La puerta AND implementa la conjunción lógica."
+  },
+  {
+    "id": "cg-2735",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es el kernel o núcleo de un sistema operativo?",
+    "options": [
+      "Una aplicación de oficina",
+      "El componente central que gestiona recursos y hardware",
+      "Un tipo de disco",
+      "Un lenguaje de programación"
+    ],
+    "correctIndex": 1,
+    "explanation": "El kernel controla memoria, procesos, dispositivos y llamadas al sistema."
+  },
+  {
+    "id": "cg-2736",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es un shell en un sistema operativo?",
+    "options": [
+      "Una interfaz que permite interactuar con el sistema mediante comandos",
+      "Un protocolo de red",
+      "Un tipo de memoria",
+      "Un programa de diseño"
+    ],
+    "correctIndex": 0,
+    "explanation": "El shell interpreta órdenes y las transmite al sistema operativo."
+  },
+  {
+    "id": "cg-2737",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es una interfaz gráfica de usuario o GUI?",
+    "options": [
+      "Un servidor de correo",
+      "Un lenguaje de bajo nivel",
+      "Un entorno que permite interactuar mediante ventanas, iconos y puntero",
+      "Una conexión de fibra"
+    ],
+    "correctIndex": 2,
+    "explanation": "La GUI sustituye o complementa los comandos de texto con elementos visuales."
+  },
+  {
+    "id": "cg-2738",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es una API?",
+    "options": [
+      "Una interfaz que define cómo comunicarse con un software o servicio",
+      "Un lenguaje de marcado",
+      "Un protocolo físico de red",
+      "Un tipo de monitor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las API especifican funciones, datos y reglas de interacción entre programas."
+  },
+  {
+    "id": "cg-2739",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es un SDK?",
+    "options": [
+      "Un disco de almacenamiento",
+      "Un conjunto de herramientas para desarrollar software para una plataforma",
+      "Un estándar de video",
+      "Un sistema de archivos"
+    ],
+    "correctIndex": 1,
+    "explanation": "El SDK suele incluir bibliotecas, compiladores y documentación."
+  },
+  {
+    "id": "cg-2740",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué diferencia hay entre un compilador y un intérprete?",
+    "options": [
+      "El compilador traduce todo el programa antes de ejecutarlo; el intérprete lo ejecuta por partes",
+      "El compilador no produce errores",
+      "El intérprete no lee código",
+      "El compilador solo funciona en la web"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ambos procesan código, pero con estrategias distintas de traducción y ejecución."
+  },
+  {
+    "id": "cg-2741",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Para qué sirve un depurador o debugger?",
+    "options": [
+      "Para comprimir archivos",
+      "Para aumentar la memoria RAM",
+      "Para diseñar interfaces gráficas",
+      "Para ejecutar un programa paso a paso y localizar errores"
+    ],
+    "correctIndex": 3,
+    "explanation": "El depurador permite inspeccionar variables y detener la ejecución en puntos concretos."
+  },
+  {
+    "id": "cg-2742",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es un entorno de desarrollo integrado o IDE?",
+    "options": [
+      "Una aplicación que reúne editor, compilador y herramientas de depuración",
+      "Un tipo de servidor web",
+      "Un disco externo",
+      "Un protocolo de correo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El IDE facilita el ciclo de escribir, compilar, probar y depurar código."
+  },
+  {
+    "id": "cg-2743",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué hace el comando git clone?",
+    "options": [
+      "Crea una copia local de un repositorio remoto",
+      "Publica cambios en el servidor",
+      "Fusiona dos ramas",
+      "Borra una rama remota"
+    ],
+    "correctIndex": 0,
+    "explanation": "git clone descarga el historial y los archivos de un repositorio."
+  },
+  {
+    "id": "cg-2744",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué hace el comando git commit?",
+    "options": [
+      "Registra los cambios preparados en el historial local",
+      "Crea una copia del repositorio",
+      "Envía cambios al repositorio remoto",
+      "Elimina el historial"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cada commit guarda una instantánea con un mensaje descriptivo."
+  },
+  {
+    "id": "cg-2745",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es una pull request en plataformas como GitHub?",
+    "options": [
+      "Un comando para borrar archivos",
+      "Un tipo de licencia",
+      "Un protocolo de red",
+      "Una solicitud para revisar e integrar cambios en un repositorio"
+    ],
+    "correctIndex": 3,
+    "explanation": "La pull request facilita la revisión de código antes de fusionar una rama."
+  },
+  {
+    "id": "cg-2746",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué caracteriza a la licencia GPL?",
+    "options": [
+      "No permite modificar el código",
+      "Prohíbe usar el software en empresas",
+      "Solo se aplica a bases de datos",
+      "Exige que las modificaciones distribuidas se compartan con la misma licencia"
+    ],
+    "correctIndex": 3,
+    "explanation": "La GPL es una licencia copyleft que protege las libertades del software libre."
+  },
+  {
+    "id": "cg-2747",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es el modelo SaaS?",
+    "options": [
+      "Software ofrecido como servicio a través de internet",
+      "Un sistema de archivos",
+      "Hardware vendido por piezas",
+      "Un lenguaje de programación"
+    ],
+    "correctIndex": 0,
+    "explanation": "En SaaS el proveedor aloja y mantiene la aplicación que usa el cliente."
+  },
+  {
+    "id": "cg-2748",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué significa CI/CD en el desarrollo de software?",
+    "options": [
+      "Control de interfaces y compilación dinámica",
+      "Cifrado de información y control de datos",
+      "Integración continua y entrega o despliegue continuo",
+      "Copia incremental y compresión de datos"
+    ],
+    "correctIndex": 2,
+    "explanation": "CI/CD automatiza pruebas y despliegues para entregar cambios con frecuencia."
+  },
+  {
+    "id": "cg-2749",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué protocolo ofrece entrega confiable y ordenada de datos, a diferencia de UDP?",
+    "options": [
+      "TCP",
+      "ICMP",
+      "ARP",
+      "IP"
+    ],
+    "correctIndex": 0,
+    "explanation": "TCP establece conexión, confirma paquetes y reordena los datos recibidos."
+  },
+  {
+    "id": "cg-2750",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué puerto de red usa normalmente HTTPS?",
+    "options": [
+      "443",
+      "80",
+      "21",
+      "25"
+    ],
+    "correctIndex": 0,
+    "explanation": "El puerto 443 es el puerto estándar del HTTP seguro."
+  },
+  {
+    "id": "cg-2751",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué protocolo asigna automáticamente direcciones IP a los dispositivos de una red?",
+    "options": [
+      "DHCP",
+      "NAT",
+      "SMTP",
+      "DNS"
+    ],
+    "correctIndex": 0,
+    "explanation": "DHCP entrega configuración de red, incluida la dirección IP y la puerta de enlace."
+  },
+  {
+    "id": "cg-2752",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué hace la traducción de direcciones de red o NAT?",
+    "options": [
+      "Asigna nombres de dominio",
+      "Permite que varios dispositivos compartan una dirección IP pública",
+      "Comprime paquetes",
+      "Cifra el tráfico web"
+    ],
+    "correctIndex": 1,
+    "explanation": "NAT modifica las direcciones de los paquetes para enrutar tráfico interno."
+  },
+  {
+    "id": "cg-2753",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es una dirección MAC?",
+    "options": [
+      "Una dirección de correo",
+      "Un puerto lógico",
+      "Un nombre de dominio",
+      "Un identificador único asignado a una interfaz de red"
+    ],
+    "correctIndex": 3,
+    "explanation": "La MAC identifica hardware de red dentro de un segmento local."
+  },
+  {
+    "id": "cg-2754",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué dispositivo conecta varios equipos dentro de una red local y envía tramas al puerto correcto?",
+    "options": [
+      "El router",
+      "El repetidor",
+      "El switch",
+      "El módem"
+    ],
+    "correctIndex": 2,
+    "explanation": "El switch aprende direcciones MAC y conmuta tramas entre sus puertos."
+  },
+  {
+    "id": "cg-2755",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué hace el comando ping?",
+    "options": [
+      "Envía un paquete de prueba para comprobar si un host responde",
+      "Cambia la dirección IP",
+      "Cifra una conexión",
+      "Descarga un archivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ping usa ICMP y mide el tiempo de ida y vuelta hasta el destino."
+  },
+  {
+    "id": "cg-2756",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es la latencia de una red?",
+    "options": [
+      "El tamaño físico del cable",
+      "El retardo entre el envío de un dato y su recepción",
+      "El número de usuarios conectados",
+      "La capacidad total de almacenamiento"
+    ],
+    "correctIndex": 1,
+    "explanation": "La latencia se mide en milisegundos y afecta la respuesta percibida."
+  },
+  {
+    "id": "cg-2757",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué diferencia básica hay entre cifrado simétrico y asimétrico?",
+    "options": [
+      "El simétrico usa una sola clave; el asimétrico usa un par de claves",
+      "El asimétrico solo sirve para contraseñas",
+      "El simétrico no usa claves",
+      "El simétrico es siempre más lento"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cifrado asimétrico emplea una clave pública y otra privada."
+  },
+  {
+    "id": "cg-2758",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué algoritmo de cifrado asimétrico debe su nombre a sus tres creadores?",
+    "options": [
+      "RSA",
+      "DES",
+      "AES",
+      "SHA"
+    ],
+    "correctIndex": 0,
+    "explanation": "RSA fue descrito en 1977 por Rivest, Shamir y Adleman."
+  },
+  {
+    "id": "cg-2759",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué algoritmo es un estándar de cifrado simétrico adoptado en 2001?",
+    "options": [
+      "SHA-1",
+      "RSA",
+      "AES",
+      "MD5"
+    ],
+    "correctIndex": 2,
+    "explanation": "AES reemplazó a DES como estándar de cifrado simétrico."
+  },
+  {
+    "id": "cg-2760",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de función es SHA-256?",
+    "options": [
+      "Una función hash criptográfica",
+      "Una base de datos",
+      "Un protocolo de red",
+      "Un cifrado simétrico"
+    ],
+    "correctIndex": 0,
+    "explanation": "SHA-256 produce una huella de 256 bits y se usa para verificar integridad."
+  },
+  {
+    "id": "cg-2761",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Para qué sirve una sal criptográfica al almacenar contraseñas?",
+    "options": [
+      "Para cifrar el disco completo",
+      "Para acelerar el inicio de sesión",
+      "Para generar nombres de usuario",
+      "Para que hashes de contraseñas iguales resulten distintos"
+    ],
+    "correctIndex": 3,
+    "explanation": "La sal añade datos aleatorios antes del hash y dificulta tablas precalculadas."
+  },
+  {
+    "id": "cg-2762",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es un ataque de fuerza bruta?",
+    "options": [
+      "Saturar un servidor con tráfico",
+      "Probar sistemáticamente muchas combinaciones hasta acertar",
+      "Falsificar un certificado",
+      "Interceptar cables de fibra"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fuerza bruta explota la debilidad de contraseñas cortas o predecibles."
+  },
+  {
+    "id": "cg-2763",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es una inyección SQL?",
+    "options": [
+      "Insertar código SQL malicioso en una consulta de una aplicación",
+      "Copiar una tabla",
+      "Cifrar una base de datos",
+      "Actualizar el sistema operativo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La inyección SQL puede exponer o alterar datos si no se validan las entradas."
+  },
+  {
+    "id": "cg-2764",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es una vulnerabilidad de día cero?",
+    "options": [
+      "Una contraseña caducada",
+      "Un fallo de seguridad sin parche conocido al momento de explotarse",
+      "Un virus que solo actúa de noche",
+      "Un error de diseño de hardware antiguo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El término alude a que el fabricante aún no dispone de una corrección pública."
+  },
+  {
+    "id": "cg-2765",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es el aprendizaje supervisado?",
+    "options": [
+      "Ejecutar un modelo sin datos",
+      "Programar reglas manualmente",
+      "Entrenar un modelo con ejemplos que incluyen la respuesta correcta",
+      "Agrupar datos sin etiquetas"
+    ],
+    "correctIndex": 2,
+    "explanation": "El modelo aprende a asociar entradas con etiquetas conocidas."
+  },
+  {
+    "id": "cg-2766",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es el sobreajuste u overfitting en un modelo de aprendizaje automático?",
+    "options": [
+      "Cuando usa demasiada memoria RAM",
+      "Cuando el modelo tarda demasiado en entrenar",
+      "Cuando el modelo memoriza los datos de entrenamiento y generaliza mal",
+      "Cuando no tiene parámetros"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sobreajuste produce buen resultado en entrenamiento y pobre en datos nuevos."
+  },
+  {
+    "id": "cg-2767",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué arquitectura de red neuronal introdujo el mecanismo de atención y se presentó en 2017?",
+    "options": [
+      "El perceptrón",
+      "El transformer",
+      "La máquina de vectores de soporte",
+      "La red convolucional"
+    ],
+    "correctIndex": 1,
+    "explanation": "El transformer procesa secuencias con atención y es base de muchos modelos de lenguaje."
+  },
+  {
+    "id": "cg-2768",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "medium",
+    "question": "¿Qué es un prompt en el uso de modelos de lenguaje?",
+    "options": [
+      "El hardware que ejecuta el modelo",
+      "La instrucción o texto de entrada que se le proporciona al modelo",
+      "El conjunto de entrenamiento",
+      "La respuesta generada por el modelo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El prompt orienta la tarea y el formato de la respuesta del modelo."
+  },
+  {
+    "id": "cg-2769",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué computadora británica de 1943 se utilizó para descifrar comunicaciones cifradas con la máquina Lorenz?",
+    "options": [
+      "ENIAC",
+      "La Z3",
+      "La Harvard Mark I",
+      "Colossus"
+    ],
+    "correctIndex": 3,
+    "explanation": "Colossus fue construida en Bletchley Park para el criptoanálisis durante la guerra."
+  },
+  {
+    "id": "cg-2770",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué computadora electromecánica de 1944 desarrolló Howard Aiken con apoyo de IBM?",
+    "options": [
+      "Colossus",
+      "La Harvard Mark I",
+      "La UNIVAC I",
+      "La ENIAC"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Harvard Mark I también se conoció como ASCC y medía unos quince metros de largo."
+  },
+  {
+    "id": "cg-2771",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué computadora ejecutó con éxito un programa almacenado en memoria en 1948?",
+    "options": [
+      "La EDVAC",
+      "La Manchester Baby",
+      "La ENIAC",
+      "La EDSAC"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Small-Scale Experimental Machine de Manchester ejecutó un programa almacenado en 1948."
+  },
+  {
+    "id": "cg-2772",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué computadora del MIT introdujo el uso práctico de la memoria de núcleos magnéticos?",
+    "options": [
+      "ENIAC",
+      "UNIVAC I",
+      "Whirlwind",
+      "IBM 701"
+    ],
+    "correctIndex": 2,
+    "explanation": "Whirlwind, desarrollada para simulación y defensa aérea, usó memoria de núcleos magnéticos."
+  },
+  {
+    "id": "cg-2773",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué familia de computadoras presentó IBM en 1964 con compatibilidad entre sus distintos modelos?",
+    "options": [
+      "Apple II",
+      "PDP-8",
+      "IBM 1401",
+      "System/360"
+    ],
+    "correctIndex": 3,
+    "explanation": "La System/360 unificó arquitectura y software en una gama de equipos."
+  },
+  {
+    "id": "cg-2774",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué minicomputadora de Digital Equipment Corporation apareció en 1965 y fue muy popular?",
+    "options": [
+      "La PDP-8",
+      "La Altair 8800",
+      "La VAX-11",
+      "La IBM PC"
+    ],
+    "correctIndex": 0,
+    "explanation": "La PDP-8 fue una de las primeras minicomputadoras de éxito masivo."
+  },
+  {
+    "id": "cg-2775",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué estación de trabajo de Xerox comercializada en 1981 difundió la interfaz gráfica con ventanas e iconos?",
+    "options": [
+      "La Xerox Alto",
+      "La Xerox Star",
+      "La Macintosh",
+      "La Apple Lisa"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Star 8010 llevó la interfaz gráfica de PARC a un producto comercial."
+  },
+  {
+    "id": "cg-2776",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué microcomputadora portátil comercial apareció en 1981?",
+    "options": [
+      "La IBM PC",
+      "La Compaq Portable",
+      "La Osborne 1",
+      "La Kaypro II"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Osborne 1 pesaba unos once kilos e incluía pantalla y unidades de disquete."
+  },
+  {
+    "id": "cg-2777",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué supercomputadora diseñó Seymour Cray y se presentó en 1976?",
+    "options": [
+      "La IBM Blue Gene",
+      "La CDC 6600",
+      "La Connection Machine",
+      "La Cray-1"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Cray-1 destacó por su arquitectura vectorial y su diseño refrigerado."
+  },
+  {
+    "id": "cg-2778",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué computadora presentó Steve Jobs en 1988 después de dejar Apple?",
+    "options": [
+      "La Pixar Image Computer",
+      "La Apple Lisa",
+      "La NeXT Computer",
+      "La Macintosh II"
+    ],
+    "correctIndex": 2,
+    "explanation": "La NeXT Computer se asoció al desarrollo de la World Wide Web en el CERN."
+  },
+  {
+    "id": "cg-2779",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué computadora, descrita en 1945 y entregada en 1949, fue una de las primeras con programa almacenado?",
+    "options": [
+      "La EDVAC",
+      "Colossus",
+      "La ENIAC",
+      "La UNIVAC I"
+    ],
+    "correctIndex": 0,
+    "explanation": "La EDVAC incorporó el diseño de programa almacenado propuesto por von Neumann."
+  },
+  {
+    "id": "cg-2780",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué computadora comercial fabricada en Estados Unidos apareció en 1951?",
+    "options": [
+      "La Ferranti Mark 1",
+      "La UNIVAC I",
+      "La IBM 701",
+      "La ENIAC"
+    ],
+    "correctIndex": 1,
+    "explanation": "La UNIVAC I se usó en el censo estadounidense y en aplicaciones empresariales."
+  },
+  {
+    "id": "cg-2781",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué documento de 1981 estandarizó el protocolo IPv4?",
+    "options": [
+      "El RFC 793",
+      "El RFC 2616",
+      "El RFC 791",
+      "El RFC 822"
+    ],
+    "correctIndex": 2,
+    "explanation": "El RFC 791 define el formato y las reglas de direccionamiento de IPv4."
+  },
+  {
+    "id": "cg-2782",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Cuántas capas tiene el modelo de referencia OSI para redes?",
+    "options": [
+      "Ocho",
+      "Cuatro",
+      "Cinco",
+      "Siete"
+    ],
+    "correctIndex": 3,
+    "explanation": "El modelo OSI divide la comunicación en siete capas, de física a aplicación."
+  },
+  {
+    "id": "cg-2783",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué protocolo intercambia rutas entre sistemas autónomos en internet?",
+    "options": [
+      "OSPF",
+      "RIP",
+      "BGP",
+      "ICMP"
+    ],
+    "correctIndex": 2,
+    "explanation": "BGP es el protocolo de enrutamiento exterior que sostiene la interconexión global."
+  },
+  {
+    "id": "cg-2784",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué intercambio de mensajes abre una conexión TCP?",
+    "options": [
+      "HELLO, ACK y BYE",
+      "GET, POST y PUT",
+      "FIN, RST y ACK",
+      "SYN, SYN-ACK y ACK"
+    ],
+    "correctIndex": 3,
+    "explanation": "El saludo de tres vías sincroniza números de secuencia antes de transmitir datos."
+  },
+  {
+    "id": "cg-2785",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Cuántos servidores raíz lógicos tiene el sistema de nombres de dominio?",
+    "options": [
+      "Trece",
+      "Treinta y dos",
+      "Veintiuno",
+      "Siete"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los trece servidores raíz se identifican con letras de la A a la M y usan réplicas."
+  },
+  {
+    "id": "cg-2786",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué ingeniero de RAND propuso la conmutación de paquetes para redes de comunicaciones militares?",
+    "options": [
+      "Paul Baran",
+      "Vint Cerf",
+      "Robert Kahn",
+      "Leonard Kleinrock"
+    ],
+    "correctIndex": 0,
+    "explanation": "Baran describió redes distribuidas que dividían mensajes en bloques."
+  },
+  {
+    "id": "cg-2787",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué red inalámbrica experimental de la Universidad de Hawái precedió a Ethernet a comienzos de los años setenta?",
+    "options": [
+      "Token Ring",
+      "NSFNET",
+      "ALOHAnet",
+      "ARPANET"
+    ],
+    "correctIndex": 2,
+    "explanation": "ALOHAnet usó acceso aleatorio al medio y sirvió de inspiración para Ethernet."
+  },
+  {
+    "id": "cg-2788",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué método de acceso al medio utilizaba la Ethernet tradicional?",
+    "options": [
+      "Multiplexación por división de tiempo",
+      "CSMA/CA",
+      "Paso de testigo",
+      "CSMA/CD"
+    ],
+    "correctIndex": 3,
+    "explanation": "CSMA/CD detecta colisiones y reintenta la transmisión."
+  },
+  {
+    "id": "cg-2789",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué protocolo sustituyó a SSL para cifrar las conexiones web?",
+    "options": [
+      "WPA",
+      "IPSec",
+      "TLS",
+      "SSH"
+    ],
+    "correctIndex": 2,
+    "explanation": "TLS es el sucesor de SSL y proporciona cifrado y autenticación en HTTPS."
+  },
+  {
+    "id": "cg-2790",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué protocolo permite leer el correo dejando los mensajes almacenados en el servidor?",
+    "options": [
+      "POP3",
+      "SMTP",
+      "FTP",
+      "IMAP"
+    ],
+    "correctIndex": 3,
+    "explanation": "IMAP sincroniza buzones y carpetas entre el servidor y varios clientes."
+  },
+  {
+    "id": "cg-2791",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué artículo de 1976 introdujo públicamente el intercambio de claves Diffie-Hellman?",
+    "options": [
+      "The Codebreakers",
+      "A Mathematical Theory of Communication",
+      "On Computable Numbers",
+      "New Directions in Cryptography"
+    ],
+    "correctIndex": 3,
+    "explanation": "El artículo de Diffie y Hellman sentó las bases de la criptografía de clave pública."
+  },
+  {
+    "id": "cg-2792",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿En qué año se publicó el algoritmo RSA?",
+    "options": [
+      "1982",
+      "1977",
+      "1972",
+      "1991"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rivest, Shamir y Adleman publicaron RSA en 1977."
+  },
+  {
+    "id": "cg-2793",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué algoritmo se adoptó como estándar federal de cifrado en Estados Unidos en 1977?",
+    "options": [
+      "RSA",
+      "AES",
+      "DES",
+      "Blowfish"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Data Encryption Standard usaba una clave de 56 bits y fue muy criticado por su tamaño."
+  },
+  {
+    "id": "cg-2794",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿En qué año se adoptó AES como estándar de cifrado?",
+    "options": [
+      "1993",
+      "2010",
+      "2005",
+      "2001"
+    ],
+    "correctIndex": 3,
+    "explanation": "AES fue seleccionado por el NIST y publicado como estándar en 2001."
+  },
+  {
+    "id": "cg-2795",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué gusano informático de 1988 afectó a una parte importante de las máquinas conectadas a internet?",
+    "options": [
+      "Code Red",
+      "Stuxnet",
+      "ILOVEYOU",
+      "El gusano Morris"
+    ],
+    "correctIndex": 3,
+    "explanation": "Robert Morris Jr. lo liberó por error y provocó uno de los primeros incidentes masivos."
+  },
+  {
+    "id": "cg-2796",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué malware descubierto en 2010 atacó sistemas industriales relacionados con el programa nuclear iraní?",
+    "options": [
+      "WannaCry",
+      "Mirai",
+      "Conficker",
+      "Stuxnet"
+    ],
+    "correctIndex": 3,
+    "explanation": "Stuxnet sabotizó centrifugadoras mediante el control de sistemas SCADA."
+  },
+  {
+    "id": "cg-2797",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué programa de 1971 se considera uno de los primeros virus o programas autorreplicantes?",
+    "options": [
+      "Melissa",
+      "Michelangelo",
+      "Morris",
+      "Creeper"
+    ],
+    "correctIndex": 3,
+    "explanation": "Creeper se propagaba por ARPANET y mostraba un mensaje en los terminales."
+  },
+  {
+    "id": "cg-2798",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué principio criptográfico sostiene que la seguridad debe depender de la clave y no del secreto del algoritmo?",
+    "options": [
+      "El teorema de Shannon",
+      "El principio de Kerckhoffs",
+      "La ley de Moore",
+      "La ley de Metcalfe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kerckhoffs formuló que un sistema debe seguir siendo seguro aunque el método sea público."
+  },
+  {
+    "id": "cg-2799",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué estructura precalculada permite revertir hashes de contraseñas sin sal?",
+    "options": [
+      "El diccionario de sinónimos",
+      "La tabla hash",
+      "El árbol B",
+      "La tabla arcoíris"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las tablas arcoíris intercambian almacenamiento por tiempo de búsqueda."
+  },
+  {
+    "id": "cg-2800",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de ataque obtiene información midiendo tiempos, consumo eléctrico o emanaciones del sistema?",
+    "options": [
+      "La fuerza bruta",
+      "El ataque de canal lateral",
+      "La inyección SQL",
+      "El phishing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los canales laterales explotan efectos físicos del procesamiento."
+  },
+  {
+    "id": "cg-2801",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿En qué conferencia de 1956 se acuñó el término inteligencia artificial?",
+    "options": [
+      "La conferencia de Asilomar",
+      "La conferencia de Dartmouth",
+      "El simposio de Turing",
+      "La conferencia de NeurIPS"
+    ],
+    "correctIndex": 1,
+    "explanation": "John McCarthy y otros organizaron el taller de Dartmouth ese año."
+  },
+  {
+    "id": "cg-2802",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué modelo de aprendizaje presentó Frank Rosenblatt en 1958?",
+    "options": [
+      "El transformer",
+      "La red generativa antagónica",
+      "La red LSTM",
+      "El perceptrón"
+    ],
+    "correctIndex": 3,
+    "explanation": "El perceptrón fue una de las primeras redes neuronales entrenables."
+  },
+  {
+    "id": "cg-2803",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué autores popularizaron la retropropagación del error con un artículo de 1986?",
+    "options": [
+      "McCarthy y Minsky",
+      "LeCun y Bengio",
+      "Rumelhart, Hinton y Williams",
+      "Krizhevsky y Sutskever"
+    ],
+    "correctIndex": 2,
+    "explanation": "Su trabajo mostró cómo entrenar redes con capas ocultas ajustando pesos."
+  },
+  {
+    "id": "cg-2804",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué informe británico de 1973 contribuyó a recortes de financiación en inteligencia artificial?",
+    "options": [
+      "El informe Asilomar",
+      "El informe Turing",
+      "El informe Lighthill",
+      "El informe Shannon"
+    ],
+    "correctIndex": 2,
+    "explanation": "El informe cuestionó el progreso real de la IA y precedió a un invierno financiero."
+  },
+  {
+    "id": "cg-2805",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué sistema experto desarrollado en Stanford diagnosticaba infecciones bacterianas?",
+    "options": [
+      "MYCIN",
+      "ELIZA",
+      "SHRDLU",
+      "Deep Blue"
+    ],
+    "correctIndex": 0,
+    "explanation": "MYCIN usaba reglas y factores de certeza para sugerir tratamientos."
+  },
+  {
+    "id": "cg-2806",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué red neuronal ganó la competencia ImageNet en 2012 y popularizó el aprendizaje profundo?",
+    "options": [
+      "AlexNet",
+      "ResNet",
+      "VGG",
+      "LeNet"
+    ],
+    "correctIndex": 0,
+    "explanation": "AlexNet redujo notablemente el error de clasificación usando GPU y convoluciones."
+  },
+  {
+    "id": "cg-2807",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué arquitectura de redes introdujo Ian Goodfellow en 2014?",
+    "options": [
+      "La máquina de vectores de soporte",
+      "El autocodificador",
+      "La red generativa antagónica (GAN)",
+      "El transformer"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una GAN enfrenta un generador y un discriminador para producir datos realistas."
+  },
+  {
+    "id": "cg-2808",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué programa de DeepMind venció al campeón Lee Sedol en 2016?",
+    "options": [
+      "Watson",
+      "Deep Blue",
+      "AlphaGo",
+      "Stockfish"
+    ],
+    "correctIndex": 2,
+    "explanation": "AlphaGo combinó redes neuronales con búsqueda para jugar al Go."
+  },
+  {
+    "id": "cg-2809",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué técnica de Google de 2013 representa palabras como vectores densos?",
+    "options": [
+      "word2vec",
+      "Análisis semántico latente",
+      "TF-IDF",
+      "PageRank"
+    ],
+    "correctIndex": 0,
+    "explanation": "word2vec aprende vectores en los que palabras de uso similar quedan cerca."
+  },
+  {
+    "id": "cg-2810",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué técnica ajusta modelos de lenguaje usando retroalimentación humana sobre sus respuestas?",
+    "options": [
+      "Dropout",
+      "Poda de pesos",
+      "Retropropagación",
+      "RLHF"
+    ],
+    "correctIndex": 3,
+    "explanation": "RLHF combina aprendizaje por refuerzo con preferencias evaluadas por personas."
+  },
+  {
+    "id": "cg-2811",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Cómo se titula el artículo de Alan Turing de 1936 que introdujo su máquina abstracta?",
+    "options": [
+      "On Formally Undecidable Propositions",
+      "On Computable Numbers, with an Application to the Entscheidungsproblem",
+      "Computing Machinery and Intelligence",
+      "A Mathematical Theory of Communication"
+    ],
+    "correctIndex": 1,
+    "explanation": "El artículo definió la computabilidad y mostró la indecidibilidad del problema de decisión."
+  },
+  {
+    "id": "cg-2812",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué tesis afirma que toda función efectivamente computable puede calcularse con una máquina de Turing?",
+    "options": [
+      "El teorema de Shannon",
+      "La tesis de Gödel",
+      "La ley de Amdahl",
+      "La tesis Church-Turing"
+    ],
+    "correctIndex": 3,
+    "explanation": "La tesis vincula el cálculo efectivo con varios formalismos equivalentes."
+  },
+  {
+    "id": "cg-2813",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué problema demostró Turing que es indecidible?",
+    "options": [
+      "El ordenamiento de listas",
+      "La suma de números binarios",
+      "La compilación de programas",
+      "El problema de la parada"
+    ],
+    "correctIndex": 3,
+    "explanation": "No existe un algoritmo general que determine si cualquier programa terminará con cualquier entrada."
+  },
+  {
+    "id": "cg-2814",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué demostró Kurt Gödel en 1931 sobre los sistemas formales suficientemente potentes?",
+    "options": [
+      "Que contienen proposiciones verdaderas que no pueden demostrarse dentro del sistema",
+      "Que la criptografía es imposible",
+      "Que P es igual a NP",
+      "Que todo programa termina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los teoremas de incompletitud limitan el alcance de la demostración formal."
+  },
+  {
+    "id": "cg-2815",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué problema abierto pregunta si todo problema cuya solución se verifica rápido también se resuelve rápido?",
+    "options": [
+      "El problema P versus NP",
+      "El teorema de Cook",
+      "La conjetura de Goldbach",
+      "El problema de la parada"
+    ],
+    "correctIndex": 0,
+    "explanation": "P versus NP es uno de los problemas del milenio y sigue sin resolverse."
+  },
+  {
+    "id": "cg-2816",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué problema se demostró NP-completo en 1971?",
+    "options": [
+      "La satisfacibilidad booleana (SAT)",
+      "El problema del viajante",
+      "El corte máximo",
+      "El problema de la mochila"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cook mostró que SAT es NP-completo y Levin llegó a un resultado equivalente."
+  },
+  {
+    "id": "cg-2817",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué algoritmo de 1959 calcula el camino más corto desde un nodo de origen?",
+    "options": [
+      "El algoritmo de Kruskal",
+      "El algoritmo de Euclides",
+      "El algoritmo de Huffman",
+      "El algoritmo de Dijkstra"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dijkstra recorre el grafo eligiendo siempre el nodo no visitado de menor distancia."
+  },
+  {
+    "id": "cg-2818",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Quién inventó el algoritmo de ordenamiento quicksort en 1960?",
+    "options": [
+      "Donald Knuth",
+      "Tony Hoare",
+      "Edsger Dijkstra",
+      "John von Neumann"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quicksort ordena dividiendo el arreglo alrededor de un pivote."
+  },
+  {
+    "id": "cg-2819",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué complejidad temporal tiene la búsqueda binaria en un arreglo ordenado?",
+    "options": [
+      "O(1)",
+      "O(n log n)",
+      "O(n)",
+      "O(log n)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cada comparación descarta la mitad del espacio de búsqueda."
+  },
+  {
+    "id": "cg-2820",
+    "category": "general",
+    "topic": "technology",
+    "difficulty": "hard",
+    "question": "¿Qué nombre recibe la limitación de rendimiento por compartir un único bus entre procesador y memoria?",
+    "options": [
+      "El cuello de botella de von Neumann",
+      "El límite de Shannon",
+      "El cuello de botella de Amdahl",
+      "La ley de Moore"
+    ],
+    "correctIndex": 0,
+    "explanation": "El término alude al costo de mover datos entre CPU y memoria en la arquitectura clásica."
+  }
+]

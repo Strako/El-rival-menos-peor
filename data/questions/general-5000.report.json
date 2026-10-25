@@ -1,0 +1,529 @@
+{
+  "generatedAt": "2026-10-25T10:15:54.920Z",
+  "files": [
+    {
+      "file": "data\\questions\\general-5000\\gen-001.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "physics": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-002.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "astronomy": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-003.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "chemistry": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-004.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "biology": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-005.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "medicine": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-006.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "mathematics": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-007.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "technology": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-008.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "earth_science": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-009.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "geography": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-010.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "history_ancient_medieval": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-011.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "history_modern": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-012.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "archaeology": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-013.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "philosophy_religion": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-014.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "mythology": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-015.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "linguistics": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-016.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "literature": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-017.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "theater_poetry": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-018.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "visual_arts": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-019.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "architecture_design": 260
+      }
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-020.json",
+      "count": 260,
+      "difficulties": {
+        "easy": 104,
+        "medium": 104,
+        "hard": 52
+      },
+      "correctIndex": {
+        "0": 65,
+        "1": 65,
+        "2": 65,
+        "3": 65
+      },
+      "topics": {
+        "music_cinema_culture": 260
+      }
+    }
+  ],
+  "totals": {
+    "questions": 5200,
+    "byCategory": {
+      "general": 5200
+    },
+    "byDifficulty": {
+      "easy": 2080,
+      "medium": 2080,
+      "hard": 1040
+    },
+    "byIndex": {
+      "0": 1300,
+      "1": 1300,
+      "2": 1300,
+      "3": 1300
+    },
+    "byTopic": {
+      "physics": 260,
+      "astronomy": 260,
+      "chemistry": 260,
+      "biology": 260,
+      "medicine": 260,
+      "mathematics": 260,
+      "technology": 260,
+      "earth_science": 260,
+      "geography": 260,
+      "history_ancient_medieval": 260,
+      "history_modern": 260,
+      "archaeology": 260,
+      "philosophy_religion": 260,
+      "mythology": 260,
+      "linguistics": 260,
+      "literature": 260,
+      "theater_poetry": 260,
+      "visual_arts": 260,
+      "architecture_design": 260,
+      "music_cinema_culture": 260
+    },
+    "errors": 0,
+    "warnings": 20
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "file": "data\\questions\\general-5000\\gen-003.json",
+      "index": 11,
+      "id": "cg-1532",
+      "message": "Enunciado repetido entre archivos (cg-1015); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-003.json",
+      "index": 12,
+      "id": "cg-1533",
+      "message": "Enunciado repetido entre archivos (cg-1016); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-004.json",
+      "index": 34,
+      "id": "cg-1815",
+      "message": "Enunciado repetido entre archivos (cg-1621); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-005.json",
+      "index": 0,
+      "id": "cg-2041",
+      "message": "Enunciado repetido entre archivos (cg-1820); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-005.json",
+      "index": 7,
+      "id": "cg-2048",
+      "message": "Enunciado repetido entre archivos (cg-1999); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-005.json",
+      "index": 62,
+      "id": "cg-2103",
+      "message": "Enunciado repetido entre archivos (cg-1076); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-005.json",
+      "index": 228,
+      "id": "cg-2269",
+      "message": "Enunciado repetido entre archivos (cg-1976); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-010.json",
+      "index": 80,
+      "id": "cg-3421",
+      "message": "Enunciado repetido entre archivos (cg-2333); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-012.json",
+      "index": 49,
+      "id": "cg-3910",
+      "message": "Enunciado repetido entre archivos (cg-3441); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-013.json",
+      "index": 22,
+      "id": "cg-4143",
+      "message": "Enunciado repetido entre archivos (cg-3735); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-013.json",
+      "index": 44,
+      "id": "cg-4165",
+      "message": "Enunciado repetido entre archivos (cg-3734); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-014.json",
+      "index": 23,
+      "id": "cg-4404",
+      "message": "Enunciado repetido entre archivos (cg-3383); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-017.json",
+      "index": 10,
+      "id": "cg-5171",
+      "message": "Enunciado repetido entre archivos (cg-5073); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-017.json",
+      "index": 111,
+      "id": "cg-5272",
+      "message": "Enunciado repetido entre archivos (cg-5078); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-019.json",
+      "index": 0,
+      "id": "cg-5681",
+      "message": "Enunciado repetido entre archivos (cg-3145); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-019.json",
+      "index": 2,
+      "id": "cg-5683",
+      "message": "Enunciado repetido entre archivos (cg-3153); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-019.json",
+      "index": 10,
+      "id": "cg-5691",
+      "message": "Enunciado repetido entre archivos (cg-3261); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-019.json",
+      "index": 11,
+      "id": "cg-5692",
+      "message": "Enunciado repetido entre archivos (cg-3157); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-019.json",
+      "index": 20,
+      "id": "cg-5701",
+      "message": "Enunciado repetido entre archivos (cg-3156); el merge lo descartará."
+    },
+    {
+      "file": "data\\questions\\general-5000\\gen-019.json",
+      "index": 25,
+      "id": "cg-5706",
+      "message": "Enunciado repetido entre archivos (cg-3263); el merge lo descartará."
+    }
+  ]
+}

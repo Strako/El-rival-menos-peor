@@ -6,12 +6,15 @@ Trivia multijugador por salas, inspirada en el formato de “El rival menos peor
 - **Backend:** Supabase (Postgres, Edge Functions y Realtime).
 - **Despliegue:** Netlify.
 - **Sin ranking global.**
-- **1.050 preguntas** en tres categorías.
+- **6.050 preguntas** en tres categorías.
+- **5.350 de cultura general**, ampliadas a artes y ciencias de todo el mundo.
 - **Tres modos:** Clásico, Eliminación y Relámpago.
 - **Timer de 10 s** para responder en todos los modos.
 - **Chat efímero por sala** durante la partida.
 - **Banderas por país** según la IP.
 - **Invitaciones** a jugadores conectados desde el lobby.
+- **Cierre de sala** por el anfitrión, validado en base de datos.
+- **Salida libre** de cualquier jugador en todo momento.
 - **Emojis de posición** en el scoreboard.
 - **Sonidos:** turno, respuesta correcta, respuesta fallida y tiempo agotado.
 
@@ -23,20 +26,25 @@ Trivia multijugador por salas, inspirada en el formato de “El rival menos peor
 |---|---|
 | Proyecto Supabase | Activo |
 | Esquema, RLS, RPC y seguridad | Aplicado |
-| Preguntas cargadas | 1.050 |
-| Edge Function `api` | Desplegada (versión 3) |
+| Preguntas cargadas | 6.050 |
+| Banco ampliado | 5.000 nuevas de cultura general |
+| Auditoría de contexto | 206 preguntas mejoradas |
+| Edge Function `api` | Desplegada (versión 4) |
 | Frontend | Implementado y compilando |
 | Modo Relámpago | Implementado |
 | Timer de 10 s | En los tres modos |
 | Chat efímero | Implementado |
 | Banderas por IP | Implementadas |
 | Invitaciones en lobby | Implementadas |
+| Cierre de sala | Implementado con validación de anfitrión |
+| Salida de jugadores | Disponible en lobby, partida y resultados |
 | Emojis de ranking | Implementados |
 | Sin repetición por partida | Restricción única aplicada |
 | Sonidos | Implementados |
 | Pruebas unitarias | 23/23 |
 | Smoke test backend | Clásico, Eliminación y Relámpago OK |
-| E2E con Chrome | Clásico, Relámpago y social OK |
+| Prueba de cierre de sala | Permisos, bloqueo y salida OK |
+| E2E con Chrome | Clásico, Relámpago, social y cierre OK |
 | Despliegue Netlify | Pendiente de credenciales |
 
 - Supabase: `https://aaojioxhupihfgqfiken.supabase.co`
@@ -49,13 +57,15 @@ Trivia multijugador por salas, inspirada en el formato de “El rival menos peor
 
 | Categoría | Valor interno | Preguntas |
 |---|---|---|
-| Cultura general global | `general` | 350 |
+| Cultura general global | `general` | 5.350 |
 | Videojuegos | `videogames` | 350 |
 | Series de los 90 | `series_90s` | 350 |
 
 Incluye sitcoms, dramas, ciencia ficción, animación y producciones latinoamericanas/españolas de los 90. “Los Simpson” está dentro de **Series de los 90**, no como categoría separada.
 
-Distribución por dificultad: 420 fáciles, 420 medias, 210 difíciles.
+Distribución por dificultad: 2.386 fáciles, 2.448 medias, 1.216 difíciles.
+
+La ampliación cubre física, astronomía, química, biología, medicina, matemáticas, tecnología, ciencias de la Tierra, geografía, historia antigua y moderna, arqueología, filosofía, religión, mitología, lingüística, literatura, teatro, poesía, pintura, escultura, arquitectura, diseño, fotografía, música, danza, cine y culturas del mundo.
 
 ---
 
@@ -105,6 +115,7 @@ Abre `http://localhost:5173`.
 8. **Eliminación:** después de cada ronda, los activos votan en secreto. El más votado queda eliminado y pasa a espectador.
 9. **Relámpago:** la primera respuesta cierra la pregunta. Sin respuesta: −10 a todos los activos. Sin eliminación.
 10. **Resultados:** se muestra el ganador y la tabla final. Solo el anfitrión puede volver a configurar y reiniciar.
+11. **Cerrar o salir:** el anfitrión puede cerrar la sala desde el lobby o los resultados si la partida no está en curso (o si ya no queda nadie dentro). Cualquier jugador puede salir en cualquier momento con el botón **Salir**.
 
 ### Orden de turnos
 
@@ -198,7 +209,7 @@ El proyecto usa dos mecanismos complementarios:
 1. **Supabase Realtime Broadcast:** tras cada acción, el cliente emite un ping al canal `room:<roomId>`; los demás clientes reciben el evento y piden el estado autoritativo a la Edge Function.
 2. **Polling de respaldo cada 3,5 s** y al recuperar el foco de la ventana.
 
-El estado de la partida siempre se lee desde la Edge Function; los eventos de Realtime no contienen datos sensibles. Si Realtime falla, el juego sigue funcionando por polling.
+El estado de la partida siempre se lee desde la Edge Function; los eventos de Realtime no contienen datos sensibles. Si Realtime falla, el juego sigue funcionando por polling. Al cerrar una sala se emite el evento `closed`; si no llega, el polling detecta que la sala ya no existe.
 
 > Se intentó Postgres Changes/CDC, pero en este proyecto los eventos no llegaron al cliente; por eso se usa Broadcast.
 
@@ -240,6 +251,8 @@ Migraciones en `supabase/migrations/`:
 10. `race_mode_fk_indexes` — índices de claves foráneas del modo Relámpago.
 11. `global_timer_flags_invites_schema` — timer global, país, unicidad de preguntas e invitaciones.
 12. `timer_scoring_flags_invites_functions` — avance con timer, puntos decrecientes, penalización, presencia e invitaciones.
+13. `question_keys_topic` — normalización de enunciados, índice único y metadato de tema.
+14. `close_room` — cierre de sala por el anfitrión con validación de partida en curso y jugadores dentro.
 
 La Edge Function está en `supabase/functions/api/index.ts` y se despliega con `verify_jwt = false` porque usa autenticación propia por token de jugador.
 
@@ -264,8 +277,13 @@ data/questions/cultura-general.json
 data/questions/videojuegos.json
 data/questions/series-90.json
 data/questions.json
+data/questions/general-5000/      # 20 lotes fuente
+data/questions/general-5000.json  # 5.000 seleccionadas
+data/questions/context-fixes.json # 206 correcciones de contexto
 data/questions/parts/*.json
 data/questions.report.json
+data/questions/general-5000.report.json
+data/questions/general-5000.selected.report.json
 supabase/seed/questions.sql
 ```
 
@@ -274,13 +292,19 @@ Validar:
 ```bash
 npm run validate:questions
 npm run validate:questions:final
+npm run validate:general-5000
+npm run audit:ambiguity
 ```
 
-Regenerar consolidado y SQL:
+Regenerar consolidado, correcciones y banco ampliado:
 
 ```bash
+npm run merge:context-fixes
 npm run merge:questions
+npm run merge:general-5000
 ```
+
+> El banco final en Supabase es de **6.050** preguntas. `questions.question_key` impide duplicados normalizados.
 
 Cargar a Supabase con una clave secreta (solo para administración):
 
@@ -313,6 +337,14 @@ Crea jugadores y salas reales, juega una partida clásica, una de eliminación y
 npm run test:smoke
 ```
 
+### Cierre de sala y salida
+
+```bash
+npm run test:room-close
+```
+
+Valida que solo el anfitrión cierre la sala, que no se pueda cerrar con una partida en curso y jugadores dentro, y que un jugador pueda salir en cualquier momento.
+
 ### Realtime
 
 ```bash
@@ -329,6 +361,7 @@ npm run dev
 npm run test:e2e         # Clásico
 npm run test:e2e:race    # Relámpago, timer y sonido
 npm run test:e2e:social  # Bandera, emoji, invitación, chat y timeout
+npm run test:e2e:close-room # Cierre de sala y salida desde el lobby
 npm run test:chat        # Chat por Broadcast
 ```
 

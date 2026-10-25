@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-1781",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué orgánulo celular realiza la respiración aerobia y genera ATP en las células eucariotas?",
+    "options": [
+      "Mitocondria",
+      "Cloroplasto",
+      "Ribosoma",
+      "Núcleo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La mitocondria realiza la respiración celular y genera la mayor parte del ATP de la célula."
+  },
+  {
+    "id": "cg-1782",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué molécula almacena la información genética en muchos seres vivos?",
+    "options": [
+      "ARN",
+      "ADN",
+      "Proteína",
+      "Lípido"
+    ],
+    "correctIndex": 1,
+    "explanation": "El ADN contiene las instrucciones hereditarias codificadas en su secuencia de nucleótidos."
+  },
+  {
+    "id": "cg-1783",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué proceso permite a las plantas verdes transformar la luz solar en energía química?",
+    "options": [
+      "Respiración",
+      "Fermentación",
+      "Fotosíntesis",
+      "Digestión"
+    ],
+    "correctIndex": 2,
+    "explanation": "En la fotosíntesis, la energía luminosa se usa para sintetizar glucosa a partir de dióxido de carbono y agua."
+  },
+  {
+    "id": "cg-1784",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué pigmento capta la luz y da el color verde a las hojas?",
+    "options": [
+      "Caroteno",
+      "Hemoglobina",
+      "Melanina",
+      "Clorofila"
+    ],
+    "correctIndex": 3,
+    "explanation": "La clorofila absorbe principalmente luz roja y azul y refleja el verde."
+  },
+  {
+    "id": "cg-1785",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué naturalista británico propuso la teoría de la evolución por selección natural en el siglo XIX?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Carl Linneo",
+      "Jean-Baptiste Lamarck"
+    ],
+    "correctIndex": 0,
+    "explanation": "Charles Darwin presentó la selección natural en El origen de las especies, publicado en 1859."
+  },
+  {
+    "id": "cg-1786",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la célula que carece de un núcleo definido?",
+    "options": [
+      "Eucariota",
+      "Procariota",
+      "Animal",
+      "Vegetal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las células procariotas, como las bacterias, no tienen núcleo delimitado por membrana."
+  },
+  {
+    "id": "cg-1787",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿A qué reino pertenecen los hongos?",
+    "options": [
+      "Plantae",
+      "Animalia",
+      "Fungi",
+      "Protista"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los hongos forman el reino Fungi y se alimentan absorbiendo nutrientes del medio."
+  },
+  {
+    "id": "cg-1788",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué órgano bombea la sangre a través del cuerpo humano?",
+    "options": [
+      "Hígado",
+      "Pulmón",
+      "Riñón",
+      "Corazón"
+    ],
+    "correctIndex": 3,
+    "explanation": "El corazón impulsa la sangre por los vasos sanguíneos mediante contracciones rítmicas."
+  },
+  {
+    "id": "cg-1789",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué gas necesitan los animales para obtener energía mediante la respiración celular?",
+    "options": [
+      "Oxígeno",
+      "Nitrógeno",
+      "Dióxido de carbono",
+      "Hidrógeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "La respiración aerobia utiliza oxígeno para oxidar nutrientes y liberar energía."
+  },
+  {
+    "id": "cg-1790",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué estructura conecta al feto con la placenta durante la gestación?",
+    "options": [
+      "Trompa de Falopio",
+      "Cordón umbilical",
+      "Saco amniótico",
+      "Útero"
+    ],
+    "correctIndex": 1,
+    "explanation": "El cordón umbilical contiene vasos que transportan nutrientes y desechos entre feto y placenta."
+  },
+  {
+    "id": "cg-1791",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Cuántos cromosomas tiene una célula somática humana normal?",
+    "options": [
+      "23",
+      "44",
+      "46",
+      "48"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las células somáticas humanas son diploides y contienen 23 pares de cromosomas, es decir, 46."
+  },
+  {
+    "id": "cg-1792",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué rama de la biología estudia la transmisión de caracteres hereditarios?",
+    "options": [
+      "Ecología",
+      "Taxonomía",
+      "Fisiología",
+      "Genética"
+    ],
+    "correctIndex": 3,
+    "explanation": "La genética estudia cómo se heredan y varían los rasgos entre generaciones."
+  },
+  {
+    "id": "cg-1793",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero marino respira mediante pulmones y amamanta a sus crías?",
+    "options": [
+      "Ballena",
+      "Tiburón",
+      "Atún",
+      "Pulpo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las ballenas son mamíferos: respiran aire, son vivíparas y alimentan a sus crías con leche."
+  },
+  {
+    "id": "cg-1794",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué parte de una planta vascular absorbe agua y minerales del suelo?",
+    "options": [
+      "Hoja",
+      "Raíz",
+      "Flor",
+      "Fruto"
+    ],
+    "correctIndex": 1,
+    "explanation": "La raíz fija la planta y absorbe agua y sales minerales mediante los pelos radicales."
+  },
+  {
+    "id": "cg-1795",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué proceso de división permite a una célula eucariota originar dos células hijas con la misma información genética?",
+    "options": [
+      "Meiosis",
+      "Fecundación",
+      "Mitosis",
+      "Conjugación"
+    ],
+    "correctIndex": 2,
+    "explanation": "La mitosis produce dos células hijas genéticamente idénticas a la célula progenitora."
+  },
+  {
+    "id": "cg-1796",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Cómo se denomina el organismo capaz de fabricar su propio alimento a partir de sustancias inorgánicas?",
+    "options": [
+      "Heterótrofo",
+      "Saprófito",
+      "Parásito",
+      "Autótrofo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los organismos autótrofos, como las plantas, producen materia orgánica a partir de compuestos inorgánicos."
+  },
+  {
+    "id": "cg-1797",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad estructural y funcional básica de todos los seres vivos?",
+    "options": [
+      "Célula",
+      "Tejido",
+      "Órgano",
+      "Molécula"
+    ],
+    "correctIndex": 0,
+    "explanation": "La teoría celular establece que todos los organismos están formados por una o más células."
+  },
+  {
+    "id": "cg-1798",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué botánico alemán formuló la teoría celular junto con Theodor Schwann?",
+    "options": [
+      "Robert Hooke",
+      "Matthias Schleiden",
+      "Rudolf Virchow",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Schleiden y Schwann propusieron en 1838-1839 que plantas y animales están formados por células."
+  },
+  {
+    "id": "cg-1799",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué vitamina se sintetiza en la piel humana con ayuda de la luz solar?",
+    "options": [
+      "Vitamina C",
+      "Vitamina A",
+      "Vitamina D",
+      "Vitamina B12"
+    ],
+    "correctIndex": 2,
+    "explanation": "La radiación ultravioleta permite convertir un derivado del colesterol en vitamina D en la piel."
+  },
+  {
+    "id": "cg-1800",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué grupo de vertebrados se caracteriza por tener plumas y poner huevos?",
+    "options": [
+      "Mamíferos",
+      "Reptiles",
+      "Anfibios",
+      "Aves"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las aves son vertebrados con plumas, pico y reproducción ovípara."
+  },
+  {
+    "id": "cg-1801",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué sistema del cuerpo humano se especializa en defenderlo de infecciones?",
+    "options": [
+      "Inmunitario",
+      "Digestivo",
+      "Respiratorio",
+      "Endocrino"
+    ],
+    "correctIndex": 0,
+    "explanation": "El sistema inmunitario reconoce y elimina patógenos y células anómalas."
+  },
+  {
+    "id": "cg-1802",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué órgano produce la bilis que ayuda a digerir las grasas?",
+    "options": [
+      "Páncreas",
+      "Hígado",
+      "Estómago",
+      "Riñón"
+    ],
+    "correctIndex": 1,
+    "explanation": "El hígado produce la bilis, que emulsiona las grasas en el intestino delgado."
+  },
+  {
+    "id": "cg-1803",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la relación entre dos especies en la que ambas obtienen beneficio?",
+    "options": [
+      "Parasitismo",
+      "Comensalismo",
+      "Mutualismo",
+      "Competencia"
+    ],
+    "correctIndex": 2,
+    "explanation": "En el mutualismo, las dos especies implicadas obtienen ventajas de la interacción."
+  },
+  {
+    "id": "cg-1804",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué reptil es famoso por cambiar de color para regular su temperatura y camuflarse?",
+    "options": [
+      "Iguana",
+      "Cocodrilo",
+      "Serpiente",
+      "Camaleón"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los camaleones modifican la pigmentación de su piel y también la usan para comunicarse."
+  },
+  {
+    "id": "cg-1805",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué estructura del ojo regula la cantidad de luz que entra mediante la contracción de sus músculos?",
+    "options": [
+      "Iris",
+      "Retina",
+      "Córnea",
+      "Cristalino"
+    ],
+    "correctIndex": 0,
+    "explanation": "El iris ajusta el tamaño de la pupila y controla así la entrada de luz."
+  },
+  {
+    "id": "cg-1806",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué proteína de los glóbulos rojos transporta oxígeno por la sangre?",
+    "options": [
+      "Insulina",
+      "Hemoglobina",
+      "Colágeno",
+      "Queratina"
+    ],
+    "correctIndex": 1,
+    "explanation": "La hemoglobina se une al oxígeno en los pulmones y lo libera en los tejidos."
+  },
+  {
+    "id": "cg-1807",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿En qué obra de 1859 Charles Darwin expuso su teoría de la evolución?",
+    "options": [
+      "El origen del hombre",
+      "Viaje de un naturalista",
+      "El origen de las especies",
+      "Principios de geología"
+    ],
+    "correctIndex": 2,
+    "explanation": "El origen de las especies presentó la selección natural como mecanismo de la evolución."
+  },
+  {
+    "id": "cg-1808",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué grupo de vertebrados incluye a las ranas, los sapos y las salamandras?",
+    "options": [
+      "Reptiles",
+      "Peces",
+      "Mamíferos",
+      "Anfibios"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los anfibios tienen piel húmeda y suelen pasar de una fase larvaria acuática a la vida adulta."
+  },
+  {
+    "id": "cg-1809",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué organismos microscópicos forman la base de las redes alimenticias en los océanos?",
+    "options": [
+      "Fitoplancton",
+      "Zooplancton",
+      "Bacterias",
+      "Hongos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El fitoplancton realiza fotosíntesis y produce una gran parte del oxígeno y de la materia orgánica marina."
+  },
+  {
+    "id": "cg-1810",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe el conjunto de seres vivos y el medio físico en el que interactúan?",
+    "options": [
+      "Población",
+      "Ecosistema",
+      "Comunidad",
+      "Bioma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un ecosistema integra la comunidad de organismos y los factores abióticos de su entorno."
+  },
+  {
+    "id": "cg-1811",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué animal marino es un invertebrado con ocho brazos?",
+    "options": [
+      "Delfín",
+      "Tiburón",
+      "Pulpo",
+      "Medusa"
+    ],
+    "correctIndex": 2,
+    "explanation": "El pulpo es un molusco cefalópodo con ocho brazos provistos de ventosas."
+  },
+  {
+    "id": "cg-1812",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué grupo de animales se caracteriza por producir leche para alimentar a sus crías?",
+    "options": [
+      "Aves",
+      "Reptiles",
+      "Anfibios",
+      "Mamíferos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las glándulas mamarias son una característica exclusiva de los mamíferos."
+  },
+  {
+    "id": "cg-1813",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué órgano de la planta realiza la fotosíntesis de forma principal?",
+    "options": [
+      "Hoja",
+      "Raíz",
+      "Tallo",
+      "Flor"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hoja concentra cloroplastos y estomas, las estructuras necesarias para la fotosíntesis."
+  },
+  {
+    "id": "cg-1814",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de célula posee un núcleo rodeado por una membrana?",
+    "options": [
+      "Procariota",
+      "Eucariota",
+      "Bacteriana",
+      "Viral"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las células eucariotas tienen un núcleo que encierra el material genético."
+  },
+  {
+    "id": "cg-1815",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué científico británico descubrió la penicilina en 1928?",
+    "options": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Alexander Fleming",
+      "Edward Jenner"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fleming observó que el hongo Penicillium inhibía el crecimiento de bacterias."
+  },
+  {
+    "id": "cg-1816",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué parásito unicelular transmite el mosquito Anopheles y causa la malaria?",
+    "options": [
+      "Trypanosoma",
+      "Giardia",
+      "Toxoplasma",
+      "Plasmodium"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las especies de Plasmodium son protozoos parásitos transmitidos por mosquitos del género Anopheles."
+  },
+  {
+    "id": "cg-1817",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero australiano cría a sus crías en una bolsa marsupial?",
+    "options": [
+      "Canguro",
+      "Elefante",
+      "Ballena",
+      "Caballo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El canguro es un marsupial: la cría completa su desarrollo en el marsupio materno."
+  },
+  {
+    "id": "cg-1818",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué estructura de la célula eucariota alberga los cromosomas?",
+    "options": [
+      "Membrana",
+      "Núcleo",
+      "Citoplasma",
+      "Ribosoma"
+    ],
+    "correctIndex": 1,
+    "explanation": "El núcleo contiene el ADN organizado en cromosomas y está rodeado por una envoltura nuclear."
+  },
+  {
+    "id": "cg-1819",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué proceso vegetal libera vapor de agua a través de las hojas?",
+    "options": [
+      "Fotosíntesis",
+      "Germinación",
+      "Transpiración",
+      "Polinización"
+    ],
+    "correctIndex": 2,
+    "explanation": "La transpiración expulsa agua por los estomas y ayuda a regular la temperatura de la planta."
+  },
+  {
+    "id": "cg-1820",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué órgano filtra la sangre y produce la orina?",
+    "options": [
+      "Hígado",
+      "Vejiga",
+      "Páncreas",
+      "Riñón"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los riñones filtran la sangre, reabsorben sustancias útiles y forman la orina."
+  },
+  {
+    "id": "cg-1821",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué término designa la variedad de especies y ecosistemas de una región?",
+    "options": [
+      "Biodiversidad",
+      "Biomasa",
+      "Población",
+      "Taxonomía"
+    ],
+    "correctIndex": 0,
+    "explanation": "La biodiversidad comprende la diversidad genética, de especies y de ecosistemas."
+  },
+  {
+    "id": "cg-1822",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué reptil de gran tamaño tiene hocico alargado y vive en ríos y pantanos?",
+    "options": [
+      "Tortuga",
+      "Cocodrilo",
+      "Lagarto",
+      "Serpiente"
+    ],
+    "correctIndex": 1,
+    "explanation": "El cocodrilo es un reptil semiacuático adaptado a la depredación en aguas dulces."
+  },
+  {
+    "id": "cg-1823",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de reproducción genera descendencia genéticamente idéntica al progenitor?",
+    "options": [
+      "Sexual",
+      "Cruzada",
+      "Asexual",
+      "Alternante"
+    ],
+    "correctIndex": 2,
+    "explanation": "En la reproducción asexual, la descendencia procede de un solo progenitor sin combinación genética."
+  },
+  {
+    "id": "cg-1824",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad básica que forma las proteínas?",
+    "options": [
+      "Nucleótido",
+      "Glucosa",
+      "Ácido graso",
+      "Aminoácido"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las proteínas son polímeros de aminoácidos unidos por enlaces peptídicos."
+  },
+  {
+    "id": "cg-1825",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿En qué órgano del sistema digestivo se absorben principalmente los nutrientes?",
+    "options": [
+      "Intestino delgado",
+      "Estómago",
+      "Esófago",
+      "Colon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las vellosidades del intestino delgado aumentan la superficie de absorción de nutrientes."
+  },
+  {
+    "id": "cg-1826",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué grupo de vertebrados respira mediante branquias durante toda su vida?",
+    "options": [
+      "Anfibios",
+      "Peces",
+      "Reptiles",
+      "Aves"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los peces obtienen oxígeno del agua a través de las branquias."
+  },
+  {
+    "id": "cg-1827",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué es un fósil?",
+    "options": [
+      "Mineral formado por lava",
+      "Organismo vivo microscópico",
+      "Resto o huella conservada de un organismo antiguo",
+      "Roca sin restos biológicos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los fósiles son restos, impresiones o marcas de seres vivos que vivieron en el pasado."
+  },
+  {
+    "id": "cg-1828",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué naturalista sueco estableció el sistema de nomenclatura binomial?",
+    "options": [
+      "Charles Darwin",
+      "Georges Cuvier",
+      "Ernst Haeckel",
+      "Carl Linneo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Linneo asignó a cada especie un nombre formado por género y especie en latín."
+  },
+  {
+    "id": "cg-1829",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué orgánulo contiene enzimas digestivas y degrada materiales celulares?",
+    "options": [
+      "Lisosoma",
+      "Ribosoma",
+      "Núcleo",
+      "Aparato de Golgi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los lisosomas digieren macromoléculas y orgánulos dañados mediante sus enzimas."
+  },
+  {
+    "id": "cg-1830",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué hormona producida por el páncreas reduce la glucosa en sangre?",
+    "options": [
+      "Glucagón",
+      "Insulina",
+      "Adrenalina",
+      "Tiroxina"
+    ],
+    "correctIndex": 1,
+    "explanation": "La insulina facilita la entrada de glucosa en las células y reduce su concentración sanguínea."
+  },
+  {
+    "id": "cg-1831",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué parte de la flor produce el polen?",
+    "options": [
+      "Estigma",
+      "Ovario",
+      "Antera",
+      "Pétalo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La antera, situada en el extremo del estambre, contiene los granos de polen."
+  },
+  {
+    "id": "cg-1832",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué animal es un reptil que se desplaza lentamente y lleva un caparazón?",
+    "options": [
+      "Rana",
+      "Salamandra",
+      "Cocodrilo",
+      "Tortuga"
+    ],
+    "correctIndex": 3,
+    "explanation": "La tortuga es un reptil cuyo cuerpo está protegido por un caparazón óseo."
+  },
+  {
+    "id": "cg-1833",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe el lugar donde vive naturalmente una especie?",
+    "options": [
+      "Hábitat",
+      "Nicho",
+      "Bioma",
+      "Ecosistema"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hábitat es el espacio con las condiciones que una especie necesita para vivir."
+  },
+  {
+    "id": "cg-1834",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué reino incluye organismos unicelulares como las amebas y los paramecios?",
+    "options": [
+      "Fungi",
+      "Protista",
+      "Monera",
+      "Plantae"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los protistas son eucariotas generalmente unicelulares que no encajan en hongos, plantas o animales."
+  },
+  {
+    "id": "cg-1835",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué tejido vegetal conduce agua y minerales desde la raíz hacia las hojas?",
+    "options": [
+      "Floema",
+      "Colénquima",
+      "Xilema",
+      "Epidermis"
+    ],
+    "correctIndex": 2,
+    "explanation": "El xilema transporta la savia bruta, formada por agua y sales minerales."
+  },
+  {
+    "id": "cg-1836",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué animal tiene un esqueleto externo llamado exoesqueleto?",
+    "options": [
+      "Estrella de mar",
+      "Medusa",
+      "Lombriz",
+      "Cangrejo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los crustáceos, como el cangrejo, poseen un exoesqueleto de quitina que deben mudar para crecer."
+  },
+  {
+    "id": "cg-1837",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe la transformación de una larva en un adulto de forma muy distinta?",
+    "options": [
+      "Metamorfosis",
+      "Mutación",
+      "Gemación",
+      "Regeneración"
+    ],
+    "correctIndex": 0,
+    "explanation": "La metamorfosis implica cambios profundos de forma y fisiología entre larva y adulto."
+  },
+  {
+    "id": "cg-1838",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué órganos permiten el intercambio de gases en los mamíferos?",
+    "options": [
+      "Branquias",
+      "Pulmones",
+      "Tráqueas",
+      "Piel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los pulmones contienen alvéolos donde el oxígeno pasa a la sangre y se expulsa dióxido de carbono."
+  },
+  {
+    "id": "cg-1839",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué animal marino pertenece al grupo de los equinodermos?",
+    "options": [
+      "Medusa",
+      "Pulpo",
+      "Estrella de mar",
+      "Esponja"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las estrellas de mar son equinodermos, con simetría radial y un esqueleto de placas calcáreas."
+  },
+  {
+    "id": "cg-1840",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué término describe a un animal que caza y come a otros animales?",
+    "options": [
+      "Herbívoro",
+      "Detritívoro",
+      "Mutualista",
+      "Depredador"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un depredador captura y consume a otros organismos para alimentarse."
+  },
+  {
+    "id": "cg-1841",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué médico austriaco descubrió los grupos sanguíneos ABO?",
+    "options": [
+      "Karl Landsteiner",
+      "Alexander Fleming",
+      "Robert Koch",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Landsteiner describió en 1901 los grupos A, B, AB y O, base de las transfusiones seguras."
+  },
+  {
+    "id": "cg-1842",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué vitamina se encuentra en altas concentraciones en naranjas y limones?",
+    "options": [
+      "Vitamina D",
+      "Vitamina C",
+      "Vitamina K",
+      "Vitamina B12"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los cítricos son una fuente importante de vitamina C, necesaria para formar colágeno."
+  },
+  {
+    "id": "cg-1843",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué estructura móvil permite desplazarse a muchos espermatozoides?",
+    "options": [
+      "Núcleo",
+      "Vacuola",
+      "Flagelo",
+      "Pared celular"
+    ],
+    "correctIndex": 2,
+    "explanation": "El flagelo del espermatozoide impulsa la célula hacia el óvulo."
+  },
+  {
+    "id": "cg-1844",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe el transporte de polen desde la antera hasta el estigma?",
+    "options": [
+      "Fecundación",
+      "Germinación",
+      "Dispersión",
+      "Polinización"
+    ],
+    "correctIndex": 3,
+    "explanation": "La polinización traslada el polen hasta el estigma de una flor, donde puede germinar."
+  },
+  {
+    "id": "cg-1845",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué anfibio de piel húmeda y cola en estado adulto vive cerca del agua?",
+    "options": [
+      "Salamandra",
+      "Lagartija",
+      "Tortuga",
+      "Rana"
+    ],
+    "correctIndex": 0,
+    "explanation": "La salamandra conserva la cola en su etapa adulta y depende de ambientes húmedos."
+  },
+  {
+    "id": "cg-1846",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Dónde se producen los glóbulos rojos en un adulto sano?",
+    "options": [
+      "Hígado",
+      "Médula ósea",
+      "Bazo",
+      "Pulmones"
+    ],
+    "correctIndex": 1,
+    "explanation": "La médula ósea roja alberga las células madre que originan los glóbulos rojos."
+  },
+  {
+    "id": "cg-1847",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de relación ecológica se establece cuando dos especies viven juntas de forma estrecha?",
+    "options": [
+      "Migración",
+      "Competencia",
+      "Simbiosis",
+      "Sucesión"
+    ],
+    "correctIndex": 2,
+    "explanation": "La simbiosis engloba relaciones persistentes entre organismos de especies distintas."
+  },
+  {
+    "id": "cg-1848",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué organismo obtiene energía descomponiendo restos de otros seres vivos?",
+    "options": [
+      "Productor",
+      "Consumidor primario",
+      "Depredador",
+      "Descomponedor"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los descomponedores reciclan nutrientes al degradar restos orgánicos."
+  },
+  {
+    "id": "cg-1849",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué conjunto de individuos de la misma especie comparte un área determinada?",
+    "options": [
+      "Población",
+      "Comunidad",
+      "Ecosistema",
+      "Bioma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una población está formada por individuos de una misma especie que ocupan un área común."
+  },
+  {
+    "id": "cg-1850",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué artrópodo tiene ocho patas y suele tejer telarañas?",
+    "options": [
+      "Insecto",
+      "Araña",
+      "Ciempiés",
+      "Caracol"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las arañas son arácnidos, con ocho patas y glándulas que producen seda."
+  },
+  {
+    "id": "cg-1851",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe el conjunto de poblaciones de distintas especies que conviven en un área determinada?",
+    "options": [
+      "Población",
+      "Ecosistema",
+      "Comunidad",
+      "Bioma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una comunidad ecológica agrupa las poblaciones de diferentes especies que comparten un área."
+  },
+  {
+    "id": "cg-1852",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe la secuencia de organismos por la que fluye la energía en un ecosistema?",
+    "options": [
+      "Ciclo del agua",
+      "Sucesión ecológica",
+      "Pirámide de población",
+      "Cadena alimenticia"
+    ],
+    "correctIndex": 3,
+    "explanation": "La cadena alimenticia muestra cómo la energía pasa de productores a consumidores."
+  },
+  {
+    "id": "cg-1853",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué células sanguíneas transportan oxígeno gracias a la hemoglobina?",
+    "options": [
+      "Glóbulos rojos",
+      "Glóbulos blancos",
+      "Plaquetas",
+      "Linfocitos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los glóbulos rojos o eritrocitos contienen hemoglobina y transportan oxígeno."
+  },
+  {
+    "id": "cg-1854",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué monje austriaco formuló las leyes básicas de la herencia estudiando guisantes?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Carl Linneo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mendel experimentó con guisantes y describió la segregación y la distribución independiente de los caracteres."
+  },
+  {
+    "id": "cg-1855",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué primate comparte con los humanos un ancestro común reciente y carece de cola?",
+    "options": [
+      "Babuino",
+      "Lémur",
+      "Chimpancé",
+      "Tití"
+    ],
+    "correctIndex": 2,
+    "explanation": "El chimpancé es un gran simio sin cola y uno de los parientes vivos más cercanos a los humanos."
+  },
+  {
+    "id": "cg-1856",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué estructura celular controla qué sustancias entran y salen de la célula?",
+    "options": [
+      "Núcleo",
+      "Pared celular",
+      "Citoplasma",
+      "Membrana plasmática"
+    ],
+    "correctIndex": 3,
+    "explanation": "La membrana plasmática es selectivamente permeable y regula el intercambio con el exterior."
+  },
+  {
+    "id": "cg-1857",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe una característica heredable que mejora la supervivencia en un ambiente?",
+    "options": [
+      "Adaptación",
+      "Mutación",
+      "Extinción",
+      "Migración"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una adaptación es un rasgo que aumenta la probabilidad de sobrevivir y reproducirse."
+  },
+  {
+    "id": "cg-1858",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué grupo de plantas produce flores y frutos que protegen las semillas?",
+    "options": [
+      "Gimnospermas",
+      "Angiospermas",
+      "Helechos",
+      "Musgos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las angiospermas son plantas con flores cuyos óvulos se desarrollan dentro de un ovario."
+  },
+  {
+    "id": "cg-1859",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué molusco terrestre o marino suele tener una concha en espiral?",
+    "options": [
+      "Estrella de mar",
+      "Cangrejo",
+      "Caracol",
+      "Erizo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Muchos caracoles poseen una concha helicoidal que les sirve de protección."
+  },
+  {
+    "id": "cg-1860",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué disciplina estudia las relaciones entre los seres vivos y su ambiente?",
+    "options": [
+      "Genética",
+      "Anatomía",
+      "Taxonomía",
+      "Ecología"
+    ],
+    "correctIndex": 3,
+    "explanation": "La ecología analiza cómo interactúan los organismos entre sí y con su entorno."
+  },
+  {
+    "id": "cg-1861",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué agente infeccioso está formado por material genético rodeado de una cápsula proteica y no es una célula?",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Protozoo",
+      "Hongo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los virus son partículas acelulares que necesitan una célula hospedadora para replicarse."
+  },
+  {
+    "id": "cg-1862",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero marino se orienta y comunica mediante ecolocalización?",
+    "options": [
+      "Foca",
+      "Delfín",
+      "Manatí",
+      "Nutria"
+    ],
+    "correctIndex": 1,
+    "explanation": "El delfín emite sonidos y escucha sus ecos para localizar objetos y presas."
+  },
+  {
+    "id": "cg-1863",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el tipo de reproducción en el que el embrión se desarrolla dentro de un huevo fuera del cuerpo materno?",
+    "options": [
+      "Vivípara",
+      "Ovovivípara",
+      "Ovípara",
+      "Marsupial"
+    ],
+    "correctIndex": 2,
+    "explanation": "En la reproducción ovípara el desarrollo embrionario ocurre en un huevo puesto en el exterior."
+  },
+  {
+    "id": "cg-1864",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe la desaparición total de una especie?",
+    "options": [
+      "Migración",
+      "Endemismo",
+      "Especiación",
+      "Extinción"
+    ],
+    "correctIndex": 3,
+    "explanation": "La extinción ocurre cuando muere el último individuo de una especie."
+  },
+  {
+    "id": "cg-1865",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué científico británico propuso, junto con James Watson, un modelo de doble hélice para el ADN?",
+    "options": [
+      "Francis Crick",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Carl Woese"
+    ],
+    "correctIndex": 0,
+    "explanation": "Crick y James Watson propusieron en 1953 el modelo de doble hélice del ADN."
+  },
+  {
+    "id": "cg-1866",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué sustancia producida por hongos o bacterias puede combatir infecciones bacterianas?",
+    "options": [
+      "Vacuna",
+      "Antibiótico",
+      "Anticuerpo",
+      "Vitamina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los antibióticos inhiben el crecimiento o destruyen bacterias sensibles."
+  },
+  {
+    "id": "cg-1867",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe el conjunto de organismos microscópicos que flotan en el agua?",
+    "options": [
+      "Nécton",
+      "Bentos",
+      "Plancton",
+      "Suelo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El plancton agrupa organismos que viven suspendidos y se desplazan principalmente con las corrientes."
+  },
+  {
+    "id": "cg-1868",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué parte de la planta sostiene las hojas y transporta sustancias entre raíces y hojas?",
+    "options": [
+      "Raíz",
+      "Flor",
+      "Semilla",
+      "Tallo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El tallo mantiene la estructura de la planta y contiene los tejidos conductores."
+  },
+  {
+    "id": "cg-1869",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué estado de letargo permite a algunos animales ahorrar energía durante el invierno?",
+    "options": [
+      "Hibernación",
+      "Migración",
+      "Metamorfosis",
+      "Estivación"
+    ],
+    "correctIndex": 0,
+    "explanation": "Durante la hibernación el metabolismo desciende y el animal consume menos energía."
+  },
+  {
+    "id": "cg-1870",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué órgano forma parte del sistema nervioso central y coordina las funciones del cuerpo?",
+    "options": [
+      "Corazón",
+      "Cerebro",
+      "Hígado",
+      "Pulmón"
+    ],
+    "correctIndex": 1,
+    "explanation": "El cerebro procesa información y coordina respuestas voluntarias e involuntarias."
+  },
+  {
+    "id": "cg-1871",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué pez tiene esqueleto de cartílago en lugar de hueso?",
+    "options": [
+      "Atún",
+      "Salmón",
+      "Tiburón",
+      "Sardina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los tiburones pertenecen a los peces cartilaginosos, junto con las rayas."
+  },
+  {
+    "id": "cg-1872",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué segmento de ADN contiene la información para fabricar una proteína o regular un rasgo?",
+    "options": [
+      "Cromosoma",
+      "Ribosoma",
+      "Enzima",
+      "Gen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un gen es una región del ADN con información para un producto funcional o la regulación de un rasgo."
+  },
+  {
+    "id": "cg-1873",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué bioma se caracteriza por temperaturas cálidas, lluvias abundantes y enorme biodiversidad?",
+    "options": [
+      "Selva tropical",
+      "Desierto",
+      "Tundra",
+      "Taiga"
+    ],
+    "correctIndex": 0,
+    "explanation": "La selva tropical húmeda alberga una diversidad biológica muy alta gracias a su clima cálido y lluvioso."
+  },
+  {
+    "id": "cg-1874",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de animal se alimenta exclusivamente de carne?",
+    "options": [
+      "Herbívoro",
+      "Carnívoro",
+      "Omnívoro",
+      "Frugívoro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un carnívoro obtiene su alimento principalmente de otros animales."
+  },
+  {
+    "id": "cg-1875",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué científico francés refutó la generación espontánea con experimentos de matraces con cuello de cisne?",
+    "options": [
+      "Robert Hooke",
+      "Charles Darwin",
+      "Louis Pasteur",
+      "Gregor Mendel"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pasteur demostró que los microorganismos procedían del aire y no se generaban espontáneamente."
+  },
+  {
+    "id": "cg-1876",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué técnica produce una copia genéticamente idéntica de un organismo?",
+    "options": [
+      "Hibridación",
+      "Mutagénesis",
+      "Polinización",
+      "Clonación"
+    ],
+    "correctIndex": 3,
+    "explanation": "La clonación genera individuos con el mismo material genético nuclear."
+  },
+  {
+    "id": "cg-1877",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero rumiante digiere los alimentos en un estómago con varias cámaras?",
+    "options": [
+      "Vaca",
+      "Cerdo",
+      "Caballo",
+      "Perro"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vaca es un rumiante con un estómago dividido en varios compartimentos."
+  },
+  {
+    "id": "cg-1878",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe el papel funcional de una especie dentro de su ecosistema?",
+    "options": [
+      "Hábitat",
+      "Nicho ecológico",
+      "Población",
+      "Bioma"
+    ],
+    "correctIndex": 1,
+    "explanation": "El nicho ecológico describe cómo una especie obtiene recursos e interactúa con otras."
+  },
+  {
+    "id": "cg-1879",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué gran región terrestre se define por su clima y sus comunidades vegetales características?",
+    "options": [
+      "Población",
+      "Especie",
+      "Bioma",
+      "Gen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un bioma es una gran unidad ecológica definida por el clima y la vegetación dominante."
+  },
+  {
+    "id": "cg-1880",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué mecanismo evolutivo favorece a los individuos mejor adaptados a su ambiente?",
+    "options": [
+      "Deriva genética",
+      "Mutación al azar",
+      "Migración",
+      "Selección natural"
+    ],
+    "correctIndex": 3,
+    "explanation": "La selección natural actúa cuando ciertos rasgos heredables aumentan el éxito reproductivo."
+  },
+  {
+    "id": "cg-1881",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué órgano humano produce las hormonas tiroideas que regulan el metabolismo?",
+    "options": [
+      "Tiroides",
+      "Suprarrenal",
+      "Hipófisis",
+      "Páncreas"
+    ],
+    "correctIndex": 0,
+    "explanation": "La glándula tiroides secreta tiroxina y triyodotironina, que regulan el gasto energético."
+  },
+  {
+    "id": "cg-1882",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué estructura de la célula vegetal está formada por celulosa y da rigidez?",
+    "options": [
+      "Membrana plasmática",
+      "Pared celular",
+      "Núcleo",
+      "Cloroplasto"
+    ],
+    "correctIndex": 1,
+    "explanation": "La pared celular vegetal está compuesta principalmente por celulosa y sostiene la célula."
+  },
+  {
+    "id": "cg-1883",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué animal es un mamífero que pone huevos y vive en Australia?",
+    "options": [
+      "Canguro",
+      "Koala",
+      "Ornitorrinco",
+      "Wombat"
+    ],
+    "correctIndex": 2,
+    "explanation": "El ornitorrinco es un monotrema: un mamífero ovíparo endémico de Australia."
+  },
+  {
+    "id": "cg-1884",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "easy",
+    "question": "¿Qué orgánulo de las células vegetales contiene clorofila y realiza la fotosíntesis?",
+    "options": [
+      "Mitocondria",
+      "Ribosoma",
+      "Vacuola",
+      "Cloroplasto"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cloroplasto contiene tilacoides con clorofila donde se capta la energía luminosa."
+  },
+  {
+    "id": "cg-1885",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe el paso de agua a través de una membrana semipermeable hacia una solución más concentrada?",
+    "options": [
+      "Ósmosis",
+      "Difusión simple",
+      "Transporte activo",
+      "Endocitosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ósmosis es el movimiento de agua hacia la zona de mayor concentración de solutos."
+  },
+  {
+    "id": "cg-1886",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué enzima del núcleo copia el ADN en ARN mensajero durante la transcripción?",
+    "options": [
+      "ADN ligasa",
+      "ARN polimerasa",
+      "Helicasa",
+      "Ribosoma"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ARN polimerasa lee la cadena molde de ADN y sintetiza una molécula de ARN complementaria."
+  },
+  {
+    "id": "cg-1887",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué ley de Mendel establece que los dos alelos de un gen se separan al formar los gametos?",
+    "options": [
+      "Ley de la distribución independiente",
+      "Herencia ligada al sexo",
+      "Ley de la segregación",
+      "Dominancia incompleta"
+    ],
+    "correctIndex": 2,
+    "explanation": "La primera ley de Mendel explica que cada gameto recibe un solo alelo de cada par."
+  },
+  {
+    "id": "cg-1888",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué término designa el conjunto de genes de un organismo?",
+    "options": [
+      "Fenotipo",
+      "Cariotipo",
+      "Genoma",
+      "Genotipo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El genotipo es la combinación de alelos que posee un organismo."
+  },
+  {
+    "id": "cg-1889",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿A través de qué progenitor se heredan principalmente las mitocondrias en los mamíferos?",
+    "options": [
+      "La madre",
+      "El padre",
+      "Ambos por igual",
+      "Los abuelos paternos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El ADN mitocondrial se transmite casi exclusivamente por vía materna en los mamíferos."
+  },
+  {
+    "id": "cg-1890",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué orgánulo ensambla los aminoácidos en cadenas proteicas?",
+    "options": [
+      "Lisosoma",
+      "Ribosoma",
+      "Núcleo",
+      "Aparato de Golgi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los ribosomas traducen el ARN mensajero y unen aminoácidos para formar proteínas."
+  },
+  {
+    "id": "cg-1891",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿En qué compartimento celular se realiza el ciclo de Krebs en eucariotas?",
+    "options": [
+      "Citoplasma",
+      "Núcleo",
+      "Matriz mitocondrial",
+      "Retículo endoplasmático"
+    ],
+    "correctIndex": 2,
+    "explanation": "El ciclo de Krebs ocurre en la matriz de la mitocondria y genera NADH y FADH2."
+  },
+  {
+    "id": "cg-1892",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué molécula es la moneda energética principal de las células?",
+    "options": [
+      "ADN",
+      "Glucosa",
+      "Colesterol",
+      "ATP"
+    ],
+    "correctIndex": 3,
+    "explanation": "La hidrólisis del ATP libera energía utilizable para procesos celulares."
+  },
+  {
+    "id": "cg-1893",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Dónde se encuentran los tilacoides donde ocurre la fase luminosa de la fotosíntesis?",
+    "options": [
+      "Cloroplastos",
+      "Mitocondrias",
+      "Ribosomas",
+      "Vacuolas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los tilacoides son membranas internas de los cloroplastos ricas en clorofila y complejos fotosintéticos."
+  },
+  {
+    "id": "cg-1894",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué proceso mantiene estable el medio interno de un organismo frente a cambios externos?",
+    "options": [
+      "Metabolismo",
+      "Homeostasis",
+      "Adaptación",
+      "Mutación"
+    ],
+    "correctIndex": 1,
+    "explanation": "La homeostasis regula temperatura, pH, agua y otras variables internas dentro de rangos adecuados."
+  },
+  {
+    "id": "cg-1895",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de retroalimentación reduce el cambio inicial y ayuda a mantener el equilibrio?",
+    "options": [
+      "Positiva",
+      "Neutra",
+      "Negativa",
+      "Anticipatoria"
+    ],
+    "correctIndex": 2,
+    "explanation": "La retroalimentación negativa contrarresta una desviación y estabiliza el sistema."
+  },
+  {
+    "id": "cg-1896",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué hormona reduce la producción de orina al aumentar la reabsorción de agua en los riñones?",
+    "options": [
+      "Insulina",
+      "Glucagón",
+      "Aldosterona",
+      "ADH"
+    ],
+    "correctIndex": 3,
+    "explanation": "La hormona antidiurética aumenta la permeabilidad al agua de los conductos colectores."
+  },
+  {
+    "id": "cg-1897",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué estructura transmite el impulso nervioso entre dos neuronas?",
+    "options": [
+      "Sinapsis",
+      "Axón",
+      "Dendrita",
+      "Vaina de mielina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La sinapsis es la unión funcional donde una neurona comunica con otra célula."
+  },
+  {
+    "id": "cg-1898",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué sustancia química libera una neurona para comunicarse con otra en la sinapsis?",
+    "options": [
+      "Hormona",
+      "Neurotransmisor",
+      "Enzima",
+      "Anticuerpo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los neurotransmisores se liberan en la hendidura sináptica y se unen a receptores de la célula vecina."
+  },
+  {
+    "id": "cg-1899",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de célula sanguínea produce anticuerpos?",
+    "options": [
+      "Glóbulo rojo",
+      "Plaqueta",
+      "Linfocito B",
+      "Neutrófilo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los linfocitos B se diferencian en células plasmáticas que secretan anticuerpos."
+  },
+  {
+    "id": "cg-1900",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué molécula reconoce y se une a un antígeno específico?",
+    "options": [
+      "Enzima",
+      "Hormona",
+      "Antibiótico",
+      "Anticuerpo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los anticuerpos tienen sitios de unión complementarios a antígenos concretos."
+  },
+  {
+    "id": "cg-1901",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de inmunidad se adquiere tras una infección o una vacuna?",
+    "options": [
+      "Adquirida",
+      "Innata",
+      "Pasiva inmediata",
+      "No específica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La inmunidad adquirida o adaptativa se desarrolla tras el contacto con un antígeno."
+  },
+  {
+    "id": "cg-1902",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué fase del ciclo viral inserta el genoma viral en el ADN de la célula hospedadora?",
+    "options": [
+      "Lítica",
+      "Lisogénica",
+      "Eclipse",
+      "Ensamblaje"
+    ],
+    "correctIndex": 1,
+    "explanation": "En la fase lisogénica, el genoma viral se integra y permanece latente junto al ADN celular."
+  },
+  {
+    "id": "cg-1903",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué estructura bacteriana se tiñe de violeta en la tinción de Gram y está formada por peptidoglicano grueso?",
+    "options": [
+      "Cápsula",
+      "Flagelo",
+      "Pared celular",
+      "Membrana externa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las bacterias Gram positivas tienen una pared gruesa de peptidoglicano que retiene el colorante violeta."
+  },
+  {
+    "id": "cg-1904",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué fenómeno ocurre cuando bacterias sobreviven a un antibiótico por cambios genéticos?",
+    "options": [
+      "Fermentación",
+      "Simbiosis",
+      "Esporulación",
+      "Resistencia antibiótica"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las mutaciones o la transferencia de genes pueden hacer que las bacterias resistan un antibiótico."
+  },
+  {
+    "id": "cg-1905",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué bacterias fijan nitrógeno atmosférico en nódulos de las leguminosas?",
+    "options": [
+      "Rhizobium",
+      "Escherichia coli",
+      "Lactobacillus",
+      "Streptococcus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rhizobium forma nódulos en las raíces de leguminosas y convierte nitrógeno atmosférico en amonio."
+  },
+  {
+    "id": "cg-1906",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué asociación entre un hongo y las raíces de una planta mejora la absorción de nutrientes?",
+    "options": [
+      "Liquen",
+      "Micorriza",
+      "Nódulo",
+      "Rizoma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las micorrizas son asociaciones mutualistas entre hongos y raíces que facilitan la captación de agua y minerales."
+  },
+  {
+    "id": "cg-1907",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué organismo resulta de la simbiosis entre un hongo y un alga o cianobacteria?",
+    "options": [
+      "Micorriza",
+      "Musgo",
+      "Liquen",
+      "Helecho"
+    ],
+    "correctIndex": 2,
+    "explanation": "El liquen es una asociación estable entre un hongo y un socio fotosintético."
+  },
+  {
+    "id": "cg-1908",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de sucesión ecológica comienza en un terreno sin suelo previo, como una colada de lava?",
+    "options": [
+      "Secundaria",
+      "Regresiva",
+      "Aluvial",
+      "Primaria"
+    ],
+    "correctIndex": 3,
+    "explanation": "La sucesión primaria coloniza sustratos nuevos donde antes no existía suelo ni comunidad."
+  },
+  {
+    "id": "cg-1909",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué porcentaje aproximado de energía se transfiere de un nivel trófico al siguiente?",
+    "options": [
+      "10 %",
+      "50 %",
+      "90 %",
+      "1 %"
+    ],
+    "correctIndex": 0,
+    "explanation": "La regla del diez por ciento indica que solo una fracción pequeña de la energía pasa al siguiente nivel."
+  },
+  {
+    "id": "cg-1910",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué especie tiene un efecto desproporcionado en su ecosistema pese a su abundancia relativamente baja?",
+    "options": [
+      "Especie endémica",
+      "Especie clave",
+      "Especie invasora",
+      "Especie doméstica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Una especie clave influye en la estructura del ecosistema mucho más de lo que sugiere su biomasa."
+  },
+  {
+    "id": "cg-1911",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe el número máximo de individuos que un ambiente puede sostener de forma sostenible?",
+    "options": [
+      "Tasa de natalidad",
+      "Resistencia ambiental",
+      "Capacidad de carga",
+      "Biomasa"
+    ],
+    "correctIndex": 2,
+    "explanation": "La capacidad de carga depende de los recursos disponibles y de las condiciones del ambiente."
+  },
+  {
+    "id": "cg-1912",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué especie vive de forma natural solo en una región geográfica concreta?",
+    "options": [
+      "Invasora",
+      "Cosmopolita",
+      "Migratoria",
+      "Endémica"
+    ],
+    "correctIndex": 3,
+    "explanation": "Una especie endémica tiene un área de distribución natural restringida a un lugar determinado."
+  },
+  {
+    "id": "cg-1913",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué especie introducida fuera de su área natural puede desplazar a las especies locales?",
+    "options": [
+      "Invasora",
+      "Endémica",
+      "Nativa",
+      "Amenazada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las especies invasoras se reproducen y dispersan con facilidad y pueden alterar los ecosistemas receptores."
+  },
+  {
+    "id": "cg-1914",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué teoría explica que las islas pequeñas y aisladas albergan menos especies?",
+    "options": [
+      "Deriva continental",
+      "Biogeografía insular",
+      "Sucesión primaria",
+      "Simbiosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "La teoría de la biogeografía insular relaciona el tamaño y el aislamiento con la riqueza de especies."
+  },
+  {
+    "id": "cg-1915",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué proceso del ciclo del carbono devuelve dióxido de carbono a la atmósfera mediante la actividad de seres vivos?",
+    "options": [
+      "Fotosíntesis",
+      "Sedimentación",
+      "Respiración",
+      "Precipitación"
+    ],
+    "correctIndex": 2,
+    "explanation": "La respiración de organismos descompone materia orgánica y libera dióxido de carbono."
+  },
+  {
+    "id": "cg-1916",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué fenómeno provoca un exceso de nutrientes en el agua y un crecimiento masivo de algas?",
+    "options": [
+      "Acidificación",
+      "Salinización",
+      "Desertización",
+      "Eutrofización"
+    ],
+    "correctIndex": 3,
+    "explanation": "La eutrofización se produce por aportes excesivos de nitrógeno y fósforo, que estimulan las algas."
+  },
+  {
+    "id": "cg-1917",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué gas de efecto invernadero se libera al quemar combustibles fósiles y es absorbido por los océanos?",
+    "options": [
+      "Dióxido de carbono",
+      "Oxígeno",
+      "Nitrógeno",
+      "Argón"
+    ],
+    "correctIndex": 0,
+    "explanation": "La quema de combustibles fósiles libera dióxido de carbono, un gas que retiene calor en la atmósfera."
+  },
+  {
+    "id": "cg-1918",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué componente atmosférico protege a los seres vivos de la radiación ultravioleta?",
+    "options": [
+      "Vapor de agua troposférico",
+      "Ozono estratosférico",
+      "Dióxido de carbono",
+      "Metano"
+    ],
+    "correctIndex": 1,
+    "explanation": "La capa de ozono de la estratosfera absorbe gran parte de la radiación ultravioleta solar."
+  },
+  {
+    "id": "cg-1919",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué principio genético describe una población ideal sin cambio en las frecuencias alélicas?",
+    "options": [
+      "Selección direccional",
+      "Deriva genética",
+      "Equilibrio de Hardy-Weinberg",
+      "Flujo génico"
+    ],
+    "correctIndex": 2,
+    "explanation": "El equilibrio de Hardy-Weinberg describe frecuencias alélicas constantes bajo supuestos ideales."
+  },
+  {
+    "id": "cg-1920",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué cambio aleatorio en las frecuencias alélicas es más intenso en poblaciones pequeñas?",
+    "options": [
+      "Selección natural",
+      "Mutación dirigida",
+      "Migración",
+      "Deriva genética"
+    ],
+    "correctIndex": 3,
+    "explanation": "La deriva genética es el cambio aleatorio de frecuencias, con efectos mayores en poblaciones reducidas."
+  },
+  {
+    "id": "cg-1921",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué situación reduce drásticamente una población y provoca pérdida de diversidad genética?",
+    "options": [
+      "Cuello de botella",
+      "Flujo génico",
+      "Panmixia",
+      "Hibridación"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un cuello de botella deja pocos supervivientes y reduce la variabilidad genética de la población."
+  },
+  {
+    "id": "cg-1922",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué efecto ocurre cuando una pequeña colonia funda una nueva población con una muestra limitada de genes?",
+    "options": [
+      "Selección sexual",
+      "Efecto fundador",
+      "Deriva continental",
+      "Mutación somática"
+    ],
+    "correctIndex": 1,
+    "explanation": "El efecto fundador reduce la diversidad inicial porque la nueva población desciende de pocos individuos."
+  },
+  {
+    "id": "cg-1923",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de especiación ocurre cuando una barrera geográfica separa poblaciones?",
+    "options": [
+      "Simpátrica",
+      "Parapátrica",
+      "Alopátrica",
+      "Ecológica"
+    ],
+    "correctIndex": 2,
+    "explanation": "En la especiación alopátrica, una barrera física interrumpe el flujo génico entre poblaciones."
+  },
+  {
+    "id": "cg-1924",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué proceso evolutivo produce estructuras similares en especies no emparentadas que viven en ambientes parecidos?",
+    "options": [
+      "Divergencia",
+      "Radiación",
+      "Homología",
+      "Convergencia evolutiva"
+    ],
+    "correctIndex": 3,
+    "explanation": "La convergencia evolutiva genera adaptaciones semejantes por presiones ambientales comunes."
+  },
+  {
+    "id": "cg-1925",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de estructuras comparten un origen evolutivo común aunque tengan funciones distintas?",
+    "options": [
+      "Homólogas",
+      "Análogas",
+      "Vestigiales",
+      "Atávicas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las estructuras homólogas derivan de un antepasado común y pueden especializarse en funciones diferentes."
+  },
+  {
+    "id": "cg-1926",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué órgano humano es un ejemplo clásico de estructura vestigial?",
+    "options": [
+      "Hígado",
+      "Apéndice",
+      "Pulmón",
+      "Cerebro"
+    ],
+    "correctIndex": 1,
+    "explanation": "El apéndice es un remanente del ciego de primates ancestrales con función digestiva más amplia."
+  },
+  {
+    "id": "cg-1927",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe la diversificación rápida de una especie en muchas formas adaptadas a distintos nichos?",
+    "options": [
+      "Convergencia",
+      "Deriva",
+      "Radiación adaptativa",
+      "Especiación alopátrica"
+    ],
+    "correctIndex": 2,
+    "explanation": "La radiación adaptativa produce varias especies a partir de un ancestro común que coloniza ambientes diversos."
+  },
+  {
+    "id": "cg-1928",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué grupo de aves estudió Darwin en las islas Galápagos y le ayudó a formular su teoría?",
+    "options": [
+      "Cóndores",
+      "Pingüinos",
+      "Loros",
+      "Pinzones"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los pinzones de Galápagos muestran picos adaptados a diferentes tipos de alimento."
+  },
+  {
+    "id": "cg-1929",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué dominio de organismos unicelulares sin núcleo incluye especies que viven en ambientes extremos?",
+    "options": [
+      "Archaea",
+      "Bacteria",
+      "Eukarya",
+      "Protista"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las arqueas son procariotas con características bioquímicas propias, muchas de ellas extremófilas."
+  },
+  {
+    "id": "cg-1930",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué organismos son capaces de vivir en fuentes hidrotermales, salinas o ambientes muy ácidos?",
+    "options": [
+      "Mesófilos",
+      "Extremófilos",
+      "Patógenos",
+      "Saprófitos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los extremófilos toleran condiciones extremas de temperatura, salinidad, pH o presión."
+  },
+  {
+    "id": "cg-1931",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué protozoo causa la enfermedad del sueño en África?",
+    "options": [
+      "Plasmodium",
+      "Giardia",
+      "Trypanosoma",
+      "Entamoeba"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trypanosoma brucei se transmite por la mosca tse-tsé y provoca la tripanosomiasis africana."
+  },
+  {
+    "id": "cg-1932",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué hongos descomponen materia orgánica y reciclan nutrientes en los ecosistemas?",
+    "options": [
+      "Parásitos",
+      "Mutualistas",
+      "Autótrofos",
+      "Saprófitos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los hongos saprófitos absorben nutrientes de restos orgánicos en descomposición."
+  },
+  {
+    "id": "cg-1933",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué proceso usan las levaduras para convertir azúcares en alcohol y dióxido de carbono sin oxígeno?",
+    "options": [
+      "Fermentación alcohólica",
+      "Respiración aerobia",
+      "Fotosíntesis",
+      "Quimiosíntesis"
+    ],
+    "correctIndex": 0,
+    "explanation": "En la fermentación alcohólica, las levaduras transforman glucosa en etanol y dióxido de carbono."
+  },
+  {
+    "id": "cg-1934",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué tejido vegetal transporta los azúcares producidos en las hojas hacia otras partes de la planta?",
+    "options": [
+      "Xilema",
+      "Floema",
+      "Epidermis",
+      "Meristemo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El floema conduce la savia elaborada, rica en azúcares, desde las hojas al resto de la planta."
+  },
+  {
+    "id": "cg-1935",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué células de la epidermis de las hojas abren y cierran los estomas?",
+    "options": [
+      "Células epidérmicas",
+      "Tricomas",
+      "Células oclusivas",
+      "Células del mesófilo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las células oclusivas cambian de turgencia y regulan la apertura del estoma."
+  },
+  {
+    "id": "cg-1936",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué hormona vegetal estimula el alargamiento celular y la curvatura hacia la luz?",
+    "options": [
+      "Giberelina",
+      "Etileno",
+      "Citocinina",
+      "Auxina"
+    ],
+    "correctIndex": 3,
+    "explanation": "La auxina se redistribuye en el tallo y promueve el crecimiento diferencial en el fototropismo."
+  },
+  {
+    "id": "cg-1937",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué respuesta de una planta la hace crecer orientada hacia una fuente de luz?",
+    "options": [
+      "Fototropismo",
+      "Geotropismo",
+      "Hidrotropismo",
+      "Tigmotropismo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El fototropismo es la orientación del crecimiento en respuesta a la luz."
+  },
+  {
+    "id": "cg-1938",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué estructura de la semilla contiene reservas nutritivas para el embrión?",
+    "options": [
+      "Testa",
+      "Endospermo",
+      "Radícula",
+      "Plúmula"
+    ],
+    "correctIndex": 1,
+    "explanation": "El endospermo acumula almidón, aceites o proteínas que alimentan al embrión durante la germinación."
+  },
+  {
+    "id": "cg-1939",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué proceso reproductivo de las angiospermas implica la fusión de dos núcleos masculinos con células del óvulo?",
+    "options": [
+      "Polinización cruzada",
+      "Partenogénesis",
+      "Doble fecundación",
+      "Apomixis"
+    ],
+    "correctIndex": 2,
+    "explanation": "La doble fecundación forma el embrión y el endospermo en las angiospermas."
+  },
+  {
+    "id": "cg-1940",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué grupo de plantas produce semillas desnudas sin fruto, como los pinos?",
+    "options": [
+      "Angiospermas",
+      "Helechos",
+      "Musgos",
+      "Gimnospermas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las gimnospermas tienen óvulos y semillas expuestos, sin un ovario que forme fruto."
+  },
+  {
+    "id": "cg-1941",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué fase dominante del ciclo de los helechos produce esporas?",
+    "options": [
+      "Esporofito",
+      "Gametofito",
+      "Protalo",
+      "Rizoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "En los helechos, el esporofito es la planta visible y produce esporas en los esporangios."
+  },
+  {
+    "id": "cg-1942",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué característica distingue a los musgos de las plantas vasculares?",
+    "options": [
+      "Tienen flores",
+      "Carecen de tejidos conductores",
+      "Producen semillas",
+      "Tienen raíces verdaderas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los musgos son briofitas no vasculares y absorben agua principalmente por su superficie."
+  },
+  {
+    "id": "cg-1943",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué mamífero marino se alimenta filtrando plancton con placas córneas en la boca?",
+    "options": [
+      "Tiburón blanco",
+      "Delfín",
+      "Ballena jorobada",
+      "Foca"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las ballenas barbadas, como la jorobada, filtran pequeñas presas mediante barbas de queratina."
+  },
+  {
+    "id": "cg-1944",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué capacidad permite a los murciélagos orientarse mediante sonidos y ecos?",
+    "options": [
+      "Migración",
+      "Hibernación",
+      "Camuflaje",
+      "Ecolocalización"
+    ],
+    "correctIndex": 3,
+    "explanation": "La ecolocalización usa la emisión de sonidos y la recepción de ecos para situar obstáculos y presas."
+  },
+  {
+    "id": "cg-1945",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué estructura de las aves está adaptada para el vuelo y está formada por queratina?",
+    "options": [
+      "Plumas",
+      "Escamas",
+      "Pelos",
+      "Aletas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las plumas son estructuras de queratina que proporcionan sustentación y aislamiento térmico."
+  },
+  {
+    "id": "cg-1946",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de animal regula su temperatura corporal principalmente mediante el calor del ambiente?",
+    "options": [
+      "Endotermo",
+      "Ectotermo",
+      "Homeotermo",
+      "Heterotermo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los ectotermos dependen de fuentes externas de calor para mantener su temperatura corporal."
+  },
+  {
+    "id": "cg-1947",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué glándula de las aves secreta aceite para impermeabilizar las plumas?",
+    "options": [
+      "Tiroides",
+      "Hígado",
+      "Glándula uropigial",
+      "Páncreas"
+    ],
+    "correctIndex": 2,
+    "explanation": "La glándula uropigial, situada en la base de la cola, produce un aceite que las aves distribuyen por el plumaje."
+  },
+  {
+    "id": "cg-1948",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe el huevo con membranas y cáscara que permite a reptiles, aves y mamíferos reproducirse en tierra?",
+    "options": [
+      "Huevo anfibio",
+      "Huevo de pez",
+      "Huevo de insecto",
+      "Huevo amniótico"
+    ],
+    "correctIndex": 3,
+    "explanation": "El huevo amniótico protege al embrión de la desecación y fue clave para la vida terrestre de los amniotas."
+  },
+  {
+    "id": "cg-1949",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué etapa de la metamorfosis completa de los insectos sigue a la larva?",
+    "options": [
+      "Pupa",
+      "Ninfa",
+      "Adulto",
+      "Huevo"
+    ],
+    "correctIndex": 0,
+    "explanation": "En la metamorfosis completa, la larva se transforma en pupa y luego en adulto."
+  },
+  {
+    "id": "cg-1950",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué animal construye arrecifes de carbonato cálcico en mares tropicales?",
+    "options": [
+      "Esponja",
+      "Coral",
+      "Alga",
+      "Estrella de mar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los corales son animales coloniales que secretan esqueletos de carbonato cálcico."
+  },
+  {
+    "id": "cg-1951",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué fenómeno ocurre cuando los corales expulsan sus algas simbiontes por estrés térmico?",
+    "options": [
+      "Acidificación",
+      "Eutrofización",
+      "Blanqueamiento coralino",
+      "Sucesión"
+    ],
+    "correctIndex": 2,
+    "explanation": "El blanqueamiento se debe a la pérdida de las zooxantelas simbiontes y deja el coral pálido y debilitado."
+  },
+  {
+    "id": "cg-1952",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué relación entre algas y corales aporta energía al coral mediante la fotosíntesis?",
+    "options": [
+      "Parasitismo",
+      "Comensalismo",
+      "Depredación",
+      "Simbiosis mutualista"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las zooxantelas fotosintetizan y ceden compuestos orgánicos al coral, que les ofrece refugio y nutrientes."
+  },
+  {
+    "id": "cg-1953",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe el conjunto de organismos que viven en el fondo marino?",
+    "options": [
+      "Bentos",
+      "Plancton",
+      "Nécton",
+      "Seston"
+    ],
+    "correctIndex": 0,
+    "explanation": "El bentos incluye organismos que viven sobre o dentro del sedimento del fondo."
+  },
+  {
+    "id": "cg-1954",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué grupo de animales acuáticos nada activamente y se desplaza contra las corrientes?",
+    "options": [
+      "Plancton",
+      "Nécton",
+      "Bentos",
+      "Fitoplancton"
+    ],
+    "correctIndex": 1,
+    "explanation": "El nécton está formado por organismos con capacidad de natación activa, como peces y calamares."
+  },
+  {
+    "id": "cg-1955",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué insecto social comunica la ubicación del alimento mediante una danza?",
+    "options": [
+      "Hormiga",
+      "Termita",
+      "Abeja",
+      "Mariposa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las abejas melíferas realizan danzas que informan a otras obreras sobre dirección y distancia del alimento."
+  },
+  {
+    "id": "cg-1956",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué casta de las abejas produce los huevos en una colmena?",
+    "options": [
+      "Obrera",
+      "Zángano",
+      "Larva",
+      "Reina"
+    ],
+    "correctIndex": 3,
+    "explanation": "La abeja reina es la única hembra fértil de la colonia y pone los huevos."
+  },
+  {
+    "id": "cg-1957",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué material produce la araña para construir telas y envolver presas?",
+    "options": [
+      "Seda",
+      "Quitina",
+      "Colágeno",
+      "Celulosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las arañas producen seda en glándulas abdominales y la hilan para formar telas."
+  },
+  {
+    "id": "cg-1958",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de defensa consiste en parecerse a otra especie peligrosa para evitar depredadores?",
+    "options": [
+      "Camuflaje",
+      "Mimetismo",
+      "Hibernación",
+      "Migración"
+    ],
+    "correctIndex": 1,
+    "explanation": "El mimetismo batesiano imita las señales de advertencia de especies peligrosas."
+  },
+  {
+    "id": "cg-1959",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe la relación en la que una especie se beneficia y la otra no se ve afectada?",
+    "options": [
+      "Mutualismo",
+      "Parasitismo",
+      "Comensalismo",
+      "Amensalismo"
+    ],
+    "correctIndex": 2,
+    "explanation": "En el comensalismo, una especie obtiene beneficio sin perjudicar ni favorecer a la otra."
+  },
+  {
+    "id": "cg-1960",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe la relación en la que un organismo vive a costa de otro y le causa daño?",
+    "options": [
+      "Comensalismo",
+      "Mutualismo",
+      "Competencia",
+      "Parasitismo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un parásito obtiene nutrientes de su hospedador y suele reducir su salud o su éxito reproductivo."
+  },
+  {
+    "id": "cg-1961",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué representación muestra la disminución de energía disponible al ascender en una cadena trófica?",
+    "options": [
+      "Pirámide ecológica",
+      "Ciclo biogeoquímico",
+      "Curva de crecimiento",
+      "Red trófica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las pirámides ecológicas representan energía, biomasa o número de individuos por nivel trófico."
+  },
+  {
+    "id": "cg-1962",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de crecimiento poblacional ocurre cuando los recursos son ilimitados?",
+    "options": [
+      "Logístico",
+      "Exponencial",
+      "Regulado",
+      "Estable"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sin limitación de recursos, una población crece de forma exponencial."
+  },
+  {
+    "id": "cg-1963",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de factor limita el crecimiento de una población cuando aumenta su densidad?",
+    "options": [
+      "Abiótico constante",
+      "Genético neutral",
+      "Dependiente de la densidad",
+      "Geográfico fijo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El alimento, las enfermedades o la competencia actúan con más fuerza cuando la población es densa."
+  },
+  {
+    "id": "cg-1964",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué bacteria del suelo transforma el amonio en nitrito en el ciclo del nitrógeno?",
+    "options": [
+      "Rhizobium",
+      "Azotobacter",
+      "Clostridium",
+      "Nitrosomonas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nitrosomonas oxida el amonio a nitrito en la primera etapa de la nitrificación."
+  },
+  {
+    "id": "cg-1965",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué proceso convierte el nitrato del suelo en nitrógeno atmosférico?",
+    "options": [
+      "Desnitrificación",
+      "Nitrificación",
+      "Fijación",
+      "Amonificación"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las bacterias desnitrificantes reducen nitratos a nitrógeno gaseoso, que vuelve a la atmósfera."
+  },
+  {
+    "id": "cg-1966",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué bioma se caracteriza por inviernos largos, veranos cortos y permafrost?",
+    "options": [
+      "Taiga",
+      "Tundra",
+      "Desierto",
+      "Sabana"
+    ],
+    "correctIndex": 1,
+    "explanation": "La tundra tiene subsuelo permanentemente congelado y vegetación baja adaptada al frío."
+  },
+  {
+    "id": "cg-1967",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué bioma domina en regiones con precipitaciones escasas y vegetación adaptada a la sequía?",
+    "options": [
+      "Selva",
+      "Tundra",
+      "Desierto",
+      "Bosque templado"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los desiertos reciben muy poca lluvia y sus organismos presentan adaptaciones para conservar agua."
+  },
+  {
+    "id": "cg-1968",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué adaptación ayuda a los cactus a reducir la pérdida de agua?",
+    "options": [
+      "Hojas grandes y anchas",
+      "Tallos huecos",
+      "Corteza lisa",
+      "Hojas transformadas en espinas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las espinas reducen la superficie transpirante y además protegen a la planta."
+  },
+  {
+    "id": "cg-1969",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué fenómeno climático deja menos lluvia en el lado opuesto al viento de una montaña?",
+    "options": [
+      "Sombra de lluvia",
+      "Inversión térmica",
+      "Efecto invernadero",
+      "Monzón"
+    ],
+    "correctIndex": 0,
+    "explanation": "El aire descarga humedad al ascender la ladera y llega seco a la vertiente opuesta, creando una sombra de lluvia."
+  },
+  {
+    "id": "cg-1970",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué científica estadounidense escribió Primavera silenciosa y alertó sobre los pesticidas?",
+    "options": [
+      "Jane Goodall",
+      "Rachel Carson",
+      "Dian Fossey",
+      "Lynn Margulis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rachel Carson denunció en 1962 los efectos del DDT y impulsó el movimiento ambientalista moderno."
+  },
+  {
+    "id": "cg-1971",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué primatóloga británica estudió durante décadas a los chimpancés de Gombe?",
+    "options": [
+      "Dian Fossey",
+      "Rachel Carson",
+      "Jane Goodall",
+      "Barbara McClintock"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jane Goodall observó el comportamiento social y el uso de herramientas en chimpancés salvajes."
+  },
+  {
+    "id": "cg-1972",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué primatóloga estadounidense dedicó su vida a proteger a los gorilas de montaña de Ruanda?",
+    "options": [
+      "Jane Goodall",
+      "Rachel Carson",
+      "Lynn Margulis",
+      "Dian Fossey"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dian Fossey estudió y defendió a los gorilas de montaña en las montañas Virunga."
+  },
+  {
+    "id": "cg-1973",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué biólogo estadounidense popularizó el concepto de biodiversidad y estudió a las hormigas?",
+    "options": [
+      "Edward O. Wilson",
+      "Carl Sagan",
+      "Stephen Jay Gould",
+      "Richard Dawkins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Edward O. Wilson fue un entomólogo que impulsó el estudio y la conservación de la biodiversidad."
+  },
+  {
+    "id": "cg-1974",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué bióloga estadounidense propuso que las mitocondrias y los cloroplastos surgieron de bacterias simbiontes?",
+    "options": [
+      "Barbara McClintock",
+      "Lynn Margulis",
+      "Rosalind Franklin",
+      "Rachel Carson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lynn Margulis desarrolló la teoría endosimbiótica sobre el origen de estos orgánulos."
+  },
+  {
+    "id": "cg-1975",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué microbiólogo estadounidense clasificó los seres vivos en tres dominios?",
+    "options": [
+      "Robert Koch",
+      "Louis Pasteur",
+      "Carl Woese",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 2,
+    "explanation": "Carl Woese propuso los dominios Bacteria, Archaea y Eukarya a partir de comparaciones de ARN ribosómico."
+  },
+  {
+    "id": "cg-1976",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué genetista estadounidense descubrió los transposones en el maíz?",
+    "options": [
+      "Rosalind Franklin",
+      "Lynn Margulis",
+      "Gregor Mendel",
+      "Barbara McClintock"
+    ],
+    "correctIndex": 3,
+    "explanation": "Barbara McClintock descubrió que ciertos elementos genéticos pueden cambiar de posición en el genoma."
+  },
+  {
+    "id": "cg-1977",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué química británica obtuvo imágenes de difracción de rayos X clave para descubrir la estructura del ADN?",
+    "options": [
+      "Rosalind Franklin",
+      "Barbara McClintock",
+      "Lynn Margulis",
+      "Jane Goodall"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las imágenes de Rosalind Franklin revelaron la forma helicoidal del ADN."
+  },
+  {
+    "id": "cg-1978",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué médico británico desarrolló una vacuna contra la viruela?",
+    "options": [
+      "Louis Pasteur",
+      "Edward Jenner",
+      "Alexander Fleming",
+      "Robert Koch"
+    ],
+    "correctIndex": 1,
+    "explanation": "Edward Jenner usó material de viruela bovina para inmunizar contra la viruela humana en 1796."
+  },
+  {
+    "id": "cg-1979",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué bacteriólogo alemán identificó el bacilo causante de la tuberculosis?",
+    "options": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Robert Koch",
+      "Edward Jenner"
+    ],
+    "correctIndex": 2,
+    "explanation": "Robert Koch descubrió Mycobacterium tuberculosis y estableció criterios para identificar agentes infecciosos."
+  },
+  {
+    "id": "cg-1980",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué científico francés desarrolló la pasteurización para conservar alimentos?",
+    "options": [
+      "Robert Koch",
+      "Edward Jenner",
+      "Alexander Fleming",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 3,
+    "explanation": "La pasteurización calienta líquidos lo suficiente para reducir microorganismos sin alterar demasiado su sabor."
+  },
+  {
+    "id": "cg-1981",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué proyecto internacional secuenció el genoma humano completo a principios del siglo XXI?",
+    "options": [
+      "Proyecto Genoma Humano",
+      "Proyecto Manhattan",
+      "Proyecto Apolo",
+      "Proyecto Huemul"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Proyecto Genoma Humano publicó un borrador del genoma en 2001 y la secuencia completa en 2003."
+  },
+  {
+    "id": "cg-1982",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué técnica permite amplificar fragmentos de ADN millones de veces en el laboratorio?",
+    "options": [
+      "Electroforesis",
+      "Reacción en cadena de la polimerasa",
+      "Secuenciación de Sanger",
+      "Clonación"
+    ],
+    "correctIndex": 1,
+    "explanation": "La PCR usa cebadores y una polimerasa termoestable para copiar repetidamente un fragmento de ADN."
+  },
+  {
+    "id": "cg-1983",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué herramienta de edición genética basada en un sistema bacteriano permite cortar el ADN en sitios específicos?",
+    "options": [
+      "PCR",
+      "Electroforesis",
+      "CRISPR-Cas9",
+      "Microscopía de fluorescencia"
+    ],
+    "correctIndex": 2,
+    "explanation": "CRISPR-Cas9 guía una nucleasa hacia una secuencia diana mediante un ARN guía."
+  },
+  {
+    "id": "cg-1984",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué oveja fue el primer mamífero clonado a partir de una célula adulta?",
+    "options": [
+      "Oveja Molly",
+      "Ratón Cumulina",
+      "Vaca Rosita",
+      "Oveja Dolly"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dolly nació en 1996 en Escocia y se obtuvo por transferencia del núcleo de una célula mamaria adulta."
+  },
+  {
+    "id": "cg-1985",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué células no especializadas pueden convertirse en diversos tipos de células del cuerpo?",
+    "options": [
+      "Células madre",
+      "Neuronas",
+      "Glóbulos rojos",
+      "Células musculares"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las células madre pueden autorrenovarse y diferenciarse en linajes celulares especializados."
+  },
+  {
+    "id": "cg-1986",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué científico neerlandés observó por primera vez microorganismos con un microscopio de lentes simples?",
+    "options": [
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek",
+      "Louis Pasteur",
+      "Matthias Schleiden"
+    ],
+    "correctIndex": 1,
+    "explanation": "Van Leeuwenhoek describió protozoos y bacterias en el siglo XVII usando microscopios de una sola lente."
+  },
+  {
+    "id": "cg-1987",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué científico inglés observó células en un trozo de corcho y acuñó el término célula?",
+    "options": [
+      "Antonie van Leeuwenhoek",
+      "Robert Koch",
+      "Robert Hooke",
+      "Rudolf Virchow"
+    ],
+    "correctIndex": 2,
+    "explanation": "Robert Hooke observó en 1665 las cavidades de un corcho y las llamó células."
+  },
+  {
+    "id": "cg-1988",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "medium",
+    "question": "¿Qué naturalista francés propuso que los caracteres adquiridos durante la vida se heredan?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Alfred Russel Wallace",
+      "Jean-Baptiste Lamarck"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lamarck defendió la herencia de los caracteres adquiridos, idea que la genética moderna no respalda."
+  },
+  {
+    "id": "cg-1989",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué enlace químico une los nucleótidos de una misma cadena de ADN?",
+    "options": [
+      "Fosfodiéster",
+      "Puente de hidrógeno",
+      "Peptídico",
+      "Iónico"
+    ],
+    "correctIndex": 0,
+    "explanation": "El enlace fosfodiéster conecta el fosfato de un nucleótido con el azúcar del siguiente."
+  },
+  {
+    "id": "cg-1990",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué enzima desenrolla la doble hélice del ADN antes de la replicación?",
+    "options": [
+      "ADN polimerasa",
+      "Helicasa",
+      "Ligasa",
+      "Primasa"
+    ],
+    "correctIndex": 1,
+    "explanation": "La helicasa separa las dos cadenas de la doble hélice para permitir la replicación."
+  },
+  {
+    "id": "cg-1991",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué característica de la replicación del ADN indica que cada nueva molécula conserva una cadena original?",
+    "options": [
+      "Conservadora",
+      "Dispersiva",
+      "Semiconservadora",
+      "Unidireccional"
+    ],
+    "correctIndex": 2,
+    "explanation": "En la replicación semiconservadora, cada molécula hija tiene una cadena antigua y otra nueva."
+  },
+  {
+    "id": "cg-1992",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de ARN transporta aminoácidos al ribosoma durante la traducción?",
+    "options": [
+      "ARN mensajero",
+      "ARN ribosómico",
+      "ARN interferente",
+      "ARN de transferencia"
+    ],
+    "correctIndex": 3,
+    "explanation": "El ARN de transferencia lleva aminoácidos y reconoce codones del ARN mensajero."
+  },
+  {
+    "id": "cg-1993",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué codón inicia la traducción de una proteína en muchos organismos?",
+    "options": [
+      "AUG",
+      "UAA",
+      "UAG",
+      "UGA"
+    ],
+    "correctIndex": 0,
+    "explanation": "El codón AUG codifica metionina y marca el inicio de la traducción."
+  },
+  {
+    "id": "cg-1994",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de mutación cambia un nucleótido por otro sin alterar el marco de lectura?",
+    "options": [
+      "Inserción",
+      "Puntual",
+      "Deleción",
+      "Duplicación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Una mutación puntual sustituye una base y puede cambiar un aminoácido sin desplazar el marco."
+  },
+  {
+    "id": "cg-1995",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué anomalía humana se debe a la presencia de tres copias del cromosoma 21?",
+    "options": [
+      "Síndrome de Turner",
+      "Síndrome de Klinefelter",
+      "Síndrome de Down",
+      "Fenilcetonuria"
+    ],
+    "correctIndex": 2,
+    "explanation": "La trisomía del cromosoma 21 produce el síndrome de Down."
+  },
+  {
+    "id": "cg-1996",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué enfermedad hereditaria recesiva afecta la hemoglobina y produce glóbulos rojos en forma de hoz?",
+    "options": [
+      "Hemofilia",
+      "Fibrosis quística",
+      "Daltonismo",
+      "Anemia falciforme"
+    ],
+    "correctIndex": 3,
+    "explanation": "La anemia falciforme se debe a una variante de la hemoglobina que deforma los eritrocitos."
+  },
+  {
+    "id": "cg-1997",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué patrón de herencia explica que un gen recesivo situado en el cromosoma X afecte más a los varones?",
+    "options": [
+      "Herencia ligada al sexo",
+      "Herencia autosómica dominante",
+      "Herencia mitocondrial",
+      "Codominancia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los varones tienen un solo cromosoma X y expresan sus genes recesivos con mayor facilidad."
+  },
+  {
+    "id": "cg-1998",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué grupo sanguíneo puede recibir sangre de todos los demás grupos?",
+    "options": [
+      "O negativo",
+      "AB positivo",
+      "A positivo",
+      "B negativo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El grupo AB positivo carece de anticuerpos contra los antígenos A, B y Rh, por lo que es receptor universal."
+  },
+  {
+    "id": "cg-1999",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué grupo sanguíneo se considera donante universal de glóbulos rojos?",
+    "options": [
+      "AB positivo",
+      "A positivo",
+      "O negativo",
+      "B negativo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los glóbulos rojos O negativos no presentan antígenos A, B ni Rh y pueden transfundirse a la mayoría de pacientes."
+  },
+  {
+    "id": "cg-2000",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué sistema de defensa incluye barreras como la piel y las mucosas y actúa sin reconocer patógenos concretos?",
+    "options": [
+      "Inmunidad adaptativa",
+      "Inmunidad pasiva",
+      "Memoria inmunológica",
+      "Inmunidad innata"
+    ],
+    "correctIndex": 3,
+    "explanation": "La inmunidad innata actúa de forma rápida y general contra patógenos, sin memoria específica."
+  },
+  {
+    "id": "cg-2001",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué células presentan antígenos y activan a los linfocitos T auxiliares?",
+    "options": [
+      "Células dendríticas",
+      "Glóbulos rojos",
+      "Plaquetas",
+      "Eritrocitos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las células dendríticas procesan antígenos y los presentan junto a moléculas del complejo mayor de histocompatibilidad."
+  },
+  {
+    "id": "cg-2002",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de linfocito destruye células infectadas por virus?",
+    "options": [
+      "Linfocito B",
+      "Linfocito T citotóxico",
+      "Neutrófilo",
+      "Basófilo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los linfocitos T citotóxicos reconocen antígenos virales en la superficie celular y destruyen la célula infectada."
+  },
+  {
+    "id": "cg-2003",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué molécula del sistema inmunitario perfora la membrana de células diana?",
+    "options": [
+      "Hemoglobina",
+      "Insulina",
+      "Perforina",
+      "Colágeno"
+    ],
+    "correctIndex": 2,
+    "explanation": "La perforina forma poros en la membrana de la célula diana y facilita su destrucción."
+  },
+  {
+    "id": "cg-2004",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué proceso bacteriano intercambia ADN mediante un pilus entre dos células?",
+    "options": [
+      "Transformación",
+      "Transducción",
+      "Fisión",
+      "Conjugación"
+    ],
+    "correctIndex": 3,
+    "explanation": "La conjugación transfiere ADN de una bacteria donadora a una receptora a través de un contacto citoplasmático."
+  },
+  {
+    "id": "cg-2005",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué proceso introduce ADN libre del ambiente en una bacteria competente?",
+    "options": [
+      "Transformación",
+      "Conjugación",
+      "Transducción",
+      "Replicación"
+    ],
+    "correctIndex": 0,
+    "explanation": "En la transformación, la bacteria capta fragmentos de ADN presentes en el medio."
+  },
+  {
+    "id": "cg-2006",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué virus infecta exclusivamente bacterias?",
+    "options": [
+      "Retrovirus",
+      "Bacteriófago",
+      "Coronavirus",
+      "Adenovirus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los bacteriófagos son virus que se reproducen dentro de células bacterianas."
+  },
+  {
+    "id": "cg-2007",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué enzima convierte el ARN en ADN en los retrovirus?",
+    "options": [
+      "ARN polimerasa",
+      "ADN ligasa",
+      "Transcriptasa inversa",
+      "Proteasa"
+    ],
+    "correctIndex": 2,
+    "explanation": "La transcriptasa inversa sintetiza una copia de ADN a partir del ARN viral."
+  },
+  {
+    "id": "cg-2008",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué organismo unicelular eucariota se reproduce por fisión binaria y se mueve con cilios?",
+    "options": [
+      "Ameba",
+      "Euglena",
+      "Levadura",
+      "Paramecio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El paramecio es un ciliado que nada mediante la coordinación de numerosos cilios."
+  },
+  {
+    "id": "cg-2009",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué estructura usa una ameba para capturar alimento mediante englobamiento?",
+    "options": [
+      "Pseudópodo",
+      "Flagelo",
+      "Cilio",
+      "Pared celular"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ameba emite pseudópodos que rodean la partícula y forman una vacuola alimenticia."
+  },
+  {
+    "id": "cg-2010",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué alga unicelular tiene cloroplastos y un flagelo, y puede nutrirse de forma autótrofa o heterótrofa?",
+    "options": [
+      "Paramecio",
+      "Euglena",
+      "Diatomea",
+      "Levadura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Euglena es un protista mixótrofo que fotosintetiza en presencia de luz y puede absorber materia orgánica."
+  },
+  {
+    "id": "cg-2011",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué grupo de algas forma paredes de sílice y es abundante en el fitoplancton marino?",
+    "options": [
+      "Dinoflagelados",
+      "Cianobacterias",
+      "Diatomeas",
+      "Clorofitas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las diatomeas tienen frústulos de sílice y son productores importantes en aguas marinas y dulces."
+  },
+  {
+    "id": "cg-2012",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué organismos fotosintéticos liberaron oxígeno y transformaron la atmósfera primitiva de la Tierra?",
+    "options": [
+      "Arqueas metanógenas",
+      "Virus",
+      "Hongos",
+      "Cianobacterias"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las cianobacterias realizan fotosíntesis oxigénica y provocaron la gran oxidación atmosférica."
+  },
+  {
+    "id": "cg-2013",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué teoría propone que las mitocondrias y los cloroplastos proceden de bacterias englobadas por una célula ancestral?",
+    "options": [
+      "Endosimbiosis",
+      "Generación espontánea",
+      "Panspermia",
+      "Abiogénesis"
+    ],
+    "correctIndex": 0,
+    "explanation": "La teoría endosimbiótica explica estos orgánulos por simbiosis entre una célula hospedadora y bacterias."
+  },
+  {
+    "id": "cg-2014",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué experimento de Stanley Miller y Harold Urey intentó simular las condiciones de la Tierra primitiva para formar moléculas orgánicas?",
+    "options": [
+      "Experimento de Pasteur",
+      "Experimento de Miller-Urey",
+      "Experimento de Redi",
+      "Experimento de Griffith"
+    ],
+    "correctIndex": 1,
+    "explanation": "Miller y Urey aplicaron descargas eléctricas a una mezcla de gases y obtuvieron aminoácidos."
+  },
+  {
+    "id": "cg-2015",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué científico demostró que el ADN es el material hereditario mediante experimentos con neumococos?",
+    "options": [
+      "Frederick Griffith",
+      "Alfred Hershey",
+      "Oswald Avery",
+      "Erwin Chargaff"
+    ],
+    "correctIndex": 2,
+    "explanation": "Avery y sus colaboradores identificaron el ADN como el principio transformante en los neumococos."
+  },
+  {
+    "id": "cg-2016",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué investigadores confirmaron que el ADN era el material genético usando bacteriófagos marcados con fósforo y azufre?",
+    "options": [
+      "Watson y Crick",
+      "Meselson y Stahl",
+      "Beadle y Tatum",
+      "Hershey y Chase"
+    ],
+    "correctIndex": 3,
+    "explanation": "El experimento de Hershey y Chase mostró que el ADN viral entraba en las bacterias y transmitía la información."
+  },
+  {
+    "id": "cg-2017",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué experimento demostró que la replicación del ADN es semiconservadora en Escherichia coli?",
+    "options": [
+      "Meselson y Stahl",
+      "Hershey y Chase",
+      "Avery y MacLeod",
+      "Miller y Urey"
+    ],
+    "correctIndex": 0,
+    "explanation": "Meselson y Stahl usaron isótopos de nitrógeno para seguir las cadenas de ADN durante varias generaciones."
+  },
+  {
+    "id": "cg-2018",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué establece la regla de Chargaff sobre las bases nitrogenadas del ADN?",
+    "options": [
+      "La cantidad de adenina iguala a la de guanina",
+      "La cantidad de adenina iguala a la de timina y la de guanina a la de citosina",
+      "El ADN contiene uracilo en lugar de timina",
+      "Las bases se unen mediante enlaces peptídicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "En el ADN de doble cadena, la adenina se empareja con timina y la guanina con citosina."
+  },
+  {
+    "id": "cg-2019",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de selección favorece a los individuos con rasgos extremos de una población?",
+    "options": [
+      "Estabilizadora",
+      "Direccional",
+      "Disruptiva",
+      "Sexual"
+    ],
+    "correctIndex": 2,
+    "explanation": "La selección disruptiva favorece ambos extremos y puede separar una población en dos grupos."
+  },
+  {
+    "id": "cg-2020",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de selección mantiene los valores intermedios de un rasgo y elimina los extremos?",
+    "options": [
+      "Direccional",
+      "Disruptiva",
+      "Artificial",
+      "Estabilizadora"
+    ],
+    "correctIndex": 3,
+    "explanation": "La selección estabilizadora reduce la variación en torno al valor medio del rasgo."
+  },
+  {
+    "id": "cg-2021",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué mecanismo evolutivo introduce nuevos alelos en una población mediante migración?",
+    "options": [
+      "Flujo génico",
+      "Deriva genética",
+      "Selección natural",
+      "Mutación"
+    ],
+    "correctIndex": 0,
+    "explanation": "El flujo génico es la transferencia de alelos entre poblaciones por inmigración o emigración."
+  },
+  {
+    "id": "cg-2022",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué condición es necesaria para que actúe la selección natural sobre un rasgo?",
+    "options": [
+      "Que el rasgo sea aprendido",
+      "Variación heredable asociada a la supervivencia o reproducción",
+      "Que la población sea genéticamente idéntica",
+      "Que no exista mutación"
+    ],
+    "correctIndex": 1,
+    "explanation": "La selección natural requiere diferencias heredables que afecten el éxito reproductivo."
+  },
+  {
+    "id": "cg-2023",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué concepto describe el conjunto de organismos que pueden reproducirse entre sí y producir descendencia fértil?",
+    "options": [
+      "Género",
+      "Población",
+      "Especie biológica",
+      "Raza"
+    ],
+    "correctIndex": 2,
+    "explanation": "El concepto biológico de especie se basa en el aislamiento reproductivo frente a otros grupos."
+  },
+  {
+    "id": "cg-2024",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué mecanismo de aislamiento impide el apareamiento entre especies por diferencias en el cortejo?",
+    "options": [
+      "Aislamiento geográfico",
+      "Aislamiento temporal",
+      "Aislamiento mecánico",
+      "Aislamiento conductual"
+    ],
+    "correctIndex": 3,
+    "explanation": "El aislamiento conductual se debe a señales o rituales de cortejo que no son reconocidos entre especies."
+  },
+  {
+    "id": "cg-2025",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué mecanismo de aislamiento ocurre cuando dos especies se reproducen en estaciones diferentes?",
+    "options": [
+      "Aislamiento temporal",
+      "Aislamiento mecánico",
+      "Aislamiento conductual",
+      "Aislamiento gamético"
+    ],
+    "correctIndex": 0,
+    "explanation": "El aislamiento temporal impide el cruce porque los periodos reproductivos no coinciden."
+  },
+  {
+    "id": "cg-2026",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué nombre recibe la evolución de una nueva especie dentro de la misma área geográfica sin barrera física?",
+    "options": [
+      "Especiación alopátrica",
+      "Especiación simpátrica",
+      "Especiación peripátrica",
+      "Especiación vicariante"
+    ],
+    "correctIndex": 1,
+    "explanation": "La especiación simpátrica ocurre sin separación geográfica, a menudo por poliploidía o especialización ecológica."
+  },
+  {
+    "id": "cg-2027",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué cambio cromosómico puede originar de forma repentina una nueva especie vegetal?",
+    "options": [
+      "Pérdida de un gen",
+      "Mutación puntual",
+      "Duplicación del número de cromosomas",
+      "Recombinación"
+    ],
+    "correctIndex": 2,
+    "explanation": "La poliploidía duplica el genoma y puede crear aislamiento reproductivo inmediato en plantas."
+  },
+  {
+    "id": "cg-2028",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué científico propuso de forma independiente la selección natural y envió a Darwin un manuscrito en 1858?",
+    "options": [
+      "Thomas Malthus",
+      "Georges Cuvier",
+      "Jean-Baptiste Lamarck",
+      "Alfred Russel Wallace"
+    ],
+    "correctIndex": 3,
+    "explanation": "Wallace llegó a ideas similares a las de Darwin mientras estudiaba la fauna del archipiélago malayo."
+  },
+  {
+    "id": "cg-2029",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué naturalista alemán viajó por Sudamérica y describió la relación entre clima, altitud y vegetación?",
+    "options": [
+      "Alexander von Humboldt",
+      "Ernst Haeckel",
+      "Carl Linneo",
+      "Georges Buffon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Humboldt fue un pionero de la biogeografía y estudió la distribución de la vegetación según el ambiente."
+  },
+  {
+    "id": "cg-2030",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué científico francés estableció la paleontología de vertebrados y defendió el catastrofismo?",
+    "options": [
+      "Jean-Baptiste Lamarck",
+      "Georges Cuvier",
+      "Louis Pasteur",
+      "Étienne Geoffroy Saint-Hilaire"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuvier comparó fósiles y animales actuales y explicó cambios geológicos por catástrofes."
+  },
+  {
+    "id": "cg-2031",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué biólogo alemán acuñó el término ecología en 1866?",
+    "options": [
+      "Alexander von Humboldt",
+      "Carl Linneo",
+      "Ernst Haeckel",
+      "Charles Darwin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Haeckel creó el término ecología para designar el estudio de las relaciones de los organismos con su ambiente."
+  },
+  {
+    "id": "cg-2032",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué fósil del Devónico se considera una forma de transición entre peces y tetrápodos?",
+    "options": [
+      "Archaeopteryx",
+      "Lucy",
+      "Trilobites",
+      "Tiktaalik"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tiktaalik, hallado en el Ártico canadiense, combina rasgos de pez y de tetrápodo en sus aletas y cráneo."
+  },
+  {
+    "id": "cg-2033",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué elementos del ala de un murciélago y del ala de un ave se consideran homólogos?",
+    "options": [
+      "Huesos de las extremidades anteriores",
+      "Plumas y pelos",
+      "Escamas y membranas",
+      "Branquias y pulmones"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ambas alas derivan de la extremidad anterior de un antepasado común, aunque cumplen funciones similares."
+  },
+  {
+    "id": "cg-2034",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué proteína estructural forma los microtúbulos del huso mitótico?",
+    "options": [
+      "Actina",
+      "Tubulina",
+      "Queratina",
+      "Colágeno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los microtúbulos están formados por dímeros de tubulina y separan los cromosomas durante la mitosis."
+  },
+  {
+    "id": "cg-2035",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué fase de la mitosis alinea los cromosomas en el ecuador de la célula?",
+    "options": [
+      "Profase",
+      "Anafase",
+      "Metafase",
+      "Telofase"
+    ],
+    "correctIndex": 2,
+    "explanation": "En la metafase, los cromosomas se sitúan en el plano ecuatorial unidos al huso mitótico."
+  },
+  {
+    "id": "cg-2036",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué proceso de la meiosis genera variabilidad al intercambiar segmentos entre cromosomas homólogos?",
+    "options": [
+      "Citocinesis",
+      "Segregación",
+      "Duplicación",
+      "Entrecruzamiento"
+    ],
+    "correctIndex": 3,
+    "explanation": "El entrecruzamiento o crossing-over ocurre en la profase I e intercambia material genético entre cromosomas homólogos."
+  },
+  {
+    "id": "cg-2037",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿En qué fase del ciclo celular se duplica el ADN?",
+    "options": [
+      "Fase S",
+      "Fase G1",
+      "Fase G2",
+      "Mitosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fase S es el periodo de síntesis en el que se replica el ADN antes de la división."
+  },
+  {
+    "id": "cg-2038",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué enzima añade nuevos nucleótidos a la cadena de ADN durante la replicación?",
+    "options": [
+      "ARN polimerasa",
+      "ADN polimerasa",
+      "Ligasa",
+      "Helicasa"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ADN polimerasa sintetiza la nueva cadena usando la original como molde."
+  },
+  {
+    "id": "cg-2039",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué orgánulo modifica, empaqueta y envía proteínas hacia otras partes de la célula?",
+    "options": [
+      "Lisosoma",
+      "Núcleo",
+      "Aparato de Golgi",
+      "Mitocondria"
+    ],
+    "correctIndex": 2,
+    "explanation": "El aparato de Golgi recibe proteínas del retículo endoplasmático y las dirige a su destino."
+  },
+  {
+    "id": "cg-2040",
+    "category": "general",
+    "topic": "biology",
+    "difficulty": "hard",
+    "question": "¿Qué componente del citoesqueleto forma cilios y flagelos?",
+    "options": [
+      "Filamentos de actina",
+      "Filamentos intermedios",
+      "Lámina nuclear",
+      "Microtúbulos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los cilios y flagelos tienen un eje de microtúbulos que produce su movimiento."
+  }
+]

@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-2041",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué órgano filtra la sangre y produce la orina?",
+    "options": [
+      "El hígado",
+      "Los riñones",
+      "El bazo",
+      "El páncreas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los riñones filtran la sangre en los glomérulos y forman la orina, que se conduce a la vejiga."
+  },
+  {
+    "id": "cg-2042",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿En qué órgano se realiza principalmente el intercambio de oxígeno y dióxido de carbono?",
+    "options": [
+      "El corazón",
+      "El hígado",
+      "Los pulmones",
+      "Los riñones"
+    ],
+    "correctIndex": 2,
+    "explanation": "El intercambio gaseoso ocurre en los alvéolos pulmonares, rodeados de capilares."
+  },
+  {
+    "id": "cg-2043",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Cuál es el hueso más largo del cuerpo humano adulto?",
+    "options": [
+      "El húmero",
+      "La tibia",
+      "El radio",
+      "El fémur"
+    ],
+    "correctIndex": 3,
+    "explanation": "El fémur, hueso del muslo, es el más largo y resistente del cuerpo."
+  },
+  {
+    "id": "cg-2044",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Cuántos huesos tiene aproximadamente el esqueleto de un adulto?",
+    "options": [
+      "206",
+      "106",
+      "156",
+      "306"
+    ],
+    "correctIndex": 0,
+    "explanation": "El esqueleto adulto suele tener 206 huesos, aunque el número puede variar ligeramente."
+  },
+  {
+    "id": "cg-2045",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué órgano produce la bilis?",
+    "options": [
+      "El hígado",
+      "La vesícula biliar",
+      "El páncreas",
+      "El estómago"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hígado produce la bilis, que luego se almacena y concentra en la vesícula biliar."
+  },
+  {
+    "id": "cg-2046",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué estructura del ojo regula la cantidad de luz que entra?",
+    "options": [
+      "La retina",
+      "La córnea",
+      "El cristalino",
+      "El iris"
+    ],
+    "correctIndex": 3,
+    "explanation": "El iris controla el tamaño de la pupila y regula la entrada de luz."
+  },
+  {
+    "id": "cg-2047",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué componentes de la sangre intervienen en la coagulación?",
+    "options": [
+      "Los glóbulos rojos",
+      "Las plaquetas",
+      "Los glóbulos blancos",
+      "El plasma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las plaquetas se agrupan y forman el tapón que inicia la coagulación."
+  },
+  {
+    "id": "cg-2048",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué grupo sanguíneo se considera donante universal de glóbulos rojos?",
+    "options": [
+      "AB positivo",
+      "A positivo",
+      "O negativo",
+      "B negativo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El grupo O negativo carece de antígenos A, B y Rh, por lo que puede donarse a casi cualquier receptor."
+  },
+  {
+    "id": "cg-2049",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Dónde se absorben principalmente los nutrientes del tubo digestivo?",
+    "options": [
+      "En el intestino delgado",
+      "En el estómago",
+      "En el colon",
+      "En el esófago"
+    ],
+    "correctIndex": 0,
+    "explanation": "El intestino delgado, sobre todo el yeyuno y el íleon, absorbe la mayor parte de los nutrientes."
+  },
+  {
+    "id": "cg-2050",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué músculo separa la cavidad torácica de la abdominal y participa en la respiración?",
+    "options": [
+      "El pectoral mayor",
+      "El recto abdominal",
+      "El diafragma",
+      "Los intercostales"
+    ],
+    "correctIndex": 2,
+    "explanation": "El diafragma se contrae durante la inspiración y aumenta el volumen torácico."
+  },
+  {
+    "id": "cg-2051",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué glándula produce las hormonas tiroxina y triyodotironina?",
+    "options": [
+      "La paratiroides",
+      "Las suprarrenales",
+      "La hipófisis",
+      "La tiroides"
+    ],
+    "correctIndex": 3,
+    "explanation": "La tiroides produce tiroxina y triyodotironina, hormonas que regulan el metabolismo."
+  },
+  {
+    "id": "cg-2052",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué hueso del antebrazo se encuentra del lado del pulgar?",
+    "options": [
+      "El cúbito",
+      "El radio",
+      "El húmero",
+      "La escápula"
+    ],
+    "correctIndex": 1,
+    "explanation": "El radio es el hueso del antebrazo situado del lado del pulgar."
+  },
+  {
+    "id": "cg-2053",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué dos estructuras forman el sistema nervioso central?",
+    "options": [
+      "Los nervios craneales y los ganglios",
+      "El cerebelo y el tronco encefálico",
+      "El encéfalo y la médula espinal",
+      "La médula ósea y el timo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sistema nervioso central está formado por el encéfalo y la médula espinal."
+  },
+  {
+    "id": "cg-2054",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de vaso sanguíneo lleva la sangre desde el corazón hacia los tejidos?",
+    "options": [
+      "Las venas",
+      "Las arterias",
+      "Los capilares",
+      "Los vasos linfáticos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las arterias conducen la sangre desde el corazón hacia los tejidos."
+  },
+  {
+    "id": "cg-2055",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la válvula situada entre la aurícula izquierda y el ventrículo izquierdo?",
+    "options": [
+      "Válvula mitral",
+      "Válvula tricúspide",
+      "Válvula pulmonar",
+      "Válvula aórtica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La válvula mitral separa la aurícula izquierda del ventrículo izquierdo."
+  },
+  {
+    "id": "cg-2056",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad funcional del riñón?",
+    "options": [
+      "El alvéolo",
+      "El hepatocito",
+      "La neurona",
+      "La nefrona"
+    ],
+    "correctIndex": 3,
+    "explanation": "La nefrona es la unidad estructural y funcional del riñón."
+  },
+  {
+    "id": "cg-2057",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué enzima de la saliva comienza la digestión del almidón?",
+    "options": [
+      "La pepsina",
+      "La lipasa",
+      "La tripsina",
+      "La amilasa salival"
+    ],
+    "correctIndex": 3,
+    "explanation": "La amilasa salival inicia la degradación del almidón en la boca."
+  },
+  {
+    "id": "cg-2058",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué vitamina se sintetiza en la piel con ayuda de la luz solar?",
+    "options": [
+      "La vitamina D",
+      "La vitamina A",
+      "La vitamina C",
+      "La vitamina B12"
+    ],
+    "correctIndex": 0,
+    "explanation": "La piel sintetiza vitamina D cuando recibe radiación ultravioleta."
+  },
+  {
+    "id": "cg-2059",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué enfermedad histórica se debe a la falta de vitamina C?",
+    "options": [
+      "El raquitismo",
+      "El escorbuto",
+      "El beriberi",
+      "La pelagra"
+    ],
+    "correctIndex": 1,
+    "explanation": "La falta de vitamina C provoca escorbuto, con sangrado de encías y mala cicatrización."
+  },
+  {
+    "id": "cg-2060",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué hormona produce el páncreas para elevar la glucosa en sangre?",
+    "options": [
+      "La insulina",
+      "La tiroxina",
+      "El glucagón",
+      "El cortisol"
+    ],
+    "correctIndex": 2,
+    "explanation": "El glucagón estimula la liberación de glucosa hepática y eleva la glucemia."
+  },
+  {
+    "id": "cg-2061",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿En qué órgano maduran los linfocitos T?",
+    "options": [
+      "En el bazo",
+      "En la médula ósea",
+      "En los ganglios linfáticos",
+      "En el timo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los linfocitos T completan su maduración en el timo."
+  },
+  {
+    "id": "cg-2062",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué células del sistema inmunitario producen anticuerpos?",
+    "options": [
+      "Los linfocitos T",
+      "Los linfocitos B",
+      "Los neutrófilos",
+      "Las plaquetas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los linfocitos B se diferencian en células plasmáticas que producen anticuerpos."
+  },
+  {
+    "id": "cg-2063",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué tejido conecta un músculo con un hueso?",
+    "options": [
+      "El ligamento",
+      "El cartílago",
+      "El tendón",
+      "La fascia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los tendones unen los músculos con los huesos."
+  },
+  {
+    "id": "cg-2064",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué tejido conecta dos huesos en una articulación?",
+    "options": [
+      "El ligamento",
+      "El tendón",
+      "El menisco",
+      "El periostio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los ligamentos unen entre sí los huesos de una articulación."
+  },
+  {
+    "id": "cg-2065",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Cuántos dientes de leche tiene un niño?",
+    "options": [
+      "24",
+      "28",
+      "20",
+      "32"
+    ],
+    "correctIndex": 2,
+    "explanation": "La dentición de leche consta de 20 dientes."
+  },
+  {
+    "id": "cg-2066",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué segmento del intestino grueso absorbe sobre todo el agua del contenido intestinal?",
+    "options": [
+      "El colon",
+      "En el recto",
+      "En el ciego",
+      "En el apéndice"
+    ],
+    "correctIndex": 0,
+    "explanation": "En el colon se absorbe gran parte del agua del contenido intestinal."
+  },
+  {
+    "id": "cg-2067",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué órgano almacena la bilis?",
+    "options": [
+      "El hígado",
+      "El páncreas",
+      "El bazo",
+      "La vesícula biliar"
+    ],
+    "correctIndex": 3,
+    "explanation": "La vesícula biliar almacena y concentra la bilis producida por el hígado."
+  },
+  {
+    "id": "cg-2068",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Cuál es la célula reproductora femenina?",
+    "options": [
+      "El espermatozoide",
+      "El óvulo",
+      "El cigoto",
+      "El blastocisto"
+    ],
+    "correctIndex": 1,
+    "explanation": "El óvulo es la célula reproductora femenina."
+  },
+  {
+    "id": "cg-2069",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué estructura conecta el feto con la placenta?",
+    "options": [
+      "El cordón umbilical",
+      "La trompa de Falopio",
+      "El cuello uterino",
+      "El saco amniótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cordón umbilical conecta la circulación fetal con la placenta."
+  },
+  {
+    "id": "cg-2070",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿En qué órgano se desarrolla el feto durante el embarazo?",
+    "options": [
+      "En el ovario",
+      "En la trompa de Falopio",
+      "En la vagina",
+      "En el útero"
+    ],
+    "correctIndex": 3,
+    "explanation": "El útero aloja y nutre al feto durante la gestación."
+  },
+  {
+    "id": "cg-2071",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Cuántos pares de costillas tiene normalmente el ser humano?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctIndex": 1,
+    "explanation": "La caja torácica humana tiene normalmente 12 pares de costillas."
+  },
+  {
+    "id": "cg-2072",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué músculo es el de mayor volumen del cuerpo humano?",
+    "options": [
+      "El cuádriceps",
+      "El pectoral mayor",
+      "El glúteo mayor",
+      "El dorsal ancho"
+    ],
+    "correctIndex": 2,
+    "explanation": "El glúteo mayor es el músculo de mayor volumen del cuerpo."
+  },
+  {
+    "id": "cg-2073",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué prolongación de la neurona conduce el impulso hacia otras células?",
+    "options": [
+      "La dendrita",
+      "El soma",
+      "La mielina",
+      "El axón"
+    ],
+    "correctIndex": 3,
+    "explanation": "El axón transmite el impulso nervioso desde el cuerpo neuronal hacia otras células."
+  },
+  {
+    "id": "cg-2074",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué capa aísla y acelera la conducción de los impulsos nerviosos?",
+    "options": [
+      "La mielina",
+      "El periostio",
+      "La pleura",
+      "El peritoneo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La mielina aísla el axón y acelera la conducción del impulso."
+  },
+  {
+    "id": "cg-2075",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué sentido depende de estructuras del oído interno?",
+    "options": [
+      "El olfato",
+      "El gusto",
+      "El equilibrio",
+      "El tacto"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sistema vestibular, en el oído interno, interviene en el equilibrio."
+  },
+  {
+    "id": "cg-2076",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué membrana recubre los pulmones?",
+    "options": [
+      "El peritoneo",
+      "La pleura",
+      "El pericardio",
+      "Las meninges"
+    ],
+    "correctIndex": 1,
+    "explanation": "La pleura es la membrana serosa que recubre los pulmones y la pared torácica."
+  },
+  {
+    "id": "cg-2077",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué proteína de los glóbulos rojos transporta oxígeno?",
+    "options": [
+      "La albúmina",
+      "El fibrinógeno",
+      "El colágeno",
+      "La hemoglobina"
+    ],
+    "correctIndex": 3,
+    "explanation": "La hemoglobina de los eritrocitos fija el oxígeno y lo transporta."
+  },
+  {
+    "id": "cg-2078",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿En qué cavidad se aloja el corazón?",
+    "options": [
+      "En la cavidad abdominal",
+      "En la cavidad pélvica",
+      "En la cavidad torácica",
+      "En la cavidad craneal"
+    ],
+    "correctIndex": 2,
+    "explanation": "El corazón se encuentra en la cavidad torácica, entre los pulmones."
+  },
+  {
+    "id": "cg-2079",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué arteria principal sale del ventrículo izquierdo?",
+    "options": [
+      "La arteria pulmonar",
+      "La aorta",
+      "La vena cava",
+      "La arteria carótida"
+    ],
+    "correctIndex": 1,
+    "explanation": "La aorta sale del ventrículo izquierdo y distribuye la sangre al organismo."
+  },
+  {
+    "id": "cg-2080",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Cuál es el hueso del brazo situado entre el hombro y el codo?",
+    "options": [
+      "El húmero",
+      "El fémur",
+      "El radio",
+      "El cúbito"
+    ],
+    "correctIndex": 0,
+    "explanation": "El húmero es el hueso del brazo que articula con el hombro y el codo."
+  },
+  {
+    "id": "cg-2081",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué glándula situada en la base del cerebro produce la hormona del crecimiento?",
+    "options": [
+      "La hipófisis",
+      "La tiroides",
+      "La glándula pineal",
+      "La glándula suprarrenal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hipófisis, en la base del cerebro, secreta la hormona del crecimiento."
+  },
+  {
+    "id": "cg-2082",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué glándulas producen cortisol y adrenalina?",
+    "options": [
+      "La tiroides",
+      "El páncreas",
+      "Las glándulas suprarrenales",
+      "Los ovarios"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las glándulas suprarrenales producen cortisol y adrenalina, entre otras hormonas."
+  },
+  {
+    "id": "cg-2083",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué órgano destruye los glóbulos rojos envejecidos?",
+    "options": [
+      "El riñón",
+      "El páncreas",
+      "El timo",
+      "El bazo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El bazo retira de la circulación los eritrocitos viejos o dañados."
+  },
+  {
+    "id": "cg-2084",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Cuál es el componente líquido de la sangre?",
+    "options": [
+      "La linfa",
+      "El plasma",
+      "La bilis",
+      "La orina"
+    ],
+    "correctIndex": 1,
+    "explanation": "El plasma es la parte líquida de la sangre, rica en agua y proteínas."
+  },
+  {
+    "id": "cg-2085",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué parte del encéfalo coordina el equilibrio y los movimientos finos?",
+    "options": [
+      "El bulbo raquídeo",
+      "El hipotálamo",
+      "El cerebelo",
+      "El lóbulo frontal"
+    ],
+    "correctIndex": 2,
+    "explanation": "El cerebelo coordina el equilibrio, la postura y los movimientos finos."
+  },
+  {
+    "id": "cg-2086",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué estructura del encéfalo regula la respiración y el ritmo cardíaco?",
+    "options": [
+      "El bulbo raquídeo",
+      "El cerebelo",
+      "El tálamo",
+      "La hipófisis"
+    ],
+    "correctIndex": 0,
+    "explanation": "El bulbo raquídeo controla funciones vitales como la respiración y el ritmo cardíaco."
+  },
+  {
+    "id": "cg-2087",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Cuál es el hueso más pequeño del cuerpo humano?",
+    "options": [
+      "El yunque",
+      "El martillo",
+      "La rótula",
+      "El estribo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El estribo, en el oído medio, es el hueso más pequeño del cuerpo."
+  },
+  {
+    "id": "cg-2088",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué órgano produce la melatonina?",
+    "options": [
+      "La hipófisis",
+      "La glándula pineal",
+      "La tiroides",
+      "El páncreas"
+    ],
+    "correctIndex": 1,
+    "explanation": "La glándula pineal produce melatonina y participa en el ciclo de sueño."
+  },
+  {
+    "id": "cg-2089",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué hormona estimula las contracciones del útero durante el parto?",
+    "options": [
+      "La prolactina",
+      "La oxitocina",
+      "La insulina",
+      "La adrenalina"
+    ],
+    "correctIndex": 1,
+    "explanation": "La oxitocina estimula las contracciones uterinas durante el parto."
+  },
+  {
+    "id": "cg-2090",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué conducto lleva la orina del riñón a la vejiga?",
+    "options": [
+      "El uréter",
+      "La uretra",
+      "El conducto deferente",
+      "La trompa de Falopio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los uréteres conducen la orina desde los riñones hasta la vejiga."
+  },
+  {
+    "id": "cg-2091",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Cuántas vértebras cervicales tiene el ser humano?",
+    "options": [
+      "5",
+      "12",
+      "7",
+      "24"
+    ],
+    "correctIndex": 2,
+    "explanation": "El ser humano tiene siete vértebras cervicales."
+  },
+  {
+    "id": "cg-2092",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué estructura del corazón genera el impulso eléctrico que inicia el latido?",
+    "options": [
+      "El nódulo auriculoventricular",
+      "La válvula mitral",
+      "El pericardio",
+      "El nódulo sinoauricular"
+    ],
+    "correctIndex": 3,
+    "explanation": "El nódulo sinoauricular actúa como marcapasos natural del corazón."
+  },
+  {
+    "id": "cg-2093",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Con qué instrumento se mide la presión arterial?",
+    "options": [
+      "El estetoscopio",
+      "El espirómetro",
+      "El esfigmomanómetro",
+      "El otoscopio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El esfigmomanómetro mide la presión arterial."
+  },
+  {
+    "id": "cg-2094",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento se utiliza para auscultar los sonidos del corazón y los pulmones?",
+    "options": [
+      "El oftalmoscopio",
+      "El laringoscopio",
+      "El electrocardiógrafo",
+      "El estetoscopio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El estetoscopio permite auscultar los sonidos del corazón, los pulmones y otros órganos."
+  },
+  {
+    "id": "cg-2095",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué órgano produce el jugo gástrico con ácido clorhídrico?",
+    "options": [
+      "El esófago",
+      "El estómago",
+      "El hígado",
+      "El intestino delgado"
+    ],
+    "correctIndex": 1,
+    "explanation": "El estómago secreta ácido clorhídrico y enzimas que inician la digestión de proteínas."
+  },
+  {
+    "id": "cg-2096",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué médico británico desarrolló en 1796 una vacuna contra la viruela?",
+    "options": [
+      "Edward Jenner",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister"
+    ],
+    "correctIndex": 0,
+    "explanation": "Edward Jenner inoculó material de viruela bovina y demostró la protección contra la viruela humana."
+  },
+  {
+    "id": "cg-2097",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué científico francés desarrolló en 1885 la vacuna antirrábica?",
+    "options": [
+      "Claude Bernard",
+      "Antoine Béclère",
+      "Émile Roux",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 3,
+    "explanation": "Louis Pasteur aplicó con éxito la vacuna antirrábica en 1885."
+  },
+  {
+    "id": "cg-2098",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué médico húngaro defendió el lavado de manos en los hospitales hacia 1847?",
+    "options": [
+      "Ignaz Semmelweis",
+      "Joseph Lister",
+      "Rudolf Virchow",
+      "Robert Koch"
+    ],
+    "correctIndex": 0,
+    "explanation": "Semmelweis observó que el lavado de manos con cloro reducía la fiebre puerperal."
+  },
+  {
+    "id": "cg-2099",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué enfermera británica organizó la atención de los heridos durante la guerra de Crimea?",
+    "options": [
+      "Mary Seacole",
+      "Florence Nightingale",
+      "Clara Barton",
+      "Virginia Henderson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Florence Nightingale reformó la enfermería y la organización sanitaria militar."
+  },
+  {
+    "id": "cg-2100",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué médico griego de la Antigüedad es llamado padre de la medicina occidental?",
+    "options": [
+      "Galeno",
+      "Aristóteles",
+      "Hipócrates",
+      "Avicena"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hipócrates y la escuela de Cos separaron la medicina de las explicaciones mágicas."
+  },
+  {
+    "id": "cg-2101",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué anatomista flamenco publicó en 1543 De humani corporis fabrica?",
+    "options": [
+      "Leonardo da Vinci",
+      "Miguel Servet",
+      "William Harvey",
+      "Andrés Vesalio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vesalio corrigió errores anatómicos de Galeno con disecciones directas."
+  },
+  {
+    "id": "cg-2102",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué médico inglés describió en 1628 la circulación de la sangre?",
+    "options": [
+      "Marcello Malpighi",
+      "Thomas Sydenham",
+      "William Harvey",
+      "John Hunter"
+    ],
+    "correctIndex": 2,
+    "explanation": "Harvey describió el circuito cerrado de la circulación y el papel del corazón como bomba."
+  },
+  {
+    "id": "cg-2103",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué físico alemán descubrió los rayos X en 1895?",
+    "options": [
+      "Wilhelm Röntgen",
+      "Henri Becquerel",
+      "Marie Curie",
+      "Niels Bohr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Röntgen descubrió los rayos X y obtuvo una de las primeras radiografías de la mano de su esposa."
+  },
+  {
+    "id": "cg-2104",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué cirujano británico introdujo el uso de antisépticos en cirugía en 1867?",
+    "options": [
+      "John Snow",
+      "Joseph Lister",
+      "James Simpson",
+      "Astley Cooper"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lister aplicó ácido carbólico a heridas y campos quirúrgicos para reducir infecciones."
+  },
+  {
+    "id": "cg-2105",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué dentista estadounidense demostró en 1846 el uso de éter como anestésico?",
+    "options": [
+      "Horace Wells",
+      "William Morton",
+      "Crawford Long",
+      "James Simpson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Morton demostró en 1846 el uso de éter en una operación pública en Boston."
+  },
+  {
+    "id": "cg-2106",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué bacteriólogo alemán descubrió en 1882 el bacilo causante de la tuberculosis?",
+    "options": [
+      "Robert Koch",
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Ferdinand Cohn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Koch identificó el bacilo tuberculoso y formuló criterios para atribuir enfermedades a microbios."
+  },
+  {
+    "id": "cg-2107",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué investigador canadiense aisló la insulina junto con Charles Best en 1921?",
+    "options": [
+      "John Macleod",
+      "Paul Langerhans",
+      "Claude Bernard",
+      "Frederick Banting"
+    ],
+    "correctIndex": 3,
+    "explanation": "Banting y Best obtuvieron extractos pancreáticos que redujeron la glucemia en perros diabéticos."
+  },
+  {
+    "id": "cg-2108",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué médico austríaco descubrió en 1900 el sistema de grupos sanguíneos ABO?",
+    "options": [
+      "Karl von Rokitansky",
+      "Sigmund Freud",
+      "Karl Landsteiner",
+      "Ignaz Semmelweis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Landsteiner describió los grupos A, B, AB y O y su compatibilidad transfusional."
+  },
+  {
+    "id": "cg-2109",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué cirujano sudafricano realizó en 1967 un trasplante cardíaco humano pionero?",
+    "options": [
+      "Norman Shumway",
+      "Denton Cooley",
+      "Christiaan Barnard",
+      "Michael DeBakey"
+    ],
+    "correctIndex": 2,
+    "explanation": "Barnard realizó en Ciudad del Cabo el trasplante de un corazón humano a Louis Washkansky."
+  },
+  {
+    "id": "cg-2110",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué médica estadounidense creó en 1952 un índice para evaluar la vitalidad del recién nacido?",
+    "options": [
+      "Virginia Apgar",
+      "Helen Taussig",
+      "Elizabeth Blackwell",
+      "Mary Putnam Jacobi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Apgar creó una escala de 0 a 10 para valorar respiración, pulso, reflejos, tono y color."
+  },
+  {
+    "id": "cg-2111",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué química británica obtuvo imágenes de difracción de rayos X del ADN en 1952?",
+    "options": [
+      "Dorothy Hodgkin",
+      "Barbara McClintock",
+      "Marie Curie",
+      "Rosalind Franklin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Franklin obtuvo la famosa imagen 51 de difracción de rayos X del ADN."
+  },
+  {
+    "id": "cg-2112",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué médica nacida en Inglaterra se graduó en medicina en 1849 en Estados Unidos y abrió camino a las mujeres?",
+    "options": [
+      "Clara Barton",
+      "Elizabeth Blackwell",
+      "Mary Seacole",
+      "Virginia Apgar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Blackwell se graduó en 1849 en el Geneva Medical College de Nueva York."
+  },
+  {
+    "id": "cg-2113",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué médico británico relacionó en 1854 un brote de cólera con una bomba de agua de Londres?",
+    "options": [
+      "William Farr",
+      "John Snow",
+      "Edwin Chadwick",
+      "Robert Koch"
+    ],
+    "correctIndex": 1,
+    "explanation": "Snow cartografió los casos y relacionó el brote con la bomba de Broad Street."
+  },
+  {
+    "id": "cg-2114",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué médico griego del siglo II trabajó como médico de gladiadores y atendió a la corte romana?",
+    "options": [
+      "Hipócrates",
+      "Dioscórides",
+      "Sorano de Éfeso",
+      "Galeno"
+    ],
+    "correctIndex": 3,
+    "explanation": "Galeno sistematizó la anatomía y la fisiología antiguas y atendió a gladiadores."
+  },
+  {
+    "id": "cg-2115",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué médico español recibió el Nobel en 1906 por sus estudios sobre la estructura del sistema nervioso?",
+    "options": [
+      "Santiago Ramón y Cajal",
+      "Severo Ochoa",
+      "Gregorio Marañón",
+      "Pío del Río Hortega"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ramón y Cajal describió las neuronas como células individuales y la doctrina neuronal."
+  },
+  {
+    "id": "cg-2116",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué científica nacida en Polonia ganó dos premios Nobel y desarrolló aplicaciones médicas de la radiactividad?",
+    "options": [
+      "Irène Joliot-Curie",
+      "Lise Meitner",
+      "Marie Curie",
+      "Rosalind Franklin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Marie Curie impulsó el uso de la radiactividad en diagnóstico y tratamiento."
+  },
+  {
+    "id": "cg-2117",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué médico escocés describió en 1817 la enfermedad conocida como parálisis agitante?",
+    "options": [
+      "Alois Alzheimer",
+      "Jean-Martin Charcot",
+      "Thomas Sydenham",
+      "James Parkinson"
+    ],
+    "correctIndex": 3,
+    "explanation": "James Parkinson describió la parálisis agitante, hoy enfermedad de Parkinson."
+  },
+  {
+    "id": "cg-2118",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué psiquiatra alemán describió en 1906 la enfermedad neurodegenerativa que lleva su apellido?",
+    "options": [
+      "Alois Alzheimer",
+      "Emil Kraepelin",
+      "Sigmund Freud",
+      "Carl Wernicke"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alois Alzheimer describió placas y ovillos en el cerebro de una paciente con demencia."
+  },
+  {
+    "id": "cg-2119",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué cirujano francés del siglo XVI sustituyó la cauterización por ligaduras en las amputaciones?",
+    "options": [
+      "Guy de Chauliac",
+      "Jean-Louis Petit",
+      "Ambroise Paré",
+      "Dominique Larrey"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ambroise Paré sustituyó la cauterización por ligaduras arteriales y mejoró las prótesis."
+  },
+  {
+    "id": "cg-2120",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué médico árabe del siglo XIII describió el paso de la sangre del ventrículo derecho a los pulmones?",
+    "options": [
+      "Avicena",
+      "Ibn al-Nafis",
+      "Al-Razi",
+      "Averroes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ibn al-Nafis describió la circulación pulmonar siglos antes de que se confirmara en Europa."
+  },
+  {
+    "id": "cg-2121",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué médico persa escribió el Canon de medicina, usado durante siglos en Europa?",
+    "options": [
+      "Al-Razi",
+      "Avicena",
+      "Ibn al-Nafis",
+      "Averroes"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Canon de medicina de Avicena fue texto de referencia en Europa durante siglos."
+  },
+  {
+    "id": "cg-2122",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué médico persa del siglo X distinguió la viruela del sarampión en un tratado influyente?",
+    "options": [
+      "Al-Razi",
+      "Avicena",
+      "Ibn al-Nafis",
+      "Averroes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al-Razi distinguió la viruela del sarampión en un tratado que se tradujo al latín."
+  },
+  {
+    "id": "cg-2123",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué cirujano indio antiguo describió técnicas de reconstrucción nasal?",
+    "options": [
+      "Charaka",
+      "Patanjali",
+      "Sushruta",
+      "Atreya"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sushruta describió en la India antigua técnicas de cirugía nasal y reconstructiva."
+  },
+  {
+    "id": "cg-2124",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué enfermera de origen jamaicano atendió a soldados británicos en Crimea y es recordada por su labor?",
+    "options": [
+      "Florence Nightingale",
+      "Clara Barton",
+      "Edith Cavell",
+      "Mary Seacole"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mary Seacole instaló un hospital y atendió a soldados británicos en Crimea."
+  },
+  {
+    "id": "cg-2125",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué enfermera británica fue fusilada por los alemanes en 1915 por ayudar a escapar a soldados aliados?",
+    "options": [
+      "Edith Cavell",
+      "Florence Nightingale",
+      "Mary Seacole",
+      "Clara Barton"
+    ],
+    "correctIndex": 0,
+    "explanation": "Edith Cavell ayudó a prisioneros aliados a escapar de la Bélgica ocupada."
+  },
+  {
+    "id": "cg-2126",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué suizo impulsó la creación de la Cruz Roja tras la batalla de Solferino?",
+    "options": [
+      "Gustave Moynier",
+      "Florence Nightingale",
+      "Clara Barton",
+      "Henry Dunant"
+    ],
+    "correctIndex": 3,
+    "explanation": "Henry Dunant impulsó la creación de la Cruz Roja tras la batalla de Solferino."
+  },
+  {
+    "id": "cg-2127",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué estadounidense fundó la Cruz Roja de su país en 1881?",
+    "options": [
+      "Dorothea Dix",
+      "Clara Barton",
+      "Mary Livermore",
+      "Louisa May Alcott"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clara Barton fundó la Cruz Roja estadounidense y organizó ayuda humanitaria."
+  },
+  {
+    "id": "cg-2128",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué médico alemán desarrolló en 1935 el Prontosil, una de las primeras sulfamidas eficaces?",
+    "options": [
+      "Paul Ehrlich",
+      "Robert Koch",
+      "Gerhard Domagk",
+      "Emil von Behring"
+    ],
+    "correctIndex": 2,
+    "explanation": "Domagk demostró la acción del Prontosil contra infecciones por estreptococos."
+  },
+  {
+    "id": "cg-2129",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué enfermedad infecciosa fue declarada erradicada por la OMS en 1980?",
+    "options": [
+      "La polio",
+      "El sarampión",
+      "La malaria",
+      "La viruela"
+    ],
+    "correctIndex": 3,
+    "explanation": "La OMS certificó la erradicación mundial de la viruela en 1980."
+  },
+  {
+    "id": "cg-2130",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué vacuna se utiliza para prevenir la tuberculosis?",
+    "options": [
+      "La triple vírica",
+      "La DTP",
+      "La BCG",
+      "La vacuna de la polio inactivada"
+    ],
+    "correctIndex": 2,
+    "explanation": "La BCG es una vacuna con bacilos atenuados que protege sobre todo contra formas graves de tuberculosis."
+  },
+  {
+    "id": "cg-2131",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué enfermedad es causada por el virus del VIH?",
+    "options": [
+      "La hepatitis B",
+      "El SIDA",
+      "El herpes",
+      "La gripe"
+    ],
+    "correctIndex": 1,
+    "explanation": "El VIH destruye linfocitos T CD4 y puede causar el síndrome de inmunodeficiencia adquirida."
+  },
+  {
+    "id": "cg-2132",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué enfermedad transmitida por mosquitos Anopheles es causada por parásitos Plasmodium?",
+    "options": [
+      "La malaria",
+      "El dengue",
+      "La fiebre amarilla",
+      "El chikunguña"
+    ],
+    "correctIndex": 0,
+    "explanation": "La malaria o paludismo es causada por parásitos Plasmodium transmitidos por mosquitos Anopheles."
+  },
+  {
+    "id": "cg-2133",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué bacteria causa la úlcera gástrica asociada a gastritis crónica?",
+    "options": [
+      "Escherichia coli",
+      "Helicobacter pylori",
+      "Vibrio cholerae",
+      "Salmonella typhi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Helicobacter pylori coloniza la mucosa gástrica y se asocia a gastritis y úlceras."
+  },
+  {
+    "id": "cg-2134",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué enfermedad histórica, llamada peste negra en el siglo XIV, es causada por la bacteria Yersinia pestis?",
+    "options": [
+      "El cólera",
+      "El tifus",
+      "La peste bubónica",
+      "La viruela"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yersinia pestis, transmitida por pulgas de roedores, causó la peste negra."
+  },
+  {
+    "id": "cg-2135",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué enfermedad se debe a la falta de insulina o a su acción deficiente?",
+    "options": [
+      "La diabetes mellitus",
+      "La hipertensión",
+      "La anemia",
+      "La gota"
+    ],
+    "correctIndex": 0,
+    "explanation": "La diabetes mellitus se caracteriza por hiperglucemia por déficit o mala acción de la insulina."
+  },
+  {
+    "id": "cg-2136",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué enfermedad hereditaria afecta la coagulación de la sangre?",
+    "options": [
+      "La talasemia",
+      "La drepanocitosis",
+      "La fibrosis quística",
+      "La hemofilia"
+    ],
+    "correctIndex": 3,
+    "explanation": "La hemofilia es un trastorno hereditario de la coagulación por falta de factores como el VIII o el IX."
+  },
+  {
+    "id": "cg-2137",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué síndrome se debe a la presencia de tres copias del cromosoma 21?",
+    "options": [
+      "El síndrome de Down",
+      "El síndrome de Turner",
+      "El síndrome de Klinefelter",
+      "El síndrome de Marfan"
+    ],
+    "correctIndex": 0,
+    "explanation": "El síndrome de Down se debe a una trisomía del cromosoma 21."
+  },
+  {
+    "id": "cg-2138",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué enfermedad de transmisión sexual es causada por Treponema pallidum?",
+    "options": [
+      "La gonorrea",
+      "La sífilis",
+      "La clamidia",
+      "El herpes genital"
+    ],
+    "correctIndex": 1,
+    "explanation": "Treponema pallidum es la espiroqueta que causa la sífilis."
+  },
+  {
+    "id": "cg-2139",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué enfermedad respiratoria crónica se caracteriza por inflamación de las vías aéreas y crisis de broncoespasmo?",
+    "options": [
+      "La neumonía",
+      "La tuberculosis",
+      "El asma",
+      "El enfisema"
+    ],
+    "correctIndex": 2,
+    "explanation": "El asma es una enfermedad inflamatoria crónica de las vías respiratorias con broncoespasmo."
+  },
+  {
+    "id": "cg-2140",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué bacteria causa el cólera?",
+    "options": [
+      "Salmonella typhi",
+      "Shigella dysenteriae",
+      "Escherichia coli",
+      "Vibrio cholerae"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vibrio cholerae causa el cólera, con diarrea acuosa grave y deshidratación."
+  },
+  {
+    "id": "cg-2141",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué bacteria causa la tuberculosis?",
+    "options": [
+      "Mycobacterium leprae",
+      "Mycobacterium tuberculosis",
+      "Streptococcus pneumoniae",
+      "Bordetella pertussis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mycobacterium tuberculosis es el bacilo de Koch, causante de la tuberculosis."
+  },
+  {
+    "id": "cg-2142",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué mosquito transmite el virus de la fiebre amarilla?",
+    "options": [
+      "Aedes aegypti",
+      "Anopheles gambiae",
+      "Culex pipiens",
+      "Phlebotomus papatasi"
+    ],
+    "correctIndex": 0,
+    "explanation": "El mosquito Aedes aegypti transmite el virus de la fiebre amarilla."
+  },
+  {
+    "id": "cg-2143",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué bacteria causa el tétanos?",
+    "options": [
+      "Clostridium botulinum",
+      "Corynebacterium diphtheriae",
+      "Clostridium tetani",
+      "Neisseria meningitidis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Clostridium tetani produce una toxina que causa contracciones musculares intensas."
+  },
+  {
+    "id": "cg-2144",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "easy",
+    "question": "¿Qué virus causó la gripe de 1918?",
+    "options": [
+      "Un virus de influenza A H5N1",
+      "Un virus de influenza B",
+      "Un coronavirus",
+      "Un virus de influenza A H1N1"
+    ],
+    "correctIndex": 3,
+    "explanation": "La gripe de 1918 fue causada por un virus de influenza A del subtipo H1N1."
+  },
+  {
+    "id": "cg-2145",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué estructura del riñón filtra la sangre para formar el filtrado glomerular?",
+    "options": [
+      "El asa de Henle",
+      "El túbulo contorneado distal",
+      "La pelvis renal",
+      "El glomérulo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El glomérulo es un ovillo de capilares donde se produce la filtración inicial del plasma."
+  },
+  {
+    "id": "cg-2146",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué segmento de la nefrona reabsorbe sobre todo el agua y los solutos filtrados?",
+    "options": [
+      "El asa de Henle",
+      "El túbulo contorneado proximal",
+      "El túbulo contorneado distal",
+      "El conducto colector"
+    ],
+    "correctIndex": 1,
+    "explanation": "El túbulo proximal recupera cerca de dos tercios del filtrado, incluidos agua, glucosa y aminoácidos."
+  },
+  {
+    "id": "cg-2147",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué hormona aumenta la reabsorción de agua en los conductos colectores del riñón?",
+    "options": [
+      "La vasopresina",
+      "La aldosterona",
+      "La insulina",
+      "La calcitonina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vasopresina o ADH inserta acuaporinas en el conducto colector y reduce el volumen de orina."
+  },
+  {
+    "id": "cg-2148",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué hormona de la corteza suprarrenal estimula la reabsorción de sodio?",
+    "options": [
+      "El cortisol",
+      "La adrenalina",
+      "La aldosterona",
+      "La testosterona"
+    ],
+    "correctIndex": 2,
+    "explanation": "La aldosterona favorece la reabsorción de sodio y la excreción de potasio en el riñón."
+  },
+  {
+    "id": "cg-2149",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué células de los islotes de Langerhans secretan insulina?",
+    "options": [
+      "Las células alfa",
+      "Las células delta",
+      "Las células acinares",
+      "Las células beta"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las células beta pancreáticas sintetizan insulina y la liberan cuando aumenta la glucemia."
+  },
+  {
+    "id": "cg-2150",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué células de los islotes de Langerhans secretan glucagón?",
+    "options": [
+      "Las células beta",
+      "Las células delta",
+      "Las células alfa",
+      "Las células PP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las células alfa producen glucagón, que eleva la glucosa sanguínea."
+  },
+  {
+    "id": "cg-2151",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué vitamina favorece la absorción intestinal de calcio y fosfato?",
+    "options": [
+      "La vitamina D",
+      "La vitamina K",
+      "La vitamina C",
+      "La vitamina B12"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vitamina D activa incrementa la absorción de calcio y fosfato en el intestino."
+  },
+  {
+    "id": "cg-2152",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué proteína gástrica es necesaria para absorber vitamina B12 en el íleon?",
+    "options": [
+      "La pepsina",
+      "El factor intrínseco",
+      "La gastrina",
+      "La mucina"
+    ],
+    "correctIndex": 1,
+    "explanation": "El factor intrínseco, secretado por células parietales, transporta la vitamina B12 hasta el íleon."
+  },
+  {
+    "id": "cg-2153",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué enzima pancreática degrada proteínas en el intestino delgado?",
+    "options": [
+      "La tripsina",
+      "La amilasa",
+      "La lipasa",
+      "La lactasa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tripsina es una proteasa pancreática que hidroliza enlaces peptídicos."
+  },
+  {
+    "id": "cg-2154",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué enzima pancreática hidroliza las grasas?",
+    "options": [
+      "La pepsina",
+      "La tripsina",
+      "La lipasa",
+      "La maltasa"
+    ],
+    "correctIndex": 2,
+    "explanation": "La lipasa pancreática descompone los triglicéridos en ácidos grasos y monoglicéridos."
+  },
+  {
+    "id": "cg-2155",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué órgano es la principal fuente de eritropoyetina?",
+    "options": [
+      "El hígado",
+      "El riñón",
+      "El bazo",
+      "La médula ósea"
+    ],
+    "correctIndex": 1,
+    "explanation": "El riñón detecta la hipoxia y secreta eritropoyetina para estimular la producción de eritrocitos."
+  },
+  {
+    "id": "cg-2156",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Cuál es el leucocito más abundante en la sangre humana?",
+    "options": [
+      "El linfocito",
+      "El monocito",
+      "El eosinófilo",
+      "El neutrófilo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los neutrófilos constituyen la mayoría de los leucocitos circulantes y participan en la defensa antibacteriana."
+  },
+  {
+    "id": "cg-2157",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué leucocito se transforma en macrófago al entrar en los tejidos?",
+    "options": [
+      "El neutrófilo",
+      "El linfocito B",
+      "El monocito",
+      "El eosinófilo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los monocitos migran a los tejidos y se diferencian en macrófagos."
+  },
+  {
+    "id": "cg-2158",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué clase de anticuerpo atraviesa la placenta y protege al recién nacido?",
+    "options": [
+      "La IgM",
+      "La IgA",
+      "La IgE",
+      "La IgG"
+    ],
+    "correctIndex": 3,
+    "explanation": "La IgG es la única inmunoglobulina que cruza la placenta de forma relevante."
+  },
+  {
+    "id": "cg-2159",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué clase de anticuerpo predomina en la saliva, la leche y otras secreciones?",
+    "options": [
+      "La IgA",
+      "La IgG",
+      "La IgM",
+      "La IgD"
+    ],
+    "correctIndex": 0,
+    "explanation": "La IgA secretora protege las mucosas y se transmite al lactante por la leche."
+  },
+  {
+    "id": "cg-2160",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué célula presenta antígenos a los linfocitos T colaboradores?",
+    "options": [
+      "El eritrocito",
+      "La célula dendrítica",
+      "La plaqueta",
+      "El eosinófilo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las células dendríticas capturan antígenos y los presentan junto a moléculas del MHC."
+  },
+  {
+    "id": "cg-2161",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué cavidad cardíaca recibe la sangre de las venas pulmonares?",
+    "options": [
+      "El ventrículo izquierdo",
+      "La aurícula derecha",
+      "La aurícula izquierda",
+      "El ventrículo derecho"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las venas pulmonares llevan sangre oxigenada a la aurícula izquierda."
+  },
+  {
+    "id": "cg-2162",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué vaso lleva sangre del ventrículo derecho a los pulmones?",
+    "options": [
+      "La vena pulmonar",
+      "La arteria pulmonar",
+      "La aorta",
+      "La arteria coronaria"
+    ],
+    "correctIndex": 1,
+    "explanation": "La arteria pulmonar conduce sangre desoxigenada del ventrículo derecho a los pulmones."
+  },
+  {
+    "id": "cg-2163",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué volumen de sangre tiene aproximadamente un adulto de 70 kilogramos?",
+    "options": [
+      "Unos 2 litros",
+      "Unos 8 litros",
+      "Unos 12 litros",
+      "Unos 5 litros"
+    ],
+    "correctIndex": 3,
+    "explanation": "El volumen sanguíneo de un adulto ronda los 5 litros, cerca del 7 por ciento del peso corporal."
+  },
+  {
+    "id": "cg-2164",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué proteína plasmática mantiene la presión oncótica de la sangre?",
+    "options": [
+      "La albúmina",
+      "La hemoglobina",
+      "El fibrinógeno",
+      "La globulina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La albúmina retiene agua en los capilares y mantiene la presión oncótica del plasma."
+  },
+  {
+    "id": "cg-2165",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué sistema nervioso regula funciones involuntarias como la digestión y la sudoración?",
+    "options": [
+      "El sistema nervioso autónomo",
+      "El sistema nervioso somático",
+      "El sistema piramidal",
+      "El sistema extrapiramidal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El sistema autónomo controla músculo liso, glándulas y vísceras sin intervención consciente."
+  },
+  {
+    "id": "cg-2166",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué división del sistema nervioso autónomo predomina en situaciones de alerta o esfuerzo?",
+    "options": [
+      "La división parasimpática",
+      "La división entérica",
+      "La división somática",
+      "La división simpática"
+    ],
+    "correctIndex": 3,
+    "explanation": "El sistema simpático acelera el corazón, dilata las pupilas y moviliza energía."
+  },
+  {
+    "id": "cg-2167",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué neurotransmisor liberan las fibras parasimpáticas en sus órganos diana?",
+    "options": [
+      "La noradrenalina",
+      "La dopamina",
+      "La acetilcolina",
+      "La serotonina"
+    ],
+    "correctIndex": 2,
+    "explanation": "La acetilcolina media la transmisión parasimpática en ganglios y órganos efectores."
+  },
+  {
+    "id": "cg-2168",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué capa del ojo contiene los fotorreceptores?",
+    "options": [
+      "El iris",
+      "La retina",
+      "La córnea",
+      "La esclerótica"
+    ],
+    "correctIndex": 1,
+    "explanation": "La retina contiene conos y bastones, que transforman la luz en señales nerviosas."
+  },
+  {
+    "id": "cg-2169",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué fotorreceptores permiten distinguir los colores?",
+    "options": [
+      "Los conos",
+      "Los bastones",
+      "Las células ganglionares",
+      "Las células horizontales"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los conos responden a distintas longitudes de onda y permiten la visión cromática."
+  },
+  {
+    "id": "cg-2170",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué parte del oído aloja el martillo, el yunque y el estribo?",
+    "options": [
+      "El oído interno",
+      "El oído externo",
+      "El oído medio",
+      "La trompa de Eustaquio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los tres huesecillos del oído medio amplifican y transmiten las vibraciones sonoras."
+  },
+  {
+    "id": "cg-2171",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué estructura del oído interno, con forma de caracol, interviene en la audición?",
+    "options": [
+      "El vestíbulo",
+      "La cóclea",
+      "Los conductos semicirculares",
+      "El utrículo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La cóclea alberga el órgano de Corti, donde las células ciliadas transforman el sonido en impulsos."
+  },
+  {
+    "id": "cg-2172",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué glándulas secretan la hormona paratiroidea?",
+    "options": [
+      "La tiroides",
+      "La hipófisis",
+      "Las suprarrenales",
+      "Las paratiroides"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las cuatro glándulas paratiroides producen parathormona, que regula el calcio sérico."
+  },
+  {
+    "id": "cg-2173",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué hormona disminuye la concentración de calcio en sangre?",
+    "options": [
+      "La parathormona",
+      "La calcitonina",
+      "La vitamina D",
+      "La insulina"
+    ],
+    "correctIndex": 1,
+    "explanation": "La calcitonina, producida por la tiroides, inhibe la liberación de calcio desde el hueso."
+  },
+  {
+    "id": "cg-2174",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué hormona eleva la concentración de calcio en sangre?",
+    "options": [
+      "La parathormona",
+      "La calcitonina",
+      "La tiroxina",
+      "El cortisol"
+    ],
+    "correctIndex": 0,
+    "explanation": "La parathormona moviliza calcio del hueso, aumenta su absorción intestinal y reduce su excreción renal."
+  },
+  {
+    "id": "cg-2175",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué glándula secreta prolactina?",
+    "options": [
+      "El hipotálamo",
+      "La tiroides",
+      "La hipófisis anterior",
+      "El ovario"
+    ],
+    "correctIndex": 2,
+    "explanation": "La adenohipófisis produce prolactina, necesaria para la lactancia."
+  },
+  {
+    "id": "cg-2176",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué hormona produce el cuerpo lúteo después de la ovulación?",
+    "options": [
+      "El estrógeno",
+      "La LH",
+      "La FSH",
+      "La progesterona"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cuerpo lúteo secreta progesterona para preparar y mantener el endometrio."
+  },
+  {
+    "id": "cg-2177",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué hormona desencadena la ovulación?",
+    "options": [
+      "La LH",
+      "La FSH",
+      "La progesterona",
+      "La prolactina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un pico de hormona luteinizante provoca la ruptura del folículo y la ovulación."
+  },
+  {
+    "id": "cg-2178",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿En qué estructura se produce normalmente la fecundación?",
+    "options": [
+      "En el útero",
+      "En el ovario",
+      "En la vagina",
+      "En la trompa de Falopio"
+    ],
+    "correctIndex": 3,
+    "explanation": "La fecundación suele ocurrir en la ampolla de la trompa de Falopio."
+  },
+  {
+    "id": "cg-2179",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué capa del útero se desprende durante la menstruación?",
+    "options": [
+      "El miometrio",
+      "El perimetrio",
+      "El endometrio",
+      "El cérvix"
+    ],
+    "correctIndex": 2,
+    "explanation": "El endometrio se engrosa cada ciclo y se desprende si no hay implantación."
+  },
+  {
+    "id": "cg-2180",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de músculo forma las paredes de los vasos sanguíneos?",
+    "options": [
+      "El músculo esquelético",
+      "El músculo liso",
+      "El músculo cardíaco",
+      "El músculo estriado"
+    ],
+    "correctIndex": 1,
+    "explanation": "El músculo liso vascular regula el diámetro de arterias y arteriolas."
+  },
+  {
+    "id": "cg-2181",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué proteína se desliza sobre la actina para producir la contracción muscular?",
+    "options": [
+      "El colágeno",
+      "La miosina",
+      "La queratina",
+      "La elastina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los filamentos de miosina se unen a la actina y generan la fuerza contráctil."
+  },
+  {
+    "id": "cg-2182",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué ion entra en la célula muscular y desencadena la contracción?",
+    "options": [
+      "El sodio",
+      "El potasio",
+      "El calcio",
+      "El cloro"
+    ],
+    "correctIndex": 2,
+    "explanation": "El calcio liberado desde el retículo sarcoplásmico permite la interacción entre actina y miosina."
+  },
+  {
+    "id": "cg-2183",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué compuesto almacena energía rápida en el músculo para esfuerzos breves?",
+    "options": [
+      "La creatina fosfato",
+      "El glucógeno",
+      "Los triglicéridos",
+      "El lactato"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fosfocreatina regenera ATP rápidamente durante los primeros segundos de esfuerzo."
+  },
+  {
+    "id": "cg-2184",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué vía produce ácido láctico cuando el músculo trabaja sin suficiente oxígeno?",
+    "options": [
+      "El ciclo de Krebs",
+      "La fosforilación oxidativa",
+      "La beta-oxidación",
+      "La glucólisis anaerobia"
+    ],
+    "correctIndex": 3,
+    "explanation": "La glucólisis anaerobia convierte glucosa en lactato y genera ATP sin oxígeno."
+  },
+  {
+    "id": "cg-2185",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué órgano almacena glucógeno y lo libera para mantener la glucemia?",
+    "options": [
+      "El páncreas",
+      "El bazo",
+      "El hígado",
+      "El riñón"
+    ],
+    "correctIndex": 2,
+    "explanation": "El hígado almacena glucógeno y lo degrada a glucosa cuando desciende la glucemia."
+  },
+  {
+    "id": "cg-2186",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Cuál es el pH habitual del jugo gástrico humano?",
+    "options": [
+      "Entre 5 y 6",
+      "Entre 7 y 8",
+      "Entre 8 y 9",
+      "Entre 1 y 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "El ácido clorhídrico gástrico mantiene un pH muy ácido, cercano a 1-3."
+  },
+  {
+    "id": "cg-2187",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué esfínter evita el reflujo del contenido del estómago hacia el esófago?",
+    "options": [
+      "El esfínter esofágico inferior",
+      "El esfínter pilórico",
+      "El esfínter ileocecal",
+      "El esfínter anal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El esfínter esofágico inferior separa el esófago del estómago y limita el reflujo."
+  },
+  {
+    "id": "cg-2188",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué segmento del intestino delgado recibe la bilis y el jugo pancreático?",
+    "options": [
+      "El yeyuno",
+      "El duodeno",
+      "El íleon",
+      "El colon"
+    ],
+    "correctIndex": 1,
+    "explanation": "El duodeno recibe la bilis por el colédoco y el jugo pancreático por el conducto de Wirsung."
+  },
+  {
+    "id": "cg-2189",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué proyecciones de la mucosa intestinal amplían la superficie de absorción?",
+    "options": [
+      "Los cilios",
+      "Los flagelos",
+      "Las vellosidades",
+      "Los microtúbulos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las vellosidades intestinales, con sus microvellosidades, multiplican la superficie de absorción."
+  },
+  {
+    "id": "cg-2190",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué médico francés inventó el estetoscopio en 1816?",
+    "options": [
+      "René Laennec",
+      "Jean-Martin Charcot",
+      "Claude Bernard",
+      "Xavier Bichat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Laennec ideó un tubo de madera para auscultar el tórax y lo llamó estetoscopio."
+  },
+  {
+    "id": "cg-2191",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué dentista estadounidense utilizó óxido nitroso como anestésico en 1844?",
+    "options": [
+      "William Morton",
+      "Horace Wells",
+      "Crawford Long",
+      "James Simpson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wells probó el óxido nitroso en su propia consulta dental antes de la demostración de Morton."
+  },
+  {
+    "id": "cg-2192",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué médico estadounidense usó éter como anestésico en 1842, antes de la demostración pública de Morton?",
+    "options": [
+      "Horace Wells",
+      "Robert Liston",
+      "John Snow",
+      "Crawford Long"
+    ],
+    "correctIndex": 3,
+    "explanation": "Crawford Long practicó una extracción dental con éter en 1842, pero publicó sus resultados años después."
+  },
+  {
+    "id": "cg-2193",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué médico escocés introdujo el cloroformo en la obstetricia en 1847?",
+    "options": [
+      "James Young Simpson",
+      "Joseph Lister",
+      "Robert Liston",
+      "William Morton"
+    ],
+    "correctIndex": 0,
+    "explanation": "Simpson empleó cloroformo para aliviar el dolor del parto y lo difundió en Gran Bretaña."
+  },
+  {
+    "id": "cg-2194",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué anatomista italiano observó por primera vez los capilares sanguíneos en 1661?",
+    "options": [
+      "William Harvey",
+      "Giovanni Morgagni",
+      "Marcello Malpighi",
+      "Antonio Valsalva"
+    ],
+    "correctIndex": 2,
+    "explanation": "Malpighi completó el esquema de Harvey al describir los capilares que conectan arterias y venas."
+  },
+  {
+    "id": "cg-2195",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué médico francés fundó la histología al describir los tejidos en 1801?",
+    "options": [
+      "Claude Bernard",
+      "François Magendie",
+      "Georges Cuvier",
+      "Xavier Bichat"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bichat identificó tejidos como el conjuntivo, el muscular o el nervioso sin usar el microscopio."
+  },
+  {
+    "id": "cg-2196",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué fisiólogo francés formuló el concepto de medio interno?",
+    "options": [
+      "François Magendie",
+      "Claude Bernard",
+      "Xavier Bichat",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Claude Bernard sostuvo que la estabilidad del medio interno es una condición de la vida libre."
+  },
+  {
+    "id": "cg-2197",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué médico alemán publicó en 1858 la teoría de la patología celular?",
+    "options": [
+      "Robert Koch",
+      "Rudolf Virchow",
+      "Theodor Billroth",
+      "Johannes Müller"
+    ],
+    "correctIndex": 1,
+    "explanation": "Virchow defendió que toda célula procede de otra célula y que la enfermedad se origina en las células."
+  },
+  {
+    "id": "cg-2198",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué médico suizo-francés descubrió en 1894 el bacilo de la peste?",
+    "options": [
+      "Robert Koch",
+      "Louis Pasteur",
+      "Émile Roux",
+      "Alexandre Yersin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Yersin identificó Yersinia pestis durante la epidemia de Hong Kong de 1894."
+  },
+  {
+    "id": "cg-2199",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué médico cubano propuso en 1881 que un mosquito transmitía la fiebre amarilla?",
+    "options": [
+      "Carlos Finlay",
+      "Walter Reed",
+      "William Gorgas",
+      "Ronald Ross"
+    ],
+    "correctIndex": 0,
+    "explanation": "Finlay defendió la transmisión de la fiebre amarilla por Aedes aegypti antes de que se confirmara."
+  },
+  {
+    "id": "cg-2200",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué médico británico demostró en 1897 que mosquitos Anopheles transmiten la malaria aviar?",
+    "options": [
+      "Alphonse Laveran",
+      "Patrick Manson",
+      "Ronald Ross",
+      "Carlos Finlay"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ross describió el ciclo del parásito en el mosquito y recibió el Nobel en 1902."
+  },
+  {
+    "id": "cg-2201",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué médico francés descubrió en 1880 el parásito causante de la malaria?",
+    "options": [
+      "Alphonse Laveran",
+      "Ronald Ross",
+      "Carlos Finlay",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Laveran observó plasmodios en la sangre de pacientes con malaria y recibió el Nobel en 1907."
+  },
+  {
+    "id": "cg-2202",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué médico estadounidense dirigió la comisión que confirmó en 1900 la transmisión de la fiebre amarilla por mosquitos?",
+    "options": [
+      "William Gorgas",
+      "Walter Reed",
+      "Carlos Finlay",
+      "Jesse Lazear"
+    ],
+    "correctIndex": 1,
+    "explanation": "La comisión de Walter Reed demostró experimentalmente el papel del mosquito en la fiebre amarilla."
+  },
+  {
+    "id": "cg-2203",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué médico estadounidense dirigió las campañas sanitarias que redujeron la fiebre amarilla en La Habana y Panamá?",
+    "options": [
+      "Walter Reed",
+      "Carlos Finlay",
+      "Ronald Ross",
+      "William Gorgas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gorgas aplicó medidas de control de mosquitos y saneamiento durante la construcción del canal de Panamá."
+  },
+  {
+    "id": "cg-2204",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué fisiólogo ruso recibió el Nobel en 1904 por sus estudios sobre la digestión?",
+    "options": [
+      "Iliá Méchnikov",
+      "Iván Sechenov",
+      "Ivan Pavlov",
+      "Vladímir Bekhterev"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pavlov estudió los reflejos digestivos y los estímulos condicionados en perros."
+  },
+  {
+    "id": "cg-2205",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué científico ruso compartió el Nobel de 1908 por sus trabajos sobre la inmunidad celular?",
+    "options": [
+      "Iliá Méchnikov",
+      "Ivan Pavlov",
+      "Robert Koch",
+      "Emil von Behring"
+    ],
+    "correctIndex": 0,
+    "explanation": "Méchnikov describió la fagocitosis y la defensa celular frente a microbios."
+  },
+  {
+    "id": "cg-2206",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué médico alemán recibió el Nobel de 1901 por la antitoxina contra la difteria?",
+    "options": [
+      "Robert Koch",
+      "Paul Ehrlich",
+      "Rudolf Virchow",
+      "Emil von Behring"
+    ],
+    "correctIndex": 3,
+    "explanation": "Von Behring desarrolló la seroterapia contra la difteria y el tétanos."
+  },
+  {
+    "id": "cg-2207",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué científico alemán propuso la idea de la bala mágica y desarrolló el Salvarsan contra la sífilis?",
+    "options": [
+      "Gerhard Domagk",
+      "Robert Koch",
+      "Paul Ehrlich",
+      "Emil von Behring"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ehrlich buscó fármacos que atacaran al microorganismo sin dañar al paciente y creó el Salvarsan."
+  },
+  {
+    "id": "cg-2208",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué microbiólogo estadounidense dirigió el equipo que descubrió la estreptomicina en 1943?",
+    "options": [
+      "René Dubos",
+      "Selman Waksman",
+      "Alexander Fleming",
+      "Howard Florey"
+    ],
+    "correctIndex": 1,
+    "explanation": "Waksman acuñó el término antibiótico y su laboratorio aisló la estreptomicina de Streptomyces griseus."
+  },
+  {
+    "id": "cg-2209",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué cirujano estadounidense realizó en 1954 un trasplante renal exitoso entre gemelos idénticos?",
+    "options": [
+      "Thomas Starzl",
+      "Joseph Murray",
+      "Christiaan Barnard",
+      "Michael DeBakey"
+    ],
+    "correctIndex": 1,
+    "explanation": "Murray aprovechó la compatibilidad genética de gemelos y abrió el camino del trasplante de órganos."
+  },
+  {
+    "id": "cg-2210",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué cirujano estadounidense realizó en 1963 un trasplante hepático humano pionero?",
+    "options": [
+      "Joseph Murray",
+      "Roy Calne",
+      "Thomas Starzl",
+      "Francis Moore"
+    ],
+    "correctIndex": 2,
+    "explanation": "Starzl intentó el trasplante de hígado en 1963 y perfeccionó la técnica y la inmunosupresión."
+  },
+  {
+    "id": "cg-2211",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué cirujano argentino popularizó en 1967 el bypass coronario con venas safenas?",
+    "options": [
+      "Michael DeBakey",
+      "Denton Cooley",
+      "Christiaan Barnard",
+      "René Favaloro"
+    ],
+    "correctIndex": 3,
+    "explanation": "Favaloro describió el uso de la vena safena para revascularizar el corazón en la Cleveland Clinic."
+  },
+  {
+    "id": "cg-2212",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué médico argentino recibió el Nobel de 1947 por sus estudios sobre el metabolismo de los hidratos de carbono?",
+    "options": [
+      "Bernardo Houssay",
+      "César Milstein",
+      "Luis Federico Leloir",
+      "René Favaloro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Houssay demostró el papel de la hipófisis en la regulación del metabolismo de la glucosa."
+  },
+  {
+    "id": "cg-2213",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué biólogo argentino recibió el Nobel de 1984 por el desarrollo de anticuerpos monoclonales?",
+    "options": [
+      "Bernardo Houssay",
+      "Luis Federico Leloir",
+      "César Milstein",
+      "René Favaloro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Milstein y Georges Köhler desarrollaron la técnica del hibridoma para producir anticuerpos monoclonales."
+  },
+  {
+    "id": "cg-2214",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué médico venezolano recibió el Nobel de 1980 por sus estudios sobre la genética de la respuesta inmunitaria?",
+    "options": [
+      "Baruj Benacerraf",
+      "Bernardo Houssay",
+      "César Milstein",
+      "Luis Federico Leloir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Benacerraf describió genes que controlan la respuesta inmunitaria y los trasplantes."
+  },
+  {
+    "id": "cg-2215",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué farmacóloga estadounidense compartió el Nobel de 1988 por el diseño de fármacos como la azatioprina?",
+    "options": [
+      "Rita Levi-Montalcini",
+      "Gertrude Elion",
+      "Barbara McClintock",
+      "Rosalind Franklin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Elion y George Hitchings usaron el conocimiento de las purinas para diseñar fármacos selectivos."
+  },
+  {
+    "id": "cg-2216",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué neuróloga italiana recibió el Nobel de 1986 por el descubrimiento del factor de crecimiento nervioso?",
+    "options": [
+      "Gertrude Elion",
+      "Barbara McClintock",
+      "Françoise Barré-Sinoussi",
+      "Rita Levi-Montalcini"
+    ],
+    "correctIndex": 3,
+    "explanation": "Levi-Montalcini descubrió el factor de crecimiento nervioso estudiando el sistema nervioso en desarrollo."
+  },
+  {
+    "id": "cg-2217",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué viróloga francesa del Instituto Pasteur codescubrió el VIH en 1983 y recibió el Nobel en 2008?",
+    "options": [
+      "Harald zur Hausen",
+      "Françoise Barré-Sinoussi",
+      "Robert Gallo",
+      "Peter Piot"
+    ],
+    "correctIndex": 1,
+    "explanation": "Barré-Sinoussi y Luc Montagnier aislaron el VIH en 1983; ella recibió el Nobel junto a Montagnier y zur Hausen."
+  },
+  {
+    "id": "cg-2218",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué científica china recibió el Nobel de 2015 por el descubrimiento de la artemisinina?",
+    "options": [
+      "Youyou Tu",
+      "Katalin Karikó",
+      "Françoise Barré-Sinoussi",
+      "Rita Levi-Montalcini"
+    ],
+    "correctIndex": 0,
+    "explanation": "Youyou Tu aisló la artemisinina de Artemisia annua y la aplicó al tratamiento de la malaria."
+  },
+  {
+    "id": "cg-2219",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué bioquímica húngara recibió el Nobel de 2023 por sus trabajos sobre las vacunas de ARN mensajero?",
+    "options": [
+      "Youyou Tu",
+      "Jennifer Doudna",
+      "Emmanuelle Charpentier",
+      "Katalin Karikó"
+    ],
+    "correctIndex": 3,
+    "explanation": "Karikó y Drew Weissman modificaron nucleósidos del ARN para evitar respuestas inflamatorias excesivas."
+  },
+  {
+    "id": "cg-2220",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué antibiótico descubierto en 1943 resultó eficaz contra la tuberculosis?",
+    "options": [
+      "La penicilina",
+      "La tetraciclina",
+      "La estreptomicina",
+      "El cloranfenicol"
+    ],
+    "correctIndex": 2,
+    "explanation": "La estreptomicina, aislada de Streptomyces griseus, fue el primer antibiótico eficaz contra la tuberculosis."
+  },
+  {
+    "id": "cg-2221",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué grupo de antibióticos sintéticos se introdujo en la década de 1930, antes de la producción masiva de penicilina?",
+    "options": [
+      "Las tetraciclinas",
+      "Los macrólidos",
+      "Los aminoglucósidos",
+      "Las sulfamidas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las sulfamidas, derivadas del Prontosil, demostraron que era posible tratar infecciones con compuestos sintéticos."
+  },
+  {
+    "id": "cg-2222",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué estructura bacteriana es el blanco de la penicilina?",
+    "options": [
+      "La pared celular",
+      "El ribosoma 30S",
+      "La ADN girasa",
+      "La membrana mitocondrial"
+    ],
+    "correctIndex": 0,
+    "explanation": "La penicilina inhibe la síntesis de peptidoglucano y debilita la pared bacteriana."
+  },
+  {
+    "id": "cg-2223",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿A qué componente bacteriano se une la tetraciclina para bloquear la síntesis de proteínas?",
+    "options": [
+      "Al ribosoma 50S",
+      "Al ribosoma 30S",
+      "A la pared celular",
+      "A la ARN polimerasa"
+    ],
+    "correctIndex": 1,
+    "explanation": "La tetraciclina impide la unión del aminoacil-ARNt al sitio A del ribosoma 30S."
+  },
+  {
+    "id": "cg-2224",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué enzima bacteriana destruye el anillo betalactámico de la penicilina?",
+    "options": [
+      "La proteasa",
+      "La lipasa",
+      "La betalactamasa",
+      "La ADN polimerasa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las betalactamasas hidrolizan el anillo betalactámico y generan resistencia a penicilinas."
+  },
+  {
+    "id": "cg-2225",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de fármaco, derivado del gas mostaza, se usó en los años 1940 como quimioterapia contra el cáncer?",
+    "options": [
+      "La mostaza nitrogenada",
+      "El cisplatino",
+      "El metotrexato",
+      "El tamoxifeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "La mostaza nitrogenada fue uno de los primeros agentes alquilantes empleados en quimioterapia."
+  },
+  {
+    "id": "cg-2226",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué médico estadounidense usó en 1948 la aminopterina contra la leucemia infantil?",
+    "options": [
+      "Emil Frei",
+      "James Holland",
+      "Paul Ehrlich",
+      "Sidney Farber"
+    ],
+    "correctIndex": 3,
+    "explanation": "Farber observó remisiones temporales en niños con leucemia tratados con antagonistas del folato."
+  },
+  {
+    "id": "cg-2227",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué fármaco sedante causó focomelia en miles de recién nacidos en los años 1960?",
+    "options": [
+      "El dietilestilbestrol",
+      "El ácido valproico",
+      "La talidomida",
+      "La isotretinoína"
+    ],
+    "correctIndex": 2,
+    "explanation": "La talidomida se vendió como sedante seguro para el embarazo y provocó malformaciones graves."
+  },
+  {
+    "id": "cg-2228",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué médica estadounidense de la FDA bloqueó la aprobación de la talidomida en su país?",
+    "options": [
+      "Virginia Apgar",
+      "Frances Kelsey",
+      "Helen Taussig",
+      "Mary Putnam Jacobi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kelsey exigió más datos sobre seguridad y evitó que la talidomida se comercializara en Estados Unidos."
+  },
+  {
+    "id": "cg-2229",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Cuál es el principio activo de la aspirina?",
+    "options": [
+      "El ácido ascórbico",
+      "El paracetamol",
+      "El ácido acetilsalicílico",
+      "El ibuprofeno"
+    ],
+    "correctIndex": 2,
+    "explanation": "La aspirina es ácido acetilsalicílico, derivado del ácido salicílico de la corteza de sauce."
+  },
+  {
+    "id": "cg-2230",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿De qué planta se extrae la morfina?",
+    "options": [
+      "De la belladona",
+      "De la dedalera",
+      "De la cinchona",
+      "De la amapola del opio"
+    ],
+    "correctIndex": 3,
+    "explanation": "La morfina se obtiene del opio, el látex de la adormidera Papaver somniferum."
+  },
+  {
+    "id": "cg-2231",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué compuesto extraído de la corteza de la cinchona se usó contra la malaria?",
+    "options": [
+      "La digoxina",
+      "La quinina",
+      "La atropina",
+      "La morfina"
+    ],
+    "correctIndex": 1,
+    "explanation": "La quinina, alcaloide de la cinchona, fue el tratamiento clásico de la malaria."
+  },
+  {
+    "id": "cg-2232",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿De qué planta se obtiene la digoxina, usada históricamente en la insuficiencia cardíaca?",
+    "options": [
+      "De la dedalera",
+      "De la amapola",
+      "De la belladona",
+      "Del tabaco"
+    ],
+    "correctIndex": 0,
+    "explanation": "La digoxina procede de Digitalis lanata, la dedalera, y refuerza la contracción cardíaca."
+  },
+  {
+    "id": "cg-2233",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué vitamina antagoniza la warfarina y revierte su efecto anticoagulante?",
+    "options": [
+      "La vitamina C",
+      "La vitamina K",
+      "La vitamina D",
+      "La vitamina B12"
+    ],
+    "correctIndex": 1,
+    "explanation": "La warfarina inhibe la síntesis de factores dependientes de vitamina K; administrar vitamina K revierte su efecto."
+  },
+  {
+    "id": "cg-2234",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿En qué ciudad se aisló la insulina por primera vez en 1921?",
+    "options": [
+      "Toronto",
+      "Montreal",
+      "Boston",
+      "Edimburgo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Banting y Best trabajaron en la Universidad de Toronto, donde obtuvieron extractos pancreáticos activos."
+  },
+  {
+    "id": "cg-2235",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿En qué década se aprobó la insulina humana producida por ingeniería genética?",
+    "options": [
+      "En la década de 1950",
+      "En la década de 1960",
+      "En la década de 1970",
+      "En la década de 1980"
+    ],
+    "correctIndex": 3,
+    "explanation": "La insulina humana recombinante se aprobó en 1982, producida por bacterias modificadas."
+  },
+  {
+    "id": "cg-2236",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de vacuna contra la polio desarrolló Jonas Salk en 1955?",
+    "options": [
+      "Una vacuna de virus atenuados",
+      "Un toxoide",
+      "Una vacuna de virus inactivados",
+      "Una vacuna de subunidades proteicas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Salk desarrolló una vacuna inyectable con virus inactivados por formol."
+  },
+  {
+    "id": "cg-2237",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de vacuna contra la polio desarrolló Albert Sabin para administración oral?",
+    "options": [
+      "Una vacuna de virus inactivados",
+      "Un toxoide",
+      "Una vacuna de ADN recombinante",
+      "Una vacuna de virus atenuados"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sabin desarrolló una vacuna oral con cepas atenuadas que confiere inmunidad intestinal."
+  },
+  {
+    "id": "cg-2238",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué tres enfermedades previene la vacuna triple vírica?",
+    "options": [
+      "Difteria, tétanos y tos ferina",
+      "Hepatitis A, B y C",
+      "Sarampión, paperas y rubéola",
+      "Polio, viruela y varicela"
+    ],
+    "correctIndex": 2,
+    "explanation": "La triple vírica o MMR combina vacunas atenuadas contra sarampión, paperas y rubéola."
+  },
+  {
+    "id": "cg-2239",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué componentes contiene la vacuna DTP clásica?",
+    "options": [
+      "Toxoides diftérico y tetánico y componentes de tos ferina",
+      "Virus vivos de sarampión, paperas y rubéola",
+      "Antígenos de superficie de hepatitis B",
+      "Bacilos atenuados de tuberculosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "La DTP combina toxoides de difteria y tétanos con componentes de Bordetella pertussis."
+  },
+  {
+    "id": "cg-2240",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué dos investigadores desarrollaron la vacuna BCG contra la tuberculosis?",
+    "options": [
+      "Pasteur y Koch",
+      "Calmette y Guérin",
+      "Salk y Sabin",
+      "Jenner y Hunter"
+    ],
+    "correctIndex": 1,
+    "explanation": "Calmette y Guérin atenuaron Mycobacterium bovis durante años y obtuvieron la BCG."
+  },
+  {
+    "id": "cg-2241",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué subtipo de virus causó la gripe de 1918?",
+    "options": [
+      "H1N1",
+      "H5N1",
+      "H3N2",
+      "H7N9"
+    ],
+    "correctIndex": 0,
+    "explanation": "El virus de 1918 era un influenza A H1N1 con genes aviares y humanos."
+  },
+  {
+    "id": "cg-2242",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿En qué año se identificó el VIH como causa del SIDA?",
+    "options": [
+      "1969",
+      "1983",
+      "1975",
+      "1995"
+    ],
+    "correctIndex": 1,
+    "explanation": "El VIH se aisló en 1983 en el Instituto Pasteur, pocos años después de describirse el SIDA."
+  },
+  {
+    "id": "cg-2243",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿En qué año se fundó la Organización Mundial de la Salud?",
+    "options": [
+      "1919",
+      "1945",
+      "1960",
+      "1948"
+    ],
+    "correctIndex": 3,
+    "explanation": "La OMS entró en funcionamiento en 1948 como organismo especializado de Naciones Unidas."
+  },
+  {
+    "id": "cg-2244",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué código de ética para la investigación con seres humanos surgió de los juicios de Núremberg?",
+    "options": [
+      "La Declaración de Helsinki",
+      "El Informe Belmont",
+      "El Código de Núremberg",
+      "El Juramento Hipocrático"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Código de Núremberg de 1947 exigió consentimiento voluntario y justificación científica."
+  },
+  {
+    "id": "cg-2245",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué declaración de 1964 de la Asociación Médica Mundial fijó principios para la investigación con personas?",
+    "options": [
+      "La Declaración de Helsinki",
+      "El Código de Núremberg",
+      "El Informe Belmont",
+      "La Declaración de Ginebra"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Declaración de Helsinki estableció principios éticos para la investigación médica en seres humanos."
+  },
+  {
+    "id": "cg-2246",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué estudio epidemiológico iniciado en 1948 en Massachusetts identificó factores de riesgo cardiovascular?",
+    "options": [
+      "El estudio de las enfermeras",
+      "El estudio de Framingham",
+      "El estudio de los siete países",
+      "El estudio de Whitehall"
+    ],
+    "correctIndex": 1,
+    "explanation": "Framingham siguió a una cohorte y relacionó tabaquismo, hipertensión y colesterol con enfermedad cardiovascular."
+  },
+  {
+    "id": "cg-2247",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué estudio estadounidense observó sin tratamiento la sífilis en hombres afroamericanos entre 1932 y 1972?",
+    "options": [
+      "El estudio de Guatemala",
+      "El estudio de Willowbrook",
+      "El estudio de Tuskegee",
+      "El estudio de Framingham"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tuskegee se convirtió en un caso emblemático de abuso ético y llevó a reformas en la investigación."
+  },
+  {
+    "id": "cg-2248",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "medium",
+    "question": "¿Qué convenio de 1864 estableció la neutralidad del personal sanitario en los conflictos armados?",
+    "options": [
+      "El Tratado de Versalles",
+      "La Convención de La Haya",
+      "El Pacto de Varsovia",
+      "El Convenio de Ginebra"
+    ],
+    "correctIndex": 3,
+    "explanation": "El primer Convenio de Ginebra protegió a los heridos y al personal que los atendía."
+  },
+  {
+    "id": "cg-2249",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué estructura de la nefrona crea el gradiente osmótico que permite concentrar la orina?",
+    "options": [
+      "El glomérulo",
+      "El túbulo contorneado proximal",
+      "El asa de Henle",
+      "La cápsula de Bowman"
+    ],
+    "correctIndex": 2,
+    "explanation": "El asa de Henle genera un gradiente de concentración en la médula renal que permite reabsorber agua."
+  },
+  {
+    "id": "cg-2250",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿En qué segmento del intestino delgado se absorbe principalmente la vitamina B12?",
+    "options": [
+      "En el duodeno",
+      "En el íleon",
+      "En el yeyuno",
+      "En el colon"
+    ],
+    "correctIndex": 1,
+    "explanation": "El complejo vitamina B12-factor intrínseco se absorbe en el íleon terminal."
+  },
+  {
+    "id": "cg-2251",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué enzima gástrica degrada proteínas en medio ácido?",
+    "options": [
+      "La tripsina",
+      "La amilasa",
+      "La lipasa",
+      "La pepsina"
+    ],
+    "correctIndex": 3,
+    "explanation": "La pepsina se activa a partir del pepsinógeno en el ambiente ácido del estómago."
+  },
+  {
+    "id": "cg-2252",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué células del estómago secretan ácido clorhídrico?",
+    "options": [
+      "Las células parietales",
+      "Las células principales",
+      "Las células mucosas",
+      "Las células G"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las células parietales producen ácido clorhídrico y factor intrínseco."
+  },
+  {
+    "id": "cg-2253",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué células del antro gástrico secretan gastrina?",
+    "options": [
+      "Las células G",
+      "Las células parietales",
+      "Las células principales",
+      "Las células D"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las células G liberan gastrina, que estimula la secreción ácida gástrica."
+  },
+  {
+    "id": "cg-2254",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué hormona duodenal estimula la contracción de la vesícula biliar?",
+    "options": [
+      "La secretina",
+      "La gastrina",
+      "La somatostatina",
+      "La colecistoquinina"
+    ],
+    "correctIndex": 3,
+    "explanation": "La colecistoquinina se libera con las grasas y provoca la contracción de la vesícula y la secreción enzimática."
+  },
+  {
+    "id": "cg-2255",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué hormona de los islotes pancreáticos inhibe la secreción de insulina y glucagón?",
+    "options": [
+      "La insulina",
+      "El glucagón",
+      "La somatostatina",
+      "El polipéptido pancreático"
+    ],
+    "correctIndex": 2,
+    "explanation": "La somatostatina pancreática actúa de forma paracrina e inhibe la secreción de otras hormonas del islote."
+  },
+  {
+    "id": "cg-2256",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué región del encéfalo regula la temperatura corporal, el hambre y la sed?",
+    "options": [
+      "El tálamo",
+      "El hipotálamo",
+      "El cerebelo",
+      "El bulbo raquídeo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El hipotálamo integra señales internas y regula la temperatura, el apetito, la sed y el equilibrio hídrico."
+  },
+  {
+    "id": "cg-2257",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué estructura conecta los dos hemisferios cerebrales?",
+    "options": [
+      "El tálamo",
+      "El cuerpo calloso",
+      "El hipocampo",
+      "El quiasma óptico"
+    ],
+    "correctIndex": 1,
+    "explanation": "El cuerpo calloso es un haz de fibras que comunica ambos hemisferios."
+  },
+  {
+    "id": "cg-2258",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué lóbulo cerebral procesa principalmente la información visual?",
+    "options": [
+      "El lóbulo occipital",
+      "El lóbulo frontal",
+      "El lóbulo temporal",
+      "El lóbulo parietal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La corteza occipital alberga las áreas visuales primarias y de asociación."
+  },
+  {
+    "id": "cg-2259",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué área cerebral se asocia con la producción del lenguaje?",
+    "options": [
+      "El área de Wernicke",
+      "El área motora primaria",
+      "El área somatosensorial",
+      "El área de Broca"
+    ],
+    "correctIndex": 3,
+    "explanation": "El área de Broca, en el lóbulo frontal del hemisferio dominante, coordina la expresión del lenguaje."
+  },
+  {
+    "id": "cg-2260",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué estructura del ojo cambia de forma para enfocar objetos a distintas distancias?",
+    "options": [
+      "La córnea",
+      "La retina",
+      "El cristalino",
+      "El iris"
+    ],
+    "correctIndex": 2,
+    "explanation": "El cristalino modifica su curvatura por acción de los músculos ciliares para enfocar."
+  },
+  {
+    "id": "cg-2261",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué sustancia gelatinosa llena la cavidad posterior del globo ocular?",
+    "options": [
+      "El humor acuoso",
+      "Las lágrimas",
+      "El humor vítreo",
+      "El líquido cefalorraquídeo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El humor vítreo ocupa la cavidad posterior del ojo y mantiene su forma."
+  },
+  {
+    "id": "cg-2262",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Cómo se denomina el efecto por el que un pH bajo reduce la afinidad de la hemoglobina por el oxígeno?",
+    "options": [
+      "Efecto Haldane",
+      "Efecto Bohr",
+      "Efecto Frank-Starling",
+      "Efecto Gibbs-Donnan"
+    ],
+    "correctIndex": 1,
+    "explanation": "El efecto Bohr facilita la liberación de oxígeno en tejidos con pH bajo y alta concentración de dióxido de carbono."
+  },
+  {
+    "id": "cg-2263",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de hemoglobina predomina en el feto humano?",
+    "options": [
+      "La hemoglobina A",
+      "La hemoglobina A2",
+      "La hemoglobina S",
+      "La hemoglobina fetal"
+    ],
+    "correctIndex": 3,
+    "explanation": "La hemoglobina fetal tiene mayor afinidad por el oxígeno que la hemoglobina adulta."
+  },
+  {
+    "id": "cg-2264",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué bacteriólogo alemán recibió el Nobel de 1905 por sus estudios sobre la tuberculosis?",
+    "options": [
+      "Robert Koch",
+      "Emil von Behring",
+      "Paul Ehrlich",
+      "Rudolf Virchow"
+    ],
+    "correctIndex": 0,
+    "explanation": "Koch recibió el premio por el descubrimiento del bacilo tuberculoso y sus trabajos sobre la enfermedad."
+  },
+  {
+    "id": "cg-2265",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué cirujano alemán realizó en 1881 una gastrectomía parcial pionera?",
+    "options": [
+      "Bernhard von Langenbeck",
+      "Theodor Billroth",
+      "Ernst von Bergmann",
+      "Vincenz Czerny"
+    ],
+    "correctIndex": 1,
+    "explanation": "Billroth practicó una resección gástrica por cáncer y desarrolló técnicas de anastomosis gastrointestinal."
+  },
+  {
+    "id": "cg-2266",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué cirujano suizo recibió el Nobel de 1909 por sus trabajos sobre la glándula tiroides?",
+    "options": [
+      "Alexandre Yersin",
+      "Paul Karrer",
+      "Emil Theodor Kocher",
+      "Walter Rudolf Hess"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kocher mejoró la cirugía tiroidea y redujo las complicaciones del bocio."
+  },
+  {
+    "id": "cg-2267",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué médico italiano publicó en 1761 De sedibus et causis morborum, que relaciona síntomas con lesiones anatómicas?",
+    "options": [
+      "Marcello Malpighi",
+      "Antonio Valsalva",
+      "Xavier Bichat",
+      "Giovanni Battista Morgagni"
+    ],
+    "correctIndex": 3,
+    "explanation": "Morgagni es considerado fundador de la anatomía patológica por correlacionar clínica y hallazgos de autopsia."
+  },
+  {
+    "id": "cg-2268",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué cirujano británico realizó en 1846 una amputación con éter en el University College Hospital de Londres?",
+    "options": [
+      "Robert Liston",
+      "Astley Cooper",
+      "James Simpson",
+      "John Hunter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Liston operó con anestesia etérea pocos meses después de la demostración de Morton en Boston."
+  },
+  {
+    "id": "cg-2269",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué genetista estadounidense descubrió los transposones en el maíz?",
+    "options": [
+      "Barbara McClintock",
+      "Rosalind Franklin",
+      "Mary-Claire King",
+      "Janet Rowley"
+    ],
+    "correctIndex": 0,
+    "explanation": "McClintock demostró que ciertos elementos genéticos pueden cambiar de posición en el genoma."
+  },
+  {
+    "id": "cg-2270",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué química británica determinó la estructura tridimensional de la insulina y recibió el Nobel en 1964?",
+    "options": [
+      "Rosalind Franklin",
+      "Marie Curie",
+      "Gertrude Elion",
+      "Dorothy Hodgkin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hodgkin aplicó la cristalografía de rayos X a proteínas como la insulina y la penicilina."
+  },
+  {
+    "id": "cg-2271",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué bioquímico británico desarrolló un método de secuenciación del ADN y recibió dos premios Nobel?",
+    "options": [
+      "Kary Mullis",
+      "Francis Crick",
+      "Frederick Sanger",
+      "James Watson"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sanger secuenció proteínas y ADN; sus métodos fueron clave para leer genomas."
+  },
+  {
+    "id": "cg-2272",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué químico estadounidense inventó en 1983 la reacción en cadena de la polimerasa?",
+    "options": [
+      "Frederick Sanger",
+      "Kary Mullis",
+      "Alec Jeffreys",
+      "David Baltimore"
+    ],
+    "correctIndex": 1,
+    "explanation": "La PCR permite amplificar fragmentos de ADN millones de veces y revolucionó el diagnóstico."
+  },
+  {
+    "id": "cg-2273",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué genetista británico desarrolló en 1984 la técnica de las huellas genéticas?",
+    "options": [
+      "Alec Jeffreys",
+      "Kary Mullis",
+      "Frederick Sanger",
+      "James Watson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jeffreys observó patrones repetitivos del ADN únicos en cada individuo y los aplicó a la identificación."
+  },
+  {
+    "id": "cg-2274",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué físico británico propuso con James Watson el modelo de doble hélice del ADN en 1953?",
+    "options": [
+      "Maurice Wilkins",
+      "Linus Pauling",
+      "Erwin Chargaff",
+      "Francis Crick"
+    ],
+    "correctIndex": 3,
+    "explanation": "Crick y Watson publicaron el modelo de doble hélice basándose en datos de difracción de rayos X."
+  },
+  {
+    "id": "cg-2275",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué médico alemán se practicó en 1929 un cateterismo cardíaco en sí mismo?",
+    "options": [
+      "André Cournand",
+      "Dickinson Richards",
+      "Werner Forssmann",
+      "Willem Einthoven"
+    ],
+    "correctIndex": 2,
+    "explanation": "Forssmann introdujo un catéter en su propia vena y lo llevó hasta el corazón, abriendo la cardiología intervencionista."
+  },
+  {
+    "id": "cg-2276",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué fisiólogo neerlandés desarrolló el electrocardiógrafo y recibió el Nobel en 1924?",
+    "options": [
+      "Werner Forssmann",
+      "Willem Einthoven",
+      "Willem Kolff",
+      "Christiaan Barnard"
+    ],
+    "correctIndex": 1,
+    "explanation": "Einthoven usó el galvanómetro de cuerda para registrar la actividad eléctrica del corazón."
+  },
+  {
+    "id": "cg-2277",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué médico neerlandés desarrolló en 1943 una máquina de diálisis eficaz?",
+    "options": [
+      "Willem Einthoven",
+      "John Gibbon",
+      "Belding Scribner",
+      "Willem Kolff"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kolff construyó un riñón artificial con tubos de celofán y trató a pacientes con insuficiencia renal."
+  },
+  {
+    "id": "cg-2278",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué cirujano estadounidense desarrolló en 1953 la máquina de circulación extracorpórea?",
+    "options": [
+      "Willem Kolff",
+      "Michael DeBakey",
+      "John Gibbon",
+      "Denton Cooley"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gibbon utilizó una bomba de oxigenación para operar el corazón detenido en cirugía a tórax abierto."
+  },
+  {
+    "id": "cg-2279",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué cirujano estadounidense implantó en 1969 un corazón artificial total en un paciente?",
+    "options": [
+      "Michael DeBakey",
+      "Denton Cooley",
+      "Willem Kolff",
+      "Christiaan Barnard"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cooley implantó un dispositivo diseñado por Domingo Liotta como puente hasta el trasplante."
+  },
+  {
+    "id": "cg-2280",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué cirujano estadounidense desarrolló técnicas de bypass y prótesis vasculares en el siglo XX?",
+    "options": [
+      "Michael DeBakey",
+      "Denton Cooley",
+      "John Gibbon",
+      "René Favaloro"
+    ],
+    "correctIndex": 0,
+    "explanation": "DeBakey impulsó la cirugía vascular, las prótesis de Dacron y los bypass arteriales."
+  },
+  {
+    "id": "cg-2281",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué cardióloga pediátrica estadounidense describió el síndrome del bebé azul y colaboró con Blalock?",
+    "options": [
+      "Virginia Apgar",
+      "Maude Abbott",
+      "Helen Taussig",
+      "Mary Edwards Walker"
+    ],
+    "correctIndex": 2,
+    "explanation": "Taussig estudió las cardiopatías congénitas cianóticas y propuso la anastomosis que Blalock realizó."
+  },
+  {
+    "id": "cg-2282",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué técnico quirúrgico afroamericano desarrolló la técnica del shunt de Blalock-Taussig?",
+    "options": [
+      "Charles Drew",
+      "Daniel Hale Williams",
+      "Louis Wright",
+      "Vivien Thomas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vivien Thomas perfeccionó en el laboratorio la anastomosis que permitió tratar la tetralogía de Fallot."
+  },
+  {
+    "id": "cg-2283",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué cirujano afroamericano realizó en 1893 una reparación pionera del pericardio?",
+    "options": [
+      "Daniel Hale Williams",
+      "Charles Drew",
+      "Vivien Thomas",
+      "Louis Wright"
+    ],
+    "correctIndex": 0,
+    "explanation": "Williams suturó una herida cardíaca y demostró que la cirugía del pericardio era posible."
+  },
+  {
+    "id": "cg-2284",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué médico afroamericano organizó bancos de sangre y mejoró la conservación del plasma durante la Segunda Guerra Mundial?",
+    "options": [
+      "Daniel Hale Williams",
+      "Charles Drew",
+      "Vivien Thomas",
+      "Louis Wright"
+    ],
+    "correctIndex": 1,
+    "explanation": "Drew desarrolló técnicas de separación y almacenamiento de plasma para transfusiones masivas."
+  },
+  {
+    "id": "cg-2285",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué bacteriólogo danés desarrolló en 1884 una tinción que divide las bacterias en grampositivas y gramnegativas?",
+    "options": [
+      "Julius Petri",
+      "Robert Koch",
+      "Hans Christian Gram",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 2,
+    "explanation": "La tinción de Gram se basa en diferencias de la pared celular y sigue siendo una herramienta básica."
+  },
+  {
+    "id": "cg-2286",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué bacteriólogo alemán diseñó las placas de cultivo redondas que llevan su nombre?",
+    "options": [
+      "Julius Petri",
+      "Hans Christian Gram",
+      "Robert Koch",
+      "Ferdinand Cohn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Petri ideó la placa transparente de vidrio que facilita el cultivo y la observación de colonias."
+  },
+  {
+    "id": "cg-2287",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué médico griego-estadounidense desarrolló la citología exfoliativa para detectar cáncer de cuello uterino?",
+    "options": [
+      "Hans Christian Gram",
+      "George Papanicolaou",
+      "Karl Landsteiner",
+      "Jonas Salk"
+    ],
+    "correctIndex": 1,
+    "explanation": "La prueba de Papanicolaou analiza células del cuello uterino y permitió el cribado del cáncer cervical."
+  },
+  {
+    "id": "cg-2288",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué bacteriólogo británico desarrolló una vacuna contra la fiebre tifoidea a finales del siglo XIX?",
+    "options": [
+      "Waldemar Haffkine",
+      "Robert Koch",
+      "Louis Pasteur",
+      "Almroth Wright"
+    ],
+    "correctIndex": 3,
+    "explanation": "Wright desarrolló una vacuna con bacilos muertos que se usó en el ejército británico."
+  },
+  {
+    "id": "cg-2289",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué bacteriólogo ruso-francés desarrolló una vacuna contra la peste a finales del siglo XIX?",
+    "options": [
+      "Almroth Wright",
+      "Alexandre Yersin",
+      "Waldemar Haffkine",
+      "Émile Roux"
+    ],
+    "correctIndex": 2,
+    "explanation": "Haffkine preparó vacunas contra el cólera y la peste y las probó en la India."
+  },
+  {
+    "id": "cg-2290",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué médico brasileño describió en 1909 la enfermedad causada por Trypanosoma cruzi?",
+    "options": [
+      "Oswaldo Cruz",
+      "Carlos Chagas",
+      "Adolfo Lutz",
+      "Manuel Elkin Patarroyo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chagas describió el agente, el vector y las manifestaciones de la enfermedad que lleva su nombre."
+  },
+  {
+    "id": "cg-2291",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué médico brasileño lideró a comienzos del siglo XX la campaña contra la fiebre amarilla en Río de Janeiro?",
+    "options": [
+      "Carlos Chagas",
+      "Adolfo Lutz",
+      "Vital Brazil",
+      "Oswaldo Cruz"
+    ],
+    "correctIndex": 3,
+    "explanation": "Oswaldo Cruz impulsó la vacunación y el control de mosquitos como parte de la salud pública brasileña."
+  },
+  {
+    "id": "cg-2292",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué médico colombiano desarrolló una vacuna sintética contra la malaria?",
+    "options": [
+      "Manuel Elkin Patarroyo",
+      "Carlos Chagas",
+      "Oswaldo Cruz",
+      "Bernardo Houssay"
+    ],
+    "correctIndex": 0,
+    "explanation": "Patarroyo desarrolló una vacuna sintética basada en péptidos del parásito Plasmodium."
+  },
+  {
+    "id": "cg-2293",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué médico británico demostró en 1950, con Austin Bradford Hill, la relación entre tabaco y cáncer de pulmón?",
+    "options": [
+      "Richard Peto",
+      "Richard Doll",
+      "Archie Cochrane",
+      "Jerry Cornfield"
+    ],
+    "correctIndex": 1,
+    "explanation": "Doll y Hill compararon pacientes con cáncer de pulmón y controles y hallaron una fuerte asociación con el tabaquismo."
+  },
+  {
+    "id": "cg-2294",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué epidemiólogo británico formuló criterios para evaluar si una asociación estadística es causal?",
+    "options": [
+      "Richard Doll",
+      "John Snow",
+      "Archie Cochrane",
+      "Austin Bradford Hill"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los criterios de Bradford Hill incluyen temporalidad, fuerza, coherencia y plausibilidad biológica."
+  },
+  {
+    "id": "cg-2295",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué neurólogo francés describió en 1869 la esclerosis lateral amiotrófica?",
+    "options": [
+      "Jean-Martin Charcot",
+      "Guillaume Duchenne",
+      "Pierre Marie",
+      "Jules Dejerine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Charcot describió la degeneración de las neuronas motoras y le dio el nombre a la enfermedad."
+  },
+  {
+    "id": "cg-2296",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué médico francés describió la distrofia muscular que lleva su nombre?",
+    "options": [
+      "Jean-Martin Charcot",
+      "Pierre Marie",
+      "Guillaume Duchenne",
+      "Jules Dejerine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Duchenne describió la distrofia muscular progresiva y utilizó la biopsia muscular para estudiarla."
+  },
+  {
+    "id": "cg-2297",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué neurólogo portugués recibió el Nobel de 1949 por la lobotomía prefrontal?",
+    "options": [
+      "Walter Freeman",
+      "Wilder Penfield",
+      "Egas Moniz",
+      "Harvey Cushing"
+    ],
+    "correctIndex": 2,
+    "explanation": "Moniz desarrolló la leucotomía prefrontal, hoy abandonada por sus graves efectos adversos."
+  },
+  {
+    "id": "cg-2298",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué neurocirujano canadiense elaboró mapas de la corteza cerebral mediante estimulación eléctrica?",
+    "options": [
+      "Egas Moniz",
+      "Wilder Penfield",
+      "Walter Freeman",
+      "Harvey Cushing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Penfield estimuló la corteza de pacientes despiertos y dibujó el homúnculo motor y sensitivo."
+  },
+  {
+    "id": "cg-2299",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué neurocirujano estadounidense es considerado fundador de la neurocirugía moderna?",
+    "options": [
+      "Harvey Cushing",
+      "Wilder Penfield",
+      "Walter Dandy",
+      "Victor Horsley"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cushing perfeccionó técnicas neuroquirúrgicas, estudió la presión intracraneal y describió el síndrome de Cushing."
+  },
+  {
+    "id": "cg-2300",
+    "category": "general",
+    "topic": "medicine",
+    "difficulty": "hard",
+    "question": "¿Qué médico francés describió en 1886 la acromegalia?",
+    "options": [
+      "Jean-Martin Charcot",
+      "Guillaume Duchenne",
+      "Jules Dejerine",
+      "Pierre Marie"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pierre Marie relacionó la acromegalia con un tumor de la hipófisis y el exceso de hormona del crecimiento."
+  }
+]

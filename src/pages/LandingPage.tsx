@@ -129,7 +129,7 @@ export function LandingPage() {
             <span className="badge badge-muted">🌍 Cultura general</span>
             <span className="badge badge-muted">🎮 Videojuegos</span>
             <span className="badge badge-muted">📺 Series de los 90</span>
-            <span className="badge badge-cyan">1.050 preguntas</span>
+            <span className="badge badge-cyan">6.050 preguntas</span>
           </div>
 
           <div className="mt-9 grid max-w-lg grid-cols-3 gap-3">

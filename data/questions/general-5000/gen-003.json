@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-1521",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué metal tiene el símbolo químico Au?",
+    "options": [
+      "Plata",
+      "Oro",
+      "Hierro",
+      "Cobre"
+    ],
+    "correctIndex": 1,
+    "explanation": "El símbolo Au proviene del latín aurum, nombre del oro."
+  },
+  {
+    "id": "cg-1522",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del hierro?",
+    "options": [
+      "Ir",
+      "Fr",
+      "Mn",
+      "Fe"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fe viene de ferrum, nombre latino del hierro."
+  },
+  {
+    "id": "cg-1523",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué elemento químico tiene el símbolo Na?",
+    "options": [
+      "Potasio",
+      "Níquel",
+      "Sodio",
+      "Nitrógeno"
+    ],
+    "correctIndex": 2,
+    "explanation": "Na proviene de natrium, nombre latino del sodio."
+  },
+  {
+    "id": "cg-1524",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué gas constituye cerca del 78 % de la atmósfera terrestre?",
+    "options": [
+      "Oxígeno",
+      "Argón",
+      "Dióxido de carbono",
+      "Nitrógeno"
+    ],
+    "correctIndex": 3,
+    "explanation": "El nitrógeno constituye cerca del 78 % del aire que respiramos."
+  },
+  {
+    "id": "cg-1525",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué gas necesitan las células humanas para obtener energía mediante la respiración?",
+    "options": [
+      "Nitrógeno",
+      "Oxígeno",
+      "Helio",
+      "Hidrógeno"
+    ],
+    "correctIndex": 1,
+    "explanation": "La respiración celular usa oxígeno para liberar energía de los nutrientes."
+  },
+  {
+    "id": "cg-1526",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué compuesto tiene la fórmula química H2O?",
+    "options": [
+      "Peróxido de hidrógeno",
+      "Agua",
+      "Dióxido de carbono",
+      "Sal común"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cada molécula de agua tiene dos átomos de hidrógeno y uno de oxígeno."
+  },
+  {
+    "id": "cg-1527",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué compuesto es la sal de mesa común?",
+    "options": [
+      "Bicarbonato de sodio",
+      "Sulfato de calcio",
+      "Nitrato de potasio",
+      "Cloruro de sodio"
+    ],
+    "correctIndex": 3,
+    "explanation": "La sal de mesa es cloruro de sodio, de fórmula NaCl."
+  },
+  {
+    "id": "cg-1528",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿En qué estado de la materia la sustancia tiene forma y volumen definidos?",
+    "options": [
+      "Sólido",
+      "Líquido",
+      "Gas",
+      "Plasma"
+    ],
+    "correctIndex": 0,
+    "explanation": "En el estado sólido las partículas están muy próximas y mantienen posiciones fijas."
+  },
+  {
+    "id": "cg-1529",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe el paso de una sustancia de líquido a gas?",
+    "options": [
+      "Condensación",
+      "Sublimación",
+      "Evaporación",
+      "Fusión"
+    ],
+    "correctIndex": 2,
+    "explanation": "La evaporación es el paso de líquido a vapor."
+  },
+  {
+    "id": "cg-1530",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el cambio de vapor de agua a agua líquida?",
+    "options": [
+      "Evaporación",
+      "Condensación",
+      "Fusión",
+      "Sublimación"
+    ],
+    "correctIndex": 1,
+    "explanation": "La condensación es el cambio de gas a líquido."
+  },
+  {
+    "id": "cg-1531",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué indica el número atómico de un elemento?",
+    "options": [
+      "La masa atómica",
+      "El número de neutrones",
+      "El número de protones",
+      "La valencia"
+    ],
+    "correctIndex": 2,
+    "explanation": "El número atómico indica los protones del núcleo y define el elemento."
+  },
+  {
+    "id": "cg-1532",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué partícula subatómica tiene carga eléctrica negativa?",
+    "options": [
+      "Protón",
+      "Neutrón",
+      "Electrón",
+      "Fotón"
+    ],
+    "correctIndex": 2,
+    "explanation": "El electrón tiene carga negativa y orbita el núcleo."
+  },
+  {
+    "id": "cg-1533",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué partícula del núcleo atómico carece de carga eléctrica?",
+    "options": [
+      "Electrón",
+      "Neutrón",
+      "Protón",
+      "Ion"
+    ],
+    "correctIndex": 1,
+    "explanation": "El neutrón no tiene carga eléctrica y se encuentra en el núcleo."
+  },
+  {
+    "id": "cg-1534",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué elemento químico posee un único protón en su núcleo?",
+    "options": [
+      "Hidrógeno",
+      "Helio",
+      "Litio",
+      "Carbono"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hidrógeno tiene un solo protón y es el elemento más ligero."
+  },
+  {
+    "id": "cg-1535",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué metal es líquido a temperatura ambiente?",
+    "options": [
+      "Plomo",
+      "Zinc",
+      "Estaño",
+      "Mercurio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El mercurio es el único metal que es líquido a temperatura ambiente."
+  },
+  {
+    "id": "cg-1536",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del carbono?",
+    "options": [
+      "Ca",
+      "Co",
+      "C",
+      "Cl"
+    ],
+    "correctIndex": 2,
+    "explanation": "El carbono se representa con la letra C."
+  },
+  {
+    "id": "cg-1537",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del oxígeno?",
+    "options": [
+      "N",
+      "H",
+      "C",
+      "O"
+    ],
+    "correctIndex": 3,
+    "explanation": "El oxígeno se representa con la letra O."
+  },
+  {
+    "id": "cg-1538",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del calcio?",
+    "options": [
+      "Ca",
+      "C",
+      "Cl",
+      "Cr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ca es el símbolo del calcio, metal del grupo 2."
+  },
+  {
+    "id": "cg-1539",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del potasio?",
+    "options": [
+      "P",
+      "K",
+      "Po",
+      "Pt"
+    ],
+    "correctIndex": 1,
+    "explanation": "K proviene de kalium, nombre latino del potasio."
+  },
+  {
+    "id": "cg-1540",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del plomo?",
+    "options": [
+      "Pd",
+      "Pb",
+      "Pt",
+      "P"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pb viene de plumbum, nombre latino del plomo."
+  },
+  {
+    "id": "cg-1541",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué elemento químico tiene el símbolo Sn?",
+    "options": [
+      "Estaño",
+      "Azufre",
+      "Silicio",
+      "Escandio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sn proviene de stannum, nombre latino del estaño."
+  },
+  {
+    "id": "cg-1542",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del cobre?",
+    "options": [
+      "Co",
+      "Cr",
+      "Cu",
+      "C"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cu viene de cuprum, nombre latino del cobre."
+  },
+  {
+    "id": "cg-1543",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico de la plata?",
+    "options": [
+      "Al",
+      "Ag",
+      "Au",
+      "Ar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ag proviene de argentum, nombre latino de la plata."
+  },
+  {
+    "id": "cg-1544",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué ácido es responsable del sabor agrio del limón?",
+    "options": [
+      "Ácido acético",
+      "Ácido cítrico",
+      "Ácido láctico",
+      "Ácido fórmico"
+    ],
+    "correctIndex": 1,
+    "explanation": "El limón contiene ácido cítrico, causante de su sabor ácido."
+  },
+  {
+    "id": "cg-1545",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué ácido es el principal responsable de la acidez del vinagre?",
+    "options": [
+      "Ácido cítrico",
+      "Ácido sulfúrico",
+      "Ácido acético",
+      "Ácido clorhídrico"
+    ],
+    "correctIndex": 2,
+    "explanation": "El vinagre debe su acidez al ácido acético."
+  },
+  {
+    "id": "cg-1546",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué ácido contiene el jugo gástrico del estómago humano?",
+    "options": [
+      "Ácido sulfúrico",
+      "Ácido nítrico",
+      "Ácido clorhídrico",
+      "Ácido acético"
+    ],
+    "correctIndex": 2,
+    "explanation": "El jugo gástrico contiene ácido clorhídrico, que ayuda a digerir."
+  },
+  {
+    "id": "cg-1547",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué escala se usa para medir la acidez o basicidad de una disolución?",
+    "options": [
+      "Kelvin",
+      "pH",
+      "Decibel",
+      "Mol"
+    ],
+    "correctIndex": 1,
+    "explanation": "La escala de pH mide la acidez o basicidad de una disolución."
+  },
+  {
+    "id": "cg-1548",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué valor de pH corresponde a una disolución neutra a 25 °C?",
+    "options": [
+      "0",
+      "14",
+      "7",
+      "1"
+    ],
+    "correctIndex": 2,
+    "explanation": "A 25 °C, una disolución neutra tiene pH 7."
+  },
+  {
+    "id": "cg-1549",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de sustancia neutraliza a un ácido?",
+    "options": [
+      "Una base",
+      "Otro ácido",
+      "Una sal",
+      "Un disolvente orgánico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una base reacciona con un ácido para formar sal y agua."
+  },
+  {
+    "id": "cg-1550",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es la fórmula química del dióxido de carbono?",
+    "options": [
+      "CO2",
+      "CO",
+      "C2O",
+      "O2"
+    ],
+    "correctIndex": 0,
+    "explanation": "El dióxido de carbono tiene un átomo de carbono y dos de oxígeno."
+  },
+  {
+    "id": "cg-1551",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es la fórmula química del amoniaco?",
+    "options": [
+      "NH4",
+      "NO2",
+      "CH4",
+      "NH3"
+    ],
+    "correctIndex": 3,
+    "explanation": "El amoniaco tiene la fórmula NH3."
+  },
+  {
+    "id": "cg-1552",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es la fórmula química del metano?",
+    "options": [
+      "CH3",
+      "C2H6",
+      "CH4",
+      "CO2"
+    ],
+    "correctIndex": 2,
+    "explanation": "El metano, principal componente del gas natural, es CH4."
+  },
+  {
+    "id": "cg-1553",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es la fórmula química del ozono?",
+    "options": [
+      "O2",
+      "O",
+      "O3",
+      "CO2"
+    ],
+    "correctIndex": 2,
+    "explanation": "El ozono es una forma de oxígeno con tres átomos por molécula."
+  },
+  {
+    "id": "cg-1554",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es la fórmula química de la sal común?",
+    "options": [
+      "NaCl",
+      "KCl",
+      "NaHCO3",
+      "CaCO3"
+    ],
+    "correctIndex": 0,
+    "explanation": "La sal común o cloruro de sodio se escribe NaCl."
+  },
+  {
+    "id": "cg-1555",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe una mezcla sólida de metales o de un metal con otros elementos?",
+    "options": [
+      "Compuesto iónico",
+      "Polímero",
+      "Isótopo",
+      "Aleación"
+    ],
+    "correctIndex": 3,
+    "explanation": "Una aleación es una mezcla sólida de metales o de un metal con otros elementos."
+  },
+  {
+    "id": "cg-1556",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué metales forman el bronce?",
+    "options": [
+      "Cobre y zinc",
+      "Cobre y estaño",
+      "Hierro y carbono",
+      "Aluminio y magnesio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El bronce es una aleación de cobre y estaño."
+  },
+  {
+    "id": "cg-1557",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué metales forman el latón?",
+    "options": [
+      "Cobre y estaño",
+      "Cobre y zinc",
+      "Hierro y níquel",
+      "Plomo y estaño"
+    ],
+    "correctIndex": 1,
+    "explanation": "El latón se obtiene al alear cobre con zinc."
+  },
+  {
+    "id": "cg-1558",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué dos elementos forman principalmente el acero?",
+    "options": [
+      "Cobre y estaño",
+      "Hierro y carbono",
+      "Aluminio y silicio",
+      "Níquel y cromo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El acero es hierro con una pequeña proporción de carbono."
+  },
+  {
+    "id": "cg-1559",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué metal, de símbolo Cu, se usa tradicionalmente en cables eléctricos?",
+    "options": [
+      "Aluminio",
+      "Hierro",
+      "Plomo",
+      "Cobre"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cobre conduce bien la electricidad y se usa en conductores."
+  },
+  {
+    "id": "cg-1560",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué metal ligero se emplea en aleaciones para la industria aeronáutica?",
+    "options": [
+      "Hierro",
+      "Plomo",
+      "Aluminio",
+      "Mercurio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El aluminio es ligero y resistente, por eso se usa en aeronaves."
+  },
+  {
+    "id": "cg-1561",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿De qué mineral se extrae principalmente el hierro?",
+    "options": [
+      "Bauxita",
+      "Galena",
+      "Cinabrio",
+      "Hematita"
+    ],
+    "correctIndex": 3,
+    "explanation": "La hematita es un mineral de hierro, de fórmula Fe2O3."
+  },
+  {
+    "id": "cg-1562",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿De qué mineral se extrae el aluminio?",
+    "options": [
+      "Hematita",
+      "Bauxita",
+      "Galena",
+      "Cinabrio"
+    ],
+    "correctIndex": 1,
+    "explanation": "De la bauxita se extrae el aluminio mediante electrólisis."
+  },
+  {
+    "id": "cg-1563",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué material se obtiene al cocer arcilla y se usa en ladrillos, vasijas y azulejos?",
+    "options": [
+      "Vidrio",
+      "Acero",
+      "Cerámica",
+      "Plástico"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cerámica se fabrica cociendo arcilla moldeada a alta temperatura."
+  },
+  {
+    "id": "cg-1564",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué materia prima principal se funde para fabricar vidrio común?",
+    "options": [
+      "Arena de sílice",
+      "Arcilla",
+      "Caliza",
+      "Yeso"
+    ],
+    "correctIndex": 0,
+    "explanation": "El vidrio se fabrica fundiendo arena de sílice con carbonato de sodio y caliza."
+  },
+  {
+    "id": "cg-1565",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué polímero natural abunda en la madera y forma la base del papel?",
+    "options": [
+      "Queratina",
+      "Celulosa",
+      "Colágeno",
+      "Quitina"
+    ],
+    "correctIndex": 1,
+    "explanation": "La celulosa es un polímero de glucosa presente en las paredes de las células vegetales."
+  },
+  {
+    "id": "cg-1566",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué gas se usa en globos aerostáticos por ser menos denso que el aire y no inflamable?",
+    "options": [
+      "Hidrógeno",
+      "Nitrógeno",
+      "Helio",
+      "Argón"
+    ],
+    "correctIndex": 2,
+    "explanation": "El helio es menos denso que el aire y no es inflamable."
+  },
+  {
+    "id": "cg-1567",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué gas noble produce la luz rojiza característica de muchos letreros luminosos?",
+    "options": [
+      "Argón",
+      "Criptón",
+      "Helio",
+      "Neón"
+    ],
+    "correctIndex": 3,
+    "explanation": "El neón emite una luz rojiza característica en los tubos de descarga."
+  },
+  {
+    "id": "cg-1568",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué gas noble constituye cerca del 0,9 % de la atmósfera terrestre?",
+    "options": [
+      "Neón",
+      "Helio",
+      "Criptón",
+      "Argón"
+    ],
+    "correctIndex": 3,
+    "explanation": "El argón es el gas noble más abundante en la atmósfera, con cerca del 0,9 %."
+  },
+  {
+    "id": "cg-1569",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué elemento es esencial para la formación de huesos y dientes?",
+    "options": [
+      "Hierro",
+      "Potasio",
+      "Sodio",
+      "Calcio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El calcio es un componente esencial de huesos y dientes."
+  },
+  {
+    "id": "cg-1570",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué elemento de la hemoglobina permite transportar oxígeno en la sangre?",
+    "options": [
+      "Cobre",
+      "Zinc",
+      "Hierro",
+      "Magnesio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El hierro de la hemoglobina permite transportar oxígeno en la sangre."
+  },
+  {
+    "id": "cg-1571",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué elemento forma tanto el diamante como el grafito?",
+    "options": [
+      "Silicio",
+      "Carbono",
+      "Azufre",
+      "Fósforo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El diamante y el grafito son formas alotrópicas del carbono."
+  },
+  {
+    "id": "cg-1572",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué forma cristalina del carbono se usa en brocas y herramientas de corte por su dureza?",
+    "options": [
+      "Cuarzo",
+      "Grafito",
+      "Diamante",
+      "Vidrio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El diamante es la forma cristalina del carbono con mayor dureza natural."
+  },
+  {
+    "id": "cg-1573",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué plástico, conocido por las siglas PVC, se usa para aislar cables y fabricar tuberías?",
+    "options": [
+      "Policloruro de vinilo",
+      "PET",
+      "Polietileno",
+      "Poliestireno"
+    ],
+    "correctIndex": 0,
+    "explanation": "El PVC es un plástico rígido y buen aislante eléctrico."
+  },
+  {
+    "id": "cg-1574",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué combustible fósil líquido se extrae de pozos y se refina para obtener gasolina?",
+    "options": [
+      "Carbón mineral",
+      "Gas natural",
+      "Turba",
+      "Petróleo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El petróleo es un líquido de hidrocarburos que se separa por destilación."
+  },
+  {
+    "id": "cg-1575",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué hidrocarburo es el componente principal del gas natural?",
+    "options": [
+      "Etano",
+      "Propano",
+      "Butano",
+      "Metano"
+    ],
+    "correctIndex": 3,
+    "explanation": "El metano es el componente principal del gas natural."
+  },
+  {
+    "id": "cg-1576",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué gas se consume en toda combustión?",
+    "options": [
+      "Nitrógeno",
+      "Dióxido de carbono",
+      "Hidrógeno",
+      "Oxígeno"
+    ],
+    "correctIndex": 3,
+    "explanation": "La combustión necesita oxígeno y libera energía en forma de calor y luz."
+  },
+  {
+    "id": "cg-1577",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué productos se forman en la combustión completa de un hidrocarburo?",
+    "options": [
+      "Dióxido de carbono y agua",
+      "Monóxido de carbono y agua",
+      "Carbono y oxígeno",
+      "Metano e hidrógeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "La combustión completa de un hidrocarburo produce CO2 y H2O."
+  },
+  {
+    "id": "cg-1578",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué gas de efecto invernadero se libera al quemar carbón?",
+    "options": [
+      "Nitrógeno",
+      "Oxígeno",
+      "Helio",
+      "Dióxido de carbono"
+    ],
+    "correctIndex": 3,
+    "explanation": "La quema de carbón libera dióxido de carbono, un gas de efecto invernadero."
+  },
+  {
+    "id": "cg-1579",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué químico francés formuló la ley de conservación de la masa?",
+    "options": [
+      "Antoine Lavoisier",
+      "John Dalton",
+      "Robert Boyle",
+      "Joseph Proust"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lavoisier estableció que la masa se conserva en las reacciones químicas."
+  },
+  {
+    "id": "cg-1580",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué químico ruso publicó en 1869 una tabla periódica que ordenaba los elementos por masa atómica?",
+    "options": [
+      "Antoine Lavoisier",
+      "John Dalton",
+      "Ernest Rutherford",
+      "Dmitri Mendeleev"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mendeleev ordenó los elementos y predijo propiedades de los aún desconocidos."
+  },
+  {
+    "id": "cg-1581",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué científica, nacida en Polonia y nacionalizada francesa, descubrió el polonio y el radio?",
+    "options": [
+      "Rosalind Franklin",
+      "Marie Curie",
+      "Ada Lovelace",
+      "Lise Meitner"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marie Curie investigó la radiactividad y recibió dos premios Nobel."
+  },
+  {
+    "id": "cg-1582",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué científico británico aisló el oxígeno en 1774 al calentar óxido de mercurio?",
+    "options": [
+      "Joseph Priestley",
+      "John Dalton",
+      "Humphry Davy",
+      "Robert Boyle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Priestley obtuvo oxígeno y lo llamó aire desflogistizado."
+  },
+  {
+    "id": "cg-1583",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del helio?",
+    "options": [
+      "H",
+      "He",
+      "Ne",
+      "Ho"
+    ],
+    "correctIndex": 1,
+    "explanation": "He es el símbolo del helio."
+  },
+  {
+    "id": "cg-1584",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del neón?",
+    "options": [
+      "Ne",
+      "N",
+      "Ni",
+      "Na"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ne representa al neón."
+  },
+  {
+    "id": "cg-1585",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del zinc?",
+    "options": [
+      "Zn",
+      "Zr",
+      "Nb",
+      "Ni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zn es el símbolo del zinc."
+  },
+  {
+    "id": "cg-1586",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del níquel?",
+    "options": [
+      "N",
+      "Ne",
+      "Ni",
+      "Nb"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ni representa al níquel."
+  },
+  {
+    "id": "cg-1587",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del magnesio?",
+    "options": [
+      "Mg",
+      "Mn",
+      "Mo",
+      "Md"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mg es el símbolo del magnesio."
+  },
+  {
+    "id": "cg-1588",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del cloro?",
+    "options": [
+      "C",
+      "Cr",
+      "Co",
+      "Cl"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cl representa al cloro."
+  },
+  {
+    "id": "cg-1589",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del flúor?",
+    "options": [
+      "Fl",
+      "Fe",
+      "Fr",
+      "F"
+    ],
+    "correctIndex": 3,
+    "explanation": "F es el símbolo del flúor."
+  },
+  {
+    "id": "cg-1590",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del azufre?",
+    "options": [
+      "S",
+      "Se",
+      "Si",
+      "Sc"
+    ],
+    "correctIndex": 0,
+    "explanation": "S es el símbolo del azufre."
+  },
+  {
+    "id": "cg-1591",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del fósforo?",
+    "options": [
+      "F",
+      "Po",
+      "Pd",
+      "P"
+    ],
+    "correctIndex": 3,
+    "explanation": "P representa al fósforo."
+  },
+  {
+    "id": "cg-1592",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del yodo?",
+    "options": [
+      "Y",
+      "In",
+      "I",
+      "Ir"
+    ],
+    "correctIndex": 2,
+    "explanation": "I es el símbolo del yodo."
+  },
+  {
+    "id": "cg-1593",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del manganeso?",
+    "options": [
+      "Mg",
+      "Mn",
+      "Mo",
+      "Md"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mn representa al manganeso."
+  },
+  {
+    "id": "cg-1594",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del titanio?",
+    "options": [
+      "Ti",
+      "Te",
+      "Tl",
+      "Ta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ti es el símbolo del titanio."
+  },
+  {
+    "id": "cg-1595",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del tungsteno?",
+    "options": [
+      "Ta",
+      "Re",
+      "W",
+      "Os"
+    ],
+    "correctIndex": 2,
+    "explanation": "W proviene de wolfram, nombre alemán del tungsteno."
+  },
+  {
+    "id": "cg-1596",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del uranio?",
+    "options": [
+      "V",
+      "Np",
+      "Pu",
+      "U"
+    ],
+    "correctIndex": 3,
+    "explanation": "U es el símbolo del uranio."
+  },
+  {
+    "id": "cg-1597",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cuál es el símbolo químico del mercurio?",
+    "options": [
+      "Mg",
+      "Mn",
+      "Hg",
+      "Mo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hg proviene de hydrargyrum, nombre latino del mercurio."
+  },
+  {
+    "id": "cg-1598",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de enlace se forma cuando dos átomos comparten electrones?",
+    "options": [
+      "Iónico",
+      "Metálico",
+      "Por puente de hidrógeno",
+      "Covalente"
+    ],
+    "correctIndex": 3,
+    "explanation": "En el enlace covalente los átomos comparten uno o más pares de electrones."
+  },
+  {
+    "id": "cg-1599",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de enlace mantiene unidos los iones sodio y cloro en la sal?",
+    "options": [
+      "Covalente",
+      "Metálico",
+      "De van der Waals",
+      "Iónico"
+    ],
+    "correctIndex": 3,
+    "explanation": "El sodio cede un electrón al cloro y se forman iones con cargas opuestas."
+  },
+  {
+    "id": "cg-1600",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué partículas forman el núcleo de un átomo?",
+    "options": [
+      "Electrones y protones",
+      "Electrones y neutrones",
+      "Solo protones",
+      "Protones y neutrones"
+    ],
+    "correctIndex": 3,
+    "explanation": "El núcleo contiene protones y neutrones; los electrones lo rodean."
+  },
+  {
+    "id": "cg-1601",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué carga eléctrica tiene un protón?",
+    "options": [
+      "Negativa",
+      "Neutra",
+      "Positiva",
+      "Variable"
+    ],
+    "correctIndex": 2,
+    "explanation": "El protón tiene carga positiva y el electrón, negativa."
+  },
+  {
+    "id": "cg-1602",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿A qué es igual el número de electrones en un átomo neutro?",
+    "options": [
+      "Al número de neutrones",
+      "Al número de protones",
+      "A la masa atómica",
+      "Al número de orbitales"
+    ],
+    "correctIndex": 1,
+    "explanation": "En un átomo neutro la carga positiva de los protones se compensa con los electrones."
+  },
+  {
+    "id": "cg-1603",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿En qué se diferencian los isótopos de un mismo elemento?",
+    "options": [
+      "En el número de protones",
+      "En el número de electrones",
+      "En la carga eléctrica",
+      "En el número de neutrones"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los isótopos tienen igual número de protones pero distinto de neutrones."
+  },
+  {
+    "id": "cg-1604",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe una sustancia pura formada por un solo tipo de átomos?",
+    "options": [
+      "Compuesto",
+      "Elemento",
+      "Mezcla",
+      "Disolución"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un elemento contiene átomos con el mismo número atómico."
+  },
+  {
+    "id": "cg-1605",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe la unión química de dos o más elementos en proporciones fijas?",
+    "options": [
+      "Compuesto",
+      "Elemento",
+      "Mezcla heterogénea",
+      "Aleación"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un compuesto tiene una fórmula definida, como el agua o la sal."
+  },
+  {
+    "id": "cg-1606",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe una mezcla homogénea de soluto y disolvente?",
+    "options": [
+      "Suspensión",
+      "Coloide",
+      "Compuesto",
+      "Disolución"
+    ],
+    "correctIndex": 3,
+    "explanation": "En una disolución las partículas del soluto se dispersan de forma homogénea."
+  },
+  {
+    "id": "cg-1607",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué líquido, llamado disolvente universal, disuelve gran cantidad de sales y azúcares?",
+    "options": [
+      "Etanol",
+      "Agua",
+      "Benceno",
+      "Acetona"
+    ],
+    "correctIndex": 1,
+    "explanation": "La polaridad del agua le permite disolver muchas sustancias iónicas y polares."
+  },
+  {
+    "id": "cg-1608",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe el paso directo de sólido a gas?",
+    "options": [
+      "Sublimación",
+      "Fusión",
+      "Evaporación",
+      "Condensación"
+    ],
+    "correctIndex": 0,
+    "explanation": "En la sublimación un sólido pasa directamente a gas, como el hielo seco."
+  },
+  {
+    "id": "cg-1609",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el paso de vapor de agua a hielo sin pasar por el estado líquido?",
+    "options": [
+      "Sublimación",
+      "Fusión",
+      "Deposición",
+      "Ebullición"
+    ],
+    "correctIndex": 2,
+    "explanation": "La deposición o sublimación inversa forma escarcha a partir de vapor de agua."
+  },
+  {
+    "id": "cg-1610",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento se usa para medir la densidad de un líquido?",
+    "options": [
+      "Barómetro",
+      "Densímetro",
+      "Termómetro",
+      "Calorímetro"
+    ],
+    "correctIndex": 1,
+    "explanation": "El densímetro flota a una altura que depende de la densidad del líquido."
+  },
+  {
+    "id": "cg-1611",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué unidad del Sistema Internacional mide la cantidad de sustancia?",
+    "options": [
+      "Mol",
+      "Newton",
+      "Julio",
+      "Pascal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El mol contiene 6,022 × 10^23 entidades elementales."
+  },
+  {
+    "id": "cg-1612",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué físico danés propuso en 1913 un modelo atómico con electrones en órbitas cuantizadas?",
+    "options": [
+      "Niels Bohr",
+      "Ernest Rutherford",
+      "J. J. Thomson",
+      "John Dalton"
+    ],
+    "correctIndex": 0,
+    "explanation": "El modelo de Bohr explicaba los espectros del hidrógeno con órbitas de energía definida."
+  },
+  {
+    "id": "cg-1613",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué forma atribuía John Dalton a los átomos en su modelo de 1803?",
+    "options": [
+      "Nube de electrones",
+      "Núcleo con orbitales",
+      "Esferas indivisibles",
+      "Modelo planetario"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dalton imaginó los átomos como esferas macizas e indivisibles."
+  },
+  {
+    "id": "cg-1614",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué ácido inorgánico se ioniza casi por completo en agua y se considera fuerte?",
+    "options": [
+      "Ácido clorhídrico",
+      "Ácido acético",
+      "Ácido cítrico",
+      "Ácido carbónico"
+    ],
+    "correctIndex": 0,
+    "explanation": "El ácido clorhídrico es un ácido fuerte que se disocia completamente en agua."
+  },
+  {
+    "id": "cg-1615",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué hidróxido se disocia por completo en agua y se considera una base fuerte?",
+    "options": [
+      "Hidróxido de sodio",
+      "Amoniaco",
+      "Hidróxido de aluminio",
+      "Bicarbonato de sodio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hidróxido de sodio es una base fuerte de fórmula NaOH."
+  },
+  {
+    "id": "cg-1616",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué indicador ácido-base cambia de azul a rojo en medio ácido?",
+    "options": [
+      "Papel de tornasol",
+      "Fenolftaleína",
+      "Rojo de metilo",
+      "Almidón"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tornasol se vuelve rojo en ácidos y azul en bases."
+  },
+  {
+    "id": "cg-1617",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué gas produce la efervescencia al mezclar bicarbonato de sodio con vinagre?",
+    "options": [
+      "Dióxido de carbono",
+      "Oxígeno",
+      "Hidrógeno",
+      "Nitrógeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "El ácido acético reacciona con el bicarbonato y libera CO2."
+  },
+  {
+    "id": "cg-1618",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué compuesto tiene la fórmula NaHCO3?",
+    "options": [
+      "Carbonato de calcio",
+      "Bicarbonato de sodio",
+      "Sulfato de sodio",
+      "Cloruro de potasio"
+    ],
+    "correctIndex": 1,
+    "explanation": "NaHCO3 es el bicarbonato de sodio, usado en repostería y como antiácido."
+  },
+  {
+    "id": "cg-1619",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué compuesto hidratado forma el yeso usado en construcción?",
+    "options": [
+      "Carbonato de calcio",
+      "Sulfato de calcio",
+      "Sulfato de sodio",
+      "Óxido de calcio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El yeso es sulfato de calcio dihidratado, CaSO4·2H2O."
+  },
+  {
+    "id": "cg-1620",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué elemento se añade al caucho durante la vulcanización?",
+    "options": [
+      "Carbono",
+      "Azufre",
+      "Fósforo",
+      "Cloro"
+    ],
+    "correctIndex": 1,
+    "explanation": "El azufre crea enlaces entre las cadenas del caucho y lo hace más resistente."
+  },
+  {
+    "id": "cg-1621",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué científico británico descubrió la penicilina en 1928?",
+    "options": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fleming observó que el moho Penicillium inhibía el crecimiento bacteriano."
+  },
+  {
+    "id": "cg-1622",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué plástico, identificado con el código de reciclaje 1, se usa en botellas de bebidas?",
+    "options": [
+      "PVC",
+      "Polietileno",
+      "PET",
+      "Poliestireno"
+    ],
+    "correctIndex": 2,
+    "explanation": "El PET o tereftalato de polietileno es transparente y reciclable."
+  },
+  {
+    "id": "cg-1623",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué gas liberan las plantas durante la fotosíntesis?",
+    "options": [
+      "Dióxido de carbono",
+      "Nitrógeno",
+      "Oxígeno",
+      "Vapor de agua"
+    ],
+    "correctIndex": 2,
+    "explanation": "La fotosíntesis produce oxígeno a partir del agua y la luz solar."
+  },
+  {
+    "id": "cg-1624",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe la sustancia que disuelve a otra en una disolución?",
+    "options": [
+      "Soluto",
+      "Catalizador",
+      "Disolvente",
+      "Precipitado"
+    ],
+    "correctIndex": 2,
+    "explanation": "El disolvente es el componente presente en mayor cantidad y disuelve al soluto."
+  },
+  {
+    "id": "cg-1625",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Cuál es el número atómico del carbono?",
+    "options": [
+      "12",
+      "8",
+      "6",
+      "14"
+    ],
+    "correctIndex": 2,
+    "explanation": "El carbono tiene 6 protones; su número atómico es 6."
+  },
+  {
+    "id": "cg-1626",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Cuál es el número atómico del oxígeno?",
+    "options": [
+      "16",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctIndex": 2,
+    "explanation": "El oxígeno tiene 8 protones en el núcleo."
+  },
+  {
+    "id": "cg-1627",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Cuál es el número atómico del hierro?",
+    "options": [
+      "26",
+      "56",
+      "24",
+      "30"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hierro tiene 26 protones; 56 corresponde a su masa atómica aproximada."
+  },
+  {
+    "id": "cg-1628",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Cuál es la masa atómica aproximada del hidrógeno en unidades de masa atómica?",
+    "options": [
+      "1",
+      "2",
+      "12",
+      "16"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hidrógeno tiene un protón y su masa atómica es cercana a 1."
+  },
+  {
+    "id": "cg-1629",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿A qué grupo de la tabla periódica pertenecen los metales alcalinos?",
+    "options": [
+      "Grupo 2",
+      "Grupo 17",
+      "Grupo 1",
+      "Grupo 18"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los metales alcalinos, como el sodio y el potasio, ocupan el grupo 1."
+  },
+  {
+    "id": "cg-1630",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿A qué grupo de la tabla periódica pertenecen los gases nobles?",
+    "options": [
+      "Grupo 18",
+      "Grupo 1",
+      "Grupo 2",
+      "Grupo 17"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los gases nobles tienen la capa de valencia completa y ocupan el grupo 18."
+  },
+  {
+    "id": "cg-1631",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué elemento ocupa el periodo 3 y el grupo 17 de la tabla periódica?",
+    "options": [
+      "Cloro",
+      "Azufre",
+      "Argón",
+      "Sodio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cloro está en el grupo de los halógenos y en el tercer periodo."
+  },
+  {
+    "id": "cg-1632",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿A qué elemento corresponde la configuración electrónica 2, 8, 1?",
+    "options": [
+      "Magnesio",
+      "Potasio",
+      "Sodio",
+      "Litio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sodio tiene 11 electrones distribuidos como 2, 8, 1."
+  },
+  {
+    "id": "cg-1633",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Cuántos electrones caben como máximo en el primer nivel de energía de un átomo?",
+    "options": [
+      "8",
+      "2",
+      "18",
+      "32"
+    ],
+    "correctIndex": 1,
+    "explanation": "El primer nivel solo tiene el orbital s, que admite dos electrones."
+  },
+  {
+    "id": "cg-1634",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué propone la regla del octeto?",
+    "options": [
+      "Tener dos electrones en el núcleo",
+      "Sumar ocho protones en total",
+      "Formar cuatro enlaces iónicos",
+      "Completar ocho electrones en la capa externa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los átomos tienden a completar ocho electrones en su capa de valencia."
+  },
+  {
+    "id": "cg-1635",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué caracteriza al enlace metálico?",
+    "options": [
+      "Pares de electrones compartidos",
+      "Iones positivos y negativos alternos",
+      "Una nube de electrones deslocalizados",
+      "Puentes de hidrógeno"
+    ],
+    "correctIndex": 2,
+    "explanation": "En los metales los electrones de valencia se mueven libremente entre los cationes."
+  },
+  {
+    "id": "cg-1636",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué propiedad del agua se explica por los puentes de hidrógeno entre sus moléculas?",
+    "options": [
+      "Ser un gas a temperatura ambiente",
+      "Su punto de ebullición alto",
+      "No formar disoluciones",
+      "Tener un olor fuerte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los puentes de hidrógeno mantienen unidas las moléculas de agua y elevan su punto de ebullición."
+  },
+  {
+    "id": "cg-1637",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué geometría molecular tiene la molécula de agua?",
+    "options": [
+      "Angular",
+      "Lineal",
+      "Tetraédrica",
+      "Piramidal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los dos pares libres del oxígeno dan al agua una forma angular."
+  },
+  {
+    "id": "cg-1638",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Cómo se describe la molécula de agua por la distribución de sus cargas?",
+    "options": [
+      "Apolar",
+      "Iónica",
+      "Metálica",
+      "Polar"
+    ],
+    "correctIndex": 3,
+    "explanation": "El oxígeno atrae más los electrones y crea una molécula polar."
+  },
+  {
+    "id": "cg-1639",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de enlace mantiene unidos los átomos de carbono en el diamante?",
+    "options": [
+      "Iónico",
+      "Metálico",
+      "Covalente en red",
+      "Por fuerzas de van der Waals"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cada carbono del diamante se une a cuatro vecinos mediante enlaces covalentes."
+  },
+  {
+    "id": "cg-1640",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué fuerza mantiene unidas las láminas del grafito?",
+    "options": [
+      "Enlaces iónicos",
+      "Enlaces metálicos",
+      "Puentes de hidrógeno",
+      "Fuerzas de van der Waals"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las láminas de grafito se mantienen unidas por fuerzas débiles de van der Waals."
+  },
+  {
+    "id": "cg-1641",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué número de oxidación tiene el oxígeno en muchos de sus compuestos?",
+    "options": [
+      "-2",
+      "-1",
+      "0",
+      "-3"
+    ],
+    "correctIndex": 0,
+    "explanation": "El oxígeno suele ganar dos electrones y actúa con número de oxidación -2."
+  },
+  {
+    "id": "cg-1642",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "En el hidruro de sodio (NaH), ¿qué carga adquiere el átomo de hidrógeno?",
+    "options": [
+      "Positiva",
+      "Negativa",
+      "Neutra",
+      "Doble positiva"
+    ],
+    "correctIndex": 1,
+    "explanation": "Frente a metales muy electropositivos, el hidrógeno gana un electrón y forma el ion hidruro."
+  },
+  {
+    "id": "cg-1643",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué ocurre en una reacción de síntesis?",
+    "options": [
+      "Una sustancia se divide en varias",
+      "Dos o más sustancias forman una sola",
+      "Un ácido y una base forman sal",
+      "Un metal desplaza a otro"
+    ],
+    "correctIndex": 1,
+    "explanation": "En la síntesis o combinación, los reactivos se unen para formar un producto."
+  },
+  {
+    "id": "cg-1644",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué ocurre en una reacción de descomposición?",
+    "options": [
+      "Dos sustancias se combinan",
+      "Se intercambian iones",
+      "Se neutralizan ácido y base",
+      "Una sustancia se separa en dos o más"
+    ],
+    "correctIndex": 3,
+    "explanation": "En la descomposición un compuesto se rompe en sustancias más simples."
+  },
+  {
+    "id": "cg-1645",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué productos se forman típicamente al reaccionar un ácido con una base?",
+    "options": [
+      "Un ácido más fuerte",
+      "Un óxido metálico",
+      "Sal y agua",
+      "Hidrógeno gaseoso"
+    ],
+    "correctIndex": 2,
+    "explanation": "La neutralización de un ácido y una base produce una sal y agua."
+  },
+  {
+    "id": "cg-1646",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué gas tóxico se produce en la combustión incompleta del carbono?",
+    "options": [
+      "Dióxido de carbono",
+      "Metano",
+      "Monóxido de carbono",
+      "Ozono"
+    ],
+    "correctIndex": 2,
+    "explanation": "Con poco oxígeno se forma monóxido de carbono, incoloro y venenoso."
+  },
+  {
+    "id": "cg-1647",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué sustancia acelera la descomposición del peróxido de hidrógeno en agua y oxígeno?",
+    "options": [
+      "Cloruro de sodio",
+      "Óxido de calcio",
+      "Dióxido de manganeso",
+      "Sulfato de cobre"
+    ],
+    "correctIndex": 2,
+    "explanation": "El dióxido de manganeso actúa como catalizador de esa reacción."
+  },
+  {
+    "id": "cg-1648",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué hace un catalizador en una reacción química?",
+    "options": [
+      "La acelera sin consumirse",
+      "Aumenta la masa del producto",
+      "Impide toda reacción",
+      "Se transforma en el producto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un catalizador disminuye la energía de activación y se recupera al final."
+  },
+  {
+    "id": "cg-1649",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué establece la ley de conservación de la masa en una reacción química?",
+    "options": [
+      "La materia no se crea ni se destruye",
+      "La masa aumenta al reaccionar",
+      "Los gases no tienen masa",
+      "Solo se conserva la energía"
+    ],
+    "correctIndex": 0,
+    "explanation": "La masa total de los reactivos es igual a la de los productos."
+  },
+  {
+    "id": "cg-1650",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué ley formuló Joseph Proust al estudiar la composición de los compuestos?",
+    "options": [
+      "Proporciones múltiples",
+      "Presión y volumen",
+      "Proporciones definidas",
+      "Acción de masas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Proust afirmó que un compuesto tiene siempre la misma proporción de elementos."
+  },
+  {
+    "id": "cg-1651",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué ley de John Dalton describe compuestos formados por los mismos elementos en proporciones distintas?",
+    "options": [
+      "Conservación de la masa",
+      "Proporciones definidas",
+      "Dilatación de gases",
+      "Proporciones múltiples"
+    ],
+    "correctIndex": 3,
+    "explanation": "La ley de proporciones múltiples se cumple, por ejemplo, en los óxidos de carbono."
+  },
+  {
+    "id": "cg-1652",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué magnitudes relaciona la ley de Boyle para un gas a temperatura constante?",
+    "options": [
+      "Volumen y temperatura",
+      "Presión y volumen",
+      "Presión y temperatura",
+      "Masa y volumen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Boyle comprobó que presión y volumen son inversamente proporcionales."
+  },
+  {
+    "id": "cg-1653",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué magnitudes relaciona la ley de Charles para un gas a presión constante?",
+    "options": [
+      "Presión y volumen",
+      "Presión y temperatura",
+      "Volumen y temperatura",
+      "Masa y densidad"
+    ],
+    "correctIndex": 2,
+    "explanation": "A presión constante, el volumen de un gas aumenta con la temperatura absoluta."
+  },
+  {
+    "id": "cg-1654",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué afirma la ley de Avogadro sobre volúmenes iguales de gases en las mismas condiciones?",
+    "options": [
+      "Contienen el mismo número de moléculas",
+      "Tienen la misma masa",
+      "Tienen la misma densidad",
+      "Contienen el mismo número de átomos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Volúmenes iguales de gases contienen el mismo número de moléculas."
+  },
+  {
+    "id": "cg-1655",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Cuántas entidades elementales contiene un mol?",
+    "options": [
+      "3,14 × 10^8",
+      "9,8 × 10^3",
+      "1,6 × 10^-19",
+      "6,022 × 10^23"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un mol contiene el número de Avogadro de entidades."
+  },
+  {
+    "id": "cg-1656",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Cuál es la masa molar del agua?",
+    "options": [
+      "18 g/mol",
+      "2 g/mol",
+      "32 g/mol",
+      "44 g/mol"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dos hidrógenos (2 g/mol) y un oxígeno (16 g/mol) suman 18 g/mol."
+  },
+  {
+    "id": "cg-1657",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Cuántos átomos hay en una molécula de glucosa, C6H12O6?",
+    "options": [
+      "6",
+      "24",
+      "12",
+      "18"
+    ],
+    "correctIndex": 1,
+    "explanation": "C6H12O6 tiene 6 + 12 + 6 = 24 átomos por molécula."
+  },
+  {
+    "id": "cg-1658",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Cuál es la fórmula del etanol?",
+    "options": [
+      "CH3OH",
+      "C3H7OH",
+      "CH3COOH",
+      "C2H5OH"
+    ],
+    "correctIndex": 3,
+    "explanation": "El etanol tiene dos carbonos y un grupo hidroxilo."
+  },
+  {
+    "id": "cg-1659",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué ácido corresponde a la fórmula H2SO4?",
+    "options": [
+      "Ácido sulfuroso",
+      "Ácido nítrico",
+      "Ácido fosfórico",
+      "Ácido sulfúrico"
+    ],
+    "correctIndex": 3,
+    "explanation": "H2SO4 es el ácido sulfúrico, fuerte y muy usado en la industria."
+  },
+  {
+    "id": "cg-1660",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué ácido corresponde a la fórmula HNO3?",
+    "options": [
+      "Ácido nitroso",
+      "Ácido nítrico",
+      "Ácido clorhídrico",
+      "Ácido carbónico"
+    ],
+    "correctIndex": 1,
+    "explanation": "HNO3 es el ácido nítrico."
+  },
+  {
+    "id": "cg-1661",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué compuesto corresponde a la fórmula NaOH?",
+    "options": [
+      "Hidróxido de potasio",
+      "Hidróxido de sodio",
+      "Cloruro de sodio",
+      "Carbonato de sodio"
+    ],
+    "correctIndex": 1,
+    "explanation": "NaOH es la sosa cáustica o hidróxido de sodio."
+  },
+  {
+    "id": "cg-1662",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué compuesto corresponde a la fórmula CaCO3?",
+    "options": [
+      "Carbonato de calcio",
+      "Sulfato de calcio",
+      "Óxido de calcio",
+      "Bicarbonato de calcio"
+    ],
+    "correctIndex": 0,
+    "explanation": "CaCO3 forma la caliza, el mármol y las conchas."
+  },
+  {
+    "id": "cg-1663",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué compuesto corresponde a la fórmula Fe2O3?",
+    "options": [
+      "Óxido de hierro(II)",
+      "Óxido de hierro(III)",
+      "Hidróxido de hierro",
+      "Sulfuro de hierro"
+    ],
+    "correctIndex": 1,
+    "explanation": "En Fe2O3 el hierro actúa con valencia +3."
+  },
+  {
+    "id": "cg-1664",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe el compuesto de fórmula N2O?",
+    "options": [
+      "Dióxido de nitrógeno",
+      "Óxido nitroso",
+      "Monóxido de nitrógeno",
+      "Amoniaco"
+    ],
+    "correctIndex": 1,
+    "explanation": "El óxido nitroso, N2O, se conoce como gas de la risa."
+  },
+  {
+    "id": "cg-1665",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe el compuesto de fórmula H2O2?",
+    "options": [
+      "Peróxido de hidrógeno",
+      "Hidróxido de hidrógeno",
+      "Ácido perclórico",
+      "Ozono"
+    ],
+    "correctIndex": 0,
+    "explanation": "H2O2 es el peróxido de hidrógeno, conocido en disolución como agua oxigenada."
+  },
+  {
+    "id": "cg-1666",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué es la isomería?",
+    "options": [
+      "Distinta fórmula y misma masa",
+      "Misma fórmula molecular y distinta estructura",
+      "Mismos átomos e idéntico enlace",
+      "Distintos elementos y misma forma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los isómeros comparten fórmula molecular pero difieren en la disposición de los átomos."
+  },
+  {
+    "id": "cg-1667",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué compuesto es isómero del butano de cadena lineal?",
+    "options": [
+      "Propano",
+      "Pentano",
+      "Eteno",
+      "Isobutano"
+    ],
+    "correctIndex": 3,
+    "explanation": "El isobutano o 2-metilpropano tiene la misma fórmula C4H10 con ramificación."
+  },
+  {
+    "id": "cg-1668",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué caracteriza a un hidrocarburo alcano?",
+    "options": [
+      "Tiene un doble enlace",
+      "Tiene un triple enlace",
+      "Solo tiene enlaces simples",
+      "Tiene un anillo aromático"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los alcanos son saturados y solo tienen enlaces carbono-carbono simples."
+  },
+  {
+    "id": "cg-1669",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué caracteriza a un hidrocarburo alqueno?",
+    "options": [
+      "Solo tiene enlaces simples",
+      "Tiene un triple enlace",
+      "Tiene un doble enlace",
+      "Tiene dos grupos hidroxilo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los alquenos tienen al menos un doble enlace entre carbonos."
+  },
+  {
+    "id": "cg-1670",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué caracteriza a un hidrocarburo alquino?",
+    "options": [
+      "Tiene un doble enlace",
+      "Tiene un triple enlace",
+      "Solo tiene enlaces simples",
+      "Tiene un grupo carboxilo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los alquinos, como el acetileno, contienen un triple enlace."
+  },
+  {
+    "id": "cg-1671",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué grupo funcional define a los alcoholes?",
+    "options": [
+      "Grupo carboxilo",
+      "Grupo carbonilo",
+      "Grupo amino",
+      "Grupo hidroxilo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los alcoholes tienen un grupo -OH unido a un carbono saturado."
+  },
+  {
+    "id": "cg-1672",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué grupo funcional contienen los ácidos carboxílicos?",
+    "options": [
+      "Grupo carboxilo",
+      "Grupo hidroxilo",
+      "Grupo éster",
+      "Grupo amida"
+    ],
+    "correctIndex": 0,
+    "explanation": "El grupo carboxilo, -COOH, combina un carbonilo y un hidroxilo."
+  },
+  {
+    "id": "cg-1673",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué grupo funcional distingue a las cetonas?",
+    "options": [
+      "Grupo hidroxilo",
+      "Grupo carbonilo",
+      "Grupo carboxilo",
+      "Grupo nitro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las cetonas tienen un carbono carbonilo unido a dos carbonos."
+  },
+  {
+    "id": "cg-1674",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué compuesto corresponde a la fórmula CH3COOH?",
+    "options": [
+      "Ácido fórmico",
+      "Ácido acético",
+      "Ácido propanoico",
+      "Acetona"
+    ],
+    "correctIndex": 1,
+    "explanation": "CH3COOH es el ácido acético, presente en el vinagre."
+  },
+  {
+    "id": "cg-1675",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué dos tipos de compuestos reaccionan para formar un éster?",
+    "options": [
+      "Ácido y alcohol",
+      "Dos ácidos",
+      "Dos alcoholes",
+      "Un aldehído y agua"
+    ],
+    "correctIndex": 0,
+    "explanation": "La esterificación combina un ácido carboxílico con un alcohol y libera agua."
+  },
+  {
+    "id": "cg-1676",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué monómero se polimeriza para obtener polietileno?",
+    "options": [
+      "Propileno",
+      "Estireno",
+      "Etileno",
+      "Cloruro de vinilo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El polietileno se forma por adición de moléculas de etileno."
+  },
+  {
+    "id": "cg-1677",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué monómero se polimeriza para obtener PVC?",
+    "options": [
+      "Etileno",
+      "Estireno",
+      "Tetrafluoroetileno",
+      "Cloruro de vinilo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El policloruro de vinilo se obtiene del cloruro de vinilo."
+  },
+  {
+    "id": "cg-1678",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué proteína forma la fibra de seda producida por el gusano de seda?",
+    "options": [
+      "Celulosa",
+      "Fibroína",
+      "Queratina",
+      "Colágeno"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fibroína es la proteína principal del hilo de seda."
+  },
+  {
+    "id": "cg-1679",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿A qué familia de polímeros pertenece el nylon?",
+    "options": [
+      "Poliésteres",
+      "Poliuretanos",
+      "Polietilenos",
+      "Poliamidas"
+    ],
+    "correctIndex": 3,
+    "explanation": "El nylon fue el primer polímero sintético tipo poliamida de uso textil."
+  },
+  {
+    "id": "cg-1680",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de polímero es el Kevlar, usado en chalecos antibalas?",
+    "options": [
+      "Poliéster saturado",
+      "Polietileno ramificado",
+      "Poliamida aromática",
+      "Policarbonato"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Kevlar es una poliamida aromática de gran resistencia a la tracción."
+  },
+  {
+    "id": "cg-1681",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué polímero es el Teflón?",
+    "options": [
+      "Polietileno",
+      "Politetrafluoroetileno",
+      "Poliestireno",
+      "Policloruro de vinilo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Teflón es PTFE, un polímero con flúor que resiste el calor y los productos químicos."
+  },
+  {
+    "id": "cg-1682",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué polímero forma la espuma blanca usada en envases y aislamiento térmico?",
+    "options": [
+      "Poliuretano rígido",
+      "Poliestireno expandido",
+      "PVC plastificado",
+      "PET cristalino"
+    ],
+    "correctIndex": 1,
+    "explanation": "El poliestireno expandido atrapa aire y forma una espuma ligera."
+  },
+  {
+    "id": "cg-1683",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué plástico sintético desarrollado en 1907 se usó en mangos, teléfonos y aislantes?",
+    "options": [
+      "Nylon",
+      "Baquelita",
+      "Teflón",
+      "PET"
+    ],
+    "correctIndex": 1,
+    "explanation": "La baquelita, una resina fenólica, fue el primer plástico sintético de uso masivo."
+  },
+  {
+    "id": "cg-1684",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué químico belga-estadounidense inventó la baquelita?",
+    "options": [
+      "Wallace Carothers",
+      "Leo Baekeland",
+      "Charles Goodyear",
+      "John Wesley Hyatt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Leo Baekeland patentó la baquelita en 1907."
+  },
+  {
+    "id": "cg-1685",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué inventor estadounidense descubrió la vulcanización del caucho en 1839?",
+    "options": [
+      "Thomas Edison",
+      "Leo Baekeland",
+      "Fritz Haber",
+      "Charles Goodyear"
+    ],
+    "correctIndex": 3,
+    "explanation": "Goodyear comprobó que el azufre y el calor endurecen el caucho."
+  },
+  {
+    "id": "cg-1686",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué elemento se reduce en el arrabio para obtener acero?",
+    "options": [
+      "Carbono",
+      "Oxígeno",
+      "Azufre",
+      "Silicio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El arrabio tiene demasiado carbono; el proceso siderúrgico lo reduce."
+  },
+  {
+    "id": "cg-1687",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué elemento se añade al hierro para producir acero inoxidable?",
+    "options": [
+      "Cromo",
+      "Zinc",
+      "Níquel",
+      "Manganeso"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cromo forma una capa de óxido que protege el acero de la corrosión."
+  },
+  {
+    "id": "cg-1688",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué metal recubre el hierro en el proceso de galvanización?",
+    "options": [
+      "Cobre",
+      "Zinc",
+      "Estaño",
+      "Plomo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El zinc protege el hierro de la oxidación y se sacrifica primero."
+  },
+  {
+    "id": "cg-1689",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué metales forman la aleación llamada cuproníquel, usada en monedas?",
+    "options": [
+      "Cobre y zinc",
+      "Hierro y cromo",
+      "Aluminio y cobre",
+      "Cobre y níquel"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cuproníquel es resistente a la corrosión y se usa en monedas."
+  },
+  {
+    "id": "cg-1690",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué metales forman el duraluminio, usado en estructuras aeronáuticas?",
+    "options": [
+      "Aluminio y silicio",
+      "Hierro y carbono",
+      "Cobre y estaño",
+      "Aluminio y cobre"
+    ],
+    "correctIndex": 3,
+    "explanation": "El duraluminio gana resistencia al añadir cobre y magnesio al aluminio."
+  },
+  {
+    "id": "cg-1691",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué metal se obtiene por electrólisis de la alúmina disuelta en criolita?",
+    "options": [
+      "Hierro",
+      "Cobre",
+      "Zinc",
+      "Aluminio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El proceso Hall-Héroult reduce la alúmina para obtener aluminio."
+  },
+  {
+    "id": "cg-1692",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué metal produce industrialmente el proceso Hall-Héroult?",
+    "options": [
+      "Acero",
+      "Cloro",
+      "Sodio",
+      "Aluminio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Charles Hall y Paul Héroult desarrollaron la electrólisis industrial del aluminio."
+  },
+  {
+    "id": "cg-1693",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué material se fabrica con el convertidor de Bessemer?",
+    "options": [
+      "Aluminio",
+      "Acero",
+      "Vidrio",
+      "Amoniaco"
+    ],
+    "correctIndex": 1,
+    "explanation": "El convertidor de Bessemer quema el exceso de carbono del arrabio y produce acero."
+  },
+  {
+    "id": "cg-1694",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué compuesto se sintetiza industrialmente con el proceso Haber-Bosch?",
+    "options": [
+      "Ácido sulfúrico",
+      "Metanol",
+      "Hidrógeno",
+      "Amoniaco"
+    ],
+    "correctIndex": 3,
+    "explanation": "El proceso combina nitrógeno e hidrógeno para formar amoniaco."
+  },
+  {
+    "id": "cg-1695",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué condiciones típicas requiere la síntesis de amoniaco de Haber-Bosch?",
+    "options": [
+      "Presión atmosférica y catalizador de platino",
+      "Baja temperatura y luz ultravioleta",
+      "Alta presión y catalizador de hierro",
+      "Vacío y catalizador de cobre"
+    ],
+    "correctIndex": 2,
+    "explanation": "La reacción usa presión elevada, unos 450 °C y hierro como catalizador."
+  },
+  {
+    "id": "cg-1696",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué químico alemán logró la síntesis directa del amoniaco a partir de sus elementos?",
+    "options": [
+      "Fritz Haber",
+      "Carl Bosch",
+      "Walther Nernst",
+      "Wilhelm Ostwald"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fritz Haber desarrolló el método que Carl Bosch industrializó."
+  },
+  {
+    "id": "cg-1697",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué compuesto nitrogenado se usa ampliamente como fertilizante agrícola?",
+    "options": [
+      "Urea",
+      "Cloruro de sodio",
+      "Carbonato de calcio",
+      "Sulfato de magnesio"
+    ],
+    "correctIndex": 0,
+    "explanation": "La urea aporta nitrógeno y es uno de los fertilizantes más usados."
+  },
+  {
+    "id": "cg-1698",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué producto fabrica el proceso Solvay a partir de salmuera y caliza?",
+    "options": [
+      "Hidróxido de sodio",
+      "Bicarbonato de potasio",
+      "Carbonato de sodio",
+      "Cloruro de calcio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El proceso Solvay produce carbonato de sodio, usado en vidrio y detergentes."
+  },
+  {
+    "id": "cg-1699",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué industrial belga desarrolló un proceso para fabricar carbonato de sodio?",
+    "options": [
+      "Alfred Nobel",
+      "Ernest Solvay",
+      "Fritz Haber",
+      "Henry Bessemer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ernest Solvay patentó su proceso en la década de 1860."
+  },
+  {
+    "id": "cg-1700",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué ácido se produce industrialmente con el proceso de contacto?",
+    "options": [
+      "Ácido nítrico",
+      "Ácido clorhídrico",
+      "Ácido sulfúrico",
+      "Ácido fosfórico"
+    ],
+    "correctIndex": 2,
+    "explanation": "El proceso de contacto oxida dióxido de azufre y produce ácido sulfúrico."
+  },
+  {
+    "id": "cg-1701",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué catalizador se emplea en el proceso de contacto para fabricar ácido sulfúrico?",
+    "options": [
+      "Pentóxido de vanadio",
+      "Óxido de hierro",
+      "Cloruro de platino",
+      "Óxido de zinc"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pentóxido de vanadio acelera la oxidación del dióxido de azufre."
+  },
+  {
+    "id": "cg-1702",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué ácido sirve como electrolito en las baterías de plomo de los automóviles?",
+    "options": [
+      "Ácido acético",
+      "Ácido cítrico",
+      "Ácido sulfúrico",
+      "Ácido nítrico"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las baterías de plomo-ácido usan una disolución de ácido sulfúrico."
+  },
+  {
+    "id": "cg-1703",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué metal forma los electrodos de una batería de plomo-ácido?",
+    "options": [
+      "Plomo",
+      "Cobre",
+      "Zinc",
+      "Níquel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uno de los electrodos es plomo esponjoso y el otro, dióxido de plomo."
+  },
+  {
+    "id": "cg-1704",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué gas combustible se usa junto con oxígeno en la soldadura oxiacetilénica?",
+    "options": [
+      "Metano",
+      "Acetileno",
+      "Propano",
+      "Hidrógeno"
+    ],
+    "correctIndex": 1,
+    "explanation": "La mezcla de acetileno y oxígeno alcanza temperaturas muy altas."
+  },
+  {
+    "id": "cg-1705",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué hidrocarburos forman principalmente el gas licuado de petróleo?",
+    "options": [
+      "Propano y butano",
+      "Metano y etano",
+      "Hidrógeno y helio",
+      "Octano y benceno"
+    ],
+    "correctIndex": 0,
+    "explanation": "El GLP se compone sobre todo de propano y butano, licuados a presión."
+  },
+  {
+    "id": "cg-1706",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué mide el índice de octano de una gasolina?",
+    "options": [
+      "El contenido de azufre",
+      "La densidad del combustible",
+      "La resistencia a la detonación",
+      "El poder calorífico"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un octanaje alto indica mayor resistencia a la detonación en el motor."
+  },
+  {
+    "id": "cg-1707",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué metal contenía el tetraetilo añadido a la gasolina y prohibido por su toxicidad?",
+    "options": [
+      "Mercurio",
+      "Azufre",
+      "Fósforo",
+      "Plomo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El tetraetilo de plomo mejoraba el octanaje pero liberaba plomo tóxico."
+  },
+  {
+    "id": "cg-1708",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué busca el craqueo en el refinado del petróleo?",
+    "options": [
+      "Unir moléculas pequeñas",
+      "Separar sales del agua",
+      "Romper moléculas grandes en otras más pequeñas",
+      "Oxidar metales"
+    ],
+    "correctIndex": 2,
+    "explanation": "El craqueo térmico o catalítico aumenta el rendimiento de gasolinas."
+  },
+  {
+    "id": "cg-1709",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿En qué propiedad se basa la destilación fraccionada del petróleo?",
+    "options": [
+      "En el color",
+      "En la densidad",
+      "En la solubilidad en agua",
+      "En el punto de ebullición"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los hidrocarburos se separan según su punto de ebullición en la torre."
+  },
+  {
+    "id": "cg-1710",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué ácidos se forman en la atmósfera y contribuyen a la lluvia ácida?",
+    "options": [
+      "Sulfúrico y nítrico",
+      "Acético y cítrico",
+      "Carbónico y láctico",
+      "Fosfórico y bórico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los óxidos de azufre y de nitrógeno se transforman en ácidos al disolverse en agua."
+  },
+  {
+    "id": "cg-1711",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué gas emitido por la quema de carbón es una causa principal de la lluvia ácida?",
+    "options": [
+      "Dióxido de carbono",
+      "Dióxido de azufre",
+      "Metano",
+      "Ozono"
+    ],
+    "correctIndex": 1,
+    "explanation": "El dióxido de azufre se oxida y forma ácido sulfúrico en la atmósfera."
+  },
+  {
+    "id": "cg-1712",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué describe el efecto invernadero?",
+    "options": [
+      "La destrucción de la capa de ozono",
+      "El enfriamiento por partículas",
+      "El aumento de la radiación ultravioleta",
+      "La retención de calor por ciertos gases"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gases como el CO2 y el vapor de agua retienen parte del calor emitido por la Tierra."
+  },
+  {
+    "id": "cg-1713",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué familia de compuestos, usada en refrigeración, dañó la capa de ozono?",
+    "options": [
+      "Óxidos de nitrógeno",
+      "Clorofluorocarbonos",
+      "Hidrocarburos aromáticos",
+      "Compuestos de azufre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los clorofluorocarbonos liberan cloro que destruye moléculas de ozono."
+  },
+  {
+    "id": "cg-1714",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué tratado internacional de 1987 prohibió los clorofluorocarbonos?",
+    "options": [
+      "Protocolo de Montreal",
+      "Protocolo de Kioto",
+      "Convenio de Basilea",
+      "Acuerdo de París"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Protocolo de Montreal buscó proteger la capa de ozono."
+  },
+  {
+    "id": "cg-1715",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Cómo es una disolución acuosa con pH 3 a 25 °C?",
+    "options": [
+      "Neutra",
+      "Básica",
+      "Alcalina",
+      "Ácida"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un pH menor que 7 indica acidez; el 3 es bastante ácido."
+  },
+  {
+    "id": "cg-1716",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Cómo es una disolución acuosa con pH 11 a 25 °C?",
+    "options": [
+      "Ácida",
+      "Básica",
+      "Neutra",
+      "Fuertemente oxidante"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un pH mayor que 7 indica basicidad."
+  },
+  {
+    "id": "cg-1717",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué ocurre al añadir una base a una disolución ácida?",
+    "options": [
+      "Se vuelve más ácida",
+      "Se duplica su acidez",
+      "No experimenta cambios",
+      "Se neutraliza y forma sal y agua"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los iones hidrógeno e hidroxilo reaccionan y producen agua y una sal."
+  },
+  {
+    "id": "cg-1718",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué propiedad caracteriza a una disolución tampón o amortiguadora?",
+    "options": [
+      "Aumenta siempre el pH",
+      "Elimina todos los iones",
+      "Se evapora rápido",
+      "Resiste cambios de pH"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un tampón contiene un ácido débil y su base conjugada y estabiliza el pH."
+  },
+  {
+    "id": "cg-1719",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué mide la electronegatividad de un elemento?",
+    "options": [
+      "Su tendencia a ceder protones",
+      "Su masa atómica",
+      "Su tendencia a atraer electrones en un enlace",
+      "Su capacidad de formar isótopos"
+    ],
+    "correctIndex": 2,
+    "explanation": "La electronegatividad indica la tendencia a atraer los electrones compartidos."
+  },
+  {
+    "id": "cg-1720",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué elemento tiene una electronegatividad de 3,98 en la escala de Pauling?",
+    "options": [
+      "Flúor",
+      "Oxígeno",
+      "Cloro",
+      "Nitrógeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "El flúor es el elemento más electronegativo de la tabla periódica."
+  },
+  {
+    "id": "cg-1721",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué enlace se forma entre átomos con electronegatividades muy diferentes?",
+    "options": [
+      "Iónico",
+      "Covalente puro",
+      "Metálico",
+      "De hidrógeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "La gran diferencia de electronegatividad favorece la transferencia de electrones."
+  },
+  {
+    "id": "cg-1722",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué implica la oxidación de una especie química?",
+    "options": [
+      "Ganancia de electrones",
+      "Ganancia de protones",
+      "Pérdida de electrones",
+      "Pérdida de neutrones"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oxidarse es ceder electrones; el estado de oxidación aumenta."
+  },
+  {
+    "id": "cg-1723",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué implica la reducción de una especie química?",
+    "options": [
+      "Pérdida de electrones",
+      "Pérdida de protones",
+      "Ganancia de electrones",
+      "Aumento de masa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Reducirse es ganar electrones y disminuir el estado de oxidación."
+  },
+  {
+    "id": "cg-1724",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué hace un agente oxidante en una reacción redox?",
+    "options": [
+      "Cede electrones y se oxida",
+      "No participa en la reacción",
+      "Solo aporta protones",
+      "Gana electrones y se reduce"
+    ],
+    "correctIndex": 3,
+    "explanation": "El oxidante acepta electrones, por eso él mismo se reduce."
+  },
+  {
+    "id": "cg-1725",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué es la electrólisis?",
+    "options": [
+      "Separar por ebullición",
+      "Filtrar partículas sólidas",
+      "Descomponer sustancias con corriente eléctrica",
+      "Medir el pH"
+    ],
+    "correctIndex": 2,
+    "explanation": "La corriente eléctrica provoca reacciones redox en los electrodos."
+  },
+  {
+    "id": "cg-1726",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué ocurre en el cátodo durante la electrólisis?",
+    "options": [
+      "Ocurre la oxidación",
+      "Se genera el gas",
+      "Siempre es el electrodo positivo",
+      "Ocurre la reducción"
+    ],
+    "correctIndex": 3,
+    "explanation": "En el cátodo los cationes ganan electrones y se reducen."
+  },
+  {
+    "id": "cg-1727",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué metal se deposita en el cátodo al electrolizar una disolución de sulfato de cobre?",
+    "options": [
+      "Cobre",
+      "Hierro",
+      "Zinc",
+      "Plata"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los iones cobre(II) se reducen y forman cobre metálico."
+  },
+  {
+    "id": "cg-1728",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "medium",
+    "question": "¿Qué es la galvanoplastia?",
+    "options": [
+      "Fundir metales para alearlos",
+      "Pulir superficies con abrasivos",
+      "Recubrir objetos con una capa metálica",
+      "Separar gases por difusión"
+    ],
+    "correctIndex": 2,
+    "explanation": "La galvanoplastia deposita metal sobre un objeto mediante electrólisis."
+  },
+  {
+    "id": "cg-1729",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué principio establece que dos electrones de un átomo no pueden tener los cuatro números cuánticos iguales?",
+    "options": [
+      "Principio de incertidumbre",
+      "Regla de Hund",
+      "Principio de exclusión de Pauli",
+      "Ley de Hess"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wolfgang Pauli formuló el principio de exclusión en 1925."
+  },
+  {
+    "id": "cg-1730",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué físico alemán formuló en 1927 el principio de incertidumbre?",
+    "options": [
+      "Werner Heisenberg",
+      "Niels Bohr",
+      "Erwin Schrödinger",
+      "Max Planck"
+    ],
+    "correctIndex": 0,
+    "explanation": "Heisenberg mostró que posición y momento no pueden conocerse con precisión simultánea."
+  },
+  {
+    "id": "cg-1731",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué describe la ecuación de Schrödinger en mecánica cuántica?",
+    "options": [
+      "La órbita circular del electrón",
+      "La masa del núcleo",
+      "La función de onda",
+      "La carga del electrón"
+    ],
+    "correctIndex": 2,
+    "explanation": "La ecuación permite calcular la función de onda y la probabilidad de encontrar el electrón."
+  },
+  {
+    "id": "cg-1732",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de orbital corresponde al número cuántico secundario l = 2?",
+    "options": [
+      "s",
+      "p",
+      "f",
+      "d"
+    ],
+    "correctIndex": 3,
+    "explanation": "l = 0 es s, l = 1 es p, l = 2 es d y l = 3 es f."
+  },
+  {
+    "id": "cg-1733",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Cuál es la configuración electrónica del hierro, de número atómico 26?",
+    "options": [
+      "[Ar] 3d8",
+      "[Ar] 3d6 4s2",
+      "[Ar] 4s2 4p6",
+      "[Ne] 3s2 3p6"
+    ],
+    "correctIndex": 1,
+    "explanation": "El hierro tiene 26 electrones y su configuración es [Ar] 3d6 4s2."
+  },
+  {
+    "id": "cg-1734",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Cuántos electrones admite como máximo un subnivel d?",
+    "options": [
+      "10",
+      "2",
+      "6",
+      "14"
+    ],
+    "correctIndex": 0,
+    "explanation": "El subnivel d tiene cinco orbitales y admite hasta 10 electrones."
+  },
+  {
+    "id": "cg-1735",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué establece la regla de Hund?",
+    "options": [
+      "Aparear electrones primero",
+      "Llenar el subnivel f antes que el d",
+      "Ocupar orbitales vacíos antes de aparear electrones",
+      "Emparejar electrones de distinto espín"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los electrones se distribuyen con espines paralelos en orbitales degenerados."
+  },
+  {
+    "id": "cg-1736",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué geometría adopta un carbono con hibridación sp3?",
+    "options": [
+      "Plana cuadrada",
+      "Lineal",
+      "Tetraédrica",
+      "Bipiramidal trigonal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los cuatro orbitales sp3 apuntan hacia los vértices de un tetraedro."
+  },
+  {
+    "id": "cg-1737",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué geometría molecular tiene el amoniaco?",
+    "options": [
+      "Plana trigonal",
+      "Tetraédrica",
+      "Lineal",
+      "Piramidal trigonal"
+    ],
+    "correctIndex": 3,
+    "explanation": "El par libre del nitrógeno da al amoniaco forma de pirámide trigonal."
+  },
+  {
+    "id": "cg-1738",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué geometría tienen los carbonos del eteno alrededor del doble enlace?",
+    "options": [
+      "Tetraédrica",
+      "Angular",
+      "Plana trigonal",
+      "Piramidal"
+    ],
+    "correctIndex": 2,
+    "explanation": "La hibridación sp2 del eteno da una disposición plana trigonal."
+  },
+  {
+    "id": "cg-1739",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué explica la resonancia en la molécula de benceno?",
+    "options": [
+      "Enlaces iónicos alternos",
+      "Electrones deslocalizados",
+      "Carbono tetraédrico",
+      "Puentes de hidrógeno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los seis electrones pi del benceno se distribuyen por igual en el anillo."
+  },
+  {
+    "id": "cg-1740",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué químico alemán propuso en 1865 una estructura cíclica para el benceno?",
+    "options": [
+      "Linus Pauling",
+      "August Kekulé",
+      "Robert Robinson",
+      "Emil Fischer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kekulé describió el benceno como un anillo de seis carbonos con enlaces alternos."
+  },
+  {
+    "id": "cg-1741",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué condición de Hückel debe cumplir un compuesto para ser aromático?",
+    "options": [
+      "2n electrones sigma",
+      "8 electrones de valencia",
+      "6 protones en el anillo",
+      "4n + 2 electrones pi"
+    ],
+    "correctIndex": 3,
+    "explanation": "El sistema cíclico plano debe tener 4n + 2 electrones pi deslocalizados."
+  },
+  {
+    "id": "cg-1742",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué químico estadounidense desarrolló la escala de electronegatividad y la teoría de la hibridación?",
+    "options": [
+      "Gilbert Lewis",
+      "Robert Mulliken",
+      "Linus Pauling",
+      "Walter Heitler"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pauling recibió el Nobel de Química en 1954 por sus estudios del enlace químico."
+  },
+  {
+    "id": "cg-1743",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué es un compuesto de coordinación?",
+    "options": [
+      "Dos metales unidos por un enlace triple",
+      "Un ion central rodeado de ligandos",
+      "Una sal insoluble en agua",
+      "Un polímero de cadena larga"
+    ],
+    "correctIndex": 1,
+    "explanation": "En los complejos, los ligandos donan pares de electrones a un ion metálico central."
+  },
+  {
+    "id": "cg-1744",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué función cumple el EDTA en química analítica?",
+    "options": [
+      "Actúa como agente quelante",
+      "Cataliza oxidaciones",
+      "Sirve de indicador redox",
+      "Es un disolvente apolar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El EDTA forma complejos estables con iones metálicos y se usa en valoraciones."
+  },
+  {
+    "id": "cg-1745",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué busca la química verde?",
+    "options": [
+      "Aumentar la temperatura de reacción",
+      "Usar solo disolventes clorados",
+      "Reducir residuos y riesgos",
+      "Eliminar todos los catalizadores"
+    ],
+    "correctIndex": 2,
+    "explanation": "La química verde diseña procesos que generan menos residuos y usan sustancias más seguras."
+  },
+  {
+    "id": "cg-1746",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué distingue a la catálisis heterogénea?",
+    "options": [
+      "Todos los reactivos son gases",
+      "El catalizador se disuelve",
+      "No hay superficie de contacto",
+      "El catalizador está en otra fase"
+    ],
+    "correctIndex": 3,
+    "explanation": "En la catálisis heterogénea el catalizador suele ser sólido y los reactivos, gases o líquidos."
+  },
+  {
+    "id": "cg-1747",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué magnitud combina entalpía y entropía para predecir la espontaneidad de una reacción?",
+    "options": [
+      "Entalpía de formación",
+      "Constante de equilibrio",
+      "Energía de activación",
+      "Energía libre de Gibbs"
+    ],
+    "correctIndex": 3,
+    "explanation": "ΔG = ΔH - TΔS; un valor negativo indica un proceso espontáneo."
+  },
+  {
+    "id": "cg-1748",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué mide la entalpía en una reacción química?",
+    "options": [
+      "El calor intercambiado a presión constante",
+      "El trabajo eléctrico",
+      "El volumen molar",
+      "La entropía del sistema"
+    ],
+    "correctIndex": 0,
+    "explanation": "La variación de entalpía corresponde al calor absorbido o liberado a presión constante."
+  },
+  {
+    "id": "cg-1749",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué afirma la segunda ley de la termodinámica?",
+    "options": [
+      "La entropía del universo aumenta",
+      "La energía se destruye",
+      "El calor fluye del frío al caliente",
+      "La masa se transforma en energía"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los procesos espontáneos aumentan la entropía total del universo."
+  },
+  {
+    "id": "cg-1750",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué es la energía de activación?",
+    "options": [
+      "El calor liberado total",
+      "La masa de los productos",
+      "La barrera mínima para que ocurra la reacción",
+      "La carga del catalizador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Es la energía necesaria para que las moléculas alcancen el estado de transición."
+  },
+  {
+    "id": "cg-1751",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué relaciona la ecuación de Arrhenius?",
+    "options": [
+      "Presión y volumen",
+      "Masa y densidad",
+      "Carga y potencial",
+      "Velocidad de reacción y temperatura"
+    ],
+    "correctIndex": 3,
+    "explanation": "La constante de velocidad aumenta exponencialmente con la temperatura."
+  },
+  {
+    "id": "cg-1752",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué ocurre en un equilibrio químico dinámico?",
+    "options": [
+      "Las velocidades directa e inversa se igualan",
+      "Los reactivos se agotan",
+      "La reacción se detiene por completo",
+      "El catalizador se consume"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las concentraciones permanecen constantes aunque ambas reacciones siguen ocurriendo."
+  },
+  {
+    "id": "cg-1753",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué predice el principio de Le Châtelier?",
+    "options": [
+      "El sistema se opone a la perturbación",
+      "El sistema ignora el cambio",
+      "La reacción se invierte siempre",
+      "El equilibrio se destruye"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al perturbar un equilibrio, el sistema se desplaza para contrarrestar la perturbación."
+  },
+  {
+    "id": "cg-1754",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué materias primas se calcinan para fabricar cemento Portland?",
+    "options": [
+      "Arena y yeso",
+      "Caliza y arcilla",
+      "Bauxita y criolita",
+      "Sal y carbón"
+    ],
+    "correctIndex": 1,
+    "explanation": "La caliza aporta calcio y la arcilla, sílice y alúmina; el producto es clínker."
+  },
+  {
+    "id": "cg-1755",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué representa el producto de solubilidad Kps de una sal poco soluble?",
+    "options": [
+      "La constante de acidez",
+      "La constante de basicidad",
+      "La entalpía de disolución",
+      "El producto de las concentraciones iónicas en saturación"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kps es el producto de las concentraciones iónicas en una disolución saturada."
+  },
+  {
+    "id": "cg-1756",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué propiedad coligativa describe la presión necesaria para detener el paso de disolvente por una membrana?",
+    "options": [
+      "Presión osmótica",
+      "Viscosidad",
+      "Tensión superficial",
+      "Densidad de vapor"
+    ],
+    "correctIndex": 0,
+    "explanation": "La presión osmótica depende de la concentración de partículas en disolución."
+  },
+  {
+    "id": "cg-1757",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué químico neerlandés recibió el primer premio Nobel de Química en 1901?",
+    "options": [
+      "Svante Arrhenius",
+      "Jacobus van 't Hoff",
+      "Wilhelm Ostwald",
+      "Walther Nernst"
+    ],
+    "correctIndex": 1,
+    "explanation": "Van 't Hoff fue premiado por sus trabajos sobre disoluciones y presión osmótica."
+  },
+  {
+    "id": "cg-1758",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué científico ganó el premio Nobel de Química y también el de la Paz?",
+    "options": [
+      "Marie Curie",
+      "Frederick Sanger",
+      "John Bardeen",
+      "Linus Pauling"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pauling recibió Química en 1954 y Paz en 1962."
+  },
+  {
+    "id": "cg-1759",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué compuesto orgánico sintetizó Friedrich Wöhler en 1828 a partir de cianato de amonio?",
+    "options": [
+      "Ácido úrico",
+      "Glucosa",
+      "Urea",
+      "Amoniaco"
+    ],
+    "correctIndex": 2,
+    "explanation": "La síntesis de urea mostró que no hacía falta una fuerza vital para formar compuestos orgánicos."
+  },
+  {
+    "id": "cg-1760",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué físico francés descubrió en 1896 la radiactividad natural de las sales de uranio?",
+    "options": [
+      "Wilhelm Röntgen",
+      "Marie Curie",
+      "Henri Becquerel",
+      "Ernest Rutherford"
+    ],
+    "correctIndex": 2,
+    "explanation": "Becquerel observó que el uranio emitía radiación sin exposición previa a la luz."
+  },
+  {
+    "id": "cg-1761",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué elemento descubrieron Marie y Pierre Curie en 1898 junto al polonio?",
+    "options": [
+      "Torio",
+      "Actinio",
+      "Francio",
+      "Radio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los Curie aislaron el radio tras descubrir el polonio ese mismo año."
+  },
+  {
+    "id": "cg-1762",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué químico francés aisló el flúor elemental en 1886?",
+    "options": [
+      "Henri Moissan",
+      "Humphry Davy",
+      "Carl Wilhelm Scheele",
+      "Joseph Priestley"
+    ],
+    "correctIndex": 0,
+    "explanation": "Moissan lo obtuvo por electrólisis de fluoruro de hidrógeno y potasio."
+  },
+  {
+    "id": "cg-1763",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué gas descubrió Carl Wilhelm Scheele al tratar dióxido de manganeso con ácido clorhídrico?",
+    "options": [
+      "Oxígeno",
+      "Cloro",
+      "Nitrógeno",
+      "Hidrógeno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Scheele obtuvo cloro, aunque no lo identificó como elemento."
+  },
+  {
+    "id": "cg-1764",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué metal aisló Humphry Davy en 1807 mediante electrólisis de un hidróxido fundido?",
+    "options": [
+      "Aluminio",
+      "Sodio",
+      "Magnesio",
+      "Calcio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Davy obtuvo sodio y potasio con la pila voltaica."
+  },
+  {
+    "id": "cg-1765",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué científico británico publicó en 1803 su teoría atómica basada en pesos de combinación?",
+    "options": [
+      "Amedeo Avogadro",
+      "John Dalton",
+      "Jöns Jacob Berzelius",
+      "Joseph Proust"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dalton propuso que cada elemento está formado por átomos idénticos con masa propia."
+  },
+  {
+    "id": "cg-1766",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué grupo de elementos descubrió y estudió William Ramsay?",
+    "options": [
+      "Los metales alcalinos",
+      "Los halógenos",
+      "Los gases nobles",
+      "Las tierras raras"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ramsay identificó el argón y luego el helio, neón, criptón y xenón."
+  },
+  {
+    "id": "cg-1767",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué gas noble descubrieron Ramsay y Travers en 1898 y dio nombre a la luz de carteles?",
+    "options": [
+      "Argón",
+      "Criptón",
+      "Neón",
+      "Radón"
+    ],
+    "correctIndex": 2,
+    "explanation": "El neón se descubrió al fraccionar aire líquido."
+  },
+  {
+    "id": "cg-1768",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué químico japonés compartió el Nobel de Química 2010 por acoplamientos cruzados con paladio?",
+    "options": [
+      "Ryoji Noyori",
+      "Akira Suzuki",
+      "Koichi Tanaka",
+      "Hideki Shirakawa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Suzuki desarrolló el acoplamiento de compuestos de boro con haluros orgánicos."
+  },
+  {
+    "id": "cg-1769",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué químico mexicano sintetizó en 1951 la noretisterona, base de la píldora anticonceptiva?",
+    "options": [
+      "Andrés Manuel del Río",
+      "Mario Molina",
+      "Luis Miramontes",
+      "Fausto Elhuyar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Luis Miramontes trabajó en el equipo de Carl Djerassi en Ciudad de México."
+  },
+  {
+    "id": "cg-1770",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué elemento aislaron los hermanos Juan José y Fausto Elhuyar en 1783?",
+    "options": [
+      "Molibdeno",
+      "Tungsteno",
+      "Vanadio",
+      "Cromo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los Elhuyar obtuvieron tungsteno a partir de la wolframita."
+  },
+  {
+    "id": "cg-1771",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué químico húngaro desarrolló el análisis por activación neutrónica?",
+    "options": [
+      "George de Hevesy",
+      "Ernest Rutherford",
+      "Francis Aston",
+      "Otto Hahn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hevesy usó isótopos radiactivos como trazadores y ganó el Nobel en 1943."
+  },
+  {
+    "id": "cg-1772",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué técnica analítica inventó el checo Jaroslav Heyrovský?",
+    "options": [
+      "Espectroscopía infrarroja",
+      "Cromatografía de gases",
+      "Resonancia magnética",
+      "Polarografía"
+    ],
+    "correctIndex": 3,
+    "explanation": "La polarografía mide la corriente frente al potencial en una gota de mercurio."
+  },
+  {
+    "id": "cg-1773",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué químico suizo sintetizó por primera vez el LSD en 1938?",
+    "options": [
+      "Albert Hofmann",
+      "Alexander Shulgin",
+      "Paul Ehrlich",
+      "Gerhard Domagk"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hofmann descubrió los efectos psicoactivos del LSD en 1943."
+  },
+  {
+    "id": "cg-1774",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué es el fullereno C60?",
+    "options": [
+      "Una cadena lineal de carbono",
+      "Una lámina bidimensional",
+      "Un cristal de silicio",
+      "Una jaula de 60 átomos de carbono"
+    ],
+    "correctIndex": 3,
+    "explanation": "El C60 tiene forma de balón de fútbol con 60 átomos de carbono."
+  },
+  {
+    "id": "cg-1775",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Por qué descubrimiento compartieron el Nobel de Química 1996 Curl, Kroto y Smalley?",
+    "options": [
+      "El grafeno",
+      "Los fullerenos",
+      "Los nanotubos de nitruro",
+      "Los cuasicristales"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los tres identificaron la estructura del C60 y abrieron la química de los fullerenos."
+  },
+  {
+    "id": "cg-1776",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué es el grafeno?",
+    "options": [
+      "Un tubo de carbono cerrado",
+      "Una esfera de 60 carbonos",
+      "Un cristal de diamante",
+      "Una lámina de carbono de un átomo de grosor"
+    ],
+    "correctIndex": 3,
+    "explanation": "El grafeno es una red hexagonal de carbono de una sola capa atómica."
+  },
+  {
+    "id": "cg-1777",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué científicos aislaron el grafeno en 2004?",
+    "options": [
+      "Andre Geim y Konstantin Novoselov",
+      "Curl y Smalley",
+      "Iijima y Ebbesen",
+      "Kroto y Curl"
+    ],
+    "correctIndex": 0,
+    "explanation": "Geim y Novoselov lo obtuvieron exfoliando grafito con cinta adhesiva."
+  },
+  {
+    "id": "cg-1778",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué material semiconductor predomina en la fabricación de circuitos integrados?",
+    "options": [
+      "Germanio",
+      "Galio",
+      "Carbono",
+      "Silicio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El silicio purificado y dopado permite fabricar transistores y chips."
+  },
+  {
+    "id": "cg-1779",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué elemento se usa típicamente para dopar silicio y obtener un semiconductor tipo n?",
+    "options": [
+      "Fósforo",
+      "Boro",
+      "Galio",
+      "Aluminio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El fósforo tiene cinco electrones de valencia y aporta electrones libres."
+  },
+  {
+    "id": "cg-1780",
+    "category": "general",
+    "topic": "chemistry",
+    "difficulty": "hard",
+    "question": "¿Qué hace una celda de combustible de hidrógeno?",
+    "options": [
+      "Almacena electricidad en placas de plomo",
+      "Convierte hidrógeno y oxígeno en electricidad",
+      "Quema gasolina para mover un alternador",
+      "Genera luz con una reacción nuclear"
+    ],
+    "correctIndex": 1,
+    "explanation": "La reacción electroquímica produce agua y electricidad sin combustión."
+  }
+]

@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-5161",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo inglés escribió la tragedia Hamlet, protagonizada por un príncipe de Dinamarca?",
+    "options": [
+      "William Shakespeare",
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "John Webster"
+    ],
+    "correctIndex": 0,
+    "explanation": "William Shakespeare escribió Hamlet hacia 1600; es una de sus tragedias más representadas."
+  },
+  {
+    "id": "cg-5162",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta italiano escribió La divina comedia, que recorre el Infierno, el Purgatorio y el Paraíso?",
+    "options": [
+      "Francesco Petrarca",
+      "Dante Alighieri",
+      "Ludovico Ariosto",
+      "Torquato Tasso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dante Alighieri compuso La divina comedia en italiano en el siglo XIV."
+  },
+  {
+    "id": "cg-5163",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿A qué género teatral pertenece Romeo y Julieta, de William Shakespeare?",
+    "options": [
+      "Comedia",
+      "Farsa",
+      "Tragedia",
+      "Entremés"
+    ],
+    "correctIndex": 2,
+    "explanation": "Romeo y Julieta es una tragedia: los dos jóvenes amantes mueren al final."
+  },
+  {
+    "id": "cg-5164",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo griego de la Antigüedad escribió la tragedia Edipo rey?",
+    "options": [
+      "Eurípides",
+      "Esquilo",
+      "Aristófanes",
+      "Sófocles"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sófocles estrenó Edipo rey en Atenas en el siglo V a. C."
+  },
+  {
+    "id": "cg-5165",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo español del Siglo de Oro escribió Fuenteovejuna?",
+    "options": [
+      "Lope de Vega",
+      "Pedro Calderón de la Barca",
+      "Tirso de Molina",
+      "Juan Ruiz de Alarcón"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lope de Vega escribió Fuenteovejuna, drama sobre la rebelión de un pueblo contra su señor."
+  },
+  {
+    "id": "cg-5166",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué autor irlandés escribió Esperando a Godot?",
+    "options": [
+      "Oscar Wilde",
+      "Samuel Beckett",
+      "George Bernard Shaw",
+      "Seán O'Casey"
+    ],
+    "correctIndex": 1,
+    "explanation": "Samuel Beckett estrenó Esperando a Godot en París en 1953."
+  },
+  {
+    "id": "cg-5167",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta estadounidense escribió el poema El cuervo?",
+    "options": [
+      "Walt Whitman",
+      "Robert Frost",
+      "Edgar Allan Poe",
+      "Emily Dickinson"
+    ],
+    "correctIndex": 2,
+    "explanation": "Edgar Allan Poe publicó El cuervo en 1845."
+  },
+  {
+    "id": "cg-5168",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la composición poética formada por catorce versos, típica de la lírica italiana y española?",
+    "options": [
+      "Oda",
+      "Elegía",
+      "Romance",
+      "Soneto"
+    ],
+    "correctIndex": 3,
+    "explanation": "El soneto tiene catorce versos, normalmente endecasílabos, repartidos en dos cuartetos y dos tercetos."
+  },
+  {
+    "id": "cg-5169",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo francés del siglo XVII escribió Tartufo y El avaro?",
+    "options": [
+      "Molière",
+      "Jean Racine",
+      "Pierre Corneille",
+      "Beaumarchais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Molière, maestro de la comedia clásica francesa, escribió Tartufo y El avaro."
+  },
+  {
+    "id": "cg-5170",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta chileno escribió Veinte poemas de amor y una canción desesperada?",
+    "options": [
+      "Vicente Huidobro",
+      "Pablo Neruda",
+      "Gabriela Mistral",
+      "Nicanor Parra"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pablo Neruda publicó Veinte poemas de amor y una canción desesperada en 1924."
+  },
+  {
+    "id": "cg-5171",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo alemán escribió Madre Coraje y sus hijos?",
+    "options": [
+      "Gotthold Ephraim Lessing",
+      "Friedrich Schiller",
+      "Bertolt Brecht",
+      "Georg Büchner"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bertolt Brecht escribió Madre Coraje y sus hijos en 1939, durante su exilio."
+  },
+  {
+    "id": "cg-5172",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta español escribió Romancero gitano?",
+    "options": [
+      "Rafael Alberti",
+      "Jorge Guillén",
+      "Pedro Salinas",
+      "Federico García Lorca"
+    ],
+    "correctIndex": 3,
+    "explanation": "Federico García Lorca publicó Romancero gitano en 1928."
+  },
+  {
+    "id": "cg-5173",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué forma poética japonesa consta de tres versos de cinco, siete y cinco sílabas?",
+    "options": [
+      "Haiku",
+      "Tanka",
+      "Sijo",
+      "Villancico"
+    ],
+    "correctIndex": 0,
+    "explanation": "El haiku es una estrofa japonesa de tres versos con patrón 5-7-5."
+  },
+  {
+    "id": "cg-5174",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué autor ruso escribió las obras La gaviota y El jardín de los cerezos?",
+    "options": [
+      "Máximo Gorki",
+      "Antón Chéjov",
+      "Nikolái Gógol",
+      "Iván Turguéniev"
+    ],
+    "correctIndex": 1,
+    "explanation": "Antón Chéjov escribió La gaviota en 1896 y El jardín de los cerezos en 1904."
+  },
+  {
+    "id": "cg-5175",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta griego antiguo compuso la Odisea?",
+    "options": [
+      "Hesíodo",
+      "Píndaro",
+      "Homero",
+      "Safo"
+    ],
+    "correctIndex": 2,
+    "explanation": "A Homero se le atribuyen la Ilíada y la Odisea."
+  },
+  {
+    "id": "cg-5176",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta francés escribió Las flores del mal?",
+    "options": [
+      "Arthur Rimbaud",
+      "Paul Verlaine",
+      "Stéphane Mallarmé",
+      "Charles Baudelaire"
+    ],
+    "correctIndex": 3,
+    "explanation": "Charles Baudelaire publicó Las flores del mal en 1857."
+  },
+  {
+    "id": "cg-5177",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo sueco escribió La señorita Julia?",
+    "options": [
+      "August Strindberg",
+      "Henrik Ibsen",
+      "Bjørnstjerne Bjørnson",
+      "Lars Norén"
+    ],
+    "correctIndex": 0,
+    "explanation": "August Strindberg estrenó La señorita Julia en 1889."
+  },
+  {
+    "id": "cg-5178",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta español escribió Rimas, entre ellas Volverán las oscuras golondrinas?",
+    "options": [
+      "Rosalía de Castro",
+      "Gustavo Adolfo Bécquer",
+      "José de Espronceda",
+      "Juan Ramón Jiménez"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gustavo Adolfo Bécquer reunió sus Rimas, publicadas póstumamente en 1871."
+  },
+  {
+    "id": "cg-5179",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué autor español escribió el drama Don Juan Tenorio?",
+    "options": [
+      "Duque de Rivas",
+      "Antonio Machado",
+      "José Zorrilla",
+      "Leandro Fernández de Moratín"
+    ],
+    "correctIndex": 2,
+    "explanation": "José Zorrilla estrenó Don Juan Tenorio en 1844."
+  },
+  {
+    "id": "cg-5180",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta nicaragüense inició el modernismo hispanoamericano con Azul...?",
+    "options": [
+      "José Martí",
+      "Julián del Casal",
+      "Manuel Gutiérrez Nájera",
+      "Rubén Darío"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rubén Darío publicó Azul... en 1888, obra fundacional del modernismo."
+  },
+  {
+    "id": "cg-5181",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo español escribió La vida es sueño?",
+    "options": [
+      "Pedro Calderón de la Barca",
+      "Lope de Vega",
+      "Tirso de Molina",
+      "Agustín Moreto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Calderón de la Barca estrenó La vida es sueño en 1635."
+  },
+  {
+    "id": "cg-5182",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta inglés escribió Paraíso perdido?",
+    "options": [
+      "William Wordsworth",
+      "John Milton",
+      "John Donne",
+      "Alexander Pope"
+    ],
+    "correctIndex": 1,
+    "explanation": "John Milton publicó Paraíso perdido en 1667."
+  },
+  {
+    "id": "cg-5183",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué autor estadounidense escribió Muerte de un viajante?",
+    "options": [
+      "Tennessee Williams",
+      "Eugene O'Neill",
+      "Arthur Miller",
+      "Edward Albee"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arthur Miller estrenó Muerte de un viajante en 1949."
+  },
+  {
+    "id": "cg-5184",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta peruano escribió Los heraldos negros y Trilce?",
+    "options": [
+      "José María Eguren",
+      "Abraham Valdelomar",
+      "Manuel González Prada",
+      "César Vallejo"
+    ],
+    "correctIndex": 3,
+    "explanation": "César Vallejo publicó Los heraldos negros en 1919 y Trilce en 1922."
+  },
+  {
+    "id": "cg-5185",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta latino escribió la Eneida?",
+    "options": [
+      "Virgilio",
+      "Ovidio",
+      "Horacio",
+      "Catulo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Virgilio compuso la Eneida en el siglo I a. C., por encargo de Augusto."
+  },
+  {
+    "id": "cg-5186",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo ruso escribió El inspector, sátira sobre la corrupción burocrática?",
+    "options": [
+      "Antón Chéjov",
+      "Nikolái Gógol",
+      "Máximo Gorki",
+      "Aleksandr Ostrovski"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nikolái Gógol estrenó El inspector en 1836."
+  },
+  {
+    "id": "cg-5187",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo español escribió Bodas de sangre?",
+    "options": [
+      "Rafael Alberti",
+      "Alejandro Casona",
+      "Federico García Lorca",
+      "Jacinto Benavente"
+    ],
+    "correctIndex": 2,
+    "explanation": "Federico García Lorca estrenó Bodas de sangre en 1933."
+  },
+  {
+    "id": "cg-5188",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta estadounidense escribió La carretera no tomada?",
+    "options": [
+      "Carl Sandburg",
+      "Wallace Stevens",
+      "E. E. Cummings",
+      "Robert Frost"
+    ],
+    "correctIndex": 3,
+    "explanation": "Robert Frost publicó The Road Not Taken en 1916."
+  },
+  {
+    "id": "cg-5189",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta español escribió Platero y yo, libro de prosa poética sobre un burro?",
+    "options": [
+      "Juan Ramón Jiménez",
+      "Antonio Machado",
+      "Miguel de Unamuno",
+      "Ramón Pérez de Ayala"
+    ],
+    "correctIndex": 0,
+    "explanation": "Juan Ramón Jiménez publicó Platero y yo en 1914."
+  },
+  {
+    "id": "cg-5190",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo inglés escribió La importancia de llamarse Ernesto?",
+    "options": [
+      "George Bernard Shaw",
+      "Oscar Wilde",
+      "Noël Coward",
+      "J. M. Barrie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oscar Wilde estrenó La importancia de llamarse Ernesto en 1895."
+  },
+  {
+    "id": "cg-5191",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta español escribió El rayo que no cesa?",
+    "options": [
+      "Luis Cernuda",
+      "Rafael Alberti",
+      "Miguel Hernández",
+      "Pedro Salinas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Miguel Hernández publicó El rayo que no cesa en 1936."
+  },
+  {
+    "id": "cg-5192",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo francés escribió Hernani, obra clave del romanticismo?",
+    "options": [
+      "Alfred de Musset",
+      "Alfred de Vigny",
+      "Alexandre Dumas",
+      "Victor Hugo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El estreno de Hernani de Victor Hugo en 1830 desató la batalla romántica."
+  },
+  {
+    "id": "cg-5193",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta romano escribió Metamorfosis?",
+    "options": [
+      "Ovidio",
+      "Virgilio",
+      "Horacio",
+      "Propercio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ovidio compuso las Metamorfosis, quince libros de mitos transformados en verso."
+  },
+  {
+    "id": "cg-5194",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo irlandés escribió Juno y el pavo real?",
+    "options": [
+      "Samuel Beckett",
+      "Sean O'Casey",
+      "John Millington Synge",
+      "Brendan Behan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sean O'Casey estrenó Juno y el pavo real en el Abbey Theatre de Dublín en 1924."
+  },
+  {
+    "id": "cg-5195",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta griego antiguo escribió la Teogonía?",
+    "options": [
+      "Homero",
+      "Safo",
+      "Hesíodo",
+      "Anacreonte"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hesíodo narró el origen de los dioses griegos en la Teogonía."
+  },
+  {
+    "id": "cg-5196",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo español del Siglo de Oro escribió El perro del hortelano?",
+    "options": [
+      "Pedro Calderón de la Barca",
+      "Tirso de Molina",
+      "Guillén de Castro",
+      "Lope de Vega"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lope de Vega escribió El perro del hortelano, comedia palatina de enredo amoroso."
+  },
+  {
+    "id": "cg-5197",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta inglés escribió Oda a un ruiseñor?",
+    "options": [
+      "John Keats",
+      "Percy Bysshe Shelley",
+      "Lord Byron",
+      "William Wordsworth"
+    ],
+    "correctIndex": 0,
+    "explanation": "John Keats compuso Oda a un ruiseñor en 1819."
+  },
+  {
+    "id": "cg-5198",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué autor teatral estadounidense escribió Nuestro pueblo (Our Town)?",
+    "options": [
+      "Eugene O'Neill",
+      "Thornton Wilder",
+      "Arthur Miller",
+      "William Inge"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thornton Wilder estrenó Nuestro pueblo en 1938, con un narrador llamado Stage Manager."
+  },
+  {
+    "id": "cg-5199",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta español escribió Campos de Castilla?",
+    "options": [
+      "Juan Ramón Jiménez",
+      "Miguel de Unamuno",
+      "Antonio Machado",
+      "Vicente Aleixandre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Antonio Machado publicó Campos de Castilla en 1912."
+  },
+  {
+    "id": "cg-5200",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo alemán escribió Intriga y amor?",
+    "options": [
+      "Johann Wolfgang von Goethe",
+      "Gotthold Ephraim Lessing",
+      "Heinrich von Kleist",
+      "Friedrich Schiller"
+    ],
+    "correctIndex": 3,
+    "explanation": "Friedrich Schiller estrenó Intriga y amor en 1784."
+  },
+  {
+    "id": "cg-5201",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta portugués escribió el poema épico Os Lusíadas?",
+    "options": [
+      "Luís de Camões",
+      "Fernando Pessoa",
+      "Cesário Verde",
+      "Bocage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Luís de Camões publicó Os Lusíadas en 1572, epopeya de los descubrimientos portugueses."
+  },
+  {
+    "id": "cg-5202",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo griego escribió Lisístrata, comedia sobre una huelga sexual contra la guerra?",
+    "options": [
+      "Menandro",
+      "Aristófanes",
+      "Eurípides",
+      "Sófocles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aristófanes estrenó Lisístrata en 411 a. C."
+  },
+  {
+    "id": "cg-5203",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe en la commedia dell'arte la figura vestida con traje de rombos y máscara negra?",
+    "options": [
+      "Pantalone",
+      "Polichinela",
+      "Arlequín",
+      "Brighella"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arlequín es un criado cómico de la commedia dell'arte italiana, con traje de rombos."
+  },
+  {
+    "id": "cg-5204",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta ruso escribió La nube en pantalones, poema futurista de 1915?",
+    "options": [
+      "Borís Pasternak",
+      "Serguéi Yesenin",
+      "Aleksandr Blok",
+      "Vladímir Maiakovski"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vladímir Maiakovski publicó La nube en pantalones en 1915."
+  },
+  {
+    "id": "cg-5205",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo español escribió Los intereses creados?",
+    "options": [
+      "Jacinto Benavente",
+      "Carlos Arniches",
+      "Pedro Muñoz Seca",
+      "Eduardo Marquina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jacinto Benavente estrenó Los intereses creados en 1907."
+  },
+  {
+    "id": "cg-5206",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta estadounidense escribió Aullido (Howl)?",
+    "options": [
+      "Jack Kerouac",
+      "Allen Ginsberg",
+      "Lawrence Ferlinghetti",
+      "Gary Snyder"
+    ],
+    "correctIndex": 1,
+    "explanation": "Allen Ginsberg leyó Aullido por primera vez en 1955, en San Francisco."
+  },
+  {
+    "id": "cg-5207",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo francés escribió La cantante calva?",
+    "options": [
+      "Samuel Beckett",
+      "Jean Genet",
+      "Eugène Ionesco",
+      "Arthur Adamov"
+    ],
+    "correctIndex": 2,
+    "explanation": "Eugène Ionesco estrenó La cantante calva en París en 1950."
+  },
+  {
+    "id": "cg-5208",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta argentino escribió el poema narrativo Martín Fierro?",
+    "options": [
+      "Estanislao del Campo",
+      "Leopoldo Lugones",
+      "Bartolomé Mitre",
+      "José Hernández"
+    ],
+    "correctIndex": 3,
+    "explanation": "José Hernández publicó El gaucho Martín Fierro en 1872."
+  },
+  {
+    "id": "cg-5209",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué autor teatral alemán escribió Fausto, drama en verso sobre el pacto con el diablo?",
+    "options": [
+      "Johann Wolfgang von Goethe",
+      "Friedrich Schiller",
+      "Gotthold Ephraim Lessing",
+      "Novalis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Goethe trabajó en Fausto durante décadas y publicó la segunda parte en 1832."
+  },
+  {
+    "id": "cg-5210",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta nacido en Estados Unidos y nacionalizado británico escribió La tierra baldía?",
+    "options": [
+      "Ezra Pound",
+      "T. S. Eliot",
+      "Wallace Stevens",
+      "W. H. Auden"
+    ],
+    "correctIndex": 1,
+    "explanation": "T. S. Eliot publicó La tierra baldía en 1922."
+  },
+  {
+    "id": "cg-5211",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo italiano escribió El criado de dos amos?",
+    "options": [
+      "Carlo Gozzi",
+      "Pietro Aretino",
+      "Carlo Goldoni",
+      "Vittorio Alfieri"
+    ],
+    "correctIndex": 2,
+    "explanation": "Carlo Goldoni escribió El criado de dos amos en 1745."
+  },
+  {
+    "id": "cg-5212",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta español escribió La canción del pirata?",
+    "options": [
+      "José Zorrilla",
+      "Duque de Rivas",
+      "Gustavo Adolfo Bécquer",
+      "José de Espronceda"
+    ],
+    "correctIndex": 3,
+    "explanation": "José de Espronceda incluyó La canción del pirata en Poesías (1840)."
+  },
+  {
+    "id": "cg-5213",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué comedia de William Shakespeare incluye a los personajes Puck y Oberón?",
+    "options": [
+      "Sueño de una noche de verano",
+      "Noche de reyes",
+      "Como gustéis",
+      "La tempestad"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sueño de una noche de verano transcurre en un bosque con hadas, entre ellas Puck y Oberón."
+  },
+  {
+    "id": "cg-5214",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta español de la Generación del 27 escribió Sobre los ángeles?",
+    "options": [
+      "Pedro Salinas",
+      "Rafael Alberti",
+      "Jorge Guillén",
+      "Gerardo Diego"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rafael Alberti publicó Sobre los ángeles en 1929."
+  },
+  {
+    "id": "cg-5215",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo estadounidense escribió La extraña pareja?",
+    "options": [
+      "Woody Allen",
+      "David Mamet",
+      "Neil Simon",
+      "Neil LaBute"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neil Simon estrenó La extraña pareja en Broadway en 1965."
+  },
+  {
+    "id": "cg-5216",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta inglés escribió Ozymandias, soneto sobre un rey egipcio?",
+    "options": [
+      "Lord Byron",
+      "John Keats",
+      "William Blake",
+      "Percy Bysshe Shelley"
+    ],
+    "correctIndex": 3,
+    "explanation": "Percy Bysshe Shelley publicó Ozymandias en 1818."
+  },
+  {
+    "id": "cg-5217",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo español escribió El sí de las niñas?",
+    "options": [
+      "Leandro Fernández de Moratín",
+      "José Cadalso",
+      "Gaspar Melchor de Jovellanos",
+      "Ramón de la Cruz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leandro Fernández de Moratín estrenó El sí de las niñas en 1806."
+  },
+  {
+    "id": "cg-5218",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta francés escribió Fábulas, con La cigarra y la hormiga?",
+    "options": [
+      "Charles Perrault",
+      "Jean de La Fontaine",
+      "Nicolas Boileau",
+      "Pierre Corneille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jean de La Fontaine publicó sus Fábulas entre 1668 y 1694."
+  },
+  {
+    "id": "cg-5219",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo suizo escribió La visita de la vieja dama?",
+    "options": [
+      "Max Frisch",
+      "Botho Strauß",
+      "Friedrich Dürrenmatt",
+      "Heiner Müller"
+    ],
+    "correctIndex": 2,
+    "explanation": "Friedrich Dürrenmatt estrenó La visita de la vieja dama en 1956."
+  },
+  {
+    "id": "cg-5220",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta chileno escribió Altazor, poema vanguardista en siete cantos?",
+    "options": [
+      "Pablo Neruda",
+      "Nicanor Parra",
+      "Gonzalo Rojas",
+      "Vicente Huidobro"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vicente Huidobro publicó Altazor en 1931, obra central del creacionismo."
+  },
+  {
+    "id": "cg-5221",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta española escribió Cantares gallegos?",
+    "options": [
+      "Rosalía de Castro",
+      "Emilia Pardo Bazán",
+      "Curros Enríquez",
+      "Eduardo Pondal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rosalía de Castro publicó Cantares gallegos en 1863."
+  },
+  {
+    "id": "cg-5222",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo británico creó a Peter Pan en una obra teatral estrenada en 1904?",
+    "options": [
+      "Kenneth Grahame",
+      "J. M. Barrie",
+      "A. A. Milne",
+      "Lewis Carroll"
+    ],
+    "correctIndex": 1,
+    "explanation": "J. M. Barrie estrenó Peter Pan en Londres en 1904."
+  },
+  {
+    "id": "cg-5223",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta inglés escribió Kubla Khan, poema onírico publicado en 1816?",
+    "options": [
+      "William Wordsworth",
+      "Robert Southey",
+      "Samuel Taylor Coleridge",
+      "Thomas De Quincey"
+    ],
+    "correctIndex": 2,
+    "explanation": "Samuel Taylor Coleridge publicó Kubla Khan en 1816."
+  },
+  {
+    "id": "cg-5224",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué autor teatral español escribió La venganza de don Mendo, parodia en verso?",
+    "options": [
+      "Carlos Arniches",
+      "Jacinto Benavente",
+      "Miguel Mihura",
+      "Pedro Muñoz Seca"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pedro Muñoz Seca estrenó La venganza de don Mendo en 1918."
+  },
+  {
+    "id": "cg-5225",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta español escribió El estudiante de Salamanca?",
+    "options": [
+      "José de Espronceda",
+      "José Zorrilla",
+      "Duque de Rivas",
+      "Juan Arolas"
+    ],
+    "correctIndex": 0,
+    "explanation": "José de Espronceda publicó El estudiante de Salamanca en 1840."
+  },
+  {
+    "id": "cg-5226",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo griego escribió La paz, comedia sobre el fin de la guerra del Peloponeso?",
+    "options": [
+      "Menandro",
+      "Aristófanes",
+      "Filemón",
+      "Difilo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aristófanes estrenó La paz en 421 a. C."
+  },
+  {
+    "id": "cg-5227",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué nombre reciben las obras teatrales medievales que escenificaban episodios de la vida de Cristo?",
+    "options": [
+      "Loa",
+      "Entremés",
+      "Misterios",
+      "Mojiganga"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los misterios medievales representaban episodios bíblicos, sobre todo de la vida de Cristo."
+  },
+  {
+    "id": "cg-5228",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta británico escribió La abadía de Tintern, poema reflexivo sobre la naturaleza?",
+    "options": [
+      "Samuel Taylor Coleridge",
+      "John Keats",
+      "Lord Byron",
+      "William Wordsworth"
+    ],
+    "correctIndex": 3,
+    "explanation": "William Wordsworth compuso La abadía de Tintern en 1798."
+  },
+  {
+    "id": "cg-5229",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué autor teatral checo escribió R.U.R., obra que popularizó la palabra robot?",
+    "options": [
+      "Karel Čapek",
+      "Václav Havel",
+      "Jaroslav Hašek",
+      "Milan Kundera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Karel Čapek estrenó R.U.R. en 1920 e introdujo el término robot."
+  },
+  {
+    "id": "cg-5230",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta venezolano escribió la Silva a la agricultura de la zona tórrida?",
+    "options": [
+      "Simón Bolívar",
+      "Andrés Bello",
+      "José Antonio Maitín",
+      "Juan Antonio Pérez Bonalde"
+    ],
+    "correctIndex": 1,
+    "explanation": "Andrés Bello compuso la Silva a la agricultura de la zona tórrida en Londres, en 1826."
+  },
+  {
+    "id": "cg-5231",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo español del siglo XX escribió Los árboles mueren de pie?",
+    "options": [
+      "Miguel Mihura",
+      "Enrique Jardiel Poncela",
+      "Alejandro Casona",
+      "Antonio Buero Vallejo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alejandro Casona estrenó Los árboles mueren de pie en 1949."
+  },
+  {
+    "id": "cg-5232",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta y dramaturgo inglés escribió Asesinato en la catedral?",
+    "options": [
+      "Christopher Fry",
+      "W. H. Auden",
+      "Charles Williams",
+      "T. S. Eliot"
+    ],
+    "correctIndex": 3,
+    "explanation": "T. S. Eliot estrenó Asesinato en la catedral en 1935."
+  },
+  {
+    "id": "cg-5233",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta español escribió Diario de un poeta recién casado?",
+    "options": [
+      "Juan Ramón Jiménez",
+      "Antonio Machado",
+      "Pedro Salinas",
+      "Jorge Guillén"
+    ],
+    "correctIndex": 0,
+    "explanation": "Juan Ramón Jiménez publicó Diario de un poeta recién casado en 1917."
+  },
+  {
+    "id": "cg-5234",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué autor teatral alemán escribió Natán el sabio, parábola sobre la tolerancia religiosa?",
+    "options": [
+      "Friedrich Schiller",
+      "Gotthold Ephraim Lessing",
+      "Christoph Martin Wieland",
+      "Johann Gottfried Herder"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gotthold Ephraim Lessing publicó Natán el sabio en 1779."
+  },
+  {
+    "id": "cg-5235",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta español del 27 escribió Cántico, poemario de exaltación del ser?",
+    "options": [
+      "Pedro Salinas",
+      "Luis Cernuda",
+      "Jorge Guillén",
+      "Gerardo Diego"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jorge Guillén reunió su poesía en Cántico, ampliado en varias ediciones."
+  },
+  {
+    "id": "cg-5236",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta italiano escribió Cantos, poemario fragmentario sobre la condición humana?",
+    "options": [
+      "Ugo Foscolo",
+      "Giovanni Pascoli",
+      "Gabriele D'Annunzio",
+      "Giacomo Leopardi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Giacomo Leopardi escribió los Cantos entre 1818 y 1837."
+  },
+  {
+    "id": "cg-5237",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo estadounidense escribió Largo viaje hacia la noche?",
+    "options": [
+      "Eugene O'Neill",
+      "Tennessee Williams",
+      "Arthur Miller",
+      "Clifford Odets"
+    ],
+    "correctIndex": 0,
+    "explanation": "Eugene O'Neill escribió Largo viaje hacia la noche en 1941; se estrenó en 1956."
+  },
+  {
+    "id": "cg-5238",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta español escribió Soledades, galerías y otros poemas?",
+    "options": [
+      "Juan Ramón Jiménez",
+      "Antonio Machado",
+      "Miguel de Unamuno",
+      "Ramón de Campoamor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Antonio Machado publicó Soledades, galerías y otros poemas en 1907."
+  },
+  {
+    "id": "cg-5239",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo español del Siglo de Oro escribió La dama boba?",
+    "options": [
+      "Pedro Calderón de la Barca",
+      "Tirso de Molina",
+      "Lope de Vega",
+      "Juan Ruiz de Alarcón"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lope de Vega escribió La dama boba en 1613."
+  },
+  {
+    "id": "cg-5240",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta francés escribió El cementerio marino?",
+    "options": [
+      "Guillaume Apollinaire",
+      "Paul Éluard",
+      "Saint-John Perse",
+      "Paul Valéry"
+    ],
+    "correctIndex": 3,
+    "explanation": "Paul Valéry publicó El cementerio marino en 1920."
+  },
+  {
+    "id": "cg-5241",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo estadounidense escribió El zoo de cristal?",
+    "options": [
+      "Tennessee Williams",
+      "Arthur Miller",
+      "Eugene O'Neill",
+      "Carson McCullers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tennessee Williams estrenó El zoo de cristal en 1944."
+  },
+  {
+    "id": "cg-5242",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta peruano escribió Poemas humanos, publicados póstumamente?",
+    "options": [
+      "José María Eguren",
+      "César Vallejo",
+      "Alberto Hidalgo",
+      "Juan Parra del Riego"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los Poemas humanos de César Vallejo se publicaron en 1939, tras su muerte."
+  },
+  {
+    "id": "cg-5243",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué autor griego escribió La asamblea de las mujeres, comedia sobre el gobierno femenino?",
+    "options": [
+      "Menandro",
+      "Filemón",
+      "Aristófanes",
+      "Apolodoro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aristófanes estrenó La asamblea de las mujeres hacia 392 a. C."
+  },
+  {
+    "id": "cg-5244",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta español del siglo XVI escribió la Égloga I, con los pastores Salicio y Nemoroso?",
+    "options": [
+      "Fray Luis de León",
+      "Fernando de Herrera",
+      "Juan Boscán",
+      "Garcilaso de la Vega"
+    ],
+    "correctIndex": 3,
+    "explanation": "Garcilaso de la Vega compuso la Égloga I, publicada en 1543."
+  },
+  {
+    "id": "cg-5245",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo español contemporáneo escribió Bajarse al moro?",
+    "options": [
+      "José Luis Alonso de Santos",
+      "Fermín Cabal",
+      "José Sanchis Sinisterra",
+      "Juan Mayorga"
+    ],
+    "correctIndex": 0,
+    "explanation": "José Luis Alonso de Santos estrenó Bajarse al moro en 1985."
+  },
+  {
+    "id": "cg-5246",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poetisa estadounidense escribió Ariel, poemario publicado póstumamente?",
+    "options": [
+      "Anne Sexton",
+      "Sylvia Plath",
+      "Adrienne Rich",
+      "Denise Levertov"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ariel, de Sylvia Plath, apareció en 1965, dos años después de su muerte."
+  },
+  {
+    "id": "cg-5247",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué autor teatral español escribió Usted tiene ojos de mujer fatal?",
+    "options": [
+      "Pedro Muñoz Seca",
+      "Carlos Arniches",
+      "Enrique Jardiel Poncela",
+      "Edgar Neville"
+    ],
+    "correctIndex": 2,
+    "explanation": "Enrique Jardiel Poncela estrenó Usted tiene ojos de mujer fatal en 1933."
+  },
+  {
+    "id": "cg-5248",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta español escribió la Elegía a Ramón Sijé?",
+    "options": [
+      "Rafael Alberti",
+      "Luis Cernuda",
+      "Vicente Aleixandre",
+      "Miguel Hernández"
+    ],
+    "correctIndex": 3,
+    "explanation": "Miguel Hernández dedicó la Elegía a su amigo Ramón Sijé, muerto en 1935."
+  },
+  {
+    "id": "cg-5249",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo español escribió El médico de su honra?",
+    "options": [
+      "Pedro Calderón de la Barca",
+      "Lope de Vega",
+      "Tirso de Molina",
+      "Francisco de Rojas Zorrilla"
+    ],
+    "correctIndex": 0,
+    "explanation": "Calderón de la Barca escribió El médico de su honra, drama de honor y celos."
+  },
+  {
+    "id": "cg-5250",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta inglés escribió Elegía escrita en un cementerio rural?",
+    "options": [
+      "William Collins",
+      "Thomas Gray",
+      "Oliver Goldsmith",
+      "James Thomson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thomas Gray publicó su Elegía en 1751."
+  },
+  {
+    "id": "cg-5251",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo estadounidense escribió Fences (Vallas), sobre una familia afroamericana en Pittsburgh?",
+    "options": [
+      "Lorraine Hansberry",
+      "Amiri Baraka",
+      "August Wilson",
+      "James Baldwin"
+    ],
+    "correctIndex": 2,
+    "explanation": "August Wilson estrenó Fences en 1985 y ganó el Pulitzer en 1987."
+  },
+  {
+    "id": "cg-5252",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta francés escribió Alcoholes?",
+    "options": [
+      "Paul Éluard",
+      "Louis Aragon",
+      "Robert Desnos",
+      "Guillaume Apollinaire"
+    ],
+    "correctIndex": 3,
+    "explanation": "Guillaume Apollinaire publicó Alcoholes en 1913."
+  },
+  {
+    "id": "cg-5253",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué autor teatral español del siglo XVIII escribió La comedia nueva?",
+    "options": [
+      "Leandro Fernández de Moratín",
+      "Ramón de la Cruz",
+      "Tomás de Iriarte",
+      "Félix María de Samaniego"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leandro Fernández de Moratín estrenó La comedia nueva en 1792."
+  },
+  {
+    "id": "cg-5254",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta italiano del siglo XX escribió Ossi di seppia?",
+    "options": [
+      "Giuseppe Ungaretti",
+      "Eugenio Montale",
+      "Salvatore Quasimodo",
+      "Umberto Saba"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eugenio Montale publicó Ossi di seppia en 1925."
+  },
+  {
+    "id": "cg-5255",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta mexicana del siglo XVII escribió Primero sueño?",
+    "options": [
+      "Juan Ruiz de Alarcón",
+      "Carlos de Sigüenza y Góngora",
+      "Sor Juana Inés de la Cruz",
+      "Bernardo de Balbuena"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sor Juana Inés de la Cruz compuso Primero sueño, poema filosófico en silva."
+  },
+  {
+    "id": "cg-5256",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo italiano escribió Muerte accidental de un anarquista?",
+    "options": [
+      "Eduardo De Filippo",
+      "Luigi Pirandello",
+      "Ugo Betti",
+      "Dario Fo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dario Fo estrenó Muerte accidental de un anarquista en 1970."
+  },
+  {
+    "id": "cg-5257",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta español escribió Palabra sobre palabra, reunión de su obra poética?",
+    "options": [
+      "Ángel González",
+      "Jaime Gil de Biedma",
+      "José Manuel Caballero Bonald",
+      "Claudio Rodríguez"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ángel González publicó Palabra sobre palabra, antología de su poesía, en 1968."
+  },
+  {
+    "id": "cg-5258",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo británico escribió Amadeus, sobre Salieri y Mozart?",
+    "options": [
+      "Tom Stoppard",
+      "Peter Shaffer",
+      "Michael Frayn",
+      "Alan Ayckbourn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Peter Shaffer estrenó Amadeus en 1979."
+  },
+  {
+    "id": "cg-5259",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta español escribió La casa encendida?",
+    "options": [
+      "Dámaso Alonso",
+      "Vicente Aleixandre",
+      "Luis Rosales",
+      "Leopoldo Panero"
+    ],
+    "correctIndex": 2,
+    "explanation": "Luis Rosales publicó La casa encendida en 1949."
+  },
+  {
+    "id": "cg-5260",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo francés escribió Ubu rey, precursor del teatro del absurdo?",
+    "options": [
+      "Guillaume Apollinaire",
+      "Jean Cocteau",
+      "Antonin Artaud",
+      "Alfred Jarry"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alfred Jarry estrenó Ubu rey en 1896."
+  },
+  {
+    "id": "cg-5261",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta inglés medieval escribió Los cuentos de Canterbury?",
+    "options": [
+      "Geoffrey Chaucer",
+      "John Gower",
+      "William Langland",
+      "Thomas Malory"
+    ],
+    "correctIndex": 0,
+    "explanation": "Geoffrey Chaucer escribió Los cuentos de Canterbury a finales del siglo XIV."
+  },
+  {
+    "id": "cg-5262",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo español del siglo XVII escribió Del rey abajo, ninguno?",
+    "options": [
+      "Agustín Moreto",
+      "Francisco de Rojas Zorrilla",
+      "Antonio Coello",
+      "Luis Vélez de Guevara"
+    ],
+    "correctIndex": 1,
+    "explanation": "Francisco de Rojas Zorrilla escribió Del rey abajo, ninguno, drama de honor campesino."
+  },
+  {
+    "id": "cg-5263",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué poeta británico escribió La carga de la brigada ligera?",
+    "options": [
+      "Robert Browning",
+      "Matthew Arnold",
+      "Alfred Tennyson",
+      "Algernon Charles Swinburne"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alfred Tennyson publicó La carga de la brigada ligera en 1854."
+  },
+  {
+    "id": "cg-5264",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "easy",
+    "question": "¿Qué dramaturgo español escribió La fundación, ambientada en una habitación de presos?",
+    "options": [
+      "Alfonso Sastre",
+      "Fernando Arrabal",
+      "José Sanchis Sinisterra",
+      "Antonio Buero Vallejo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Antonio Buero Vallejo estrenó La fundación en 1974."
+  },
+  {
+    "id": "cg-5265",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta de la Antigua Grecia, natural de Lesbos, es conocida por sus odas y fragmentos líricos?",
+    "options": [
+      "Safo",
+      "Corina",
+      "Erinna",
+      "Praxila"
+    ],
+    "correctIndex": 0,
+    "explanation": "Safo compuso poesía lírica en Lesbos hacia los siglos VII y VI a. C."
+  },
+  {
+    "id": "cg-5266",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral italiano escribió Seis personajes en busca de autor?",
+    "options": [
+      "Dario Fo",
+      "Luigi Pirandello",
+      "Carlo Goldoni",
+      "Ugo Betti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Luigi Pirandello estrenó Seis personajes en busca de autor en Roma en 1921."
+  },
+  {
+    "id": "cg-5267",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta español del Barroco escribió Soledades y la Fábula de Polifemo y Galatea?",
+    "options": [
+      "Francisco de Quevedo",
+      "Lope de Vega",
+      "Luis de Góngora",
+      "Pedro Soto de Rojas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Luis de Góngora compuso las Soledades y la Fábula de Polifemo y Galatea, cumbres del culteranismo."
+  },
+  {
+    "id": "cg-5268",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el verso de once sílabas, muy usado en la poesía culta española e italiana?",
+    "options": [
+      "Octosílabo",
+      "Alejandrino",
+      "Heptasílabo",
+      "Endecasílabo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El endecasílabo tiene once sílabas y es base del soneto y la silva."
+  },
+  {
+    "id": "cg-5269",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo griego escribió la tragedia Medea?",
+    "options": [
+      "Eurípides",
+      "Sófocles",
+      "Esquilo",
+      "Menandro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Eurípides estrenó Medea en 431 a. C."
+  },
+  {
+    "id": "cg-5270",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta mexicano escribió Piedra de sol?",
+    "options": [
+      "Carlos Pellicer",
+      "Octavio Paz",
+      "Xavier Villaurrutia",
+      "José Gorostiza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Octavio Paz publicó Piedra de sol en 1957."
+  },
+  {
+    "id": "cg-5271",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral noruego escribió Peer Gynt?",
+    "options": [
+      "August Strindberg",
+      "Knut Hamsun",
+      "Henrik Ibsen",
+      "Jon Fosse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Henrik Ibsen publicó Peer Gynt en 1867."
+  },
+  {
+    "id": "cg-5272",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta ruso escribió la novela en verso Eugenio Oneguin?",
+    "options": [
+      "Mijaíl Lérmontov",
+      "Fiódor Tiútchev",
+      "Afanasi Fet",
+      "Aleksandr Pushkin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Aleksandr Pushkin publicó Eugenio Oneguin entre 1825 y 1832."
+  },
+  {
+    "id": "cg-5273",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo isabelino inglés escribió La trágica historia del doctor Fausto?",
+    "options": [
+      "Christopher Marlowe",
+      "Thomas Kyd",
+      "Ben Jonson",
+      "John Ford"
+    ],
+    "correctIndex": 0,
+    "explanation": "Christopher Marlowe escribió Doctor Fausto hacia 1592."
+  },
+  {
+    "id": "cg-5274",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta estadounidense escribió Hojas de hierba, que incluye Canto a mí mismo?",
+    "options": [
+      "Emily Dickinson",
+      "Walt Whitman",
+      "Henry Wadsworth Longfellow",
+      "Ralph Waldo Emerson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Walt Whitman publicó Hojas de hierba por primera vez en 1855."
+  },
+  {
+    "id": "cg-5275",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral español escribió Luces de bohemia, con Max Estrella como protagonista?",
+    "options": [
+      "Jacinto Benavente",
+      "Alejandro Casona",
+      "Ramón María del Valle-Inclán",
+      "Miguel Mihura"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ramón María del Valle-Inclán publicó Luces de bohemia en 1920 y la amplió en 1924."
+  },
+  {
+    "id": "cg-5276",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta irlandés, premio Nobel de Literatura en 1923, escribió La torre?",
+    "options": [
+      "James Joyce",
+      "Patrick Kavanagh",
+      "Seamus Heaney",
+      "William Butler Yeats"
+    ],
+    "correctIndex": 3,
+    "explanation": "W. B. Yeats publicó La torre en 1928 y recibió el Nobel en 1923."
+  },
+  {
+    "id": "cg-5277",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor belga escribió el drama simbolista Pelléas y Mélisande?",
+    "options": [
+      "Maurice Maeterlinck",
+      "Émile Verhaeren",
+      "Michel de Ghelderode",
+      "Fernand Crommelynck"
+    ],
+    "correctIndex": 0,
+    "explanation": "Maurice Maeterlinck estrenó Pelléas y Mélisande en 1893."
+  },
+  {
+    "id": "cg-5278",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta portugués firmó Mensagem y escribió con heterónimos como Alberto Caeiro?",
+    "options": [
+      "Luís de Camões",
+      "Fernando Pessoa",
+      "Cesário Verde",
+      "Mário de Sá-Carneiro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fernando Pessoa publicó Mensagem en 1934 y creó heterónimos como Caeiro, Reis y Campos."
+  },
+  {
+    "id": "cg-5279",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué pieza breve se representaba entre los actos de las comedias del Siglo de Oro español?",
+    "options": [
+      "Auto sacramental",
+      "Loa",
+      "Entremés",
+      "Mojiganga"
+    ],
+    "correctIndex": 2,
+    "explanation": "El entremés era una pieza cómica breve que se intercalaba entre los actos de una comedia."
+  },
+  {
+    "id": "cg-5280",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo alemán escribió Woyzeck, obra inconclusa sobre un soldado humillado?",
+    "options": [
+      "Friedrich Schiller",
+      "Heinrich von Kleist",
+      "Christian Dietrich Grabbe",
+      "Georg Büchner"
+    ],
+    "correctIndex": 3,
+    "explanation": "Georg Büchner dejó Woyzeck inconclusa al morir en 1837."
+  },
+  {
+    "id": "cg-5281",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta cubano escribió Versos sencillos, con el verso Yo soy un hombre sincero?",
+    "options": [
+      "José Martí",
+      "Julián del Casal",
+      "José María Heredia",
+      "Nicolás Guillén"
+    ],
+    "correctIndex": 0,
+    "explanation": "José Martí publicó Versos sencillos en 1891."
+  },
+  {
+    "id": "cg-5282",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral británico escribió Pygmalion, base de la comedia musical My Fair Lady?",
+    "options": [
+      "Noël Coward",
+      "George Bernard Shaw",
+      "Somerset Maugham",
+      "Terence Rattigan"
+    ],
+    "correctIndex": 1,
+    "explanation": "George Bernard Shaw estrenó Pygmalion en 1913."
+  },
+  {
+    "id": "cg-5283",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta español de la Generación del 27 escribió La destrucción o el amor?",
+    "options": [
+      "Luis Cernuda",
+      "Pedro Salinas",
+      "Vicente Aleixandre",
+      "Emilio Prados"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vicente Aleixandre publicó La destrucción o el amor en 1935."
+  },
+  {
+    "id": "cg-5284",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo estadounidense escribió Un tranvía llamado Deseo?",
+    "options": [
+      "Thornton Wilder",
+      "Edward Albee",
+      "Arthur Miller",
+      "Tennessee Williams"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tennessee Williams estrenó Un tranvía llamado Deseo en Broadway en 1947."
+  },
+  {
+    "id": "cg-5285",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta chino de la dinastía Tang es famoso por sus versos sobre la luna y el vino, como Brindis solo bajo la luna?",
+    "options": [
+      "Li Bai",
+      "Du Fu",
+      "Wang Wei",
+      "Bai Juyi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Li Bai, poeta Tang del siglo VIII, escribió Brindis solo bajo la luna."
+  },
+  {
+    "id": "cg-5286",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral español del siglo XX escribió Tres sombreros de copa?",
+    "options": [
+      "Enrique Jardiel Poncela",
+      "Miguel Mihura",
+      "Alfonso Paso",
+      "Edgar Neville"
+    ],
+    "correctIndex": 1,
+    "explanation": "Miguel Mihura escribió Tres sombreros de copa en 1932; se estrenó en 1952."
+  },
+  {
+    "id": "cg-5287",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta y dramaturgo indio, premio Nobel de Literatura en 1913, escribió Gitanjali?",
+    "options": [
+      "Kabir",
+      "Kalidasa",
+      "Rabindranath Tagore",
+      "Sarojini Naidu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rabindranath Tagore recibió el Nobel en 1913, el primero de un autor no europeo."
+  },
+  {
+    "id": "cg-5288",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de rima repite todos los sonidos desde la última vocal acentuada?",
+    "options": [
+      "Rima asonante",
+      "Rima blanca",
+      "Rima libre",
+      "Rima consonante"
+    ],
+    "correctIndex": 3,
+    "explanation": "La rima consonante coincide en vocales y consonantes desde la última vocal tónica."
+  },
+  {
+    "id": "cg-5289",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo romano escribió las comedias Anfitrión y La olla?",
+    "options": [
+      "Plauto",
+      "Terencio",
+      "Séneca",
+      "Ennio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Plauto escribió Anfitrión y La olla (Aulularia) en el siglo III a. C."
+  },
+  {
+    "id": "cg-5290",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta alemán escribió Romancero y el poema Lorelei?",
+    "options": [
+      "Friedrich Hölderlin",
+      "Heinrich Heine",
+      "Rainer Maria Rilke",
+      "Eduard Mörike"
+    ],
+    "correctIndex": 1,
+    "explanation": "Heinrich Heine publicó Romancero en 1851; Lorelei apareció en su Libro de las canciones."
+  },
+  {
+    "id": "cg-5291",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo español del Siglo de Oro escribió El caballero de Olmedo?",
+    "options": [
+      "Pedro Calderón de la Barca",
+      "Tirso de Molina",
+      "Lope de Vega",
+      "Guillén de Castro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lope de Vega escribió El caballero de Olmedo hacia 1620."
+  },
+  {
+    "id": "cg-5292",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta inglesa escribió Aurora Leigh, novela en verso con protagonista femenina?",
+    "options": [
+      "Christina Rossetti",
+      "Emily Brontë",
+      "Felicia Hemans",
+      "Elizabeth Barrett Browning"
+    ],
+    "correctIndex": 3,
+    "explanation": "Elizabeth Barrett Browning publicó Aurora Leigh en 1856."
+  },
+  {
+    "id": "cg-5293",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral británico escribió Mirando hacia atrás con ira?",
+    "options": [
+      "John Osborne",
+      "John Arden",
+      "Arnold Wesker",
+      "Edward Bond"
+    ],
+    "correctIndex": 0,
+    "explanation": "John Osborne estrenó Mirando hacia atrás con ira en 1956."
+  },
+  {
+    "id": "cg-5294",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta chino de la dinastía Tang es llamado el sabio de la poesía y escribió sobre la guerra?",
+    "options": [
+      "Li Bai",
+      "Du Fu",
+      "Wang Wei",
+      "Bai Juyi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Du Fu, contemporáneo de Li Bai, es conocido como el sabio de la poesía china."
+  },
+  {
+    "id": "cg-5295",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral francés escribió El Cid, tragicomedia de 1637?",
+    "options": [
+      "Jean Racine",
+      "Molière",
+      "Pierre Corneille",
+      "Paul Scarron"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pierre Corneille estrenó El Cid en 1637."
+  },
+  {
+    "id": "cg-5296",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta español del 27 reunió su obra bajo el título La realidad y el deseo?",
+    "options": [
+      "Vicente Aleixandre",
+      "Emilio Prados",
+      "Manuel Altolaguirre",
+      "Luis Cernuda"
+    ],
+    "correctIndex": 3,
+    "explanation": "Luis Cernuda reunió su poesía completa con el título La realidad y el deseo."
+  },
+  {
+    "id": "cg-5297",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué estrofa de cinco versos combina endecasílabos y heptasílabos y fue cultivada por fray Luis de León?",
+    "options": [
+      "Lira",
+      "Silva",
+      "Octava real",
+      "Cuarteto"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lira tiene cinco versos, generalmente 7-11-7-7-11, y debe su nombre a fray Luis de León."
+  },
+  {
+    "id": "cg-5298",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo irlandés escribió El botarate del oeste?",
+    "options": [
+      "Sean O'Casey",
+      "John Millington Synge",
+      "Oscar Wilde",
+      "Brendan Behan"
+    ],
+    "correctIndex": 1,
+    "explanation": "John Millington Synge estrenó The Playboy of the Western World en 1907."
+  },
+  {
+    "id": "cg-5299",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta francés del siglo XIX escribió Los castigos y La leyenda de los siglos?",
+    "options": [
+      "Alphonse de Lamartine",
+      "Alfred de Vigny",
+      "Victor Hugo",
+      "Leconte de Lisle"
+    ],
+    "correctIndex": 2,
+    "explanation": "Victor Hugo publicó Los castigos en 1853 y La leyenda de los siglos desde 1859."
+  },
+  {
+    "id": "cg-5300",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo sueco escribió El padre?",
+    "options": [
+      "Henrik Ibsen",
+      "Hjalmar Bergman",
+      "Pär Lagerkvist",
+      "August Strindberg"
+    ],
+    "correctIndex": 3,
+    "explanation": "August Strindberg estrenó El padre en 1887."
+  },
+  {
+    "id": "cg-5301",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta y dramaturgo español del Siglo de Oro escribió Las paredes oyen?",
+    "options": [
+      "Juan Ruiz de Alarcón",
+      "Lope de Vega",
+      "Tirso de Molina",
+      "Agustín Moreto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Juan Ruiz de Alarcón escribió Las paredes oyen, comedia de enredo, en 1617."
+  },
+  {
+    "id": "cg-5302",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta estadounidense escribió Norte de Boston?",
+    "options": [
+      "Edwin Arlington Robinson",
+      "Robert Frost",
+      "Carl Sandburg",
+      "Robert Lowell"
+    ],
+    "correctIndex": 1,
+    "explanation": "Robert Frost publicó Norte de Boston en 1914."
+  },
+  {
+    "id": "cg-5303",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo francés escribió La guerra de Troya no tendrá lugar?",
+    "options": [
+      "Jean Anouilh",
+      "Paul Claudel",
+      "Jean Giraudoux",
+      "Henry de Montherlant"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jean Giraudoux estrenó La guerra de Troya no tendrá lugar en 1935."
+  },
+  {
+    "id": "cg-5304",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta argentino escribió Lunario sentimental?",
+    "options": [
+      "Almafuerte",
+      "Evaristo Carriego",
+      "Baldomero Fernández Moreno",
+      "Leopoldo Lugones"
+    ],
+    "correctIndex": 3,
+    "explanation": "Leopoldo Lugones publicó Lunario sentimental en 1909."
+  },
+  {
+    "id": "cg-5305",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué teatro de Londres, en Covent Garden, es sede de la Royal Opera?",
+    "options": [
+      "Royal Opera House",
+      "Teatro Sadler's Wells",
+      "Teatro Drury Lane",
+      "Teatro Haymarket"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Royal Opera House, en Covent Garden, es la sede de la Royal Opera y del Royal Ballet."
+  },
+  {
+    "id": "cg-5306",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta español escribió Las personas del verbo?",
+    "options": [
+      "José Ángel Valente",
+      "Jaime Gil de Biedma",
+      "Claudio Rodríguez",
+      "Ángel González"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jaime Gil de Biedma reunió su poesía en Las personas del verbo, de 1975."
+  },
+  {
+    "id": "cg-5307",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo alemán escribió Los bandidos, drama de juventud del Sturm und Drang?",
+    "options": [
+      "Johann Wolfgang von Goethe",
+      "Jakob Michael Reinhold Lenz",
+      "Friedrich Schiller",
+      "Heinrich von Kleist"
+    ],
+    "correctIndex": 2,
+    "explanation": "Friedrich Schiller estrenó Los bandidos en 1782."
+  },
+  {
+    "id": "cg-5308",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta ruso escribió Los doce, poema sobre la Revolución de 1917?",
+    "options": [
+      "Andréi Bely",
+      "Serguéi Yesenin",
+      "Vladímir Maiakovski",
+      "Aleksandr Blok"
+    ],
+    "correctIndex": 3,
+    "explanation": "Aleksandr Blok escribió Los doce en 1918."
+  },
+  {
+    "id": "cg-5309",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturga estadounidense escribió La calumnia (The Children's Hour)?",
+    "options": [
+      "Lillian Hellman",
+      "Carson McCullers",
+      "Tennessee Williams",
+      "Thornton Wilder"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lillian Hellman estrenó La calumnia en 1934."
+  },
+  {
+    "id": "cg-5310",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta español del siglo XV escribió las Coplas a la muerte de su padre?",
+    "options": [
+      "Juan de Mena",
+      "Jorge Manrique",
+      "Íñigo López de Mendoza",
+      "Gómez Manrique"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jorge Manrique compuso las Coplas a la muerte de su padre en 1476."
+  },
+  {
+    "id": "cg-5311",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo italiano del siglo XVIII escribió Turandot?",
+    "options": [
+      "Carlo Goldoni",
+      "Pietro Chiari",
+      "Carlo Gozzi",
+      "Vittorio Alfieri"
+    ],
+    "correctIndex": 2,
+    "explanation": "Carlo Gozzi escribió Turandot en 1762; Puccini la convirtió en ópera."
+  },
+  {
+    "id": "cg-5312",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta inglés escribió Canciones de inocencia y de experiencia?",
+    "options": [
+      "Robert Burns",
+      "Thomas Gray",
+      "William Cowper",
+      "William Blake"
+    ],
+    "correctIndex": 3,
+    "explanation": "William Blake publicó Canciones de inocencia en 1789 y de experiencia en 1794."
+  },
+  {
+    "id": "cg-5313",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral español escribió Pic-nic, obra antibelicista de 1952?",
+    "options": [
+      "Fernando Arrabal",
+      "Alfonso Sastre",
+      "José María Bellido",
+      "Antonio Buero Vallejo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fernando Arrabal estrenó Pic-nic en 1952."
+  },
+  {
+    "id": "cg-5314",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta mexicano del siglo XX escribió Muerte sin fin?",
+    "options": [
+      "Octavio Paz",
+      "José Gorostiza",
+      "Carlos Pellicer",
+      "Xavier Villaurrutia"
+    ],
+    "correctIndex": 1,
+    "explanation": "José Gorostiza publicó Muerte sin fin en 1939."
+  },
+  {
+    "id": "cg-5315",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿A qué dramaturgo griego se atribuye tradicionalmente la tragedia Prometeo encadenado?",
+    "options": [
+      "Sófocles",
+      "Eurípides",
+      "Esquilo",
+      "Ión"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prometeo encadenado se atribuye tradicionalmente a Esquilo."
+  },
+  {
+    "id": "cg-5316",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta español del 27 escribió Imagen y Manual de espumas?",
+    "options": [
+      "Rafael Alberti",
+      "Jorge Guillén",
+      "Pedro Salinas",
+      "Gerardo Diego"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gerardo Diego publicó Imagen en 1922 y Manual de espumas en 1924."
+  },
+  {
+    "id": "cg-5317",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta francés del siglo XV escribió El testamento y llevó una vida de poeta marginal y ladrón?",
+    "options": [
+      "François Villon",
+      "Clément Marot",
+      "Charles de Orleans",
+      "Alain Chartier"
+    ],
+    "correctIndex": 0,
+    "explanation": "François Villon escribió El testamento hacia 1461 y fue condenado por robo."
+  },
+  {
+    "id": "cg-5318",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo español del Siglo de Oro escribió El villano en su rincón?",
+    "options": [
+      "Pedro Calderón de la Barca",
+      "Lope de Vega",
+      "Tirso de Molina",
+      "Agustín Moreto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lope de Vega escribió El villano en su rincón hacia 1611."
+  },
+  {
+    "id": "cg-5319",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta inglés del Romanticismo escribió La caída de Hyperion?",
+    "options": [
+      "Percy Bysshe Shelley",
+      "Lord Byron",
+      "John Keats",
+      "Thomas Moore"
+    ],
+    "correctIndex": 2,
+    "explanation": "John Keats dejó La caída de Hyperion incompleta al morir en 1821."
+  },
+  {
+    "id": "cg-5320",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral alemán escribió La muerte de Danton, drama sobre la Revolución francesa?",
+    "options": [
+      "Friedrich Hebbel",
+      "Christian Grabbe",
+      "Heinrich von Kleist",
+      "Georg Büchner"
+    ],
+    "correctIndex": 3,
+    "explanation": "Georg Büchner escribió La muerte de Danton en 1835."
+  },
+  {
+    "id": "cg-5321",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta español de la generación de los 50 escribió Don de la ebriedad, su primer libro?",
+    "options": [
+      "Claudio Rodríguez",
+      "Ángel González",
+      "José Ángel Valente",
+      "Jaime Gil de Biedma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Claudio Rodríguez publicó Don de la ebriedad en 1953, con veinte años."
+  },
+  {
+    "id": "cg-5322",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral británico escribió Un espíritu burlón (Blithe Spirit)?",
+    "options": [
+      "Terence Rattigan",
+      "Noël Coward",
+      "J. B. Priestley",
+      "Emlyn Williams"
+    ],
+    "correctIndex": 1,
+    "explanation": "Noël Coward estrenó Un espíritu burlón en 1941."
+  },
+  {
+    "id": "cg-5323",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta ruso, premio Nobel de Literatura en 1987, escribió Parte de la oración?",
+    "options": [
+      "Yevgueni Yevtushenko",
+      "Andréi Voznesenski",
+      "Iósif Brodski",
+      "Bulat Okudzhava"
+    ],
+    "correctIndex": 2,
+    "explanation": "Iósif Brodski recibió el Nobel en 1987 y publicó Parte de la oración en 1977."
+  },
+  {
+    "id": "cg-5324",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo español del siglo XIX escribió El gran Galeoto?",
+    "options": [
+      "Manuel Tamayo y Baus",
+      "Adelardo López de Ayala",
+      "Antonio García Gutiérrez",
+      "José de Echegaray"
+    ],
+    "correctIndex": 3,
+    "explanation": "José de Echegaray estrenó El gran Galeoto en 1881."
+  },
+  {
+    "id": "cg-5325",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta español escribió Ángel fieramente humano?",
+    "options": [
+      "Blas de Otero",
+      "Gabriel Celaya",
+      "José Hierro",
+      "Eugenio de Nora"
+    ],
+    "correctIndex": 0,
+    "explanation": "Blas de Otero publicó Ángel fieramente humano en 1950."
+  },
+  {
+    "id": "cg-5326",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo irlandés escribió La sombra de un pistolero?",
+    "options": [
+      "Lady Gregory",
+      "Sean O'Casey",
+      "Brendan Behan",
+      "Denis Johnston"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sean O'Casey estrenó La sombra de un pistolero en el Abbey Theatre en 1923."
+  },
+  {
+    "id": "cg-5327",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral alemán del Romanticismo escribió El gato con botas, comedia satírica?",
+    "options": [
+      "Novalis",
+      "E. T. A. Hoffmann",
+      "Ludwig Tieck",
+      "Achim von Arnim"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ludwig Tieck escribió El gato con botas en 1797."
+  },
+  {
+    "id": "cg-5328",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta nicaragüense escribió Cantos de vida y esperanza?",
+    "options": [
+      "José Santos Chocano",
+      "Enrique González Martínez",
+      "Amado Nervo",
+      "Rubén Darío"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rubén Darío publicó Cantos de vida y esperanza en 1905."
+  },
+  {
+    "id": "cg-5329",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo francés escribió El zapato de raso, drama católico en cuatro jornadas?",
+    "options": [
+      "Paul Claudel",
+      "Charles Péguy",
+      "François Mauriac",
+      "Georges Bernanos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Paul Claudel publicó El zapato de raso en 1929."
+  },
+  {
+    "id": "cg-5330",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta español escribió Viento del pueblo, poemario de compromiso durante la Guerra Civil?",
+    "options": [
+      "Rafael Alberti",
+      "Miguel Hernández",
+      "Luis Cernuda",
+      "Pedro Salinas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Miguel Hernández publicó Viento del pueblo en 1937."
+  },
+  {
+    "id": "cg-5331",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo griego escribió Áyax, tragedia sobre la locura del guerrero?",
+    "options": [
+      "Eurípides",
+      "Esquilo",
+      "Sófocles",
+      "Teognis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sófocles escribió Áyax, tragedia sobre el héroe homérico enloquecido."
+  },
+  {
+    "id": "cg-5332",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poetisa portuguesa escribió Mar y El nombre de las cosas?",
+    "options": [
+      "Florbela Espanca",
+      "Adília Lopes",
+      "Ana Hatherly",
+      "Sophia de Mello Breyner"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sophia de Mello Breyner publicó Mar en 1944 y El nombre de las cosas en 1977."
+  },
+  {
+    "id": "cg-5333",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo uruguayo escribió La gringa, sobre la vida rural?",
+    "options": [
+      "Florencio Sánchez",
+      "Gregorio de Laferrère",
+      "Roberto Arlt",
+      "Osvaldo Dragún"
+    ],
+    "correctIndex": 0,
+    "explanation": "Florencio Sánchez estrenó La gringa en 1904."
+  },
+  {
+    "id": "cg-5334",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta galés escribió Bajo el bosque lácteo, obra radiofónica en verso?",
+    "options": [
+      "R. S. Thomas",
+      "Dylan Thomas",
+      "Vernon Watkins",
+      "David Jones"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dylan Thomas escribió Bajo el bosque lácteo, radiada en 1954."
+  },
+  {
+    "id": "cg-5335",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo francés escribió Los justos, sobre un atentado contra el zar?",
+    "options": [
+      "Jean-Paul Sartre",
+      "Jean Anouilh",
+      "Albert Camus",
+      "Jean Genet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Albert Camus estrenó Los justos en 1949."
+  },
+  {
+    "id": "cg-5336",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poetisa chilena escribió Desolación y Tala?",
+    "options": [
+      "Alfonsina Storni",
+      "Juana de Ibarbourou",
+      "Delmira Agustini",
+      "Gabriela Mistral"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gabriela Mistral publicó Desolación en 1922 y Tala en 1938."
+  },
+  {
+    "id": "cg-5337",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral español del siglo XVI escribió los Pasos, piezas cómicas breves?",
+    "options": [
+      "Lope de Rueda",
+      "Juan del Encina",
+      "Gil Vicente",
+      "Bartolomé de Torres Naharro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lope de Rueda escribió los Pasos, antecedente del entremés."
+  },
+  {
+    "id": "cg-5338",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta estadounidense escribió Paterson, poema épico sobre una ciudad de Nueva Jersey?",
+    "options": [
+      "Ezra Pound",
+      "William Carlos Williams",
+      "Wallace Stevens",
+      "Hart Crane"
+    ],
+    "correctIndex": 1,
+    "explanation": "William Carlos Williams publicó Paterson entre 1946 y 1958."
+  },
+  {
+    "id": "cg-5339",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo británico escribió Mesa separada, ambientada en un hotel de la costa?",
+    "options": [
+      "Noël Coward",
+      "J. B. Priestley",
+      "Terence Rattigan",
+      "Somerset Maugham"
+    ],
+    "correctIndex": 2,
+    "explanation": "Terence Rattigan estrenó Mesa separada en 1954."
+  },
+  {
+    "id": "cg-5340",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta español escribió Material memoria?",
+    "options": [
+      "Claudio Rodríguez",
+      "Antonio Gamoneda",
+      "Ángel González",
+      "José Ángel Valente"
+    ],
+    "correctIndex": 3,
+    "explanation": "José Ángel Valente publicó Material memoria en 1979."
+  },
+  {
+    "id": "cg-5341",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo estadounidense escribió El hombre de hielo (The Iceman Cometh)?",
+    "options": [
+      "Eugene O'Neill",
+      "Arthur Miller",
+      "Tennessee Williams",
+      "Clifford Odets"
+    ],
+    "correctIndex": 0,
+    "explanation": "Eugene O'Neill estrenó El hombre de hielo en 1946."
+  },
+  {
+    "id": "cg-5342",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta norirlandés, premio Nobel de Literatura en 1995, escribió el poemario Norte?",
+    "options": [
+      "Paul Muldoon",
+      "Seamus Heaney",
+      "Derek Mahon",
+      "Michael Longley"
+    ],
+    "correctIndex": 1,
+    "explanation": "Seamus Heaney recibió el Nobel en 1995 y publicó Norte en 1975."
+  },
+  {
+    "id": "cg-5343",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral británico escribió Trampa mortal (Sleuth)?",
+    "options": [
+      "Peter Shaffer",
+      "Harold Pinter",
+      "Anthony Shaffer",
+      "Tom Stoppard"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anthony Shaffer estrenó Trampa mortal en 1970."
+  },
+  {
+    "id": "cg-5344",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta francés escribió Una temporada en el infierno?",
+    "options": [
+      "Paul Verlaine",
+      "Charles Baudelaire",
+      "Tristan Corbière",
+      "Arthur Rimbaud"
+    ],
+    "correctIndex": 3,
+    "explanation": "Arthur Rimbaud publicó Una temporada en el infierno en 1873."
+  },
+  {
+    "id": "cg-5345",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo español escribió La casa de Bernarda Alba?",
+    "options": [
+      "Federico García Lorca",
+      "Rafael Alberti",
+      "Alejandro Casona",
+      "Jacinto Benavente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Federico García Lorca terminó La casa de Bernarda Alba en 1936; se estrenó en 1945."
+  },
+  {
+    "id": "cg-5346",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta alemán escribió las Elegías de Duino?",
+    "options": [
+      "Stefan George",
+      "Rainer Maria Rilke",
+      "Hugo von Hofmannsthal",
+      "Georg Trakl"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rainer Maria Rilke publicó las Elegías de Duino en 1923."
+  },
+  {
+    "id": "cg-5347",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral noruego escribió Hedda Gabler?",
+    "options": [
+      "August Strindberg",
+      "Bjørnstjerne Bjørnson",
+      "Henrik Ibsen",
+      "Jon Fosse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Henrik Ibsen estrenó Hedda Gabler en 1891."
+  },
+  {
+    "id": "cg-5348",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta español del Siglo de Oro escribió la Epístola satírica y censoria contra las costumbres de los castellanos?",
+    "options": [
+      "Lope de Vega",
+      "Luis de Góngora",
+      "Juan de Tassis",
+      "Francisco de Quevedo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Francisco de Quevedo escribió esa epístola contra las costumbres de la corte."
+  },
+  {
+    "id": "cg-5349",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo estadounidense escribió ¿Quién teme a Virginia Woolf?",
+    "options": [
+      "Edward Albee",
+      "Sam Shepard",
+      "David Mamet",
+      "Neil Simon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Edward Albee estrenó ¿Quién teme a Virginia Woolf? en 1962."
+  },
+  {
+    "id": "cg-5350",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poetisa rusa escribió El poema de la montaña y El poema del fin?",
+    "options": [
+      "Anna Ajmátova",
+      "Marina Tsvetáieva",
+      "Sofia Parnok",
+      "Zinaída Guippius"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marina Tsvetáieva escribió ambos poemas en el exilio, hacia 1924 y 1926."
+  },
+  {
+    "id": "cg-5351",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta angloestadounidense escribió el poema Funeral Blues, recitado en Cuatro bodas y un funeral?",
+    "options": [
+      "Stephen Spender",
+      "Louis MacNeice",
+      "W. H. Auden",
+      "Philip Larkin"
+    ],
+    "correctIndex": 2,
+    "explanation": "W. H. Auden escribió Funeral Blues, popularizado por la película de 1994."
+  },
+  {
+    "id": "cg-5352",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué teatro de ópera de Milán, inaugurado en 1778, es uno de los más famosos del mundo?",
+    "options": [
+      "Teatro La Fenice",
+      "Teatro San Carlo",
+      "Teatro Regio",
+      "Teatro alla Scala"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Teatro alla Scala de Milán se inauguró en 1778."
+  },
+  {
+    "id": "cg-5353",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo griego escribió Las troyanas?",
+    "options": [
+      "Eurípides",
+      "Sófocles",
+      "Esquilo",
+      "Agatón"
+    ],
+    "correctIndex": 0,
+    "explanation": "Eurípides estrenó Las troyanas en 415 a. C."
+  },
+  {
+    "id": "cg-5354",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta alemán del Romanticismo escribió Himnos a la noche?",
+    "options": [
+      "Friedrich Hölderlin",
+      "Novalis",
+      "Joseph von Eichendorff",
+      "Clemens Brentano"
+    ],
+    "correctIndex": 1,
+    "explanation": "Novalis publicó Himnos a la noche en 1800."
+  },
+  {
+    "id": "cg-5355",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral francés escribió Las criadas?",
+    "options": [
+      "Jean Anouilh",
+      "Eugène Ionesco",
+      "Jean Genet",
+      "Jean Giraudoux"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jean Genet estrenó Las criadas en 1947."
+  },
+  {
+    "id": "cg-5356",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta y fabulista español del siglo XVIII escribió Fábulas literarias?",
+    "options": [
+      "Félix María de Samaniego",
+      "Leandro Fernández de Moratín",
+      "Juan Meléndez Valdés",
+      "Tomás de Iriarte"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tomás de Iriarte publicó Fábulas literarias en 1782."
+  },
+  {
+    "id": "cg-5357",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta griego escribió el poema Ítaca, sobre el regreso de Ulises?",
+    "options": [
+      "Constantino Cavafis",
+      "Giorgos Seferis",
+      "Odiseas Elytis",
+      "Yannis Ritsos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Constantino Cavafis escribió Ítaca en 1911."
+  },
+  {
+    "id": "cg-5358",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo británico escribió El guardián (The Caretaker)?",
+    "options": [
+      "Joe Orton",
+      "Harold Pinter",
+      "John Osborne",
+      "Arnold Wesker"
+    ],
+    "correctIndex": 1,
+    "explanation": "Harold Pinter estrenó El guardián en 1960."
+  },
+  {
+    "id": "cg-5359",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué forma poética popular española consta de cuatro versos octosílabos con rima asonante en los pares?",
+    "options": [
+      "Copla",
+      "Seguidilla",
+      "Romance",
+      "Décima"
+    ],
+    "correctIndex": 2,
+    "explanation": "El romance es una serie de versos octosílabos con rima asonante en los versos pares."
+  },
+  {
+    "id": "cg-5360",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta colombiano escribió los Nocturnos, con el verso Una noche toda llena de murmullos?",
+    "options": [
+      "Guillermo Valencia",
+      "Porfirio Barba Jacob",
+      "León de Greiff",
+      "José Asunción Silva"
+    ],
+    "correctIndex": 3,
+    "explanation": "José Asunción Silva escribió sus Nocturnos a finales del siglo XIX."
+  },
+  {
+    "id": "cg-5361",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo español escribió El alcalde de Zalamea?",
+    "options": [
+      "Pedro Calderón de la Barca",
+      "Lope de Vega",
+      "Francisco de Rojas Zorrilla",
+      "Agustín Moreto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Calderón de la Barca escribió El alcalde de Zalamea, drama de honor y justicia."
+  },
+  {
+    "id": "cg-5362",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta japonés del periodo Edo escribió Sendas de Oku?",
+    "options": [
+      "Kobayashi Issa",
+      "Matsuo Bashō",
+      "Yosa Buson",
+      "Ryōkan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Matsuo Bashō escribió Sendas de Oku tras sus viajes por Japón en 1689."
+  },
+  {
+    "id": "cg-5363",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral español del siglo XIX escribió Don Álvaro o la fuerza del sino?",
+    "options": [
+      "José Zorrilla",
+      "Antonio García Gutiérrez",
+      "Duque de Rivas",
+      "Juan Eugenio Hartzenbusch"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Duque de Rivas estrenó Don Álvaro o la fuerza del sino en 1835."
+  },
+  {
+    "id": "cg-5364",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta francés del siglo XVI escribió Los amores de Casandra?",
+    "options": [
+      "Joachim du Bellay",
+      "Clément Marot",
+      "François Villon",
+      "Pierre de Ronsard"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pierre de Ronsard publicó Los amores de Casandra en 1552."
+  },
+  {
+    "id": "cg-5365",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué dramaturgo ruso escribió Los bajos fondos, sobre la miseria de un albergue?",
+    "options": [
+      "Máximo Gorki",
+      "León Tolstói",
+      "Antón Chéjov",
+      "Iván Bunin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Máximo Gorki estrenó Los bajos fondos en 1902."
+  },
+  {
+    "id": "cg-5366",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poetisa estadounidense escribió el poema Porque no pude detenerme para la muerte?",
+    "options": [
+      "Sylvia Plath",
+      "Emily Dickinson",
+      "Marianne Moore",
+      "Elizabeth Bishop"
+    ],
+    "correctIndex": 1,
+    "explanation": "Emily Dickinson escribió ese poema hacia 1863; se publicó póstumamente."
+  },
+  {
+    "id": "cg-5367",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué autor teatral británico escribió Rosencrantz y Guildenstern han muerto?",
+    "options": [
+      "Michael Frayn",
+      "Alan Bennett",
+      "Tom Stoppard",
+      "David Hare"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tom Stoppard estrenó Rosencrantz y Guildenstern han muerto en 1966."
+  },
+  {
+    "id": "cg-5368",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "medium",
+    "question": "¿Qué poeta español escribió Hijos de la ira, obra de poesía desarraigada?",
+    "options": [
+      "Vicente Aleixandre",
+      "Luis Rosales",
+      "Leopoldo Panero",
+      "Dámaso Alonso"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dámaso Alonso publicó Hijos de la ira en 1944."
+  },
+  {
+    "id": "cg-5369",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo ateniense ganó el primer premio en las Grandes Dionisias de 458 a. C. con la Orestíada?",
+    "options": [
+      "Esquilo",
+      "Sófocles",
+      "Eurípides",
+      "Agatón"
+    ],
+    "correctIndex": 0,
+    "explanation": "Esquilo presentó la Orestíada, su única trilogía conservada, en 458 a. C."
+  },
+  {
+    "id": "cg-5370",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué trovador occitano del siglo XII, duque de Aquitania, es el primer trovador conocido y escribió Ab la dolchor del temps novel?",
+    "options": [
+      "Jaufre Rudel",
+      "Guillermo de Aquitania",
+      "Bernart de Ventadorn",
+      "Arnaut Daniel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Guillermo IX de Aquitania, duque y trovador, es el primer trovador conocido."
+  },
+  {
+    "id": "cg-5371",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿En qué teatro londinense se estrenaron muchas obras de Shakespeare y fue reconstruido en 1997?",
+    "options": [
+      "Teatro Blackfriars",
+      "Teatro Rose",
+      "Teatro Globe",
+      "Teatro Swan"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Globe original se levantó en 1599; una reconstrucción abrió en 1997."
+  },
+  {
+    "id": "cg-5372",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué autor del Siglo de Oro español escribió El burlador de Sevilla, primera gran versión dramática del mito de Don Juan?",
+    "options": [
+      "Lope de Vega",
+      "Pedro Calderón de la Barca",
+      "Juan Ruiz de Alarcón",
+      "Tirso de Molina"
+    ],
+    "correctIndex": 3,
+    "explanation": "El burlador de Sevilla se atribuye a Tirso de Molina y se publicó en 1630."
+  },
+  {
+    "id": "cg-5373",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta italiano del dolce stil novo escribió la Vita nuova, comentario en prosa y verso de su amor por Beatriz?",
+    "options": [
+      "Dante Alighieri",
+      "Guido Cavalcanti",
+      "Guido Guinizelli",
+      "Cino da Pistoia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dante Alighieri escribió la Vita nuova hacia 1294."
+  },
+  {
+    "id": "cg-5374",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo alemán escribió El señor Puntila y su criado Matti?",
+    "options": [
+      "Ödön von Horváth",
+      "Bertolt Brecht",
+      "Ernst Toller",
+      "Georg Kaiser"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bertolt Brecht escribió El señor Puntila y su criado Matti en 1940."
+  },
+  {
+    "id": "cg-5375",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la figura retórica que repite una palabra al principio de varios versos?",
+    "options": [
+      "Epífora",
+      "Quiasmo",
+      "Anáfora",
+      "Polisíndeton"
+    ],
+    "correctIndex": 2,
+    "explanation": "La anáfora repite una o varias palabras al inicio de enunciados o versos."
+  },
+  {
+    "id": "cg-5376",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta ruso de la Edad de Plata escribió Réquiem, testimonio de las purgas estalinistas?",
+    "options": [
+      "Marina Tsvetáieva",
+      "Ósip Mandelshtam",
+      "Borís Pasternak",
+      "Anna Ajmátova"
+    ],
+    "correctIndex": 3,
+    "explanation": "Anna Ajmátova escribió Réquiem entre 1935 y 1940, tras el arresto de su hijo."
+  },
+  {
+    "id": "cg-5377",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo español estrenó Historia de una escalera en 1949?",
+    "options": [
+      "Antonio Buero Vallejo",
+      "Alfonso Sastre",
+      "Miguel Mihura",
+      "José María Pemán"
+    ],
+    "correctIndex": 0,
+    "explanation": "Antonio Buero Vallejo ganó el premio Lope de Vega con Historia de una escalera."
+  },
+  {
+    "id": "cg-5378",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta persa del siglo XIII escribió el Masnavi, obra mística en verso?",
+    "options": [
+      "Hafez",
+      "Yalal ad-Din Rumi",
+      "Saadi",
+      "Omar Jayam"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rumi dictó el Masnavi, extenso poema místico sufí, en el siglo XIII."
+  },
+  {
+    "id": "cg-5379",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué teatro de la Antigua Grecia, en la ladera de la Acrópolis de Atenas, estaba dedicado a Dioniso?",
+    "options": [
+      "Teatro de Epidauro",
+      "Teatro de Delfos",
+      "Teatro de Dioniso",
+      "Teatro de Argos"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Teatro de Dioniso, al pie de la Acrópolis, acogía las Grandes Dionisias."
+  },
+  {
+    "id": "cg-5380",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta barroco español escribió el soneto Miré los muros de la patria mía?",
+    "options": [
+      "Luis de Góngora",
+      "Lope de Vega",
+      "Francisco de Rioja",
+      "Francisco de Quevedo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Francisco de Quevedo escribió ese soneto sobre la decadencia de España."
+  },
+  {
+    "id": "cg-5381",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué director y teórico polaco fundó el Teatro Laboratorio y propuso el teatro pobre?",
+    "options": [
+      "Jerzy Grotowski",
+      "Tadeusz Kantor",
+      "Włodzimierz Staniewski",
+      "Krzysztof Warlikowski"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jerzy Grotowski desarrolló el teatro pobre y dirigió el Teatro Laboratorio en Wrocław."
+  },
+  {
+    "id": "cg-5382",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo griego escribió Las bacantes, representada póstumamente en 405 a. C.?",
+    "options": [
+      "Sófocles",
+      "Eurípides",
+      "Esquilo",
+      "Ión"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eurípides escribió Las bacantes al final de su vida; se estrenó tras su muerte."
+  },
+  {
+    "id": "cg-5383",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta latino escribió la Epístola a los Pisones, conocida como Arte poética?",
+    "options": [
+      "Virgilio",
+      "Ovidio",
+      "Horacio",
+      "Lucano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Horacio expuso sus ideas sobre la poesía en la Epístola a los Pisones."
+  },
+  {
+    "id": "cg-5384",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo español del Siglo de Oro escribió La verdad sospechosa?",
+    "options": [
+      "Tirso de Molina",
+      "Lope de Vega",
+      "Pedro Calderón de la Barca",
+      "Juan Ruiz de Alarcón"
+    ],
+    "correctIndex": 3,
+    "explanation": "Juan Ruiz de Alarcón escribió La verdad sospechosa, comedia sobre un mentiroso."
+  },
+  {
+    "id": "cg-5385",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta español del siglo XIV es autor del Libro de buen amor?",
+    "options": [
+      "Arcipreste de Hita",
+      "Gonzalo de Berceo",
+      "Don Juan Manuel",
+      "Pero López de Ayala"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Libro de buen amor se atribuye al Arcipreste de Hita, Juan Ruiz."
+  },
+  {
+    "id": "cg-5386",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué autor teatral escribió El rinoceronte, sobre habitantes que se transforman en paquidermos?",
+    "options": [
+      "Jean Genet",
+      "Eugène Ionesco",
+      "Fernando Arrabal",
+      "Arthur Adamov"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eugène Ionesco estrenó El rinoceronte en 1959."
+  },
+  {
+    "id": "cg-5387",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta y dramaturgo nigeriano, premio Nobel de Literatura en 1986, escribió La muerte y el caballo del rey?",
+    "options": [
+      "Chinua Achebe",
+      "Christopher Okigbo",
+      "Wole Soyinka",
+      "Femi Osofisan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wole Soyinka recibió el Nobel en 1986; La muerte y el caballo del rey es de 1975."
+  },
+  {
+    "id": "cg-5388",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo español estrenó El tragaluz en 1967?",
+    "options": [
+      "Alfonso Sastre",
+      "Antonio Gala",
+      "José Martín Recuerda",
+      "Antonio Buero Vallejo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Antonio Buero Vallejo estrenó El tragaluz en 1967."
+  },
+  {
+    "id": "cg-5389",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta estadounidense de la Generación Beat escribió Kaddish, elegía por su madre?",
+    "options": [
+      "Allen Ginsberg",
+      "Gregory Corso",
+      "Lawrence Ferlinghetti",
+      "Philip Whalen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Allen Ginsberg publicó Kaddish en 1961."
+  },
+  {
+    "id": "cg-5390",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo francés del siglo XVII escribió Fedra, tragedia basada en Eurípides?",
+    "options": [
+      "Pierre Corneille",
+      "Jean Racine",
+      "Molière",
+      "Jean Rotrou"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jean Racine estrenó Fedra en 1677."
+  },
+  {
+    "id": "cg-5391",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta simbolista francés escribió Un golpe de dados jamás abolirá el azar?",
+    "options": [
+      "Paul Verlaine",
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé",
+      "Jules Laforgue"
+    ],
+    "correctIndex": 2,
+    "explanation": "Stéphane Mallarmé publicó Un golpe de dados en 1897."
+  },
+  {
+    "id": "cg-5392",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la estrofa de cuatro versos endecasílabos con rima consonante ABAB?",
+    "options": [
+      "Terceto",
+      "Lira",
+      "Octava real",
+      "Serventesio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El serventesio es una estrofa de cuatro versos endecasílabos con rima ABAB."
+  },
+  {
+    "id": "cg-5393",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿A qué dramaturgo del Siglo de Oro se atribuye El condenado por desconfiado?",
+    "options": [
+      "Tirso de Molina",
+      "Lope de Vega",
+      "Pedro Calderón de la Barca",
+      "Antonio Mira de Amescua"
+    ],
+    "correctIndex": 0,
+    "explanation": "El condenado por desconfiado se atribuye tradicionalmente a Tirso de Molina."
+  },
+  {
+    "id": "cg-5394",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta austriaco escribió Sebastián en sueños y murió en 1914, al estallar la guerra europea?",
+    "options": [
+      "Georg Heym",
+      "Georg Trakl",
+      "Else Lasker-Schüler",
+      "Ernst Stadler"
+    ],
+    "correctIndex": 1,
+    "explanation": "Georg Trakl publicó Sebastián en sueños en 1915 y murió en 1914."
+  },
+  {
+    "id": "cg-5395",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo griego escribió Los persas, única tragedia conservada sobre un hecho histórico contemporáneo?",
+    "options": [
+      "Sófocles",
+      "Eurípides",
+      "Esquilo",
+      "Frínico"
+    ],
+    "correctIndex": 2,
+    "explanation": "Esquilo estrenó Los persas en 472 a. C., sobre la victoria griega en Salamina."
+  },
+  {
+    "id": "cg-5396",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta griego de la Antigüedad tardía escribió las Dionisíacas, epopeya en cuarenta y ocho cantos?",
+    "options": [
+      "Quinto de Esmirna",
+      "Trifiodoro",
+      "Museo",
+      "Nono de Panópolis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nono de Panópolis compuso las Dionisíacas en el siglo V d. C."
+  },
+  {
+    "id": "cg-5397",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo y actor del Siglo de Oro español escribió El vergonzoso en palacio?",
+    "options": [
+      "Tirso de Molina",
+      "Lope de Vega",
+      "Pedro Calderón de la Barca",
+      "Antonio Mira de Amescua"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tirso de Molina escribió El vergonzoso en palacio hacia 1611."
+  },
+  {
+    "id": "cg-5398",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta italiano del siglo XIII, amigo de Dante, escribió Rime y lideró a los güelfos blancos?",
+    "options": [
+      "Guido Guinizelli",
+      "Guido Cavalcanti",
+      "Cino da Pistoia",
+      "Lapo Gianni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Guido Cavalcanti fue poeta del dolce stil novo y líder de los güelfos blancos."
+  },
+  {
+    "id": "cg-5399",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo español del Siglo de Oro escribió La dama duende?",
+    "options": [
+      "Lope de Vega",
+      "Tirso de Molina",
+      "Pedro Calderón de la Barca",
+      "Francisco de Rojas Zorrilla"
+    ],
+    "correctIndex": 2,
+    "explanation": "Calderón de la Barca escribió La dama duende, comedia de capa y espada, en 1629."
+  },
+  {
+    "id": "cg-5400",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta simbolista francés escribió Fiestas galantes y Romanzas sin palabras?",
+    "options": [
+      "Stéphane Mallarmé",
+      "Arthur Rimbaud",
+      "Jules Laforgue",
+      "Paul Verlaine"
+    ],
+    "correctIndex": 3,
+    "explanation": "Paul Verlaine publicó Fiestas galantes en 1869 y Romanzas sin palabras en 1874."
+  },
+  {
+    "id": "cg-5401",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo suizo escribió Los físicos, sobre la responsabilidad moral del científico?",
+    "options": [
+      "Friedrich Dürrenmatt",
+      "Max Frisch",
+      "Heinar Kipphardt",
+      "Carl Zuckmayer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Friedrich Dürrenmatt estrenó Los físicos en 1962."
+  },
+  {
+    "id": "cg-5402",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta español del siglo XVI escribió Noche serena y A Francisco Salinas?",
+    "options": [
+      "San Juan de la Cruz",
+      "Fray Luis de León",
+      "Garcilaso de la Vega",
+      "Fernando de Herrera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fray Luis de León compuso esas odas, publicadas en 1580."
+  },
+  {
+    "id": "cg-5403",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué director ruso fundó el Teatro de Arte de Moscú y creó el llamado sistema de actuación?",
+    "options": [
+      "Vsevolod Meyerhold",
+      "Mijaíl Chéjov",
+      "Konstantin Stanislavski",
+      "Yevgueni Vajtángov"
+    ],
+    "correctIndex": 2,
+    "explanation": "Konstantin Stanislavski fundó el Teatro de Arte de Moscú en 1898 con Nemiróvich-Dánchenko."
+  },
+  {
+    "id": "cg-5404",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta brasileño escribió Morte e vida severina, poema dramático sobre el sertão?",
+    "options": [
+      "Carlos Drummond de Andrade",
+      "Manuel Bandeira",
+      "Jorge de Lima",
+      "João Cabral de Melo Neto"
+    ],
+    "correctIndex": 3,
+    "explanation": "João Cabral de Melo Neto publicó Morte e vida severina en 1955."
+  },
+  {
+    "id": "cg-5405",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo español escribió El cementerio de automóviles?",
+    "options": [
+      "Fernando Arrabal",
+      "Alfonso Sastre",
+      "Francisco Nieva",
+      "Luis Riaza"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fernando Arrabal escribió El cementerio de automóviles en 1957."
+  },
+  {
+    "id": "cg-5406",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta japonés del periodo Edo, discípulo de Bashō, escribió haikus pictóricos como el de la mariposa sobre la campana del templo?",
+    "options": [
+      "Kobayashi Issa",
+      "Yosa Buson",
+      "Ryōkan",
+      "Masaoka Shiki"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yosa Buson, pintor y poeta, destacó por la imagen visual en sus haikus."
+  },
+  {
+    "id": "cg-5407",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta alemán escribió Hiperión, novela epistolar en prosa poética?",
+    "options": [
+      "Novalis",
+      "Friedrich Schlegel",
+      "Friedrich Hölderlin",
+      "Jean Paul"
+    ],
+    "correctIndex": 2,
+    "explanation": "Friedrich Hölderlin publicó Hiperión entre 1797 y 1799."
+  },
+  {
+    "id": "cg-5408",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo español del Siglo de Oro escribió La hija del aire, drama sobre Semíramis?",
+    "options": [
+      "Lope de Vega",
+      "Tirso de Molina",
+      "Francisco de Rojas Zorrilla",
+      "Pedro Calderón de la Barca"
+    ],
+    "correctIndex": 3,
+    "explanation": "Calderón de la Barca escribió La hija del aire, en dos partes, hacia 1653."
+  },
+  {
+    "id": "cg-5409",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta italiano del siglo XIII fundó el dolce stil novo con la canción Al cor gentil rempaira sempre amore?",
+    "options": [
+      "Guido Guinizelli",
+      "Guido Cavalcanti",
+      "Dante Alighieri",
+      "Cino da Pistoia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Guido Guinizelli es considerado iniciador del dolce stil novo."
+  },
+  {
+    "id": "cg-5410",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo español escribió ¡Ay, Carmela!, ambientada en la Guerra Civil?",
+    "options": [
+      "José Luis Alonso de Santos",
+      "José Sanchis Sinisterra",
+      "Fermín Cabal",
+      "Juan Mayorga"
+    ],
+    "correctIndex": 1,
+    "explanation": "José Sanchis Sinisterra estrenó ¡Ay, Carmela! en 1987."
+  },
+  {
+    "id": "cg-5411",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta francés escribió Libertad, poema difundido por la Resistencia durante la ocupación nazi?",
+    "options": [
+      "Louis Aragon",
+      "Robert Desnos",
+      "Paul Éluard",
+      "René Char"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paul Éluard escribió Libertad en 1942; se lanzó desde aviones británicos."
+  },
+  {
+    "id": "cg-5412",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo alemán escribió Hamletmachine, reescritura de Shakespeare?",
+    "options": [
+      "Botho Strauß",
+      "Peter Handke",
+      "Elfriede Jelinek",
+      "Heiner Müller"
+    ],
+    "correctIndex": 3,
+    "explanation": "Heiner Müller publicó Hamletmachine en 1977."
+  },
+  {
+    "id": "cg-5413",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta y dramaturgo español publicó Rimas humanas y divinas del licenciado Tomé de Burguillos?",
+    "options": [
+      "Lope de Vega",
+      "Francisco de Quevedo",
+      "Luis de Góngora",
+      "Juan de Tassis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lope de Vega publicó ese poemario en 1634 bajo el seudónimo Tomé de Burguillos."
+  },
+  {
+    "id": "cg-5414",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta de lengua alemana, nacido en Czernowitz, escribió Fuga de la muerte?",
+    "options": [
+      "Nelly Sachs",
+      "Paul Celan",
+      "Ingeborg Bachmann",
+      "Rose Ausländer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paul Celan publicó Fuga de la muerte en 1948, tras sobrevivir al Holocausto."
+  },
+  {
+    "id": "cg-5415",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo español del Siglo de Oro escribió El esclavo del demonio, sobre fray Gil?",
+    "options": [
+      "Lope de Vega",
+      "Tirso de Molina",
+      "Antonio Mira de Amescua",
+      "Juan Ruiz de Alarcón"
+    ],
+    "correctIndex": 2,
+    "explanation": "Antonio Mira de Amescua escribió El esclavo del demonio, drama de tema fáustico."
+  },
+  {
+    "id": "cg-5416",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta estadounidense escribió Los cantos (The Cantos), poema épico modernista?",
+    "options": [
+      "T. S. Eliot",
+      "William Carlos Williams",
+      "Hart Crane",
+      "Ezra Pound"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ezra Pound publicó los primeros Cantos en 1925 y siguió ampliándolos."
+  },
+  {
+    "id": "cg-5417",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo francés escribió La ilusión cómica, estrenada en 1636?",
+    "options": [
+      "Pierre Corneille",
+      "Jean Racine",
+      "Molière",
+      "Paul Scarron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pierre Corneille estrenó La ilusión cómica en 1636."
+  },
+  {
+    "id": "cg-5418",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta español del siglo XV escribió el Laberinto de Fortuna?",
+    "options": [
+      "Jorge Manrique",
+      "Juan de Mena",
+      "Íñigo López de Mendoza",
+      "Pero López de Ayala"
+    ],
+    "correctIndex": 1,
+    "explanation": "Juan de Mena compuso el Laberinto de Fortuna hacia 1444."
+  },
+  {
+    "id": "cg-5419",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué dramaturgo ruso escribió El bosque y La tormenta, sobre la vida en provincias?",
+    "options": [
+      "Antón Chéjov",
+      "Nikolái Gógol",
+      "Aleksandr Ostrovski",
+      "Iván Turguéniev"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aleksandr Ostrovski escribió La tormenta en 1859 y El bosque en 1870."
+  },
+  {
+    "id": "cg-5420",
+    "category": "general",
+    "topic": "theater_poetry",
+    "difficulty": "hard",
+    "question": "¿Qué poeta francés escribió Fureur et mystère, obra vinculada a la Resistencia?",
+    "options": [
+      "Paul Éluard",
+      "Louis Aragon",
+      "Francis Ponge",
+      "René Char"
+    ],
+    "correctIndex": 3,
+    "explanation": "René Char publicó Fureur et mystère en 1948."
+  }
+]

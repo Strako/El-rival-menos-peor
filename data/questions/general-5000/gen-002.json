@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-1261",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cuántos planetas reconoce la Unión Astronómica Internacional en el sistema solar desde 2006?",
+    "options": [
+      "Ocho",
+      "Siete",
+      "Nueve",
+      "Diez"
+    ],
+    "correctIndex": 0,
+    "explanation": "Desde 2006 la UAI distingue ocho planetas; Plutón pasó a la categoría de planeta enano."
+  },
+  {
+    "id": "cg-1262",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué fuerza mantiene a los planetas en sus órbitas alrededor del Sol?",
+    "options": [
+      "El magnetismo",
+      "La fricción",
+      "La presión atmosférica",
+      "La gravedad"
+    ],
+    "correctIndex": 3,
+    "explanation": "La atracción gravitatoria del Sol actúa como fuerza centrípeta de las órbitas planetarias."
+  },
+  {
+    "id": "cg-1263",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento óptico se emplea para observar planetas, estrellas y otros objetos lejanos?",
+    "options": [
+      "El microscopio",
+      "El telescopio",
+      "El barómetro",
+      "El sismógrafo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El telescopio recoge luz y la concentra para ampliar la imagen de objetos distantes."
+  },
+  {
+    "id": "cg-1264",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué satélite natural orbita alrededor de la Tierra?",
+    "options": [
+      "Fobos",
+      "La Luna",
+      "Titán",
+      "Europa"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Luna es el único satélite natural de la Tierra y tarda unos 27 días en completar una órbita."
+  },
+  {
+    "id": "cg-1265",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cuál es el planeta de mayor tamaño del sistema solar?",
+    "options": [
+      "Saturno",
+      "Neptuno",
+      "Marte",
+      "Júpiter"
+    ],
+    "correctIndex": 3,
+    "explanation": "Júpiter supera en masa a todos los demás planetas juntos y tiene unos 143.000 km de diámetro."
+  },
+  {
+    "id": "cg-1266",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué estrella es la fuente principal de la energía que recibe la Tierra?",
+    "options": [
+      "El Sol",
+      "Sirio",
+      "Polaris",
+      "Próxima Centauri"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Sol es la fuente principal de luz y calor para la Tierra y el resto del sistema solar."
+  },
+  {
+    "id": "cg-1267",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de eclipse ocurre cuando la Luna se interpone entre el Sol y la Tierra?",
+    "options": [
+      "Eclipse lunar",
+      "Ocultación de Marte",
+      "Eclipse solar",
+      "Tránsito de Venus"
+    ],
+    "correctIndex": 2,
+    "explanation": "En un eclipse solar la Luna proyecta su sombra sobre la Tierra y puede ocultar total o parcialmente al Sol."
+  },
+  {
+    "id": "cg-1268",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué planeta orbita inmediatamente después de la Tierra en dirección al exterior del sistema solar?",
+    "options": [
+      "Venus",
+      "Júpiter",
+      "Mercurio",
+      "Marte"
+    ],
+    "correctIndex": 3,
+    "explanation": "El orden desde el Sol es Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno."
+  },
+  {
+    "id": "cg-1269",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el destello luminoso que produce una roca espacial al entrar en la atmósfera terrestre?",
+    "options": [
+      "Asteroide",
+      "Cometa",
+      "Satélite",
+      "Meteoro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El meteoro es el fenómeno luminoso; si el fragmento alcanza el suelo se llama meteorito."
+  },
+  {
+    "id": "cg-1270",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué astrónomo italiano descubrió cuatro lunas de Júpiter en 1610?",
+    "options": [
+      "Nicolás Copérnico",
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Tycho Brahe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Galileo observó Ío, Europa, Ganímedes y Calisto con un telescopio y las describió en 1610."
+  },
+  {
+    "id": "cg-1271",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿En qué año caminó por primera vez un ser humano sobre la Luna?",
+    "options": [
+      "1969",
+      "1957",
+      "1961",
+      "1972"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neil Armstrong pisó la Luna el 20 de julio de 1969 durante la misión Apolo 11."
+  },
+  {
+    "id": "cg-1272",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llamó la misión espacial que llevó a Neil Armstrong y Buzz Aldrin a la Luna en 1969?",
+    "options": [
+      "Apolo 8",
+      "Apolo 13",
+      "Apolo 11",
+      "Apolo 17"
+    ],
+    "correctIndex": 2,
+    "explanation": "La misión Apolo 11 alunizó en el Mar de la Tranquilidad el 20 de julio de 1969."
+  },
+  {
+    "id": "cg-1273",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué agencia espacial de Estados Unidos desarrolló el programa Apolo?",
+    "options": [
+      "NASA",
+      "ESA",
+      "Roscosmos",
+      "JAXA"
+    ],
+    "correctIndex": 0,
+    "explanation": "La NASA, fundada en 1958, gestionó el programa Apolo que llevó personas a la Luna."
+  },
+  {
+    "id": "cg-1274",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se denomina un cuerpo celeste de plasma que emite luz propia?",
+    "options": [
+      "Planeta",
+      "Estrella",
+      "Cometa",
+      "Asteroide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las estrellas generan energía mediante fusión nuclear en su interior y emiten luz propia."
+  },
+  {
+    "id": "cg-1275",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué planeta, el de menor tamaño del sistema solar, lleva el nombre del dios romano del comercio?",
+    "options": [
+      "Marte",
+      "Venus",
+      "Mercurio",
+      "Urano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mercurio es el planeta más pequeño y lleva el nombre del mensajero de los dioses romanos."
+  },
+  {
+    "id": "cg-1276",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿En qué planeta se observa la Gran Mancha Roja, una tormenta gigantesca?",
+    "options": [
+      "Saturno",
+      "Neptuno",
+      "Júpiter",
+      "Urano"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Gran Mancha Roja es un anticiclón de Júpiter observado desde hace siglos."
+  },
+  {
+    "id": "cg-1277",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el movimiento de la Tierra alrededor del Sol?",
+    "options": [
+      "Traslación",
+      "Rotación",
+      "Precesión",
+      "Nutación"
+    ],
+    "correctIndex": 0,
+    "explanation": "La traslación terrestre dura unos 365,25 días y define el año."
+  },
+  {
+    "id": "cg-1278",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cuánto tarda aproximadamente la luz del Sol en llegar a la Tierra?",
+    "options": [
+      "Ocho minutos",
+      "Ocho segundos",
+      "Ocho horas",
+      "Ocho días"
+    ],
+    "correctIndex": 0,
+    "explanation": "La luz recorre los 150 millones de kilómetros que separan al Sol de la Tierra en unos 8 minutos y 20 segundos."
+  },
+  {
+    "id": "cg-1279",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué constelación del hemisferio norte contiene a Polaris, la Estrella Polar?",
+    "options": [
+      "Osa Mayor",
+      "Casiopea",
+      "Orión",
+      "Osa Menor"
+    ],
+    "correctIndex": 3,
+    "explanation": "Polaris se sitúa en el extremo de la cola de la Osa Menor y señala aproximadamente el norte celeste."
+  },
+  {
+    "id": "cg-1280",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama un cuerpo que orbita un planeta y no produce luz propia?",
+    "options": [
+      "Asteroide",
+      "Satélite natural",
+      "Cometa",
+      "Meteoro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los satélites naturales, como la Luna, brillan porque reflejan la luz del Sol."
+  },
+  {
+    "id": "cg-1281",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué planeta del sistema solar alberga formas de vida conocidas?",
+    "options": [
+      "La Tierra",
+      "Marte",
+      "Venus",
+      "Titán"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Tierra es el único mundo donde se ha confirmado la existencia de vida."
+  },
+  {
+    "id": "cg-1282",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se denomina el conjunto de estrellas que se agrupa en una figura imaginaria del cielo?",
+    "options": [
+      "Constelación",
+      "Galaxia",
+      "Nebulosa",
+      "Cúmulo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las constelaciones son agrupaciones aparentes de estrellas usadas para orientarse y cartografiar el cielo."
+  },
+  {
+    "id": "cg-1283",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llamó la nave soviética que llevó a Yuri Gagarin al espacio en 1961?",
+    "options": [
+      "Soyuz 1",
+      "Vostok 1",
+      "Sputnik 2",
+      "Vosjod 2"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yuri Gagarin completó una órbita terrestre a bordo de la Vostok 1 el 12 de abril de 1961."
+  },
+  {
+    "id": "cg-1284",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué nacionalidad tenía Yuri Gagarin, el primer ser humano en el espacio?",
+    "options": [
+      "Estadounidense",
+      "Británica",
+      "Soviética",
+      "Francesa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yuri Gagarin nació en la Unión Soviética y voló al espacio en abril de 1961."
+  },
+  {
+    "id": "cg-1285",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué telescopio espacial, lanzado en 1990 por la NASA y la ESA, produjo imágenes detalladas de nebulosas y galaxias?",
+    "options": [
+      "James Webb",
+      "Chandra",
+      "Spitzer",
+      "Hubble"
+    ],
+    "correctIndex": 3,
+    "explanation": "El telescopio Hubble orbita la Tierra desde 1990 y observa en luz visible, ultravioleta e infrarroja cercana."
+  },
+  {
+    "id": "cg-1286",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué unidad de distancia equivale a lo que recorre la luz en un año?",
+    "options": [
+      "Unidad astronómica",
+      "Pársec",
+      "Año luz",
+      "Año solar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un año luz equivale a unos 9,46 billones de kilómetros."
+  },
+  {
+    "id": "cg-1287",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué planeta completa una vuelta alrededor del Sol en menos tiempo, unos 88 días terrestres?",
+    "options": [
+      "Venus",
+      "Marte",
+      "Mercurio",
+      "La Tierra"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mercurio es el planeta más cercano al Sol y su periodo orbital es de unos 88 días."
+  },
+  {
+    "id": "cg-1288",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué planeta tiene una inclinación axial cercana a 98 grados y gira casi acostado sobre su plano orbital?",
+    "options": [
+      "Urano",
+      "Neptuno",
+      "Saturno",
+      "Venus"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fuerte inclinación de Urano hace que sus polos reciban luz solar de forma extrema durante su órbita."
+  },
+  {
+    "id": "cg-1289",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la región del sistema solar poblada de cuerpos rocosos situada entre Marte y Júpiter?",
+    "options": [
+      "Cinturón de Kuiper",
+      "Nube de Oort",
+      "Anillo de Saturno",
+      "Cinturón de asteroides"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cinturón de asteroides contiene millones de rocas y planetas enanos como Ceres."
+  },
+  {
+    "id": "cg-1290",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué científico formuló a comienzos del siglo XVII las tres leyes del movimiento planetario?",
+    "options": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Tycho Brahe",
+      "Johannes Kepler"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kepler describió órbitas elípticas y la relación entre periodos y distancias orbitales."
+  },
+  {
+    "id": "cg-1291",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué astrónomo polaco propuso en el siglo XVI que los planetas giran alrededor del Sol?",
+    "options": [
+      "Claudio Ptolomeo",
+      "Nicolás Copérnico",
+      "Aristóteles",
+      "Hiparco de Nicea"
+    ],
+    "correctIndex": 1,
+    "explanation": "Copérnico expuso el modelo heliocéntrico en su obra De revolutionibus orbium coelestium."
+  },
+  {
+    "id": "cg-1292",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el punto de la órbita de un planeta en el que se encuentra más cerca del Sol?",
+    "options": [
+      "Afelio",
+      "Solsticio",
+      "Equinoccio",
+      "Perihelio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El perihelio es el punto de mínima distancia al Sol; el opuesto se denomina afelio."
+  },
+  {
+    "id": "cg-1293",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué planeta tarda más en girar sobre su eje que en completar una órbita alrededor del Sol?",
+    "options": [
+      "Mercurio",
+      "Marte",
+      "Venus",
+      "Júpiter"
+    ],
+    "correctIndex": 2,
+    "explanation": "Venus rota en sentido retrógrado y emplea unos 243 días terrestres, más que los 225 de su órbita."
+  },
+  {
+    "id": "cg-1294",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cuántas personas han caminado sobre la Luna en las misiones Apolo?",
+    "options": [
+      "Doce",
+      "Seis",
+      "Nueve",
+      "Quince"
+    ],
+    "correctIndex": 0,
+    "explanation": "Doce astronautas caminaron sobre la Luna entre 1969 y 1972, todos en misiones Apolo."
+  },
+  {
+    "id": "cg-1295",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el planeta enano del cinturón de Kuiper que fue considerado el noveno planeta hasta 2006?",
+    "options": [
+      "Plutón",
+      "Ceres",
+      "Eris",
+      "Makemake"
+    ],
+    "correctIndex": 0,
+    "explanation": "Plutón fue reclasificado como planeta enano por la UAI en 2006."
+  },
+  {
+    "id": "cg-1296",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué luna de Júpiter es el cuerpo con mayor actividad volcánica conocida del sistema solar?",
+    "options": [
+      "Europa",
+      "Ío",
+      "Ganímedes",
+      "Calisto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ío tiene cientos de volcanes activos alimentados por el calentamiento de marea de Júpiter."
+  },
+  {
+    "id": "cg-1297",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué luna de Saturno posee una densa atmósfera de nitrógeno y lagos de metano líquido?",
+    "options": [
+      "Encélado",
+      "Mimas",
+      "Titán",
+      "Rea"
+    ],
+    "correctIndex": 2,
+    "explanation": "Titán es la única luna conocida con una atmósfera densa y con líquidos estables en su superficie."
+  },
+  {
+    "id": "cg-1298",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué luna de Júpiter es la de mayor tamaño de todo el sistema solar?",
+    "options": [
+      "Titán",
+      "Calisto",
+      "Ganímedes",
+      "Tritón"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ganímedes supera en tamaño a Mercurio y posee un campo magnético propio."
+  },
+  {
+    "id": "cg-1299",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué galaxia de gran tamaño se encuentra a unos 2,5 millones de años luz de la Vía Láctea?",
+    "options": [
+      "Triángulo",
+      "Sombrero",
+      "Nube Mayor de Magallanes",
+      "Andrómeda"
+    ],
+    "correctIndex": 3,
+    "explanation": "Andrómeda es la gran galaxia espiral más cercana y se acerca lentamente a la Vía Láctea."
+  },
+  {
+    "id": "cg-1300",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de galaxia presenta un disco aplanado con brazos y abundante gas y polvo?",
+    "options": [
+      "Elíptica",
+      "Irregular",
+      "Lenticular",
+      "Espiral"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las galaxias espirales, como la Vía Láctea, forman estrellas en sus brazos."
+  },
+  {
+    "id": "cg-1301",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la nube de gas y polvo en la que nacen nuevas estrellas?",
+    "options": [
+      "Nebulosa",
+      "Cúmulo",
+      "Galaxia",
+      "Púlsar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las nebulosas son regiones de gas y polvo donde la gravedad puede colapsar y formar estrellas."
+  },
+  {
+    "id": "cg-1302",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿En qué tipo de estrella se transforma el Sol cuando agote el hidrógeno de su núcleo?",
+    "options": [
+      "Enana blanca",
+      "Supernova",
+      "Gigante roja",
+      "Estrella de neutrones"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Sol se expandirá y enfriará hasta convertirse en una gigante roja antes de expulsar sus capas exteriores."
+  },
+  {
+    "id": "cg-1303",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la explosión que marca el final de la vida de una estrella muy masiva?",
+    "options": [
+      "Nova",
+      "Púlsar",
+      "Supernova",
+      "Cuásar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una supernova libera enormes cantidades de energía y puede dejar una estrella de neutrones o un agujero negro."
+  },
+  {
+    "id": "cg-1304",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué objeto astronómico posee una gravedad tan intensa que ni la luz puede escapar de él?",
+    "options": [
+      "Púlsar",
+      "Enana marrón",
+      "Cuásar",
+      "Agujero negro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El agujero negro se define por un horizonte de sucesos del que nada puede regresar."
+  },
+  {
+    "id": "cg-1305",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llamaron los dos rovers que la NASA envió a Marte en 2003?",
+    "options": [
+      "Curiosity y Perseverance",
+      "Viking 1 y Viking 2",
+      "Spirit y Opportunity",
+      "Sojourner y Pathfinder"
+    ],
+    "correctIndex": 2,
+    "explanation": "Spirit y Opportunity aterrizaron en Marte en 2004 y estudiaron rocas y suelos durante años."
+  },
+  {
+    "id": "cg-1306",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué sonda de la NASA, lanzada en 1977, es el objeto construido por el ser humano que más se ha alejado del Sol?",
+    "options": [
+      "Voyager 1",
+      "Voyager 2",
+      "Pioneer 10",
+      "New Horizons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Voyager 1 cruzó la heliopausa en 2012 y continúa alejándose en el espacio interestelar."
+  },
+  {
+    "id": "cg-1307",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué país lanzó el Sputnik 1, el primer satélite artificial, en 1957?",
+    "options": [
+      "Unión Soviética",
+      "Estados Unidos",
+      "China",
+      "Francia"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Sputnik 1 abrió la era espacial al ser puesto en órbita por la Unión Soviética el 4 de octubre de 1957."
+  },
+  {
+    "id": "cg-1308",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llamó la mujer que viajó al espacio en 1963?",
+    "options": [
+      "Svetlana Savitskaya",
+      "Valentina Tereshkova",
+      "Sally Ride",
+      "Mae Jemison"
+    ],
+    "correctIndex": 1,
+    "explanation": "Valentina Tereshkova orbitó la Tierra a bordo de la Vostok 6 en junio de 1963."
+  },
+  {
+    "id": "cg-1309",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué radiotelescopio de 305 metros operó en Arecibo, Puerto Rico, hasta su colapso en 2020?",
+    "options": [
+      "Green Bank",
+      "Parkes",
+      "Arecibo",
+      "FAST"
+    ],
+    "correctIndex": 2,
+    "explanation": "El radiotelescopio de Arecibo fue durante décadas una instalación clave para la radioastronomía y el estudio de asteroides."
+  },
+  {
+    "id": "cg-1310",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué constelación del hemisferio sur, formada por cuatro estrellas brillantes, se usa para orientarse?",
+    "options": [
+      "Centauro",
+      "Carina",
+      "Cruz del Sur",
+      "Fénix"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Cruz del Sur permite localizar el polo sur celeste prolongando el eje mayor de su cruz."
+  },
+  {
+    "id": "cg-1311",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el aumento de la longitud de onda de la luz de los objetos que se alejan del observador?",
+    "options": [
+      "Corrimiento al azul",
+      "Efecto de lente",
+      "Corrimiento al rojo",
+      "Aberración anual"
+    ],
+    "correctIndex": 2,
+    "explanation": "El corrimiento al rojo se usa para medir la velocidad de recesión de las galaxias."
+  },
+  {
+    "id": "cg-1312",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué teoría propone que el universo se expandió desde un estado inicial muy denso y caliente?",
+    "options": [
+      "Big Bang",
+      "Universo estacionario",
+      "Teoría geocéntrica",
+      "Modelo de las esferas celestes"
+    ],
+    "correctIndex": 0,
+    "explanation": "La teoría del Big Bang explica la expansión del universo y la radiación cósmica de fondo."
+  },
+  {
+    "id": "cg-1313",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué astrónomo danés del siglo XVI realizó mediciones muy precisas de las posiciones planetarias y fue maestro de Kepler?",
+    "options": [
+      "Tycho Brahe",
+      "Nicolás Copérnico",
+      "Giordano Bruno",
+      "Christiaan Huygens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las observaciones de Tycho Brahe permitieron a Kepler deducir las leyes del movimiento planetario."
+  },
+  {
+    "id": "cg-1314",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué ley de Kepler relaciona el periodo orbital de un planeta con el semieje mayor de su órbita?",
+    "options": [
+      "Primera ley",
+      "Segunda ley",
+      "Ley de Titius-Bode",
+      "Tercera ley"
+    ],
+    "correctIndex": 3,
+    "explanation": "La tercera ley establece que el cuadrado del periodo es proporcional al cubo del semieje mayor."
+  },
+  {
+    "id": "cg-1315",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la frontera de un agujero negro a partir de la cual ninguna partícula puede escapar?",
+    "options": [
+      "Disco de acreción",
+      "Ergósfera",
+      "Horizonte de sucesos",
+      "Corona galáctica"
+    ],
+    "correctIndex": 2,
+    "explanation": "El horizonte de sucesos delimita la región donde la velocidad de escape supera la de la luz."
+  },
+  {
+    "id": "cg-1316",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué clase de supernova se utiliza como vela estándar para medir distancias cosmológicas?",
+    "options": [
+      "Supernova de tipo II",
+      "Nova recurrente",
+      "Supernova de tipo Ia",
+      "Variable Cefeida"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las supernovas de tipo Ia alcanzan un brillo máximo muy uniforme, útil para estimar distancias."
+  },
+  {
+    "id": "cg-1317",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué fenómeno predicho por la relatividad general se observó en el eclipse solar de 1919 al desviarse la luz de las estrellas junto al Sol?",
+    "options": [
+      "La aberración de la luz",
+      "La curvatura de la luz por la gravedad",
+      "El efecto Doppler",
+      "La polarización de la luz"
+    ],
+    "correctIndex": 1,
+    "explanation": "La expedición de Eddington comprobó que la masa del Sol curva la trayectoria de la luz."
+  },
+  {
+    "id": "cg-1318",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Cómo se denomina la radiación fósil que llena el universo y procede de la época en que se volvió transparente?",
+    "options": [
+      "Luz zodiacal",
+      "Fondo de rayos gamma",
+      "Radiación de Hawking",
+      "Radiación cósmica de fondo de microondas"
+    ],
+    "correctIndex": 3,
+    "explanation": "La radiación cósmica de fondo se descubrió en 1965 y se estudia para conocer el universo temprano."
+  },
+  {
+    "id": "cg-1319",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Cómo se llamó la sonda de la ESA que estudió el cometa 67P/Churyumov-Gerasimenko y liberó el módulo Philae?",
+    "options": [
+      "Rosetta",
+      "Giotto",
+      "Hayabusa",
+      "Deep Impact"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rosetta acompañó al cometa y Philae descendió sobre su superficie en noviembre de 2014."
+  },
+  {
+    "id": "cg-1320",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué telescopio espacial de rayos X, lanzado por la NASA en 1999, lleva el nombre de un astrofísico indio-estadounidense?",
+    "options": [
+      "XMM-Newton",
+      "NuSTAR",
+      "Swift",
+      "Chandra"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chandra observa regiones calientes del universo, como remanentes de supernova y agujeros negros."
+  },
+  {
+    "id": "cg-1321",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué misión de la NASA envió dos sondas gemelas a orbitar la Luna en 2011 para medir su campo gravitatorio?",
+    "options": [
+      "GRACE",
+      "LRO",
+      "LCROSS",
+      "GRAIL"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las dos naves de GRAIL, Ebb y Flow, cartografiaron las variaciones de gravedad lunar."
+  },
+  {
+    "id": "cg-1322",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué astrónomo griego del siglo II recopiló en el Almagesto un catálogo estelar y un modelo geocéntrico?",
+    "options": [
+      "Eratóstenes",
+      "Claudio Ptolomeo",
+      "Aristarco de Samos",
+      "Hiparco de Nicea"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Almagesto de Ptolomeo dominó la astronomía occidental durante más de mil años."
+  },
+  {
+    "id": "cg-1323",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué parámetro relaciona la velocidad de recesión de las galaxias con su distancia y lleva el nombre de su descubridor?",
+    "options": [
+      "Constante de Planck",
+      "Constante gravitacional",
+      "Constante de Hubble",
+      "Constante cosmológica"
+    ],
+    "correctIndex": 2,
+    "explanation": "La ley de Hubble-Lemaître establece que la velocidad de recesión es proporcional a la distancia."
+  },
+  {
+    "id": "cg-1324",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué sonda soviética depositó el vehículo Lunokhod 1 en la Luna en 1970?",
+    "options": [
+      "Luna 17",
+      "Luna 9",
+      "Luna 16",
+      "Luna 21"
+    ],
+    "correctIndex": 0,
+    "explanation": "Luna 17 llevó el primer rover lunar teledirigido, que recorrió varios kilómetros."
+  },
+  {
+    "id": "cg-1325",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué escala astronómica mide el brillo aparente de un astro y asigna valores menores a los objetos más luminosos?",
+    "options": [
+      "Magnitud aparente",
+      "Magnitud absoluta",
+      "Índice de color",
+      "Luminosidad bolométrica"
+    ],
+    "correctIndex": 0,
+    "explanation": "En la escala de magnitud aparente, una diferencia de cinco magnitudes equivale a un factor cien de brillo."
+  },
+  {
+    "id": "cg-1326",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cuál es el planeta del sistema solar situado a mayor distancia del Sol?",
+    "options": [
+      "Neptuno",
+      "Urano",
+      "Saturno",
+      "Júpiter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neptuno orbita a unos 4.500 millones de kilómetros del Sol y tarda 165 años en completar una vuelta."
+  },
+  {
+    "id": "cg-1327",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cuál es el segundo planeta de mayor tamaño del sistema solar?",
+    "options": [
+      "Júpiter",
+      "Neptuno",
+      "Urano",
+      "Saturno"
+    ],
+    "correctIndex": 3,
+    "explanation": "Saturno es algo menor que Júpiter y destaca por su extenso sistema de anillos."
+  },
+  {
+    "id": "cg-1328",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué gas predomina en la atmósfera de Júpiter?",
+    "options": [
+      "Oxígeno",
+      "Hidrógeno",
+      "Nitrógeno",
+      "Dióxido de carbono"
+    ],
+    "correctIndex": 1,
+    "explanation": "La atmósfera joviana está compuesta sobre todo por hidrógeno y helio."
+  },
+  {
+    "id": "cg-1329",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué planeta lleva el nombre del dios romano de la guerra?",
+    "options": [
+      "Marte",
+      "Mercurio",
+      "Saturno",
+      "Júpiter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Marte debe su nombre al dios romano de la guerra por su color rojizo."
+  },
+  {
+    "id": "cg-1330",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué planeta lleva el nombre del dios romano del mar?",
+    "options": [
+      "Neptuno",
+      "Urano",
+      "Saturno",
+      "Júpiter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neptuno recibe el nombre del dios romano de los océanos, asociado a su color azul."
+  },
+  {
+    "id": "cg-1331",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cuál es el satélite de Marte de mayor tamaño?",
+    "options": [
+      "Deimos",
+      "Tritón",
+      "Fobos",
+      "Caronte"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fobos es mayor que Deimos y orbita muy cerca de la superficie marciana."
+  },
+  {
+    "id": "cg-1332",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cuántos satélites naturales reconocidos tiene Marte?",
+    "options": [
+      "Uno",
+      "Cuatro",
+      "Dos",
+      "Catorce"
+    ],
+    "correctIndex": 2,
+    "explanation": "Marte tiene dos pequeñas lunas, Fobos y Deimos, probablemente asteroides capturados."
+  },
+  {
+    "id": "cg-1333",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué estrella es la de mayor brillo aparente en el cielo nocturno terrestre?",
+    "options": [
+      "Polaris",
+      "Sirio",
+      "Betelgeuse",
+      "Vega"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sirio, en la constelación del Can Mayor, es la estrella más brillante del cielo nocturno."
+  },
+  {
+    "id": "cg-1334",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué constelación representa a un cazador y tiene tres estrellas alineadas en su cinturón?",
+    "options": [
+      "Tauro",
+      "Géminis",
+      "Escorpio",
+      "Orión"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las tres estrellas del cinturón de Orión son Alnitak, Alnilam y Mintaka."
+  },
+  {
+    "id": "cg-1335",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿En qué planeta se encuentra el Monte Olimpo, el volcán de mayor altura conocida del sistema solar?",
+    "options": [
+      "Venus",
+      "Marte",
+      "La Luna",
+      "Mercurio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Monte Olimpo marciano se eleva unos 22 kilómetros sobre la superficie que lo rodea."
+  },
+  {
+    "id": "cg-1336",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llamó el transbordador espacial que realizó su primer vuelo orbital en 1981?",
+    "options": [
+      "Challenger",
+      "Discovery",
+      "Columbia",
+      "Atlantis"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Columbia despegó en abril de 1981 en la primera misión operativa del transbordador espacial."
+  },
+  {
+    "id": "cg-1337",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la estación espacial construida en órbita terrestre por varios países desde 1998?",
+    "options": [
+      "Mir",
+      "Estación Espacial Internacional",
+      "Skylab",
+      "Tiangong"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Estación Espacial Internacional alberga tripulaciones de forma continua desde el año 2000."
+  },
+  {
+    "id": "cg-1338",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la agencia espacial de la Unión Europea?",
+    "options": [
+      "NASA",
+      "Roscosmos",
+      "ISRO",
+      "ESA"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Agencia Espacial Europea agrupa a numerosos países y opera misiones como Rosetta y Gaia."
+  },
+  {
+    "id": "cg-1339",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué planeta enano del cinturón de asteroides fue estudiado por la sonda Dawn?",
+    "options": [
+      "Vesta",
+      "Palas",
+      "Ceres",
+      "Eros"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dawn orbitó Ceres y previamente Vesta, dos de los cuerpos mayores del cinturón de asteroides."
+  },
+  {
+    "id": "cg-1340",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué sonda de la NASA llegó a la órbita de Júpiter en 2016 para estudiar su interior y atmósfera?",
+    "options": [
+      "Cassini",
+      "Galileo",
+      "Juno",
+      "Pioneer 11"
+    ],
+    "correctIndex": 2,
+    "explanation": "Juno estudia el campo gravitatorio, el magnetismo y las capas nubosas de Júpiter."
+  },
+  {
+    "id": "cg-1341",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué sonda de la NASA sobrevoló Plutón en 2015?",
+    "options": [
+      "New Horizons",
+      "Cassini",
+      "Dawn",
+      "Juno"
+    ],
+    "correctIndex": 0,
+    "explanation": "New Horizons pasó cerca de Plutón en julio de 2015 y reveló su superficie helada."
+  },
+  {
+    "id": "cg-1342",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué rover de la NASA aterrizó en Marte en 2012 para estudiar su habitabilidad pasada?",
+    "options": [
+      "Curiosity",
+      "Opportunity",
+      "Perseverance",
+      "Spirit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Curiosity descendió en el cráter Gale y analiza rocas sedimentarias marcianas."
+  },
+  {
+    "id": "cg-1343",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué astronauta estadounidense fue la segunda persona en pisar la Luna?",
+    "options": [
+      "Buzz Aldrin",
+      "Michael Collins",
+      "Alan Bean",
+      "Edgar Mitchell"
+    ],
+    "correctIndex": 0,
+    "explanation": "Buzz Aldrin descendió tras Neil Armstrong durante la misión Apolo 11."
+  },
+  {
+    "id": "cg-1344",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué cosmonauta soviético salió al exterior de su nave en 1965?",
+    "options": [
+      "Yuri Gagarin",
+      "Pavel Belyayev",
+      "Alexei Leonov",
+      "Valeri Bykovsky"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alexei Leonov salió de la cápsula Vosjod 2 y permaneció unos doce minutos en el exterior."
+  },
+  {
+    "id": "cg-1345",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué país envió a Yang Liwei al espacio en 2003 y se convirtió en la tercera nación con vuelos tripulados?",
+    "options": [
+      "Japón",
+      "India",
+      "China",
+      "Corea del Sur"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yang Liwei orbitó la Tierra en la nave Shenzhou 5 en octubre de 2003."
+  },
+  {
+    "id": "cg-1346",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué telescopio espacial infrarrojo, lanzado en 2021, observa el universo con un espejo segmentado dorado?",
+    "options": [
+      "Hubble",
+      "Spitzer",
+      "Herschel",
+      "James Webb"
+    ],
+    "correctIndex": 3,
+    "explanation": "El James Webb opera en infrarrojo y estudia galaxias lejanas y atmósferas de exoplanetas."
+  },
+  {
+    "id": "cg-1347",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el observatorio de radio situado en el desierto de Atacama que cuenta con 66 antenas?",
+    "options": [
+      "VLT",
+      "ALMA",
+      "Keck",
+      "Gemini"
+    ],
+    "correctIndex": 1,
+    "explanation": "ALMA observa en longitudes milimétricas y submilimétricas y empezó a operar en 2013."
+  },
+  {
+    "id": "cg-1348",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué gas domina la densa atmósfera de Venus?",
+    "options": [
+      "Dióxido de carbono",
+      "Oxígeno",
+      "Nitrógeno",
+      "Metano"
+    ],
+    "correctIndex": 0,
+    "explanation": "La atmósfera venusina es casi toda dióxido de carbono y genera un intenso efecto invernadero."
+  },
+  {
+    "id": "cg-1349",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cuál es el planeta del sistema solar con la temperatura superficial media más alta?",
+    "options": [
+      "Venus",
+      "Mercurio",
+      "Marte",
+      "Júpiter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Venus alcanza unos 460 grados Celsius por su efecto invernadero, más que Mercurio pese a estar más lejos del Sol."
+  },
+  {
+    "id": "cg-1350",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cuál es el satélite de Neptuno de mayor tamaño?",
+    "options": [
+      "Nereida",
+      "Proteo",
+      "Tritón",
+      "Caronte"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tritón orbita en sentido retrógrado y probablemente fue capturado del cinturón de Kuiper."
+  },
+  {
+    "id": "cg-1351",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la región del sistema solar, más allá de Neptuno, poblada de cuerpos helados?",
+    "options": [
+      "Cinturón de asteroides",
+      "Nube de Oort",
+      "Cinturón de Kuiper",
+      "Corona solar"
+    ],
+    "correctIndex": 2,
+    "explanation": "El cinturón de Kuiper contiene a Plutón, Eris y otros planetas enanos helados."
+  },
+  {
+    "id": "cg-1352",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué planeta tiene un día sideral de unas 24 horas y 37 minutos, muy parecido al terrestre?",
+    "options": [
+      "Marte",
+      "Venus",
+      "Mercurio",
+      "Neptuno"
+    ],
+    "correctIndex": 0,
+    "explanation": "El día sideral marciano dura 24 horas y 37 minutos, apenas unos minutos más que el de la Tierra."
+  },
+  {
+    "id": "cg-1353",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué planeta completa una órbita alrededor del Sol en aproximadamente 687 días terrestres?",
+    "options": [
+      "Venus",
+      "Marte",
+      "Júpiter",
+      "Mercurio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El año marciano dura unos 687 días, casi dos años terrestres."
+  },
+  {
+    "id": "cg-1354",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué luna de Saturno expulsa columnas de vapor de agua desde su región polar sur?",
+    "options": [
+      "Encélado",
+      "Titán",
+      "Mimas",
+      "Rea"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los géiseres de Encélado alimentan uno de los anillos de Saturno."
+  },
+  {
+    "id": "cg-1355",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué satélite de Plutón es tan grande que ambos cuerpos forman casi un sistema binario?",
+    "options": [
+      "Caronte",
+      "Nix",
+      "Hidra",
+      "Estigia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Caronte tiene cerca de la mitad del diámetro de Plutón y ambos giran alrededor de un centro de masas común."
+  },
+  {
+    "id": "cg-1356",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué planeta tiene anillos tenues que fueron detectados en 1977 mediante ocultaciones estelares?",
+    "options": [
+      "Neptuno",
+      "Marte",
+      "Urano",
+      "Venus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los anillos de Urano se descubrieron al observar cómo una estrella desaparecía detrás del planeta."
+  },
+  {
+    "id": "cg-1357",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el punto de la órbita de un planeta en el que se encuentra más lejos del Sol?",
+    "options": [
+      "Afelio",
+      "Perihelio",
+      "Solsticio",
+      "Nodo ascendente"
+    ],
+    "correctIndex": 0,
+    "explanation": "El afelio es el punto de máxima distancia al Sol y se opone al perihelio."
+  },
+  {
+    "id": "cg-1358",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué ley de Kepler afirma que cada planeta describe una elipse con el Sol en uno de sus focos?",
+    "options": [
+      "Segunda ley",
+      "Tercera ley",
+      "Ley de la gravitación",
+      "Primera ley"
+    ],
+    "correctIndex": 3,
+    "explanation": "La primera ley de Kepler sustituyó las órbitas circulares por elipses."
+  },
+  {
+    "id": "cg-1359",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué misión Apolo sufrió una explosión en un tanque de oxígeno y regresó a la Tierra sin alunizar?",
+    "options": [
+      "Apolo 8",
+      "Apolo 12",
+      "Apolo 13",
+      "Apolo 15"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Apolo 13 abortó su alunizaje en 1970 y su tripulación regresó sana y salva."
+  },
+  {
+    "id": "cg-1360",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué módulo europeo descendió sobre Titán en 2005 transportado por la misión Cassini?",
+    "options": [
+      "Huygens",
+      "Philae",
+      "Beagle 2",
+      "Schiaparelli"
+    ],
+    "correctIndex": 0,
+    "explanation": "Huygens transmitió datos desde la superficie de Titán y confirmó la presencia de líquidos y niebla."
+  },
+  {
+    "id": "cg-1361",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué misión de la NASA estudió Saturno y sus lunas entre 2004 y 2017?",
+    "options": [
+      "Galileo",
+      "Juno",
+      "Voyager 2",
+      "Cassini"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cassini descubrió géiseres en Encélado y terminó su misión sumergiéndose en la atmósfera de Saturno."
+  },
+  {
+    "id": "cg-1362",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué sonda japonesa trajo muestras del asteroide Itokawa en 2010?",
+    "options": [
+      "Hayabusa 2",
+      "Akatsuki",
+      "Hayabusa",
+      "Kaguya"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hayabusa fue la primera misión que devolvió material de un asteroide a la Tierra."
+  },
+  {
+    "id": "cg-1363",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué misión de la NASA trajo muestras del asteroide Bennu en 2023?",
+    "options": [
+      "OSIRIS-REx",
+      "Stardust",
+      "Deep Impact",
+      "DART"
+    ],
+    "correctIndex": 0,
+    "explanation": "OSIRIS-REx recogió material de Bennu y lo entregó en el desierto de Utah."
+  },
+  {
+    "id": "cg-1364",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué país lanzó la misión Chandrayaan-1 para estudiar la Luna en 2008?",
+    "options": [
+      "India",
+      "China",
+      "Japón",
+      "Corea del Sur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chandrayaan-1 detectó moléculas de agua en la superficie lunar."
+  },
+  {
+    "id": "cg-1365",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué rover chino aterrizó en Marte en 2021?",
+    "options": [
+      "Yutu",
+      "Zhurong",
+      "Tianwen 1",
+      "Chang e 5"
+    ],
+    "correctIndex": 1,
+    "explanation": "Zhurong formó parte de la misión Tianwen 1 y exploró la región de Utopia Planitia."
+  },
+  {
+    "id": "cg-1366",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el módulo central de la estación espacial china, lanzado en 2021?",
+    "options": [
+      "Wentian",
+      "Mengtian",
+      "Shenzhou",
+      "Tianhe"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tianhe es el módulo de vivienda y control de la estación Tiangong."
+  },
+  {
+    "id": "cg-1367",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué astronauta estadounidense voló al espacio en 1983 como primera mujer del país?",
+    "options": [
+      "Mae Jemison",
+      "Sally Ride",
+      "Kathryn Sullivan",
+      "Christa McAuliffe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sally Ride voló en el transbordador Challenger en junio de 1983."
+  },
+  {
+    "id": "cg-1368",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué astronauta estadounidense de ascendencia africana viajó al espacio en 1983?",
+    "options": [
+      "Mae Jemison",
+      "Ronald McNair",
+      "Charles Bolden",
+      "Guion Bluford"
+    ],
+    "correctIndex": 3,
+    "explanation": "Guion Bluford voló en el transbordador Challenger en agosto de 1983."
+  },
+  {
+    "id": "cg-1369",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué astronauta de origen costarricense participó en siete misiones del transbordador espacial?",
+    "options": [
+      "Ellen Ochoa",
+      "Franklin Chang-Díaz",
+      "José Hernández",
+      "Rodolfo Neri Vela"
+    ],
+    "correctIndex": 1,
+    "explanation": "Franklin Chang-Díaz voló siete veces y después impulsó el desarrollo de motores de plasma."
+  },
+  {
+    "id": "cg-1370",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué astronauta israelí falleció en el accidente del transbordador Columbia en 2003?",
+    "options": [
+      "Ilan Koren",
+      "Ilan Ramon",
+      "Yitzhak Rabin",
+      "Erez Tal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ilan Ramon fue el primer astronauta israelí y murió en la reentrada del Columbia."
+  },
+  {
+    "id": "cg-1371",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿En qué volcán de Hawái se encuentran los telescopios gemelos Keck?",
+    "options": [
+      "Mauna Loa",
+      "Mauna Kea",
+      "Kilauea",
+      "Haleakala"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Mauna Kea alberga varios observatorios por la transparencia y estabilidad de su atmósfera."
+  },
+  {
+    "id": "cg-1372",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué radiotelescopio chino, con 500 metros de apertura, comenzó a operar en 2016?",
+    "options": [
+      "LHAASO",
+      "FAST",
+      "GMRT",
+      "Effelsberg"
+    ],
+    "correctIndex": 1,
+    "explanation": "FAST es un radiotelescopio esférico instalado en una depresión kárstica de la provincia de Guizhou."
+  },
+  {
+    "id": "cg-1373",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué telescopio espacial de la ESA, lanzado en 2013, mide posiciones y movimientos de más de mil millones de estrellas?",
+    "options": [
+      "Gaia",
+      "Hipparcos",
+      "Planck",
+      "XMM-Newton"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gaia elabora un mapa tridimensional de la Vía Láctea con una precisión sin precedentes."
+  },
+  {
+    "id": "cg-1374",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué telescopio espacial de la NASA, lanzado en 2009, buscó exoplanetas midiendo el brillo de las estrellas?",
+    "options": [
+      "Kepler",
+      "TESS",
+      "Spitzer",
+      "CoRoT"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kepler detectó miles de candidatos a exoplanetas mediante el método de tránsito."
+  },
+  {
+    "id": "cg-1375",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el método que detecta un exoplaneta cuando cruza por delante de su estrella y hace bajar su brillo?",
+    "options": [
+      "Velocidad radial",
+      "Microlente gravitacional",
+      "Astrometría",
+      "Tránsito"
+    ],
+    "correctIndex": 3,
+    "explanation": "El tránsito produce una disminución periódica del brillo estelar que permite estimar el tamaño del planeta."
+  },
+  {
+    "id": "cg-1376",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué misión de la NASA, lanzada en 2018, busca exoplanetas en estrellas cercanas y brillantes?",
+    "options": [
+      "Kepler",
+      "TESS",
+      "James Webb",
+      "CHEOPS"
+    ],
+    "correctIndex": 1,
+    "explanation": "TESS vigila amplias zonas del cielo y ha encontrado numerosos planetas alrededor de estrellas cercanas."
+  },
+  {
+    "id": "cg-1377",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿A qué clase espectral pertenece el Sol dentro de la secuencia principal?",
+    "options": [
+      "Tipo G",
+      "Tipo O",
+      "Tipo M",
+      "Tipo A"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Sol es una estrella de tipo G2V, con una temperatura superficial de unos 5.500 grados Celsius."
+  },
+  {
+    "id": "cg-1378",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el primer exoplaneta confirmado alrededor de una estrella de tipo solar, anunciado en 1995?",
+    "options": [
+      "HD 209458 b",
+      "51 Pegasi b",
+      "Kepler-452 b",
+      "Proxima Centauri b"
+    ],
+    "correctIndex": 1,
+    "explanation": "51 Pegasi b orbita la estrella 51 Pegasi y su descubrimiento abrió el campo de los exoplanetas."
+  },
+  {
+    "id": "cg-1379",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué misión de la ESA, activa entre 2009 y 2013, cartografió el fondo cósmico de microondas con gran precisión?",
+    "options": [
+      "WMAP",
+      "Planck",
+      "COBE",
+      "Herschel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Planck midió las anisotropías del fondo cósmico y ajustó los parámetros cosmológicos."
+  },
+  {
+    "id": "cg-1380",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué sonda de la NASA orbitó Mercurio entre 2011 y 2015?",
+    "options": [
+      "Mariner 10",
+      "BepiColombo",
+      "MESSENGER",
+      "Parker Solar Probe"
+    ],
+    "correctIndex": 2,
+    "explanation": "MESSENGER fue la primera nave en orbitar Mercurio y cartografió casi toda su superficie."
+  },
+  {
+    "id": "cg-1381",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué misión europeo-japonesa, lanzada en 2018, tiene como destino Mercurio?",
+    "options": [
+      "BepiColombo",
+      "MESSENGER",
+      "Solar Orbiter",
+      "Akatsuki"
+    ],
+    "correctIndex": 0,
+    "explanation": "BepiColombo transporta dos orbitadores, uno de la ESA y otro de JAXA, rumbo a Mercurio."
+  },
+  {
+    "id": "cg-1382",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué sonda de la NASA, lanzada en 1989, cartografió Venus con radar desde la órbita?",
+    "options": [
+      "Pioneer Venus",
+      "Venera 15",
+      "Venus Express",
+      "Magallanes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Magallanes obtuvo un mapa detallado del relieve venusino a través de sus nubes."
+  },
+  {
+    "id": "cg-1383",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué sonda sobrevoló Júpiter, Saturno, Urano y Neptuno en un mismo viaje?",
+    "options": [
+      "Voyager 1",
+      "Pioneer 11",
+      "Voyager 2",
+      "Cassini"
+    ],
+    "correctIndex": 2,
+    "explanation": "Voyager 2 aprovechó una alineación planetaria poco frecuente entre 1979 y 1989."
+  },
+  {
+    "id": "cg-1384",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué objeto del cinturón de Kuiper fue sobrevolado por New Horizons en 2019?",
+    "options": [
+      "Eris",
+      "Makemake",
+      "Arrokoth",
+      "Haumea"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arrokoth, antes llamado Ultima Thule, es un cuerpo binario de contacto de unos 36 kilómetros."
+  },
+  {
+    "id": "cg-1385",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué astrónomo estadounidense usó estrellas Cefeidas para demostrar que Andrómeda está fuera de la Vía Láctea?",
+    "options": [
+      "Harlow Shapley",
+      "Henrietta Leavitt",
+      "Walter Baade",
+      "Edwin Hubble"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hubble midió Cefeidas en Andrómeda en 1923 y confirmó que era una galaxia independiente."
+  },
+  {
+    "id": "cg-1386",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué astrónoma estadounidense desarrolló el sistema de clasificación espectral de las estrellas según su temperatura?",
+    "options": [
+      "Annie Jump Cannon",
+      "Henrietta Leavitt",
+      "Cecilia Payne-Gaposchkin",
+      "Vera Rubin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Annie Jump Cannon ordenó cientos de miles de espectros y estableció las clases O, B, A, F, G, K y M."
+  },
+  {
+    "id": "cg-1387",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué misión de la NASA orbitó Júpiter entre 1995 y 2003 y lanzó una sonda atmosférica?",
+    "options": [
+      "Juno",
+      "Galileo",
+      "Cassini",
+      "Ulysses"
+    ],
+    "correctIndex": 1,
+    "explanation": "Galileo estudió Júpiter y sus lunas y liberó una sonda que entró en su atmósfera en 1995."
+  },
+  {
+    "id": "cg-1388",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué sonda de la NASA aterrizó sobre el asteroide Eros en 2001?",
+    "options": [
+      "Hayabusa",
+      "OSIRIS-REx",
+      "DART",
+      "NEAR Shoemaker"
+    ],
+    "correctIndex": 3,
+    "explanation": "NEAR Shoemaker posó suavemente sobre Eros tras un año de observaciones orbitales."
+  },
+  {
+    "id": "cg-1389",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿En qué país se encuentra el radiotelescopio gigante de ondas métricas GMRT?",
+    "options": [
+      "China",
+      "Sudáfrica",
+      "India",
+      "Australia"
+    ],
+    "correctIndex": 2,
+    "explanation": "El GMRT, cerca de Pune, es una red de 30 antenas que estudia el universo en bajas frecuencias."
+  },
+  {
+    "id": "cg-1390",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué observatorio espacial de la NASA, lanzado en 2008, estudia explosiones de rayos gamma y púlsares?",
+    "options": [
+      "Swift",
+      "Chandra",
+      "Fermi",
+      "Integral"
+    ],
+    "correctIndex": 2,
+    "explanation": "El telescopio Fermi de rayos gamma ha catalogado miles de fuentes cósmicas de alta energía."
+  },
+  {
+    "id": "cg-1391",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué ocurre durante un eclipse lunar?",
+    "options": [
+      "La Luna se interpone entre el Sol y la Tierra",
+      "El Sol se interpone entre la Tierra y la Luna",
+      "Marte oculta a la Luna",
+      "La Tierra se interpone entre el Sol y la Luna"
+    ],
+    "correctIndex": 3,
+    "explanation": "En un eclipse lunar la sombra terrestre cubre la Luna, que puede adquirir un tono rojizo."
+  },
+  {
+    "id": "cg-1392",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama cada una de las apariencias cambiantes de la Luna a lo largo de un mes?",
+    "options": [
+      "Órbita lunar",
+      "Fase lunar",
+      "Eclíptica",
+      "Libración"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las fases lunar se deben a la distinta porción iluminada que se observa desde la Tierra."
+  },
+  {
+    "id": "cg-1393",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué astro ejerce la influencia principal sobre las mareas oceánicas de la Tierra?",
+    "options": [
+      "Marte",
+      "Venus",
+      "Júpiter",
+      "La Luna"
+    ],
+    "correctIndex": 3,
+    "explanation": "La gravedad de la Luna, con la contribución del Sol, genera las mareas."
+  },
+  {
+    "id": "cg-1394",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué cuerpo celeste desarrolla una cola de gas y polvo cuando se aproxima al Sol?",
+    "options": [
+      "Cometa",
+      "Asteroide",
+      "Meteoro",
+      "Planeta enano"
+    ],
+    "correctIndex": 0,
+    "explanation": "El calor solar sublima el hielo del cometa y forma su coma y su cola."
+  },
+  {
+    "id": "cg-1395",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la roca espacial que llega a la superficie de la Tierra?",
+    "options": [
+      "Meteoro",
+      "Asteroide",
+      "Cometa",
+      "Meteorito"
+    ],
+    "correctIndex": 3,
+    "explanation": "El meteorito es el fragmento que sobrevive al paso por la atmósfera y alcanza el suelo."
+  },
+  {
+    "id": "cg-1396",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la trayectoria curva que describe un astro alrededor de otro?",
+    "options": [
+      "Rotación",
+      "Órbita",
+      "Eclíptica",
+      "Paralaje"
+    ],
+    "correctIndex": 1,
+    "explanation": "La órbita resulta del equilibrio entre la velocidad del astro y la atracción gravitatoria."
+  },
+  {
+    "id": "cg-1397",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué artefacto construido por el ser humano orbita la Tierra para comunicaciones u observación?",
+    "options": [
+      "Estación meteorológica",
+      "Sonda interplanetaria",
+      "Satélite artificial",
+      "Radiotelescopio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los satélites artificiales cumplen funciones de comunicación, navegación, meteorología y observación."
+  },
+  {
+    "id": "cg-1398",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la persona entrenada para viajar al espacio?",
+    "options": [
+      "Astrónomo",
+      "Piloto de pruebas",
+      "Astronauta",
+      "Geólogo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los astronautas o cosmonautas reciben entrenamiento físico y técnico para misiones espaciales."
+  },
+  {
+    "id": "cg-1399",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué vehículo se emplea para impulsar una nave fuera de la atmósfera terrestre?",
+    "options": [
+      "Cohete",
+      "Globo aerostático",
+      "Submarino",
+      "Avión supersónico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cohetes generan empuje expulsando gases a gran velocidad según la tercera ley de Newton."
+  },
+  {
+    "id": "cg-1400",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué perra soviética fue el primer ser vivo en orbitar la Tierra, en 1957?",
+    "options": [
+      "Belka",
+      "Strelka",
+      "Laska",
+      "Laika"
+    ],
+    "correctIndex": 3,
+    "explanation": "Laika viajó a bordo del Sputnik 2 y abrió el camino de los vuelos espaciales tripulados."
+  },
+  {
+    "id": "cg-1401",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cuántas constelaciones oficiales reconoce la Unión Astronómica Internacional?",
+    "options": [
+      "48",
+      "66",
+      "102",
+      "88"
+    ],
+    "correctIndex": 3,
+    "explanation": "La UAI fijó en 1922 las 88 constelaciones que cubren toda la esfera celeste."
+  },
+  {
+    "id": "cg-1402",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué constelación zodiacal representa a un toro?",
+    "options": [
+      "Aries",
+      "Géminis",
+      "Cáncer",
+      "Tauro"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tauro representa al toro y contiene el cúmulo abierto de las Pléyades."
+  },
+  {
+    "id": "cg-1403",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué constelación zodiacal representa a un león?",
+    "options": [
+      "Virgo",
+      "Escorpio",
+      "Sagitario",
+      "Leo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Leo se asocia al león y su estrella más brillante es Regulus."
+  },
+  {
+    "id": "cg-1404",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué constelación contiene a la estrella Antares?",
+    "options": [
+      "Tauro",
+      "Leo",
+      "Acuario",
+      "Escorpio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Antares es una supergigante roja que marca el corazón del escorpión."
+  },
+  {
+    "id": "cg-1405",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué forma tiene la Vía Láctea según su clasificación?",
+    "options": [
+      "Elíptica",
+      "Espiral barrada",
+      "Irregular",
+      "Lenticular"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Vía Láctea es una galaxia espiral barrada con unos cien mil millones de estrellas."
+  },
+  {
+    "id": "cg-1406",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llaman las dos galaxias enanas satélites de la Vía Láctea visibles a simple vista desde el hemisferio sur?",
+    "options": [
+      "Nubes de Magallanes",
+      "Galaxias del Triángulo",
+      "Galaxias Antennae",
+      "Galaxias del Ratón"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Nube Mayor y la Nube Menor de Magallanes acompañan a la Vía Láctea."
+  },
+  {
+    "id": "cg-1407",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la superficie visible del Sol?",
+    "options": [
+      "Fotosfera",
+      "Corona",
+      "Cromosfera",
+      "Núcleo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fotosfera es la capa que emite la mayor parte de la luz solar visible."
+  },
+  {
+    "id": "cg-1408",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el flujo de partículas cargadas que emite el Sol?",
+    "options": [
+      "Radiación de fondo",
+      "Viento solar",
+      "Viento estelar",
+      "Aurora"
+    ],
+    "correctIndex": 1,
+    "explanation": "El viento solar está formado por protones y electrones que escapan de la corona solar."
+  },
+  {
+    "id": "cg-1409",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué región magnética rodea la Tierra y desvía el viento solar?",
+    "options": [
+      "Magnetosfera",
+      "Ionosfera",
+      "Exosfera",
+      "Heliosfera"
+    ],
+    "correctIndex": 0,
+    "explanation": "La magnetosfera terrestre protege la superficie de gran parte de las partículas solares."
+  },
+  {
+    "id": "cg-1410",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la aurora que se observa en latitudes altas del hemisferio norte?",
+    "options": [
+      "Aurora boreal",
+      "Aurora austral",
+      "Aurora polar sur",
+      "Aurora ecuatorial"
+    ],
+    "correctIndex": 0,
+    "explanation": "La aurora boreal se produce cuando partículas solares excitan gases de la alta atmósfera."
+  },
+  {
+    "id": "cg-1411",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de telescopio utiliza un espejo curvo como elemento principal?",
+    "options": [
+      "Refractor",
+      "Reflector",
+      "Espectrómetro",
+      "Radiotelescopio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El telescopio reflector emplea espejos y es el diseño habitual de los grandes observatorios."
+  },
+  {
+    "id": "cg-1412",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento descompone la luz de un astro para estudiar su composición?",
+    "options": [
+      "Fotómetro",
+      "Sismógrafo",
+      "Heliómetro",
+      "Espectroscopio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El espectroscopio separa la luz en longitudes de onda y revela los elementos presentes."
+  },
+  {
+    "id": "cg-1413",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué científico inglés formuló la ley de la gravitación universal?",
+    "options": [
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Isaac Newton",
+      "Robert Hooke"
+    ],
+    "correctIndex": 2,
+    "explanation": "Newton publicó en 1687 los principios de la gravitación en sus Principia."
+  },
+  {
+    "id": "cg-1414",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el grupo de estrellas ligadas por la gravedad dentro de una galaxia?",
+    "options": [
+      "Cúmulo estelar",
+      "Nebulosa",
+      "Constelación",
+      "Galaxia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cúmulos abiertos y globulares agrupan estrellas nacidas de la misma nube."
+  },
+  {
+    "id": "cg-1415",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué cometa, visible desde la Tierra cada unos 76 años, lleva el nombre de un astrónomo inglés?",
+    "options": [
+      "Cometa Halley",
+      "Cometa Hale-Bopp",
+      "Cometa Encke",
+      "Cometa ISON"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cometa Halley fue identificado por Edmond Halley y su última aparición cercana ocurrió en 1986."
+  },
+  {
+    "id": "cg-1416",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué lluvia de meteoros se produce cada agosto y está asociada al cometa Swift-Tuttle?",
+    "options": [
+      "Leónidas",
+      "Gemínidas",
+      "Perseidas",
+      "Cuadrántidas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las Perseidas se observan en agosto cuando la Tierra cruza los restos del cometa Swift-Tuttle."
+  },
+  {
+    "id": "cg-1417",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué estrella es la de mayor brillo de la constelación de Orión?",
+    "options": [
+      "Betelgeuse",
+      "Bellatrix",
+      "Saiph",
+      "Rigel"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rigel, una supergigante azul, supera ligeramente en brillo aparente a Betelgeuse."
+  },
+  {
+    "id": "cg-1418",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cuántas constelaciones del zodiaco cruza el Sol a lo largo del año según la astronomía moderna?",
+    "options": [
+      "Trece",
+      "Doce",
+      "Once",
+      "Catorce"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Sol atraviesa también Ofiuco, constelación omitida en el zodiaco astrológico tradicional."
+  },
+  {
+    "id": "cg-1419",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué remanente deja una estrella de masa similar a la del Sol al agotar su combustible?",
+    "options": [
+      "Estrella de neutrones",
+      "Agujero negro",
+      "Supernova",
+      "Enana blanca"
+    ],
+    "correctIndex": 3,
+    "explanation": "La enana blanca es un núcleo caliente y denso que se enfría lentamente con el tiempo."
+  },
+  {
+    "id": "cg-1420",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la explosión superficial de una estrella que aumenta su brillo sin destruirla?",
+    "options": [
+      "Supernova",
+      "Nova",
+      "Púlsar",
+      "Hipernova"
+    ],
+    "correctIndex": 1,
+    "explanation": "Una nova ocurre en sistemas binarios cuando el gas acumulado se fusiona de forma explosiva."
+  },
+  {
+    "id": "cg-1421",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué objeto compacto gira muy rápido y emite pulsos regulares de radiación?",
+    "options": [
+      "Púlsar",
+      "Cuásar",
+      "Enana blanca",
+      "Nebulosa planetaria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los púlsares son estrellas de neutrones con un campo magnético intenso y rotación veloz."
+  },
+  {
+    "id": "cg-1422",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama un núcleo galáctico muy luminoso y distante alimentado por un agujero negro supermasivo?",
+    "options": [
+      "Púlsar",
+      "Cuásar",
+      "Nova",
+      "Cúmulo globular"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los cuásares se cuentan entre los objetos más luminosos del universo observable."
+  },
+  {
+    "id": "cg-1423",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué componente del universo no emite luz y se detecta por sus efectos gravitatorios?",
+    "options": [
+      "Energía oscura",
+      "Materia oscura",
+      "Polvo interestelar",
+      "Gas ionizado"
+    ],
+    "correctIndex": 1,
+    "explanation": "La materia oscura explica las curvas de rotación de las galaxias y el movimiento de los cúmulos."
+  },
+  {
+    "id": "cg-1424",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué componente desconocido se considera responsable de acelerar la expansión del universo?",
+    "options": [
+      "Materia oscura",
+      "Radiación de fondo",
+      "Antimateria",
+      "Energía oscura"
+    ],
+    "correctIndex": 3,
+    "explanation": "La energía oscura se introdujo para explicar la expansión acelerada observada en las supernovas lejanas."
+  },
+  {
+    "id": "cg-1425",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué edad aproximada tiene el universo según los modelos cosmológicos actuales?",
+    "options": [
+      "Unos 4.500 millones de años",
+      "Unos 100.000 millones de años",
+      "Unos 13.800 millones de años",
+      "Unos 500 millones de años"
+    ],
+    "correctIndex": 2,
+    "explanation": "La edad se deduce del fondo cósmico de microondas y de la expansión del universo."
+  },
+  {
+    "id": "cg-1426",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué satélite de la NASA midió el fondo cósmico de microondas y obtuvo el Nobel de Física en 2006?",
+    "options": [
+      "WMAP",
+      "COBE",
+      "Planck",
+      "IRAS"
+    ],
+    "correctIndex": 1,
+    "explanation": "COBE detectó las anisotropías del fondo cósmico y confirmó su espectro de cuerpo negro."
+  },
+  {
+    "id": "cg-1427",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué telescopio espacial infrarrojo de la NASA operó entre 2003 y 2020?",
+    "options": [
+      "Hubble",
+      "Herschel",
+      "Spitzer",
+      "Akari"
+    ],
+    "correctIndex": 2,
+    "explanation": "Spitzer observó polvo, estrellas en formación y galaxias infrarrojas durante más de dieciséis años."
+  },
+  {
+    "id": "cg-1428",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué observatorio espacial de rayos X lanzó la ESA en 1999?",
+    "options": [
+      "Chandra",
+      "Fermi",
+      "NuSTAR",
+      "XMM-Newton"
+    ],
+    "correctIndex": 3,
+    "explanation": "XMM-Newton estudia materia caliente y agujeros negros con grandes colectores de rayos X."
+  },
+  {
+    "id": "cg-1429",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿En qué desierto del norte de Chile se encuentra el Very Large Telescope?",
+    "options": [
+      "Atacama",
+      "Sahara",
+      "Gobi",
+      "Kalahari"
+    ],
+    "correctIndex": 0,
+    "explanation": "El VLT opera en el cerro Paranal, en el desierto de Atacama, uno de los cielos más secos del planeta."
+  },
+  {
+    "id": "cg-1430",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué organización europea opera el Very Large Telescope en Chile?",
+    "options": [
+      "ESA",
+      "CERN",
+      "ESO",
+      "NASA"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Observatorio Europeo Austral gestiona el VLT y otros telescopios en Chile."
+  },
+  {
+    "id": "cg-1431",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué telescopio de 10,4 metros opera en el Observatorio del Roque de los Muchachos, en La Palma?",
+    "options": [
+      "Telescopio Keck",
+      "Gran Telescopio Canarias",
+      "Hobby-Eberly",
+      "Southern African Large Telescope"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Gran Telescopio Canarias es un reflector segmentado situado en la isla de La Palma."
+  },
+  {
+    "id": "cg-1432",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué observatorio de Sudáfrica emplea un espejo segmentado de 11 metros de diámetro?",
+    "options": [
+      "VLT",
+      "Gemini Sur",
+      "Magallanes",
+      "SALT"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Southern African Large Telescope se encuentra cerca de Sutherland y es el mayor telescopio óptico de África."
+  },
+  {
+    "id": "cg-1433",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el acortamiento de la longitud de onda de la luz de un objeto que se aproxima al observador?",
+    "options": [
+      "Corrimiento al rojo",
+      "Paralaje",
+      "Corrimiento al azul",
+      "Extinción"
+    ],
+    "correctIndex": 2,
+    "explanation": "El corrimiento al azul indica un acercamiento y se observa, por ejemplo, en galaxias del Grupo Local."
+  },
+  {
+    "id": "cg-1434",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué efecto explica el cambio de frecuencia de una onda cuando su fuente se mueve respecto al observador?",
+    "options": [
+      "Efecto fotoeléctrico",
+      "Efecto Compton",
+      "Efecto Doppler",
+      "Efecto Hall"
+    ],
+    "correctIndex": 2,
+    "explanation": "El efecto Doppler permite medir velocidades radiales de estrellas y galaxias."
+  },
+  {
+    "id": "cg-1435",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué constante relaciona la energía de un fotón con su frecuencia?",
+    "options": [
+      "Constante de Hubble",
+      "Constante gravitacional",
+      "Constante de Planck",
+      "Constante de Boltzmann"
+    ],
+    "correctIndex": 2,
+    "explanation": "La relación es E = h·f, donde h es la constante de Planck."
+  },
+  {
+    "id": "cg-1436",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué velocidad aparece representada por la letra c en la ecuación E=mc²?",
+    "options": [
+      "La velocidad del sonido",
+      "La velocidad de la luz",
+      "La velocidad de escape terrestre",
+      "La velocidad orbital de la Tierra"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ecuación de Einstein indica que masa y energía son proporcionales mediante la velocidad de la luz al cuadrado."
+  },
+  {
+    "id": "cg-1437",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué telescopio espacial de la ESA, lanzado en 1989, midió posiciones estelares con gran precisión?",
+    "options": [
+      "Hipparcos",
+      "Gaia",
+      "Hubble",
+      "ISO"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hipparcos elaboró un catálogo astrométrico que sirvió de base para estudios posteriores."
+  },
+  {
+    "id": "cg-1438",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué misión de la NASA, lanzada en 2001, estudió el fondo cósmico de microondas con alta sensibilidad?",
+    "options": [
+      "COBE",
+      "WMAP",
+      "Planck",
+      "BOOMERanG"
+    ],
+    "correctIndex": 1,
+    "explanation": "WMAP precisó la composición y la geometría del universo a partir de las anisotropías del fondo."
+  },
+  {
+    "id": "cg-1439",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué sonda de la NASA, lanzada en 1972, cruzó el cinturón de asteroides y sobrevoló Júpiter antes que ninguna otra?",
+    "options": [
+      "Pioneer 11",
+      "Voyager 1",
+      "Mariner 9",
+      "Pioneer 10"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pioneer 10 envió las primeras imágenes cercanas de Júpiter en 1973."
+  },
+  {
+    "id": "cg-1440",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué misión de la NASA, lanzada en 2018, estudia el Sol desde distancias muy cortas?",
+    "options": [
+      "Solar Orbiter",
+      "SOHO",
+      "Parker Solar Probe",
+      "Helios 2"
+    ],
+    "correctIndex": 2,
+    "explanation": "Parker Solar Probe se acerca a la corona solar para medir el viento y el campo magnético."
+  },
+  {
+    "id": "cg-1441",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué misión de la ESA, lanzada en 2020, estudia el Sol y sus regiones polares?",
+    "options": [
+      "Parker Solar Probe",
+      "SOHO",
+      "Cluster",
+      "Solar Orbiter"
+    ],
+    "correctIndex": 3,
+    "explanation": "Solar Orbiter combina observaciones remotas con medidas directas del entorno solar."
+  },
+  {
+    "id": "cg-1442",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué unidad de distancia equivale a unos 3,26 años luz?",
+    "options": [
+      "Unidad astronómica",
+      "Año luz",
+      "Pársec",
+      "Radio solar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un pársec se define por la paralaje de un segundo de arco y equivale a 3,26 años luz."
+  },
+  {
+    "id": "cg-1443",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué astrónoma estadounidense descubrió la relación entre el periodo y la luminosidad de las estrellas Cefeidas?",
+    "options": [
+      "Henrietta Leavitt",
+      "Annie Jump Cannon",
+      "Cecilia Payne-Gaposchkin",
+      "Vera Rubin"
+    ],
+    "correctIndex": 0,
+    "explanation": "La relación periodo-luminosidad de Leavitt permitió medir distancias extragalácticas."
+  },
+  {
+    "id": "cg-1444",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué astrónoma estadounidense aportó pruebas clave de la materia oscura al estudiar la rotación de galaxias?",
+    "options": [
+      "Henrietta Leavitt",
+      "Vera Rubin",
+      "Jocelyn Bell Burnell",
+      "Margaret Burbidge"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las curvas de rotación planas observadas por Rubin indicaban masa no visible en las galaxias."
+  },
+  {
+    "id": "cg-1445",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué sacerdote y astrónomo belga propuso en 1927 la relación entre la distancia y la velocidad de recesión de las galaxias?",
+    "options": [
+      "Edwin Hubble",
+      "Arthur Eddington",
+      "Georges Lemaître",
+      "Fred Hoyle"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lemaître planteó un universo en expansión y anticipó la ley que después se asoció a Hubble."
+  },
+  {
+    "id": "cg-1446",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué físico británico predijo que los agujeros negros emiten radiación térmica?",
+    "options": [
+      "Roger Penrose",
+      "Kip Thorne",
+      "Stephen Hawking",
+      "John Wheeler"
+    ],
+    "correctIndex": 2,
+    "explanation": "La radiación de Hawking se debe a efectos cuánticos cerca del horizonte de sucesos."
+  },
+  {
+    "id": "cg-1447",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué fenómeno gravitatorio amplía y distorsiona la imagen de galaxias situadas detrás de un cúmulo masivo?",
+    "options": [
+      "Efecto Doppler",
+      "Lente gravitacional",
+      "Dispersión de Rayleigh",
+      "Aberración cromática"
+    ],
+    "correctIndex": 1,
+    "explanation": "La masa del cúmulo curva la luz y actúa como una lente natural que amplía objetos lejanos."
+  },
+  {
+    "id": "cg-1448",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué experimento de 1887 buscó medir el movimiento de la Tierra respecto al éter y no halló diferencias en la velocidad de la luz?",
+    "options": [
+      "Cavendish",
+      "Pound-Rebka",
+      "Eddington",
+      "Michelson-Morley"
+    ],
+    "correctIndex": 3,
+    "explanation": "El resultado de Michelson-Morley fue clave para el desarrollo de la relatividad especial."
+  },
+  {
+    "id": "cg-1449",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué astrónomo y poeta persa del siglo XI midió con precisión el año solar y elaboró tablas astronómicas?",
+    "options": [
+      "Al-Biruni",
+      "Al-Khwarizmi",
+      "Nasir al-Din al-Tusi",
+      "Omar Khayyam"
+    ],
+    "correctIndex": 3,
+    "explanation": "Omar Khayyam trabajó en el observatorio de Isfahán y en la reforma del calendario persa."
+  },
+  {
+    "id": "cg-1450",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué matemático y astrónomo indio del siglo V defendió que la Tierra gira sobre su propio eje?",
+    "options": [
+      "Brahmagupta",
+      "Aryabhata",
+      "Bhaskara II",
+      "Varahamihira"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aryabhata expuso sus ideas astronómicas en la Aryabhatiya y explicó los eclipses por sombras."
+  },
+  {
+    "id": "cg-1451",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué civilización mesoamericana construyó el observatorio de El Caracol y usó un calendario solar de 365 días?",
+    "options": [
+      "Maya",
+      "Azteca",
+      "Inca",
+      "Olmeca"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Caracol de Chichén Itzá presenta vanos alineados con fenómenos astronómicos."
+  },
+  {
+    "id": "cg-1452",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué astrónomo francés predijo matemáticamente la posición de Neptuno antes de que fuera observado en 1846?",
+    "options": [
+      "Pierre-Simon Laplace",
+      "Urbain Le Verrier",
+      "Jean-Baptiste Delambre",
+      "Camille Flammarion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Verrier calculó la posición de un planeta desconocido y Johann Galle lo encontró esa misma noche."
+  },
+  {
+    "id": "cg-1453",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué observatorio estadounidense detectó ondas gravitacionales en 2015?",
+    "options": [
+      "VIRGO",
+      "KAGRA",
+      "Arecibo",
+      "LIGO"
+    ],
+    "correctIndex": 3,
+    "explanation": "LIGO registró la fusión de dos agujeros negros y confirmó una predicción de la relatividad general."
+  },
+  {
+    "id": "cg-1454",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué misión japonesa trajo muestras del asteroide Ryugu a la Tierra en 2020?",
+    "options": [
+      "Hayabusa",
+      "Hayabusa 2",
+      "Akatsuki",
+      "Kaguya"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hayabusa 2 recogió material de Ryugu y lo entregó en Australia en diciembre de 2020."
+  },
+  {
+    "id": "cg-1455",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué satélite de la ESA, lanzado en 2019, estudia exoplanetas mediante tránsitos alrededor de estrellas brillantes?",
+    "options": [
+      "Gaia",
+      "CHEOPS",
+      "TESS",
+      "Plato"
+    ],
+    "correctIndex": 1,
+    "explanation": "CHEOPS caracteriza planetas ya conocidos midiendo con precisión sus tránsitos."
+  },
+  {
+    "id": "cg-1456",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el conjunto de todo el espacio, la materia y la energía que existe?",
+    "options": [
+      "Galaxia",
+      "Universo",
+      "Sistema solar",
+      "Nebulosa"
+    ],
+    "correctIndex": 1,
+    "explanation": "El universo abarca toda la materia, la energía, el espacio y el tiempo conocidos."
+  },
+  {
+    "id": "cg-1457",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué característica del eje terrestre explica la sucesión de las estaciones del año?",
+    "options": [
+      "Su velocidad de rotación",
+      "Su distancia al Sol",
+      "Su inclinación",
+      "Su campo magnético"
+    ],
+    "correctIndex": 2,
+    "explanation": "La inclinación del eje terrestre hace que los hemisferios reciban luz solar de forma desigual a lo largo del año."
+  },
+  {
+    "id": "cg-1458",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cuánto tarda la Tierra en completar una rotación sobre su propio eje?",
+    "options": [
+      "Unas 12 horas",
+      "Unos 30 días",
+      "Unos 365 días",
+      "Unas 24 horas"
+    ],
+    "correctIndex": 3,
+    "explanation": "La rotación terrestre dura aproximadamente 23 horas y 56 minutos y define el día."
+  },
+  {
+    "id": "cg-1459",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la línea imaginaria que divide la Tierra en hemisferios norte y sur?",
+    "options": [
+      "Meridiano de Greenwich",
+      "Trópico de Cáncer",
+      "Eclíptica",
+      "Ecuador"
+    ],
+    "correctIndex": 3,
+    "explanation": "El ecuador es el paralelo de latitud cero y separa los dos hemisferios terrestres."
+  },
+  {
+    "id": "cg-1460",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué planeta es el astro de mayor brillo del cielo nocturno después de la Luna?",
+    "options": [
+      "Marte",
+      "Venus",
+      "Júpiter",
+      "Saturno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Venus es el planeta más brillante visto desde la Tierra y se aprecia cerca del horizonte al amanecer o al anochecer."
+  },
+  {
+    "id": "cg-1461",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llamó la estación espacial soviética que orbitó la Tierra entre 1986 y 2001?",
+    "options": [
+      "Salyut 1",
+      "Skylab",
+      "Tiangong",
+      "Mir"
+    ],
+    "correctIndex": 3,
+    "explanation": "La estación Mir acogió tripulaciones durante quince años y fue desorbitada en 2001."
+  },
+  {
+    "id": "cg-1462",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Quién fue el primer estadounidense en viajar al espacio, en 1961?",
+    "options": [
+      "John Glenn",
+      "Neil Armstrong",
+      "Alan Shepard",
+      "Gus Grissom"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alan Shepard realizó un vuelo suborbital a bordo de la Freedom 7 en mayo de 1961."
+  },
+  {
+    "id": "cg-1463",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el conjunto de prendas que protege a un astronauta fuera de la nave?",
+    "options": [
+      "Escafandra de buceo",
+      "Traje ignífugo",
+      "Traje espacial",
+      "Uniforme de vuelo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El traje espacial proporciona presión, oxígeno y protección térmica en el vacío."
+  },
+  {
+    "id": "cg-1464",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de telescopio capta ondas de radio procedentes del espacio?",
+    "options": [
+      "Refractor",
+      "Microscopio",
+      "Interferómetro óptico",
+      "Radiotelescopio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los radiotelescopios detectan emisiones de radio de púlsares, galaxias y nubes de gas."
+  },
+  {
+    "id": "cg-1465",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué constelación contiene a la estrella Vega?",
+    "options": [
+      "Cisne",
+      "Águila",
+      "Lyra",
+      "Hércules"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vega es la estrella más brillante de Lyra y forma parte del triángulo de verano."
+  },
+  {
+    "id": "cg-1466",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué constelación contiene a Sirio, la estrella de mayor brillo aparente del cielo nocturno?",
+    "options": [
+      "Can Menor",
+      "Orión",
+      "Can Mayor",
+      "Géminis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sirio, en el Can Mayor, es una estrella doble relativamente cercana a la Tierra."
+  },
+  {
+    "id": "cg-1467",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué constelación representa a un cisne que vuela por la Vía Láctea?",
+    "options": [
+      "Cygnus",
+      "Aquila",
+      "Pavo",
+      "Fénix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cygnus contiene la nebulosa Norteamérica y la estrella Deneb."
+  },
+  {
+    "id": "cg-1468",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el momento del año en que el día y la noche tienen duración casi igual en todo el planeta?",
+    "options": [
+      "Equinoccio",
+      "Solsticio",
+      "Perihelio",
+      "Afelio"
+    ],
+    "correctIndex": 0,
+    "explanation": "En los equinoccios el Sol se sitúa sobre el ecuador celeste y la duración del día y la noche se iguala."
+  },
+  {
+    "id": "cg-1469",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué fenómeno marca el día más largo del año en el hemisferio norte?",
+    "options": [
+      "Solsticio de junio",
+      "Solsticio de diciembre",
+      "Equinoccio de marzo",
+      "Equinoccio de septiembre"
+    ],
+    "correctIndex": 0,
+    "explanation": "En el solsticio de junio el polo norte terrestre se inclina hacia el Sol."
+  },
+  {
+    "id": "cg-1470",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la distancia media entre la Tierra y el Sol, usada como unidad en astronomía?",
+    "options": [
+      "Unidad astronómica",
+      "Año luz",
+      "Pársec",
+      "Radio solar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una unidad astronómica equivale a unos 150 millones de kilómetros."
+  },
+  {
+    "id": "cg-1471",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué significan las siglas NASA?",
+    "options": [
+      "Asociación Nacional de Astronomía y Satélites",
+      "Agencia Norteamericana de Sondeo Atmosférico",
+      "Núcleo de Astrofísica y Sistemas Aeroespaciales",
+      "Administración Nacional de Aeronáutica y del Espacio"
+    ],
+    "correctIndex": 3,
+    "explanation": "La NASA es la agencia espacial civil de Estados Unidos, fundada en 1958."
+  },
+  {
+    "id": "cg-1472",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la agencia espacial de Rusia?",
+    "options": [
+      "RKA Energia",
+      "Soyuz",
+      "Gagarin Center",
+      "Roscosmos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Roscosmos es la corporación estatal rusa responsable de las actividades espaciales."
+  },
+  {
+    "id": "cg-1473",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué país logró el primer aterrizaje en la cara oculta de la Luna con la misión Chang’e 4?",
+    "options": [
+      "China",
+      "Estados Unidos",
+      "Rusia",
+      "India"
+    ],
+    "correctIndex": 0,
+    "explanation": "La sonda china Chang’e 4 y el rover Yutu 2 llegaron a la cuenca Aitken en 2019."
+  },
+  {
+    "id": "cg-1474",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué vehículo usaron los astronautas del Apolo 15 para desplazarse por la superficie lunar?",
+    "options": [
+      "Módulo de mando",
+      "Tractor presurizado",
+      "Rover lunar",
+      "Globo sonda"
+    ],
+    "correctIndex": 2,
+    "explanation": "El rover lunar del Apolo 15 permitió recorrer distancias mayores y recoger más muestras."
+  },
+  {
+    "id": "cg-1475",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cuántas estrellas forman el cinturón de la constelación de Orión?",
+    "options": [
+      "Dos",
+      "Cuatro",
+      "Siete",
+      "Tres"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alnitak, Alnilam y Mintaka forman una línea reconocible en el centro de Orión."
+  },
+  {
+    "id": "cg-1476",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué planeta posee el campo magnético más intenso del sistema solar?",
+    "options": [
+      "La Tierra",
+      "Júpiter",
+      "Saturno",
+      "Neptuno"
+    ],
+    "correctIndex": 1,
+    "explanation": "El campo magnético de Júpiter es miles de veces más intenso que el terrestre y produce auroras gigantes."
+  },
+  {
+    "id": "cg-1477",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el punto del cielo situado directamente sobre la cabeza del observador?",
+    "options": [
+      "Nadir",
+      "Cenit",
+      "Horizonte",
+      "Eclíptica"
+    ],
+    "correctIndex": 1,
+    "explanation": "El cenit es el punto superior de la esfera celeste; el opuesto es el nadir."
+  },
+  {
+    "id": "cg-1478",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la línea aparente donde el cielo parece unirse con la superficie terrestre?",
+    "options": [
+      "Horizonte",
+      "Cenit",
+      "Meridiano",
+      "Ecuador celeste"
+    ],
+    "correctIndex": 0,
+    "explanation": "El horizonte delimita la parte visible del cielo desde un punto de observación."
+  },
+  {
+    "id": "cg-1479",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento mide la cantidad de luz que llega de una estrella?",
+    "options": [
+      "Fotómetro",
+      "Espectroscopio",
+      "Sismógrafo",
+      "Termómetro"
+    ],
+    "correctIndex": 0,
+    "explanation": "El fotómetro cuantifica el brillo y permite detectar tránsitos de exoplanetas."
+  },
+  {
+    "id": "cg-1480",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la nube de gas y polvo que rodea al núcleo de un cometa?",
+    "options": [
+      "Coma",
+      "Corona",
+      "Cromosfera",
+      "Aureola"
+    ],
+    "correctIndex": 0,
+    "explanation": "La coma se forma cuando el hielo del núcleo se sublima al acercarse al Sol."
+  },
+  {
+    "id": "cg-1481",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "easy",
+    "question": "¿Qué cuerpo rocoso orbita el Sol y se concentra sobre todo entre Marte y Júpiter?",
+    "options": [
+      "Cometa",
+      "Asteroide",
+      "Meteoro",
+      "Satélite natural"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los asteroides son restos rocosos de la formación del sistema solar."
+  },
+  {
+    "id": "cg-1482",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué planeta enano del cinturón de Kuiper tiene una masa mayor que la de Plutón?",
+    "options": [
+      "Ceres",
+      "Eris",
+      "Makemake",
+      "Haumea"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eris es más masivo que Plutón y su descubrimiento impulsó la redefinición de planeta en 2006."
+  },
+  {
+    "id": "cg-1483",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la nube esférica de cometas que se supone rodea el sistema solar a gran distancia?",
+    "options": [
+      "Nube de Oort",
+      "Cinturón de Kuiper",
+      "Cinturón de asteroides",
+      "Heliosfera"
+    ],
+    "correctIndex": 0,
+    "explanation": "La nube de Oort explicaría el origen de los cometas de periodo largo."
+  },
+  {
+    "id": "cg-1484",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué luna de Saturno presenta un enorme cráter de impacto llamado Herschel?",
+    "options": [
+      "Encélado",
+      "Mimas",
+      "Rea",
+      "Dione"
+    ],
+    "correctIndex": 1,
+    "explanation": "El cráter Herschel ocupa una gran parte del diámetro de Mimas y le da un aspecto similar a la Estrella de la Muerte."
+  },
+  {
+    "id": "cg-1485",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué luna de Júpiter, cubierta por una corteza helada, probablemente alberga un océano subsuperficial?",
+    "options": [
+      "Europa",
+      "Ío",
+      "Calisto",
+      "Amaltea"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las fracturas de la superficie de Europa sugieren un océano de agua líquida bajo el hielo."
+  },
+  {
+    "id": "cg-1486",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué proceso genera la energía del Sol en su núcleo?",
+    "options": [
+      "Fisión nuclear",
+      "Combustión química",
+      "Fusión nuclear",
+      "Desintegración radiactiva"
+    ],
+    "correctIndex": 2,
+    "explanation": "En el núcleo solar cuatro protones se fusionan para formar helio y liberar energía."
+  },
+  {
+    "id": "cg-1487",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la capa exterior del Sol visible como un halo durante un eclipse total?",
+    "options": [
+      "Corona",
+      "Fotosfera",
+      "Cromosfera",
+      "Zona convectiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "La corona solar se extiende millones de kilómetros y está mucho más caliente que la fotosfera."
+  },
+  {
+    "id": "cg-1488",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el ciclo de unos once años que regula la aparición de manchas y erupciones solares?",
+    "options": [
+      "Ciclo lunar",
+      "Ciclo de Milankovitch",
+      "Ciclo de las manchas lunares",
+      "Ciclo solar"
+    ],
+    "correctIndex": 3,
+    "explanation": "El ciclo solar alterna periodos de mayor y menor actividad magnética."
+  },
+  {
+    "id": "cg-1489",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de galaxia carece de brazos espirales definidos y suele tener aspecto desordenado?",
+    "options": [
+      "Espiral",
+      "Elíptica",
+      "Irregular",
+      "Lenticular"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las galaxias irregulares suelen ser ricas en gas y presentar formación estelar activa."
+  },
+  {
+    "id": "cg-1490",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la región central y más densa de una galaxia espiral?",
+    "options": [
+      "Halo",
+      "Bulbo galáctico",
+      "Disco",
+      "Brazo espiral"
+    ],
+    "correctIndex": 1,
+    "explanation": "El bulbo concentra estrellas antiguas y suele albergar un agujero negro supermasivo."
+  },
+  {
+    "id": "cg-1491",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué es un agujero negro supermasivo?",
+    "options": [
+      "Una estrella que ha agotado su hidrógeno",
+      "Un agujero negro de millones de masas solares en el centro de una galaxia",
+      "Un cúmulo de estrellas muy jóvenes",
+      "Una nube de gas sin gravedad propia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los agujeros negros supermasivos ocupan el centro de la mayoría de las galaxias grandes."
+  },
+  {
+    "id": "cg-1492",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué planeta completa una rotación sobre su eje en menos de diez horas?",
+    "options": [
+      "Saturno",
+      "Júpiter",
+      "Neptuno",
+      "La Tierra"
+    ],
+    "correctIndex": 1,
+    "explanation": "Júpiter gira muy rápido y su día dura apenas unas 9 horas y 55 minutos."
+  },
+  {
+    "id": "cg-1493",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cuál es la luna de Urano de mayor tamaño?",
+    "options": [
+      "Oberón",
+      "Ariel",
+      "Miranda",
+      "Titania"
+    ],
+    "correctIndex": 3,
+    "explanation": "Titania tiene unos 1.600 kilómetros de diámetro y está cubierta de hielos y cráteres."
+  },
+  {
+    "id": "cg-1494",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué condición debe cumplir un cuerpo celeste para ser clasificado como planeta y no como planeta enano?",
+    "options": [
+      "Tener al menos una luna",
+      "Poseer una atmósfera densa",
+      "Girar en sentido retrógrado",
+      "Haber despejado su vecindad orbital"
+    ],
+    "correctIndex": 3,
+    "explanation": "La UAI exige orbitar el Sol, tener forma casi esférica y dominar su región orbital."
+  },
+  {
+    "id": "cg-1495",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la región alrededor de una estrella donde podría existir agua líquida en un planeta?",
+    "options": [
+      "Zona de radiación",
+      "Cinturón de asteroides",
+      "Zona habitable",
+      "Heliopausa"
+    ],
+    "correctIndex": 2,
+    "explanation": "La zona habitable depende de la temperatura de la estrella y de la distancia del planeta."
+  },
+  {
+    "id": "cg-1496",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué método detecta exoplanetas midiendo los cambios en la velocidad de una estrella por efecto Doppler?",
+    "options": [
+      "Tránsito",
+      "Velocidad radial",
+      "Microlente",
+      "Imagen directa"
+    ],
+    "correctIndex": 1,
+    "explanation": "La velocidad radial revela el tirón gravitatorio que ejerce un planeta sobre su estrella."
+  },
+  {
+    "id": "cg-1497",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué sonda de la ESA orbitó Venus entre 2006 y 2014?",
+    "options": [
+      "Magallanes",
+      "Akatsuki",
+      "Venera 9",
+      "Venus Express"
+    ],
+    "correctIndex": 3,
+    "explanation": "Venus Express estudió la atmósfera y la superficie venusinas desde una órbita polar."
+  },
+  {
+    "id": "cg-1498",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué sonda de la NASA sobrevoló Mercurio varias veces en los años setenta?",
+    "options": [
+      "MESSENGER",
+      "Mariner 10",
+      "Pioneer 10",
+      "Viking 1"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mariner 10 utilizó la gravedad de Venus para acercarse a Mercurio en 1974 y 1975."
+  },
+  {
+    "id": "cg-1499",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué sonda europea se aproximó al cometa Halley en 1986?",
+    "options": [
+      "Rosetta",
+      "Vega 1",
+      "Stardust",
+      "Giotto"
+    ],
+    "correctIndex": 3,
+    "explanation": "Giotto pasó a unos 600 kilómetros del núcleo y envió las primeras imágenes cercanas de un cometa."
+  },
+  {
+    "id": "cg-1500",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué astronauta estadounidense orbitó la Tierra en 1962?",
+    "options": [
+      "Alan Shepard",
+      "Scott Carpenter",
+      "John Glenn",
+      "Gus Grissom"
+    ],
+    "correctIndex": 2,
+    "explanation": "John Glenn completó tres órbitas a bordo de la Friendship 7 en febrero de 1962."
+  },
+  {
+    "id": "cg-1501",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué astronauta estadounidense participó en la misión STS-41-G y caminó en el espacio en 1984?",
+    "options": [
+      "Sally Ride",
+      "Mae Jemison",
+      "Kathryn Sullivan",
+      "Judith Resnik"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kathryn Sullivan realizó una actividad extravehicular durante la misión STS-41-G."
+  },
+  {
+    "id": "cg-1502",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué astronauta canadiense fue comandante de la Estación Espacial Internacional en 2013 y divulgó la vida en órbita?",
+    "options": [
+      "Marc Garneau",
+      "Chris Hadfield",
+      "Roberta Bondar",
+      "Julie Payette"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chris Hadfield grabó videos y canciones desde la ISS que alcanzaron gran difusión."
+  },
+  {
+    "id": "cg-1503",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué astronauta mexicano voló en el transbordador Atlantis en 1985?",
+    "options": [
+      "Franklin Chang-Díaz",
+      "Ellen Ochoa",
+      "Rodolfo Neri Vela",
+      "José Hernández"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rodolfo Neri Vela fue el primer astronauta nacido en México en viajar al espacio."
+  },
+  {
+    "id": "cg-1504",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué mujer británica viajó a la estación Mir en 1991?",
+    "options": [
+      "Sarah Brightman",
+      "Susan Helms",
+      "Helen Clark",
+      "Helen Sharman"
+    ],
+    "correctIndex": 3,
+    "explanation": "Helen Sharman fue la primera persona británica en el espacio tras responder a un anuncio privado."
+  },
+  {
+    "id": "cg-1505",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué radiotelescopio de 100 metros de diámetro se encuentra en Green Bank, Virginia Occidental?",
+    "options": [
+      "Arecibo",
+      "Parkes",
+      "Effelsberg",
+      "Green Bank Telescope"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Green Bank Telescope es uno de los mayores radiotelescopios orientables del mundo."
+  },
+  {
+    "id": "cg-1506",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué planeta enano del cinturón de Kuiper tiene dos lunas llamadas Hi’iaka y Namaka?",
+    "options": [
+      "Eris",
+      "Makemake",
+      "Plutón",
+      "Haumea"
+    ],
+    "correctIndex": 3,
+    "explanation": "Haumea destaca por su forma alargada y su rápida rotación de menos de cuatro horas."
+  },
+  {
+    "id": "cg-1507",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "medium",
+    "question": "¿Qué observatorio de ondas gravitacionales, situado cerca de Pisa, colabora con LIGO?",
+    "options": [
+      "KAGRA",
+      "GEO600",
+      "LISA",
+      "Virgo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Virgo es un interferómetro europeo que permite localizar mejor las fuentes de ondas gravitacionales."
+  },
+  {
+    "id": "cg-1508",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué misión de la NASA trajo a la Tierra muestras de polvo del cometa Wild 2 en 2006?",
+    "options": [
+      "Genesis",
+      "Deep Impact",
+      "Stardust",
+      "Rosetta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Stardust capturó partículas cometarias con aerogel y las devolvió en una cápsula."
+  },
+  {
+    "id": "cg-1509",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué misión de la NASA devolvió muestras de viento solar en 2004?",
+    "options": [
+      "Stardust",
+      "Genesis",
+      "Wind",
+      "Ulysses"
+    ],
+    "correctIndex": 1,
+    "explanation": "Genesis recogió partículas del viento solar, aunque su cápsula sufrió un fallo en el descenso."
+  },
+  {
+    "id": "cg-1510",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué observatorio de neutrinos instalado en el hielo del polo sur detecta partículas cósmicas de alta energía?",
+    "options": [
+      "Super-Kamiokande",
+      "IceCube",
+      "Soudan Mine",
+      "ANTARES"
+    ],
+    "correctIndex": 1,
+    "explanation": "IceCube usa un kilómetro cúbico de hielo antártico como detector de neutrinos."
+  },
+  {
+    "id": "cg-1511",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué observatorio de rayos cósmicos de unos 3.000 kilómetros cuadrados opera en Mendoza, Argentina?",
+    "options": [
+      "IceCube",
+      "Pierre Auger",
+      "Cherenkov Telescope Array",
+      "Milagro"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Observatorio Pierre Auger estudia los rayos cósmicos de mayor energía desde el hemisferio sur."
+  },
+  {
+    "id": "cg-1512",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué observatorio de rayos gamma lanzó la ESA en 2002 para estudiar agujeros negros y supernovas?",
+    "options": [
+      "Fermi",
+      "Swift",
+      "Integral",
+      "XMM-Newton"
+    ],
+    "correctIndex": 2,
+    "explanation": "Integral combina imágenes y espectroscopia en rayos gamma, rayos X y luz visible."
+  },
+  {
+    "id": "cg-1513",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué telescopio solar de 4 metros, inaugurado en 2020 en Hawái, estudia la corona y el campo magnético del Sol?",
+    "options": [
+      "GREGOR",
+      "Daniel K. Inouye",
+      "CLASP",
+      "Solar Orbiter"
+    ],
+    "correctIndex": 1,
+    "explanation": "El telescopio Daniel K. Inouye, en Haleakalā, es el mayor telescopio solar del mundo."
+  },
+  {
+    "id": "cg-1514",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué sonda japonesa estudió la atmósfera de Venus desde la órbita a partir de 2015?",
+    "options": [
+      "Venus Express",
+      "Akatsuki",
+      "Magallanes",
+      "Venera 15"
+    ],
+    "correctIndex": 1,
+    "explanation": "Akatsuki, también llamada Venus Climate Orbiter, analiza la dinámica de las nubes venusinas."
+  },
+  {
+    "id": "cg-1515",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué cosmonauta ruso permaneció 437 días consecutivos a bordo de la estación Mir?",
+    "options": [
+      "Sergei Krikalev",
+      "Valeri Polyakov",
+      "Musa Manarov",
+      "Anatoly Solovyev"
+    ],
+    "correctIndex": 1,
+    "explanation": "Valeri Polyakov completó el vuelo espacial más largo registrado entre 1994 y 1995."
+  },
+  {
+    "id": "cg-1516",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué astronauta de Alemania Oriental viajó al espacio en 1978?",
+    "options": [
+      "Sigmund Jähn",
+      "Ulf Merbold",
+      "Klaus-Dietrich Flade",
+      "Reinhold Ewald"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sigmund Jähn voló en la nave soviética Soyuz 31 hacia la estación Salyut 6."
+  },
+  {
+    "id": "cg-1517",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué astronauta de los Emiratos Árabes Unidos llegó a la Estación Espacial Internacional en 2019?",
+    "options": [
+      "Sultan Al Neyadi",
+      "Mohammed Al Mulla",
+      "Nora Al Matrooshi",
+      "Hazza Al Mansouri"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hazza Al Mansouri pasó ocho días en la ISS y realizó experimentos científicos."
+  },
+  {
+    "id": "cg-1518",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué astrónomo británico descubrió el planeta Urano en 1781?",
+    "options": [
+      "John Herschel",
+      "Edmond Halley",
+      "William Herschel",
+      "James Bradley"
+    ],
+    "correctIndex": 2,
+    "explanation": "William Herschel identificó Urano con un telescopio reflector construido por él mismo."
+  },
+  {
+    "id": "cg-1519",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué astrónoma, hermana de William Herschel, descubrió varios cometas en el siglo XVIII?",
+    "options": [
+      "Mary Somerville",
+      "Caroline Herschel",
+      "Annie Jump Cannon",
+      "Margaret Huggins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Caroline Herschel descubrió ocho cometas y colaboró en los catálogos estelares de su hermano."
+  },
+  {
+    "id": "cg-1520",
+    "category": "general",
+    "topic": "astronomy",
+    "difficulty": "hard",
+    "question": "¿Qué astrónomo estadounidense descubrió en 1877 las dos lunas de Marte?",
+    "options": [
+      "Percival Lowell",
+      "Giovanni Schiaparelli",
+      "William Pickering",
+      "Asaph Hall"
+    ],
+    "correctIndex": 3,
+    "explanation": "Asaph Hall identificó Fobos y Deimos desde el Observatorio Naval de Estados Unidos."
+  }
+]

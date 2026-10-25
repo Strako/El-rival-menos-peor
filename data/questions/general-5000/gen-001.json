@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-1001",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad de fuerza en el Sistema Internacional?",
+    "options": [
+      "julio",
+      "vatio",
+      "pascal",
+      "newton"
+    ],
+    "correctIndex": 3,
+    "explanation": "El newton (N) es la unidad SI de fuerza; equivale a la fuerza que acelera 1 kg a 1 m/s²."
+  },
+  {
+    "id": "cg-1002",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué unidad del Sistema Internacional se emplea para medir la potencia?",
+    "options": [
+      "newton",
+      "julio",
+      "vatio",
+      "culombio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El vatio (W) mide potencia y equivale a un julio por segundo."
+  },
+  {
+    "id": "cg-1003",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué unidad mide la energía y el trabajo en el Sistema Internacional?",
+    "options": [
+      "vatio",
+      "julio",
+      "newton",
+      "amperio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El julio (J) es la unidad SI de energía y de trabajo."
+  },
+  {
+    "id": "cg-1004",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué unidad se emplea para medir la frecuencia de una onda?",
+    "options": [
+      "segundo",
+      "newton",
+      "hercio",
+      "decibelio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El hercio (Hz) equivale a un ciclo o vibración por segundo."
+  },
+  {
+    "id": "cg-1005",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la energía que se transfiere entre cuerpos por una diferencia de temperatura?",
+    "options": [
+      "trabajo",
+      "calor",
+      "potencia",
+      "entropía"
+    ],
+    "correctIndex": 1,
+    "explanation": "El calor es energía en tránsito debido a una diferencia de temperatura."
+  },
+  {
+    "id": "cg-1006",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento mide la intensidad de la corriente eléctrica?",
+    "options": [
+      "voltímetro",
+      "óhmetro",
+      "amperímetro",
+      "barómetro"
+    ],
+    "correctIndex": 2,
+    "explanation": "El amperímetro se conecta en serie y mide la corriente en amperios."
+  },
+  {
+    "id": "cg-1007",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento sirve para medir la presión atmosférica?",
+    "options": [
+      "termómetro",
+      "dinamómetro",
+      "amperímetro",
+      "barómetro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El barómetro mide la presión del aire, por ejemplo con una columna de mercurio."
+  },
+  {
+    "id": "cg-1008",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la velocidad aproximada de la luz en el vacío?",
+    "options": [
+      "300 000 m/s",
+      "3 000 km/s",
+      "30 000 km/s",
+      "300 000 km/s"
+    ],
+    "correctIndex": 3,
+    "explanation": "La luz viaja en el vacío a unos 299 792 kilómetros por segundo."
+  },
+  {
+    "id": "cg-1009",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?",
+    "options": [
+      "el magnetismo",
+      "la fuerza nuclear fuerte",
+      "el rozamiento",
+      "la gravedad"
+    ],
+    "correctIndex": 3,
+    "explanation": "La gravitación actúa como fuerza centrípeta que curva la trayectoria de los planetas."
+  },
+  {
+    "id": "cg-1010",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cuál de las leyes de Newton se resume en la ecuación F = m·a?",
+    "options": [
+      "la primera ley",
+      "la tercera ley",
+      "la ley de Hooke",
+      "la segunda ley"
+    ],
+    "correctIndex": 3,
+    "explanation": "La segunda ley de Newton relaciona la fuerza neta con la masa y la aceleración."
+  },
+  {
+    "id": "cg-1011",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué científico inglés formuló las tres leyes básicas del movimiento?",
+    "options": [
+      "Galileo Galilei",
+      "Michael Faraday",
+      "Isaac Newton",
+      "James Clerk Maxwell"
+    ],
+    "correctIndex": 2,
+    "explanation": "Isaac Newton publicó sus leyes del movimiento en la obra Principia, en 1687."
+  },
+  {
+    "id": "cg-1012",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿En qué año publicó Albert Einstein la teoría especial de la relatividad?",
+    "options": [
+      "1687",
+      "1915",
+      "1927",
+      "1905"
+    ],
+    "correctIndex": 3,
+    "explanation": "Einstein presentó la relatividad especial en 1905; la general llegó en 1915."
+  },
+  {
+    "id": "cg-1013",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad de carga eléctrica en el Sistema Internacional?",
+    "options": [
+      "amperio",
+      "voltio",
+      "culombio",
+      "ohmio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El culombio (C) es la unidad SI de carga eléctrica."
+  },
+  {
+    "id": "cg-1014",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el material que conduce mal la electricidad?",
+    "options": [
+      "conductor",
+      "semiconductor",
+      "aislante",
+      "superconductor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un aislante ofrece alta resistencia al paso de la corriente eléctrica."
+  },
+  {
+    "id": "cg-1015",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué partícula subatómica tiene carga eléctrica negativa?",
+    "options": [
+      "electrón",
+      "protón",
+      "neutrón",
+      "fotón"
+    ],
+    "correctIndex": 0,
+    "explanation": "El electrón posee carga negativa y una masa muy pequeña comparada con la del protón."
+  },
+  {
+    "id": "cg-1016",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué partícula del núcleo atómico carece de carga eléctrica?",
+    "options": [
+      "protón",
+      "neutrón",
+      "electrón",
+      "positrón"
+    ],
+    "correctIndex": 1,
+    "explanation": "El neutrón tiene masa similar a la del protón, pero no tiene carga neta."
+  },
+  {
+    "id": "cg-1017",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de onda es el sonido que se propaga en el aire?",
+    "options": [
+      "una onda mecánica longitudinal",
+      "una onda electromagnética transversal",
+      "una onda gravitacional",
+      "una onda de radio estacionaria"
+    ],
+    "correctIndex": 0,
+    "explanation": "El sonido necesita un medio material y en el aire oscila en la dirección de propagación."
+  },
+  {
+    "id": "cg-1018",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿En qué medio no se propaga el sonido?",
+    "options": [
+      "en el agua",
+      "en el acero",
+      "en el vacío",
+      "en el aire"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sin partículas materiales que vibren, no hay transmisión de sonido."
+  },
+  {
+    "id": "cg-1019",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué fenómeno separa la luz blanca en colores al atravesar un prisma?",
+    "options": [
+      "la dispersión",
+      "la reflexión total",
+      "la difracción",
+      "la polarización"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cada color se refracta con un índice distinto y el prisma los separa."
+  },
+  {
+    "id": "cg-1020",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué color de la luz visible posee una longitud de onda cercana a 700 nanómetros?",
+    "options": [
+      "azul",
+      "verde",
+      "rojo",
+      "violeta"
+    ],
+    "correctIndex": 2,
+    "explanation": "El rojo ocupa el extremo de longitudes de onda largas del espectro visible."
+  },
+  {
+    "id": "cg-1021",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad de resistencia eléctrica?",
+    "options": [
+      "voltio",
+      "amperio",
+      "vatio",
+      "ohmio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El ohmio (Ω) mide la oposición al paso de la corriente eléctrica."
+  },
+  {
+    "id": "cg-1022",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad de tensión o diferencia de potencial?",
+    "options": [
+      "ohmio",
+      "culombio",
+      "julio",
+      "voltio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El voltio (V) mide la diferencia de potencial entre dos puntos de un circuito."
+  },
+  {
+    "id": "cg-1023",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué ley establece que la corriente es proporcional a la tensión en un conductor óhmico?",
+    "options": [
+      "la ley de Faraday",
+      "la ley de Ohm",
+      "la ley de Coulomb",
+      "la ley de Joule"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ley de Ohm se expresa como V = I·R para una resistencia constante."
+  },
+  {
+    "id": "cg-1024",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué físico danés propuso un modelo atómico con órbitas electrónicas cuantizadas?",
+    "options": [
+      "Ernest Rutherford",
+      "Joseph John Thomson",
+      "John Dalton",
+      "Niels Bohr"
+    ],
+    "correctIndex": 3,
+    "explanation": "El modelo de Bohr, de 1913, explicaba las líneas espectrales del hidrógeno."
+  },
+  {
+    "id": "cg-1025",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué símbolo representa la velocidad de la luz en la ecuación E = mc²?",
+    "options": [
+      "e",
+      "m",
+      "c",
+      "h"
+    ],
+    "correctIndex": 2,
+    "explanation": "En la ecuación de Einstein, c es la velocidad de la luz en el vacío."
+  },
+  {
+    "id": "cg-1026",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué estado de la materia tiene forma y volumen propios?",
+    "options": [
+      "líquido",
+      "gaseoso",
+      "plasma",
+      "sólido"
+    ],
+    "correctIndex": 3,
+    "explanation": "En un sólido las partículas mantienen posiciones relativamente fijas."
+  },
+  {
+    "id": "cg-1027",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la transferencia de calor entre cuerpos en contacto directo?",
+    "options": [
+      "convección",
+      "radiación",
+      "conducción",
+      "sublimación"
+    ],
+    "correctIndex": 2,
+    "explanation": "En la conducción la energía pasa de partícula a partícula sin transporte de materia."
+  },
+  {
+    "id": "cg-1028",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la transferencia de calor por el movimiento de un fluido?",
+    "options": [
+      "conducción",
+      "radiación",
+      "sublimación",
+      "convección"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las corrientes de líquidos o gases transportan calor en la convección."
+  },
+  {
+    "id": "cg-1029",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué forma de transferencia de calor no requiere un medio material?",
+    "options": [
+      "radiación",
+      "conducción",
+      "convección",
+      "ebullición"
+    ],
+    "correctIndex": 0,
+    "explanation": "La radiación se propaga mediante ondas electromagnéticas, también en el vacío."
+  },
+  {
+    "id": "cg-1030",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿A qué temperatura hierve el agua a presión atmosférica normal?",
+    "options": [
+      "0 °C",
+      "50 °C",
+      "212 °C",
+      "100 °C"
+    ],
+    "correctIndex": 3,
+    "explanation": "A una atmósfera de presión, el agua pasa a vapor a 100 grados Celsius."
+  },
+  {
+    "id": "cg-1031",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿A qué temperatura se congela el agua a una atmósfera de presión?",
+    "options": [
+      "0 °C",
+      "100 °C",
+      "-50 °C",
+      "32 °C"
+    ],
+    "correctIndex": 0,
+    "explanation": "El punto de fusión del hielo a una atmósfera es de 0 grados Celsius."
+  },
+  {
+    "id": "cg-1032",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿A cuántos grados Celsius equivale el cero absoluto?",
+    "options": [
+      "0 °C",
+      "100 °C",
+      "-459,67 °C",
+      "-273,15 °C"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cero absoluto corresponde a 0 kelvin, es decir, -273,15 grados Celsius."
+  },
+  {
+    "id": "cg-1033",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué escala de temperatura sitúa su cero en el cero absoluto?",
+    "options": [
+      "Celsius",
+      "kelvin",
+      "Fahrenheit",
+      "Réaumur"
+    ],
+    "correctIndex": 1,
+    "explanation": "La escala kelvin es una escala absoluta usada en ciencia."
+  },
+  {
+    "id": "cg-1034",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué principio establece que la energía no se crea ni se destruye, solo se transforma?",
+    "options": [
+      "el principio de Arquímedes",
+      "la ley de Ohm",
+      "el principio de Pascal",
+      "la conservación de la energía"
+    ],
+    "correctIndex": 3,
+    "explanation": "Es uno de los principios básicos de la física y de la termodinámica."
+  },
+  {
+    "id": "cg-1035",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué magnitud mide el desorden o la dispersión de energía en un sistema?",
+    "options": [
+      "la entalpía",
+      "la entropía",
+      "la temperatura",
+      "la presión"
+    ],
+    "correctIndex": 1,
+    "explanation": "La entropía tiende a aumentar en procesos espontáneos de sistemas aislados."
+  },
+  {
+    "id": "cg-1036",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué ocurre al acercar el polo norte de un imán al polo norte de otro?",
+    "options": [
+      "se repelen",
+      "se atraen",
+      "no interactúan",
+      "pierden el magnetismo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los polos magnéticos del mismo nombre se repelen y los opuestos se atraen."
+  },
+  {
+    "id": "cg-1037",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué produce un campo magnético según el electromagnetismo?",
+    "options": [
+      "las cargas eléctricas en movimiento",
+      "las cargas eléctricas en reposo",
+      "la masa en reposo",
+      "los neutrones libres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una corriente eléctrica, es decir, cargas en movimiento, genera un campo magnético."
+  },
+  {
+    "id": "cg-1038",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué observó Hans Christian Ørsted al acercar una brújula a un conductor con corriente?",
+    "options": [
+      "que el conductor se fundía",
+      "que la aguja magnética se desviaba",
+      "que la brújula perdía su magnetismo",
+      "que aparecía una chispa luminosa"
+    ],
+    "correctIndex": 1,
+    "explanation": "En 1820 Ørsted descubrió la relación entre electricidad y magnetismo."
+  },
+  {
+    "id": "cg-1039",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué científico inglés descubrió la inducción electromagnética?",
+    "options": [
+      "Charles-Augustin de Coulomb",
+      "André-Marie Ampère",
+      "Michael Faraday",
+      "Alessandro Volta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Faraday demostró en 1831 que un campo magnético variable induce corriente."
+  },
+  {
+    "id": "cg-1040",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué elemento óptico hace converger los rayos paralelos en un punto?",
+    "options": [
+      "una lente convergente",
+      "una lente divergente",
+      "un espejo convexo",
+      "un prisma dispersor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una lente convergente, más gruesa en el centro, enfoca los rayos paralelos."
+  },
+  {
+    "id": "cg-1041",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué defecto visual se corrige con lentes divergentes?",
+    "options": [
+      "la hipermetropía",
+      "la presbicia",
+      "el daltonismo",
+      "la miopía"
+    ],
+    "correctIndex": 3,
+    "explanation": "La miopía se corrige con lentes que alejan el punto focal de la retina."
+  },
+  {
+    "id": "cg-1042",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué fenómeno produce los colores del arcoíris?",
+    "options": [
+      "la reflexión en las nubes",
+      "la refracción y dispersión en gotas de agua",
+      "la difracción en el aire seco",
+      "la emisión de luz del vapor de agua"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las gotas de agua refractan, dispersan y reflejan la luz solar."
+  },
+  {
+    "id": "cg-1043",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el cambio de dirección de la luz al chocar con una superficie?",
+    "options": [
+      "refracción",
+      "difracción",
+      "absorción",
+      "reflexión"
+    ],
+    "correctIndex": 3,
+    "explanation": "En la reflexión el rayo vuelve al medio del que procedía."
+  },
+  {
+    "id": "cg-1044",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué establece la ley de reflexión?",
+    "options": [
+      "que el ángulo de incidencia es siempre mayor",
+      "que los rayos reflejados son perpendiculares",
+      "que la luz se dispersa al reflejarse",
+      "que el ángulo de incidencia es igual al de reflexión"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los ángulos se miden respecto a la normal a la superficie."
+  },
+  {
+    "id": "cg-1045",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el cambio de velocidad y dirección de la luz al pasar de un medio a otro?",
+    "options": [
+      "reflexión",
+      "interferencia",
+      "refracción",
+      "difracción"
+    ],
+    "correctIndex": 2,
+    "explanation": "La refracción se debe al cambio de velocidad de la luz entre medios distintos."
+  },
+  {
+    "id": "cg-1046",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué unidad se usa para medir la intensidad del sonido?",
+    "options": [
+      "decibelio",
+      "hercio",
+      "vatio",
+      "pascal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El decibelio es una unidad logarítmica de nivel de intensidad sonora."
+  },
+  {
+    "id": "cg-1047",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿De qué propiedad del sonido depende su tono?",
+    "options": [
+      "de la amplitud",
+      "de la frecuencia",
+      "del timbre",
+      "de la distancia"
+    ],
+    "correctIndex": 1,
+    "explanation": "A mayor frecuencia, el sonido percibido es más agudo."
+  },
+  {
+    "id": "cg-1048",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿De qué propiedad del sonido depende su intensidad o volumen?",
+    "options": [
+      "de la frecuencia",
+      "del timbre",
+      "de la fase",
+      "de la amplitud"
+    ],
+    "correctIndex": 3,
+    "explanation": "Una mayor amplitud de la onda corresponde a un sonido más intenso."
+  },
+  {
+    "id": "cg-1049",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el fenómeno de escuchar un sonido reflejado con retraso?",
+    "options": [
+      "resonancia",
+      "eco",
+      "interferencia",
+      "difracción"
+    ],
+    "correctIndex": 1,
+    "explanation": "El eco se produce cuando el sonido reflejado llega después del original."
+  },
+  {
+    "id": "cg-1050",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué frecuencia supera el límite superior de audición humana?",
+    "options": [
+      "20 Hz",
+      "20 kHz",
+      "200 Hz",
+      "2 kHz"
+    ],
+    "correctIndex": 1,
+    "explanation": "El oído humano suele percibir frecuencias entre 20 Hz y 20 kHz."
+  },
+  {
+    "id": "cg-1051",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué animal emplea la ecolocalización con ultrasonidos?",
+    "options": [
+      "el murciélago",
+      "el caballo",
+      "la jirafa",
+      "el pingüino"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los murciélagos emiten ultrasonidos y analizan el eco para orientarse."
+  },
+  {
+    "id": "cg-1052",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué científico italiano estudió la caída de los cuerpos y el péndulo?",
+    "options": [
+      "Isaac Newton",
+      "Johannes Kepler",
+      "Galileo Galilei",
+      "Evangelista Torricelli"
+    ],
+    "correctIndex": 2,
+    "explanation": "Galileo realizó experimentos sobre el movimiento en el siglo XVII."
+  },
+  {
+    "id": "cg-1053",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué ley describe la atracción entre dos masas?",
+    "options": [
+      "la ley de Hooke",
+      "la ley de Coulomb",
+      "la ley de Ohm",
+      "la ley de gravitación universal"
+    ],
+    "correctIndex": 3,
+    "explanation": "Newton formuló que la atracción es proporcional a las masas e inversa al cuadrado de la distancia."
+  },
+  {
+    "id": "cg-1054",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la tendencia de un cuerpo a mantener su estado de reposo o movimiento?",
+    "options": [
+      "impulso",
+      "momento",
+      "fricción",
+      "inercia"
+    ],
+    "correctIndex": 3,
+    "explanation": "La inercia es la resistencia al cambio de movimiento y se relaciona con la masa."
+  },
+  {
+    "id": "cg-1055",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad básica de masa en el Sistema Internacional?",
+    "options": [
+      "gramo",
+      "kilogramo",
+      "newton",
+      "libra"
+    ],
+    "correctIndex": 1,
+    "explanation": "El kilogramo (kg) es una de las unidades básicas del SI."
+  },
+  {
+    "id": "cg-1056",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad básica de longitud en el Sistema Internacional?",
+    "options": [
+      "kilómetro",
+      "centímetro",
+      "metro",
+      "milla"
+    ],
+    "correctIndex": 2,
+    "explanation": "El metro (m) es la unidad básica de longitud del SI."
+  },
+  {
+    "id": "cg-1057",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad básica de tiempo en el Sistema Internacional?",
+    "options": [
+      "segundo",
+      "minuto",
+      "hora",
+      "hercio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El segundo (s) es la unidad básica de tiempo del SI."
+  },
+  {
+    "id": "cg-1058",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué magnitud indica un velocímetro?",
+    "options": [
+      "la aceleración",
+      "la rapidez",
+      "la fuerza",
+      "la distancia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un velocímetro muestra la rapidez, normalmente en kilómetros por hora."
+  },
+  {
+    "id": "cg-1059",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cuál es el valor aproximado de la aceleración de la gravedad en la superficie terrestre?",
+    "options": [
+      "1,8 m/s²",
+      "98 m/s²",
+      "0,98 m/s²",
+      "9,8 m/s²"
+    ],
+    "correctIndex": 3,
+    "explanation": "La aceleración gravitatoria media en la superficie terrestre es de unos 9,8 metros por segundo al cuadrado."
+  },
+  {
+    "id": "cg-1060",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué energía posee un cuerpo por el hecho de moverse?",
+    "options": [
+      "energía potencial gravitatoria",
+      "energía elástica",
+      "energía cinética",
+      "energía térmica"
+    ],
+    "correctIndex": 2,
+    "explanation": "La energía cinética depende de la masa y del cuadrado de la velocidad."
+  },
+  {
+    "id": "cg-1061",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué energía almacena un resorte comprimido?",
+    "options": [
+      "energía cinética",
+      "energía nuclear",
+      "energía potencial elástica",
+      "energía química"
+    ],
+    "correctIndex": 2,
+    "explanation": "La deformación de un resorte almacena energía potencial elástica."
+  },
+  {
+    "id": "cg-1062",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué dispositivo convierte energía mecánica en energía eléctrica?",
+    "options": [
+      "un motor",
+      "un generador",
+      "un transformador",
+      "una batería"
+    ],
+    "correctIndex": 1,
+    "explanation": "El generador aprovecha la inducción electromagnética para producir corriente."
+  },
+  {
+    "id": "cg-1063",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué aparato aprovecha la fuerza magnética sobre conductores con corriente para producir giro?",
+    "options": [
+      "un generador",
+      "un transformador",
+      "una batería",
+      "un motor eléctrico"
+    ],
+    "correctIndex": 3,
+    "explanation": "El motor eléctrico usa la fuerza sobre conductores con corriente para girar."
+  },
+  {
+    "id": "cg-1064",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué componente de un circuito almacena carga eléctrica?",
+    "options": [
+      "una resistencia",
+      "un condensador",
+      "una bobina",
+      "un diodo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El condensador acumula carga en dos placas separadas por un dieléctrico."
+  },
+  {
+    "id": "cg-1065",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué material se usa habitualmente en los cables por su buena conductividad?",
+    "options": [
+      "cobre",
+      "vidrio",
+      "caucho",
+      "madera"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cobre tiene baja resistividad y es dúctil, por eso se usa en conductores."
+  },
+  {
+    "id": "cg-1066",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cómo se conectan los componentes de un circuito en serie?",
+    "options": [
+      "en trayectorias paralelas",
+      "en una sola trayectoria",
+      "en estrella",
+      "sin conexión entre ellos"
+    ],
+    "correctIndex": 1,
+    "explanation": "En serie la misma corriente atraviesa todos los componentes."
+  },
+  {
+    "id": "cg-1067",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué ocurre con la corriente total en un circuito en paralelo?",
+    "options": [
+      "se anula por completo",
+      "se reparte entre las ramas",
+      "se duplica en cada rama",
+      "circula solo por la primera rama"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cada rama recibe parte de la corriente total según su resistencia."
+  },
+  {
+    "id": "cg-1068",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué dispositivo interrumpe el circuito cuando la corriente es excesiva?",
+    "options": [
+      "un fusible",
+      "un condensador",
+      "una bobina",
+      "un diodo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El fusible se funde y abre el circuito para protegerlo de sobrecargas."
+  },
+  {
+    "id": "cg-1069",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué caracteriza a la corriente alterna?",
+    "options": [
+      "mantiene siempre el mismo sentido",
+      "no tiene tensión eléctrica",
+      "solo existe en las pilas",
+      "cambia de sentido periódicamente"
+    ],
+    "correctIndex": 3,
+    "explanation": "La corriente alterna varía su sentido con una frecuencia determinada."
+  },
+  {
+    "id": "cg-1070",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué científico estadounidense demostró con una cometa que los rayos son electricidad?",
+    "options": [
+      "Benjamin Franklin",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Graham Bell"
+    ],
+    "correctIndex": 0,
+    "explanation": "El experimento de la cometa se atribuye a Franklin en el siglo XVIII."
+  },
+  {
+    "id": "cg-1071",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué es un rayo?",
+    "options": [
+      "una onda de sonido",
+      "una emisión de luz solar",
+      "una descarga eléctrica atmosférica",
+      "una corriente de agua"
+    ],
+    "correctIndex": 2,
+    "explanation": "El rayo es una descarga entre nubes o entre una nube y el suelo."
+  },
+  {
+    "id": "cg-1072",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué naturaleza tiene la luz según la teoría electromagnética de Maxwell?",
+    "options": [
+      "una onda mecánica",
+      "una corriente de partículas con masa",
+      "una onda electromagnética",
+      "un fluido imponderable"
+    ],
+    "correctIndex": 2,
+    "explanation": "Maxwell unificó electricidad y magnetismo y describió la luz como onda electromagnética."
+  },
+  {
+    "id": "cg-1073",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de radiación son los rayos X?",
+    "options": [
+      "mecánica",
+      "electromagnética",
+      "sonora",
+      "gravitacional"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los rayos X son ondas electromagnéticas de alta frecuencia."
+  },
+  {
+    "id": "cg-1074",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué radiación tiene una frecuencia mayor que la luz visible?",
+    "options": [
+      "la ultravioleta",
+      "la infrarroja",
+      "las microondas",
+      "las ondas de radio"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ultravioleta está por encima del violeta en frecuencia."
+  },
+  {
+    "id": "cg-1075",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué radiación emplean muchos mandos a distancia?",
+    "options": [
+      "la ultravioleta",
+      "los rayos gamma",
+      "los rayos X",
+      "la infrarroja"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los mandos emiten pulsos de luz infrarroja que el receptor decodifica."
+  },
+  {
+    "id": "cg-1076",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué físico alemán descubrió los rayos X en 1895?",
+    "options": [
+      "Max Planck",
+      "Wilhelm Röntgen",
+      "Heinrich Hertz",
+      "Albert Einstein"
+    ],
+    "correctIndex": 1,
+    "explanation": "Röntgen observó una radiación penetrante y la llamó radiación X."
+  },
+  {
+    "id": "cg-1077",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué científico francés descubrió la radiactividad natural en 1896?",
+    "options": [
+      "Pierre Curie",
+      "Louis de Broglie",
+      "André-Marie Ampère",
+      "Henri Becquerel"
+    ],
+    "correctIndex": 3,
+    "explanation": "Becquerel notó que las sales de uranio emitían radiación sin necesidad de luz."
+  },
+  {
+    "id": "cg-1078",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué es la fisión nuclear?",
+    "options": [
+      "la división de un núcleo pesado",
+      "la unión de núcleos ligeros",
+      "la emisión de luz por un átomo",
+      "la ionización de un gas"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fisión libera energía al dividirse núcleos como el uranio-235."
+  },
+  {
+    "id": "cg-1079",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué es la fusión nuclear?",
+    "options": [
+      "la división de núcleos pesados",
+      "la unión de núcleos ligeros",
+      "la captura de electrones",
+      "la emisión de rayos X"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fusión combina núcleos ligeros, como los de hidrógeno, y libera energía."
+  },
+  {
+    "id": "cg-1080",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué elemento es el combustible principal del Sol?",
+    "options": [
+      "helio",
+      "oxígeno",
+      "hidrógeno",
+      "carbono"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Sol fusiona hidrógeno en helio en su núcleo."
+  },
+  {
+    "id": "cg-1081",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué físico austriaco propuso una ecuación fundamental de la mecánica cuántica?",
+    "options": [
+      "Werner Heisenberg",
+      "Erwin Schrödinger",
+      "Niels Bohr",
+      "Max Born"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ecuación de Schrödinger describe la evolución de la función de onda."
+  },
+  {
+    "id": "cg-1082",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué principio limita el conocimiento simultáneo de posición y momento de una partícula?",
+    "options": [
+      "el principio de exclusión",
+      "el principio de incertidumbre",
+      "el principio de Arquímedes",
+      "el principio de Pascal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Heisenberg estableció que el producto de ambas incertidumbres tiene un límite."
+  },
+  {
+    "id": "cg-1083",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué es un fotón?",
+    "options": [
+      "una partícula de luz sin masa en reposo",
+      "un electrón libre",
+      "un núcleo de helio",
+      "una onda sonora"
+    ],
+    "correctIndex": 0,
+    "explanation": "El fotón es el cuanto del campo electromagnético."
+  },
+  {
+    "id": "cg-1084",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué físico alemán introdujo la idea de los cuantos de energía en 1900?",
+    "options": [
+      "Max Planck",
+      "Albert Einstein",
+      "Niels Bohr",
+      "James Clerk Maxwell"
+    ],
+    "correctIndex": 0,
+    "explanation": "Planck propuso que la energía se emite en cantidades discretas para explicar el cuerpo negro."
+  },
+  {
+    "id": "cg-1085",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué fenómeno consiste en la emisión de electrones por un metal iluminado?",
+    "options": [
+      "el efecto fotoeléctrico",
+      "el efecto Joule",
+      "el efecto Doppler",
+      "el efecto Hall"
+    ],
+    "correctIndex": 0,
+    "explanation": "La luz de frecuencia suficiente arranca electrones de la superficie metálica."
+  },
+  {
+    "id": "cg-1086",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué científico explicó el efecto fotoeléctrico en 1905?",
+    "options": [
+      "Max Planck",
+      "Albert Einstein",
+      "Niels Bohr",
+      "Joseph John Thomson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Einstein propuso que la luz se comporta como partículas de energía hf."
+  },
+  {
+    "id": "cg-1087",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad de presión en el Sistema Internacional?",
+    "options": [
+      "newton",
+      "bar",
+      "pascal",
+      "atmósfera"
+    ],
+    "correctIndex": 2,
+    "explanation": "El pascal (Pa) equivale a un newton por metro cuadrado."
+  },
+  {
+    "id": "cg-1088",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la presión atmosférica aproximada al nivel del mar?",
+    "options": [
+      "101 325 Pa",
+      "1 013 Pa",
+      "10 132 Pa",
+      "1 013 250 Pa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La atmósfera estándar equivale a 101 325 pascales."
+  },
+  {
+    "id": "cg-1089",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué relación define la densidad de un cuerpo?",
+    "options": [
+      "peso entre masa",
+      "fuerza entre área",
+      "masa entre volumen",
+      "volumen entre masa"
+    ],
+    "correctIndex": 2,
+    "explanation": "La densidad es la masa por unidad de volumen."
+  },
+  {
+    "id": "cg-1090",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué relación define la presión?",
+    "options": [
+      "masa entre volumen",
+      "trabajo entre tiempo",
+      "fuerza entre masa",
+      "fuerza entre área"
+    ],
+    "correctIndex": 3,
+    "explanation": "La presión es la fuerza ejercida perpendicularmente por unidad de superficie."
+  },
+  {
+    "id": "cg-1091",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué principio explica que un cuerpo flote en un fluido?",
+    "options": [
+      "el principio de Pascal",
+      "la ley de Hooke",
+      "el principio de Arquímedes",
+      "la ley de Boyle"
+    ],
+    "correctIndex": 2,
+    "explanation": "El empuje hacia arriba iguala el peso del fluido desalojado."
+  },
+  {
+    "id": "cg-1092",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué ley relaciona presión y volumen de un gas a temperatura constante?",
+    "options": [
+      "la ley de Charles",
+      "la ley de Gay-Lussac",
+      "la ley de Boyle",
+      "la ley de Ohm"
+    ],
+    "correctIndex": 2,
+    "explanation": "En la ley de Boyle, presión y volumen son inversamente proporcionales."
+  },
+  {
+    "id": "cg-1093",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué escala marca 32 grados en el punto de congelación del agua?",
+    "options": [
+      "Celsius",
+      "Kelvin",
+      "Fahrenheit",
+      "Rankine"
+    ],
+    "correctIndex": 2,
+    "explanation": "En la escala Fahrenheit el agua se congela a 32 grados y hierve a 212."
+  },
+  {
+    "id": "cg-1094",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué es la energía mecánica de un cuerpo?",
+    "options": [
+      "solo su energía térmica",
+      "solo su energía nuclear",
+      "la suma de su energía cinética y potencial",
+      "la suma de energía eléctrica y magnética"
+    ],
+    "correctIndex": 2,
+    "explanation": "La energía mecánica total incluye las formas cinética y potencial."
+  },
+  {
+    "id": "cg-1095",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la fuerza que se opone al movimiento entre dos superficies en contacto?",
+    "options": [
+      "tensión",
+      "rozamiento",
+      "empuje",
+      "gravitación"
+    ],
+    "correctIndex": 1,
+    "explanation": "El rozamiento actúa en sentido contrario al movimiento relativo."
+  },
+  {
+    "id": "cg-1096",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento mide la fuerza?",
+    "options": [
+      "barómetro",
+      "termómetro",
+      "dinamómetro",
+      "amperímetro"
+    ],
+    "correctIndex": 2,
+    "explanation": "El dinamómetro suele medir la deformación de un resorte calibrado."
+  },
+  {
+    "id": "cg-1097",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué magnitud expresa la cantidad de materia de un cuerpo?",
+    "options": [
+      "peso",
+      "volumen",
+      "densidad",
+      "masa"
+    ],
+    "correctIndex": 3,
+    "explanation": "La masa es una medida de la cantidad de materia y de la inercia."
+  },
+  {
+    "id": "cg-1098",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿En qué se diferencia el peso de la masa?",
+    "options": [
+      "la masa depende de la gravedad",
+      "el peso es una fuerza",
+      "el peso se mide en kilogramos",
+      "son exactamente lo mismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El peso es la fuerza gravitatoria sobre un cuerpo y se mide en newtons."
+  },
+  {
+    "id": "cg-1099",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué es la caída libre?",
+    "options": [
+      "el movimiento con velocidad constante",
+      "el movimiento circular uniforme",
+      "el movimiento bajo la acción exclusiva de la gravedad",
+      "la caída con rozamiento del aire"
+    ],
+    "correctIndex": 2,
+    "explanation": "En caída libre ideal todos los cuerpos aceleran igual, sin resistir el aire."
+  },
+  {
+    "id": "cg-1100",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué científico estadounidense midió la carga del electrón con gotas de aceite?",
+    "options": [
+      "Joseph John Thomson",
+      "Ernest Rutherford",
+      "Robert Millikan",
+      "Niels Bohr"
+    ],
+    "correctIndex": 2,
+    "explanation": "El experimento de Millikan permitió medir la carga elemental."
+  },
+  {
+    "id": "cg-1101",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué científico británico descubrió el electrón en 1897?",
+    "options": [
+      "Ernest Rutherford",
+      "James Chadwick",
+      "Joseph John Thomson",
+      "Niels Bohr"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thomson estudió los rayos catódicos y dedujo la existencia del electrón."
+  },
+  {
+    "id": "cg-1102",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué científico neozelandés descubrió el núcleo atómico?",
+    "options": [
+      "Joseph John Thomson",
+      "Niels Bohr",
+      "Ernest Rutherford",
+      "John Dalton"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rutherford interpretó la dispersión de partículas alfa como evidencia de un núcleo."
+  },
+  {
+    "id": "cg-1103",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué fuerza mantiene unidos protones y neutrones en el núcleo?",
+    "options": [
+      "la fuerza nuclear fuerte",
+      "la fuerza electromagnética",
+      "la gravedad",
+      "la fuerza nuclear débil"
+    ],
+    "correctIndex": 0,
+    "explanation": "La interacción fuerte vence la repulsión eléctrica entre protones a corta distancia."
+  },
+  {
+    "id": "cg-1104",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "easy",
+    "question": "¿Qué partícula transmite la interacción electromagnética?",
+    "options": [
+      "el gluón",
+      "el bosón W",
+      "el gravitón",
+      "el fotón"
+    ],
+    "correctIndex": 3,
+    "explanation": "El fotón es el bosón mediador del campo electromagnético."
+  },
+  {
+    "id": "cg-1105",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué ley de Kepler afirma que el radio vector de un planeta barre áreas iguales en tiempos iguales?",
+    "options": [
+      "la primera ley",
+      "la tercera ley",
+      "la segunda ley",
+      "la ley de gravitación universal"
+    ],
+    "correctIndex": 2,
+    "explanation": "La segunda ley de Kepler implica que un planeta se mueve más rápido cuando está cerca del Sol."
+  },
+  {
+    "id": "cg-1106",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué magnitud se conserva en un sistema aislado sobre el que no actúan fuerzas externas?",
+    "options": [
+      "el momento lineal",
+      "la velocidad",
+      "la aceleración",
+      "la fuerza neta"
+    ],
+    "correctIndex": 0,
+    "explanation": "La conservación del momento lineal se deduce de la tercera ley de Newton."
+  },
+  {
+    "id": "cg-1107",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "Un cuerpo de 2 kg recibe una fuerza neta de 6 N. ¿Qué aceleración adquiere?",
+    "options": [
+      "3 m/s²",
+      "12 m/s²",
+      "0,33 m/s²",
+      "8 m/s²"
+    ],
+    "correctIndex": 0,
+    "explanation": "Según F = m·a, la aceleración es 6 N dividido entre 2 kg."
+  },
+  {
+    "id": "cg-1108",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué trabajo realiza una fuerza de 10 N que desplaza un cuerpo 2 m en su misma dirección?",
+    "options": [
+      "5 J",
+      "12 J",
+      "20 J",
+      "0,2 J"
+    ],
+    "correctIndex": 2,
+    "explanation": "El trabajo es fuerza por desplazamiento cuando ambos tienen la misma dirección."
+  },
+  {
+    "id": "cg-1109",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué presión ejerce una columna de agua de 10 m de altura?",
+    "options": [
+      "unos 9,8 kPa",
+      "unos 980 kPa",
+      "unos 98 kPa",
+      "unos 49 kPa"
+    ],
+    "correctIndex": 2,
+    "explanation": "La presión hidrostática es densidad por gravedad por profundidad."
+  },
+  {
+    "id": "cg-1110",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué principio explica el funcionamiento de una prensa hidráulica?",
+    "options": [
+      "el principio de Arquímedes",
+      "el principio de Bernoulli",
+      "la ley de Hooke",
+      "el principio de Pascal"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pascal estableció que la presión aplicada a un fluido se transmite en todas las direcciones."
+  },
+  {
+    "id": "cg-1111",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué establece la ley de Hooke?",
+    "options": [
+      "que la presión y el volumen son inversos",
+      "que la fuerza de un resorte es proporcional a su deformación",
+      "que toda acción produce una reacción",
+      "que la energía se conserva"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ley de Hooke se escribe F = -k·x para deformaciones pequeñas."
+  },
+  {
+    "id": "cg-1112",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué principio relaciona el aumento de velocidad de un fluido con la disminución de su presión?",
+    "options": [
+      "el principio de Pascal",
+      "la ley de Boyle",
+      "el principio de Arquímedes",
+      "el principio de Bernoulli"
+    ],
+    "correctIndex": 3,
+    "explanation": "En un flujo ideal, la suma de presión, energía cinética y potencial se mantiene."
+  },
+  {
+    "id": "cg-1113",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué instrumento ideó Evangelista Torricelli para medir la presión atmosférica?",
+    "options": [
+      "el termómetro de alcohol",
+      "el barómetro de mercurio",
+      "el dinamómetro",
+      "el manómetro de Bourdon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Torricelli observó que la columna de mercurio se estabilizaba a unos 76 centímetros."
+  },
+  {
+    "id": "cg-1114",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué ley afirma que la presión de un gas es proporcional a su temperatura absoluta a volumen constante?",
+    "options": [
+      "la ley de Gay-Lussac",
+      "la ley de Boyle",
+      "la ley de Charles",
+      "la ley de Dalton"
+    ],
+    "correctIndex": 0,
+    "explanation": "A volumen constante, aumentar la temperatura eleva la presión del gas."
+  },
+  {
+    "id": "cg-1115",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué ley afirma que el volumen de un gas es proporcional a su temperatura absoluta a presión constante?",
+    "options": [
+      "la ley de Boyle",
+      "la ley de Gay-Lussac",
+      "la ley de Ohm",
+      "la ley de Charles"
+    ],
+    "correctIndex": 3,
+    "explanation": "La ley de Charles describe la expansión térmica de los gases a presión constante."
+  },
+  {
+    "id": "cg-1116",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Cuántos joules equivalen a una caloría?",
+    "options": [
+      "1 J",
+      "4,184 J",
+      "42 J",
+      "0,239 J"
+    ],
+    "correctIndex": 1,
+    "explanation": "La caloría termoquímica se define como 4,184 julios."
+  },
+  {
+    "id": "cg-1117",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué es el calor latente?",
+    "options": [
+      "la energía para elevar un grado la temperatura",
+      "la energía necesaria para cambiar de fase sin variar la temperatura",
+      "la energía interna de un gas ideal",
+      "el calor que se pierde por convección"
+    ],
+    "correctIndex": 1,
+    "explanation": "Durante un cambio de fase la temperatura se mantiene constante mientras se absorbe o libera calor."
+  },
+  {
+    "id": "cg-1118",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué enunciado corresponde al segundo principio de la termodinámica?",
+    "options": [
+      "el calor fluye espontáneamente del cuerpo caliente al frío",
+      "la energía puede crearse en un sistema aislado",
+      "la entropía disminuye siempre en un sistema aislado",
+      "la masa se transforma en carga"
+    ],
+    "correctIndex": 0,
+    "explanation": "El segundo principio también implica que ninguna máquina térmica alcanza el 100 por ciento de rendimiento."
+  },
+  {
+    "id": "cg-1119",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué es una máquina térmica?",
+    "options": [
+      "un dispositivo que convierte trabajo en masa",
+      "un generador de corriente continua",
+      "un dispositivo que convierte calor en trabajo",
+      "un intercambiador sin aporte de energía"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las máquinas térmicas operan entre una fuente caliente y una fuente fría."
+  },
+  {
+    "id": "cg-1120",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Cuál es el rendimiento máximo teórico de una máquina térmica entre 500 K y 300 K?",
+    "options": [
+      "60 %",
+      "20 %",
+      "40 %",
+      "100 %"
+    ],
+    "correctIndex": 2,
+    "explanation": "El rendimiento de Carnot es 1 menos el cociente entre 300 y 500 kelvin."
+  },
+  {
+    "id": "cg-1121",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué relación liga las escalas Celsius y Kelvin?",
+    "options": [
+      "restar 273,15 a los grados Celsius",
+      "sumar 273,15 a los grados Celsius",
+      "multiplicar por 2 los grados Celsius",
+      "dividir entre 100 los grados Celsius"
+    ],
+    "correctIndex": 1,
+    "explanation": "El kelvin y el grado Celsius tienen intervalos iguales, pero sus ceros difieren."
+  },
+  {
+    "id": "cg-1122",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué es un proceso adiabático?",
+    "options": [
+      "un proceso a temperatura constante",
+      "un proceso a presión constante",
+      "un proceso a volumen constante",
+      "un proceso sin intercambio de calor con el entorno"
+    ],
+    "correctIndex": 3,
+    "explanation": "En un proceso adiabático el trabajo modifica la energía interna del sistema."
+  },
+  {
+    "id": "cg-1123",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué es un proceso isotérmico?",
+    "options": [
+      "un proceso sin intercambio de calor",
+      "un proceso a presión constante",
+      "un proceso a volumen constante",
+      "un proceso a temperatura constante"
+    ],
+    "correctIndex": 3,
+    "explanation": "En un proceso isotérmico ideal la energía interna de un gas no cambia."
+  },
+  {
+    "id": "cg-1124",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué es un proceso isobárico?",
+    "options": [
+      "un proceso a temperatura constante",
+      "un proceso sin calor",
+      "un proceso a presión constante",
+      "un proceso a volumen constante"
+    ],
+    "correctIndex": 2,
+    "explanation": "La expansión de un gas a presión atmosférica constante es un ejemplo isobárico."
+  },
+  {
+    "id": "cg-1125",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué ecuación describe el comportamiento de un gas ideal?",
+    "options": [
+      "P·V = n·R·T",
+      "F = m·a",
+      "V = I·R",
+      "E = m·c²"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ecuación de estado relaciona presión, volumen, cantidad de sustancia y temperatura absoluta."
+  },
+  {
+    "id": "cg-1126",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué representa la constante R en la ecuación de los gases ideales?",
+    "options": [
+      "la constante de Planck",
+      "la constante de gravitación",
+      "la constante universal de los gases",
+      "la constante de Faraday"
+    ],
+    "correctIndex": 2,
+    "explanation": "R vale aproximadamente 8,314 julios por mol y kelvin."
+  },
+  {
+    "id": "cg-1127",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué carga eléctrica tiene un protón en comparación con el electrón?",
+    "options": [
+      "positiva y de igual magnitud",
+      "negativa y de igual magnitud",
+      "nula",
+      "positiva y del doble de magnitud"
+    ],
+    "correctIndex": 0,
+    "explanation": "Protón y electrón tienen cargas opuestas de igual valor absoluto."
+  },
+  {
+    "id": "cg-1128",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué establece la ley de Coulomb?",
+    "options": [
+      "la fuerza entre masas es inversa a la distancia",
+      "la fuerza entre cargas es proporcional al producto de las cargas e inversa al cuadrado de la distancia",
+      "la corriente es proporcional a la tensión",
+      "el flujo magnético induce corriente"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ley de Coulomb describe la interacción electrostática entre cargas puntuales."
+  },
+  {
+    "id": "cg-1129",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Cuál es una unidad válida de campo eléctrico en el Sistema Internacional?",
+    "options": [
+      "amperio por metro",
+      "culombio por segundo",
+      "julio por segundo",
+      "voltio por metro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El campo eléctrico también se expresa en newtons por culombio."
+  },
+  {
+    "id": "cg-1130",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Cuál es la unidad de campo magnético en el Sistema Internacional?",
+    "options": [
+      "weber",
+      "tesla",
+      "henrio",
+      "faradio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El tesla (T) equivale a un weber por metro cuadrado."
+  },
+  {
+    "id": "cg-1131",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué instrumento mide la diferencia de potencial entre dos puntos de un circuito?",
+    "options": [
+      "el amperímetro",
+      "el galvanómetro",
+      "el vatímetro",
+      "el voltímetro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El voltímetro se conecta en paralelo con el elemento cuya tensión se mide."
+  },
+  {
+    "id": "cg-1132",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Cómo deben conectarse un voltímetro y un amperímetro en un circuito?",
+    "options": [
+      "ambos en serie",
+      "ambos en paralelo",
+      "voltímetro en paralelo y amperímetro en serie",
+      "voltímetro en serie y amperímetro en paralelo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cada instrumento se conecta de la forma que menos altere la magnitud medida."
+  },
+  {
+    "id": "cg-1133",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Cómo se calcula la resistencia equivalente de dos resistencias conectadas en serie?",
+    "options": [
+      "sumando sus valores",
+      "multiplicándolos",
+      "dividiendo el mayor entre el menor",
+      "restando el menor del mayor"
+    ],
+    "correctIndex": 0,
+    "explanation": "En serie la misma corriente pasa por ambas y las tensiones se suman."
+  },
+  {
+    "id": "cg-1134",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué le ocurre a la resistencia de un conductor si se aumenta su longitud?",
+    "options": [
+      "disminuye",
+      "no cambia",
+      "se vuelve nula",
+      "aumenta"
+    ],
+    "correctIndex": 3,
+    "explanation": "La resistencia es proporcional a la longitud e inversa al área de la sección."
+  },
+  {
+    "id": "cg-1135",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama un material cuya resistencia cae a cero por debajo de cierta temperatura?",
+    "options": [
+      "superconductor",
+      "aislante",
+      "semiconductor",
+      "resistor"
+    ],
+    "correctIndex": 0,
+    "explanation": "En un superconductor la corriente puede circular sin pérdidas resistivas."
+  },
+  {
+    "id": "cg-1136",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué ecuación relaciona la potencia eléctrica con la corriente y la tensión?",
+    "options": [
+      "P = V/I (tensión entre intensidad)",
+      "P = V·I (tensión por intensidad)",
+      "P = I²/V (corriente al cuadrado entre tensión)",
+      "P = V²·I (tensión al cuadrado por intensidad)"
+    ],
+    "correctIndex": 1,
+    "explanation": "La potencia es el producto de la tensión por la intensidad de corriente."
+  },
+  {
+    "id": "cg-1137",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el calentamiento producido por el paso de corriente por una resistencia?",
+    "options": [
+      "efecto Hall",
+      "efecto Joule",
+      "efecto Doppler",
+      "efecto Seebeck"
+    ],
+    "correctIndex": 1,
+    "explanation": "La potencia disipada como calor es I²·R en el efecto Joule."
+  },
+  {
+    "id": "cg-1138",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué físico neerlandés descubrió la superconductividad del mercurio en 1911?",
+    "options": [
+      "Hendrik Lorentz",
+      "Pieter Zeeman",
+      "Johannes Diderik van der Waals",
+      "Heike Kamerlingh Onnes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kamerlingh Onnes enfrió mercurio con helio líquido y observó resistencia nula."
+  },
+  {
+    "id": "cg-1139",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué produce una variación del flujo magnético a través de una espira conductora?",
+    "options": [
+      "una corriente inducida",
+      "una carga neta permanente",
+      "un campo eléctrico constante",
+      "un aumento de la masa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La inducción electromagnética aparece cuando cambia el flujo que atraviesa el circuito."
+  },
+  {
+    "id": "cg-1140",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué ley permite calcular la fuerza electromotriz inducida en un circuito?",
+    "options": [
+      "la ley de Coulomb",
+      "la ley de Faraday-Lenz",
+      "la ley de Ohm",
+      "la ley de Kirchhoff"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fuerza electromotriz inducida es proporcional a la rapidez de cambio del flujo magnético."
+  },
+  {
+    "id": "cg-1141",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué establece la ley de Lenz?",
+    "options": [
+      "que la corriente inducida refuerza siempre el cambio",
+      "que la tensión es igual a la resistencia",
+      "que la corriente inducida se opone al cambio que la produce",
+      "que las cargas se atraen"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sentido de la corriente inducida tiende a compensar la variación de flujo."
+  },
+  {
+    "id": "cg-1142",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué dispositivo permite elevar o reducir la tensión de una corriente alterna?",
+    "options": [
+      "el rectificador",
+      "el condensador",
+      "el fusible",
+      "el transformador"
+    ],
+    "correctIndex": 3,
+    "explanation": "El transformador usa dos bobinas acopladas por un núcleo magnético."
+  },
+  {
+    "id": "cg-1143",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué magnitud se conserva en un transformador ideal?",
+    "options": [
+      "la tensión",
+      "la intensidad",
+      "la carga total",
+      "la potencia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Si no hay pérdidas, la potencia de entrada iguala a la de salida."
+  },
+  {
+    "id": "cg-1144",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de corriente suministra una pila convencional?",
+    "options": [
+      "corriente alterna",
+      "corriente trifásica",
+      "corriente continua",
+      "corriente pulsante de frecuencia variable"
+    ],
+    "correctIndex": 2,
+    "explanation": "En una pila el sentido de la corriente se mantiene constante."
+  },
+  {
+    "id": "cg-1145",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué científico formuló el conjunto de ecuaciones que unifica electricidad y magnetismo?",
+    "options": [
+      "James Clerk Maxwell",
+      "Michael Faraday",
+      "Heinrich Hertz",
+      "André-Marie Ampère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las ecuaciones de Maxwell describen los campos eléctricos y magnéticos y las ondas electromagnéticas."
+  },
+  {
+    "id": "cg-1146",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué físico alemán demostró experimentalmente la existencia de las ondas electromagnéticas?",
+    "options": [
+      "Heinrich Hertz",
+      "Max Planck",
+      "Wilhelm Ohm",
+      "Wilhelm Weber"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hertz generó y detectó ondas de radio en 1887."
+  },
+  {
+    "id": "cg-1147",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué longitud de onda tiene en el vacío una onda de radio de 100 MHz?",
+    "options": [
+      "30 m",
+      "0,3 m",
+      "300 m",
+      "3 m"
+    ],
+    "correctIndex": 3,
+    "explanation": "La longitud de onda es la velocidad de la luz dividida entre la frecuencia."
+  },
+  {
+    "id": "cg-1148",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el fenómeno por el que la luz rodea obstáculos y forma patrones de interferencia?",
+    "options": [
+      "difracción",
+      "reflexión",
+      "refracción",
+      "absorción"
+    ],
+    "correctIndex": 0,
+    "explanation": "La difracción es característica de las ondas y se aprecia cuando el obstáculo es comparable a la longitud de onda."
+  },
+  {
+    "id": "cg-1149",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué experimento de 1801 demostró la interferencia de la luz?",
+    "options": [
+      "el experimento de la doble rendija de Young",
+      "el experimento de Michelson-Morley",
+      "el experimento de Rutherford",
+      "el experimento de Millikan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Thomas Young observó franjas claras y oscuras al pasar luz por dos rendijas."
+  },
+  {
+    "id": "cg-1150",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué resultado del experimento de Michelson-Morley fue clave para la relatividad?",
+    "options": [
+      "no se detectó el éter luminífero",
+      "se midió la masa del electrón",
+      "se descubrió el neutrón",
+      "se halló la carga elemental"
+    ],
+    "correctIndex": 0,
+    "explanation": "El resultado sugería que la velocidad de la luz no depende del movimiento terrestre."
+  },
+  {
+    "id": "cg-1151",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué postula la relatividad especial sobre la velocidad de la luz en el vacío?",
+    "options": [
+      "depende de la velocidad del observador",
+      "es la misma para todos los observadores inerciales",
+      "se suma a la velocidad de la fuente",
+      "puede superarse sin límite"
+    ],
+    "correctIndex": 1,
+    "explanation": "La constancia de la velocidad de la luz es uno de los postulados de 1905."
+  },
+  {
+    "id": "cg-1152",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué efecto predice la relatividad especial para un reloj que se mueve respecto a un observador?",
+    "options": [
+      "se adelanta siempre",
+      "se retrasa respecto al reloj del observador",
+      "no experimenta cambio",
+      "se detiene por completo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La dilatación del tiempo aumenta con la velocidad relativa."
+  },
+  {
+    "id": "cg-1153",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué ecuación expresa la equivalencia entre masa y energía?",
+    "options": [
+      "E = m·c²",
+      "F = m·a",
+      "E = h·f",
+      "P·V = n·R·T"
+    ],
+    "correctIndex": 0,
+    "explanation": "Einstein propuso que la masa en reposo equivale a una cantidad de energía."
+  },
+  {
+    "id": "cg-1154",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué científico predijo la existencia de ondas gravitacionales a partir de la relatividad general?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Stephen Hawking",
+      "James Clerk Maxwell"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las ondas gravitacionales son perturbaciones del espacio-tiempo predichas en 1916."
+  },
+  {
+    "id": "cg-1155",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué observatorio detectó ondas gravitacionales por primera vez en 2015?",
+    "options": [
+      "el CERN",
+      "el telescopio Hubble",
+      "el radiotelescopio de Arecibo",
+      "LIGO"
+    ],
+    "correctIndex": 3,
+    "explanation": "LIGO detectó la fusión de dos agujeros negros mediante interferómetros láser."
+  },
+  {
+    "id": "cg-1156",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué fenómeno explica el corrimiento al rojo de galaxias lejanas?",
+    "options": [
+      "la rotación de la Vía Láctea",
+      "la absorción por el polvo interestelar",
+      "la expansión del universo",
+      "la gravedad local del Sol"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al expandirse el espacio, las longitudes de onda se estiran y la luz se enrojece."
+  },
+  {
+    "id": "cg-1157",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué es un año luz?",
+    "options": [
+      "el tiempo que tarda la luz en llegar al Sol",
+      "una unidad de energía",
+      "la distancia que recorre la luz en un año",
+      "una medida de la masa estelar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un año luz equivale a unos 9,46 billones de kilómetros."
+  },
+  {
+    "id": "cg-1158",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿A qué distancia aproximada está el Sol de la Tierra?",
+    "options": [
+      "150 000 kilómetros",
+      "1,5 millones de kilómetros",
+      "150 millones de kilómetros",
+      "15 000 millones de kilómetros"
+    ],
+    "correctIndex": 2,
+    "explanation": "La unidad astronómica se define como esa distancia media."
+  },
+  {
+    "id": "cg-1159",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Cuánto tarda la luz solar en llegar a la Tierra?",
+    "options": [
+      "unos 8 segundos",
+      "unas 8 horas",
+      "unos 8 días",
+      "unos 8 minutos"
+    ],
+    "correctIndex": 3,
+    "explanation": "La luz recorre 150 millones de kilómetros en aproximadamente 8 minutos y 20 segundos."
+  },
+  {
+    "id": "cg-1160",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué físico indio recibió el Nobel por el efecto de dispersión de la luz?",
+    "options": [
+      "Subrahmanyan Chandrasekhar",
+      "Satyendra Nath Bose",
+      "C. V. Raman",
+      "Meghnad Saha"
+    ],
+    "correctIndex": 2,
+    "explanation": "El efecto Raman describe el cambio de frecuencia de la luz dispersada por la materia."
+  },
+  {
+    "id": "cg-1161",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué físico indio-estadounidense predijo el límite de masa de las enanas blancas?",
+    "options": [
+      "C. V. Raman",
+      "Hideki Yukawa",
+      "Abdus Salam",
+      "Subrahmanyan Chandrasekhar"
+    ],
+    "correctIndex": 3,
+    "explanation": "El límite de Chandrasekhar es de aproximadamente 1,4 masas solares."
+  },
+  {
+    "id": "cg-1162",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué físico japonés predijo el mesón como mediador de la fuerza nuclear fuerte?",
+    "options": [
+      "Sin-Itiro Tomonaga",
+      "Hideki Yukawa",
+      "Yoshio Nishina",
+      "Hantaro Nagaoka"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yukawa propuso en 1935 una partícula de masa intermedia entre el electrón y el protón."
+  },
+  {
+    "id": "cg-1163",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué físico pakistaní recibió el Nobel por unificar la interacción electromagnética y la débil?",
+    "options": [
+      "Abdus Salam",
+      "Hideki Yukawa",
+      "Satyendra Nath Bose",
+      "C. V. Raman"
+    ],
+    "correctIndex": 0,
+    "explanation": "Salam compartió el Nobel de Física de 1979 con Glashow y Weinberg."
+  },
+  {
+    "id": "cg-1164",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué física chino-estadounidense demostró la violación de la paridad en la desintegración beta?",
+    "options": [
+      "Lise Meitner",
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Chien-Shiung Wu"
+    ],
+    "correctIndex": 3,
+    "explanation": "El experimento de Wu, de 1956, confirmó la propuesta de Lee y Yang."
+  },
+  {
+    "id": "cg-1165",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué física austríaca explicó teóricamente la fisión nuclear?",
+    "options": [
+      "Marie Curie",
+      "Emmy Noether",
+      "Maria Goeppert Mayer",
+      "Lise Meitner"
+    ],
+    "correctIndex": 3,
+    "explanation": "Meitner y Otto Frisch interpretaron la fisión tras los experimentos de Hahn y Strassmann."
+  },
+  {
+    "id": "cg-1166",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué matemática alemana demostró el teorema que relaciona simetría y conservación?",
+    "options": [
+      "Lise Meitner",
+      "Marie Curie",
+      "Chien-Shiung Wu",
+      "Emmy Noether"
+    ],
+    "correctIndex": 3,
+    "explanation": "El teorema de Noether conecta cada simetría continua con una cantidad conservada."
+  },
+  {
+    "id": "cg-1167",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué científica recibió premios Nobel de Física y de Química?",
+    "options": [
+      "Lise Meitner",
+      "Emmy Noether",
+      "Irène Joliot-Curie",
+      "Marie Curie"
+    ],
+    "correctIndex": 3,
+    "explanation": "Marie Curie ganó el Nobel de Física en 1903 y el de Química en 1911."
+  },
+  {
+    "id": "cg-1168",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué físico brasileño participó en el descubrimiento del mesón pi?",
+    "options": [
+      "César Lattes",
+      "Carlos Chagas",
+      "Mario Schenberg",
+      "Jayme Tiomno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lattes trabajó con Cecil Powell y otros en la detección de piones en emulsiones nucleares."
+  },
+  {
+    "id": "cg-1169",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué físico mexicano destacó en el estudio de los rayos cósmicos?",
+    "options": [
+      "Manuel Sandoval Vallarta",
+      "Luis Enrique Erro",
+      "Nabor Carrillo",
+      "Alfonso Herrera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sandoval Vallarta investigó la influencia del campo geomagnético en los rayos cósmicos."
+  },
+  {
+    "id": "cg-1170",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué experimento de Rutherford reveló que el átomo tiene un núcleo pequeño y denso?",
+    "options": [
+      "la gota de aceite de Millikan",
+      "la dispersión de partículas alfa en una lámina de oro",
+      "la doble rendija de Young",
+      "la balanza de Cavendish"
+    ],
+    "correctIndex": 1,
+    "explanation": "Algunas partículas alfa se desviaban mucho, lo que indicaba un centro masivo y positivo."
+  },
+  {
+    "id": "cg-1171",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué partícula descubrió James Chadwick en 1932?",
+    "options": [
+      "el protón",
+      "el electrón",
+      "el positrón",
+      "el neutrón"
+    ],
+    "correctIndex": 3,
+    "explanation": "El neutrón explicaba la masa faltante de los núcleos y no tenía carga eléctrica."
+  },
+  {
+    "id": "cg-1172",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué antipartícula del electrón descubrió Carl Anderson en 1932?",
+    "options": [
+      "el positrón",
+      "el neutrón",
+      "el neutrino",
+      "el muón"
+    ],
+    "correctIndex": 0,
+    "explanation": "El positrón tiene la misma masa que el electrón y carga positiva."
+  },
+  {
+    "id": "cg-1173",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué partícula propuso Wolfgang Pauli para explicar el balance energético de la desintegración beta?",
+    "options": [
+      "el neutrón",
+      "el neutrino",
+      "el fotón",
+      "el mesón"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pauli supuso una partícula ligera y neutra que se llevaba parte de la energía."
+  },
+  {
+    "id": "cg-1174",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué principio impide que dos electrones ocupen el mismo estado cuántico?",
+    "options": [
+      "el principio de exclusión de Pauli",
+      "el principio de incertidumbre",
+      "el principio de correspondencia",
+      "el principio de equivalencia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los fermiones, como los electrones, obedecen el principio de exclusión."
+  },
+  {
+    "id": "cg-1175",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué experimento confirmó la naturaleza ondulatoria del electrón?",
+    "options": [
+      "la gota de aceite de Millikan",
+      "la lámina de oro de Rutherford",
+      "el eclipse de Eddington",
+      "la difracción de electrones de Davisson y Germer"
+    ],
+    "correctIndex": 3,
+    "explanation": "En 1927 se observaron patrones de difracción al dispersar electrones en un cristal."
+  },
+  {
+    "id": "cg-1176",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué es el espín de una partícula?",
+    "options": [
+      "su carga eléctrica total",
+      "un momento angular intrínseco",
+      "su masa en reposo",
+      "su energía de enlace"
+    ],
+    "correctIndex": 1,
+    "explanation": "El espín es una propiedad cuántica sin análogo clásico exacto."
+  },
+  {
+    "id": "cg-1177",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué relación liga la energía de un fotón con su frecuencia?",
+    "options": [
+      "E = m·c²",
+      "E = ½·m·v²",
+      "E = h·f",
+      "E = P·V"
+    ],
+    "correctIndex": 2,
+    "explanation": "La constante de Planck h aparece en la relación entre energía y frecuencia."
+  },
+  {
+    "id": "cg-1178",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué unidad se emplea para expresar energías en física atómica y nuclear?",
+    "options": [
+      "el vatio",
+      "el newton",
+      "el tesla",
+      "el electronvoltio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un electronvoltio es la energía que gana un electrón al cruzar un voltio."
+  },
+  {
+    "id": "cg-1179",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿A cuántos joules equivale un electronvoltio?",
+    "options": [
+      "1,6e19 J",
+      "6,24e18 J",
+      "1,6e-19 J",
+      "9,11e-31 J"
+    ],
+    "correctIndex": 2,
+    "explanation": "La carga elemental es aproximadamente 1,602 × 10⁻¹⁹ culombios."
+  },
+  {
+    "id": "cg-1180",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué modelo atómico introdujo los orbitales y los números cuánticos?",
+    "options": [
+      "el modelo mecanocuántico de Schrödinger",
+      "el modelo de Bohr",
+      "el modelo de Rutherford",
+      "el modelo de Thomson"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ecuación de Schrödinger permitió describir la probabilidad de encontrar al electrón."
+  },
+  {
+    "id": "cg-1181",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué principio afirma que la física cuántica debe reproducir la física clásica a gran escala?",
+    "options": [
+      "el principio de exclusión",
+      "el principio de correspondencia de Bohr",
+      "el principio de incertidumbre",
+      "el principio de relatividad"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bohr señaló que los resultados cuánticos convergen a los clásicos cuando los números cuánticos son grandes."
+  },
+  {
+    "id": "cg-1182",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué interpretación de la mecánica cuántica sostiene que la función de onda colapsa al medir?",
+    "options": [
+      "la interpretación de Copenhague",
+      "la interpretación de los muchos mundos",
+      "la interpretación de variables ocultas",
+      "la interpretación de ensemble"
+    ],
+    "correctIndex": 0,
+    "explanation": "La interpretación de Copenhague fue desarrollada por Bohr y Heisenberg."
+  },
+  {
+    "id": "cg-1183",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué es la superposición cuántica?",
+    "options": [
+      "la suma de dos masas",
+      "la acumulación de electrones en un conductor",
+      "la posibilidad de que un sistema esté en una combinación de estados",
+      "la interferencia de dos ondas sonoras"
+    ],
+    "correctIndex": 2,
+    "explanation": "Antes de la medición, un sistema cuántico puede describirse como combinación de estados."
+  },
+  {
+    "id": "cg-1184",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de semiconductor tiene portadores de carga negativa mayoritarios?",
+    "options": [
+      "el tipo p",
+      "el tipo n",
+      "el intrínseco",
+      "el aislante"
+    ],
+    "correctIndex": 1,
+    "explanation": "El dopaje con impurezas donadoras aporta electrones libres."
+  },
+  {
+    "id": "cg-1185",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué dispositivo semiconductor permite el paso de corriente en un solo sentido?",
+    "options": [
+      "la resistencia",
+      "el condensador",
+      "el transformador",
+      "el diodo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El diodo conduce cuando se polariza en directa y bloquea en inversa."
+  },
+  {
+    "id": "cg-1186",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué componente electrónico amplifica señales y sustituyó a las válvulas?",
+    "options": [
+      "el relé",
+      "el transistor",
+      "la bobina",
+      "el fusible"
+    ],
+    "correctIndex": 1,
+    "explanation": "El transistor de estado sólido revolucionó la electrónica a partir de 1947."
+  },
+  {
+    "id": "cg-1187",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Quiénes inventaron el transistor en 1947?",
+    "options": [
+      "Einstein, Bohr y Planck",
+      "Bardeen, Brattain y Shockley",
+      "Faraday, Maxwell y Hertz",
+      "Volta, Ohm y Ampere"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los tres investigadores trabajaban en los laboratorios Bell."
+  },
+  {
+    "id": "cg-1188",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué ley de Kirchhoff establece que la suma de corrientes que entran en un nodo es igual a la que sale?",
+    "options": [
+      "la ley de corrientes",
+      "la ley de tensiones",
+      "la ley de Ohm",
+      "la ley de Faraday"
+    ],
+    "correctIndex": 0,
+    "explanation": "Es una consecuencia de la conservación de la carga eléctrica."
+  },
+  {
+    "id": "cg-1189",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué ley de Kirchhoff establece que la suma de tensiones en un lazo cerrado es cero?",
+    "options": [
+      "la ley de corrientes",
+      "la ley de Coulomb",
+      "la ley de Lenz",
+      "la ley de tensiones"
+    ],
+    "correctIndex": 3,
+    "explanation": "La suma de fuerzas electromotrices y caídas de tensión en un lazo completo se anula."
+  },
+  {
+    "id": "cg-1190",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué potencia disipa una resistencia de 10 Ω recorrida por 2 A?",
+    "options": [
+      "20 W",
+      "5 W",
+      "80 W",
+      "40 W"
+    ],
+    "correctIndex": 3,
+    "explanation": "La potencia es I²·R, es decir, 4 por 10."
+  },
+  {
+    "id": "cg-1191",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué resistencia tiene un circuito que con 12 V consume 3 A?",
+    "options": [
+      "36 Ω",
+      "0,25 Ω",
+      "4 Ω",
+      "9 Ω"
+    ],
+    "correctIndex": 2,
+    "explanation": "La ley de Ohm da R = V/I."
+  },
+  {
+    "id": "cg-1192",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué capacidad tiene un condensador que almacena 2 C con 10 V?",
+    "options": [
+      "20 F",
+      "0,2 F",
+      "5 F",
+      "0,05 F"
+    ],
+    "correctIndex": 1,
+    "explanation": "La capacidad es carga entre tensión: C = Q/V."
+  },
+  {
+    "id": "cg-1193",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué unidad mide la capacidad eléctrica?",
+    "options": [
+      "henrio",
+      "tesla",
+      "faradio",
+      "weber"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un faradio equivale a un culombio por voltio."
+  },
+  {
+    "id": "cg-1194",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué unidad mide la inductancia?",
+    "options": [
+      "faradio",
+      "ohmio",
+      "siemens",
+      "henrio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El henrio (H) mide la inductancia de una bobina."
+  },
+  {
+    "id": "cg-1195",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué es la impedancia de un circuito?",
+    "options": [
+      "la oposición total al paso de corriente alterna",
+      "la resistencia de un conductor a la corriente continua",
+      "la capacidad de almacenar carga",
+      "la fuerza electromotriz inducida"
+    ],
+    "correctIndex": 0,
+    "explanation": "La impedancia combina resistencia, reactancia inductiva y capacitiva."
+  },
+  {
+    "id": "cg-1196",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué ocurre en la resonancia de un circuito RLC en serie?",
+    "options": [
+      "la corriente se anula",
+      "la resistencia se vuelve infinita",
+      "la amplitud de la corriente alcanza un máximo",
+      "el condensador se descarga sin oscilar"
+    ],
+    "correctIndex": 2,
+    "explanation": "En resonancia las reactancias inductiva y capacitiva se cancelan."
+  },
+  {
+    "id": "cg-1197",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué ley relaciona los ángulos de incidencia y refracción con los índices de refracción?",
+    "options": [
+      "la ley de Hooke",
+      "la ley de Snell",
+      "la ley de Coulomb",
+      "la ley de Faraday"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ley de Snell se expresa n₁·sen θ₁ = n₂·sen θ₂."
+  },
+  {
+    "id": "cg-1198",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué es el índice de refracción de un medio?",
+    "options": [
+      "el cociente entre masa y volumen",
+      "la relación entre carga y tensión",
+      "la potencia por unidad de área",
+      "el cociente entre la velocidad de la luz en el vacío y en el medio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un índice mayor indica que la luz viaja más despacio en ese medio."
+  },
+  {
+    "id": "cg-1199",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué fenómeno permite que la luz quede confinada en una fibra óptica?",
+    "options": [
+      "la absorción selectiva",
+      "la polarización circular",
+      "la difracción de Fresnel",
+      "la reflexión total interna"
+    ],
+    "correctIndex": 3,
+    "explanation": "La luz rebota en la frontera entre el núcleo y el revestimiento de la fibra."
+  },
+  {
+    "id": "cg-1200",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué es la polarización de una onda electromagnética?",
+    "options": [
+      "la orientación del campo eléctrico",
+      "la dirección de propagación",
+      "la energía del fotón",
+      "la longitud de onda"
+    ],
+    "correctIndex": 0,
+    "explanation": "El campo eléctrico oscila en una dirección determinada respecto a la propagación."
+  },
+  {
+    "id": "cg-1201",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué efecto explica el cambio de frecuencia percibido cuando la fuente y el observador se mueven?",
+    "options": [
+      "el efecto Doppler",
+      "el efecto Hall",
+      "el efecto Joule",
+      "el efecto Compton"
+    ],
+    "correctIndex": 0,
+    "explanation": "El acercamiento aumenta la frecuencia y el alejamiento la reduce."
+  },
+  {
+    "id": "cg-1202",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué describe la ley de desplazamiento de Wien?",
+    "options": [
+      "que el máximo de emisión se desplaza hacia longitudes de onda menores al aumentar la temperatura",
+      "que la presión y el volumen son inversos",
+      "que la energía se conserva",
+      "que la corriente induce un campo magnético"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wien relacionó la temperatura de un cuerpo negro con la longitud de onda de máxima emisión."
+  },
+  {
+    "id": "cg-1203",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué físico estadounidense verificó experimentalmente la ecuación de Einstein del efecto fotoeléctrico?",
+    "options": [
+      "Arthur Compton",
+      "Robert Millikan",
+      "Ernest Rutherford",
+      "Niels Bohr"
+    ],
+    "correctIndex": 1,
+    "explanation": "Millikan confirmó en 1916 la relación entre energía cinética y frecuencia de la luz."
+  },
+  {
+    "id": "cg-1204",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué es el efecto Compton?",
+    "options": [
+      "la emisión de electrones por calor",
+      "la desviación de la luz por la gravedad",
+      "el aumento de la longitud de onda de los rayos X al dispersarse en electrones",
+      "la polarización de la luz por un filtro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Compton demostró que los fotones transfieren momento a los electrones."
+  },
+  {
+    "id": "cg-1205",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué es la masa crítica de un material fisible?",
+    "options": [
+      "la masa máxima que puede fundirse",
+      "la masa de los productos de fisión",
+      "la masa mínima para mantener una reacción nuclear en cadena",
+      "la masa de un neutrón libre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Por debajo de la masa crítica la reacción en cadena no se sostiene."
+  },
+  {
+    "id": "cg-1206",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué ingeniero serbio-estadounidense impulsó los sistemas de corriente alterna polifásica?",
+    "options": [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "George Westinghouse",
+      "Michael Faraday"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tesla desarrolló motores y sistemas polifásicos de corriente alterna."
+  },
+  {
+    "id": "cg-1207",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Cuál es la velocidad del sonido en el aire a unos 20 °C?",
+    "options": [
+      "unos 34 m/s",
+      "unos 1 500 m/s",
+      "unos 343 m/s",
+      "unos 3 430 m/s"
+    ],
+    "correctIndex": 2,
+    "explanation": "La velocidad del sonido en el aire aumenta con la temperatura."
+  },
+  {
+    "id": "cg-1208",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "medium",
+    "question": "¿Qué nivel de intensidad sonora corresponde al umbral de audición humana?",
+    "options": [
+      "20 dB",
+      "0 dB",
+      "60 dB",
+      "120 dB"
+    ],
+    "correctIndex": 1,
+    "explanation": "El umbral se toma como referencia de 10⁻¹² vatios por metro cuadrado."
+  },
+  {
+    "id": "cg-1209",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Cuál es el factor de Lorentz para una velocidad de 0,6c?",
+    "options": [
+      "1,67",
+      "1,25",
+      "0,80",
+      "1,50"
+    ],
+    "correctIndex": 1,
+    "explanation": "El factor es 1 dividido por la raíz de 1 menos 0,36, es decir, 1/0,8."
+  },
+  {
+    "id": "cg-1210",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué efecto relativista explica que los muones atmosféricos lleguen al suelo pese a su corta vida media?",
+    "options": [
+      "la contracción de la carga",
+      "la dilatación del tiempo",
+      "el efecto fotoeléctrico",
+      "la dispersión de Compton"
+    ],
+    "correctIndex": 1,
+    "explanation": "Desde el marco terrestre, el reloj del muón avanza más despacio por su alta velocidad."
+  },
+  {
+    "id": "cg-1211",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué predice la relatividad general para la luz que escapa de una estrella muy masiva?",
+    "options": [
+      "se acelera y se corre hacia el azul",
+      "pierde energía y se corre hacia el rojo",
+      "no experimenta ningún cambio",
+      "se convierte en materia"
+    ],
+    "correctIndex": 1,
+    "explanation": "La gravedad profunda retrasa la luz y reduce la frecuencia observada desde fuera."
+  },
+  {
+    "id": "cg-1212",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué efecto se midió en el experimento de Pound y Rebka de 1959?",
+    "options": [
+      "la deflexión de la luz solar",
+      "el corrimiento gravitacional al rojo",
+      "la dilatación del tiempo por velocidad",
+      "el arrastre de marcos inerciales"
+    ],
+    "correctIndex": 1,
+    "explanation": "El experimento comparó fotones emitidos a distinta altura en una torre."
+  },
+  {
+    "id": "cg-1213",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué es el horizonte de sucesos de un agujero negro?",
+    "options": [
+      "una superficie sólida en el centro",
+      "una zona de gas incandescente",
+      "la frontera desde la que nada puede escapar",
+      "el borde del disco de acreción"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dentro del horizonte la velocidad de escape supera la de la luz."
+  },
+  {
+    "id": "cg-1214",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué predijo Stephen Hawking que emiten los agujeros negros?",
+    "options": [
+      "ondas sonoras",
+      "neutrinos de fisión",
+      "radiación térmica",
+      "luz visible de origen químico"
+    ],
+    "correctIndex": 2,
+    "explanation": "La radiación de Hawking se debe a efectos cuánticos cerca del horizonte."
+  },
+  {
+    "id": "cg-1215",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué problema de la física clásica resolvió la hipótesis cuántica de Planck?",
+    "options": [
+      "la precesión de Mercurio",
+      "la catástrofe ultravioleta",
+      "el espectro del helio",
+      "la desintegración beta"
+    ],
+    "correctIndex": 1,
+    "explanation": "La teoría clásica predecía una emisión infinita de energía a longitudes de onda cortas."
+  },
+  {
+    "id": "cg-1216",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué longitud de onda tiene un fotón de 2 eV en el vacío?",
+    "options": [
+      "unos 310 nm",
+      "unos 620 nm",
+      "unos 1 240 nm",
+      "unos 155 nm"
+    ],
+    "correctIndex": 1,
+    "explanation": "La relación práctica es λ en nanómetros igual a 1 240 dividido entre la energía en electronvoltios."
+  },
+  {
+    "id": "cg-1217",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Cuál es la energía aproximada de un fotón de 500 nm?",
+    "options": [
+      "1,24 eV",
+      "4,96 eV",
+      "0,50 eV",
+      "2,48 eV"
+    ],
+    "correctIndex": 3,
+    "explanation": "Con hc igual a 1 240 eV·nm, la energía es 1 240 dividido entre 500."
+  },
+  {
+    "id": "cg-1218",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué forma tiene la relación de incertidumbre entre energía y tiempo?",
+    "options": [
+      "ΔE·Δt ≥ ħ/2",
+      "ΔE·Δt ≥ h",
+      "ΔE·Δt ≥ ħ",
+      "ΔE·Δt ≥ 0"
+    ],
+    "correctIndex": 0,
+    "explanation": "La relación de Heisenberg limita la precisión simultánea de energía y tiempo de medición."
+  },
+  {
+    "id": "cg-1219",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué es el entrelazamiento cuántico?",
+    "options": [
+      "una unión física permanente entre dos átomos",
+      "una correlación entre partículas que no se explica por estados locales independientes",
+      "la transferencia de energía entre dos ondas clásicas",
+      "la superposición de dos fuerzas fundamentales"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las correlaciones entrelazadas persisten aunque las partículas estén separadas."
+  },
+  {
+    "id": "cg-1220",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué mostró la violación experimental de la desigualdad de Bell?",
+    "options": [
+      "que la relatividad general es falsa",
+      "que no pueden existir teorías de variables ocultas locales",
+      "que la energía no se conserva",
+      "que la luz tiene masa en reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los resultados experimentales coinciden con las predicciones de la mecánica cuántica."
+  },
+  {
+    "id": "cg-1221",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué físico francés realizó en 1982 experimentos clave sobre el entrelazamiento?",
+    "options": [
+      "Louis de Broglie",
+      "Alain Aspect",
+      "Pierre-Gilles de Gennes",
+      "Claude Cohen-Tannoudji"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aspect midió correlaciones entre fotones que violaban las desigualdades de Bell."
+  },
+  {
+    "id": "cg-1222",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué pretendía ilustrar el experimento mental del gato de Schrödinger?",
+    "options": [
+      "la validez del principio de Arquímedes",
+      "el funcionamiento de un reactor nuclear",
+      "la equivalencia entre masa y energía",
+      "lo problemático de aplicar la superposición a objetos macroscópicos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Schrödinger planteó una situación que hacía evidente la paradoja de la medición."
+  },
+  {
+    "id": "cg-1223",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué ecuación predijo la existencia del positrón?",
+    "options": [
+      "la ecuación de Schrödinger",
+      "la ecuación de Dirac",
+      "las ecuaciones de Maxwell",
+      "la ecuación de Boltzmann"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ecuación relativista de Dirac admitía soluciones de energía negativa asociadas a una antipartícula."
+  },
+  {
+    "id": "cg-1224",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué es el efecto túnel?",
+    "options": [
+      "la reflexión total de la luz en una fibra",
+      "la emisión de electrones por calor",
+      "el paso de una partícula por una barrera que clásicamente no podría superar",
+      "la desviación de partículas cargadas por un imán"
+    ],
+    "correctIndex": 2,
+    "explanation": "La función de onda tiene probabilidad no nula al otro lado de la barrera."
+  },
+  {
+    "id": "cg-1225",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué microscopio aprovecha el efecto túnel entre una punta y una muestra?",
+    "options": [
+      "el microscopio de efecto túnel",
+      "el microscopio óptico compuesto",
+      "el microscopio de fuerza atómica",
+      "el microscopio electrónico de barrido"
+    ],
+    "correctIndex": 0,
+    "explanation": "La corriente túnel depende de la distancia y permite resolver superficies átomo a átomo."
+  },
+  {
+    "id": "cg-1226",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué efecto describe la expulsión del campo magnético del interior de un superconductor?",
+    "options": [
+      "el efecto Meissner",
+      "el efecto Hall",
+      "el efecto Josephson",
+      "el efecto Seebeck"
+    ],
+    "correctIndex": 0,
+    "explanation": "El efecto Meissner es una manifestación del diamagnetismo perfecto del superconductor."
+  },
+  {
+    "id": "cg-1227",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué efecto hace que la conductancia Hall se cuantice en múltiplos de e²/h?",
+    "options": [
+      "el efecto Hall cuántico",
+      "el efecto Hall clásico",
+      "el efecto fotoeléctrico",
+      "el efecto Compton"
+    ],
+    "correctIndex": 0,
+    "explanation": "El efecto Hall cuántico se observa en gases bidimensionales de electrones a bajas temperaturas."
+  },
+  {
+    "id": "cg-1228",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Cuál es el cuanto de conductancia eléctrica?",
+    "options": [
+      "h/e²",
+      "e²/h",
+      "e/2h",
+      "2h/e"
+    ],
+    "correctIndex": 1,
+    "explanation": "La conductancia cuántica se expresa con la carga elemental y la constante de Planck."
+  },
+  {
+    "id": "cg-1229",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué partículas forman un gas de Fermi?",
+    "options": [
+      "fermiones con espín semientero",
+      "bosones con espín entero",
+      "fotones sin masa",
+      "moléculas sin espín"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los fermiones obedecen el principio de exclusión y llenan estados hasta la energía de Fermi."
+  },
+  {
+    "id": "cg-1230",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué es un condensado de Bose-Einstein?",
+    "options": [
+      "un gas de electrones apareados",
+      "un plasma de alta temperatura",
+      "un cristal de fermiones",
+      "un conjunto de bosones que ocupan el mismo estado cuántico fundamental"
+    ],
+    "correctIndex": 3,
+    "explanation": "A muy baja temperatura, muchos bosones comparten el estado de menor energía."
+  },
+  {
+    "id": "cg-1231",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué relación establece la ley de Wien?",
+    "options": [
+      "λmáx·T = constante",
+      "P = σ·T⁴",
+      "E = h·f",
+      "P·V = n·R·T"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al aumentar la temperatura, el máximo de emisión se desplaza a longitudes de onda más cortas."
+  },
+  {
+    "id": "cg-1232",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Cómo depende la potencia radiada por un cuerpo negro de su temperatura absoluta?",
+    "options": [
+      "del cuadrado",
+      "del cubo",
+      "de forma lineal",
+      "de la cuarta potencia"
+    ],
+    "correctIndex": 3,
+    "explanation": "La ley de Stefan-Boltzmann indica que la potencia es proporcional a T⁴."
+  },
+  {
+    "id": "cg-1233",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué fórmula relaciona la entropía con el número de microestados?",
+    "options": [
+      "S = k·T",
+      "S = Q/T",
+      "S = W/k",
+      "S = k·ln W"
+    ],
+    "correctIndex": 3,
+    "explanation": "La entropía es proporcional al logaritmo del número de microestados compatibles con el macroestado."
+  },
+  {
+    "id": "cg-1234",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué pretende ilustrar el demonio de Maxwell?",
+    "options": [
+      "la posibilidad aparente de violar el segundo principio de la termodinámica",
+      "la conservación de la carga eléctrica",
+      "la equivalencia entre masa y energía",
+      "la naturaleza ondulatoria del electrón"
+    ],
+    "correctIndex": 0,
+    "explanation": "El demonio separaría moléculas rápidas y lentas sin gastar trabajo, lo que reduciría la entropía."
+  },
+  {
+    "id": "cg-1235",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué predice la paradoja de los gemelos?",
+    "options": [
+      "que ambos envejecen igual",
+      "que el gemelo que se queda envejece menos",
+      "que el gemelo que viaja envejece menos",
+      "que el viajero envejece más"
+    ],
+    "correctIndex": 2,
+    "explanation": "El viajero cambia de marco inercial al regresar, por lo que su tiempo propio es menor."
+  },
+  {
+    "id": "cg-1236",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué ocurre con la longitud de un objeto medida desde un marco que se mueve a gran velocidad respecto a él?",
+    "options": [
+      "se contrae en la dirección del movimiento",
+      "se expande en la dirección del movimiento",
+      "no cambia",
+      "se contrae en todas las direcciones"
+    ],
+    "correctIndex": 0,
+    "explanation": "La contracción de Lorentz afecta solo la componente paralela a la velocidad relativa."
+  },
+  {
+    "id": "cg-1237",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué representan los diagramas de Feynman?",
+    "options": [
+      "órbitas de planetas",
+      "interacciones entre partículas mediante términos de perturbación",
+      "niveles de energía de un átomo",
+      "redes cristalinas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cada diagrama es una representación gráfica de una contribución al cálculo de amplitudes."
+  },
+  {
+    "id": "cg-1238",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué partícula media la interacción fuerte entre quarks?",
+    "options": [
+      "el fotón",
+      "el bosón Z",
+      "el gluón",
+      "el gravitón"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los gluones transportan la carga de color de la interacción fuerte."
+  },
+  {
+    "id": "cg-1239",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué bosones median la interacción nuclear débil?",
+    "options": [
+      "los gluones",
+      "los fotones",
+      "los bosones W y Z",
+      "los piones"
+    ],
+    "correctIndex": 2,
+    "explanation": "La interacción débil es responsable de la desintegración beta."
+  },
+  {
+    "id": "cg-1240",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué es la libertad asintótica?",
+    "options": [
+      "que la fuerza fuerte se debilita a distancias muy cortas",
+      "que la fuerza fuerte crece indefinidamente",
+      "que la gravedad desaparece a corta distancia",
+      "que la masa se conserva en toda reacción"
+    ],
+    "correctIndex": 0,
+    "explanation": "A distancias pequeñas los quarks se comportan casi como partículas libres."
+  },
+  {
+    "id": "cg-1241",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué implica el confinamiento del color?",
+    "options": [
+      "que los quarks no se observan aislados",
+      "que la luz no puede escapar de un agujero negro",
+      "que los colores se mezclan en la retina",
+      "que la carga eléctrica se conserva"
+    ],
+    "correctIndex": 0,
+    "explanation": "La energía necesaria para separar quarks crea nuevas parejas en lugar de liberarlos."
+  },
+  {
+    "id": "cg-1242",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué demostró el experimento de Stern y Gerlach?",
+    "options": [
+      "la existencia del neutrón",
+      "la difracción de electrones",
+      "la cuantización del espín atómico",
+      "la constancia de la velocidad de la luz"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un haz de átomos de plata se dividió en dos al atravesar un campo magnético no uniforme."
+  },
+  {
+    "id": "cg-1243",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Cuál es el valor aproximado de la constante de estructura fina?",
+    "options": [
+      "1/2",
+      "1/1836",
+      "1/10⁶",
+      "1/137"
+    ],
+    "correctIndex": 3,
+    "explanation": "La constante de estructura fina caracteriza la fuerza de la interacción electromagnética."
+  },
+  {
+    "id": "cg-1244",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué escala representa la longitud de Planck?",
+    "options": [
+      "la escala donde la gravedad cuántica sería relevante",
+      "el tamaño típico de un protón",
+      "la distancia entre átomos en un sólido",
+      "el radio de la Tierra"
+    ],
+    "correctIndex": 0,
+    "explanation": "La longitud de Planck es del orden de 10⁻³⁵ metros."
+  },
+  {
+    "id": "cg-1245",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué evidencia principal sugiere la existencia de materia oscura en las galaxias?",
+    "options": [
+      "el exceso de luz visible",
+      "las curvas de rotación planas",
+      "la ausencia de gas interestelar",
+      "la emisión de rayos X del centro galáctico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las estrellas exteriores giran demasiado rápido para la masa visible de la galaxia."
+  },
+  {
+    "id": "cg-1246",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué se atribuye a la energía oscura?",
+    "options": [
+      "la formación de agujeros negros",
+      "la rotación de las galaxias",
+      "la aceleración de la expansión del universo",
+      "el calentamiento del núcleo solar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las observaciones de supernovas lejanas indican una expansión acelerada."
+  },
+  {
+    "id": "cg-1247",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Cuál es la temperatura actual de la radiación de fondo de microondas?",
+    "options": [
+      "unos 27 K",
+      "unos 0,27 K",
+      "unos 2,7 K",
+      "unos 270 K"
+    ],
+    "correctIndex": 2,
+    "explanation": "La radiación cósmica de fondo es un remanente del universo temprano."
+  },
+  {
+    "id": "cg-1248",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué relaciona el teorema de Noether?",
+    "options": [
+      "la masa con la energía",
+      "la carga con la masa",
+      "las simetrías continuas con las leyes de conservación",
+      "la fuerza con la aceleración"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cada simetría continua del sistema da lugar a una magnitud conservada."
+  },
+  {
+    "id": "cg-1249",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué afirma el principio de equivalencia?",
+    "options": [
+      "que un campo gravitatorio uniforme es localmente indistinguible de un sistema acelerado",
+      "que masa y energía son iguales",
+      "que la luz siempre viaja en línea recta",
+      "que la entropía nunca disminuye"
+    ],
+    "correctIndex": 0,
+    "explanation": "Einstein lo usó como punto de partida de la relatividad general."
+  },
+  {
+    "id": "cg-1250",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué describe la métrica de Schwarzschild?",
+    "options": [
+      "el universo en expansión acelerada",
+      "el espacio-tiempo alrededor de una masa esférica sin rotación",
+      "un agujero negro con rotación máxima",
+      "una onda gravitacional plana"
+    ],
+    "correctIndex": 1,
+    "explanation": "Es la primera solución exacta de las ecuaciones de Einstein."
+  },
+  {
+    "id": "cg-1251",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué es la radiación de Cherenkov?",
+    "options": [
+      "radiación emitida al frenar electrones",
+      "radiación térmica de un cuerpo negro",
+      "emisión de rayos X por transiciones atómicas",
+      "luz emitida por partículas que superan la velocidad de la luz en un medio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Se produce, por ejemplo, en reactores nucleares sumergidos en agua."
+  },
+  {
+    "id": "cg-1252",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué es la radiación de frenado?",
+    "options": [
+      "luz emitida por un láser",
+      "radiación de un cuerpo a temperatura constante",
+      "emisión de partículas alfa",
+      "radiación emitida cuando se desaceleran partículas cargadas"
+    ],
+    "correctIndex": 3,
+    "explanation": "También se conoce como bremsstrahlung y produce rayos X en tubos de vacío."
+  },
+  {
+    "id": "cg-1253",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué ecuación describe el decaimiento radiactivo de una muestra?",
+    "options": [
+      "N = N₀·(1 + λt)",
+      "N = N₀·λt",
+      "N = N₀·e^(−λt)",
+      "N = N₀/λ"
+    ],
+    "correctIndex": 2,
+    "explanation": "El número de núcleos disminuye exponencialmente con el tiempo."
+  },
+  {
+    "id": "cg-1254",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "Si la constante de decaimiento es 0,693 por año, ¿cuál es la vida media?",
+    "options": [
+      "0,693 años",
+      "1 año",
+      "2 años",
+      "10 años"
+    ],
+    "correctIndex": 1,
+    "explanation": "La vida media es el logaritmo natural de 2 dividido entre la constante de decaimiento."
+  },
+  {
+    "id": "cg-1255",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué es el defecto de masa de un núcleo?",
+    "options": [
+      "la diferencia entre la masa de sus nucleones separados y la del núcleo unido",
+      "la masa de los electrones orbitales",
+      "la masa perdida al ionizar el átomo",
+      "la diferencia entre protón y neutrón"
+    ],
+    "correctIndex": 0,
+    "explanation": "La masa faltante se libera como energía de enlace según E = mc²."
+  },
+  {
+    "id": "cg-1256",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué es la energía de enlace nuclear?",
+    "options": [
+      "la energía para ionizar un átomo",
+      "la energía de un fotón visible",
+      "la energía térmica de un gas",
+      "la energía necesaria para separar un núcleo en sus nucleones"
+    ],
+    "correctIndex": 3,
+    "explanation": "Una mayor energía de enlace por nucleón indica un núcleo más estable."
+  },
+  {
+    "id": "cg-1257",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué proceso es la base del funcionamiento del láser?",
+    "options": [
+      "la emisión estimulada",
+      "la emisión espontánea",
+      "la absorción total",
+      "la fisión nuclear"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un fotón incidente provoca que un átomo excitado emita otro fotón idéntico."
+  },
+  {
+    "id": "cg-1258",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué caracteriza a la luz de un láser?",
+    "options": [
+      "su coherencia espacial y temporal",
+      "su espectro continuo de frecuencias",
+      "su propagación solo en el vacío",
+      "su capacidad de atravesar cualquier material"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las ondas láser mantienen una relación de fase estable."
+  },
+  {
+    "id": "cg-1259",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué permite determinar la ley de Bragg?",
+    "options": [
+      "la masa de un planeta por su órbita",
+      "la carga del electrón",
+      "distancias entre planos atómicos mediante difracción de rayos X",
+      "la velocidad del sonido en un gas"
+    ],
+    "correctIndex": 2,
+    "explanation": "La interferencia constructiva de rayos X revela la estructura cristalina."
+  },
+  {
+    "id": "cg-1260",
+    "category": "general",
+    "topic": "physics",
+    "difficulty": "hard",
+    "question": "¿Qué ocurre cuando la luz incide sobre un dieléctrico con el ángulo de Brewster?",
+    "options": [
+      "la luz se absorbe por completo",
+      "la luz reflejada queda polarizada",
+      "la luz se dispersa en todos los colores",
+      "la luz cambia de frecuencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "En ese ángulo, la componente con polarización paralela al plano de incidencia no se refleja."
+  }
+]

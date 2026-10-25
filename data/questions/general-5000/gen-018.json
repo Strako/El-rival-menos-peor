@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-5421",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor neerlandés creó La noche estrellada en 1889?",
+    "options": [
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Paul Cézanne",
+      "Paul Gauguin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Van Gogh pintó La noche estrellada en Saint-Rémy-de-Provence en 1889."
+  },
+  {
+    "id": "cg-5422",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué artista renacentista italiano pintó el retrato conocido como la Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Miguel Ángel",
+      "Rafael",
+      "Sandro Botticelli"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leonardo da Vinci pintó la Mona Lisa a comienzos del siglo XVI y hoy se exhibe en el Louvre."
+  },
+  {
+    "id": "cg-5423",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor español creó el mural Guernica en 1937?",
+    "options": [
+      "Salvador Dalí",
+      "Joan Miró",
+      "Pablo Picasso",
+      "Francisco de Goya"
+    ],
+    "correctIndex": 2,
+    "explanation": "Picasso pintó Guernica como denuncia del bombardeo de la ciudad vasca en 1937."
+  },
+  {
+    "id": "cg-5424",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué artista italiano pintó la bóveda de la Capilla Sixtina?",
+    "options": [
+      "Rafael",
+      "Tiziano",
+      "Miguel Ángel",
+      "Sandro Botticelli"
+    ],
+    "correctIndex": 2,
+    "explanation": "Miguel Ángel pintó los frescos de la bóveda de la Capilla Sixtina entre 1508 y 1512."
+  },
+  {
+    "id": "cg-5425",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor noruego creó El grito hacia 1893?",
+    "options": [
+      "Gustav Klimt",
+      "Edvard Munch",
+      "Vasili Kandinski",
+      "James Ensor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Munch representó en El grito una figura angustiada sobre un puente."
+  },
+  {
+    "id": "cg-5426",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor austriaco creó El beso entre 1907 y 1908?",
+    "options": [
+      "Egon Schiele",
+      "Gustav Klimt",
+      "Alfons Mucha",
+      "Oskar Kokoschka"
+    ],
+    "correctIndex": 1,
+    "explanation": "Klimt pintó El beso durante su etapa dorada, con pan de oro sobre el lienzo."
+  },
+  {
+    "id": "cg-5427",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintora mexicana es célebre por sus autorretratos y por su vínculo con Diego Rivera?",
+    "options": [
+      "Frida Kahlo",
+      "Remedios Varo",
+      "María Izquierdo",
+      "Leonora Carrington"
+    ],
+    "correctIndex": 0,
+    "explanation": "Frida Kahlo retrató su vida y su dolor en numerosos autorretratos."
+  },
+  {
+    "id": "cg-5428",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor neerlandés del siglo XVII pintó La ronda de noche?",
+    "options": [
+      "Johannes Vermeer",
+      "Rembrandt",
+      "Frans Hals",
+      "Peter Paul Rubens"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rembrandt pintó La ronda de noche en 1642 para una compañía de la milicia de Ámsterdam."
+  },
+  {
+    "id": "cg-5429",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor neerlandés del siglo XVII pintó La joven de la perla?",
+    "options": [
+      "Johannes Vermeer",
+      "Rembrandt",
+      "Anthony van Dyck",
+      "Frans Hals"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vermeer pintó La joven de la perla hacia 1665 y se conserva en el Mauritshuis de La Haya."
+  },
+  {
+    "id": "cg-5430",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor impresionista francés pintó Impresión, sol naciente en 1872?",
+    "options": [
+      "Claude Monet",
+      "Pierre-Auguste Renoir",
+      "Camille Pissarro",
+      "Alfred Sisley"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cuadro de Monet, mostrado en 1874, dio nombre al movimiento impresionista."
+  },
+  {
+    "id": "cg-5431",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor francés pintó Almuerzo de remeros entre 1880 y 1881?",
+    "options": [
+      "Claude Monet",
+      "Edgar Degas",
+      "Édouard Manet",
+      "Pierre-Auguste Renoir"
+    ],
+    "correctIndex": 3,
+    "explanation": "Renoir retrató a sus amigos reunidos en la terraza de un restaurante a orillas del Sena."
+  },
+  {
+    "id": "cg-5432",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor francés es famoso por sus bailarinas de ballet dibujadas al pastel?",
+    "options": [
+      "Henri de Toulouse-Lautrec",
+      "Edgar Degas",
+      "Pierre-Auguste Renoir",
+      "Mary Cassatt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Degas observó ensayos y clases de ballet y representó a las bailarinas en pastel y óleo."
+  },
+  {
+    "id": "cg-5433",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor francés pintó repetidamente la montaña Sainte-Victoire?",
+    "options": [
+      "Paul Cézanne",
+      "Claude Monet",
+      "Camille Pissarro",
+      "Georges Braque"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cézanne pintó decenas de vistas de la montaña Sainte-Victoire cerca de Aix-en-Provence."
+  },
+  {
+    "id": "cg-5434",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor francés viajó a Tahití y pintó Mujeres de Tahití en 1891?",
+    "options": [
+      "Vincent van Gogh",
+      "Paul Gauguin",
+      "Henri Rousseau",
+      "Henri Matisse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gauguin buscó en la Polinesia francesa un arte alejado de la tradición europea."
+  },
+  {
+    "id": "cg-5435",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor español pintó Las meninas en 1656?",
+    "options": [
+      "Francisco de Goya",
+      "El Greco",
+      "Diego Velázquez",
+      "Bartolomé Esteban Murillo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Velázquez pintó Las meninas en la corte de Felipe IV y hoy se conserva en el Prado."
+  },
+  {
+    "id": "cg-5436",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor español creó Saturno devorando a su hijo hacia 1820?",
+    "options": [
+      "Diego Velázquez",
+      "José de Ribera",
+      "Francisco de Zurbarán",
+      "Francisco de Goya"
+    ],
+    "correctIndex": 3,
+    "explanation": "Goya pintó esta escena mitológica en las Pinturas negras de su Quinta del Sordo."
+  },
+  {
+    "id": "cg-5437",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor cretense afincado en España pintó El entierro del conde de Orgaz?",
+    "options": [
+      "Diego Velázquez",
+      "Bartolomé Esteban Murillo",
+      "El Greco",
+      "José de Ribera"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Greco pintó la obra en 1586 para la iglesia de Santo Tomé, en Toledo."
+  },
+  {
+    "id": "cg-5438",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor alemán del Renacimiento creó su Autorretrato con guantes en 1498?",
+    "options": [
+      "Hans Holbein el Joven",
+      "Lucas Cranach el Viejo",
+      "Alberto Durero",
+      "Matthias Grünewald"
+    ],
+    "correctIndex": 2,
+    "explanation": "Durero se representó con guantes y vestimenta elegante; el cuadro está en el Prado."
+  },
+  {
+    "id": "cg-5439",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor flamenco pintó El descendimiento de la cruz para la catedral de Amberes?",
+    "options": [
+      "Anthony van Dyck",
+      "Pieter Bruegel el Viejo",
+      "Hans Memling",
+      "Peter Paul Rubens"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rubens realizó el tríptico del Descendimiento entre 1612 y 1614."
+  },
+  {
+    "id": "cg-5440",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor italiano del Barroco pintó La vocación de san Mateo en la capilla Contarelli?",
+    "options": [
+      "Annibale Carracci",
+      "Guido Reni",
+      "Caravaggio",
+      "Tiziano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Caravaggio pintó el ciclo de san Mateo en San Luis de los Franceses, en Roma."
+  },
+  {
+    "id": "cg-5441",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor italiano del Renacimiento pintó La escuela de Atenas en el Vaticano?",
+    "options": [
+      "Miguel Ángel",
+      "Leonardo da Vinci",
+      "Rafael",
+      "Tiziano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rafael pintó La escuela de Atenas en las Estancias Vaticanas entre 1510 y 1511."
+  },
+  {
+    "id": "cg-5442",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor veneciano del Renacimiento pintó La tempestad hacia 1508?",
+    "options": [
+      "Giorgione",
+      "Tiziano",
+      "Paolo Veronese",
+      "Tintoretto"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tempestad de Giorgione se conserva en la Galería de la Academia de Venecia."
+  },
+  {
+    "id": "cg-5443",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor florentino pintó El nacimiento de Venus para la familia Médici?",
+    "options": [
+      "Sandro Botticelli",
+      "Domenico Ghirlandaio",
+      "Andrea Mantegna",
+      "Piero della Francesca"
+    ],
+    "correctIndex": 0,
+    "explanation": "Botticelli pintó El nacimiento de Venus hacia 1485 y hoy está en los Uffizi."
+  },
+  {
+    "id": "cg-5444",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor francés creó Una tarde de domingo en la isla de la Grande Jatte?",
+    "options": [
+      "Georges Seurat",
+      "Paul Signac",
+      "Camille Pissarro",
+      "Pierre Bonnard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Seurat empleó la técnica puntillista en esta escena del Sena."
+  },
+  {
+    "id": "cg-5445",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué artista francés diseñó carteles del cabaret Moulin Rouge en la década de 1890?",
+    "options": [
+      "Henri de Toulouse-Lautrec",
+      "Alfons Mucha",
+      "Jules Chéret",
+      "Théophile Steinlen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Toulouse-Lautrec retrató la vida nocturna parisina en litografías y pinturas."
+  },
+  {
+    "id": "cg-5446",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor ruso creó Composición VII en 1913?",
+    "options": [
+      "Kazimir Malévich",
+      "Piet Mondrian",
+      "Paul Klee",
+      "Vasili Kandinski"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kandinski pintó Composición VII antes de regresar a Rusia al estallar la Primera Guerra Mundial."
+  },
+  {
+    "id": "cg-5447",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor neerlandés creó Broadway Boogie Woogie en Nueva York?",
+    "options": [
+      "Theo van Doesburg",
+      "Vasili Kandinski",
+      "Piet Mondrian",
+      "Paul Klee"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mondrian pintó Broadway Boogie Woogie entre 1942 y 1943, ya instalado en Nueva York."
+  },
+  {
+    "id": "cg-5448",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor catalán pintó La persistencia de la memoria en 1931?",
+    "options": [
+      "Joan Miró",
+      "Salvador Dalí",
+      "Pablo Picasso",
+      "René Magritte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dalí representó relojes blandos en un paisaje onírico; el cuadro está en el MoMA."
+  },
+  {
+    "id": "cg-5449",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor belga pintó una pipa acompañada del texto Ceci n'est pas une pipe?",
+    "options": [
+      "Paul Delvaux",
+      "James Ensor",
+      "René Magritte",
+      "Salvador Dalí"
+    ],
+    "correctIndex": 2,
+    "explanation": "Magritte tituló la obra La traición de las imágenes y cuestionó la representación."
+  },
+  {
+    "id": "cg-5450",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué artista catalán creó la escultura Dona i Ocell en Barcelona?",
+    "options": [
+      "Pablo Picasso",
+      "Joan Miró",
+      "Salvador Dalí",
+      "Eduardo Chillida"
+    ],
+    "correctIndex": 1,
+    "explanation": "La escultura Dona i Ocell, de 1983, combina formas y cerámica en un parque de Barcelona."
+  },
+  {
+    "id": "cg-5451",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué artista estadounidense pintó las latas de sopa Campbell?",
+    "options": [
+      "Roy Lichtenstein",
+      "Andy Warhol",
+      "Robert Rauschenberg",
+      "Claes Oldenburg"
+    ],
+    "correctIndex": 1,
+    "explanation": "Warhol presentó en 1962 una serie de treinta y dos latas de sopa Campbell."
+  },
+  {
+    "id": "cg-5452",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué artista estadounidense pintó viñetas de cómic como Whaam!?",
+    "options": [
+      "Andy Warhol",
+      "Roy Lichtenstein",
+      "Ed Ruscha",
+      "James Rosenquist"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lichtenstein amplió viñetas de cómics y reprodujo la trama de puntos de impresión."
+  },
+  {
+    "id": "cg-5453",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor estadounidense es conocido por sus lienzos de goteo y salpicadura?",
+    "options": [
+      "Mark Rothko",
+      "Willem de Kooning",
+      "Jackson Pollock",
+      "Barnett Newman"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pollock trabajó con la técnica del dripping o chorreado sobre el lienzo extendido en el suelo."
+  },
+  {
+    "id": "cg-5454",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor estadounidense pintó Noctámbulos en 1942?",
+    "options": [
+      "Grant Wood",
+      "Thomas Hart Benton",
+      "Edward Hopper",
+      "Andrew Wyeth"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hopper mostró una cafetería nocturna de Nueva York; la obra está en Chicago."
+  },
+  {
+    "id": "cg-5455",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor estadounidense creó Gótico estadounidense en 1930?",
+    "options": [
+      "Grant Wood",
+      "Edward Hopper",
+      "Norman Rockwell",
+      "Thomas Hart Benton"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wood retrató a un matrimonio frente a una casa de estilo gótico en Iowa."
+  },
+  {
+    "id": "cg-5456",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintora estadounidense pintó grandes flores y cráneos de animales de Nuevo México?",
+    "options": [
+      "Mary Cassatt",
+      "Frida Kahlo",
+      "Georgia O'Keeffe",
+      "Joan Mitchell"
+    ],
+    "correctIndex": 2,
+    "explanation": "O'Keeffe desarrolló un lenguaje propio a partir de formas naturales del suroeste estadounidense."
+  },
+  {
+    "id": "cg-5457",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintora estadounidense impresionista pintó El baño del niño?",
+    "options": [
+      "Mary Cassatt",
+      "Berthe Morisot",
+      "Cecilia Beaux",
+      "William Merritt Chase"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cassatt vivió en Francia y representó con frecuencia la relación entre madres e hijos."
+  },
+  {
+    "id": "cg-5458",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor neerlandés del siglo XV pintó El matrimonio Arnolfini?",
+    "options": [
+      "Rogier van der Weyden",
+      "Jan van Eyck",
+      "Hans Memling",
+      "El Bosco"
+    ],
+    "correctIndex": 1,
+    "explanation": "Van Eyck firmó el retrato doble en 1434; se conserva en la National Gallery de Londres."
+  },
+  {
+    "id": "cg-5459",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor flamenco del siglo XVI pintó El banquete de bodas campesino?",
+    "options": [
+      "Pieter Bruegel el Viejo",
+      "El Bosco",
+      "Peter Paul Rubens",
+      "Joachim Patinir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bruegel retrató escenas de la vida rural con detalle y humor."
+  },
+  {
+    "id": "cg-5460",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué artista alemán del surrealismo inventó la técnica del frottage?",
+    "options": [
+      "Hans Arp",
+      "Max Ernst",
+      "Salvador Dalí",
+      "André Masson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ernst frotó papeles sobre superficies rugosas para obtener imágenes inesperadas."
+  },
+  {
+    "id": "cg-5461",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué escultor francés creó El pensador y Las puertas del infierno?",
+    "options": [
+      "Auguste Rodin",
+      "Aristide Maillol",
+      "Antoine Bourdelle",
+      "Camille Claudel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rodin concibió El pensador como figura central de Las puertas del infierno."
+  },
+  {
+    "id": "cg-5462",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué escultor rumano esculpió El beso y el conjunto de Târgu Jiu?",
+    "options": [
+      "Ossip Zadkine",
+      "Constantin Brancusi",
+      "Jean Arp",
+      "Jacques Lipchitz"
+    ],
+    "correctIndex": 1,
+    "explanation": "Brancusi simplificó las formas hasta la abstracción en sus versiones de El beso."
+  },
+  {
+    "id": "cg-5463",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué escultor británico creó formas abstractas perforadas y tendidas en el paisaje?",
+    "options": [
+      "Henry Moore",
+      "Alberto Giacometti",
+      "Marino Marini",
+      "Germaine Richier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Moore exploró el cuerpo humano y el hueco en esculturas de bronce y piedra."
+  },
+  {
+    "id": "cg-5464",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué escultor suizo es conocido por sus figuras humanas extremadamente delgadas?",
+    "options": [
+      "Henry Moore",
+      "Marino Marini",
+      "Alberto Giacometti",
+      "Alexander Calder"
+    ],
+    "correctIndex": 2,
+    "explanation": "Giacometti redujo sus figuras a una presencia frágil y alargada tras la Segunda Guerra Mundial."
+  },
+  {
+    "id": "cg-5465",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué escultor italiano del Barroco creó el Éxtasis de santa Teresa?",
+    "options": [
+      "Francesco Borromini",
+      "Gian Lorenzo Bernini",
+      "Alessandro Algardi",
+      "Carlo Maderno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bernini realizó el grupo para la capilla Cornaro de Santa Maria della Vittoria, en Roma."
+  },
+  {
+    "id": "cg-5466",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué escultor renacentista italiano esculpió el San Jorge de Orsanmichele?",
+    "options": [
+      "Lorenzo Ghiberti",
+      "Donatello",
+      "Andrea del Verrocchio",
+      "Baccio Bandinelli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Donatello talló el San Jorge para el gremio de los armeros de Florencia."
+  },
+  {
+    "id": "cg-5467",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué escultor italiano fundió el Perseo con la cabeza de Medusa en Florencia?",
+    "options": [
+      "Giambologna",
+      "Donatello",
+      "Benvenuto Cellini",
+      "Bartolomeo Ammannati"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cellini realizó el Perseo en bronce entre 1545 y 1554 para la Loggia dei Lanzi."
+  },
+  {
+    "id": "cg-5468",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué escultor griego clásico esculpió el Discóbolo?",
+    "options": [
+      "Fidias",
+      "Policleto",
+      "Praxíteles",
+      "Mirón"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mirón representó a un atleta en el momento de lanzar el disco; se conoce por copias romanas."
+  },
+  {
+    "id": "cg-5469",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué escultor griego dirigió la decoración escultórica del Partenón?",
+    "options": [
+      "Fidias",
+      "Mirón",
+      "Scopas",
+      "Lisipo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fidias supervisó el friso y las metopas del Partenón en Atenas en el siglo V a. C."
+  },
+  {
+    "id": "cg-5470",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué grupo escultórico helenístico muestra a un sacerdote troyano y a sus hijos atacados por serpientes?",
+    "options": [
+      "Laocoonte",
+      "Venus de Milo",
+      "Victoria de Samotracia",
+      "Discóbolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El grupo de Laocoonte se descubrió en Roma en 1506 y está en los Museos Vaticanos."
+  },
+  {
+    "id": "cg-5471",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿En qué museo parisino se conserva la Venus de Milo?",
+    "options": [
+      "Museo de Orsay",
+      "Centro Pompidou",
+      "Museo Rodin",
+      "Louvre"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Venus de Milo, hallada en la isla de Melos, ingresó al Louvre en 1821."
+  },
+  {
+    "id": "cg-5472",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué conjunto de esculturas de terracota se descubrió en 1974 cerca de Xi'an?",
+    "options": [
+      "Moáis de Rapa Nui",
+      "Guerreros de terracota",
+      "Bronces de Benín",
+      "Cabezas olmecas"
+    ],
+    "correctIndex": 1,
+    "explanation": "El ejército de terracota custodiaba la tumba del primer emperador Qin."
+  },
+  {
+    "id": "cg-5473",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué cultura precolombina talló cabezas colosales de basalto en el golfo de México?",
+    "options": [
+      "Maya",
+      "Azteca",
+      "Olmeca",
+      "Nazca"
+    ],
+    "correctIndex": 2,
+    "explanation": "La civilización olmeca esculpió cabezas de gobernantes entre 1200 y 400 a. C."
+  },
+  {
+    "id": "cg-5474",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pueblo de la isla de Pascua talló las grandes figuras de piedra llamadas moáis?",
+    "options": [
+      "Rapa Nui",
+      "Maorí",
+      "Tahitiano",
+      "Samoano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los habitantes de Rapa Nui erigieron los moáis como representaciones de antepasados."
+  },
+  {
+    "id": "cg-5475",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué busto egipcio del Museo Neues de Berlín representa a una reina del siglo XIV a. C.?",
+    "options": [
+      "Cleopatra VII",
+      "Hatshepsut",
+      "Tiye",
+      "Nefertiti"
+    ],
+    "correctIndex": 3,
+    "explanation": "El busto de Nefertiti, hallado en Amarna, se trasladó a Berlín en 1924."
+  },
+  {
+    "id": "cg-5476",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué máscara funeraria de oro se halló en 1922 en la tumba de un faraón del Valle de los Reyes?",
+    "options": [
+      "Tutankamón",
+      "Ramsés II",
+      "Akhenatón",
+      "Seti I"
+    ],
+    "correctIndex": 0,
+    "explanation": "Howard Carter encontró la máscara de Tutankamón, hoy en el Museo Egipcio de El Cairo."
+  },
+  {
+    "id": "cg-5477",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿En qué museo madrileño se exhibe Las meninas de Velázquez?",
+    "options": [
+      "Museo Reina Sofía",
+      "Museo Thyssen-Bornemisza",
+      "Monasterio de El Escorial",
+      "Museo del Prado"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las meninas forma parte de la colección del Museo del Prado desde 1819."
+  },
+  {
+    "id": "cg-5478",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿En qué museo parisino se exhibe la Mona Lisa de Leonardo da Vinci?",
+    "options": [
+      "Museo de Orsay",
+      "Centro Pompidou",
+      "Louvre",
+      "Museo de la Orangerie"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Mona Lisa se expone en la sala de los Estados del Louvre."
+  },
+  {
+    "id": "cg-5479",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué artista japonés creó Treinta y seis vistas del monte Fuji?",
+    "options": [
+      "Utagawa Hiroshige",
+      "Kitagawa Utamaro",
+      "Toshusai Sharaku",
+      "Katsushika Hokusai"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hokusai publicó la serie de xilografías entre 1830 y 1832, con La gran ola como imagen célebre."
+  },
+  {
+    "id": "cg-5480",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué artista japonés creó Cien famosas vistas de Edo?",
+    "options": [
+      "Katsushika Hokusai",
+      "Kitagawa Utamaro",
+      "Utagawa Hiroshige",
+      "Sesshu Toyo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hiroshige publicó sus vistas de Edo en la década de 1850 y influyó en el impresionismo."
+  },
+  {
+    "id": "cg-5481",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué técnica de grabado japonesa del periodo Edo usó planchas de madera y colores vivos?",
+    "options": [
+      "Sumi-e",
+      "Nihonga",
+      "Ukiyo-e",
+      "Rimpa"
+    ],
+    "correctIndex": 2,
+    "explanation": "El ukiyo-e retrató actores, cortesanas y paisajes con estampas policromas."
+  },
+  {
+    "id": "cg-5482",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor chino del siglo XX es famoso por sus caballos pintados a tinta?",
+    "options": [
+      "Qi Baishi",
+      "Zhang Daqian",
+      "Liu Haisu",
+      "Xu Beihong"
+    ],
+    "correctIndex": 3,
+    "explanation": "Xu Beihong combinó formación europea con la tradición de la tinta china."
+  },
+  {
+    "id": "cg-5483",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pintor chino es célebre por sus camarones y gambas pintados a tinta?",
+    "options": [
+      "Xu Beihong",
+      "Qi Baishi",
+      "Zhang Daqian",
+      "Wu Guanzhong"
+    ],
+    "correctIndex": 1,
+    "explanation": "Qi Baishi observó animales y plantas cotidianos con un trazo económico y expresivo."
+  },
+  {
+    "id": "cg-5484",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de pintura india de la corte mogol se caracteriza por miniaturas muy detalladas?",
+    "options": [
+      "Pintura Pahari",
+      "Miniatura mogol",
+      "Arte Gandhara",
+      "Pintura Tanjore"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los talleres mogoles ilustraron crónicas y poemas con miniaturas refinadas."
+  },
+  {
+    "id": "cg-5485",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué cueva española es famosa por sus bisontes pintados en el Paleolítico?",
+    "options": [
+      "Lascaux",
+      "Chauvet",
+      "Altamira",
+      "Niaux"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las pinturas de Altamira, en Cantabria, se descubrieron en 1879."
+  },
+  {
+    "id": "cg-5486",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué cueva francesa conserva un célebre conjunto de pinturas paleolíticas de bisontes y caballos?",
+    "options": [
+      "Altamira",
+      "Chauvet",
+      "Tassili",
+      "Lascaux"
+    ],
+    "correctIndex": 3,
+    "explanation": "La cueva de Lascaux, en Dordoña, fue descubierta en 1940."
+  },
+  {
+    "id": "cg-5487",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué cultura africana creó las cabezas de bronce naturalista de Ife?",
+    "options": [
+      "Yoruba",
+      "Ashanti",
+      "Dogón",
+      "Zulú"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las cabezas de Ife, en Nigeria, testimonian el dominio de la fundición a la cera perdida."
+  },
+  {
+    "id": "cg-5488",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué reino africano produjo placas de bronce saqueadas por tropas británicas en 1897?",
+    "options": [
+      "Benín",
+      "Kongo",
+      "Mali",
+      "Etiopía"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las placas del palacio de Benín se repartieron entre museos europeos tras la expedición de 1897."
+  },
+  {
+    "id": "cg-5489",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué pueblo de Malí es conocido por sus esculturas de madera y sus máscaras rituales?",
+    "options": [
+      "Yoruba",
+      "Fang",
+      "Dogón",
+      "Kuba"
+    ],
+    "correctIndex": 2,
+    "explanation": "La escultura dogón se vincula con la cosmología y los ritos de la meseta de Bandiagara."
+  },
+  {
+    "id": "cg-5490",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué tradición pictórica australiana usa puntos y símbolos para representar el territorio y los relatos del Tiempo del Sueño?",
+    "options": [
+      "Arte maorí",
+      "Arte papúa",
+      "Arte samoano",
+      "Arte aborigen australiano"
+    ],
+    "correctIndex": 3,
+    "explanation": "La pintura con puntos surgió en Papunya en los años setenta y codifica conocimientos ancestrales."
+  },
+  {
+    "id": "cg-5491",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué tallas de madera maoríes representan antepasados y protectores?",
+    "options": [
+      "Moái",
+      "Totem",
+      "Tiki",
+      "Menhir"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los tiki maoríes son figuras estilizadas de antepasados con valor simbólico."
+  },
+  {
+    "id": "cg-5492",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué técnica pictórica tradicional usa la yema de huevo como aglutinante?",
+    "options": [
+      "Fresco",
+      "Óleo",
+      "Temple",
+      "Acuarela"
+    ],
+    "correctIndex": 2,
+    "explanation": "El temple fue habitual en la pintura medieval y del primer Renacimiento sobre tabla."
+  },
+  {
+    "id": "cg-5493",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué técnica consiste en pintar sobre un revoque de cal todavía húmedo?",
+    "options": [
+      "Temple",
+      "Encáustica",
+      "Gouache",
+      "Fresco"
+    ],
+    "correctIndex": 3,
+    "explanation": "En el fresco el pigmento se fija al carbonatarse la cal y forma parte del muro."
+  },
+  {
+    "id": "cg-5494",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué técnica pictórica usa pigmentos mezclados con un aceite secante?",
+    "options": [
+      "Acrílico",
+      "Temple",
+      "Óleo",
+      "Acuarela"
+    ],
+    "correctIndex": 2,
+    "explanation": "El óleo permite veladuras y retoques lentos y se difundió en Europa desde el siglo XV."
+  },
+  {
+    "id": "cg-5495",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué técnica japonesa emplea tinta negra y pincel sobre papel o seda?",
+    "options": [
+      "Ukiyo-e",
+      "Sumi-e",
+      "Nihonga",
+      "Rimpa"
+    ],
+    "correctIndex": 1,
+    "explanation": "El sumi-e busca captar la esencia del motivo con pocos trazos."
+  },
+  {
+    "id": "cg-5496",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué término italiano designa la transición suave de luces y sombras sin contornos marcados?",
+    "options": [
+      "Claroscuro",
+      "Tenebrismo",
+      "Sfumato",
+      "Impasto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Leonardo da Vinci llevó el sfumato a su máxima expresión en rostros como el de la Mona Lisa."
+  },
+  {
+    "id": "cg-5497",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué recurso pictórico usa fuertes contrastes entre luz y sombra para modelar el volumen?",
+    "options": [
+      "Sfumato",
+      "Grisalla",
+      "Puntillismo",
+      "Claroscuro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El claroscuro fue central en Caravaggio y en el barroco europeo."
+  },
+  {
+    "id": "cg-5498",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué técnica romana compone imágenes con pequeñas piezas llamadas teselas?",
+    "options": [
+      "Mosaico",
+      "Fresco",
+      "Estuco",
+      "Vitral"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los mosaicos decoraron villas y basílicas con teselas de piedra o vidrio."
+  },
+  {
+    "id": "cg-5499",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué arte decorativo usa vidrio coloreado en ventanas, especialmente en catedrales góticas?",
+    "options": [
+      "Mosaico",
+      "Azulejo",
+      "Vitral",
+      "Marquetería"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los vitrales góticos combinaron color, luz y narración religiosa."
+  },
+  {
+    "id": "cg-5500",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué técnica de estampación usa una piedra caliza como matriz?",
+    "options": [
+      "Xilografía",
+      "Aguafuerte",
+      "Serigrafía",
+      "Litografía"
+    ],
+    "correctIndex": 3,
+    "explanation": "La litografía, inventada por Senefelder en 1796, se basa en la repulsión entre agua y grasa."
+  },
+  {
+    "id": "cg-5501",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué técnica de grabado usa una plancha de madera tallada en relieve?",
+    "options": [
+      "Aguafuerte",
+      "Xilografía",
+      "Litografía",
+      "Serigrafía"
+    ],
+    "correctIndex": 1,
+    "explanation": "En la xilografía se vacían las zonas que no deben imprimirse."
+  },
+  {
+    "id": "cg-5502",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué técnica de grabado graba una plancha metálica con ácido?",
+    "options": [
+      "Xilografía",
+      "Aguafuerte",
+      "Litografía",
+      "Serigrafía"
+    ],
+    "correctIndex": 1,
+    "explanation": "En el aguafuerte el ácido corroe las líneas trazadas sobre la plancha."
+  },
+  {
+    "id": "cg-5503",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué movimiento pictórico francés surgido en la década de 1870 se caracteriza por pinceladas sueltas y estudio de la luz?",
+    "options": [
+      "Realismo",
+      "Impresionismo",
+      "Simbolismo",
+      "Neoclasicismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los impresionistas pintaron al aire libre y rechazaron el acabado académico."
+  },
+  {
+    "id": "cg-5504",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué movimiento de comienzos del siglo XX descompone la realidad en planos geométricos?",
+    "options": [
+      "Futurismo",
+      "Cubismo",
+      "Fauvismo",
+      "Expresionismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Picasso y Braque desarrollaron el cubismo a partir de 1907."
+  },
+  {
+    "id": "cg-5505",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué movimiento fundado por André Breton en 1924 exploró el sueño y el inconsciente?",
+    "options": [
+      "Dadaísmo",
+      "Simbolismo",
+      "Constructivismo",
+      "Surrealismo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El surrealismo recurrió al automatismo y a imágenes oníricas."
+  },
+  {
+    "id": "cg-5506",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué movimiento de los años sesenta tomó imágenes de la cultura de consumo y de los medios masivos?",
+    "options": [
+      "Minimalismo",
+      "Pop art",
+      "Op art",
+      "Hiperrealismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El pop art estadounidense y británico incorporó publicidad, cómics y objetos industriales."
+  },
+  {
+    "id": "cg-5507",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué corriente estadounidense de posguerra reúne a Pollock, Rothko y De Kooning?",
+    "options": [
+      "Pop art",
+      "Minimalismo",
+      "Regionalismo",
+      "Expresionismo abstracto"
+    ],
+    "correctIndex": 3,
+    "explanation": "El expresionismo abstracto dominó la escena neoyorquina de los años cuarenta y cincuenta."
+  },
+  {
+    "id": "cg-5508",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué movimiento neerlandés fundado en 1917 usó líneas rectas y colores primarios?",
+    "options": [
+      "Bauhaus",
+      "Suprematismo",
+      "De Stijl",
+      "Constructivismo"
+    ],
+    "correctIndex": 2,
+    "explanation": "De Stijl, con Mondrian y Van Doesburg, buscó un orden plástico universal."
+  },
+  {
+    "id": "cg-5509",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué movimiento ruso liderado por Kazimir Malévich buscó la abstracción pura?",
+    "options": [
+      "Constructivismo",
+      "Futurismo",
+      "Rayonismo",
+      "Suprematismo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Malévich expuso su Cuadrado negro en 1915 como manifiesto suprematista."
+  },
+  {
+    "id": "cg-5510",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué movimiento italiano difundido por Marinetti en 1909 exaltó la velocidad y la máquina?",
+    "options": [
+      "Cubismo",
+      "Futurismo",
+      "Vorticismo",
+      "Expresionismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los futuristas exaltaron la modernidad industrial y la guerra."
+  },
+  {
+    "id": "cg-5511",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué grupo expresionista alemán fundado en Dresde en 1905 incluyó a Ernst Ludwig Kirchner?",
+    "options": [
+      "Die Brücke",
+      "Der Blaue Reiter",
+      "Bauhaus",
+      "Secesión de Berlín"
+    ],
+    "correctIndex": 0,
+    "explanation": "Die Brücke, o El Puente, practicó un color intenso y formas angulosas."
+  },
+  {
+    "id": "cg-5512",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué escuela alemana fundada por Walter Gropius en 1919 unió arte, artesanía y diseño?",
+    "options": [
+      "De Stijl",
+      "Vkhutemas",
+      "Arts and Crafts",
+      "Bauhaus"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Bauhaus ordenó talleres de pintura, diseño, textiles y arquitectura."
+  },
+  {
+    "id": "cg-5513",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué agrupación de artistas vieneses de fin del siglo XIX presidió Gustav Klimt?",
+    "options": [
+      "Secesión de Viena",
+      "Die Brücke",
+      "Nabis",
+      "Futurismo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Secesión de Viena construyó su propio pabellón y difundió la revista Ver Sacrum."
+  },
+  {
+    "id": "cg-5514",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué hermandad inglesa fundada en 1848 rechazó la pintura académica y admiró el arte anterior a Rafael?",
+    "options": [
+      "Nabis",
+      "Hermandad Prerrafaelita",
+      "Arts and Crafts",
+      "Escuela de Glasgow"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los prerrafaelitas buscaron detalle, color brillante y temas literarios o morales."
+  },
+  {
+    "id": "cg-5515",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué grupo de pintores estadounidenses del siglo XIX retrató el valle del río Hudson?",
+    "options": [
+      "Ashcan School",
+      "Regionalismo",
+      "Expresionismo abstracto",
+      "Escuela del Hudson"
+    ],
+    "correctIndex": 3,
+    "explanation": "La escuela del Hudson idealizó los paisajes del noreste de Estados Unidos."
+  },
+  {
+    "id": "cg-5516",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué movimiento mexicano de la posrevolución llevó temas sociales a los muros públicos?",
+    "options": [
+      "Indigenismo",
+      "Constructivismo",
+      "Realismo socialista",
+      "Muralismo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rivera, Orozco y Siqueiros pintaron grandes murales en edificios públicos."
+  },
+  {
+    "id": "cg-5517",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué estilo europeo del siglo XVII se caracteriza por dramatismo, movimiento y contrastes de luz?",
+    "options": [
+      "Rococó",
+      "Neoclasicismo",
+      "Barroco",
+      "Manierismo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El barroco se desarrolló en la pintura, la escultura y la arquitectura europeas."
+  },
+  {
+    "id": "cg-5518",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué estilo francés del siglo XVIII usó colores pastel y escenas galantes?",
+    "options": [
+      "Barroco",
+      "Rococó",
+      "Neoclasicismo",
+      "Romanticismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El rococó decoró interiores aristocráticos con temas ligeros y elegantes."
+  },
+  {
+    "id": "cg-5519",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué estilo de finales del siglo XVIII imitó modelos de la Antigüedad grecorromana?",
+    "options": [
+      "Rococó",
+      "Neoclasicismo",
+      "Romanticismo",
+      "Realismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El neoclasicismo surgió con la arqueología de Pompeya y Herculano y el ideario ilustrado."
+  },
+  {
+    "id": "cg-5520",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué movimiento del siglo XIX exaltó la emoción, la naturaleza y el individuo?",
+    "options": [
+      "Romanticismo",
+      "Neoclasicismo",
+      "Realismo",
+      "Impresionismo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El romanticismo privilegió la subjetividad y los paisajes sublimes."
+  },
+  {
+    "id": "cg-5521",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué movimiento del siglo XIX retrató la vida cotidiana y las clases trabajadoras sin idealización?",
+    "options": [
+      "Romanticismo",
+      "Simbolismo",
+      "Impresionismo",
+      "Realismo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Courbet y Millet convirtieron escenas humildes en tema central de la pintura."
+  },
+  {
+    "id": "cg-5522",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿Qué estilo decorativo de fin del siglo XIX usó líneas curvas inspiradas en la vegetación?",
+    "options": [
+      "Art déco",
+      "Bauhaus",
+      "Constructivismo",
+      "Modernismo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El modernismo o Art Nouveau se difundió en carteles, muebles y arquitectura."
+  },
+  {
+    "id": "cg-5523",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿En qué museo neoyorquino se exhibe Las señoritas de Avignon de Picasso?",
+    "options": [
+      "MoMA",
+      "Metropolitan Museum",
+      "Guggenheim",
+      "Whitney Museum"
+    ],
+    "correctIndex": 0,
+    "explanation": "El MoMA adquirió Las señoritas de Avignon, pintada por Picasso en 1907."
+  },
+  {
+    "id": "cg-5524",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "easy",
+    "question": "¿En qué museo vienés se exhibe El beso de Gustav Klimt?",
+    "options": [
+      "Belvedere",
+      "Kunsthistorisches Museum",
+      "Albertina",
+      "Leopold Museum"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Belvedere de Viena conserva El beso en su colección de arte austriaco."
+  },
+  {
+    "id": "cg-5525",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor florentino pintó El tributo de la moneda en la capilla Brancacci?",
+    "options": [
+      "Fra Angelico",
+      "Masaccio",
+      "Filippo Lippi",
+      "Ghirlandaio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Masaccio pintó el ciclo hacia 1425 con una perspectiva y un volumen innovadores."
+  },
+  {
+    "id": "cg-5526",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor veneciano pintó la Venus de Urbino en 1538?",
+    "options": [
+      "Giorgione",
+      "Veronese",
+      "Tintoretto",
+      "Tiziano"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tiziano retrató a una mujer desnuda en un interior doméstico; la obra está en los Uffizi."
+  },
+  {
+    "id": "cg-5527",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor veneciano pintó Las bodas de Caná para el refectorio de San Giorgio Maggiore?",
+    "options": [
+      "Paolo Veronese",
+      "Tiziano",
+      "Tintoretto",
+      "Jacopo Bassano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Veronese realizó el enorme lienzo en 1563; hoy se exhibe en el Louvre."
+  },
+  {
+    "id": "cg-5528",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor flamenco creó el tríptico El jardín de las delicias?",
+    "options": [
+      "Pieter Bruegel el Viejo",
+      "El Bosco",
+      "Jan van Eyck",
+      "Hugo van der Goes"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Bosco pintó el tríptico hacia 1500 y se conserva en el Prado."
+  },
+  {
+    "id": "cg-5529",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor flamenco pintó La torre de Babel en 1563?",
+    "options": [
+      "Pieter Bruegel el Viejo",
+      "El Bosco",
+      "Peter Paul Rubens",
+      "Joachim Patinir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bruegel representó la construcción de la torre bíblica; el cuadro está en Viena."
+  },
+  {
+    "id": "cg-5530",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor alemán del Renacimiento pintó Los embajadores en 1533?",
+    "options": [
+      "Alberto Durero",
+      "Hans Holbein el Joven",
+      "Lucas Cranach el Viejo",
+      "Matthias Grünewald"
+    ],
+    "correctIndex": 1,
+    "explanation": "Holbein retrató a dos diplomáticos franceses en Inglaterra; la obra está en la National Gallery."
+  },
+  {
+    "id": "cg-5531",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor del Quattrocento pintó el ciclo de La leyenda de la Vera Cruz en Arezzo?",
+    "options": [
+      "Masaccio",
+      "Paolo Uccello",
+      "Piero della Francesca",
+      "Benozzo Gozzoli"
+    ],
+    "correctIndex": 2,
+    "explanation": "Piero decoró el coro de San Francesco con escenas de la leyenda de la cruz."
+  },
+  {
+    "id": "cg-5532",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor renacentista decoró la Cámara de los Esposos del palacio ducal de Mantua?",
+    "options": [
+      "Pisanello",
+      "Giulio Romano",
+      "Correggio",
+      "Andrea Mantegna"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mantegna pintó el ciclo entre 1465 y 1474 con retratos de la familia Gonzaga."
+  },
+  {
+    "id": "cg-5533",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué escultor ganó en 1401 el concurso para las puertas del baptisterio de Florencia?",
+    "options": [
+      "Filippo Brunelleschi",
+      "Lorenzo Ghiberti",
+      "Donatello",
+      "Jacopo della Quercia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ghiberti superó a Brunelleschi y realizó las puertas que Miguel Ángel llamó del Paraíso."
+  },
+  {
+    "id": "cg-5534",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué escultor renacentista talló el Moisés para la tumba de Julio II?",
+    "options": [
+      "Donatello",
+      "Andrea Sansovino",
+      "Baccio Bandinelli",
+      "Miguel Ángel"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Moisés forma parte del monumento funerario en San Pietro in Vincoli, Roma."
+  },
+  {
+    "id": "cg-5535",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué escultor barroco italiano creó Apolo y Dafne entre 1622 y 1625?",
+    "options": [
+      "Gian Lorenzo Bernini",
+      "Alessandro Algardi",
+      "Francesco Duquesnoy",
+      "François Girardon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bernini esculpió el grupo en mármol para la Galería Borghese de Roma."
+  },
+  {
+    "id": "cg-5536",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor italiano pintó La muerte de la Virgen, hoy en el Louvre?",
+    "options": [
+      "Annibale Carracci",
+      "Guido Reni",
+      "Caravaggio",
+      "Orazio Gentileschi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Caravaggio pintó la obra hacia 1605 con un realismo que provocó rechazo."
+  },
+  {
+    "id": "cg-5537",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintora italiana pintó Judith decapitando a Holofernes hacia 1620?",
+    "options": [
+      "Artemisia Gentileschi",
+      "Lavinia Fontana",
+      "Sofonisba Anguissola",
+      "Fede Galizia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Artemisia Gentileschi representó el episodio bíblico con fuerte dramatismo; la obra está en los Uffizi."
+  },
+  {
+    "id": "cg-5538",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor español pintó La rendición de Breda hacia 1635?",
+    "options": [
+      "Francisco de Zurbarán",
+      "José de Ribera",
+      "Alonso Cano",
+      "Diego Velázquez"
+    ],
+    "correctIndex": 3,
+    "explanation": "Velázquez narró la entrega de las llaves de la ciudad en la guerra de Flandes."
+  },
+  {
+    "id": "cg-5539",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor español pintó San Hugo en el refectorio de los cartujos?",
+    "options": [
+      "Francisco de Zurbarán",
+      "Diego Velázquez",
+      "Bartolomé Esteban Murillo",
+      "Luis de Morales"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zurbarán pintó la escena para la cartuja de Jerez; hoy está en Sevilla."
+  },
+  {
+    "id": "cg-5540",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor español pintó Niños comiendo uvas hacia 1650?",
+    "options": [
+      "Diego Velázquez",
+      "Francisco de Zurbarán",
+      "Bartolomé Esteban Murillo",
+      "Juan de Valdés Leal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Murillo retrató a dos niños pobres comiendo fruta; la obra está en Múnich."
+  },
+  {
+    "id": "cg-5541",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor flamenco retrató a Carlos I de Inglaterra a caballo?",
+    "options": [
+      "Peter Paul Rubens",
+      "Jacob Jordaens",
+      "Frans Snyders",
+      "Anthony van Dyck"
+    ],
+    "correctIndex": 3,
+    "explanation": "Van Dyck fue pintor de corte de Carlos I y realizó el retrato ecuestre en 1637."
+  },
+  {
+    "id": "cg-5542",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor flamenco pintó Las tres Gracias hacia 1635?",
+    "options": [
+      "Anthony van Dyck",
+      "Peter Paul Rubens",
+      "Jan Brueghel el Viejo",
+      "Jacob Jordaens"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rubens representó a las tres hijas de Zeus desnudas; el cuadro está en el Prado."
+  },
+  {
+    "id": "cg-5543",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor neerlandés pintó El alegre bebedor hacia 1630?",
+    "options": [
+      "Rembrandt",
+      "Johannes Vermeer",
+      "Jan Steen",
+      "Frans Hals"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hals retrató con pincelada suelta a un hombre alzando una copa; la obra está en Ámsterdam."
+  },
+  {
+    "id": "cg-5544",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor neerlandés pintó La lechera hacia 1658?",
+    "options": [
+      "Johannes Vermeer",
+      "Rembrandt",
+      "Frans Hals",
+      "Pieter de Hooch"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vermeer representó a una criada vertiendo leche; la obra está en el Rijksmuseum."
+  },
+  {
+    "id": "cg-5545",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor neerlandés pintó La lección de anatomía del doctor Tulp en 1632?",
+    "options": [
+      "Rembrandt",
+      "Frans Hals",
+      "Johannes Vermeer",
+      "Gerrit Dou"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rembrandt retrató al gremio de cirujanos de Ámsterdam alrededor de un cadáver."
+  },
+  {
+    "id": "cg-5546",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor francés pintó Peregrinación a la isla de Citera en 1717?",
+    "options": [
+      "Antoine Watteau",
+      "François Boucher",
+      "Jean-Honoré Fragonard",
+      "Nicolas Poussin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Watteau presentó la obra a la Academia como su pieza de recepción."
+  },
+  {
+    "id": "cg-5547",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor francés pintó El columpio hacia 1767?",
+    "options": [
+      "Jean-Honoré Fragonard",
+      "François Boucher",
+      "Antoine Watteau",
+      "Jean-Baptiste Chardin"
+    ],
+    "correctIndex": 0,
+    "explanation": "El columpio, con su escena galante, se conserva en la Wallace Collection de Londres."
+  },
+  {
+    "id": "cg-5548",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor francés del siglo XVIII pintó bodegones como La raya?",
+    "options": [
+      "François Boucher",
+      "Antoine Watteau",
+      "Jean-Baptiste Chardin",
+      "Jean-Honoré Fragonard"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chardin elevó la naturaleza muerta y las escenas domésticas a un lugar central."
+  },
+  {
+    "id": "cg-5549",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor francés pintó El baño turco en 1862?",
+    "options": [
+      "Jacques-Louis David",
+      "Théodore Géricault",
+      "Eugène Delacroix",
+      "Jean-Auguste-Dominique Ingres"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ingres reunió en un óvalo numerosos desnudos femeninos; la obra está en el Louvre."
+  },
+  {
+    "id": "cg-5550",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor francés neoclásico pintó El juramento de los Horacios en 1784?",
+    "options": [
+      "Jacques-Louis David",
+      "Jean-Auguste-Dominique Ingres",
+      "Antoine-Jean Gros",
+      "Pierre-Paul Prud'hon"
+    ],
+    "correctIndex": 0,
+    "explanation": "David pintó la escena romana como ejemplo de virtud cívica antes de la Revolución."
+  },
+  {
+    "id": "cg-5551",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor francés pintó La balsa de la Medusa en 1819?",
+    "options": [
+      "Eugène Delacroix",
+      "Jacques-Louis David",
+      "Jean-Auguste-Dominique Ingres",
+      "Théodore Géricault"
+    ],
+    "correctIndex": 3,
+    "explanation": "Géricault representó el naufragio de la fragata Medusa; el cuadro está en el Louvre."
+  },
+  {
+    "id": "cg-5552",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor francés pintó La libertad guiando al pueblo en 1830?",
+    "options": [
+      "Eugène Delacroix",
+      "Théodore Géricault",
+      "Jean-Auguste-Dominique Ingres",
+      "Antoine-Jean Gros"
+    ],
+    "correctIndex": 0,
+    "explanation": "Delacroix conmemoró la revolución de julio con una alegoría de la libertad."
+  },
+  {
+    "id": "cg-5553",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor francés pintó El taller del pintor en 1855?",
+    "options": [
+      "Jean-François Millet",
+      "Gustave Courbet",
+      "Honoré Daumier",
+      "Édouard Manet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Courbet subtituló la obra una alegoría real que resume siete años de su vida artística."
+  },
+  {
+    "id": "cg-5554",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor francés pintó Las espigadoras en 1857?",
+    "options": [
+      "Gustave Courbet",
+      "Honoré Daumier",
+      "Jules Breton",
+      "Jean-François Millet"
+    ],
+    "correctIndex": 3,
+    "explanation": "Millet mostró a tres campesinas recogiendo espigas al final de la cosecha."
+  },
+  {
+    "id": "cg-5555",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista francés satirizó a abogados y jueces en obras como Los litigantes?",
+    "options": [
+      "Gustave Courbet",
+      "Jean-François Millet",
+      "Paul Gavarni",
+      "Honoré Daumier"
+    ],
+    "correctIndex": 3,
+    "explanation": "Daumier trabajó como caricaturista y criticó la justicia y la política de su tiempo."
+  },
+  {
+    "id": "cg-5556",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor inglés romántico pintó El barco negrero en 1840?",
+    "options": [
+      "John Constable",
+      "William Blake",
+      "J. M. W. Turner",
+      "Thomas Cole"
+    ],
+    "correctIndex": 2,
+    "explanation": "Turner disolvió las formas en luz y color para denunciar el comercio de esclavos."
+  },
+  {
+    "id": "cg-5557",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor inglés pintó La carreta de heno en 1821?",
+    "options": [
+      "John Constable",
+      "J. M. W. Turner",
+      "Thomas Gainsborough",
+      "William Hogarth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Constable retrató un paisaje de Suffolk; la obra está en la National Gallery."
+  },
+  {
+    "id": "cg-5558",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor alemán romántico pintó El caminante sobre el mar de nubes en 1818?",
+    "options": [
+      "Philipp Otto Runge",
+      "Carl Blechen",
+      "Caspar David Friedrich",
+      "Adolph Menzel"
+    ],
+    "correctIndex": 2,
+    "explanation": "Friedrich situó una figura de espaldas ante un paisaje de niebla y montañas."
+  },
+  {
+    "id": "cg-5559",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor ruso pintó Los barqueros del Volga entre 1870 y 1873?",
+    "options": [
+      "Vasili Surikov",
+      "Ivan Kramskói",
+      "Isaac Levitán",
+      "Iliá Repin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Repin denunció las condiciones de los trabajadores que remolcaban barcos por el río."
+  },
+  {
+    "id": "cg-5560",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor francés pintó Olympia en 1863?",
+    "options": [
+      "Gustave Courbet",
+      "Edgar Degas",
+      "Claude Monet",
+      "Édouard Manet"
+    ],
+    "correctIndex": 3,
+    "explanation": "Manet presentó a una cortesana desnuda y provocó un escándalo en el Salón de 1865."
+  },
+  {
+    "id": "cg-5561",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor francés pintó El bar del Folies-Bergère en 1882?",
+    "options": [
+      "Edgar Degas",
+      "Pierre-Auguste Renoir",
+      "Henri de Toulouse-Lautrec",
+      "Édouard Manet"
+    ],
+    "correctIndex": 3,
+    "explanation": "Manet retrató un cabaret parisino con un espejo que duplica la escena."
+  },
+  {
+    "id": "cg-5562",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintora impresionista francesa pintó La cuna en 1872?",
+    "options": [
+      "Mary Cassatt",
+      "Marie Bracquemond",
+      "Eva Gonzalès",
+      "Berthe Morisot"
+    ],
+    "correctIndex": 3,
+    "explanation": "Morisot representó a su hermana junto a una cuna; la obra está en el Museo de Orsay."
+  },
+  {
+    "id": "cg-5563",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor estadounidense pintó Arreglo en gris y negro n.º 1, retrato de su madre?",
+    "options": [
+      "James McNeill Whistler",
+      "John Singer Sargent",
+      "William Merritt Chase",
+      "Thomas Eakins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Whistler defendió el título musical y la composición sobria del retrato."
+  },
+  {
+    "id": "cg-5564",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor estadounidense retrató a Madame X en 1884?",
+    "options": [
+      "James McNeill Whistler",
+      "Thomas Eakins",
+      "Childe Hassam",
+      "John Singer Sargent"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sargent escandalizó a París con el retrato de Virginie Gautreau; la obra está en el Met."
+  },
+  {
+    "id": "cg-5565",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor austriaco pintó el Retrato de Adele Bloch-Bauer I en 1907?",
+    "options": [
+      "Egon Schiele",
+      "Gustav Klimt",
+      "Oskar Kokoschka",
+      "Alfons Mucha"
+    ],
+    "correctIndex": 1,
+    "explanation": "Klimt cubrió el retrato con pan de oro; la obra se conoce como La dama de oro."
+  },
+  {
+    "id": "cg-5566",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor austriaco creó Autorretrato con farol chino en 1912?",
+    "options": [
+      "Egon Schiele",
+      "Gustav Klimt",
+      "Oskar Kokoschka",
+      "Max Oppenheimer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Schiele practicó un expresionismo austero centrado en el cuerpo y el rostro."
+  },
+  {
+    "id": "cg-5567",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista checo diseñó carteles para la actriz Sarah Bernhardt en París?",
+    "options": [
+      "Alfons Mucha",
+      "Egon Schiele",
+      "Gustav Klimt",
+      "Jules Chéret"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mucha alcanzó fama con el cartel de Gismonda en 1894."
+  },
+  {
+    "id": "cg-5568",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor belga pintó La entrada de Cristo en Bruselas en 1889?",
+    "options": [
+      "René Magritte",
+      "Paul Delvaux",
+      "James Ensor",
+      "Constant Permeke"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ensor llenó la escena de máscaras y colores estridentes; la obra está en el Getty."
+  },
+  {
+    "id": "cg-5569",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor francés fauvista pintó La alegría de vivir en 1905?",
+    "options": [
+      "Henri Matisse",
+      "André Derain",
+      "Maurice de Vlaminck",
+      "Raoul Dufy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Matisse desplegó un paisaje de desnudos y danza con colores puros."
+  },
+  {
+    "id": "cg-5570",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor fauvista francés pintó vistas del puerto de Collioure en 1905?",
+    "options": [
+      "Henri Matisse",
+      "Maurice de Vlaminck",
+      "André Derain",
+      "Albert Marquet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Derain trabajó junto a Matisse en Collioure y adoptó colores intensos."
+  },
+  {
+    "id": "cg-5571",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor alemán expresionista pintó Calle de Berlín en 1913?",
+    "options": [
+      "Emil Nolde",
+      "Ernst Ludwig Kirchner",
+      "Max Beckmann",
+      "August Macke"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kirchner representó la vida urbana con formas alargadas y colores ácidos."
+  },
+  {
+    "id": "cg-5572",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista suizo pintó Senecio en 1922?",
+    "options": [
+      "Wassily Kandinsky",
+      "Jean Arp",
+      "August Macke",
+      "Paul Klee"
+    ],
+    "correctIndex": 3,
+    "explanation": "Klee combinó geometría y rostros infantiles en esta obra de la colección de Basilea."
+  },
+  {
+    "id": "cg-5573",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor ruso publicó el ensayo Sobre lo espiritual en el arte en 1911?",
+    "options": [
+      "Kazimir Malévich",
+      "Vladímir Tatlin",
+      "Mijaíl Lariónov",
+      "Vasili Kandinski"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kandinski defendió la abstracción como expresión del mundo interior."
+  },
+  {
+    "id": "cg-5574",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista ruso pintó el Cuadrado negro en 1915?",
+    "options": [
+      "Vasili Kandinski",
+      "Vladímir Tatlin",
+      "Kazimir Malévich",
+      "Aleksandr Ródchenko"
+    ],
+    "correctIndex": 2,
+    "explanation": "Malévich presentó el cuadro como punto cero de la pintura figurativa."
+  },
+  {
+    "id": "cg-5575",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista ruso diseñó el Monumento a la Tercera Internacional, nunca construido?",
+    "options": [
+      "Kazimir Malévich",
+      "Vladímir Tatlin",
+      "El Lissitzky",
+      "Naum Gabo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tatlin proyectó en 1919 una torre espiral de hierro y vidrio para Petrogrado."
+  },
+  {
+    "id": "cg-5576",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintora rusa del rayonismo diseñó decorados para los Ballets Rusos?",
+    "options": [
+      "Liubov Popova",
+      "Varvara Stepánova",
+      "Olga Rozánova",
+      "Natalia Goncharova"
+    ],
+    "correctIndex": 3,
+    "explanation": "Goncharova colaboró con Diághilev y trabajó el color y la fragmentación cubista."
+  },
+  {
+    "id": "cg-5577",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor italiano pintó Las musas inquietantes en 1917?",
+    "options": [
+      "Carlo Carrà",
+      "Giorgio de Chirico",
+      "Gino Severini",
+      "Filippo Tommaso Marinetti"
+    ],
+    "correctIndex": 1,
+    "explanation": "De Chirico creó paisajes metafísicos con maniquíes y arquitecturas vacías."
+  },
+  {
+    "id": "cg-5578",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista francés pintó Desnudo bajando una escalera n.º 2 en 1912?",
+    "options": [
+      "Marcel Duchamp",
+      "Francis Picabia",
+      "Jean Metzinger",
+      "Albert Gleizes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Duchamp combinó cubismo y movimiento futurista; la obra está en Filadelfia."
+  },
+  {
+    "id": "cg-5579",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista francés presentó un urinario titulado La fuente en 1917?",
+    "options": [
+      "Francis Picabia",
+      "Man Ray",
+      "Marcel Duchamp",
+      "Jean Arp"
+    ],
+    "correctIndex": 2,
+    "explanation": "Duchamp inauguró el readymade al exhibir un objeto industrial sin modificarlo."
+  },
+  {
+    "id": "cg-5580",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista alemana del dadaísmo creó el fotomontaje Corte con el cuchillo de cocina?",
+    "options": [
+      "Hannah Höch",
+      "Käthe Kollwitz",
+      "Lotte Laserstein",
+      "Jeanne Mammen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Höch criticó los roles de género y la política de la República de Weimar."
+  },
+  {
+    "id": "cg-5581",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista alemán construyó el Merzbau, una obra habitable hecha de desechos?",
+    "options": [
+      "Max Ernst",
+      "Kurt Schwitters",
+      "John Heartfield",
+      "George Grosz"
+    ],
+    "correctIndex": 1,
+    "explanation": "Schwitters transformó habitaciones de su casa en Hannover con ensamblajes y objetos encontrados."
+  },
+  {
+    "id": "cg-5582",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista estadounidense creó imágenes fotográficas sin cámara llamadas rayogramas?",
+    "options": [
+      "Man Ray",
+      "Alfred Stieglitz",
+      "Edward Steichen",
+      "Paul Strand"
+    ],
+    "correctIndex": 0,
+    "explanation": "Man Ray colocó objetos sobre papel fotosensible y los expuso a la luz."
+  },
+  {
+    "id": "cg-5583",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor surrealista creó la escultura Teléfono langosta en 1936?",
+    "options": [
+      "Salvador Dalí",
+      "Joan Miró",
+      "René Magritte",
+      "Max Ernst"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dalí sustituyó el auricular por una langosta en un teléfono de baquelita."
+  },
+  {
+    "id": "cg-5584",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor belga pintó El hijo del hombre en 1964?",
+    "options": [
+      "Paul Delvaux",
+      "James Ensor",
+      "Marcel Broodthaers",
+      "René Magritte"
+    ],
+    "correctIndex": 3,
+    "explanation": "Magritte ocultó el rostro del hombre con una manzana; la obra está en una colección privada."
+  },
+  {
+    "id": "cg-5585",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor catalán pintó El carnaval del arlequín en 1925?",
+    "options": [
+      "Salvador Dalí",
+      "Pablo Picasso",
+      "Joan Miró",
+      "Antoni Tàpies"
+    ],
+    "correctIndex": 2,
+    "explanation": "Miró pobló un interior con formas biomórficas y signos humorísticos."
+  },
+  {
+    "id": "cg-5586",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor malagueño pintó Las señoritas de Avignon en 1907?",
+    "options": [
+      "Georges Braque",
+      "Juan Gris",
+      "Fernand Léger",
+      "Pablo Picasso"
+    ],
+    "correctIndex": 3,
+    "explanation": "Picasso rompió la perspectiva tradicional y abrió el camino del cubismo."
+  },
+  {
+    "id": "cg-5587",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor español pintó Mujer que llora en 1937?",
+    "options": [
+      "Juan Gris",
+      "Joan Miró",
+      "Pablo Picasso",
+      "Salvador Dalí"
+    ],
+    "correctIndex": 2,
+    "explanation": "Picasso retrató a Dora Maar con el rostro descompuesto por el dolor."
+  },
+  {
+    "id": "cg-5588",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor francés pintó El portugués en 1911?",
+    "options": [
+      "Pablo Picasso",
+      "Juan Gris",
+      "Georges Braque",
+      "Robert Delaunay"
+    ],
+    "correctIndex": 2,
+    "explanation": "Braque incluyó letras y signos en una composición cubista de tonos neutros."
+  },
+  {
+    "id": "cg-5589",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor español del cubismo sintético pintó El fumador en 1913?",
+    "options": [
+      "Pablo Picasso",
+      "Georges Braque",
+      "Fernand Léger",
+      "Juan Gris"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gris organizó planos nítidos y colores armoniosos en sus naturalezas muertas."
+  },
+  {
+    "id": "cg-5590",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor francés pintó Los constructores hacia 1950?",
+    "options": [
+      "Fernand Léger",
+      "Georges Braque",
+      "Robert Delaunay",
+      "André Lhote"
+    ],
+    "correctIndex": 0,
+    "explanation": "Léger representó obreros con formas tubulares y colores planos."
+  },
+  {
+    "id": "cg-5591",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué muralista mexicano pintó El hombre controlador del universo en el Palacio de Bellas Artes?",
+    "options": [
+      "José Clemente Orozco",
+      "David Alfaro Siqueiros",
+      "Rufino Tamayo",
+      "Diego Rivera"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rivera reelaboró en 1934 un mural que había sido destruido en Nueva York."
+  },
+  {
+    "id": "cg-5592",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué muralista mexicano pintó La trinchera en la Escuela Nacional Preparatoria?",
+    "options": [
+      "Diego Rivera",
+      "David Alfaro Siqueiros",
+      "José Clemente Orozco",
+      "Fernando Leal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Orozco representó la violencia revolucionaria con un trazo expresivo y sombrío."
+  },
+  {
+    "id": "cg-5593",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué muralista mexicano creó El pueblo a la universidad, la universidad al pueblo en la UNAM?",
+    "options": [
+      "Diego Rivera",
+      "José Clemente Orozco",
+      "Saturnino Herrán",
+      "David Alfaro Siqueiros"
+    ],
+    "correctIndex": 3,
+    "explanation": "Siqueiros pintó el mural en la Torre de Rectoría con perspectiva y materiales modernos."
+  },
+  {
+    "id": "cg-5594",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor mexicano creó Perro aullando en 1942?",
+    "options": [
+      "Diego Rivera",
+      "Rufino Tamayo",
+      "José Clemente Orozco",
+      "David Alfaro Siqueiros"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tamayo combinó formas prehispánicas y colores terrosos en obras de tono introspectivo."
+  },
+  {
+    "id": "cg-5595",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintora brasileña pintó Abaporu en 1928?",
+    "options": [
+      "Anita Malfatti",
+      "Tarsila do Amaral",
+      "Beatriz Milhazes",
+      "Djanira"
+    ],
+    "correctIndex": 1,
+    "explanation": "Abaporu, regalo de Tarsila a Oswald de Andrade, inspiró el movimiento antropofágico."
+  },
+  {
+    "id": "cg-5596",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista argentino creó collages sobre Juanito Laguna?",
+    "options": [
+      "Benito Quinquela Martín",
+      "Antonio Berni",
+      "Xul Solar",
+      "Emilio Pettoruti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Berni usó desechos y materiales pobres para retratar la infancia marginal."
+  },
+  {
+    "id": "cg-5597",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor chileno del surrealismo creó paisajes cósmicos y visiones geométricas?",
+    "options": [
+      "Camilo Mori",
+      "Pedro Lira",
+      "Roberto Matta",
+      "José Venturelli"
+    ],
+    "correctIndex": 2,
+    "explanation": "Matta trabajó con Breton y desarrolló un espacio pictórico de flujos y energías."
+  },
+  {
+    "id": "cg-5598",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor cubano pintó La jungla en 1943?",
+    "options": [
+      "Mario Carreño",
+      "René Portocarrero",
+      "Amelia Peláez",
+      "Wifredo Lam"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lam mezcló formas africanas y cubistas en una vegetación densa; la obra está en el MoMA."
+  },
+  {
+    "id": "cg-5599",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor ecuatoriano retrató con rostros angustiados a los pueblos andinos?",
+    "options": [
+      "Oswaldo Guayasamín",
+      "Eduardo Kingman",
+      "Cándido Portinari",
+      "José Sabogal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Guayasamín desarrolló la serie La edad de la ira con figuras de manos enormes."
+  },
+  {
+    "id": "cg-5600",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué escultor colombiano es famoso por sus figuras voluminosas y redondeadas?",
+    "options": [
+      "Edgar Negret",
+      "Doris Salcedo",
+      "Eduardo Ramírez Villamizar",
+      "Fernando Botero"
+    ],
+    "correctIndex": 3,
+    "explanation": "Botero aplicó proporciones exageradas a personajes, animales y objetos."
+  },
+  {
+    "id": "cg-5601",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista uruguayo fundó el constructivismo universal?",
+    "options": [
+      "Pedro Figari",
+      "Joaquín Torres-García",
+      "Rafael Barradas",
+      "Jorge Damiani"
+    ],
+    "correctIndex": 1,
+    "explanation": "Torres-García combinó retículas, signos y colores terrosos en pinturas y esculturas."
+  },
+  {
+    "id": "cg-5602",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor estadounidense creó grandes campos de color suspendidos en el lienzo?",
+    "options": [
+      "Barnett Newman",
+      "Clyfford Still",
+      "Mark Rothko",
+      "Robert Motherwell"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rothko buscó una experiencia contemplativa con rectángulos de color difuminado."
+  },
+  {
+    "id": "cg-5603",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor estadounidense pintó Mujer I entre 1950 y 1952?",
+    "options": [
+      "Willem de Kooning",
+      "Jackson Pollock",
+      "Franz Kline",
+      "Adolph Gottlieb"
+    ],
+    "correctIndex": 0,
+    "explanation": "De Kooning trabajó durante años el retrato femenino con pinceladas violentas."
+  },
+  {
+    "id": "cg-5604",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista estadounidense creó ensamblajes llamados combines, como Monogram?",
+    "options": [
+      "Jasper Johns",
+      "Claes Oldenburg",
+      "Robert Rauschenberg",
+      "Jim Dine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rauschenberg incorporó objetos cotidianos, pintura y fotografía en sus combines."
+  },
+  {
+    "id": "cg-5605",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista estadounidense pintó banderas y dianas a finales de los años cincuenta?",
+    "options": [
+      "Robert Rauschenberg",
+      "Roy Lichtenstein",
+      "Jasper Johns",
+      "Andy Warhol"
+    ],
+    "correctIndex": 2,
+    "explanation": "Johns convirtió símbolos banales en motivos de pintura matérica."
+  },
+  {
+    "id": "cg-5606",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista pop estadounidense creó esculturas gigantes de objetos cotidianos como una hamburguesa?",
+    "options": [
+      "Andy Warhol",
+      "Roy Lichtenstein",
+      "Claes Oldenburg",
+      "Tom Wesselmann"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oldenburg infló el tamaño de alimentos y utensilios para alterar su percepción."
+  },
+  {
+    "id": "cg-5607",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor británico pintó A Bigger Splash en 1967?",
+    "options": [
+      "Francis Bacon",
+      "David Hockney",
+      "Lucian Freud",
+      "Richard Hamilton"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hockney representó una piscina de California con colores planos y luz intensa."
+  },
+  {
+    "id": "cg-5608",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor británico creó Tres estudios de figuras en el pie de un crucifijo en 1944?",
+    "options": [
+      "Francis Bacon",
+      "Lucian Freud",
+      "Graham Sutherland",
+      "Ben Nicholson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bacon pintó el tríptico con figuras deformadas y fondo naranja."
+  },
+  {
+    "id": "cg-5609",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista japonesa cubre habitaciones y objetos con lunares de colores?",
+    "options": [
+      "Yoko Ono",
+      "Yayoi Kusama",
+      "Atsuko Tanaka",
+      "Mika Rottenberg"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kusama desarrolla desde los años sesenta instalaciones obsesivas de puntos y espejos."
+  },
+  {
+    "id": "cg-5610",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista estadounidense creó la escultura Rabbit, una liebre de acero inoxidable?",
+    "options": [
+      "Damien Hirst",
+      "Jeff Koons",
+      "Takashi Murakami",
+      "Robert Gober"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rabbit, de 1986, reproduce un inflable en acero pulido como emblema del arte neopop."
+  },
+  {
+    "id": "cg-5611",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista británico sumergió un tiburón en formol en la instalación La imposibilidad física de la muerte en la mente de alguien vivo?",
+    "options": [
+      "Damien Hirst",
+      "Tracey Emin",
+      "Grayson Perry",
+      "Anish Kapoor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hirst presentó el tiburón en 1991 como una instalación sobre la muerte y el coleccionismo."
+  },
+  {
+    "id": "cg-5612",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista británica expuso una cama deshecha como obra en 1998?",
+    "options": [
+      "Damien Hirst",
+      "Sarah Lucas",
+      "Rachel Whiteread",
+      "Tracey Emin"
+    ],
+    "correctIndex": 3,
+    "explanation": "My Bed, de Emin, fue finalista del Premio Turner y se convirtió en un icono del arte confesional."
+  },
+  {
+    "id": "cg-5613",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista urbano creó la imagen de una niña con un globo rojo?",
+    "options": [
+      "Shepard Fairey",
+      "Keith Haring",
+      "Jean-Michel Basquiat",
+      "Banksy"
+    ],
+    "correctIndex": 3,
+    "explanation": "La obra apareció como esténcil en Londres y luego fue reproducida y subastada."
+  },
+  {
+    "id": "cg-5614",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista chino llenó la Turbine Hall de la Tate Modern con millones de semillas de porcelana?",
+    "options": [
+      "Cai Guo-Qiang",
+      "Ai Weiwei",
+      "Zhang Xiaogang",
+      "Zeng Fanzhi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ai Weiwei presentó Sunflower Seeds en 2010 como reflexión sobre la producción industrial china."
+  },
+  {
+    "id": "cg-5615",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pareja de artistas envolvió el Reichstag de Berlín con tela en 1995?",
+    "options": [
+      "Gilbert y George",
+      "Christo y Jeanne-Claude",
+      "Bernd y Hilla Becher",
+      "Marina Abramović y Ulay"
+    ],
+    "correctIndex": 1,
+    "explanation": "Christo y Jeanne-Claude trabajaron durante décadas con envolturas monumentales de edificios y paisajes."
+  },
+  {
+    "id": "cg-5616",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista estadounidense creó la instalación de land art Spiral Jetty en el Gran Lago Salado?",
+    "options": [
+      "Michael Heizer",
+      "Walter De Maria",
+      "James Turrell",
+      "Robert Smithson"
+    ],
+    "correctIndex": 3,
+    "explanation": "Smithson construyó la espiral de basalto y sal en 1970 en Utah."
+  },
+  {
+    "id": "cg-5617",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué artista británico trabaja con piedras, hojas y hielo en esculturas efímeras al aire libre?",
+    "options": [
+      "Richard Long",
+      "Hamish Fulton",
+      "Andy Goldsworthy",
+      "Antony Gormley"
+    ],
+    "correctIndex": 2,
+    "explanation": "Goldsworthy documenta con fotografías sus construcciones con materiales naturales."
+  },
+  {
+    "id": "cg-5618",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué escultor español creó el conjunto Peine del viento en San Sebastián?",
+    "options": [
+      "Jorge Oteiza",
+      "Eduardo Chillida",
+      "Pablo Serrano",
+      "Martín Chirino"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chillida ancló tres peines de acero en las rocas de la bahía donostiarra en 1977."
+  },
+  {
+    "id": "cg-5619",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintor español del informalismo creó grandes lienzos de materia y signos?",
+    "options": [
+      "Joan Brossa",
+      "Manolo Millares",
+      "Antoni Tàpies",
+      "Luis Feito"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tàpies incorporó arena, polvo y objetos a superficies rugosas y gestuales."
+  },
+  {
+    "id": "cg-5620",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué escultor estadounidense creó móviles suspendidos que se mueven con el aire?",
+    "options": [
+      "David Smith",
+      "Isamu Noguchi",
+      "George Rickey",
+      "Alexander Calder"
+    ],
+    "correctIndex": 3,
+    "explanation": "Calder inventó el móvil y dio un lugar central al movimiento en la escultura."
+  },
+  {
+    "id": "cg-5621",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué escultora francesa fue colaboradora y pareja de Auguste Rodin?",
+    "options": [
+      "Germaine Richier",
+      "Camille Claudel",
+      "Louise Bourgeois",
+      "Niki de Saint Phalle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Claudel trabajó en el taller de Rodin y desarrolló una obra propia marcada por el movimiento."
+  },
+  {
+    "id": "cg-5622",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué escultor francés diseñó la Estatua de la Libertad inaugurada en Nueva York en 1886?",
+    "options": [
+      "Jean-Baptiste Carpeaux",
+      "Emmanuel Frémiet",
+      "Jules Dalou",
+      "Frédéric Auguste Bartholdi"
+    ],
+    "correctIndex": 3,
+    "explanation": "La estructura interna fue obra de Gustave Eiffel y el revestimiento de cobre de Bartholdi."
+  },
+  {
+    "id": "cg-5623",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué escultor francés del siglo XVIII retrató a Voltaire sentado?",
+    "options": [
+      "Étienne-Maurice Falconet",
+      "Jean-Baptiste Pigalle",
+      "Clodion",
+      "Jean-Antoine Houdon"
+    ],
+    "correctIndex": 3,
+    "explanation": "Houdon esculpió el retrato de Voltaire en 1781; hoy está en la Comédie-Française."
+  },
+  {
+    "id": "cg-5624",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué escultor italiano neoclásico representó a Paulina Bonaparte como Venus Victrix?",
+    "options": [
+      "Bertel Thorvaldsen",
+      "Antonio Canova",
+      "Lorenzo Bartolini",
+      "John Flaxman"
+    ],
+    "correctIndex": 1,
+    "explanation": "Canova esculpió a la hermana de Napoleón semidesnuda en mármol; la obra está en la Galería Borghese."
+  },
+  {
+    "id": "cg-5625",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué escultor danés neoclásico creó Jasón con el vellocino de oro?",
+    "options": [
+      "Antonio Canova",
+      "Bertel Thorvaldsen",
+      "Johan Tobias Sergel",
+      "Hermann Ernst Freund"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thorvaldsen trabajó la escultura en Roma y donó su obra al museo de Copenhague."
+  },
+  {
+    "id": "cg-5626",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué escultor francés talló el relieve La marsellesa en el Arco de Triunfo de París?",
+    "options": [
+      "Jean-Baptiste Carpeaux",
+      "François Rude",
+      "Antoine Étex",
+      "Pierre-Jean David d'Angers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rude representó a la Libertad guiando a los voluntarios de 1792."
+  },
+  {
+    "id": "cg-5627",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué pintora surrealista española pintó La creación de las aves en 1957?",
+    "options": [
+      "Leonora Carrington",
+      "Maruja Mallo",
+      "Remedios Varo",
+      "Ángeles Santos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Varo construyó mundos fantásticos con figuras alargadas y máquinas poéticas."
+  },
+  {
+    "id": "cg-5628",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "medium",
+    "question": "¿Qué escultor estadounidense esculpió la figura sedente de Abraham Lincoln en Washington?",
+    "options": [
+      "Augustus Saint-Gaudens",
+      "Gutzon Borglum",
+      "Frederick MacMonnies",
+      "Daniel Chester French"
+    ],
+    "correctIndex": 3,
+    "explanation": "French realizó la estatua de mármol del Lincoln Memorial, inaugurada en 1922."
+  },
+  {
+    "id": "cg-5629",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor florentino decoró la capilla Scrovegni de Padua con la vida de Cristo y de la Virgen?",
+    "options": [
+      "Cimabue",
+      "Duccio",
+      "Giotto",
+      "Simone Martini"
+    ],
+    "correctIndex": 2,
+    "explanation": "Giotto pintó el ciclo entre 1303 y 1305 con un nuevo sentido del espacio y del volumen."
+  },
+  {
+    "id": "cg-5630",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor sienés creó la Maestà para el altar mayor de la catedral de Siena?",
+    "options": [
+      "Simone Martini",
+      "Ambrogio Lorenzetti",
+      "Pietro Lorenzetti",
+      "Duccio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Duccio terminó la Maestà en 1311; hoy se exhibe en el Museo dell'Opera del Duomo."
+  },
+  {
+    "id": "cg-5631",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor sienés pintó la Anunciación de 1333 conservada en los Uffizi?",
+    "options": [
+      "Duccio",
+      "Simone Martini",
+      "Lippo Memmi",
+      "Pietro Lorenzetti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Simone Martini firmó la tabla junto a Lippo Memmi con un estilo cortesano y dorado."
+  },
+  {
+    "id": "cg-5632",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué fraile pintor decoró el convento de San Marco de Florencia con escenas de la Anunciación?",
+    "options": [
+      "Fra Bartolomeo",
+      "Fra Angelico",
+      "Filippo Lippi",
+      "Benozzo Gozzoli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fra Angelico vivió en San Marco y pintó frescos en sus celdas y corredores."
+  },
+  {
+    "id": "cg-5633",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor florentino pintó el ciclo de La batalla de San Romano?",
+    "options": [
+      "Paolo Uccello",
+      "Piero della Francesca",
+      "Andrea del Castagno",
+      "Domenico Veneziano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uccello representó la batalla de 1432 en tres paneles repartidos entre Florencia, París y Londres."
+  },
+  {
+    "id": "cg-5634",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor del Renacimiento pintó La flagelación de Urbino hacia 1455?",
+    "options": [
+      "Luca Signorelli",
+      "Melozzo da Forlì",
+      "Piero della Francesca",
+      "Francesco del Cossa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Piero construyó la escena con una perspectiva geométrica y una luz inmóvil."
+  },
+  {
+    "id": "cg-5635",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor umbro pintó La entrega de las llaves en la Capilla Sixtina?",
+    "options": [
+      "Pinturicchio",
+      "Luca Signorelli",
+      "Domenico Ghirlandaio",
+      "Pietro Perugino"
+    ],
+    "correctIndex": 3,
+    "explanation": "Perugino pintó el fresco en 1481 como parte del ciclo de la Capilla Sixtina."
+  },
+  {
+    "id": "cg-5636",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor renacentista decoró la capilla de San Brizio de la catedral de Orvieto?",
+    "options": [
+      "Perugino",
+      "Luca Signorelli",
+      "Pinturicchio",
+      "Benozzo Gozzoli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Signorelli pintó el Juicio Final y escenas de los últimos tiempos entre 1499 y 1504."
+  },
+  {
+    "id": "cg-5637",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor veneciano pintó el ciclo de La leyenda de santa Úrsula?",
+    "options": [
+      "Vittore Carpaccio",
+      "Giovanni Bellini",
+      "Cima da Conegliano",
+      "Gentile Bellini"
+    ],
+    "correctIndex": 0,
+    "explanation": "Carpaccio narró la vida de santa Úrsula en lienzos conservados en la Academia de Venecia."
+  },
+  {
+    "id": "cg-5638",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor veneciano realizó el retablo de San Zaccaria en 1505?",
+    "options": [
+      "Giorgione",
+      "Tiziano",
+      "Lorenzo Lotto",
+      "Giovanni Bellini"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bellini combinó la tradición veneciana con una composición monumental."
+  },
+  {
+    "id": "cg-5639",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor veneciano pintó El lavatorio de los pies para la Escuela de San Roque?",
+    "options": [
+      "Veronese",
+      "Tiziano",
+      "Jacopo Bassano",
+      "Tintoretto"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tintoretto trabajó durante décadas para la Scuola Grande di San Rocco."
+  },
+  {
+    "id": "cg-5640",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor cretense pintó El expolio de Cristo para la catedral de Toledo?",
+    "options": [
+      "Luis de Morales",
+      "Alonso Sánchez Coello",
+      "Juan de Juanes",
+      "El Greco"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Greco realizó el cuadro en 1579 para la sacristía de la catedral."
+  },
+  {
+    "id": "cg-5641",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor español pintó el Bodegón del cardo hacia 1603?",
+    "options": [
+      "Juan Sánchez Cotán",
+      "Juan van der Hamen",
+      "Francisco de Zurbarán",
+      "Luis Egidio Meléndez"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sánchez Cotán ordenó hortalizas y aves con una luz austera sobre un fondo negro."
+  },
+  {
+    "id": "cg-5642",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor sevillano pintó Finis Gloriae Mundi para el Hospital de la Caridad?",
+    "options": [
+      "Murillo",
+      "Juan de Valdés Leal",
+      "Zurbarán",
+      "Alonso Cano"
+    ],
+    "correctIndex": 1,
+    "explanation": "Valdés Leal representó un cadáver y símbolos de la fugacidad de la vida en 1672."
+  },
+  {
+    "id": "cg-5643",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor francés pintó Magdalena con la lámpara de aceite hacia 1640?",
+    "options": [
+      "Philippe de Champaigne",
+      "Georges de La Tour",
+      "Louis Le Nain",
+      "Nicolas Poussin"
+    ],
+    "correctIndex": 1,
+    "explanation": "De La Tour iluminó la figura con una vela y un fuerte contraste tenebrista."
+  },
+  {
+    "id": "cg-5644",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor francés pintó Et in Arcadia ego hacia 1638?",
+    "options": [
+      "Claude Lorrain",
+      "Georges de La Tour",
+      "Nicolas Poussin",
+      "Simon Vouet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Poussin representó a pastores ante una tumba, con un mensaje sobre la muerte."
+  },
+  {
+    "id": "cg-5645",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor francés pintó El embarque de la reina de Saba en 1648?",
+    "options": [
+      "Nicolas Poussin",
+      "Pierre Puget",
+      "Claude Lorrain",
+      "Eustache Le Sueur"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lorrain convirtió el puerto en una atmósfera luminosa; la obra está en la National Gallery."
+  },
+  {
+    "id": "cg-5646",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor veneciano decoró con frescos la residencia del príncipe-obispo de Würzburg?",
+    "options": [
+      "Giambattista Pittoni",
+      "Giovanni Battista Tiepolo",
+      "Sebastiano Ricci",
+      "Francesco Guardi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tiepolo realizó el ciclo entre 1751 y 1753 con una escenografía luminosa y teatral."
+  },
+  {
+    "id": "cg-5647",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor veneciano pintó vistas de la cuenca de San Marcos con detalle topográfico?",
+    "options": [
+      "Canaletto",
+      "Francesco Guardi",
+      "Luca Carlevarijs",
+      "Bernardo Bellotto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Canaletto satisfizo el gusto de los viajeros europeos por las vistas de Venecia."
+  },
+  {
+    "id": "cg-5648",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor español pintó El perro semihundido en las Pinturas negras?",
+    "options": [
+      "Francisco de Goya",
+      "Diego Velázquez",
+      "José de Ribera",
+      "Luis Paret"
+    ],
+    "correctIndex": 0,
+    "explanation": "Goya pintó el perro en la Quinta del Sordo hacia 1821; hoy está en el Prado."
+  },
+  {
+    "id": "cg-5649",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué poeta y pintor inglés creó El gran dragón rojo hacia 1805?",
+    "options": [
+      "Henry Fuseli",
+      "Samuel Palmer",
+      "William Blake",
+      "John Martin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Blake ilustró el Apocalipsis con una figura monstruosa y colores intensos."
+  },
+  {
+    "id": "cg-5650",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor suizo simbolista pintó La isla de los muertos en 1880?",
+    "options": [
+      "Ferdinand Hodler",
+      "Carl Spitteler",
+      "Arnold Böcklin",
+      "Albert Welti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Böcklin imaginó un cementerio insular; la primera versión está en Basilea."
+  },
+  {
+    "id": "cg-5651",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor simbolista francés pintó La aparición en 1876?",
+    "options": [
+      "Pierre Puvis de Chavannes",
+      "Gustave Moreau",
+      "Odilon Redon",
+      "Alphonse Osbert"
+    ],
+    "correctIndex": 1,
+    "explanation": "Moreau representó a Salomé ante la cabeza de Juan Bautista; la obra está en su museo parisino."
+  },
+  {
+    "id": "cg-5652",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor ruso simbolista pintó El demonio sentado en 1890?",
+    "options": [
+      "Iliá Repin",
+      "Valentin Serov",
+      "Isaac Levitán",
+      "Mijaíl Vrubel"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vrubel trabajó el tema del demonio inspirado en Lérmontov; la obra está en la Galería Tretyakov."
+  },
+  {
+    "id": "cg-5653",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué artista alemán dibujó Los pilares de la sociedad en 1926?",
+    "options": [
+      "Otto Dix",
+      "Max Beckmann",
+      "George Grosz",
+      "John Heartfield"
+    ],
+    "correctIndex": 2,
+    "explanation": "Grosz retrató a militares, jueces y empresarios como sostén de la Alemania autoritaria."
+  },
+  {
+    "id": "cg-5654",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor alemán creó el tríptico La guerra entre 1929 y 1932?",
+    "options": [
+      "George Grosz",
+      "Otto Dix",
+      "Max Beckmann",
+      "Ernst Ludwig Kirchner"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dix denunció la carnicería de la Primera Guerra Mundial con detalle brutal."
+  },
+  {
+    "id": "cg-5655",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor alemán pintó el tríptico La partida entre 1932 y 1933?",
+    "options": [
+      "Otto Dix",
+      "George Grosz",
+      "Max Beckmann",
+      "Emil Nolde"
+    ],
+    "correctIndex": 2,
+    "explanation": "El tríptico La partida, del MoMA, resume la inquietud de Beckmann ante el exilio y el nazismo."
+  },
+  {
+    "id": "cg-5656",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor italiano es conocido por sus desnudos recostados de cuellos alargados?",
+    "options": [
+      "Giorgio Morandi",
+      "Filippo de Pisis",
+      "Mario Sironi",
+      "Amedeo Modigliani"
+    ],
+    "correctIndex": 3,
+    "explanation": "Modigliani estilizó rostros y cuerpos con una elegancia melancólica."
+  },
+  {
+    "id": "cg-5657",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor ruso-francés pintó Yo y la aldea en 1911?",
+    "options": [
+      "Léon Bakst",
+      "Marc Chagall",
+      "Alexandre Benois",
+      "Chaïm Soutine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chagall mezcló recuerdos de la aldea judía con un espacio onírico; la obra está en el MoMA."
+  },
+  {
+    "id": "cg-5658",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué artista ruso diseñó el cartel Golpead a los blancos con la cuña roja?",
+    "options": [
+      "Aleksandr Ródchenko",
+      "El Lissitzky",
+      "Varvara Stepánova",
+      "Gustav Klutsis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lissitzky combinó geometría suprematista y propaganda política en 1919."
+  },
+  {
+    "id": "cg-5659",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor austriaco pintó La novia del viento en 1914?",
+    "options": [
+      "Oskar Kokoschka",
+      "Egon Schiele",
+      "Gustav Klimt",
+      "Alfred Kubin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kokoschka retrató su relación con Alma Mahler en una pareja atrapada por remolinos."
+  },
+  {
+    "id": "cg-5660",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor alemán del jinete azul pintó El destino de los animales en 1913?",
+    "options": [
+      "August Macke",
+      "Franz Marc",
+      "Wassily Kandinsky",
+      "Paul Klee"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marc usó animales y colores simbólicos para lamentar la pérdida de armonía con la naturaleza."
+  },
+  {
+    "id": "cg-5661",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor prerrafaelita pintó La dama de Shalott en 1888?",
+    "options": [
+      "John Everett Millais",
+      "Dante Gabriel Rossetti",
+      "John William Waterhouse",
+      "Edward Burne-Jones"
+    ],
+    "correctIndex": 2,
+    "explanation": "Waterhouse ilustró el poema de Tennyson con una joven frente al telar."
+  },
+  {
+    "id": "cg-5662",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor prerrafaelita pintó Ofelia en 1852?",
+    "options": [
+      "John Everett Millais",
+      "Dante Gabriel Rossetti",
+      "William Holman Hunt",
+      "Ford Madox Brown"
+    ],
+    "correctIndex": 0,
+    "explanation": "Millais representó a la heroína de Shakespeare flotando entre flores en el río."
+  },
+  {
+    "id": "cg-5663",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor prerrafaelita pintó Beata Beatrix hacia 1870?",
+    "options": [
+      "William Holman Hunt",
+      "Edward Burne-Jones",
+      "Dante Gabriel Rossetti",
+      "John Everett Millais"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rossetti evocó a Beatrice Portinari y a su esposa Elizabeth Siddal."
+  },
+  {
+    "id": "cg-5664",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor británico creó La escalera dorada entre 1876 y 1880?",
+    "options": [
+      "Dante Gabriel Rossetti",
+      "Frederic Leighton",
+      "Lawrence Alma-Tadema",
+      "Edward Burne-Jones"
+    ],
+    "correctIndex": 3,
+    "explanation": "Burne-Jones representó a jóvenes músicas en una escalera de mármol; la obra está en la Tate."
+  },
+  {
+    "id": "cg-5665",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintora aborigen australiana creó Earth's Creation en 1995?",
+    "options": [
+      "Rover Thomas",
+      "Albert Namatjira",
+      "Emily Kame Kngwarreye",
+      "Queenie McKenzie"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kngwarreye pintó el desierto de Utopia con puntos y gestos de gran escala."
+  },
+  {
+    "id": "cg-5666",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor australiano es conocido por sus acuarelas del desierto y del monte Hermannsburg?",
+    "options": [
+      "Sidney Nolan",
+      "Arthur Boyd",
+      "Russell Drysdale",
+      "Albert Namatjira"
+    ],
+    "correctIndex": 3,
+    "explanation": "Namatjira fue uno de los primeros artistas aborígenes en alcanzar fama con paisajes en acuarela."
+  },
+  {
+    "id": "cg-5667",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor australiano retrató al forajido Ned Kelly en varios lienzos?",
+    "options": [
+      "Sidney Nolan",
+      "Albert Namatjira",
+      "Arthur Boyd",
+      "Fred Williams"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nolan representó a Kelly con su casco cuadrado en lienzos de los años cuarenta."
+  },
+  {
+    "id": "cg-5668",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor neozelandés exploró temas religiosos y paisajes con texto en obras como Northland Panels?",
+    "options": [
+      "Colin McCahon",
+      "Ralph Hotere",
+      "Toss Woollaston",
+      "Gordon Walters"
+    ],
+    "correctIndex": 0,
+    "explanation": "McCahon combinó pintura, palabra y reflexión espiritual en la posguerra."
+  },
+  {
+    "id": "cg-5669",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué artista ghanés crea grandes tapices con tapas y anillas de botellas metálicas?",
+    "options": [
+      "Yinka Shonibare",
+      "Owusu-Ankomah",
+      "Ablade Glover",
+      "El Anatsui"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Anatsui transforma desechos en superficies flexibles de gran escala."
+  },
+  {
+    "id": "cg-5670",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué artista británico-nigeriano usa telas de cera holandesa para vestir figuras y maniquíes?",
+    "options": [
+      "Yinka Shonibare",
+      "El Anatsui",
+      "Chris Ofili",
+      "Steve McQueen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shonibare aborda el colonialismo y la identidad con tejidos asociados a África Occidental."
+  },
+  {
+    "id": "cg-5671",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor congoleño es conocido por sus lienzos coloristas con textos y crítica social?",
+    "options": [
+      "Pascale Marthine Tayou",
+      "Bodys Isek Kingelez",
+      "Chéri Samba",
+      "Moke"
+    ],
+    "correctIndex": 2,
+    "explanation": "Samba se representa a menudo en sus obras y comenta la vida cotidiana y la política."
+  },
+  {
+    "id": "cg-5672",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué escultor nigeriano creó la escultura Tutu, convertida en símbolo de la identidad africana moderna?",
+    "options": [
+      "Bruce Onobrakpeya",
+      "Demas Nwoko",
+      "Ben Enwonwu",
+      "Erhabor Emokpae"
+    ],
+    "correctIndex": 2,
+    "explanation": "La escultura de Enwonwu, de 1974, se reprodujo ampliamente en Nigeria."
+  },
+  {
+    "id": "cg-5673",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué artista keniana crea collages con recortes de revistas y figuras femeninas híbridas?",
+    "options": [
+      "Njideka Akunyili Crosby",
+      "Marlene Dumas",
+      "Wangechi Mutu",
+      "Julie Mehretu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mutu combina materiales y cuerpos para reflexionar sobre raza, género y colonialismo."
+  },
+  {
+    "id": "cg-5674",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué cultura precolombina de Colombia es conocida por sus estatuas de piedra en el Alto Magdalena?",
+    "options": [
+      "Tairona",
+      "Muisca",
+      "San Agustín",
+      "Quimbaya"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cultura de San Agustín, en el actual departamento del Huila, talló guardianes y seres míticos."
+  },
+  {
+    "id": "cg-5675",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué cultura andina del norte del Perú modeló vasijas-retrato con rasgos individuales?",
+    "options": [
+      "Moche",
+      "Nazca",
+      "Chavín",
+      "Inca"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los mochicas produjeron cerámica escultórica con retratos de gobernantes y personajes."
+  },
+  {
+    "id": "cg-5676",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué cultura andina produjo mantos bordados con figuras geométricas y seres fantásticos en la costa sur del Perú?",
+    "options": [
+      "Paracas",
+      "Moche",
+      "Tiahuanaco",
+      "Chimú"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los textiles de Paracas, hallados en necrópolis, conservan colores y motivos rituales."
+  },
+  {
+    "id": "cg-5677",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué sitio maya de Chiapas conserva murales del siglo VIII con escenas de corte y batalla?",
+    "options": [
+      "Palenque",
+      "Tikal",
+      "Bonampak",
+      "Copán"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los murales de Bonampak, descubiertos en 1946, narran la vida cortesana y la guerra."
+  },
+  {
+    "id": "cg-5678",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor japonés del siglo XV es famoso por sus paisajes a tinta y por su viaje a China?",
+    "options": [
+      "Sesshu Toyo",
+      "Sesson Shukei",
+      "Kanō Masanobu",
+      "Ashikaga Yoshimasa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sesshu desarrolló un estilo personal con trazos abruptos y espacios vacíos."
+  },
+  {
+    "id": "cg-5679",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué pintor japonés de la escuela Rimpa creó el biombo de Los lirios?",
+    "options": [
+      "Hasegawa Tohaku",
+      "Ogata Korin",
+      "Sotatsu Tawaraya",
+      "Maruyama Okyo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Korin representó lirios con colores planos y un ritmo decorativo; la obra está en el Museo Nezu."
+  },
+  {
+    "id": "cg-5680",
+    "category": "general",
+    "topic": "visual_arts",
+    "difficulty": "hard",
+    "question": "¿Qué escuela de miniatura india del siglo XVIII, en la región del Himalaya, pintó temas de Krishna con colores suaves?",
+    "options": [
+      "Basohli",
+      "Kangra",
+      "Mewar",
+      "Deccani"
+    ],
+    "correctIndex": 1,
+    "explanation": "La escuela de Kangra alcanzó su esplendor bajo el mecenazgo de Sansar Chand."
+  }
+]

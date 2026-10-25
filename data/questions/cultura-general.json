@@ -311,7 +311,7 @@
     "id": "cg-0023",
     "category": "general",
     "difficulty": "easy",
-    "question": "¿Qué mamífero pone huevos?",
+    "question": "¿Qué mamífero australiano de pico de pato y hábitos acuáticos pone huevos?",
     "options": [
       "Canguro",
       "Koala",
@@ -633,7 +633,7 @@
     "id": "cg-0046",
     "category": "general",
     "difficulty": "easy",
-    "question": "¿Cuál es la isla más grande del mundo?",
+    "question": "¿Cuál es la isla más grande del mundo, excluyendo las masas continentales?",
     "options": [
       "Nueva Guinea",
       "Groenlandia",
@@ -1193,7 +1193,7 @@
     "id": "cg-0086",
     "category": "general",
     "difficulty": "medium",
-    "question": "¿Cuál es el punto más bajo de la tierra firme?",
+    "question": "¿Cuál es el punto más bajo de la superficie terrestre emergida?",
     "options": [
       "El valle de la Muerte",
       "La ribera del mar Muerto",
@@ -1221,7 +1221,7 @@
     "id": "cg-0088",
     "category": "general",
     "difficulty": "medium",
-    "question": "¿Qué cordillera se considera la frontera natural entre Europa y Asia?",
+    "question": "¿Qué cordillera, que separa la Rusia europea de Siberia, se considera la frontera natural entre Europa y Asia?",
     "options": [
       "Cáucaso",
       "Alpes",
@@ -1277,7 +1277,7 @@
     "id": "cg-0092",
     "category": "general",
     "difficulty": "medium",
-    "question": "¿Cuál es el volcán más activo de Europa?",
+    "question": "¿Qué volcán siciliano, situado junto a Catania, es el más activo de Europa?",
     "options": [
       "Vesubio",
       "Etna",
@@ -1305,7 +1305,7 @@
     "id": "cg-0094",
     "category": "general",
     "difficulty": "medium",
-    "question": "¿Cuál es el mayor desierto polar del mundo?",
+    "question": "¿Cuál es el mayor desierto polar del planeta, situado en el hemisferio sur?",
     "options": [
       "Sahara",
       "Antártico",
@@ -1403,7 +1403,7 @@
     "id": "cg-0101",
     "category": "general",
     "difficulty": "medium",
-    "question": "¿En qué capa se encuentra la mayor parte del ozono?",
+    "question": "¿En qué capa de la atmósfera se encuentra la mayor parte del ozono?",
     "options": [
       "Troposfera",
       "Estratosfera",
@@ -1683,7 +1683,7 @@
     "id": "cg-0121",
     "category": "general",
     "difficulty": "medium",
-    "question": "¿Qué científico propuso la evolución por selección natural?",
+    "question": "¿Qué naturalista inglés expuso la evolución por selección natural en El origen de las especies, publicado en 1859?",
     "options": [
       "Charles Darwin",
       "Gregor Mendel",
@@ -1809,7 +1809,7 @@
     "id": "cg-0130",
     "category": "general",
     "difficulty": "medium",
-    "question": "¿Quién completó la primera vuelta al mundo?",
+    "question": "¿Qué navegante español completó la primera vuelta al mundo al mando de la expedición en 1522?",
     "options": [
       "Fernando de Magallanes",
       "Juan Sebastián Elcano",
@@ -1907,7 +1907,7 @@
     "id": "cg-0137",
     "category": "general",
     "difficulty": "medium",
-    "question": "¿Quién dirigió la Revolución haitiana?",
+    "question": "¿Qué líder dirigió la Revolución haitiana en su fase inicial, entre 1791 y 1802?",
     "options": [
       "Simón Bolívar",
       "Jean-Jacques Dessalines",
@@ -2257,7 +2257,7 @@
     "id": "cg-0162",
     "category": "general",
     "difficulty": "hard",
-    "question": "¿En qué año capturó Pizarro a Atahualpa?",
+    "question": "¿En qué año capturó Francisco Pizarro a Atahualpa?",
     "options": [
       "1521",
       "1532",
@@ -2537,7 +2537,7 @@
     "id": "cg-0182",
     "category": "general",
     "difficulty": "easy",
-    "question": "¿Quién compuso la Quinta Sinfonía?",
+    "question": "¿Qué compositor alemán escribió la Quinta Sinfonía, estrenada en 1808 y conocida por su motivo de cuatro notas?",
     "options": [
       "Ludwig van Beethoven",
       "Wolfgang Amadeus Mozart",
@@ -2845,7 +2845,7 @@
     "id": "cg-0204",
     "category": "general",
     "difficulty": "easy",
-    "question": "¿Qué actor interpretó a Jack Dawson en Titanic?",
+    "question": "¿Qué actor interpretó a Jack Dawson en la película Titanic de 1997?",
     "options": [
       "Brad Pitt",
       "Johnny Depp",
@@ -3069,7 +3069,7 @@
     "id": "cg-0220",
     "category": "general",
     "difficulty": "easy",
-    "question": "¿Qué instrumento tiene cuatro cuerdas y se toca con arco en una orquesta?",
+    "question": "¿Qué instrumento de cuerda frotada, el más agudo de la familia, tiene cuatro cuerdas y se toca con arco en una orquesta?",
     "options": [
       "La guitarra",
       "El arpa",
@@ -3181,7 +3181,7 @@
     "id": "cg-0228",
     "category": "general",
     "difficulty": "easy",
-    "question": "¿Quién protagonizó Casablanca junto a Ingrid Bergman?",
+    "question": "¿Quién protagonizó la película Casablanca de 1942 junto a Ingrid Bergman?",
     "options": [
       "Cary Grant",
       "Clark Gable",
@@ -3251,7 +3251,7 @@
     "id": "cg-0233",
     "category": "general",
     "difficulty": "easy",
-    "question": "¿Quién ganó la final del Mundial de Fútbol de 2014?",
+    "question": "¿Qué selección ganó la final del Mundial de Fútbol de 2014?",
     "options": [
       "Argentina",
       "Brasil",
@@ -3629,7 +3629,7 @@
     "id": "cg-0260",
     "category": "general",
     "difficulty": "medium",
-    "question": "¿Quién escribió La metamorfosis?",
+    "question": "¿Qué escritor de lengua alemana escribió la novela corta La metamorfosis, publicada en 1915?",
     "options": [
       "Thomas Mann",
       "Hermann Hesse",
@@ -3727,7 +3727,7 @@
     "id": "cg-0267",
     "category": "general",
     "difficulty": "medium",
-    "question": "¿Quién compuso la ópera El barbero de Sevilla?",
+    "question": "¿Qué compositor italiano escribió la ópera El barbero de Sevilla, estrenada en 1816?",
     "options": [
       "Gioachino Rossini",
       "Giuseppe Verdi",
@@ -4007,7 +4007,7 @@
     "id": "cg-0287",
     "category": "general",
     "difficulty": "medium",
-    "question": "¿Qué selección ganó la primera Eurocopa, en 1960?",
+    "question": "¿Qué selección ganó la primera Eurocopa de fútbol, en 1960?",
     "options": [
       "Yugoslavia",
       "La Unión Soviética",
@@ -4091,7 +4091,7 @@
     "id": "cg-0293",
     "category": "general",
     "difficulty": "medium",
-    "question": "¿Qué piloto brasileño ganó tres campeonatos mundiales de Fórmula 1?",
+    "question": "¿Qué piloto brasileño ganó los campeonatos mundiales de Fórmula 1 de 1988, 1990 y 1991?",
     "options": [
       "Ayrton Senna",
       "Nelson Piquet",
@@ -4735,7 +4735,7 @@
     "id": "cg-0339",
     "category": "general",
     "difficulty": "hard",
-    "question": "¿Qué club ganó la primera Copa de Europa, en 1956?",
+    "question": "¿Qué club ganó la primera Copa de Europa de fútbol, en 1956?",
     "options": [
       "El Benfica",
       "El Milan",
@@ -4749,7 +4749,7 @@
     "id": "cg-0340",
     "category": "general",
     "difficulty": "hard",
-    "question": "¿Qué boxeador ganó el título mundial de los pesos pesados en 1964 y se proclamó el más grande?",
+    "question": "¿Qué boxeador ganó el título mundial de los pesos pesados en 1964 y se proclamó a sí mismo «el más grande»?",
     "options": [
       "Joe Frazier",
       "George Foreman",
@@ -4805,7 +4805,7 @@
     "id": "cg-0344",
     "category": "general",
     "difficulty": "hard",
-    "question": "¿A qué matemático británico se le considera el padre de la informática?",
+    "question": "¿A qué matemático británico se le considera el padre de la informática por formalizar la computación con una máquina teórica?",
     "options": [
       "John von Neumann",
       "Charles Babbage",

@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-4381",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios griego lanzaba rayos y truenos desde el monte Olimpo?",
+    "options": [
+      "Poseidón",
+      "Zeus",
+      "Apolo",
+      "Ares"
+    ],
+    "correctIndex": 1,
+    "explanation": "Zeus era el dios del cielo y soberano del panteón griego; sus atributos incluían el rayo y el águila."
+  },
+  {
+    "id": "cg-4382",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibía Zeus en la religión romana?",
+    "options": [
+      "Júpiter",
+      "Neptuno",
+      "Marte",
+      "Saturno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los romanos identificaron a Zeus con Júpiter, dios del cielo y protector del Estado."
+  },
+  {
+    "id": "cg-4383",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios griego, hermano de Zeus, gobernaba los mares con su tridente?",
+    "options": [
+      "Hades",
+      "Hermes",
+      "Hefesto",
+      "Poseidón"
+    ],
+    "correctIndex": 3,
+    "explanation": "Poseidón dominaba el mar y los terremotos; su arma era el tridente."
+  },
+  {
+    "id": "cg-4384",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa griega de la sabiduría nació de la cabeza de Zeus?",
+    "options": [
+      "Hera",
+      "Artemisa",
+      "Atenea",
+      "Deméter"
+    ],
+    "correctIndex": 2,
+    "explanation": "Atenea surgió adulta y armada de la cabeza de Zeus, según la tradición griega."
+  },
+  {
+    "id": "cg-4385",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios griego, mensajero del Olimpo, llevaba sandalias aladas?",
+    "options": [
+      "Apolo",
+      "Hermes",
+      "Ares",
+      "Dioniso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hermes era el mensajero de los dioses y guiaba las almas al inframundo."
+  },
+  {
+    "id": "cg-4386",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios griego del vino y del teatro era hijo de Zeus y de la mortal Sémele?",
+    "options": [
+      "Dioniso",
+      "Eros",
+      "Pan",
+      "Hefesto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dioniso, dios del vino y del éxtasis, nació de Zeus y Sémele y fue criado por ninfas."
+  },
+  {
+    "id": "cg-4387",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios griego compartía el gobierno del inframundo con Perséfone?",
+    "options": [
+      "Cronos",
+      "Urano",
+      "Helios",
+      "Hades"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hades recibió el mundo subterráneo al repartirse el universo con sus hermanos Zeus y Poseidón."
+  },
+  {
+    "id": "cg-4388",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa griega del amor nació de la espuma del mar, según Hesíodo?",
+    "options": [
+      "Hestia",
+      "Atenea",
+      "Afrodita",
+      "Iris"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hesíodo cuenta que Afrodita surgió de la espuma formada cuando Urano cayó al mar."
+  },
+  {
+    "id": "cg-4389",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa griega del matrimonio era esposa de Zeus?",
+    "options": [
+      "Deméter",
+      "Hera",
+      "Rea",
+      "Tetis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hera, protectora del matrimonio, fue esposa legítima de Zeus y reina del Olimpo."
+  },
+  {
+    "id": "cg-4390",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios griego de la guerra era hijo de Zeus y Hera?",
+    "options": [
+      "Ares",
+      "Hefesto",
+      "Hermes",
+      "Apolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ares personificaba la guerra violenta; los griegos lo veían con recelo frente a Atenea."
+  },
+  {
+    "id": "cg-4391",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios griego conducía cada día un carro solar por el cielo?",
+    "options": [
+      "Eolo",
+      "Bóreas",
+      "Céfiro",
+      "Helios"
+    ],
+    "correctIndex": 3,
+    "explanation": "Helios era la personificación del Sol y recorría el cielo de este a oeste."
+  },
+  {
+    "id": "cg-4392",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa griega de la caza era hermana gemela de Apolo?",
+    "options": [
+      "Atenea",
+      "Hécate",
+      "Artemisa",
+      "Selene"
+    ],
+    "correctIndex": 2,
+    "explanation": "Artemisa, hija de Leto, nació junto a Apolo en Delos y protegía la caza y la virginidad."
+  },
+  {
+    "id": "cg-4393",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios griego de la música y la profecía tenía su oráculo en Delfos?",
+    "options": [
+      "Dioniso",
+      "Apolo",
+      "Pan",
+      "Asclepio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El santuario de Apolo en Delfos, con la pitonisa, fue el oráculo más famoso de Grecia."
+  },
+  {
+    "id": "cg-4394",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios griego del amor era hijo de Afrodita?",
+    "options": [
+      "Eros",
+      "Himeneo",
+      "Príapo",
+      "Anteros"
+    ],
+    "correctIndex": 0,
+    "explanation": "Eros, representado a menudo como un niño alado con arco, encarnaba el deseo amoroso."
+  },
+  {
+    "id": "cg-4395",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué titán griego sostenía la bóveda del cielo sobre sus hombros?",
+    "options": [
+      "Prometeo",
+      "Epimeteo",
+      "Cronos",
+      "Atlas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Atlas fue condenado por Zeus a cargar el cielo tras la derrota de los titanes."
+  },
+  {
+    "id": "cg-4396",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué titán griego devoraba a sus hijos recién nacidos para evitar ser destronado?",
+    "options": [
+      "Urano",
+      "Atlas",
+      "Cronos",
+      "Océano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cronos devoró a sus hijos, pero Zeus fue salvado y lo obligó a vomitarlos."
+  },
+  {
+    "id": "cg-4397",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué titán griego robó el fuego y lo entregó a la humanidad?",
+    "options": [
+      "Atlas",
+      "Prometeo",
+      "Hefesto",
+      "Hermes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prometeo engañó a Zeus con el sacrificio y fue castigado con un águila que le comía el hígado."
+  },
+  {
+    "id": "cg-4398",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué héroe griego decapitó a la gorgona Medusa?",
+    "options": [
+      "Perseo",
+      "Teseo",
+      "Jasón",
+      "Aquiles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Perseo usó un escudo pulido y una hoz para vencer a Medusa sin mirarla directamente."
+  },
+  {
+    "id": "cg-4399",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué héroe griego completó doce trabajos al servicio del rey Euristeo?",
+    "options": [
+      "Teseo",
+      "Perseo",
+      "Belerofonte",
+      "Heracles"
+    ],
+    "correctIndex": 3,
+    "explanation": "Heracles, hijo de Zeus, cumplió doce pruebas impuestas por Euristeo como penitencia."
+  },
+  {
+    "id": "cg-4400",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué héroe griego escapó del laberinto de Creta guiado por el hilo de Ariadna?",
+    "options": [
+      "Jasón",
+      "Perseo",
+      "Teseo",
+      "Orfeo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Teseo mató al Minotauro y encontró la salida gracias al hilo que le dio Ariadna."
+  },
+  {
+    "id": "cg-4401",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué héroe griego capitaneó a los argonautas en busca del vellocino de oro?",
+    "options": [
+      "Teseo",
+      "Jasón",
+      "Odiseo",
+      "Aquiles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jasón reunió a los héroes en la nave Argo y viajó a la Cólquide por el vellocino."
+  },
+  {
+    "id": "cg-4402",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué héroe griego de la guerra de Troya era invulnerable salvo en el talón?",
+    "options": [
+      "Aquiles",
+      "Héctor",
+      "Patroclo",
+      "Áyax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aquiles fue sumergido en el río Estigia de niño, pero su talón quedó vulnerable."
+  },
+  {
+    "id": "cg-4403",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué rey de Ítaca protagoniza la Odisea de Homero?",
+    "options": [
+      "Agamenón",
+      "Menelao",
+      "Néstor",
+      "Odiseo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Odiseo, llamado Ulises por los romanos, vagó diez años antes de regresar a Ítaca."
+  },
+  {
+    "id": "cg-4404",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué poeta griego compuso la Ilíada y la Odisea?",
+    "options": [
+      "Hesíodo",
+      "Sófocles",
+      "Homero",
+      "Eurípides"
+    ],
+    "correctIndex": 2,
+    "explanation": "A Homero se le atribuyen la Ilíada y la Odisea, poemas épicos fundamentales de Grecia."
+  },
+  {
+    "id": "cg-4405",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué criatura de la mitología griega tenía torso humano y cuerpo de caballo?",
+    "options": [
+      "Sátiro",
+      "Centauro",
+      "Cíclope",
+      "Harpía"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los centauros, como Quirón, solían habitar zonas salvajes y eran célebres por su carácter ambiguo."
+  },
+  {
+    "id": "cg-4406",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué criatura con cabeza de toro vivía en el laberinto de Creta?",
+    "options": [
+      "Minotauro",
+      "Quimera",
+      "Esfinge",
+      "Hidra"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Minotauro nació de Pasífae y fue encerrado en el laberinto construido por Dédalo."
+  },
+  {
+    "id": "cg-4407",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué perro de tres cabezas custodiaba la entrada del inframundo griego?",
+    "options": [
+      "Ortro",
+      "Argos",
+      "Escila",
+      "Cerbero"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cerbero impedía salir a los muertos; Orfeo lo adormeció con su música."
+  },
+  {
+    "id": "cg-4408",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué ave mitológica renacía de sus propias cenizas?",
+    "options": [
+      "Grifo",
+      "Arpía",
+      "Fénix",
+      "Sirena"
+    ],
+    "correctIndex": 2,
+    "explanation": "El fénix se consumía en el fuego y volvía a nacer, símbolo de renovación."
+  },
+  {
+    "id": "cg-4409",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué rey de Frigia convertía en oro todo lo que tocaba?",
+    "options": [
+      "Tántalo",
+      "Midas",
+      "Sísifo",
+      "Erecteo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Midas obtuvo el don de convertir en oro cuanto tocaba y casi murió de hambre."
+  },
+  {
+    "id": "cg-4410",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué joven griega abrió la vasija que liberó los males del mundo?",
+    "options": [
+      "Pandora",
+      "Helena",
+      "Perséfone",
+      "Antígona"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pandora, la primera mujer, destapó el recipiente del que escaparon todos los males."
+  },
+  {
+    "id": "cg-4411",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué barquero transportaba las almas de los muertos por las aguas del Estigia?",
+    "options": [
+      "Tánatos",
+      "Hipnos",
+      "Hermes",
+      "Caronte"
+    ],
+    "correctIndex": 3,
+    "explanation": "Caronte cobraba una moneda a los difuntos para cruzar al reino de Hades."
+  },
+  {
+    "id": "cg-4412",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué héroe griego resolvió el enigma de la Esfinge de Tebas?",
+    "options": [
+      "Creonte",
+      "Layo",
+      "Edipo",
+      "Eteocles"
+    ],
+    "correctIndex": 2,
+    "explanation": "Edipo respondió que el ser de la adivinanza era el hombre y la Esfinge se arrojó al vacío."
+  },
+  {
+    "id": "cg-4413",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa griega de la agricultura era madre de Perséfone?",
+    "options": [
+      "Hestia",
+      "Deméter",
+      "Hera",
+      "Rea"
+    ],
+    "correctIndex": 1,
+    "explanation": "Deméter, diosa de las cosechas, buscó desesperada a Perséfone tras su rapto por Hades."
+  },
+  {
+    "id": "cg-4414",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios romano de la guerra corresponde al griego Ares?",
+    "options": [
+      "Marte",
+      "Mercurio",
+      "Vulcano",
+      "Saturno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Marte era el dios romano de la guerra y también padre mítico de Rómulo y Remo."
+  },
+  {
+    "id": "cg-4415",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa romana del amor y la belleza corresponde a la griega Afrodita?",
+    "options": [
+      "Diana",
+      "Minerva",
+      "Juno",
+      "Venus"
+    ],
+    "correctIndex": 3,
+    "explanation": "Venus, diosa romana del amor y la belleza, fue identificada con la griega Afrodita."
+  },
+  {
+    "id": "cg-4416",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa romana de la sabiduría corresponde a la griega Atenea?",
+    "options": [
+      "Diana",
+      "Juno",
+      "Minerva",
+      "Vesta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Minerva compartía con Atenea los atributos de la sabiduría, las artes y la guerra defensiva."
+  },
+  {
+    "id": "cg-4417",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios romano del vino corresponde al griego Dioniso?",
+    "options": [
+      "Marte",
+      "Baco",
+      "Mercurio",
+      "Jano"
+    ],
+    "correctIndex": 1,
+    "explanation": "Baco, nombre romano de Dioniso, presidía el vino, la vendimia y el teatro."
+  },
+  {
+    "id": "cg-4418",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios romano mensajero corresponde al griego Hermes?",
+    "options": [
+      "Mercurio",
+      "Vulcano",
+      "Saturno",
+      "Plutón"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mercurio era el mensajero de los dioses y protector del comercio y los viajeros."
+  },
+  {
+    "id": "cg-4419",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios romano de la forja corresponde al griego Hefesto?",
+    "options": [
+      "Marte",
+      "Júpiter",
+      "Neptuno",
+      "Vulcano"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vulcano era el dios del fuego y la metalurgia, y su taller se situaba bajo los volcanes."
+  },
+  {
+    "id": "cg-4420",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios romano del inframundo corresponde al griego Hades?",
+    "options": [
+      "Saturno",
+      "Urano",
+      "Plutón",
+      "Apolo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Plutón, señor de los muertos, recibió su nombre del griego Plouton, el rico."
+  },
+  {
+    "id": "cg-4421",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa romana de la caza corresponde a la griega Artemisa?",
+    "options": [
+      "Minerva",
+      "Diana",
+      "Juno",
+      "Venus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Diana era la diosa romana de la caza y de la luna, asimilada a Artemisa."
+  },
+  {
+    "id": "cg-4422",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios romano de las puertas y los comienzos se representaba con dos rostros?",
+    "options": [
+      "Jano",
+      "Saturno",
+      "Quirino",
+      "Fauno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jano miraba hacia el pasado y el futuro; su mes, enero, abría el año."
+  },
+  {
+    "id": "cg-4423",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué gemelos fundaron Roma según la leyenda?",
+    "options": [
+      "Cástor y Pólux",
+      "Eneas y Ascanio",
+      "Anquises y Eneas",
+      "Rómulo y Remo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los gemelos, amamantados por una loba, fundaron Roma; Rómulo dio nombre a la ciudad."
+  },
+  {
+    "id": "cg-4424",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué príncipe troyano huyó a Italia y es antepasado legendario de los romanos?",
+    "options": [
+      "Paris",
+      "Héctor",
+      "Eneas",
+      "Príamo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Eneida de Virgilio narra el viaje de Eneas desde Troya hasta el Lacio."
+  },
+  {
+    "id": "cg-4425",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios romano de la agricultura era padre de Júpiter y se celebraba en las Saturnales?",
+    "options": [
+      "Fauno",
+      "Saturno",
+      "Silvano",
+      "Vertumno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Saturno, dios de las siembras, fue identificado con el griego Cronos."
+  },
+  {
+    "id": "cg-4426",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios nórdico del trueno, hijo de Odín, empuña el martillo Mjölnir?",
+    "options": [
+      "Thor",
+      "Loki",
+      "Tyr",
+      "Baldr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Thor protegía a dioses y hombres con su martillo, y su carro era tirado por cabras."
+  },
+  {
+    "id": "cg-4427",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios nórdico es padre de Thor y soberano de Asgard?",
+    "options": [
+      "Freyr",
+      "Heimdall",
+      "Njord",
+      "Odín"
+    ],
+    "correctIndex": 3,
+    "explanation": "Odín, dios de la sabiduría y la guerra, sacrificó un ojo por conocer el destino."
+  },
+  {
+    "id": "cg-4428",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios nórdico embaucador, hijo de Odín, cambia de forma y engaña a los dioses?",
+    "options": [
+      "Tyr",
+      "Bragi",
+      "Loki",
+      "Vidar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Loki, hábil cambiaformas, provocó la muerte de Baldr y fue castigado por ello."
+  },
+  {
+    "id": "cg-4429",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la morada de los dioses en la mitología nórdica?",
+    "options": [
+      "Midgard",
+      "Asgard",
+      "Jötunheim",
+      "Niflheim"
+    ],
+    "correctIndex": 1,
+    "explanation": "Asgard, hogar de los æsir, estaba unido al mundo humano por el puente Bifröst."
+  },
+  {
+    "id": "cg-4430",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué árbol cósmico conecta los nueve mundos de la mitología nórdica?",
+    "options": [
+      "Yggdrasil",
+      "Gungnir",
+      "Draupnir",
+      "Mjölnir"
+    ],
+    "correctIndex": 0,
+    "explanation": "El fresno Yggdrasil sostenía los nueve mundos y tenía raíces en pozos sagrados."
+  },
+  {
+    "id": "cg-4431",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué salón de Asgard recibe a los guerreros muertos en combate?",
+    "options": [
+      "Bilskirnir",
+      "Gladsheim",
+      "Folkvang",
+      "Valhalla"
+    ],
+    "correctIndex": 3,
+    "explanation": "En el Valhalla, los einherjar combatían de día y festejaban de noche esperando el Ragnarök."
+  },
+  {
+    "id": "cg-4432",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué guerreras nórdicas eligen a los caídos en batalla y los llevan a Odín?",
+    "options": [
+      "Nornas",
+      "Disir",
+      "Valquirias",
+      "Fylgjur"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las valquirias servían a Odín y decidían qué guerreros morían en el campo."
+  },
+  {
+    "id": "cg-4433",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué lobo gigante nórdico devora a Odín durante el Ragnarök?",
+    "options": [
+      "Garm",
+      "Fenrir",
+      "Sköll",
+      "Hati"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fenrir, hijo de Loki, fue atado por los dioses y se liberará al final de los tiempos."
+  },
+  {
+    "id": "cg-4434",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué serpiente marina nórdica ciñe el mundo y lucha contra Thor en el Ragnarök?",
+    "options": [
+      "Jörmungandr",
+      "Níðhöggr",
+      "Fafnir",
+      "Garm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jörmungandr, la serpiente de Midgard, y Thor se matan mutuamente en el Ragnarök."
+  },
+  {
+    "id": "cg-4435",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué caballo de ocho patas monta Odín?",
+    "options": [
+      "Grani",
+      "Svadilfari",
+      "Gullfaxi",
+      "Sleipnir"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sleipnir, hijo de Loki, podía viajar entre los mundos con Odín."
+  },
+  {
+    "id": "cg-4436",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe el crepúsculo de los dioses que anuncia el fin del mundo nórdico?",
+    "options": [
+      "Fimbulvetr",
+      "Ginnungagap",
+      "Ragnarök",
+      "Ymir"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Ragnarök describe la batalla final, la destrucción y el renacimiento del mundo."
+  },
+  {
+    "id": "cg-4437",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué gigante de fuego nórdico incendia el mundo al final del Ragnarök?",
+    "options": [
+      "Ymir",
+      "Surtr",
+      "Thrym",
+      "Hrungnir"
+    ],
+    "correctIndex": 1,
+    "explanation": "Surtr, señor de Muspelheim, empuña una espada brillante y consume el mundo con fuego."
+  },
+  {
+    "id": "cg-4438",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios egipcio del sol navegaba por el cielo en una barca cada día?",
+    "options": [
+      "Ra",
+      "Osiris",
+      "Anubis",
+      "Set"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ra recorría el cielo en su barca solar y atravesaba el inframundo durante la noche."
+  },
+  {
+    "id": "cg-4439",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios egipcio, esposo de Isis, gobernaba el inframundo?",
+    "options": [
+      "Horus",
+      "Thoth",
+      "Sobek",
+      "Osiris"
+    ],
+    "correctIndex": 3,
+    "explanation": "Osiris, asesinado por Set, resucitó como señor de los muertos y juez del Más Allá."
+  },
+  {
+    "id": "cg-4440",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa egipcia era esposa de Osiris y madre de Horus?",
+    "options": [
+      "Neftis",
+      "Hathor",
+      "Isis",
+      "Bastet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Isis reunió el cuerpo de Osiris y concibió a Horus, a quien protegió en el delta."
+  },
+  {
+    "id": "cg-4441",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios egipcio de la escritura y la sabiduría tiene cabeza de ibis?",
+    "options": [
+      "Anubis",
+      "Thoth",
+      "Set",
+      "Ptah"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thoth inventó la escritura jeroglífica y registraba el juicio de los muertos."
+  },
+  {
+    "id": "cg-4442",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios egipcio asesinó a su hermano Osiris para usurpar el trono?",
+    "options": [
+      "Set",
+      "Horus",
+      "Anubis",
+      "Geb"
+    ],
+    "correctIndex": 0,
+    "explanation": "Set, dios del desierto y el caos, encerró a Osiris en un sarcófago y lo mató."
+  },
+  {
+    "id": "cg-4443",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios egipcio con cabeza de halcón vengó a su padre Osiris?",
+    "options": [
+      "Anubis",
+      "Thoth",
+      "Ra",
+      "Horus"
+    ],
+    "correctIndex": 3,
+    "explanation": "Horus derrotó a Set y recuperó el trono de Egipto; el faraón se identificaba con él."
+  },
+  {
+    "id": "cg-4444",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa egipcia con cabeza de vaca protegía a los faraones y era diosa del amor?",
+    "options": [
+      "Bastet",
+      "Sekhmet",
+      "Hathor",
+      "Isis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hathor, diosa del amor, la música y la alegría, se representaba como vaca o mujer con cuernos."
+  },
+  {
+    "id": "cg-4445",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa egipcia con cabeza de gata era patrona del hogar y de los gatos?",
+    "options": [
+      "Hathor",
+      "Bastet",
+      "Neftis",
+      "Tefnut"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bastet protegía el hogar y a los gatos, animales sagrados en Egipto."
+  },
+  {
+    "id": "cg-4446",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios egipcio, patrono de los artesanos, era adorado en Menfis como creador?",
+    "options": [
+      "Ptah",
+      "Atum",
+      "Jnum",
+      "Amón"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ptah creaba mediante el pensamiento y la palabra, y los artesanos lo veneraban."
+  },
+  {
+    "id": "cg-4447",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios egipcio con cabeza de carnero modelaba a los seres humanos en un torno?",
+    "options": [
+      "Ptah",
+      "Thoth",
+      "Bes",
+      "Jnum"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jnum, dios de las cataratas del Nilo, formaba cuerpos y almas en su torno de alfarero."
+  },
+  {
+    "id": "cg-4448",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios azteca con forma de serpiente emplumada fue un héroe civilizador?",
+    "options": [
+      "Tezcatlipoca",
+      "Huitzilopochtli",
+      "Quetzalcóatl",
+      "Xipe Tótec"
+    ],
+    "correctIndex": 2,
+    "explanation": "Quetzalcóatl enseñó las artes y el cultivo del maíz; su rival era Tezcatlipoca."
+  },
+  {
+    "id": "cg-4449",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios azteca de la lluvia y la agricultura tenía un santuario en el Templo Mayor de Tenochtitlán?",
+    "options": [
+      "Mictlantecuhtli",
+      "Tláloc",
+      "Xiuhtecuhtli",
+      "Quetzalcóatl"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tláloc traía la lluvia; se le ofrecían niños y se le representaba con gafas y colmillos."
+  },
+  {
+    "id": "cg-4450",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios azteca del sol y de la guerra guiaba a los mexicas en sus migraciones?",
+    "options": [
+      "Huitzilopochtli",
+      "Quetzalcóatl",
+      "Tláloc",
+      "Xochipilli"
+    ],
+    "correctIndex": 0,
+    "explanation": "Huitzilopochtli, dios tribal de los mexicas, indicó el lugar donde debían fundar Tenochtitlán."
+  },
+  {
+    "id": "cg-4451",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué deidad azteca gobernaba el Mictlán, el inframundo de los muertos?",
+    "options": [
+      "Xólotl",
+      "Tezcatlipoca",
+      "Camaxtli",
+      "Mictlantecuhtli"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mictlantecuhtli, señor de los huesos, presidía el noveno y último nivel del Mictlán."
+  },
+  {
+    "id": "cg-4452",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios maya de la lluvia era adorado en Chichén Itzá y empuñaba hachas de rayo?",
+    "options": [
+      "Kukulkán",
+      "Hunab Ku",
+      "Chaac",
+      "Itzamná"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chaac, dios de la lluvia y el rayo, era esencial para la agricultura maya del maíz."
+  },
+  {
+    "id": "cg-4453",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué deidad maya con forma de serpiente emplumada equivale al azteca Quetzalcóatl?",
+    "options": [
+      "Chaac",
+      "Kukulkán",
+      "Ah Puch",
+      "Ixchel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kukulkán, la serpiente emplumada maya, aparece en Chichén Itzá y en el Popol Vuh."
+  },
+  {
+    "id": "cg-4454",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa maya de la medicina y el parto era esposa de Itzamná?",
+    "options": [
+      "Ixchel",
+      "Ix Tab",
+      "Xtabay",
+      "Ix Chebel Yax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ixchel, diosa de la medicina, el parto y el arcoíris, era esposa del dios creador Itzamná."
+  },
+  {
+    "id": "cg-4455",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios inca del sol era la principal divinidad del Imperio?",
+    "options": [
+      "Viracocha",
+      "Pachacámac",
+      "Illapa",
+      "Inti"
+    ],
+    "correctIndex": 3,
+    "explanation": "Inti, el Sol, era padre simbólico del Sapa Inca y se le rendía culto en el Coricancha."
+  },
+  {
+    "id": "cg-4456",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios inca creador y civilizador surgió del lago Titicaca para formar el mundo?",
+    "options": [
+      "Inti",
+      "Manco Cápac",
+      "Viracocha",
+      "Supay"
+    ],
+    "correctIndex": 2,
+    "explanation": "Viracocha creó a los seres humanos y luego caminó hasta el mar, según la tradición inca."
+  },
+  {
+    "id": "cg-4457",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa inca de la luna era esposa de Inti?",
+    "options": [
+      "Mama Ocllo",
+      "Mama Quilla",
+      "Pachamama",
+      "Mama Cocha"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mama Quilla, la Luna, era hermana y esposa de Inti y protegía a las mujeres casadas."
+  },
+  {
+    "id": "cg-4458",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios hindú de la destrucción forma parte de la tríada junto a Brahma y Vishnu?",
+    "options": [
+      "Shiva",
+      "Ganesha",
+      "Indra",
+      "Surya"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shiva, el destructor y transformador, se representa con tridente, serpientes y el tercer ojo."
+  },
+  {
+    "id": "cg-4459",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios hindú preserva el universo y tiene avatares como Rama y Krishna?",
+    "options": [
+      "Shiva",
+      "Brahma",
+      "Kartikeya",
+      "Vishnu"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vishnu desciende al mundo en avatares para restablecer el orden cósmico."
+  },
+  {
+    "id": "cg-4460",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios hindú con cabeza de elefante aparta los obstáculos?",
+    "options": [
+      "Hanuman",
+      "Kartikeya",
+      "Ganesha",
+      "Nandi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ganesha, hijo de Shiva y Parvati, es invocado al comenzar cualquier empresa."
+  },
+  {
+    "id": "cg-4461",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué deidad hindú con forma de mono ayudó a Rama a rescatar a Sita?",
+    "options": [
+      "Sugriva",
+      "Hanuman",
+      "Vali",
+      "Angada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hanuman, general de los monos, simboliza la devoción y la fuerza al servicio de Rama."
+  },
+  {
+    "id": "cg-4462",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué héroe hindú del Ramayana rescata a su esposa Sita del demonio Ravana?",
+    "options": [
+      "Rama",
+      "Krishna",
+      "Arjuna",
+      "Lakshmana"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rama, príncipe de Ayodhya, es el séptimo avatar de Vishnu y héroe del Ramayana."
+  },
+  {
+    "id": "cg-4463",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué epopeya hindú narra la guerra entre los Pandavas y los Kauravas?",
+    "options": [
+      "Ramayana",
+      "Rigveda",
+      "Bhagavata Purana",
+      "Mahabharata"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Mahabharata, atribuido a Vyasa, incluye la Bhagavad Gita y es una de las grandes epopeyas."
+  },
+  {
+    "id": "cg-4464",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios hindú de la lluvia y la guerra empuña el rayo llamado vajra?",
+    "options": [
+      "Agni",
+      "Vayu",
+      "Indra",
+      "Varuna"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indra, rey de los dioses védicos, derrotó a la serpiente Vritra con su vajra."
+  },
+  {
+    "id": "cg-4465",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios hindú del fuego actúa como mensajero entre dioses y hombres?",
+    "options": [
+      "Vayu",
+      "Agni",
+      "Soma",
+      "Yama"
+    ],
+    "correctIndex": 1,
+    "explanation": "Agni, dios del fuego, recibía las ofrendas del sacrificio y las llevaba a los dioses."
+  },
+  {
+    "id": "cg-4466",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios hindú de la muerte gobierna el inframundo y juzga a las almas?",
+    "options": [
+      "Yama",
+      "Kubera",
+      "Varuna",
+      "Chandra"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yama, primer mortal en morir, se convirtió en señor de los muertos y del sur."
+  },
+  {
+    "id": "cg-4467",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa hindú de la riqueza y la fortuna es esposa de Vishnu?",
+    "options": [
+      "Saraswati",
+      "Parvati",
+      "Durga",
+      "Lakshmi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lakshmi personifica la prosperidad y se celebra especialmente en Diwali."
+  },
+  {
+    "id": "cg-4468",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué deidad china gobierna el cielo desde un palacio celestial?",
+    "options": [
+      "Emperador Amarillo",
+      "Rey Mono",
+      "Emperador de Jade",
+      "Señor Dragón"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Emperador de Jade, Yu Huang, encabeza la burocracia celestial del taoísmo popular."
+  },
+  {
+    "id": "cg-4469",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa china de la luna vive en el palacio lunar tras beber un elixir de inmortalidad?",
+    "options": [
+      "Nüwa",
+      "Chang E",
+      "Xiwangmu",
+      "Guanyin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chang E tomó el elixir de su esposo Hou Yi y ascendió a la Luna, donde la acompaña un conejo."
+  },
+  {
+    "id": "cg-4470",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué rey mono de la novela china Viaje al Oeste acompaña al monje Xuanzang?",
+    "options": [
+      "Sun Wukong",
+      "Zhu Bajie",
+      "Sha Wujing",
+      "Nezha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sun Wukong, nacido de una piedra, posee fuerza sobrehumana y viaja a la India con Xuanzang."
+  },
+  {
+    "id": "cg-4471",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa china creó a los humanos con barro y reparó el cielo roto?",
+    "options": [
+      "Guanyin",
+      "Xiwangmu",
+      "Mazu",
+      "Nüwa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nüwa modeló a la humanidad con arcilla y fundió piedras de cinco colores para reparar el cielo."
+  },
+  {
+    "id": "cg-4472",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa japonesa del sol es antepasada mítica de la casa imperial?",
+    "options": [
+      "Tsukuyomi",
+      "Inari",
+      "Amaterasu",
+      "Benzaiten"
+    ],
+    "correctIndex": 2,
+    "explanation": "Amaterasu, diosa del sol, nació del ojo izquierdo de Izanagi y habita en Ise."
+  },
+  {
+    "id": "cg-4473",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios japonés de la tormenta y el mar es hermano de Amaterasu?",
+    "options": [
+      "Tsukuyomi",
+      "Susanoo",
+      "Raijin",
+      "Hachiman"
+    ],
+    "correctIndex": 1,
+    "explanation": "Susanoo, dios de la tempestad, mató a la serpiente de ocho cabezas Yamata no Orochi."
+  },
+  {
+    "id": "cg-4474",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios japonés del viento lleva una gran bolsa a la espalda?",
+    "options": [
+      "Fūjin",
+      "Raijin",
+      "Ryūjin",
+      "Ebisu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fūjin, dios del viento, se representa con una bolsa de la que libera las corrientes."
+  },
+  {
+    "id": "cg-4475",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué deidad japonesa del arroz y la prosperidad emplea zorros como mensajeros?",
+    "options": [
+      "Hachiman",
+      "Jizō",
+      "Daikokuten",
+      "Inari"
+    ],
+    "correctIndex": 3,
+    "explanation": "Inari, deidad del arroz, es servida por kitsune y tiene miles de santuarios en Japón."
+  },
+  {
+    "id": "cg-4476",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué criaturas del folclore japonés son zorros mágicos capaces de tomar forma humana?",
+    "options": [
+      "Tanuki",
+      "Tengu",
+      "Kitsune",
+      "Oni"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los kitsune, asociados a Inari, ganan colas y poder con la edad."
+  },
+  {
+    "id": "cg-4477",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué demonios del folclore japonés tienen cuernos y piel roja o azul?",
+    "options": [
+      "Tengu",
+      "Oni",
+      "Kappa",
+      "Yūrei"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los oni son ogros del infierno budista, representados con maza de hierro y piel de colores."
+  },
+  {
+    "id": "cg-4478",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios yoruba del trueno y el relámpago empuña un hacha doble?",
+    "options": [
+      "Shangó",
+      "Ogún",
+      "Obatalá",
+      "Eshu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shangó, rey divinizado de Oyo, controla el trueno y se sincretiza con Santa Bárbara."
+  },
+  {
+    "id": "cg-4479",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué deidad yoruba del mar y la maternidad es madre de numerosos orishas?",
+    "options": [
+      "Oshún",
+      "Oyá",
+      "Nana Burukú",
+      "Yemayá"
+    ],
+    "correctIndex": 3,
+    "explanation": "Yemayá, orisha de las aguas saladas, protege a las mujeres y a los niños."
+  },
+  {
+    "id": "cg-4480",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios yoruba del hierro y la guerra es patrono de los herreros?",
+    "options": [
+      "Shangó",
+      "Orunmila",
+      "Ogún",
+      "Babalú Ayé"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ogún, dueño del hierro, abre caminos y protege a quienes trabajan los metales."
+  },
+  {
+    "id": "cg-4481",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué orisha yoruba mensajero y embaucador abre los caminos entre dioses y hombres?",
+    "options": [
+      "Oshún",
+      "Eshu",
+      "Orunmila",
+      "Obatalá"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eshu, el trickster yoruba, transmite las ofrendas y custodia las encrucijadas."
+  },
+  {
+    "id": "cg-4482",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué semidiós polinesio es famoso por pescar islas con su anzuelo y robar el fuego?",
+    "options": [
+      "Maui",
+      "Tāne",
+      "Tāwhirimātea",
+      "Rongo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Maui, héroe trickster del Pacífico, pescó islas y obtuvo el fuego de Mahuika."
+  },
+  {
+    "id": "cg-4483",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué diosa hawaiana de los volcanes habita el cráter del Kīlauea?",
+    "options": [
+      "Hina",
+      "Laka",
+      "Poliahu",
+      "Pele"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pele, diosa del fuego y los volcanes, es venerada en la isla de Hawái."
+  },
+  {
+    "id": "cg-4484",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "easy",
+    "question": "¿Qué dios maorí del cielo es padre de muchos dioses y vive separado de la Tierra?",
+    "options": [
+      "Tāne",
+      "Tangaroa",
+      "Rangi",
+      "Tū"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rangi, el cielo, y Papa, la tierra, fueron separados por sus hijos para dar luz al mundo."
+  },
+  {
+    "id": "cg-4485",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué diosa griega del hogar cedió su puesto entre los doce olímpicos a Dioniso?",
+    "options": [
+      "Deméter",
+      "Hestia",
+      "Hera",
+      "Perséfone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hestia, diosa del hogar y del fuego doméstico, cedió su lugar a Dioniso en algunas tradiciones."
+  },
+  {
+    "id": "cg-4486",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios griego de la forja era cojo y esposo de Afrodita?",
+    "options": [
+      "Hefesto",
+      "Ares",
+      "Hermes",
+      "Dioniso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hefesto, artesano divino, fue engañado por Afrodita con Ares y los atrapó en una red mágica."
+  },
+  {
+    "id": "cg-4487",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué diosa griega de la discordia lanzó la manzana de oro que originó la guerra de Troya?",
+    "options": [
+      "Némesis",
+      "Ate",
+      "Iris",
+      "Eris"
+    ],
+    "correctIndex": 3,
+    "explanation": "Eris escribió \"para la más bella\" en la manzana, lo que desató el juicio de Paris."
+  },
+  {
+    "id": "cg-4488",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué héroe griego mató a la Quimera montando al caballo alado Pegaso?",
+    "options": [
+      "Perseo",
+      "Teseo",
+      "Belerofonte",
+      "Cadmo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Belerofonte, nieto de Sísifo, venció a la Quimera con ayuda de Pegaso."
+  },
+  {
+    "id": "cg-4489",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué músico griego descendió al inframundo para rescatar a su esposa Eurídice?",
+    "options": [
+      "Perseo",
+      "Orfeo",
+      "Teseo",
+      "Heracles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Orfeo conmovió a Hades con su lira, pero perdió a Eurídice al mirar atrás."
+  },
+  {
+    "id": "cg-4490",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué adivino ciego de Tebas reveló a Edipo la verdad sobre sus padres?",
+    "options": [
+      "Tiresias",
+      "Calcas",
+      "Manto",
+      "Anfiarao"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tiresias, que había vivido como hombre y como mujer, poseía el don de la profecía."
+  },
+  {
+    "id": "cg-4491",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué sacerdote troyano fue devorado por serpientes marinas tras advertir sobre el caballo de madera?",
+    "options": [
+      "Casandra",
+      "Antenor",
+      "Helena",
+      "Laocoonte"
+    ],
+    "correctIndex": 3,
+    "explanation": "Laocoonte lanzó una lanza contra el caballo y los dioses enviaron serpientes para matarlo."
+  },
+  {
+    "id": "cg-4492",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué rey micénico lideró la coalición griega en la guerra de Troya?",
+    "options": [
+      "Menelao",
+      "Aquiles",
+      "Agamenón",
+      "Diomedes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Agamenón, hermano de Menelao, comandó la expedición aquea contra Troya."
+  },
+  {
+    "id": "cg-4493",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué hija de Agamenón fue sacrificada en Áulide para obtener vientos favorables?",
+    "options": [
+      "Electra",
+      "Ifigenia",
+      "Crisótemis",
+      "Helena"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ifigenia fue ofrecida a Artemisa; en algunas versiones la diosa la sustituyó por una cierva."
+  },
+  {
+    "id": "cg-4494",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué reina espartana huyó con Paris y provocó la guerra de Troya?",
+    "options": [
+      "Helena",
+      "Clitemnestra",
+      "Penélope",
+      "Andrómaca"
+    ],
+    "correctIndex": 0,
+    "explanation": "Helena, esposa de Menelao, marchó con Paris a Troya, origen mítico del conflicto."
+  },
+  {
+    "id": "cg-4495",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué esposa de Odiseo esperó veinte años tejiendo y destejiendo un sudario?",
+    "options": [
+      "Circe",
+      "Calipso",
+      "Nausícaa",
+      "Penélope"
+    ],
+    "correctIndex": 3,
+    "explanation": "Penélope engañó a sus pretendientes prometiendo elegir esposo al terminar el tejido."
+  },
+  {
+    "id": "cg-4496",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué hechicera de la Odisea transformó en cerdos a los compañeros de Odiseo?",
+    "options": [
+      "Calipso",
+      "Medea",
+      "Circe",
+      "Pasífae"
+    ],
+    "correctIndex": 2,
+    "explanation": "Circe, hija de Helios, vivía en la isla de Eea y liberó a los hombres tras ser vencida."
+  },
+  {
+    "id": "cg-4497",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué ninfa retuvo a Odiseo siete años en la isla de Ogigia?",
+    "options": [
+      "Circe",
+      "Calipso",
+      "Nausícaa",
+      "Ino"
+    ],
+    "correctIndex": 1,
+    "explanation": "Calipso ofreció la inmortalidad a Odiseo, pero él prefirió regresar con Penélope."
+  },
+  {
+    "id": "cg-4498",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué cíclope hijo de Poseidón fue cegado por Odiseo?",
+    "options": [
+      "Polifemo",
+      "Gerión",
+      "Antífates",
+      "Tifón"
+    ],
+    "correctIndex": 0,
+    "explanation": "Odiseo embriagó a Polifemo y le clavó una estaca ardiente en el único ojo."
+  },
+  {
+    "id": "cg-4499",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué remolino marino de la Odisea se hallaba junto al monstruo Escila?",
+    "options": [
+      "Hidra de Lerna",
+      "Ceto",
+      "Océano",
+      "Caribdis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Caribdis tragaba y devolvía el agua tres veces al día, amenazando a los navegantes."
+  },
+  {
+    "id": "cg-4500",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué hizo Odiseo para escuchar el canto de las sirenas sin morir?",
+    "options": [
+      "Se tapó los oídos con cera",
+      "Mató a las sirenas",
+      "Se hizo atar al mástil",
+      "Cerró los ojos y remó"
+    ],
+    "correctIndex": 2,
+    "explanation": "Odiseo ordenó a sus hombres taparse los oídos con cera y lo ataran al mástil."
+  },
+  {
+    "id": "cg-4501",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios griego de los vientos entregó a Odiseo un odre cerrado con todos los vientos?",
+    "options": [
+      "Bóreas",
+      "Eolo",
+      "Noto",
+      "Céfiro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eolo guardó los vientos en un odre; los compañeros de Odiseo lo abrieron y desviaron la nave."
+  },
+  {
+    "id": "cg-4502",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué centauro sabio educó a Aquiles y a Asclepio?",
+    "options": [
+      "Quirón",
+      "Neso",
+      "Folo",
+      "Éurito"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quirón, experto en medicina y caza, fue maestro de héroes como Aquiles y Jasón."
+  },
+  {
+    "id": "cg-4503",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué diosa griega del arcoíris era mensajera de Hera?",
+    "options": [
+      "Hebe",
+      "Eos",
+      "Selene",
+      "Iris"
+    ],
+    "correctIndex": 3,
+    "explanation": "Iris recorría el arcoíris para llevar los mensajes de Hera entre dioses y mortales."
+  },
+  {
+    "id": "cg-4504",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué divinidades griegas hilaban y cortaban el hilo de la vida de cada mortal?",
+    "options": [
+      "Las Erinias",
+      "Las Musas",
+      "Las Moiras",
+      "Las Cárites"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cloto hilaba, Láquesis asignaba y Átropos cortaba el hilo del destino."
+  },
+  {
+    "id": "cg-4505",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué divinidades griegas perseguían a quienes derramaban sangre de un familiar?",
+    "options": [
+      "Las Nereidas",
+      "Las Erinias",
+      "Las Pléyades",
+      "Las Grayas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las Erinias, nacidas de la sangre de Urano, castigaban el crimen dentro de la familia."
+  },
+  {
+    "id": "cg-4506",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué ancianas hermanas griegas compartían un solo ojo y un solo diente?",
+    "options": [
+      "Las Grayas",
+      "Las Gorgonas",
+      "Las Hespérides",
+      "Las Náyades"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las Grayas, hermanas de las Gorgonas, fueron engañadas por Perseo para obtener el ojo."
+  },
+  {
+    "id": "cg-4507",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué monstruo griego, hijo de Gea y Tártaro, fue sepultado bajo el Etna tras desafiar a Zeus?",
+    "options": [
+      "Encélado",
+      "Porfirión",
+      "Briareo",
+      "Tifón"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tifón tenía cien cabezas de serpiente y fue vencido por el rayo de Zeus."
+  },
+  {
+    "id": "cg-4508",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué ninfa griega fue condenada a repetir las últimas palabras de los demás?",
+    "options": [
+      "Siringe",
+      "Dafne",
+      "Eco",
+      "Clitia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Eco fue castigada por Hera y se consumió de amor por Narciso hasta quedar solo su voz."
+  },
+  {
+    "id": "cg-4509",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué joven griego se enamoró de su propio reflejo en el agua?",
+    "options": [
+      "Adonis",
+      "Narciso",
+      "Jacinto",
+      "Cipariso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Narciso rechazó a Eco y fue castigado a enamorarse de su imagen hasta morir."
+  },
+  {
+    "id": "cg-4510",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios griego de los bosques y los rebaños tocaba la flauta de Pan?",
+    "options": [
+      "Pan",
+      "Príapo",
+      "Sileno",
+      "Comos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pan, con patas de cabra y cuernos, inventó la siringa y habitaba la Arcadia."
+  },
+  {
+    "id": "cg-4511",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué rey griego fue condenado a empujar una roca hasta la cima sin lograrlo nunca?",
+    "options": [
+      "Tántalo",
+      "Ixión",
+      "Erecteo",
+      "Sísifo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sísifo, rey de Corinto, engañó a la muerte y fue castigado en el Tártaro con esa tarea."
+  },
+  {
+    "id": "cg-4512",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué rey griego fue castigado con hambre y sed eternas junto a un árbol y a un lago?",
+    "options": [
+      "Sísifo",
+      "Ixión",
+      "Tántalo",
+      "Salmoneo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tántalo robó el néctar de los dioses y ofreció a su hijo en un banquete."
+  },
+  {
+    "id": "cg-4513",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios romano fue padre de Rómulo y Remo según la leyenda tradicional romana?",
+    "options": [
+      "Júpiter",
+      "Marte",
+      "Quirino",
+      "Silvano"
+    ],
+    "correctIndex": 1,
+    "explanation": "La vestal Rea Silvia concibió a los gemelos del dios Marte."
+  },
+  {
+    "id": "cg-4514",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué diosa romana del hogar custodiaba el fuego sagrado del Estado?",
+    "options": [
+      "Vesta",
+      "Juno",
+      "Ceres",
+      "Fortuna"
+    ],
+    "correctIndex": 0,
+    "explanation": "El templo de Vesta en el Foro albergaba un fuego que nunca debía apagarse."
+  },
+  {
+    "id": "cg-4515",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué sacerdotisas romanas mantenían encendido el fuego de Vesta?",
+    "options": [
+      "Las sibilas",
+      "Los augures",
+      "Las flamínicas",
+      "Las vestales"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las vestales, vírgenes consagradas, debían permanecer castas durante treinta años."
+  },
+  {
+    "id": "cg-4516",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios romano protegía las piedras fronterizas y se celebraba en la Terminalia?",
+    "options": [
+      "Jano",
+      "Silvano",
+      "Término",
+      "Fauno"
+    ],
+    "correctIndex": 2,
+    "explanation": "Término, dios de los límites, era un mojón divinizado que no debía moverse."
+  },
+  {
+    "id": "cg-4517",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué rey de Alba Longa ordenó arrojar al Tíber a los gemelos Rómulo y Remo?",
+    "options": [
+      "Numitor",
+      "Amulio",
+      "Tito Tacio",
+      "Ascanio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Amulio usurpó el trono de su hermano Numitor y temió la venganza de los gemelos."
+  },
+  {
+    "id": "cg-4518",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué rey sabino compartió el trono de Roma con Rómulo tras el rapto de las sabinas?",
+    "options": [
+      "Tito Tacio",
+      "Numa Pompilio",
+      "Anco Marcio",
+      "Servio Tulio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tras la guerra con los sabinos, Tito Tacio gobernó junto a Rómulo."
+  },
+  {
+    "id": "cg-4519",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué rey romano de origen sabino organizó los colegios sacerdotales y el calendario?",
+    "options": [
+      "Tulio Hostilio",
+      "Tarquinio Prisco",
+      "Rómulo",
+      "Numa Pompilio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Numa Pompilio, segundo rey de Roma, sistematizó el culto y las leyes religiosas."
+  },
+  {
+    "id": "cg-4520",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué rey etrusco de Roma inició la construcción del templo de Júpiter Capitolino?",
+    "options": [
+      "Servio Tulio",
+      "Tarquinio el Soberbio",
+      "Tarquinio Prisco",
+      "Anco Marcio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tarquinio Prisco emprendió obras públicas como el Circo Máximo y el templo capitolino."
+  },
+  {
+    "id": "cg-4521",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué joven romano quemó su mano derecha ante Porsena para demostrar su valor?",
+    "options": [
+      "Horatius Cocles",
+      "Mucius Scaevola",
+      "Cincinato",
+      "Bruto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mucius Scaevola se quemó la mano como castigo propio y asombró al rey etrusco Porsena."
+  },
+  {
+    "id": "cg-4522",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué fiesta romana de diciembre honraba a Saturno con banquetes e intercambio de regalos?",
+    "options": [
+      "Las Saturnales",
+      "Las Lupercales",
+      "Las Floralias",
+      "Las Vestalia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las Saturnales relajaban el orden social y precedieron muchas costumbres navideñas."
+  },
+  {
+    "id": "cg-4523",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios nórdico de la guerra perdió una mano al atar al lobo Fenrir?",
+    "options": [
+      "Thor",
+      "Heimdall",
+      "Vidar",
+      "Tyr"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tyr puso su mano en la boca de Fenrir como garantía y la perdió cuando el lobo quedó atado."
+  },
+  {
+    "id": "cg-4524",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué guardián nórdico del puente Bifröst toca el cuerno Gjallarhorn?",
+    "options": [
+      "Bragi",
+      "Forseti",
+      "Heimdall",
+      "Ull"
+    ],
+    "correctIndex": 2,
+    "explanation": "Heimdall, vigilante de los dioses, anunciará el Ragnarök con su cuerno."
+  },
+  {
+    "id": "cg-4525",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué diosa nórdica de la fertilidad llora lágrimas de oro por su esposo ausente?",
+    "options": [
+      "Frigg",
+      "Freyja",
+      "Sif",
+      "Idun"
+    ],
+    "correctIndex": 1,
+    "explanation": "Freyja busca a su esposo Óðr y sus lágrimas se convierten en oro."
+  },
+  {
+    "id": "cg-4526",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios nórdico de la fertilidad y la lluvia es hermano de Freyja?",
+    "options": [
+      "Freyr",
+      "Njord",
+      "Tyr",
+      "Baldr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Freyr, señor de la lluvia y las cosechas, poseía la nave Skídbladnir."
+  },
+  {
+    "id": "cg-4527",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios nórdico de la luz murió al ser alcanzado por una rama de muérdago?",
+    "options": [
+      "Höd",
+      "Hermod",
+      "Vidar",
+      "Baldr"
+    ],
+    "correctIndex": 3,
+    "explanation": "Loki guió la mano del ciego Höd para lanzar el muérdago que mató a Baldr."
+  },
+  {
+    "id": "cg-4528",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios ciego nórdico mató a su hermano Baldr sin saberlo?",
+    "options": [
+      "Loki",
+      "Hermod",
+      "Höd",
+      "Vali"
+    ],
+    "correctIndex": 2,
+    "explanation": "Höd, engañado por Loki, arrojó el muérdago y provocó la muerte de Baldr."
+  },
+  {
+    "id": "cg-4529",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué diosa nórdica custodiaba las manzanas que mantenían jóvenes a los dioses?",
+    "options": [
+      "Sif",
+      "Idun",
+      "Nanna",
+      "Skadi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Idun fue raptada por el gigante Thjazi, y los dioses envejecieron hasta que la rescataron."
+  },
+  {
+    "id": "cg-4530",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué caballo ayudó a un gigante a construir las murallas de Asgard?",
+    "options": [
+      "Svadilfari",
+      "Sleipnir",
+      "Grani",
+      "Gullfaxi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Loki, transformado en yegua, distrajo a Svadilfari y de esa unión nació Sleipnir."
+  },
+  {
+    "id": "cg-4531",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué tres nornas nórdicas determinan el destino junto al pozo de Urd?",
+    "options": [
+      "Huginn, Muninn y Sleipnir",
+      "Freyja, Frigg e Idun",
+      "Geri, Freki y Fenrir",
+      "Urd, Verdandi y Skuld"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las nornas representan el pasado, el presente y el futuro, y rigen el destino."
+  },
+  {
+    "id": "cg-4532",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué ardilla nórdica corre por Yggdrasil llevando insultos entre el águila y Níðhöggr?",
+    "options": [
+      "Huginn",
+      "Muninn",
+      "Ratatösk",
+      "Tanngrisnir"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ratatösk aviva la hostilidad entre el águila de la copa y la serpiente de las raíces."
+  },
+  {
+    "id": "cg-4533",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dos cuervos de Odín representan el pensamiento y la memoria?",
+    "options": [
+      "Geri y Freki",
+      "Huginn y Muninn",
+      "Sköll y Hati",
+      "Garm y Fenrir"
+    ],
+    "correctIndex": 1,
+    "explanation": "Odín envía a Huginn y Muninn cada día a recorrer el mundo y contarle lo que ven."
+  },
+  {
+    "id": "cg-4534",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dos lobos acompañan a Odín en el Valhalla?",
+    "options": [
+      "Geri y Freki",
+      "Sköll y Hati",
+      "Huginn y Muninn",
+      "Garm y Fenrir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Odín alimenta a Geri y Freki con la carne de sus banquetes, pues él solo bebe vino."
+  },
+  {
+    "id": "cg-4535",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué gigante primordial nórdico nació del hielo y fue origen de los gigantes?",
+    "options": [
+      "Surtr",
+      "Thrym",
+      "Búri",
+      "Ymir"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ymir se formó del hielo derretido y fue desmembrado para crear el mundo."
+  },
+  {
+    "id": "cg-4536",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios egipcio con cabeza de cocodrilo era adorado en el Fayum?",
+    "options": [
+      "Set",
+      "Anubis",
+      "Sobek",
+      "Geb"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sobek, dios del Nilo y la fuerza, tenía su principal santuario en Kom Ombo y el Fayum."
+  },
+  {
+    "id": "cg-4537",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios egipcio del desierto, la tormenta y el caos tenía un animal sagrado no identificado?",
+    "options": [
+      "Anubis",
+      "Set",
+      "Upuaut",
+      "Jnum"
+    ],
+    "correctIndex": 1,
+    "explanation": "Set, hermano de Osiris, representaba la sequía y el desorden; su animal es difícil de identificar."
+  },
+  {
+    "id": "cg-4538",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué diosa egipcia con cabeza de leona era diosa de la guerra y la peste?",
+    "options": [
+      "Sekhmet",
+      "Bastet",
+      "Hathor",
+      "Mut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sekhmet, la poderosa, podía enviar epidemias y también curarlas; se la asociaba al faraón."
+  },
+  {
+    "id": "cg-4539",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué diosa egipcia del cielo tenía el cuerpo cubierto de estrellas?",
+    "options": [
+      "Geb",
+      "Shu",
+      "Tefnut",
+      "Nut"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nut, arqueada sobre la tierra, paría al sol cada amanecer y se tragaba las estrellas."
+  },
+  {
+    "id": "cg-4540",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios egipcio de la tierra yacía separado de Nut por el aire?",
+    "options": [
+      "Shu",
+      "Atum",
+      "Geb",
+      "Horus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Geb, dios de la tierra, fue separado de Nut por Shu, su padre, para que hubiera espacio."
+  },
+  {
+    "id": "cg-4541",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios egipcio del aire separó a Geb y Nut?",
+    "options": [
+      "Tefnut",
+      "Shu",
+      "Ptah",
+      "Jonsu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Shu, dios del aire y la luz, sostuvo a Nut sobre Geb y permitió la creación del mundo."
+  },
+  {
+    "id": "cg-4542",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios egipcio de la luna era hijo de Amón y Mut en Tebas?",
+    "options": [
+      "Jonsu",
+      "Thoth",
+      "Min",
+      "Bes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jonsu, dios lunar de Karnak, era invocado contra las enfermedades y los malos espíritus."
+  },
+  {
+    "id": "cg-4543",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios egipcio enano protegía el hogar, a los niños y a las parturientas?",
+    "options": [
+      "Ptah",
+      "Min",
+      "Jnum",
+      "Bes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bes, grotesco y alegre, alejaba a los malos espíritus de las casas y de los recién nacidos."
+  },
+  {
+    "id": "cg-4544",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué diosa egipcia de la verdad y la justicia servía de contrapeso en el juicio de los muertos?",
+    "options": [
+      "Isis",
+      "Neftis",
+      "Maat",
+      "Seshat"
+    ],
+    "correctIndex": 2,
+    "explanation": "El corazón del difunto se pesaba contra la pluma de Maat; si pesaba más, era devorado."
+  },
+  {
+    "id": "cg-4545",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué diosa egipcia de la escritura y la medida registraba los anales y las ofrendas?",
+    "options": [
+      "Maat",
+      "Seshat",
+      "Hathor",
+      "Neith"
+    ],
+    "correctIndex": 1,
+    "explanation": "Seshat, señora de los libros, anotaba los años del reinado y las provisiones de los templos."
+  },
+  {
+    "id": "cg-4546",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios egipcio de la inundación del Nilo se representaba con plantas acuáticas?",
+    "options": [
+      "Hapy",
+      "Osiris",
+      "Jnum",
+      "Sobek"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hapy personificaba la crecida fértil del Nilo y a menudo aparecía como figura andrógina."
+  },
+  {
+    "id": "cg-4547",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios azteca creador, del espejo humeante, era rival de Quetzalcóatl?",
+    "options": [
+      "Huitzilopochtli",
+      "Xipe Tótec",
+      "Mixcóatl",
+      "Tezcatlipoca"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tezcatlipoca, señor del cielo nocturno, engañó a Quetzalcóatl y lo obligó a marcharse."
+  },
+  {
+    "id": "cg-4548",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué diosa azteca de la luna fue decapitada por Huitzilopochtli al nacer él?",
+    "options": [
+      "Coatlicue",
+      "Tlazoltéotl",
+      "Coyolxauhqui",
+      "Xochiquetzal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Coyolxauhqui conspiró contra su madre Coatlicue y fue vencida por su hermano Huitzilopochtli."
+  },
+  {
+    "id": "cg-4549",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué diosa azteca de la tierra, con falda de serpientes, era madre de Huitzilopochtli?",
+    "options": [
+      "Coyolxauhqui",
+      "Coatlicue",
+      "Cihuacóatl",
+      "Tonantzin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Coatlicue concibió a Huitzilopochtli tras recibir una bola de plumas en el santuario de Coatepec."
+  },
+  {
+    "id": "cg-4550",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios azteca del viento, hermano de Quetzalcóatl, era representado con pico de pato?",
+    "options": [
+      "Ehécatl",
+      "Tláloc",
+      "Xólotl",
+      "Mixcóatl"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ehécatl soplaba los caminos para los dioses y se identificaba con Quetzalcóatl."
+  },
+  {
+    "id": "cg-4551",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios azteca con forma de perro guiaba a los muertos a través del Mictlán?",
+    "options": [
+      "Mictlantecuhtli",
+      "Cipactli",
+      "Acolnahuacatl",
+      "Xólotl"
+    ],
+    "correctIndex": 3,
+    "explanation": "Xólotl, gemelo de Quetzalcóatl, acompañaba a las almas en su viaje subterráneo."
+  },
+  {
+    "id": "cg-4552",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios azteca del fuego y del año se llamaba \"señor turquesa\"?",
+    "options": [
+      "Tláloc",
+      "Tezcatlipoca",
+      "Xiuhtecuhtli",
+      "Xipe Tótec"
+    ],
+    "correctIndex": 2,
+    "explanation": "Xiuhtecuhtli, dios del fuego, era honrado en la fiesta de Huehuetéotl, el fuego viejo."
+  },
+  {
+    "id": "cg-4553",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios azteca \"nuestro señor el desollado\" se asociaba con la renovación de la piel?",
+    "options": [
+      "Mixcóatl",
+      "Xipe Tótec",
+      "Tezcatlipoca",
+      "Cinteotl"
+    ],
+    "correctIndex": 1,
+    "explanation": "Xipe Tótec representaba la primavera y la regeneración; sus sacerdotes vestían pieles humanas."
+  },
+  {
+    "id": "cg-4554",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios maya de la sabiduría y la escritura era adorado en Izamal?",
+    "options": [
+      "Itzamná",
+      "Chaac",
+      "Kukulkán",
+      "Ah Puch"
+    ],
+    "correctIndex": 0,
+    "explanation": "Itzamná, dios creador y de la escritura, era una de las deidades principales del panteón maya."
+  },
+  {
+    "id": "cg-4555",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios maya de la muerte habitaba el Xibalbá?",
+    "options": [
+      "Chaac",
+      "Kinich Ahau",
+      "Yum Kaax",
+      "Ah Puch"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ah Puch, señor de la muerte, aparece en el Códice Dresde con signos de descomposición."
+  },
+  {
+    "id": "cg-4556",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios maya del sol era representado con ojos de jaguar?",
+    "options": [
+      "Itzamná",
+      "Chaac",
+      "Kinich Ahau",
+      "Yum Kaax"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kinich Ahau, el sol maya, tenía rasgos felinos y se asociaba al calor y a la sequía."
+  },
+  {
+    "id": "cg-4557",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué gemelos mayas del Popol Vuh derrotaron a los señores del Xibalbá?",
+    "options": [
+      "Hun Hunahpú y Vucub Hunahpú",
+      "Hunahpú e Ixbalanqué",
+      "Gucumatz y Tepeu",
+      "Balam Quitzé y Balam Acab"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los gemelos Hunahpú e Ixbalanqué vencieron a los señores del inframundo con astucia."
+  },
+  {
+    "id": "cg-4558",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios maya de la agricultura y los bosques protegía el maíz?",
+    "options": [
+      "Yum Kaax",
+      "Kinich Ahau",
+      "Ah Puch",
+      "Itzamná"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yum Kaax, señor de las cosechas, era invocado por los campesinos mayas antes de sembrar."
+  },
+  {
+    "id": "cg-4559",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué héroe inca fundador del Cusco salió del lago Titicaca con su hermana?",
+    "options": [
+      "Viracocha",
+      "Atahualpa",
+      "Pachacútec",
+      "Manco Cápac"
+    ],
+    "correctIndex": 3,
+    "explanation": "Manco Cápac y Mama Ocllo fundaron el Cusco y enseñaron las artes a los pueblos andinos."
+  },
+  {
+    "id": "cg-4560",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios hindú del deseo dispara un arco de caña de azúcar con flechas de flores?",
+    "options": [
+      "Rati",
+      "Vasanta",
+      "Kamadeva",
+      "Shiva"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kamadeva, dios del amor, fue reducido a cenizas por el tercer ojo de Shiva y luego revivió."
+  },
+  {
+    "id": "cg-4561",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué avatar de Vishnu con forma de jabalí levantó la Tierra del océano?",
+    "options": [
+      "Matsya",
+      "Varaha",
+      "Kurma",
+      "Narasimha"
+    ],
+    "correctIndex": 1,
+    "explanation": "Varaha se sumergió y rescató la Tierra, sosteniéndola sobre sus colmillos."
+  },
+  {
+    "id": "cg-4562",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué avatar de Vishnu con forma de hombre-león mató al demonio Hiranyakashipu?",
+    "options": [
+      "Narasimha",
+      "Varaha",
+      "Vamana",
+      "Parashurama"
+    ],
+    "correctIndex": 0,
+    "explanation": "Narasimha surgió de una columna y mató al demonio ni de día ni de noche, ni dentro ni fuera."
+  },
+  {
+    "id": "cg-4563",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué avatar de Vishnu enano cubrió el universo en tres pasos?",
+    "options": [
+      "Matsya",
+      "Kalki",
+      "Balarama",
+      "Vamana"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vamana pidió tres pasos de tierra y con ellos abarcó cielo, tierra y espacio."
+  },
+  {
+    "id": "cg-4564",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué rey demonio de diez cabezas raptó a Sita en el Ramayana?",
+    "options": [
+      "Kumbhakarna",
+      "Vibhishana",
+      "Ravana",
+      "Surpanakha"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ravana, rey de Lanka, secuestró a Sita y fue derrotado por Rama y su ejército de monos."
+  },
+  {
+    "id": "cg-4565",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué hermano de Rama lo acompañó al exilio durante catorce años?",
+    "options": [
+      "Bharata",
+      "Lakshmana",
+      "Shatrughna",
+      "Sugriva"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lakshmana siguió a Rama y Sita al bosque y luchó a su lado contra Ravana."
+  },
+  {
+    "id": "cg-4566",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué guerrero Pandava destacaba como arquero y era amigo de Krishna?",
+    "options": [
+      "Arjuna",
+      "Bhima",
+      "Yudhishthira",
+      "Nakula"
+    ],
+    "correctIndex": 0,
+    "explanation": "Arjuna recibió la Bhagavad Gita de Krishna antes de la batalla de Kurukshetra."
+  },
+  {
+    "id": "cg-4567",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué guerrero Pandava de fuerza prodigiosa empuñaba la maza?",
+    "options": [
+      "Arjuna",
+      "Sahadeva",
+      "Karna",
+      "Bhima"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bhima, hijo de Vayu, mató a Duryodhana con la maza al final de la guerra."
+  },
+  {
+    "id": "cg-4568",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué auriga de Arjuna le reveló la Bhagavad Gita en el campo de batalla?",
+    "options": [
+      "Brahma",
+      "Shiva",
+      "Krishna",
+      "Indra"
+    ],
+    "correctIndex": 2,
+    "explanation": "Krishna, octavo avatar de Vishnu, instruyó a Arjuna sobre el deber y la devoción."
+  },
+  {
+    "id": "cg-4569",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué diosa hindú de la sabiduría y las artes es esposa de Brahma?",
+    "options": [
+      "Lakshmi",
+      "Saraswati",
+      "Parvati",
+      "Ganga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Saraswati preside la música, el conocimiento y la elocuencia, y se la invoca antes de estudiar."
+  },
+  {
+    "id": "cg-4570",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué diosa hindú con múltiples brazos monta un león y mató al demonio Mahishasura?",
+    "options": [
+      "Durga",
+      "Kali",
+      "Parvati",
+      "Lakshmi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Durga fue creada por los dioses para vencer al demonio búfalo Mahishasura."
+  },
+  {
+    "id": "cg-4571",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué diosa hindú de la destrucción y el tiempo es adorada en Calcuta?",
+    "options": [
+      "Durga",
+      "Parvati",
+      "Saraswati",
+      "Kali"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kali, forma feroz de Durga, representa la destrucción del mal y el paso del tiempo."
+  },
+  {
+    "id": "cg-4572",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué sabio hindú dictó el Mahabharata a Ganesha?",
+    "options": [
+      "Valmiki",
+      "Patanjali",
+      "Vyasa",
+      "Kapila"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vyasa, considerado autor del Mahabharata, lo dictó mientras Ganesha escribía."
+  },
+  {
+    "id": "cg-4573",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué arquero chino derribó nueve soles con sus flechas?",
+    "options": [
+      "Yu el Grande",
+      "Hou Yi",
+      "Huangdi",
+      "Sun Wukong"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hou Yi salvó a la Tierra del calor extremo al abatir nueve de los diez soles."
+  },
+  {
+    "id": "cg-4574",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios chino de la guerra es representado con rostro rojo y barba larga?",
+    "options": [
+      "Guandi",
+      "Nezha",
+      "Erlang",
+      "Zhong Kui"
+    ],
+    "correctIndex": 0,
+    "explanation": "Guandi diviniza al general Guan Yu y protege a los soldados y a los comerciantes."
+  },
+  {
+    "id": "cg-4575",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué deidad china de la riqueza se honra con incienso durante el Año Nuevo?",
+    "options": [
+      "Mazu",
+      "Tudigong",
+      "Guandi",
+      "Caishen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Caishen, dios de la fortuna, recibe ofrendas para atraer prosperidad al hogar."
+  },
+  {
+    "id": "cg-4576",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué diosa china del mar protege a los marineros y es patrona de Taiwán?",
+    "options": [
+      "Guanyin",
+      "Nüwa",
+      "Mazu",
+      "Chang E"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mazu, antigua pescadora divinizada, es invocada por navegantes y pescadores."
+  },
+  {
+    "id": "cg-4577",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué bodhisattva chino de la compasión es representado con mil brazos?",
+    "options": [
+      "Mazu",
+      "Guanyin",
+      "Wenshu",
+      "Dizang"
+    ],
+    "correctIndex": 1,
+    "explanation": "Guanyin, bodhisattva de la compasión, escucha los sufrimientos del mundo."
+  },
+  {
+    "id": "cg-4578",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué deidad china juzga a los muertos en los infiernos?",
+    "options": [
+      "Yanluo",
+      "Caishen",
+      "Tudigong",
+      "Erlang Shen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yanluo Wang, señor de los infiernos, examina los registros de las acciones humanas."
+  },
+  {
+    "id": "cg-4579",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios chino de tres ojos, con un tercer ojo en la frente, captura demonios?",
+    "options": [
+      "Nezha",
+      "Sun Wukong",
+      "Guandi",
+      "Erlang Shen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Erlang Shen, sobrino del Emperador de Jade, posee un tercer ojo que revela la verdad."
+  },
+  {
+    "id": "cg-4580",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué deidad infantil china, armada con anillos de fuego, luchó contra el Rey Dragón?",
+    "options": [
+      "Erlang Shen",
+      "Sun Wukong",
+      "Nezha",
+      "Muzha"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nezha, nacido de un loto, se enfrentó al rey dragón Ao Guang y a sus hijos."
+  },
+  {
+    "id": "cg-4581",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué deidad japonesa del trueno golpea tambores en las nubes?",
+    "options": [
+      "Fūjin",
+      "Raijin",
+      "Susanoo",
+      "Ryūjin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Raijin, dios del trueno, es representado con tambores alrededor y una expresión feroz."
+  },
+  {
+    "id": "cg-4582",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dragón japonés del mar vive en un palacio bajo las olas?",
+    "options": [
+      "Ryūjin",
+      "Fūjin",
+      "Raijin",
+      "Inari"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ryūjin, rey dragón del mar, poseía la joya de las mareas y habitaba en el palacio Ryūgū."
+  },
+  {
+    "id": "cg-4583",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios yoruba supremo creó el mundo y vive en el cielo?",
+    "options": [
+      "Obatalá",
+      "Oduduwa",
+      "Orunmila",
+      "Olodumare"
+    ],
+    "correctIndex": 3,
+    "explanation": "Olodumare, el ser supremo yoruba, encargó a Obatalá la formación de la tierra firme."
+  },
+  {
+    "id": "cg-4584",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué orisha yoruba modeló los cuerpos humanos y es dueño de las mentes blancas?",
+    "options": [
+      "Shangó",
+      "Ogún",
+      "Obatalá",
+      "Yemayá"
+    ],
+    "correctIndex": 2,
+    "explanation": "Obatalá, orisha de la paz y la creación, moldea a los niños en el vientre materno."
+  },
+  {
+    "id": "cg-4585",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué orisha yoruba de los ríos y el amor es patrona de las aguas dulces?",
+    "options": [
+      "Yemayá",
+      "Oshún",
+      "Oyá",
+      "Oba"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oshún, orisha del río y la dulzura, se asocia al amor, la fertilidad y el oro."
+  },
+  {
+    "id": "cg-4586",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios maorí de los bosques y los pájaros separó a sus padres?",
+    "options": [
+      "Tāne",
+      "Tangaroa",
+      "Tū",
+      "Rongo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tāne, hijo de Rangi y Papa, empujó el cielo hacia arriba y cubrió la tierra de bosques."
+  },
+  {
+    "id": "cg-4587",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué dios hawaiano de la agricultura y la paz regresa cada año en la fiesta del Makahiki?",
+    "options": [
+      "Kū",
+      "Kāne",
+      "Pele",
+      "Lono"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lono preside las cosechas y la temporada de paz del Makahiki, en invierno."
+  },
+  {
+    "id": "cg-4588",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "medium",
+    "question": "¿Qué orisha yoruba del viento y la centella guarda la puerta del cementerio?",
+    "options": [
+      "Oshún",
+      "Yemayá",
+      "Oyá",
+      "Oba"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oyá, orisha del viento y del río Níger, acompaña a los espíritus de los antepasados."
+  },
+  {
+    "id": "cg-4589",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué titánide griega personificaba la memoria y engendró a las Musas con Zeus?",
+    "options": [
+      "Temis",
+      "Mnemósine",
+      "Metis",
+      "Febe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mnemósine, hija de Urano y Gea, dio a luz a las nueve Musas tras unirse a Zeus."
+  },
+  {
+    "id": "cg-4590",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué titánide griega personificaba la justicia divina y fue madre de las Horas?",
+    "options": [
+      "Temis",
+      "Mnemósine",
+      "Tetis",
+      "Rea"
+    ],
+    "correctIndex": 0,
+    "explanation": "Temis, hija de Urano, aconsejaba a Zeus y presidía el orden y las leyes divinas."
+  },
+  {
+    "id": "cg-4591",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué océanide, esposa de Zeus, fue devorada por él estando embarazada?",
+    "options": [
+      "Dione",
+      "Eurínome",
+      "Estigia",
+      "Metis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Zeus se tragó a Metis embarazada para evitar una profecía; después nació Atenea de su cabeza."
+  },
+  {
+    "id": "cg-4592",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué anciano dios marino griego cambiaba de forma cuando lo obligaban a profetizar?",
+    "options": [
+      "Nereo",
+      "Glauco",
+      "Proteo",
+      "Forcis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Proteo, pastor de focas, adoptaba formas de animales y fuego para escapar de quienes lo interrogaban."
+  },
+  {
+    "id": "cg-4593",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué vidente hijo de Apolo acompañó a los argonautas y murió por una serpiente en Libia?",
+    "options": [
+      "Idmón",
+      "Mopso",
+      "Calcas",
+      "Anfiarao"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mopso, adivino de los argonautas, murió en Libia por la mordedura de una serpiente."
+  },
+  {
+    "id": "cg-4594",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué rey de los lapitas desató la batalla contra los centauros durante su boda?",
+    "options": [
+      "Pirítoo",
+      "Ixión",
+      "Ceneo",
+      "Admeto"
+    ],
+    "correctIndex": 0,
+    "explanation": "En la boda de Pirítoo e Hipodamía, los centauros ebrios intentaron raptar a la novia."
+  },
+  {
+    "id": "cg-4595",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué rey de Atenas se arrojó al mar al creer que su hijo Teseo había muerto?",
+    "options": [
+      "Erecteo",
+      "Cécrope",
+      "Pandión",
+      "Egeo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Teseo olvidó cambiar las velas negras, y Egeo se lanzó al mar que luego llevó su nombre."
+  },
+  {
+    "id": "cg-4596",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué titánide griega era madre de Helios, Selene y Eos?",
+    "options": [
+      "Febe",
+      "Rea",
+      "Tea",
+      "Temis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tea, hija de Urano, personificaba la luz celeste y engendró a los astros y la aurora."
+  },
+  {
+    "id": "cg-4597",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué gigante de bronce griego custodiaba Creta y fue vencido por Medea?",
+    "options": [
+      "Gerión",
+      "Talos",
+      "Anteo",
+      "Briareo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Talos recorría Creta tres veces al día y tenía una sola vena sellada por un clavo en el tobillo."
+  },
+  {
+    "id": "cg-4598",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué diosa romana de la guerra era invocada antes de las batallas y acompañaba a Marte?",
+    "options": [
+      "Bellona",
+      "Victoria",
+      "Virtus",
+      "Discordia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bellona preparaba el carro de Marte y su culto incluía rituales sangrientos."
+  },
+  {
+    "id": "cg-4599",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué sacerdotes romanos examinaban las entrañas de animales para conocer la voluntad divina?",
+    "options": [
+      "Los augures",
+      "Las vestales",
+      "Los flamines",
+      "Los arúspices"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los arúspices leían el hígado y otros órganos; los augures observaban el vuelo de las aves."
+  },
+  {
+    "id": "cg-4600",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué divinidades romanas protegían la casa y se representaban a menudo como serpientes?",
+    "options": [
+      "Los penates",
+      "Los manes",
+      "Los lares",
+      "Los genios"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los lares cuidaban el hogar y las encrucijadas; los penates guardaban la despensa."
+  },
+  {
+    "id": "cg-4601",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué divinidad romana personificaba el espíritu protector de cada hombre?",
+    "options": [
+      "El lar",
+      "El genio",
+      "La juno",
+      "El manes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cada hombre tenía un genio y cada mujer una juno, protectores de su persona."
+  },
+  {
+    "id": "cg-4602",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué poema de la Edda poética presenta la visión de una völva sobre el Ragnarök?",
+    "options": [
+      "Völuspá",
+      "Hávamál",
+      "Grímnismál",
+      "Lokasenna"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Völuspá narra la creación, la destrucción del mundo y su renacimiento."
+  },
+  {
+    "id": "cg-4603",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué dios nórdico de la poesía era esposo de Idun?",
+    "options": [
+      "Mímir",
+      "Kvasir",
+      "Ull",
+      "Bragi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bragi, dios de la poesía, recibió runas grabadas en su lengua y era esposo de Idun."
+  },
+  {
+    "id": "cg-4604",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué ser nórdico nació de la saliva de los dioses y fue asesinado para elaborar el hidromiel poético?",
+    "options": [
+      "Mímir",
+      "Bragi",
+      "Kvasir",
+      "Suttungr"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kvasir era el más sabio de los seres; su sangre fermentada con miel creó el hidromiel de la poesía."
+  },
+  {
+    "id": "cg-4605",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué gigante nórdico custodiaba el pozo de la sabiduría junto a Yggdrasil?",
+    "options": [
+      "Suttungr",
+      "Mímir",
+      "Hrímnir",
+      "Vafthrúdnir"
+    ],
+    "correctIndex": 1,
+    "explanation": "Odín entregó un ojo a Mímir para beber del pozo; la cabeza del gigante seguía aconsejándolo."
+  },
+  {
+    "id": "cg-4606",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué lobo nórdico persigue al sol con intención de devorarlo?",
+    "options": [
+      "Sköll",
+      "Hati",
+      "Fenrir",
+      "Garm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sköll persigue al sol y Hati a la luna; en el Ragnarök alcanzarán sus presas."
+  },
+  {
+    "id": "cg-4607",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué dios nórdico, hijo de Odín, vengó a Baldr matando a Höd?",
+    "options": [
+      "Vidar",
+      "Hermod",
+      "Forseti",
+      "Vali"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vali, hijo de Odín y Rind, creció en un día y mató a Höd para vengar a Baldr."
+  },
+  {
+    "id": "cg-4608",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué hijo de Thor hereda su martillo después del Ragnarök?",
+    "options": [
+      "Vidar",
+      "Vali",
+      "Magni",
+      "Forseti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Magni y Modi, hijos de Thor, sobreviven y heredan Mjölnir en el mundo renovado."
+  },
+  {
+    "id": "cg-4609",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué dios egipcio primordial surgió de las aguas de Nun y creó a los primeros dioses?",
+    "options": [
+      "Ptah",
+      "Atum",
+      "Ra",
+      "Amón"
+    ],
+    "correctIndex": 1,
+    "explanation": "Atum se creó a sí mismo en la colina primordial y engendró a Shu y Tefnut."
+  },
+  {
+    "id": "cg-4610",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Cuántos dioses formaban la Ogdóada de Hermópolis?",
+    "options": [
+      "Ocho",
+      "Cuatro",
+      "Seis",
+      "Nueve"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Ogdóada reunía cuatro parejas divinas que representaban el caos antes de la creación."
+  },
+  {
+    "id": "cg-4611",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué dios egipcio de la fertilidad, adorado en Coptos, se asociaba con la lechuga?",
+    "options": [
+      "Geb",
+      "Osiris",
+      "Bes",
+      "Min"
+    ],
+    "correctIndex": 3,
+    "explanation": "Min, dios de la fertilidad y los caminos, era representado con un tocado de plumas y una lechuga."
+  },
+  {
+    "id": "cg-4612",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué diosa egipcia de Sais, creadora y tejedora, llevaba arco y flechas?",
+    "options": [
+      "Sekhmet",
+      "Mut",
+      "Neith",
+      "Nekhbet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neith era una diosa antigua de Sais asociada a la guerra, la caza y el tejido."
+  },
+  {
+    "id": "cg-4613",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué serpiente gigante egipcia atacaba la barca solar de Ra cada noche?",
+    "options": [
+      "Nehebkau",
+      "Apep",
+      "Wadjet",
+      "Mehen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Apep, el caos, era repelido por Set y otros guardianes en el viaje nocturno del sol."
+  },
+  {
+    "id": "cg-4614",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué dios azteca de la estrella de la mañana era una manifestación de Quetzalcóatl?",
+    "options": [
+      "Tlahuizcalpantecuhtli",
+      "Xólotl",
+      "Ehécatl",
+      "Cinteotl"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tlahuizcalpantecuhtli representaba a Venus al amanecer y lanzaba dardos que causaban enfermedades."
+  },
+  {
+    "id": "cg-4615",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué diosa azteca de las flores y la belleza era esposa de Xochipilli?",
+    "options": [
+      "Tlazoltéotl",
+      "Coatlicue",
+      "Mayahuel",
+      "Xochiquetzal"
+    ],
+    "correctIndex": 3,
+    "explanation": "Xochiquetzal presidía las flores, el amor y las artes; su nombre significa pluma de flor."
+  },
+  {
+    "id": "cg-4616",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué diosa azteca del maguey murió y dio origen a la planta de la que se obtiene el pulque?",
+    "options": [
+      "Xochiquetzal",
+      "Tlazoltéotl",
+      "Mayahuel",
+      "Chicomecóatl"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mayahuel fue enterrada por Quetzalcóatl y de sus huesos nació el maguey."
+  },
+  {
+    "id": "cg-4617",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Cómo se llamaba el principal señor del Xibalbá en el Popol Vuh?",
+    "options": [
+      "Vucub Camé",
+      "Hun Camé",
+      "Ah Puch",
+      "Zipacná"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hun Camé, uno de los señores del inframundo maya, fue vencido por Hunahpú e Ixbalanqué."
+  },
+  {
+    "id": "cg-4618",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué dios moche, representado con colmillos de felino, era conocido como el degollador?",
+    "options": [
+      "Ai Apaec",
+      "Viracocha",
+      "Inti",
+      "Supay"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ai Apaec, héroe y dios principal moche, aparece con cabeza de felino y cuchillos en las manos."
+  },
+  {
+    "id": "cg-4619",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué diosa muisca surgió de la laguna de Iguaque y pobló la tierra?",
+    "options": [
+      "Chibchacum",
+      "Bochica",
+      "Nemterequeteba",
+      "Bachué"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bachué salió de la laguna con un niño, y de su unión nació el pueblo muisca."
+  },
+  {
+    "id": "cg-4620",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué bebida ritual de la India védica se ofrecía a los dioses y se asociaba con la luna?",
+    "options": [
+      "El amrita",
+      "El kava",
+      "El soma",
+      "El haoma"
+    ],
+    "correctIndex": 2,
+    "explanation": "El soma se extraía de una planta y se ofrecía en sacrificios; su nombre designa también la luna."
+  },
+  {
+    "id": "cg-4621",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué dios hindú de la riqueza y señor de los yakshas guarda la dirección del norte?",
+    "options": [
+      "Yama",
+      "Kubera",
+      "Varuna",
+      "Indra"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kubera, dios de la riqueza, tiene su capital en Alaká y protege el norte."
+  },
+  {
+    "id": "cg-4622",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué dios védico del orden cósmico y las aguas fue luego reducido a dios del océano?",
+    "options": [
+      "Varuna",
+      "Mitra",
+      "Indra",
+      "Agni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Varuna vigilaba los juramentos y el rita; con el tiempo pasó a presidir las aguas."
+  },
+  {
+    "id": "cg-4623",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué sabio hindú compuso el Ramayana?",
+    "options": [
+      "Vyasa",
+      "Patanjali",
+      "Kapila",
+      "Valmiki"
+    ],
+    "correctIndex": 3,
+    "explanation": "Valmiki, antiguo bandido convertido en sabio, escribió el Ramayana en sánscrito."
+  },
+  {
+    "id": "cg-4624",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué sabio hindú sistematizó el yoga en los Yoga Sutras?",
+    "options": [
+      "Vyasa",
+      "Kapila",
+      "Patanjali",
+      "Valmiki"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patanjali compiló los Yoga Sutras, texto fundacional del yoga clásico."
+  },
+  {
+    "id": "cg-4625",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué hermano del rey Ravana se unió a Rama y llegó a reinar en Lanka?",
+    "options": [
+      "Kumbhakarna",
+      "Vibhishana",
+      "Surpanakha",
+      "Indrajit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vibhishana aconsejó devolver a Sita y, tras la caída de Ravana, fue rey de Lanka."
+  },
+  {
+    "id": "cg-4626",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué diosa-río hindú descendió a la Tierra enredada en los cabellos de Shiva?",
+    "options": [
+      "Ganga",
+      "Yamuna",
+      "Saraswati",
+      "Godavari"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shiva recibió a Ganga en su cabello para amortiguar su caída y evitar inundaciones."
+  },
+  {
+    "id": "cg-4627",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué deidad china de la literatura era invocada por los candidatos a los exámenes imperiales?",
+    "options": [
+      "Caishen",
+      "Guandi",
+      "Yanluo",
+      "Wenchang"
+    ],
+    "correctIndex": 3,
+    "explanation": "Wenchang Wang preside la literatura y el saber; se le pedía éxito en los exámenes."
+  },
+  {
+    "id": "cg-4628",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué doncella celestial china se reúne con su esposo pastor una vez al año sobre un puente de urracas?",
+    "options": [
+      "Chang E",
+      "Nüwa",
+      "Zhinü",
+      "Xiwangmu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zhinü, la tejedora, y Niulang, el pastor, fueron separados por la Vía Láctea."
+  },
+  {
+    "id": "cg-4629",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué rey dragón chino del océano Oriental fue derrotado por el joven Nezha?",
+    "options": [
+      "Ao Qin",
+      "Ao Guang",
+      "Ao Run",
+      "Ao Shun"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nezha mató al hijo de Ao Guang y luego se enfrentó al rey dragón."
+  },
+  {
+    "id": "cg-4630",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué espada legendaria japonesa surgió de la cola de la serpiente Yamata no Orochi?",
+    "options": [
+      "Kusanagi",
+      "Totsuka",
+      "Muramasa",
+      "Amenonuhoko"
+    ],
+    "correctIndex": 0,
+    "explanation": "Susanoo halló la espada Kusanagi en la cola del monstruo y la ofreció a Amaterasu."
+  },
+  {
+    "id": "cg-4631",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el espejo sagrado que integra las insignias imperiales de Japón?",
+    "options": [
+      "Kusanagi no Tsurugi",
+      "Yasakani no Magatama",
+      "Amenonuhoko",
+      "Yata no Kagami"
+    ],
+    "correctIndex": 3,
+    "explanation": "El espejo Yata no Kagami simboliza la sabiduría y se conserva en el santuario de Ise."
+  },
+  {
+    "id": "cg-4632",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué yōkai japonés de la nieve aparece como una mujer hermosa y congela a los viajeros?",
+    "options": [
+      "Kitsune",
+      "Yamauba",
+      "Yuki-onna",
+      "Kuchisake-onna"
+    ],
+    "correctIndex": 2,
+    "explanation": "La yuki-onna habita paisajes nevados y a menudo se enamora de un mortal."
+  },
+  {
+    "id": "cg-4633",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué dios japonés del inframundo visitó a su esposa Izanami y huyó de ella?",
+    "options": [
+      "Izanami",
+      "Izanagi",
+      "Susanoo",
+      "Ōkuninushi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Izanagi descendió al Yomi a buscar a Izanami, pero la vio descompuesta y escapó."
+  },
+  {
+    "id": "cg-4634",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué dios del cielo de los akan de Ghana creó el mundo y es padre de Anansi en algunos relatos?",
+    "options": [
+      "Nyame",
+      "Asase Yaa",
+      "Eshu",
+      "Ogun"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nyame, el cielo, y Asase Yaa, la tierra, forman la pareja creadora akan."
+  },
+  {
+    "id": "cg-4635",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué diosa akan de la tierra recibe ofrendas al sembrar y se asocia al vientre materno?",
+    "options": [
+      "Nyame",
+      "Yemayá",
+      "Ala",
+      "Asase Yaa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Asase Yaa, madre tierra akan, protege la agricultura y la fertilidad."
+  },
+  {
+    "id": "cg-4636",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué diosa igbo de la tierra juzga la moral de la comunidad?",
+    "options": [
+      "Amadioha",
+      "Ekwensu",
+      "Ala",
+      "Chukwu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ala, diosa igbo de la tierra, castiga las faltas que ofenden a la comunidad."
+  },
+  {
+    "id": "cg-4637",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué dios igbo del trueno y el relámpago castiga a los malhechores con su rayo?",
+    "options": [
+      "Chukwu",
+      "Amadioha",
+      "Ekwensu",
+      "Ala"
+    ],
+    "correctIndex": 1,
+    "explanation": "Amadioha es el dios igbo del cielo y la justicia inmediata; su símbolo es el rayo."
+  },
+  {
+    "id": "cg-4638",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué dios hawaiano de la guerra era adorado en templos llamados luakini?",
+    "options": [
+      "Kū",
+      "Lono",
+      "Kāne",
+      "Kanaloa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kū, dios de la guerra, exigía sacrificios y estaba representado por ídolos de plumas."
+  },
+  {
+    "id": "cg-4639",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué diosa maorí del fuego guardaba las uñas ardientes que Maui le pidió?",
+    "options": [
+      "Pele",
+      "Hine-nui-te-pō",
+      "Papa",
+      "Mahuika"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mahuika, abuela de Maui, le entregó una uña encendida; él la usó para dominar el fuego."
+  },
+  {
+    "id": "cg-4640",
+    "category": "general",
+    "topic": "mythology",
+    "difficulty": "hard",
+    "question": "¿Qué dios creador de Rapa Nui está vinculado al culto del hombre-pájaro en Orongo?",
+    "options": [
+      "Hotu Matua",
+      "Tangaroa",
+      "Makemake",
+      "Rongo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Makemake, dios creador de Rapa Nui, se asociaba con el culto del hombre-pájaro en Orongo."
+  }
+]

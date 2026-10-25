@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "cg-0023",
+    "question": "¿Qué mamífero australiano de pico de pato y hábitos acuáticos pone huevos?",
+    "reason": "Se añaden rasgos distintivos para no confundirlo con otros mamíferos que también ponen huevos."
+  },
+  {
+    "id": "cg-0046",
+    "question": "¿Cuál es la isla más grande del mundo, excluyendo las masas continentales?",
+    "reason": "Aclara que no se cuentan los continentes, para evitar la confusión con Australia."
+  },
+  {
+    "id": "cg-0086",
+    "question": "¿Cuál es el punto más bajo de la superficie terrestre emergida?",
+    "reason": "Sustituye «tierra firme» por una expresión geográfica inequívoca."
+  },
+  {
+    "id": "cg-0088",
+    "question": "¿Qué cordillera, que separa la Rusia europea de Siberia, se considera la frontera natural entre Europa y Asia?",
+    "reason": "Precisa la cordillera para distinguirla de otras fronteras convencionales entre Europa y Asia."
+  },
+  {
+    "id": "cg-0092",
+    "question": "¿Qué volcán siciliano, situado junto a Catania, es el más activo de Europa?",
+    "reason": "Ubica el volcán para distinguirlo de otros volcanes italianos con actividad frecuente."
+  },
+  {
+    "id": "cg-0094",
+    "question": "¿Cuál es el mayor desierto polar del planeta, situado en el hemisferio sur?",
+    "reason": "Ubica el desierto polar en el hemisferio sur para distinguirlo del Ártico."
+  },
+  {
+    "id": "cg-0101",
+    "question": "¿En qué capa de la atmósfera se encuentra la mayor parte del ozono?",
+    "reason": "Aclara que se pregunta por una capa de la atmósfera."
+  },
+  {
+    "id": "cg-0121",
+    "question": "¿Qué naturalista inglés expuso la evolución por selección natural en El origen de las especies, publicado en 1859?",
+    "reason": "Identifica la obra y el año para distinguir al autor de otros proponentes de la selección natural."
+  },
+  {
+    "id": "cg-0130",
+    "question": "¿Qué navegante español completó la primera vuelta al mundo al mando de la expedición en 1522?",
+    "reason": "Aclara que se pregunta por quien culminó la expedición, no por quien la inició."
+  },
+  {
+    "id": "cg-0137",
+    "question": "¿Qué líder dirigió la Revolución haitiana en su fase inicial, entre 1791 y 1802?",
+    "reason": "Delimita la etapa para no confundirlo con otros líderes posteriores de la independencia."
+  },
+  {
+    "id": "cg-0162",
+    "question": "¿En qué año capturó Francisco Pizarro a Atahualpa?",
+    "reason": "Completa el nombre del conquistador para evitar la ambigüedad con otros miembros de la familia Pizarro."
+  },
+  {
+    "id": "cg-0182",
+    "question": "¿Qué compositor alemán escribió la Quinta Sinfonía, estrenada en 1808 y conocida por su motivo de cuatro notas?",
+    "reason": "Precisa la obra y su estreno para distinguirla de otras quintas sinfonías."
+  },
+  {
+    "id": "cg-0204",
+    "question": "¿Qué actor interpretó a Jack Dawson en la película Titanic de 1997?",
+    "reason": "Identifica la película concreta a la que pertenece el personaje."
+  },
+  {
+    "id": "cg-0220",
+    "question": "¿Qué instrumento de cuerda frotada, el más agudo de la familia, tiene cuatro cuerdas y se toca con arco en una orquesta?",
+    "reason": "Añade que es el más agudo de la familia para distinguirlo de la viola, que también tiene cuatro cuerdas y se toca con arco."
+  },
+  {
+    "id": "cg-0228",
+    "question": "¿Quién protagonizó la película Casablanca de 1942 junto a Ingrid Bergman?",
+    "reason": "Identifica la película de 1942 para contextualizar el reparto."
+  },
+  {
+    "id": "cg-0233",
+    "question": "¿Qué selección ganó la final del Mundial de Fútbol de 2014?",
+    "reason": "Formula la pregunta con «qué selección» para que el referente sea un equipo nacional."
+  },
+  {
+    "id": "cg-0260",
+    "question": "¿Qué escritor de lengua alemana escribió la novela corta La metamorfosis, publicada en 1915?",
+    "reason": "Precisa el género y la fecha para distinguir la obra de Kafka de otras con títulos similares."
+  },
+  {
+    "id": "cg-0267",
+    "question": "¿Qué compositor italiano escribió la ópera El barbero de Sevilla, estrenada en 1816?",
+    "reason": "Añade el año de estreno para distinguirla de otras óperas con el mismo título."
+  },
+  {
+    "id": "cg-0287",
+    "question": "¿Qué selección ganó la primera Eurocopa de fútbol, en 1960?",
+    "reason": "Especifica que se trata de la Eurocopa de fútbol."
+  },
+  {
+    "id": "cg-0293",
+    "question": "¿Qué piloto brasileño ganó los campeonatos mundiales de Fórmula 1 de 1988, 1990 y 1991?",
+    "reason": "Concreta los años para distinguirlo de otro piloto brasileño que también ganó tres títulos mundiales."
+  },
+  {
+    "id": "cg-0339",
+    "question": "¿Qué club ganó la primera Copa de Europa de fútbol, en 1956?",
+    "reason": "Aclara que la Copa de Europa mencionada es la competición futbolística."
+  },
+  {
+    "id": "cg-0340",
+    "question": "¿Qué boxeador ganó el título mundial de los pesos pesados en 1964 y se proclamó a sí mismo «el más grande»?",
+    "reason": "Aclara que «el más grande» era una autoproclamación del propio boxeador."
+  },
+  {
+    "id": "cg-0344",
+    "question": "¿A qué matemático británico se le considera el padre de la informática por formalizar la computación con una máquina teórica?",
+    "reason": "Añade el aporte que lo distingue de otros pioneros de la computación."
+  },
+  {
+    "id": "vg-0004",
+    "question": "¿Qué tipo de animal es Yoshi, el compañero de Mario?",
+    "reason": "No se identificaba a Yoshi ni su vínculo con la saga Mario."
+  },
+  {
+    "id": "vg-0009",
+    "question": "¿Cómo se llama el caballo de Link en la saga The Legend of Zelda?",
+    "reason": "Faltaba la franquicia para identificar al personaje Link."
+  },
+  {
+    "id": "vg-0010",
+    "question": "¿Qué Pokémon es la mascota más reconocida de la franquicia creada por Satoshi Tajiri?",
+    "reason": "«La franquicia» no tenía un antecedente claro en el enunciado."
+  },
+  {
+    "id": "vg-0011",
+    "question": "¿De qué tipo es Pikachu en los juegos de Pokémon?",
+    "reason": "«Tipo» podía interpretarse fuera del contexto de los Pokémon."
+  },
+  {
+    "id": "vg-0015",
+    "question": "¿Qué tipo de animal es Sonic, la mascota de Sega?",
+    "reason": "No se identificaba a Sonic ni su compañía."
+  },
+  {
+    "id": "vg-0027",
+    "question": "¿Qué personaje rosado de Nintendo absorbe a sus enemigos en sus juegos?",
+    "reason": "«Sus juegos» no tenía referente; se añade la compañía."
+  },
+  {
+    "id": "vg-0032",
+    "question": "¿Cómo se llama la técnica de bola de fuego de Ryu en Street Fighter?",
+    "reason": "No se nombraba la saga a la que pertenece Ryu."
+  },
+  {
+    "id": "vg-0040",
+    "question": "¿Qué consola portátil de Nintendo, lanzada originalmente en 2004, tiene dos pantallas?",
+    "reason": "La Nintendo 3DS también tiene dos pantallas; el año acota la respuesta."
+  },
+  {
+    "id": "vg-0047",
+    "question": "¿Qué robot azul de Capcom, que copia las armas de sus enemigos, protagoniza una saga de plataformas iniciada en 1987?",
+    "reason": "«La saga de Capcom» no identificaba una franquicia concreta."
+  },
+  {
+    "id": "vg-0049",
+    "question": "¿Qué personaje de Hudson Soft coloca bombas para abrirse camino en sus juegos?",
+    "reason": "«Sus juegos» no tenía referente; se añade la compañía creadora."
+  },
+  {
+    "id": "vg-0066",
+    "question": "¿Qué mando de Nintendo, introducido en 2006, funciona con sensores de movimiento?",
+    "reason": "Los Joy-Con también usan movimiento; el año acota el mando."
+  },
+  {
+    "id": "vg-0068",
+    "question": "¿Qué era un cartucho en las consolas de videojuegos de los años 80 y 90?",
+    "reason": "«Consolas antiguas» era vago; se concreta el tipo de consola y la época."
+  },
+  {
+    "id": "vg-0085",
+    "question": "¿Cuál es el subtítulo oficial de Zelda II, la secuela de The Legend of Zelda lanzada en 1987?",
+    "reason": "Faltaba identificar a qué juego correspondía «Zelda II» y su época."
+  },
+  {
+    "id": "vg-0105",
+    "question": "¿Qué consola comercializada en 1972 se considera la primera videoconsola doméstica?",
+    "reason": "«Primera» sin alcance temporal; se añade el año de comercialización."
+  },
+  {
+    "id": "vg-0110",
+    "question": "¿En qué año se lanzó la GameCube en Japón?",
+    "reason": "El año de lanzamiento variaba según la región; se concreta Japón."
+  },
+  {
+    "id": "vg-0112",
+    "question": "¿Qué personaje femenino debutó en la versión original de Street Fighter II, lanzada en 1991?",
+    "reason": "Cammy debutó en Super Street Fighter II; se acota a la versión original."
+  },
+  {
+    "id": "vg-0113",
+    "question": "¿Cómo se llama el dictador villano de Street Fighter II en las versiones occidentales?",
+    "reason": "El nombre cambia entre Japón y Occidente; se concreta la versión."
+  },
+  {
+    "id": "vg-0127",
+    "question": "¿Con qué nombre se conoció la saga Dragon Quest en Norteamérica antes de 2005?",
+    "reason": "«Hasta los años 2000» era impreciso; se concreta el país y el límite temporal."
+  },
+  {
+    "id": "vg-0138",
+    "question": "¿En qué año se lanzó F-Zero para Super Nintendo en Japón?",
+    "reason": "El año de lanzamiento variaba según la región; se concreta Japón."
+  },
+  {
+    "id": "vg-0150",
+    "question": "¿Qué consola de Sega lanzada en 1998 incluía un módem de serie para jugar en línea?",
+    "reason": "Faltaban la compañía y la época para acotar la consola."
+  },
+  {
+    "id": "vg-0166",
+    "question": "¿Quién compuso la banda sonora del Final Fantasy original de 1987?",
+    "reason": "La saga tiene varios compositores; se concreta la primera entrega."
+  },
+  {
+    "id": "vg-0249",
+    "question": "¿En qué año se lanzó la Xbox original en Norteamérica?",
+    "reason": "El año de lanzamiento variaba según la región; se concreta Norteamérica."
+  },
+  {
+    "id": "vg-0282",
+    "question": "En la saga The Witcher, ¿cómo se llama la hija adoptiva de Geralt de Rivia?",
+    "reason": "No se nombraba la franquicia del personaje Geralt."
+  },
+  {
+    "id": "vg-0316",
+    "question": "En la saga Uncharted, ¿cuál es el nombre real de Nathan Drake?",
+    "reason": "No se nombraba la franquicia del personaje Nathan Drake."
+  },
+  {
+    "id": "s90-0005",
+    "question": "En la serie Friends, ¿qué frase usa Joey Tribbiani para coquetear con las mujeres?",
+    "reason": "Se elimina la ambigüedad del nombre propio añadiendo la serie."
+  },
+  {
+    "id": "s90-0006",
+    "question": "En la serie Friends, ¿cómo se llama la hija de Ross y Rachel?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0007",
+    "question": "En la serie Friends, ¿cuál es la profesión de Ross Geller?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0008",
+    "question": "En la serie Friends, ¿cuál es la profesión de Monica Geller?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0009",
+    "question": "En la serie Friends, ¿cómo se llama el mono que Ross tuvo como mascota?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0010",
+    "question": "En la serie Friends, ¿qué personaje dice la frase We were on a break?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0011",
+    "question": "En la serie Friends, ¿qué personaje canta la canción Smelly Cat?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0012",
+    "question": "En la serie Friends, ¿qué actor interpreta a Chandler Bing?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0014",
+    "question": "En la serie Seinfeld, ¿cómo se llama el excéntrico vecino de Jerry?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0015",
+    "question": "En la serie Seinfeld, ¿cómo se llama el café donde Jerry y sus amigos suelen comer?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0016",
+    "question": "En la serie Seinfeld, ¿cuál es la profesión de Jerry Seinfeld?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0017",
+    "question": "En la serie Seinfeld, ¿qué actriz interpreta a Elaine Benes?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0018",
+    "question": "En la serie Seinfeld, ¿cómo se llama el amigo calvo de Jerry que trabaja para los Yankees?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0019",
+    "question": "En la serie Seinfeld, ¿qué personaje es el cartero que vive en el mismo edificio que Jerry?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0020",
+    "question": "En la serie Seinfeld, ¿cuál es el nombre de pila de Kramer?",
+    "reason": "Se elimina la ambigüedad del nombre propio añadiendo la serie."
+  },
+  {
+    "id": "s90-0022",
+    "question": "En la serie Seinfeld, ¿cómo se conoce al personaje del restaurante que grita No soup for you?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0024",
+    "question": "En la serie Seinfeld, ¿qué actor interpreta a David Puddy, el novio de Elaine?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0026",
+    "question": "En la serie Frasier, ¿cuál es la profesión de Frasier Crane en su programa?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0029",
+    "question": "En la serie Frasier, ¿cómo se llama la terapeuta física británica que cuida a Martin?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0030",
+    "question": "En la serie Frasier, ¿cómo se llama el perro de Martin Crane?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0032",
+    "question": "En la serie Frasier, ¿qué actor interpreta a Niles Crane?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0034",
+    "question": "En la telecomedia de los 90 protagonizada por Will Smith, ¿a qué lujoso barrio se muda Will al comenzar la serie?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0035",
+    "question": "En la serie The Fresh Prince of Bel-Air, ¿qué actor interpreta a Carlton Banks?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0037",
+    "question": "En la serie The Fresh Prince of Bel-Air, ¿cómo se llama el mayordomo de la familia Banks?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0038",
+    "question": "En la serie The Fresh Prince of Bel-Air, ¿qué baile se hizo famoso gracias al personaje de Carlton?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0039",
+    "question": "En la serie The Fresh Prince of Bel-Air, ¿qué actor y DJ interpreta a Jazz?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0041",
+    "question": "En la serie Full House, ¿cómo se llama el padre de las tres niñas Tanner?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0042",
+    "question": "En la serie Full House, ¿qué gemelas interpretan a Michelle Tanner?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0043",
+    "question": "En la serie Full House, ¿cómo se llama el tío de las niñas que vive con ellas?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0044",
+    "question": "En la serie Full House, ¿qué frase repite Stephanie Tanner con frecuencia?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0045",
+    "question": "En la serie Full House, ¿cómo se llama la banda en la que toca Jesse?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0047",
+    "question": "En la serie Family Matters, ¿qué frase dice Steve Urkel después de provocar un accidente?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0048",
+    "question": "En la serie Family Matters, ¿en qué ciudad vive la familia Winslow?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0049",
+    "question": "En la serie Family Matters, ¿cómo se llama el alter ego elegante y seductor de Steve Urkel?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0050",
+    "question": "En la serie Family Matters, ¿cómo se llama el padre de los Winslow, que trabaja como policía?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0051",
+    "question": "En la serie Family Matters, ¿qué actor interpreta a Steve Urkel?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0053",
+    "question": "En la serie Boy Meets World, ¿cómo se llama el gran amor de Cory, con quien termina casándose?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0054",
+    "question": "En la serie Boy Meets World, ¿quién es el profesor y vecino que aconseja a Cory?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0055",
+    "question": "En la serie Boy Meets World, ¿en qué ciudad vive Cory Matthews?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0056",
+    "question": "En la serie Boy Meets World, ¿cómo se llama el mejor amigo de Cory?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0057",
+    "question": "En la serie Boy Meets World, ¿qué actor interpreta a George Feeny?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0058",
+    "question": "En la serie Home Improvement, ¿cómo se llama el programa de bricolaje que conduce Tim Taylor?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0059",
+    "question": "En la serie Home Improvement, ¿cómo se llama el vecino que conversa con Tim desde detrás de la cerca?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0061",
+    "question": "En la serie Home Improvement, ¿cómo se llama el compañero de Tim en Tool Time?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0062",
+    "question": "En la serie Home Improvement, ¿qué actor interpreta al vecino Wilson?",
+    "reason": "Se elimina la ambigüedad del nombre propio añadiendo la serie."
+  },
+  {
+    "id": "s90-0064",
+    "question": "En la serie Married... with Children, ¿cuál es el trabajo de Al Bundy?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0065",
+    "question": "En la serie Married... with Children, ¿cómo se llama la esposa de Al Bundy?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0066",
+    "question": "En la serie Married... with Children, ¿cómo se llaman los dos hijos de Al y Peggy?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0067",
+    "question": "En la serie Married... with Children, ¿cuántos touchdowns dice Al Bundy que anotó en un solo partido de preparatoria?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0068",
+    "question": "En la serie Married... with Children, ¿qué actor interpreta a Al Bundy?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0069",
+    "question": "En la serie Sabrina, la bruja adolescente, ¿cómo se llama la gata parlante que vive con Sabrina?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0070",
+    "question": "En la serie Sabrina, la bruja adolescente, ¿quiénes son las tías brujas con las que vive Sabrina?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0071",
+    "question": "En la serie Sabrina, la bruja adolescente, ¿cómo se llama el interés amoroso de Sabrina?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0072",
+    "question": "En la serie Sabrina, la bruja adolescente, ¿en qué editorial de cómics se basa el personaje de Sabrina?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0074",
+    "question": "En la serie The Nanny, ¿cómo se llama el personaje que interpreta Fran Drescher?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0075",
+    "question": "En la serie The Nanny, ¿a qué familia llega Fran para trabajar como niñera?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0076",
+    "question": "En la serie The Nanny, ¿cuál es la profesión de Maxwell Sheffield?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0077",
+    "question": "En la serie The Nanny, ¿cómo se llama el mayordomo de los Sheffield?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0079",
+    "question": "En la serie Will & Grace, ¿cuál es la profesión de Will Truman?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0080",
+    "question": "En la serie Will & Grace, ¿cuál es la profesión de Grace Adler?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0081",
+    "question": "En la serie Will & Grace, ¿qué actriz interpreta a Karen Walker?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0082",
+    "question": "En la serie Will & Grace, ¿cómo se llama la asistenta de Karen?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0087",
+    "question": "En la serie NewsRadio, ¿qué actor interpreta a Bill McNeal?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0090",
+    "question": "En la serie 3rd Rock from the Sun, ¿qué actor interpreta a Dick Solomon?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0091",
+    "question": "En la serie 3rd Rock from the Sun, ¿cuál de los alienígenas es el comandante de la misión?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0092",
+    "question": "En la serie 3rd Rock from the Sun, ¿cómo se llama la profesora universitaria que es el interés romántico de Dick?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0093",
+    "question": "En la serie The Drew Carey Show, ¿en qué tienda departamental trabaja Drew Carey?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0095",
+    "question": "En la serie The Drew Carey Show, ¿cómo se llama la compañera de trabajo que es la enemiga de Drew?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0096",
+    "question": "En la serie Step by Step, ¿en qué estado viven Frank, Carol y sus hijos?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0097",
+    "question": "En la serie Step by Step, ¿qué actores interpretan a Frank Lambert y Carol Foster?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0098",
+    "question": "En la serie Step by Step, ¿qué actriz interpreta a Al Lambert, la hija menor de Frank?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0099",
+    "question": "En la serie Saved by the Bell, ¿cómo se llama la escuela secundaria a la que asisten Zack y sus amigos?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0100",
+    "question": "En la serie Saved by the Bell, ¿cómo se llama el director de Bayside High?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0101",
+    "question": "En la serie Saved by the Bell, ¿cómo se llama el amigo nerd de Zack?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0102",
+    "question": "En la serie Saved by the Bell, ¿qué actor interpreta a Zack Morris?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0103",
+    "question": "En la serie Saved by the Bell, ¿cómo se llama la porrista que es el gran amor de Zack?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0104",
+    "question": "En la serie Saved by the Bell, ¿qué actriz interpreta a Kelly Kapowski?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0105",
+    "question": "En la serie Saved by the Bell, ¿qué canción canta Jessie en el episodio en que abusa de las pastillas de cafeína?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0110",
+    "question": "En la serie Beverly Hills, 90210, ¿cómo se llaman los gemelos que se mudan desde Minnesota al inicio de la serie?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0112",
+    "question": "En la serie Beverly Hills, 90210, ¿cómo se llama el instituto al que asisten los protagonistas?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0114",
+    "question": "En la serie Beverly Hills, 90210, ¿qué actor interpreta a Dylan McKay?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0115",
+    "question": "En la serie Beverly Hills, 90210, ¿qué actriz interpreta a Kelly Taylor?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0118",
+    "question": "En la serie Melrose Place, ¿qué actriz interpreta a Amanda Woodward?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0119",
+    "question": "En la serie Melrose Place, ¿cómo se llama el personaje que interpreta Andrew Shue?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0120",
+    "question": "En la serie Dawson's Creek, ¿cómo se llama el pueblo ficticio donde viven Dawson y sus amigos?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0122",
+    "question": "En la serie Dawson's Creek, ¿qué actriz interpreta a Joey Potter?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0124",
+    "question": "En la serie Party of Five, ¿cómo se llama el hermano mayor que asume la tutela de los Salinger?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0125",
+    "question": "En la serie Party of Five, ¿qué les ocurre a los padres de los Salinger al inicio de la serie?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0126",
+    "question": "En la serie Party of Five, ¿qué actor interpreta a Bailey Salinger?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0128",
+    "question": "En la serie My So-Called Life, ¿cómo se llama el chico rebelde del que Angela está enamorada?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0131",
+    "question": "En la serie ER, ¿qué actor interpreta al Dr. Doug Ross?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0132",
+    "question": "En la serie ER, ¿qué actor interpreta al Dr. Mark Greene?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0133",
+    "question": "En la serie ER, ¿cómo se llama la enfermera que tiene una relación con Doug Ross?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0134",
+    "question": "En la serie ER, ¿qué actriz interpreta a la Dra. Kerry Weaver?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0136",
+    "question": "En la serie Chicago Hope, ¿qué actor interpreta al Dr. Jeffrey Geiger?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0137",
+    "question": "En la serie Chicago Hope, ¿qué actor interpreta al Dr. Phillip Watters?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0138",
+    "question": "En la serie NYPD Blue, ¿qué actor interpreta a Andy Sipowicz?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0140",
+    "question": "En la serie NYPD Blue, ¿qué actor interpretó a John Kelly en la primera temporada?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0141",
+    "question": "En la serie NYPD Blue, ¿qué actor interpreta al detective Greg Medavoy?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0142",
+    "question": "En la serie Law & Order, ¿qué actor interpreta al detective Lennie Briscoe?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0143",
+    "question": "En la serie Law & Order, ¿qué actor interpreta al fiscal Jack McCoy?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0144",
+    "question": "En la serie Law & Order, ¿cómo se llama el fiscal de distrito interpretado por Steven Hill?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0147",
+    "question": "En la serie Homicide: Life on the Street, ¿qué actor interpreta al detective Frank Pembleton?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0148",
+    "question": "En la serie Homicide: Life on the Street, ¿qué actor interpreta al detective John Munch?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0149",
+    "question": "¿En qué libro de David Simon se basa la serie Homicide: Life on the Street?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0151",
+    "question": "En la serie The Practice, ¿qué actor interpreta a Bobby Donnell?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0152",
+    "question": "En la serie The Practice, ¿cómo se llama la abogada interpretada por Camryn Manheim?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0154",
+    "question": "En la serie Ally McBeal, ¿cómo se llama el bufete donde trabaja Ally?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0155",
+    "question": "En la serie Ally McBeal, ¿qué actor interpreta a John Cage?",
+    "reason": "Se elimina la ambigüedad del nombre propio añadiendo la serie."
+  },
+  {
+    "id": "s90-0156",
+    "question": "En la serie Ally McBeal, ¿qué cantante actúa en el bar e interpreta el tema principal?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0160",
+    "question": "En la serie The Sopranos, ¿qué actor interpreta a Christopher Moltisanti?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0162",
+    "question": "En la serie Sex and the City, ¿qué actriz interpreta a Carrie Bradshaw?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0164",
+    "question": "En la serie Sex and the City, ¿qué actor interpreta a Mr. Big?",
+    "reason": "Se elimina la ambigüedad del nombre propio añadiendo la serie."
+  },
+  {
+    "id": "s90-0165",
+    "question": "En la serie Sex and the City, ¿qué actor interpreta a Steve Brady?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0166",
+    "question": "¿En qué cadena se emitió la serie carcelaria Oz?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0168",
+    "question": "En la serie Oz, ¿qué actor interpreta a Vern Schillinger?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0169",
+    "question": "¿A qué estado de EE. UU. se muda el doctor Joel Fleischman, protagonista de Northern Exposure?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0171",
+    "question": "En la serie Northern Exposure, ¿qué actor interpreta a Joel Fleischman?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0173",
+    "question": "En la serie Twin Peaks, ¿cómo se llama la joven cuya muerte desencadena la trama?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0174",
+    "question": "En la serie Twin Peaks, ¿qué actriz interpreta a Laura Palmer?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0181",
+    "question": "En Star Trek: The Next Generation, ¿qué actriz interpreta a Guinan, la anfitriona del bar Ten Forward?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0182",
+    "question": "En Star Trek: The Next Generation, ¿qué actor interpreta a Q, el ser omnipotente que desafía a Picard?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0183",
+    "question": "En Star Trek: The Next Generation, ¿qué nombre recibe Picard cuando los Borg lo asimilan en el episodio The Best of Both Worlds?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0187",
+    "question": "En Star Trek: Deep Space Nine, ¿a qué raza pertenece Kira Nerys, oficial de la estación?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0193",
+    "question": "En Star Trek: Voyager, ¿qué actriz interpreta a Kathryn Janeway?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0197",
+    "question": "¿Cómo se llama la estación espacial que da título a la serie de ciencia ficción de los 90 creada por J. Michael Straczynski?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0203",
+    "question": "En la serie Stargate SG-1, ¿a qué raza pertenece Teal'c?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0204",
+    "question": "En la serie Stargate SG-1, ¿qué actriz interpreta a Samantha Carter?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0205",
+    "question": "En la serie Stargate SG-1, ¿qué actor interpreta al general George Hammond?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0206",
+    "question": "En la serie The X-Files, ¿qué actor interpreta a Fox Mulder?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0207",
+    "question": "En la serie The X-Files, ¿qué actriz interpreta a Dana Scully?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0210",
+    "question": "En la serie The X-Files, ¿cómo se llama el grupo de informantes que ayuda a Mulder con las conspiraciones?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0211",
+    "question": "En la serie The X-Files, ¿qué actor interpreta al subdirector Walter Skinner?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0215",
+    "question": "¿Qué tipo de vehículo es la seaQuest DSV en la serie de ciencia ficción de los 90?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0224",
+    "question": "¿Qué actriz interpreta a Buffy Summers en la serie Buffy la cazavampiros?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0225",
+    "question": "En la serie Buffy la cazavampiros, ¿cuál es la misión de Buffy?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0226",
+    "question": "En la serie Buffy la cazavampiros, ¿en qué pueblo ficticio vive Buffy?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0227",
+    "question": "En la serie Buffy la cazavampiros, ¿qué vampiro con alma es el primer gran amor de Buffy?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0228",
+    "question": "En la serie Buffy la cazavampiros, ¿qué actor interpreta a Rupert Giles, el vigilante de Buffy?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0230",
+    "question": "¿Qué actor protagoniza Angel, el spin-off de Buffy la cazavampiros?",
+    "reason": "Se elimina la ambigüedad del nombre propio añadiendo la serie."
+  },
+  {
+    "id": "s90-0234",
+    "question": "En la serie Charmed, ¿qué actriz interpreta a Phoebe Halliwell?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0237",
+    "question": "En la serie Xena: Warrior Princess, ¿cómo se llama la joven compañera de aventuras de Xena?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0241",
+    "question": "En la serie Hercules: The Legendary Journeys, ¿cómo se llama el mejor amigo y compañero de Hércules?",
+    "reason": "El enunciado usaba una referencia genérica; se concreta la serie y el personaje."
+  },
+  {
+    "id": "s90-0247",
+    "question": "En la serie Los Simpson, ¿cómo se llama el dueño de la taberna que frecuenta Homer?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0254",
+    "question": "En la serie Futurama, ¿cómo se llama el robot mejor amigo de Fry?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0257",
+    "question": "En la serie King of the Hill, ¿qué producto vende Hank Hill?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0264",
+    "question": "En la serie de animación de MTV sobre dos adolescentes, ¿cuál de los dos personajes se transforma en Cornholio al comer azúcar?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0265",
+    "question": "En la serie The Ren & Stimpy Show, ¿qué animales son Ren y Stimpy?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0269",
+    "question": "En la serie Rocko's Modern Life, ¿cómo se llama el mejor amigo de Rocko, un novillo?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0275",
+    "question": "En la serie Hey Arnold!, ¿quién está secretamente enamorada de Arnold?",
+    "reason": "Se elimina la ambigüedad del nombre propio añadiendo la serie."
+  },
+  {
+    "id": "s90-0277",
+    "question": "En la serie Dexter's Laboratory, ¿quién es el rival científico de Dexter?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0287",
+    "question": "¿Qué actor pone voz a Spider-Man en la serie animada de 1994 emitida en Fox Kids?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0289",
+    "question": "¿Quién lidera al equipo de mutantes en la serie animada X-Men: The Animated Series?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0293",
+    "question": "En la serie Pokémon, ¿qué Pokémon es la mascota inseparable de Ash?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0294",
+    "question": "En la serie Pokémon, ¿cómo se llama el profesor que entrega los Pokémon iniciales?",
+    "reason": "La pregunta dependía de las opciones para saber de qué serie hablaba."
+  },
+  {
+    "id": "s90-0296",
+    "question": "En la serie Dragon Ball Z, ¿a qué raza pertenece Goku?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  },
+  {
+    "id": "s90-0298",
+    "question": "En la serie Dragon Ball Z, ¿cómo se llama el hijo mayor de Goku?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0330",
+    "question": "En la telenovela Yo soy Betty, la fea, ¿cómo se llama la empresa donde trabaja Betty?",
+    "reason": "Faltaba el contexto de la serie para saber a qué personaje se refiere."
+  },
+  {
+    "id": "s90-0331",
+    "question": "En la telenovela Yo soy Betty, la fea, ¿qué actor interpreta a Armando Mendoza?",
+    "reason": "No se nombraba la serie; se añade el título para identificar el referente."
+  }
+]

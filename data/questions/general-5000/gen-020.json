@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-5941",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué compositor alemán, que perdió progresivamente la audición, compuso la Sinfonía n.º 9 en re menor?",
+    "options": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Joseph Haydn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Beethoven completó su Novena Sinfonía en 1824, cuando ya era casi completamente sordo."
+  },
+  {
+    "id": "cg-5942",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Quién compuso la ópera Las bodas de Fígaro, estrenada en Viena en 1786?",
+    "options": [
+      "Antonio Salieri",
+      "Wolfgang Amadeus Mozart",
+      "Joseph Haydn",
+      "Christoph Willibald Gluck"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mozart estrenó Las bodas de Fígaro en el Burgtheater de Viena con libreto de Lorenzo da Ponte."
+  },
+  {
+    "id": "cg-5943",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor austriaco escribió la Sinfonía n.º 94, llamada Sorpresa por el golpe rítmico de su segundo movimiento?",
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Franz Schubert",
+      "Joseph Haydn",
+      "Ludwig van Beethoven"
+    ],
+    "correctIndex": 2,
+    "explanation": "Haydn compuso la Sinfonía n.º 94 en 1791 durante su estancia en Londres y el golpe súbito le dio su apodo."
+  },
+  {
+    "id": "cg-5944",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor italiano escribió La traviata, ópera basada en La dama de las camelias de Alexandre Dumas hijo?",
+    "options": [
+      "Giacomo Puccini",
+      "Gaetano Donizetti",
+      "Vincenzo Bellini",
+      "Giuseppe Verdi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Verdi estrenó La traviata en Venecia en 1853 con libreto de Francesco Maria Piave."
+  },
+  {
+    "id": "cg-5945",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué compositor franco-flamenco del Renacimiento escribió la misa L’homme armé sexti toni?",
+    "options": [
+      "Josquin des Prez",
+      "Guillaume Dufay",
+      "Johannes Ockeghem",
+      "Orlando di Lasso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Josquin des Prez, activo entre Borgoña e Italia, es una de las cumbres de la polifonía renacentista."
+  },
+  {
+    "id": "cg-5946",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué compositor veneciano escribió el ciclo de conciertos Las cuatro estaciones?",
+    "options": [
+      "Arcangelo Corelli",
+      "Antonio Vivaldi",
+      "Tomaso Albinoni",
+      "Giuseppe Tartini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vivaldi publicó Las cuatro estaciones en Ámsterdam hacia 1725 como parte de Il cimento dell’armonia."
+  },
+  {
+    "id": "cg-5947",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué compositor alemán del Barroco escribió los seis Conciertos de Brandeburgo?",
+    "options": [
+      "Georg Friedrich Händel",
+      "Georg Philipp Telemann",
+      "Johann Sebastian Bach",
+      "Dietrich Buxtehude"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bach reunió los Conciertos de Brandeburgo hacia 1721 y los dedicó al margrave Christian Ludwig."
+  },
+  {
+    "id": "cg-5948",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor alemán escribió la ópera Tristán e Isolda, estrenada en Múnich en 1865?",
+    "options": [
+      "Carl Maria von Weber",
+      "Richard Strauss",
+      "Engelbert Humperdinck",
+      "Richard Wagner"
+    ],
+    "correctIndex": 3,
+    "explanation": "Wagner llevó al límite la armonía tonal en Tristán e Isolda, obra clave del romanticismo tardío."
+  },
+  {
+    "id": "cg-5949",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor ruso escribió el ballet Romeo y Julieta, estrenado en 1938?",
+    "options": [
+      "Serguéi Prokófiev",
+      "Ígor Stravinski",
+      "Dmitri Shostakóvich",
+      "Aram Jachaturián"
+    ],
+    "correctIndex": 0,
+    "explanation": "Prokófiev compuso Romeo y Julieta entre 1935 y 1936 y se estrenó en Brno en 1938."
+  },
+  {
+    "id": "cg-5950",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué compositor español del Renacimiento escribió la misa O magnum mysterium?",
+    "options": [
+      "Cristóbal de Morales",
+      "Tomás Luis de Victoria",
+      "Francisco Guerrero",
+      "Alonso Lobo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Victoria publicó la misa en Roma en 1592 y es el principal representante de la escuela polifónica española."
+  },
+  {
+    "id": "cg-5951",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué constructor italiano diseñó a comienzos del siglo XVIII un clave con martillos, antecedente directo del piano?",
+    "options": [
+      "Antonio Stradivari",
+      "Giuseppe Guarneri",
+      "Bartolomeo Cristofori",
+      "Nicolò Amati"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cristofori, radicado en Florencia, construyó hacia 1700 el arpicembalo con martillos que dio origen al piano."
+  },
+  {
+    "id": "cg-5952",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Cuántas cuerdas tiene un violín moderno estándar?",
+    "options": [
+      "Tres",
+      "Cinco",
+      "Seis",
+      "Cuatro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El violín tiene cuatro cuerdas afinadas por quintas: sol, re, la y mi."
+  },
+  {
+    "id": "cg-5953",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor húngaro escribió la colección pianística Mikrokosmos y tres conciertos para piano?",
+    "options": [
+      "Béla Bartók",
+      "Franz Liszt",
+      "Zoltán Kodály",
+      "György Ligeti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bartók reunió 153 piezas progresivas en Mikrokosmos y desarrolló un lenguaje basado en la música popular húngara."
+  },
+  {
+    "id": "cg-5954",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor checo escribió la Sinfonía n.º 9, llamada Del Nuevo Mundo, en 1893?",
+    "options": [
+      "Bedřich Smetana",
+      "Antonín Dvořák",
+      "Leoš Janáček",
+      "Bohuslav Martinů"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dvořák compuso la obra durante su estancia en Estados Unidos y se inspiró en melodías afroamericanas y nativas."
+  },
+  {
+    "id": "cg-5955",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué compositor inglés del Barroco escribió la ópera Dido y Eneas?",
+    "options": [
+      "John Blow",
+      "George Frideric Handel",
+      "Henry Purcell",
+      "Thomas Arne"
+    ],
+    "correctIndex": 2,
+    "explanation": "Purcell compuso Dido y Eneas hacia 1689 para un colegio de niñas en Chelsea."
+  },
+  {
+    "id": "cg-5956",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento de cuerda frotada, de registro grave, se toca de pie o sobre un taburete en la orquesta?",
+    "options": [
+      "El violonchelo",
+      "La viola",
+      "El violín",
+      "El contrabajo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El contrabajo es el instrumento de cuerda frotada de registro más grave de la orquesta sinfónica."
+  },
+  {
+    "id": "cg-5957",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué inventor belga patentó el saxofón en 1846?",
+    "options": [
+      "Adolphe Sax",
+      "Theobald Boehm",
+      "Heinrich Stölzel",
+      "François Tourte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Adolphe Sax registró la patente del saxofón en París en 1846 y lo introdujo en bandas militares."
+  },
+  {
+    "id": "cg-5958",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor finlandés escribió el poema sinfónico Finlandia en 1899?",
+    "options": [
+      "Edvard Grieg",
+      "Jean Sibelius",
+      "Carl Nielsen",
+      "Wilhelm Stenhammar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Finlandia se estrenó como protesta cultural contra la rusificación del Gran Ducado de Finlandia."
+  },
+  {
+    "id": "cg-5959",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor francés escribió la ópera Pelléas et Mélisande, estrenada en 1902?",
+    "options": [
+      "Maurice Ravel",
+      "Gabriel Fauré",
+      "Claude Debussy",
+      "Paul Dukas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Debussy basó su única ópera completa en el drama simbolista de Maurice Maeterlinck."
+  },
+  {
+    "id": "cg-5960",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué compositor italiano estrenó en Mantua en 1607 la ópera L’Orfeo?",
+    "options": [
+      "Giulio Caccini",
+      "Jacopo Peri",
+      "Francesco Cavalli",
+      "Claudio Monteverdi"
+    ],
+    "correctIndex": 3,
+    "explanation": "L’Orfeo de Monteverdi es una de las primeras óperas plenamente conservadas y consolidó el género."
+  },
+  {
+    "id": "cg-5961",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿A qué familia de instrumentos pertenece la trompeta en una orquesta sinfónica?",
+    "options": [
+      "Viento-metal",
+      "Viento-madera",
+      "Percusión",
+      "Cuerda pulsada"
+    ],
+    "correctIndex": 0,
+    "explanation": "La trompeta es un instrumento de viento-metal que produce el sonido con la vibración de los labios."
+  },
+  {
+    "id": "cg-5962",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué par de tambores de mano, de origen indio, marca el ritmo en la música clásica del norte de la India?",
+    "options": [
+      "El djembe",
+      "La tabla",
+      "El taiko",
+      "El bongó"
+    ],
+    "correctIndex": 1,
+    "explanation": "La tabla es un par de tambores afinados que acompaña gran parte de la música clásica del norte de la India."
+  },
+  {
+    "id": "cg-5963",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor italiano escribió la ópera Norma, que contiene el aria Casta diva?",
+    "options": [
+      "Giuseppe Verdi",
+      "Gaetano Donizetti",
+      "Vincenzo Bellini",
+      "Gioachino Rossini"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bellini estrenó Norma en La Scala en 1831 y el aria Casta diva se volvió célebre."
+  },
+  {
+    "id": "cg-5964",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor polaco escribió los 24 Preludios opus 28, uno en cada tonalidad?",
+    "options": [
+      "Franz Liszt",
+      "Johannes Brahms",
+      "Robert Schumann",
+      "Frédéric Chopin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chopin completó los 24 Preludios en 1839 y recorren las doce tonalidades mayores y menores."
+  },
+  {
+    "id": "cg-5965",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué compositor alemán nacionalizado británico escribió la ópera Alcina en 1735?",
+    "options": [
+      "Georg Friedrich Händel",
+      "Johann Adolf Hasse",
+      "Christoph Willibald Gluck",
+      "Niccolò Porpora"
+    ],
+    "correctIndex": 0,
+    "explanation": "Händel estrenó Alcina en Covent Garden con un libreto basado en el Orlando furioso de Ariosto."
+  },
+  {
+    "id": "cg-5966",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento andino de viento agrupa varias filas de tubos de caña de distintos largos?",
+    "options": [
+      "La quena",
+      "La zampoña",
+      "El charango",
+      "La tarka"
+    ],
+    "correctIndex": 1,
+    "explanation": "La zampoña o siku es una flauta de pan andina formada por tubos de caña cerrados por un extremo."
+  },
+  {
+    "id": "cg-5967",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento japonés de tres cuerdas se toca con el plectro llamado bachi?",
+    "options": [
+      "El koto",
+      "El biwa",
+      "El shamisen",
+      "El shakuhachi"
+    ],
+    "correctIndex": 2,
+    "explanation": "El shamisen es un laúd japonés de tres cuerdas que se interpreta con un gran plectro de madera o marfil."
+  },
+  {
+    "id": "cg-5968",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor austriaco escribió el ciclo de canciones Viaje de invierno sobre poemas de Wilhelm Müller?",
+    "options": [
+      "Robert Schumann",
+      "Hugo Wolf",
+      "Gustav Mahler",
+      "Franz Schubert"
+    ],
+    "correctIndex": 3,
+    "explanation": "Schubert compuso Winterreise en 1827 y es uno de los ciclos de lieder más importantes del repertorio."
+  },
+  {
+    "id": "cg-5969",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor estadounidense escribió la ópera Porgy and Bess, estrenada en 1935?",
+    "options": [
+      "George Gershwin",
+      "Aaron Copland",
+      "Leonard Bernstein",
+      "Kurt Weill"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gershwin ambientó Porgy and Bess en Charleston y combinó ópera, jazz y espirituales afroamericanos."
+  },
+  {
+    "id": "cg-5970",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué compositor francés escribió la ópera-ballet Les Indes galantes en 1735?",
+    "options": [
+      "Jean-Baptiste Lully",
+      "Jean-Philippe Rameau",
+      "Marc-Antoine Charpentier",
+      "André Campra"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rameau estrenó Les Indes galantes en la Académie Royale de Musique con cuatro entrées exóticas."
+  },
+  {
+    "id": "cg-5971",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento de viento con bolsa es un símbolo musical tradicional de Escocia?",
+    "options": [
+      "El acordeón",
+      "El arpa",
+      "La gaita",
+      "El violín"
+    ],
+    "correctIndex": 2,
+    "explanation": "La gaita escocesa o Great Highland Bagpipe es el instrumento más asociado a la música tradicional de Escocia."
+  },
+  {
+    "id": "cg-5972",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento mexicano de cuerda, de gran cuerpo abombado, da la base grave a los mariachis?",
+    "options": [
+      "La vihuela",
+      "La jarana",
+      "El requinto",
+      "El guitarrón"
+    ],
+    "correctIndex": 3,
+    "explanation": "El guitarrón mexicano es un instrumento de cuerda grande y profundo que sustituye al contrabajo en el mariachi."
+  },
+  {
+    "id": "cg-5973",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor estadounidense escribió Appalachian Spring para la bailarina Martha Graham en 1944?",
+    "options": [
+      "Aaron Copland",
+      "Samuel Barber",
+      "Leonard Bernstein",
+      "Elliott Carter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Copland recibió el Premio Pulitzer por Appalachian Spring, escrita para un ballet de Martha Graham."
+  },
+  {
+    "id": "cg-5974",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor francés escribió la Sinfonía fantástica, estrenada en París en 1830?",
+    "options": [
+      "Charles Gounod",
+      "Hector Berlioz",
+      "Camille Saint-Saëns",
+      "Georges Bizet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Berlioz narró una historia autobiográfica en cinco movimientos y amplió la orquesta con nuevos timbres."
+  },
+  {
+    "id": "cg-5975",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué compositor alemán escribió Fidelio, su única ópera?",
+    "options": [
+      "Carl Maria von Weber",
+      "Johannes Brahms",
+      "Ludwig van Beethoven",
+      "Robert Schumann"
+    ],
+    "correctIndex": 2,
+    "explanation": "Beethoven revisó Fidelio varias veces entre 1805 y 1814 y la ambientó en una prisión política."
+  },
+  {
+    "id": "cg-5976",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento de fuelle, inventado en Alemania, es central en el tango rioplatense?",
+    "options": [
+      "El acordeón",
+      "La concertina",
+      "El armonio",
+      "El bandoneón"
+    ],
+    "correctIndex": 3,
+    "explanation": "El bandoneón, de origen alemán, llegó al Río de la Plata y se convirtió en la voz característica del tango."
+  },
+  {
+    "id": "cg-5977",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento de percusión de madera, formado por dos pares, acompaña la jota y el flamenco en España?",
+    "options": [
+      "Las castañuelas",
+      "Las claves",
+      "Los crótalos",
+      "Las sonajas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las castañuelas o palillos son dos pares de discos de madera que marcan el ritmo en danzas españolas."
+  },
+  {
+    "id": "cg-5978",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor ruso escribió el poema sinfónico Una noche en el Monte Pelado?",
+    "options": [
+      "Nikolái Rimski-Kórsakov",
+      "Modest Musorgski",
+      "Aleksandr Borodín",
+      "Piotr Chaikovski"
+    ],
+    "correctIndex": 1,
+    "explanation": "Musorgski compuso la obra en 1867 y describió un aquelarre nocturno en la montaña ucraniana."
+  },
+  {
+    "id": "cg-5979",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor español escribió el Concierto de Aranjuez para guitarra y orquesta en 1939?",
+    "options": [
+      "Manuel de Falla",
+      "Isaac Albéniz",
+      "Joaquín Rodrigo",
+      "Enrique Granados"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rodrigo compuso el Concierto de Aranjuez en París y se estrenó en Barcelona en 1940."
+  },
+  {
+    "id": "cg-5980",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué compositor ruso escribió la ópera Borís Godunov, revisada por Rimski-Kórsakov?",
+    "options": [
+      "Aleksandr Borodín",
+      "Piotr Chaikovski",
+      "Nikolái Rimski-Kórsakov",
+      "Modest Musorgski"
+    ],
+    "correctIndex": 3,
+    "explanation": "Musorgski adaptó el drama de Pushkin y la versión revisada de Rimski-Kórsakov se impuso en el siglo XX."
+  },
+  {
+    "id": "cg-5981",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué compositor francés escribió el Bolero, estrenado en la Ópera de París en 1928?",
+    "options": [
+      "Maurice Ravel",
+      "Claude Debussy",
+      "Erik Satie",
+      "Gabriel Fauré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ravel compuso el Bolero en 1928 y lo estrenó con la bailarina Ida Rubinstein en la Ópera de París."
+  },
+  {
+    "id": "cg-5982",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué compositor ruso estrenó en París en 1913 La consagración de la primavera, que causó un escándalo?",
+    "options": [
+      "Serguéi Prokófiev",
+      "Ígor Stravinski",
+      "Serguéi Rajmáninov",
+      "Dmitri Shostakóvich"
+    ],
+    "correctIndex": 1,
+    "explanation": "El estreno de La consagración de la primavera por los Ballets Rusos en 1913 provocó un motín en el teatro."
+  },
+  {
+    "id": "cg-5983",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor español escribió la suite para piano Iberia, formada por doce impresiones?",
+    "options": [
+      "Enrique Granados",
+      "Manuel de Falla",
+      "Isaac Albéniz",
+      "Joaquín Turina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Albéniz compuso Iberia entre 1905 y 1909 y evocó distintas regiones y danzas españolas."
+  },
+  {
+    "id": "cg-5984",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor brasileño escribió las nueve Bachianas brasileiras?",
+    "options": [
+      "Camargo Guarnieri",
+      "Cláudio Santoro",
+      "Francisco Mignone",
+      "Heitor Villa-Lobos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Villa-Lobos fusionó el contrapunto de Bach con ritmos y melodías del folclore brasileño en las Bachianas."
+  },
+  {
+    "id": "cg-5985",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué compositor checo escribió la ópera Rusalka, que incluye la Canción a la luna?",
+    "options": [
+      "Antonín Dvořák",
+      "Bedřich Smetana",
+      "Leoš Janáček",
+      "Josef Suk"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dvořák estrenó Rusalka en Praga en 1901 con un libreto basado en el cuento de La sirenita."
+  },
+  {
+    "id": "cg-5986",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué compositor estadounidense combinó jazz y orquesta en Rhapsody in Blue, de 1924?",
+    "options": [
+      "Aaron Copland",
+      "George Gershwin",
+      "Leonard Bernstein",
+      "Duke Ellington"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gershwin estrenó Rhapsody in Blue en el Aeolian Hall de Nueva York, con Paul Whiteman al frente de la orquesta."
+  },
+  {
+    "id": "cg-5987",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué compositor estadounidense escribió la banda sonora de Star Wars en 1977?",
+    "options": [
+      "Hans Zimmer",
+      "Jerry Goldsmith",
+      "John Williams",
+      "Elmer Bernstein"
+    ],
+    "correctIndex": 2,
+    "explanation": "John Williams ganó el Óscar por la música de Star Wars, grabada por la London Symphony Orchestra."
+  },
+  {
+    "id": "cg-5988",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor mexicano escribió el Huapango, estrenado en 1941?",
+    "options": [
+      "Carlos Chávez",
+      "Silvestre Revueltas",
+      "Manuel Ponce",
+      "José Pablo Moncayo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Moncayo basó el Huapango en sones veracruzanos y se ha convertido en una pieza emblemática de México."
+  },
+  {
+    "id": "cg-5989",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor argentino escribió la ópera Bomarzo, estrenada en Washington en 1967?",
+    "options": [
+      "Alberto Ginastera",
+      "Astor Piazzolla",
+      "Carlos Guastavino",
+      "Juan Carlos Tolosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ginastera adaptó la novela de Manuel Mujica Láinez sobre el duque de Bomarzo y sufrió la censura argentina."
+  },
+  {
+    "id": "cg-5990",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué compositor húngaro escribió la ópera El castillo de Barbazul, estrenada en 1918?",
+    "options": [
+      "Zoltán Kodály",
+      "Béla Bartók",
+      "Franz Liszt",
+      "Ernő Dohnányi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bartók escribió esta ópera de un solo acto con libreto de Béla Balázs y atmósfera simbolista."
+  },
+  {
+    "id": "cg-5991",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué compositor italiano escribió la música de El padrino, filme de 1972?",
+    "options": [
+      "Ennio Morricone",
+      "Piero Piccioni",
+      "Nino Rota",
+      "Armando Trovajoli"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nino Rota firmó la partitura de El padrino, incluido el tema de amor que se hizo célebre."
+  },
+  {
+    "id": "cg-5992",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué trompetista estadounidense, apodado Satchmo, fue una figura central del jazz de Nueva Orleans?",
+    "options": [
+      "Duke Ellington",
+      "Charlie Parker",
+      "Miles Davis",
+      "Louis Armstrong"
+    ],
+    "correctIndex": 3,
+    "explanation": "Louis Armstrong nació en Nueva Orleans en 1901 y transformó la trompeta y el canto jazzístico."
+  },
+  {
+    "id": "cg-5993",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor húngaro escribió el poema sinfónico Los preludios, estrenado en 1854?",
+    "options": [
+      "Franz Liszt",
+      "Béla Bartók",
+      "Zoltán Kodály",
+      "Franz Schmidt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Liszt inventó el poema sinfónico y estrenó Les Préludes en Weimar bajo su dirección."
+  },
+  {
+    "id": "cg-5994",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor francés escribió la suite El carnaval de los animales en 1886?",
+    "options": [
+      "Édouard Lalo",
+      "Camille Saint-Saëns",
+      "Paul Dukas",
+      "Emmanuel Chabrier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Saint-Saëns describió catorce animales con distintos instrumentos y prohibió publicar la obra en vida."
+  },
+  {
+    "id": "cg-5995",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué compositor ruso escribió la Sinfonía n.º 7, llamada Leningrado, estrenada en 1942?",
+    "options": [
+      "Serguéi Prokófiev",
+      "Aram Jachaturián",
+      "Dmitri Shostakóvich",
+      "Nikolái Miaskovski"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shostakóvich compuso la Leningrado durante el sitio de la ciudad y se estrenó en Kuibyshev en 1942."
+  },
+  {
+    "id": "cg-5996",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué músico británico cofundó The Beatles y publicó Imagine en 1971?",
+    "options": [
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr",
+      "John Lennon"
+    ],
+    "correctIndex": 3,
+    "explanation": "John Lennon escribió Imagine tras separarse de The Beatles y la publicó como sencillo en 1971."
+  },
+  {
+    "id": "cg-5997",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué banda británica grabó el álbum Abbey Road, editado en 1969?",
+    "options": [
+      "The Beatles",
+      "The Rolling Stones",
+      "The Who",
+      "Pink Floyd"
+    ],
+    "correctIndex": 0,
+    "explanation": "Abbey Road fue el último álbum grabado por The Beatles y se publicó en septiembre de 1969."
+  },
+  {
+    "id": "cg-5998",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor austriaco escribió la ópera Wozzeck, estrenada en Berlín en 1925?",
+    "options": [
+      "Arnold Schönberg",
+      "Alban Berg",
+      "Anton Webern",
+      "Erich Wolfgang Korngold"
+    ],
+    "correctIndex": 1,
+    "explanation": "Berg adaptó el drama de Georg Büchner con técnicas atonales y formas musicales cerradas."
+  },
+  {
+    "id": "cg-5999",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor alemán escribió la ópera Electra, estrenada en Dresde en 1909?",
+    "options": [
+      "Richard Wagner",
+      "Engelbert Humperdinck",
+      "Richard Strauss",
+      "Hans Pfitzner"
+    ],
+    "correctIndex": 2,
+    "explanation": "Strauss trabajó con el poeta Hugo von Hofmannsthal en Electra, una tragedia de gran intensidad orquestal."
+  },
+  {
+    "id": "cg-6000",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué compositor estadounidense creó 4’33’’, una pieza en la que el intérprete no toca ninguna nota?",
+    "options": [
+      "Steve Reich",
+      "Philip Glass",
+      "Terry Riley",
+      "John Cage"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cage estrenó 4’33’’ en 1952 y propuso escuchar el silencio y los sonidos ambientales como música."
+  },
+  {
+    "id": "cg-6001",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué cantante estadounidense, llamada la Reina del Soul, grabó Respect en 1967?",
+    "options": [
+      "Aretha Franklin",
+      "Tina Turner",
+      "Diana Ross",
+      "Etta James"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aretha Franklin convirtió Respect en un himno y ganó dos premios Grammy por esa grabación."
+  },
+  {
+    "id": "cg-6002",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué cantante estadounidense, apodado el Rey del Rock and Roll, grabó Hound Dog en 1956?",
+    "options": [
+      "Chuck Berry",
+      "Elvis Presley",
+      "Little Richard",
+      "Buddy Holly"
+    ],
+    "correctIndex": 1,
+    "explanation": "Elvis Presley grabó Hound Dog en 1956 y la convirtió en uno de los mayores éxitos del rock and roll."
+  },
+  {
+    "id": "cg-6003",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor británico escribió la ópera Peter Grimes, estrenada en 1945?",
+    "options": [
+      "Edward Elgar",
+      "Ralph Vaughan Williams",
+      "Benjamin Britten",
+      "Gustav Holst"
+    ],
+    "correctIndex": 2,
+    "explanation": "Britten estrenó Peter Grimes en Sadler’s Wells y la convirtió en la ópera inglesa más importante del siglo XX."
+  },
+  {
+    "id": "cg-6004",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor checo escribió la ópera La novia vendida, estrenada en 1866?",
+    "options": [
+      "Antonín Dvořák",
+      "Leoš Janáček",
+      "Josef Suk",
+      "Bedřich Smetana"
+    ],
+    "correctIndex": 3,
+    "explanation": "Smetana compuso La novia vendida como comedia musical ambientada en una aldea checa."
+  },
+  {
+    "id": "cg-6005",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué compositor francés escribió el Cuarteto para el fin de los tiempos en un campo de prisioneros en 1941?",
+    "options": [
+      "Olivier Messiaen",
+      "Pierre Boulez",
+      "Darius Milhaud",
+      "Francis Poulenc"
+    ],
+    "correctIndex": 0,
+    "explanation": "Messiaen compuso la obra en el Stalag VIII-A y la estrenó allí con otros músicos prisioneros."
+  },
+  {
+    "id": "cg-6006",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué álbum de Michael Jackson, publicado en 1982, incluye Billie Jean y Thriller?",
+    "options": [
+      "Bad",
+      "Thriller",
+      "Off the Wall",
+      "Dangerous"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thriller se publicó en noviembre de 1982 y se convirtió en el álbum más vendido de la historia."
+  },
+  {
+    "id": "cg-6007",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué banda británica liderada por Freddie Mercury publicó Bohemian Rhapsody en 1975?",
+    "options": [
+      "Led Zeppelin",
+      "Deep Purple",
+      "Queen",
+      "The Doors"
+    ],
+    "correctIndex": 2,
+    "explanation": "Queen editó Bohemian Rhapsody en 1975 dentro del álbum A Night at the Opera."
+  },
+  {
+    "id": "cg-6008",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor ruso escribió el Capricho español para orquesta en 1887?",
+    "options": [
+      "Modest Musorgski",
+      "Aleksandr Borodín",
+      "Mili Balákirev",
+      "Nikolái Rimski-Kórsakov"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rimski-Kórsakov orquestó el Capricho español a partir de melodías populares que había recogido."
+  },
+  {
+    "id": "cg-6009",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor italiano escribió la ópera Lucía de Lammermoor, estrenada en Nápoles en 1835?",
+    "options": [
+      "Gaetano Donizetti",
+      "Vincenzo Bellini",
+      "Gioachino Rossini",
+      "Giuseppe Verdi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Donizetti adaptó la novela de Walter Scott y creó una de las escenas de locura más famosas de la ópera."
+  },
+  {
+    "id": "cg-6010",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué compositor polaco escribió Trenodia a las víctimas de Hiroshima en 1960?",
+    "options": [
+      "Witold Lutosławski",
+      "Krzysztof Penderecki",
+      "Henryk Górecki",
+      "Karol Szymanowski"
+    ],
+    "correctIndex": 1,
+    "explanation": "Penderecki empleó clusters y efectos de cuerdas que renovaron la música orquestal de posguerra."
+  },
+  {
+    "id": "cg-6011",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué son jarocho veracruzano, grabado por Ritchie Valens en 1958, es uno de los temas mexicanos más conocidos?",
+    "options": [
+      "Cielito lindo",
+      "La cucaracha",
+      "La bamba",
+      "Guantanamera"
+    ],
+    "correctIndex": 2,
+    "explanation": "La bamba es un son jarocho de Veracruz que Ritchie Valens popularizó en Estados Unidos en 1958."
+  },
+  {
+    "id": "cg-6012",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué compositor argentino renovó el tango con obras como Libertango, de 1974?",
+    "options": [
+      "Carlos Gardel",
+      "Aníbal Troilo",
+      "Osvaldo Pugliese",
+      "Astor Piazzolla"
+    ],
+    "correctIndex": 3,
+    "explanation": "Piazzolla desarrolló el tango nuevo e integró elementos de jazz y música de concierto en obras como Libertango."
+  },
+  {
+    "id": "cg-6013",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor francés escribió la ópera Fausto, estrenada en París en 1859?",
+    "options": [
+      "Charles Gounod",
+      "Hector Berlioz",
+      "Jules Massenet",
+      "Georges Bizet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gounod basó su ópera en el Fausto de Goethe y el aria Salut, demeure chaste et pure se volvió célebre."
+  },
+  {
+    "id": "cg-6014",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué compositor estonio escribió Fratres y Cantus in Memoriam Benjamin Britten?",
+    "options": [
+      "Einojuhani Rautavaara",
+      "Arvo Pärt",
+      "Krzysztof Penderecki",
+      "Henryk Górecki"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pärt desarrolló el estilo tintinnabuli y es uno de los compositores contemporáneos más interpretados."
+  },
+  {
+    "id": "cg-6015",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué maestro de ballet francés publicó en 1725 Le Maître à danser, tratado sobre la danza clásica?",
+    "options": [
+      "Jean-Georges Noverre",
+      "Raoul-Auger Feuillet",
+      "Pierre Rameau",
+      "Charles-Louis Didelot"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rameau sistematizó posturas y pasos y su tratado es una fuente clave para la danza barroca."
+  },
+  {
+    "id": "cg-6016",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué arte andaluz reúne cante, toque de guitarra y baile con zapateo, y es Patrimonio de la Humanidad?",
+    "options": [
+      "Las sevillanas",
+      "La sardana",
+      "La jota",
+      "El flamenco"
+    ],
+    "correctIndex": 3,
+    "explanation": "La UNESCO inscribió el flamenco en 2010 en la lista representativa del patrimonio cultural inmaterial."
+  },
+  {
+    "id": "cg-6017",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué baile de pareja, en compás de dos por cuatro, nació en los arrabales de Buenos Aires a fines del siglo XIX?",
+    "options": [
+      "El tango",
+      "La milonga",
+      "La cumbia",
+      "La chacarera"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tango surgió en los suburbios de Buenos Aires y Montevideo a partir de la mezcla de tradiciones migrantes y afroamericanas."
+  },
+  {
+    "id": "cg-6018",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué bailarina rusa del Ballet Mariinski se hizo célebre por su interpretación de La muerte del cisne?",
+    "options": [
+      "Tamara Karsávina",
+      "Anna Pávlova",
+      "Maya Plisétskaya",
+      "Galina Ulánova"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pávlova estrenó La muerte del cisne con música de Saint-Saëns y la bailó en sus giras mundiales."
+  },
+  {
+    "id": "cg-6019",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué empresario ruso fundó los Ballets Rusos en París en 1909?",
+    "options": [
+      "Marius Petipa",
+      "Mijaíl Fokin",
+      "Serguéi Diáguilev",
+      "Vaslav Nijinski"
+    ],
+    "correctIndex": 2,
+    "explanation": "Diáguilev reunió a coreógrafos, bailarines y artistas plásticos en una compañía que renovó el ballet europeo."
+  },
+  {
+    "id": "cg-6020",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué coreógrafo ruso creó La bella durmiente con música de Chaikovski en 1890?",
+    "options": [
+      "Lev Ivánov",
+      "Mijaíl Fokin",
+      "Aleksandr Gorski",
+      "Marius Petipa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Petipa estrenó La bella durmiente en el Teatro Mariinski y fijó el modelo del ballet clásico académico."
+  },
+  {
+    "id": "cg-6021",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué género y danza brasileña de raíces africanas es la gran protagonista del carnaval de Río de Janeiro?",
+    "options": [
+      "La samba",
+      "La bossa nova",
+      "El forró",
+      "El frevo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La samba se desarrolló en Río de Janeiro a comienzos del siglo XX y estructura el desfile de las escuelas de samba."
+  },
+  {
+    "id": "cg-6022",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué danza hawaiana tradicional se acompaña de cánticos y movimientos expresivos de las manos?",
+    "options": [
+      "La haka",
+      "La hula",
+      "La poi",
+      "La tamure"
+    ],
+    "correctIndex": 1,
+    "explanation": "La hula es una danza hawaiana que transmite relatos mediante gestos de brazos y manos acompañados de canto."
+  },
+  {
+    "id": "cg-6023",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué bailarín soviético desertó en 1974 y dirigió después el American Ballet Theatre?",
+    "options": [
+      "Rudolf Nuréyev",
+      "Vaslav Nijinski",
+      "Mijaíl Barýshnikov",
+      "Mijaíl Fokin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Barýshnikov abandonó la Unión Soviética en 1974 y se convirtió en director del American Ballet Theatre en 1980."
+  },
+  {
+    "id": "cg-6024",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué coreógrafa estadounidense creó la técnica de danza moderna basada en la contracción y la liberación?",
+    "options": [
+      "Isadora Duncan",
+      "Twyla Tharp",
+      "Agnes de Mille",
+      "Martha Graham"
+    ],
+    "correctIndex": 3,
+    "explanation": "Martha Graham desarrolló un vocabulario corporal basado en la respiración y fundó su compañía en 1926."
+  },
+  {
+    "id": "cg-6025",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué coreógrafo soviético montó Romeo y Julieta de Prokófiev en el Teatro Kírov en 1940?",
+    "options": [
+      "Leonid Lavrovski",
+      "Yuri Grigoróvich",
+      "Rostislav Zajárov",
+      "Kasian Goleizovski"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lavrovski estrenó su versión en Leningrado y la obra se convirtió en un clásico del ballet soviético."
+  },
+  {
+    "id": "cg-6026",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué baile de salón europeo, en compás de tres por cuatro, se popularizó en Viena en el siglo XIX?",
+    "options": [
+      "La polca",
+      "El vals",
+      "La mazurca",
+      "El foxtrot"
+    ],
+    "correctIndex": 1,
+    "explanation": "El vals vienés se consolidó en los salones del siglo XIX con obras de Johann Strauss hijo."
+  },
+  {
+    "id": "cg-6027",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué ballet de Chaikovski, estrenado en 1877, narra la historia de una princesa transformada en cisne?",
+    "options": [
+      "La bella durmiente",
+      "El cascanueces",
+      "El lago de los cisnes",
+      "Giselle"
+    ],
+    "correctIndex": 2,
+    "explanation": "El lago de los cisnes se estrenó en el Teatro Bolshói en 1877 con música de Piotr Chaikovski."
+  },
+  {
+    "id": "cg-6028",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué coreógrafo estadounidense creó las coreografías de West Side Story en Broadway en 1957?",
+    "options": [
+      "Bob Fosse",
+      "Gene Kelly",
+      "George Balanchine",
+      "Jerome Robbins"
+    ],
+    "correctIndex": 3,
+    "explanation": "Robbins combinó ballet, jazz y danza latina en West Side Story junto a Leonard Bernstein y Stephen Sondheim."
+  },
+  {
+    "id": "cg-6029",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué palo del flamenco, de compás de doce tiempos, se asocia a las fiestas y juergas gitanas de Andalucía?",
+    "options": [
+      "La bulería",
+      "La seguiriya",
+      "La soleá",
+      "La petenera"
+    ],
+    "correctIndex": 0,
+    "explanation": "La bulería es un palo festero de Jerez con compás de doce tiempos y gran libertad rítmica."
+  },
+  {
+    "id": "cg-6030",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué bailarina y coreógrafa alemana fundó una escuela de danza expresionista en Dresde en 1920?",
+    "options": [
+      "Pina Bausch",
+      "Mary Wigman",
+      "Gret Palucca",
+      "Harald Kreutzberg"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wigman desarrolló la Ausdruckstanz y formó a una generación de bailarines en su escuela de Dresde."
+  },
+  {
+    "id": "cg-6031",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué ballet navideño de Chaikovski incluye el Vals de las flores y el Hada de Azúcar?",
+    "options": [
+      "El lago de los cisnes",
+      "Coppélia",
+      "El cascanueces",
+      "La sílfide"
+    ],
+    "correctIndex": 2,
+    "explanation": "El cascanueces se estrenó en San Petersburgo en 1892 y se ha convertido en un clásico navideño."
+  },
+  {
+    "id": "cg-6032",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la bailarina que interpreta los papeles principales en una compañía de ballet clásico?",
+    "options": [
+      "Coreógrafa",
+      "Maître de ballet",
+      "Regidora",
+      "Primera bailarina"
+    ],
+    "correctIndex": 3,
+    "explanation": "La primera bailarina o prima ballerina es la máxima categoría femenina dentro de una compañía de ballet."
+  },
+  {
+    "id": "cg-6033",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué danza clásica del norte de la India se caracteriza por giros rápidos y cascabeles en los tobillos?",
+    "options": [
+      "El kathak",
+      "El bharatanatyam",
+      "El odissi",
+      "El kuchipudi"
+    ],
+    "correctIndex": 0,
+    "explanation": "El kathak floreció en las cortes mogolas y utiliza el ghunghru, un conjunto de cascabeles."
+  },
+  {
+    "id": "cg-6034",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué danza balinesa, interpretada tradicionalmente por niñas, destaca por los movimientos de ojos y dedos?",
+    "options": [
+      "El kecak",
+      "El legong",
+      "El barong",
+      "El pendet"
+    ],
+    "correctIndex": 1,
+    "explanation": "El legong es una danza de corte balinesa con movimientos precisos y expresivos de manos y mirada."
+  },
+  {
+    "id": "cg-6035",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué coreógrafo estadounidense incorporó el azar y la independencia entre danza y música en sus obras?",
+    "options": [
+      "Alvin Ailey",
+      "Paul Taylor",
+      "Merce Cunningham",
+      "José Limón"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cunningham colaboró con John Cage y aplicó procedimientos aleatorios a la composición coreográfica."
+  },
+  {
+    "id": "cg-6036",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué danza clásica del sur de la India emplea mudras y complejos patrones rítmicos con los pies?",
+    "options": [
+      "El kathak",
+      "El odissi",
+      "El manipuri",
+      "El bharatanatyam"
+    ],
+    "correctIndex": 3,
+    "explanation": "El bharatanatyam proviene de Tamil Nadu y combina gestos codificados, música y percusión con los pies."
+  },
+  {
+    "id": "cg-6037",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué danza folclórica chilena, de pareja y con pañuelo, se baila en las fiestas patrias?",
+    "options": [
+      "La cueca",
+      "La chacarera",
+      "La marinera",
+      "La zamacueca"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cueca fue declarada danza nacional de Chile en 1979 y se baila con un pañuelo en la mano."
+  },
+  {
+    "id": "cg-6038",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué danza tailandesa clásica con máscaras representa episodios del Ramakien?",
+    "options": [
+      "El lakhon",
+      "El khon",
+      "El likay",
+      "El ramwong"
+    ],
+    "correctIndex": 1,
+    "explanation": "El khon es un teatro danzado con máscaras que escenifica el Ramakien, versión tailandesa del Ramayana."
+  },
+  {
+    "id": "cg-6039",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué danza folclórica ucraniana, acrobática y con saltos, se conoce como hopak?",
+    "options": [
+      "La kolomeika",
+      "El kazachok",
+      "El hopak",
+      "La polka"
+    ],
+    "correctIndex": 2,
+    "explanation": "El hopak surgió entre los cosacos y se caracteriza por saltos, giros y acrobacias masculinas."
+  },
+  {
+    "id": "cg-6040",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué teórico francés publicó en 1760 las Cartas sobre la danza y el ballet?",
+    "options": [
+      "Pierre Rameau",
+      "Thoinot Arbeau",
+      "Carlo Blasis",
+      "Jean-Georges Noverre"
+    ],
+    "correctIndex": 3,
+    "explanation": "Noverre defendió el ballet de acción y la expresividad dramática frente al virtuosismo decorativo."
+  },
+  {
+    "id": "cg-6041",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué baile caribeño de pareja, difundido en Nueva York en los años setenta, deriva del son cubano?",
+    "options": [
+      "La salsa",
+      "El merengue",
+      "La bachata",
+      "El reguetón"
+    ],
+    "correctIndex": 0,
+    "explanation": "La salsa se articuló en Nueva York a partir del son, el mambo y otras músicas caribeñas."
+  },
+  {
+    "id": "cg-6042",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué danza polaca de compás ternario, con acento en el segundo tiempo, toma su nombre de la región de Mazovia?",
+    "options": [
+      "La polonesa",
+      "La mazurca",
+      "La polca",
+      "El krakowiak"
+    ],
+    "correctIndex": 1,
+    "explanation": "La mazurca nació en Mazovia y se difundió por Europa, especialmente en los salones del siglo XIX."
+  },
+  {
+    "id": "cg-6043",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué danza peruana de pareja, con pañuelo y origen colonial, es considerada símbolo nacional?",
+    "options": [
+      "La cueca",
+      "El huayno",
+      "La marinera",
+      "La zamacueca"
+    ],
+    "correctIndex": 2,
+    "explanation": "La marinera se baila con pañuelo y coqueteo y tiene variantes en la costa, la sierra y la selva peruanas."
+  },
+  {
+    "id": "cg-6044",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué danza cubana de salón, en compás de dos por cuatro, antecedió a la salsa y debe su nombre a un baile francés?",
+    "options": [
+      "El mambo",
+      "El chachachá",
+      "La rumba",
+      "El danzón"
+    ],
+    "correctIndex": 3,
+    "explanation": "El danzón nació en Matanzas en 1879 y fue el baile nacional cubano durante buena parte del siglo XX."
+  },
+  {
+    "id": "cg-6045",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué danza clásica india, originaria de Odisha, se caracteriza por poses escultóricas y movimientos fluidos?",
+    "options": [
+      "El odissi",
+      "El kathak",
+      "El bharatanatyam",
+      "El mohiniyattam"
+    ],
+    "correctIndex": 0,
+    "explanation": "El odissi se inspira en las esculturas de los templos de Odisha y combina tribhangi y mudras."
+  },
+  {
+    "id": "cg-6046",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué director estadounidense dirigió E.T., el extraterrestre en 1982?",
+    "options": [
+      "George Lucas",
+      "Steven Spielberg",
+      "Robert Zemeckis",
+      "James Cameron"
+    ],
+    "correctIndex": 1,
+    "explanation": "Spielberg dirigió E.T. en 1982, con música de John Williams y producción de Universal."
+  },
+  {
+    "id": "cg-6047",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpretó a Jack Dawson en Titanic, de 1997?",
+    "options": [
+      "Brad Pitt",
+      "Johnny Depp",
+      "Leonardo DiCaprio",
+      "Matt Damon"
+    ],
+    "correctIndex": 2,
+    "explanation": "DiCaprio encarnó a Jack Dawson junto a Kate Winslet en el filme de James Cameron."
+  },
+  {
+    "id": "cg-6048",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director francés dirigió La regla del juego en 1939?",
+    "options": [
+      "Marcel Carné",
+      "René Clair",
+      "Jacques Tati",
+      "Jean Renoir"
+    ],
+    "correctIndex": 3,
+    "explanation": "La regla del juego, de Jean Renoir, retrata la alta sociedad francesa antes de la Segunda Guerra Mundial."
+  },
+  {
+    "id": "cg-6049",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director italiano dirigió Ladrón de bicicletas en 1948?",
+    "options": [
+      "Vittorio De Sica",
+      "Roberto Rossellini",
+      "Luchino Visconti",
+      "Cesare Zavattini"
+    ],
+    "correctIndex": 0,
+    "explanation": "De Sica adaptó la novela de Luigi Bartolini y rodó con actores no profesionales en las calles de Roma."
+  },
+  {
+    "id": "cg-6050",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué danza de corte javanesa, ejecutada lentamente por nueve mujeres, se llama bedhaya?",
+    "options": [
+      "La legong",
+      "La bedhaya",
+      "La serimpi",
+      "La pendet"
+    ],
+    "correctIndex": 1,
+    "explanation": "La bedhaya es una danza ritual de los palacios de Yogyakarta y Surakarta con movimientos muy contenidos."
+  },
+  {
+    "id": "cg-6051",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué filme de 1994, dirigido por Quentin Tarantino, entrelaza historias de gánsteres en Los Ángeles?",
+    "options": [
+      "Reservoir Dogs",
+      "Jackie Brown",
+      "Pulp Fiction",
+      "Kill Bill"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pulp Fiction ganó la Palma de Oro en Cannes y relanzó la carrera de John Travolta."
+  },
+  {
+    "id": "cg-6052",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué director británico dirigió 2001: Una odisea del espacio, de 1968?",
+    "options": [
+      "Ridley Scott",
+      "David Lean",
+      "Michael Powell",
+      "Stanley Kubrick"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kubrick adaptó el relato de Arthur C. Clarke y estrenó 2001 en 1968."
+  },
+  {
+    "id": "cg-6053",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director italiano dirigió 8½ en 1963?",
+    "options": [
+      "Federico Fellini",
+      "Michelangelo Antonioni",
+      "Pier Paolo Pasolini",
+      "Vittorio De Sica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fellini retrató la crisis creativa de un director de cine en 8½, con música de Nino Rota."
+  },
+  {
+    "id": "cg-6054",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director sueco dirigió El séptimo sello en 1957?",
+    "options": [
+      "Victor Sjöström",
+      "Ingmar Bergman",
+      "Mauritz Stiller",
+      "Bo Widerberg"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bergman situó El séptimo sello en la Suecia medieval y usó una partida de ajedrez con la muerte."
+  },
+  {
+    "id": "cg-6055",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué director estadounidense dirigió Sed de mal en 1958?",
+    "options": [
+      "John Huston",
+      "Nicholas Ray",
+      "Orson Welles",
+      "Robert Aldrich"
+    ],
+    "correctIndex": 2,
+    "explanation": "Welles protagonizó y dirigió Sed de mal, famosa por su plano secuencia inicial en la frontera."
+  },
+  {
+    "id": "cg-6056",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué director estadounidense dirigió El padrino, de 1972?",
+    "options": [
+      "Martin Scorsese",
+      "Brian De Palma",
+      "Sidney Lumet",
+      "Francis Ford Coppola"
+    ],
+    "correctIndex": 3,
+    "explanation": "Coppola dirigió El padrino a partir de la novela de Mario Puzo y ganó el Óscar a mejor película."
+  },
+  {
+    "id": "cg-6057",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué actriz protagonizó Desayuno con diamantes, de 1961?",
+    "options": [
+      "Audrey Hepburn",
+      "Marilyn Monroe",
+      "Grace Kelly",
+      "Katharine Hepburn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Audrey Hepburn interpretó a Holly Golightly en la adaptación de la novela de Truman Capote."
+  },
+  {
+    "id": "cg-6058",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director danés dirigió La pasión de Juana de Arco en 1928?",
+    "options": [
+      "Benjamin Christensen",
+      "Carl Theodor Dreyer",
+      "Erik Balling",
+      "Lars von Trier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dreyer filmó el proceso de Juana de Arco con primeros planos y decorados minimalistas."
+  },
+  {
+    "id": "cg-6059",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director alemán dirigió Metrópolis en 1927?",
+    "options": [
+      "Friedrich Wilhelm Murnau",
+      "Robert Wiene",
+      "Fritz Lang",
+      "Erich von Stroheim"
+    ],
+    "correctIndex": 2,
+    "explanation": "Metrópolis imaginó una ciudad dividida entre élites y obreros subterráneos y marcó la ciencia ficción visual."
+  },
+  {
+    "id": "cg-6060",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué director austriaco dirigió El gabinete del doctor Caligari en 1920?",
+    "options": [
+      "Fritz Lang",
+      "Friedrich Wilhelm Murnau",
+      "Paul Wegener",
+      "Robert Wiene"
+    ],
+    "correctIndex": 3,
+    "explanation": "El gabinete del doctor Caligari inauguró el expresionismo cinematográfico alemán con decorados pintados."
+  },
+  {
+    "id": "cg-6061",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué personaje del cine mudo, creado por Charles Chaplin, lleva bombín, bigote y bastón?",
+    "options": [
+      "Charlot",
+      "Buster Keaton",
+      "Harold Lloyd",
+      "Groucho Marx"
+    ],
+    "correctIndex": 0,
+    "explanation": "Charlot o The Tramp apareció en cortos de Chaplin desde 1914 y se volvió un icono del cine mudo."
+  },
+  {
+    "id": "cg-6062",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué largometraje animado de Disney, estrenado en 1937, adapta el cuento de Blancanieves de los hermanos Grimm?",
+    "options": [
+      "Pinocho",
+      "Blancanieves y los siete enanitos",
+      "Bambi",
+      "Cenicienta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Blancanieves y los siete enanitos fue el primer largometraje animado de Disney y se estrenó en 1937."
+  },
+  {
+    "id": "cg-6063",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director japonés dirigió Cuentos de Tokio en 1953?",
+    "options": [
+      "Kenji Mizoguchi",
+      "Akira Kurosawa",
+      "Yasujirō Ozu",
+      "Mikio Naruse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ozu retrató la vejez y la distancia generacional con su característico plano a la altura del tatami."
+  },
+  {
+    "id": "cg-6064",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director hongkonés dirigió Deseando amar en 2000?",
+    "options": [
+      "John Woo",
+      "Tsui Hark",
+      "Stanley Kwan",
+      "Wong Kar-wai"
+    ],
+    "correctIndex": 3,
+    "explanation": "Wong Kar-wai filmó Deseando amar con una fotografía de Christopher Doyle y un ritmo musical repetitivo."
+  },
+  {
+    "id": "cg-6065",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué director soviético desarrolló el montaje de atracciones y lo aplicó en Octubre en 1928?",
+    "options": [
+      "Serguéi Eisenstein",
+      "Vsévolod Pudovkin",
+      "Dziga Vértov",
+      "Aleksandr Dovzhenko"
+    ],
+    "correctIndex": 0,
+    "explanation": "Eisenstein defendió el montaje como choque de imágenes para producir ideas en el espectador."
+  },
+  {
+    "id": "cg-6066",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad estadounidense se entregan los premios Óscar desde 1929?",
+    "options": [
+      "Nueva York",
+      "Los Ángeles",
+      "Chicago",
+      "San Francisco"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Academia de Hollywood celebra sus premios en Los Ángeles desde la ceremonia inaugural de 1929."
+  },
+  {
+    "id": "cg-6067",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué festival de cine italiano, celebrado en el Lido, otorga el León de Oro?",
+    "options": [
+      "El Festival de Cannes",
+      "El Festival de Berlín",
+      "El Festival de Venecia",
+      "El Festival de San Sebastián"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Mostra de Venecia se celebra en el Lido y entrega el León de Oro desde 1949."
+  },
+  {
+    "id": "cg-6068",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director surcoreano dirigió Oldboy en 2003?",
+    "options": [
+      "Bong Joon-ho",
+      "Kim Ki-duk",
+      "Lee Chang-dong",
+      "Park Chan-wook"
+    ],
+    "correctIndex": 3,
+    "explanation": "Oldboy forma parte de la trilogía de la venganza de Park Chan-wook y ganó el Gran Premio de Cannes."
+  },
+  {
+    "id": "cg-6069",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué actor japonés trabajó con Akira Kurosawa en Rashomon y Los siete samuráis?",
+    "options": [
+      "Toshirō Mifune",
+      "Takashi Shimura",
+      "Tatsuya Nakadai",
+      "Ken Watanabe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mifune fue el rostro habitual del cine de Kurosawa en los años cincuenta y protagonizó también Yojimbo."
+  },
+  {
+    "id": "cg-6070",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué director español dirigió Viridiana en 1961, prohibida en España hasta 1977?",
+    "options": [
+      "Carlos Saura",
+      "Luis Buñuel",
+      "Juan Antonio Bardem",
+      "Víctor Erice"
+    ],
+    "correctIndex": 1,
+    "explanation": "Buñuel rodó Viridiana en México y ganó la Palma de Oro, pero la censura franquista impidió su estreno en España."
+  },
+  {
+    "id": "cg-6071",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué actor estadounidense interpretó a Forrest Gump en el filme de 1994?",
+    "options": [
+      "Kevin Costner",
+      "Tom Cruise",
+      "Tom Hanks",
+      "Robin Williams"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tom Hanks ganó su segundo Óscar consecutivo por su papel en Forrest Gump, dirigida por Robert Zemeckis."
+  },
+  {
+    "id": "cg-6072",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué director neerlandés dirigió RoboCop en 1987 y Desafío total en 1990?",
+    "options": [
+      "Jan de Bont",
+      "Joris Ivens",
+      "Alex van Warmerdam",
+      "Paul Verhoeven"
+    ],
+    "correctIndex": 3,
+    "explanation": "Verhoeven filmó ambas cintas de ciencia ficción antes de dirigir Instinto básico en 1992."
+  },
+  {
+    "id": "cg-6073",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director mexicano dirigió El laberinto del fauno en 2006?",
+    "options": [
+      "Guillermo del Toro",
+      "Alfonso Cuarón",
+      "Alejandro González Iñárritu",
+      "Robert Rodríguez"
+    ],
+    "correctIndex": 0,
+    "explanation": "Del Toro ambientó El laberinto del fauno en la España franquista y combinó guerra y fantasía."
+  },
+  {
+    "id": "cg-6074",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director brasileño dirigió Ciudad de Dios en 2002?",
+    "options": [
+      "Walter Salles",
+      "Fernando Meirelles",
+      "Glauber Rocha",
+      "Héctor Babenco"
+    ],
+    "correctIndex": 1,
+    "explanation": "Meirelles adaptó la novela de Paulo Lins sobre las favelas de Río de Janeiro con actores debutantes."
+  },
+  {
+    "id": "cg-6075",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué director finlandés dirigió El hombre sin pasado en 2002?",
+    "options": [
+      "Mika Kaurismäki",
+      "Jarmo Lampela",
+      "Aki Kaurismäki",
+      "Dome Karukoski"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kaurismäki ganó el Gran Premio de Cannes con esta historia de un hombre que pierde la memoria."
+  },
+  {
+    "id": "cg-6076",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué monstruo japonés apareció por primera vez en el filme de 1954 de Ishiro Honda?",
+    "options": [
+      "Mothra",
+      "Rodan",
+      "Gamera",
+      "Godzilla"
+    ],
+    "correctIndex": 3,
+    "explanation": "Godzilla se estrenó en Japón en 1954 y se convirtió en un símbolo del cine de monstruos kaiju."
+  },
+  {
+    "id": "cg-6077",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué director indio dirigió Pather Panchali en 1955 e inició la trilogía de Apu?",
+    "options": [
+      "Satyajit Ray",
+      "Mrinal Sen",
+      "Ritwik Ghatak",
+      "Mani Ratnam"
+    ],
+    "correctIndex": 0,
+    "explanation": "Satyajit Ray debutó con Pather Panchali, primera entrega de la trilogía de Apu, en 1955."
+  },
+  {
+    "id": "cg-6078",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director argentino dirigió El secreto de sus ojos en 2009?",
+    "options": [
+      "Lucrecia Martel",
+      "Juan José Campanella",
+      "Pablo Trapero",
+      "Adrián Caetano"
+    ],
+    "correctIndex": 1,
+    "explanation": "El secreto de sus ojos ganó el Óscar a mejor película extranjera y está basada en una novela de Eduardo Sacheri."
+  },
+  {
+    "id": "cg-6079",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director español dirigió El espíritu de la colmena en 1973?",
+    "options": [
+      "Carlos Saura",
+      "Luis Buñuel",
+      "Víctor Erice",
+      "Pedro Almodóvar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Erice retrató la posguerra española a través de la mirada de una niña en El espíritu de la colmena."
+  },
+  {
+    "id": "cg-6080",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué director griego dirigió La mirada de Ulises en 1995?",
+    "options": [
+      "Costa-Gavras",
+      "Michael Cacoyannis",
+      "Yorgos Lanthimos",
+      "Theo Angelopoulos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Angelopoulos ganó la Palma de Oro con La mirada de Ulises, un viaje por los Balcanes."
+  },
+  {
+    "id": "cg-6081",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué actriz estadounidense ganó el Óscar por su papel en Cabaret, de 1972?",
+    "options": [
+      "Liza Minnelli",
+      "Barbra Streisand",
+      "Goldie Hawn",
+      "Diana Ross"
+    ],
+    "correctIndex": 0,
+    "explanation": "Liza Minnelli interpretó a Sally Bowles en Cabaret y recibió el Óscar a mejor actriz."
+  },
+  {
+    "id": "cg-6082",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué filme de 1942, protagonizado por Humphrey Bogart e Ingrid Bergman, transcurre en Marruecos?",
+    "options": [
+      "El halcón maltés",
+      "Casablanca",
+      "Tener y no tener",
+      "Cayo Largo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Casablanca, dirigida por Michael Curtiz, ganó el Óscar a mejor película y se estrenó en 1942."
+  },
+  {
+    "id": "cg-6083",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director chileno dirigió Una mujer fantástica en 2017?",
+    "options": [
+      "Pablo Larraín",
+      "Andrés Wood",
+      "Sebastián Lelio",
+      "Alejandro Jodorowsky"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lelio ganó el Óscar a mejor película extranjera con Una mujer fantástica, protagonizada por Daniela Vega."
+  },
+  {
+    "id": "cg-6084",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director iraní dirigió El sabor de las cerezas en 1997?",
+    "options": [
+      "Mohsen Makhmalbaf",
+      "Asghar Farhadi",
+      "Jafar Panahi",
+      "Abbas Kiarostami"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kiarostami obtuvo la Palma de Oro en Cannes con El sabor de las cerezas, rodada en las afueras de Teherán."
+  },
+  {
+    "id": "cg-6085",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué director turco dirigió Uzak en 2002?",
+    "options": [
+      "Nuri Bilge Ceylan",
+      "Ferzan Özpetek",
+      "Yılmaz Güney",
+      "Zeki Demirkubuz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ceylan ganó el Gran Premio de Cannes con Uzak, que retrata el desencuentro entre dos primos en Estambul."
+  },
+  {
+    "id": "cg-6086",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpretó a Vito Corleone en El padrino, de 1972?",
+    "options": [
+      "Al Pacino",
+      "Marlon Brando",
+      "Robert De Niro",
+      "James Caan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marlon Brando ganó el Óscar por encarnar al patriarca de la familia Corleone."
+  },
+  {
+    "id": "cg-6087",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué director japonés dirigió Mi vecino Totoro en 1988?",
+    "options": [
+      "Isao Takahata",
+      "Makoto Shinkai",
+      "Hayao Miyazaki",
+      "Mamoru Hosoda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Miyazaki creó Mi vecino Totoro para Studio Ghibli y la estrenó junto a La tumba de las luciérnagas."
+  },
+  {
+    "id": "cg-6088",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director tailandés dirigió El tío Boonmee recuerda sus vidas pasadas en 2010?",
+    "options": [
+      "Pen-Ek Ratanaruang",
+      "Wisit Sasanatieng",
+      "Nontawat Numbenchapol",
+      "Apichatpong Weerasethakul"
+    ],
+    "correctIndex": 3,
+    "explanation": "Apichatpong ganó la Palma de Oro con una historia sobre reencarnación y memoria en el norte de Tailandia."
+  },
+  {
+    "id": "cg-6089",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué actriz sueca protagonizó La dolce vita en 1960 junto a Marcello Mastroianni?",
+    "options": [
+      "Anita Ekberg",
+      "Ingrid Bergman",
+      "Greta Garbo",
+      "Liv Ullmann"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anita Ekberg bañó en la Fontana di Trevi en una de las escenas más recordadas de La dolce vita."
+  },
+  {
+    "id": "cg-6090",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué director israelí dirigió Vals con Bashir en 2008?",
+    "options": [
+      "Amos Gitai",
+      "Ari Folman",
+      "Eran Riklis",
+      "Joseph Cedar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Folman combinó animación y documental para reconstruir su memoria de la guerra del Líbano de 1982."
+  },
+  {
+    "id": "cg-6091",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué filme de ciencia ficción de 1999, dirigido por las hermanas Wachowski, popularizó la píldora roja?",
+    "options": [
+      "Dark City",
+      "eXistenZ",
+      "Matrix",
+      "Minority Report"
+    ],
+    "correctIndex": 2,
+    "explanation": "Matrix se estrenó en 1999 y propuso una realidad simulada habitada por máquinas."
+  },
+  {
+    "id": "cg-6092",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué director mexicano dirigió Roma en 2018, ganadora del Óscar a mejor película extranjera?",
+    "options": [
+      "Guillermo del Toro",
+      "Alejandro González Iñárritu",
+      "Carlos Reygadas",
+      "Alfonso Cuarón"
+    ],
+    "correctIndex": 3,
+    "explanation": "Roma, rodada en blanco y negro, recrea la infancia de Cuarón en la colonia Roma de Ciudad de México."
+  },
+  {
+    "id": "cg-6093",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué actor francés protagonizó El samurái en 1967, dirigida por Jean-Pierre Melville?",
+    "options": [
+      "Alain Delon",
+      "Jean-Paul Belmondo",
+      "Yves Montand",
+      "Lino Ventura"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alain Delon encarnó a un sicario solitario en El samurái, una de las obras clave del cine negro francés."
+  },
+  {
+    "id": "cg-6094",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué actriz francesa protagonizó Hiroshima mon amour en 1959?",
+    "options": [
+      "Jeanne Moreau",
+      "Emmanuelle Riva",
+      "Catherine Deneuve",
+      "Simone Signoret"
+    ],
+    "correctIndex": 1,
+    "explanation": "Riva interpretó a una actriz francesa en la película de Alain Resnais con guion de Marguerite Duras."
+  },
+  {
+    "id": "cg-6095",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué director palestino dirigió Paradise Now en 2005?",
+    "options": [
+      "Elia Suleiman",
+      "Michel Khleifi",
+      "Hany Abu-Assad",
+      "Rashid Masharawi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paradise Now sigue a dos jóvenes palestinos y fue nominada al Óscar a mejor película extranjera."
+  },
+  {
+    "id": "cg-6096",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué actriz francesa protagonizó Amélie en 2001?",
+    "options": [
+      "Marion Cotillard",
+      "Juliette Binoche",
+      "Sophie Marceau",
+      "Audrey Tautou"
+    ],
+    "correctIndex": 3,
+    "explanation": "Audrey Tautou interpretó a Amélie Poulain en el filme de Jean-Pierre Jeunet."
+  },
+  {
+    "id": "cg-6097",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué actor y director italiano dirigió La vida es bella en 1997?",
+    "options": [
+      "Roberto Benigni",
+      "Marcello Mastroianni",
+      "Vittorio Gassman",
+      "Nanni Moretti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Benigni dirigió y protagonizó La vida es bella, que ganó tres Óscar en 1999."
+  },
+  {
+    "id": "cg-6098",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director estadounidense dirigió Fargo en 1996 junto a su hermano Ethan?",
+    "options": [
+      "David Fincher",
+      "Joel Coen",
+      "Paul Thomas Anderson",
+      "Jim Jarmusch"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los hermanos Coen ganaron el Óscar al mejor guion original por Fargo, ambientada en Minnesota."
+  },
+  {
+    "id": "cg-6099",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué directora neozelandesa dirigió El piano en 1993?",
+    "options": [
+      "Gillian Armstrong",
+      "Jocelyn Moorhouse",
+      "Jane Campion",
+      "Niki Caro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Campion ganó la Palma de Oro en Cannes con El piano, protagonizada por Holly Hunter y Anna Paquin."
+  },
+  {
+    "id": "cg-6100",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué director senegalés dirigió La noire de... en 1966?",
+    "options": [
+      "Djibril Diop Mambéty",
+      "Safi Faye",
+      "Moussa Touré",
+      "Ousmane Sembène"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sembène adaptó su propio relato sobre una empleada doméstica senegalesa en Francia y fundó el cine africano moderno."
+  },
+  {
+    "id": "cg-6101",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué filme surcoreano de 2019, dirigido por Bong Joon-ho, ganó el Óscar a mejor película?",
+    "options": [
+      "Parásitos",
+      "Oldboy",
+      "Tren a Busan",
+      "Memorias de un asesino"
+    ],
+    "correctIndex": 0,
+    "explanation": "Parásitos se convirtió en la primera cinta de habla no inglesa en ganar el Óscar a mejor película."
+  },
+  {
+    "id": "cg-6102",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué director estadounidense dirigió El mago de Oz en 1939?",
+    "options": [
+      "Frank Capra",
+      "Victor Fleming",
+      "George Cukor",
+      "John Ford"
+    ],
+    "correctIndex": 1,
+    "explanation": "Victor Fleming dirigió El mago de Oz y ese mismo año estrenó Lo que el viento se llevó."
+  },
+  {
+    "id": "cg-6103",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director australiano dirigió Mad Max en 1979?",
+    "options": [
+      "Peter Weir",
+      "Bruce Beresford",
+      "George Miller",
+      "Phillip Noyce"
+    ],
+    "correctIndex": 2,
+    "explanation": "George Miller creó Mad Max con Mel Gibson y un bajo presupuesto que se volvió un éxito internacional."
+  },
+  {
+    "id": "cg-6104",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director estadounidense dirigió El club de la lucha en 1999?",
+    "options": [
+      "Christopher Nolan",
+      "Darren Aronofsky",
+      "Guy Ritchie",
+      "David Fincher"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fincher adaptó la novela de Chuck Palahniuk con Brad Pitt y Edward Norton como protagonistas."
+  },
+  {
+    "id": "cg-6105",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué director maliense dirigió Yeelen en 1987?",
+    "options": [
+      "Souleymane Cissé",
+      "Cheick Oumar Sissoko",
+      "Adama Drabo",
+      "Abdoulaye Ascofaré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yeelen ganó el Premio del Jurado en Cannes y narra un conflicto iniciático en el Mali precolonial."
+  },
+  {
+    "id": "cg-6106",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué actriz interpretó a Dorothy en El mago de Oz, de 1939?",
+    "options": [
+      "Shirley Temple",
+      "Judy Garland",
+      "Ginger Rogers",
+      "Olivia de Havilland"
+    ],
+    "correctIndex": 1,
+    "explanation": "Judy Garland cantó Over the Rainbow como Dorothy en la adaptación de la novela de L. Frank Baum."
+  },
+  {
+    "id": "cg-6107",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué director estadounidense dirigió Ciudadano Kane en 1941?",
+    "options": [
+      "John Huston",
+      "Billy Wilder",
+      "Orson Welles",
+      "Howard Hawks"
+    ],
+    "correctIndex": 2,
+    "explanation": "Welles coescribió, dirigió y protagonizó Ciudadano Kane cuando tenía veinticinco años."
+  },
+  {
+    "id": "cg-6108",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director británico dirigió Trainspotting en 1996?",
+    "options": [
+      "Guy Ritchie",
+      "Ken Loach",
+      "Mike Leigh",
+      "Danny Boyle"
+    ],
+    "correctIndex": 3,
+    "explanation": "Boyle adaptó la novela de Irvine Welsh sobre heroinómanos en Edimburgo y lanzó la carrera de Ewan McGregor."
+  },
+  {
+    "id": "cg-6109",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué director español dirigió Mar adentro en 2004, ganadora del Óscar a mejor película extranjera?",
+    "options": [
+      "Alejandro Amenábar",
+      "Pedro Almodóvar",
+      "Fernando Trueba",
+      "José Luis Garci"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amenábar basó Mar adentro en la historia de Ramón Sampedro y la protagonizó Javier Bardem."
+  },
+  {
+    "id": "cg-6110",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué director burkinés dirigió Tilaï en 1990?",
+    "options": [
+      "Gaston Kaboré",
+      "Idrissa Ouédraogo",
+      "Fanta Régina Nacro",
+      "Pierre Yaméogo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tilaï ganó el Gran Premio de Cannes y explora el conflicto entre deseo individual y ley comunitaria."
+  },
+  {
+    "id": "cg-6111",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué actor protagonizó El bueno, el feo y el malo en 1966 en el papel de Rubio?",
+    "options": [
+      "Lee Van Cleef",
+      "Eli Wallach",
+      "Clint Eastwood",
+      "Charles Bronson"
+    ],
+    "correctIndex": 2,
+    "explanation": "Clint Eastwood encabezó el spaghetti western de Sergio Leone junto a Lee Van Cleef y Eli Wallach."
+  },
+  {
+    "id": "cg-6112",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué director italiano dirigió Cinema Paradiso en 1988?",
+    "options": [
+      "Federico Fellini",
+      "Sergio Leone",
+      "Bernardo Bertolucci",
+      "Giuseppe Tornatore"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cinema Paradiso, de Tornatore, ganó el Óscar a mejor película extranjera y el Gran Premio de Cannes."
+  },
+  {
+    "id": "cg-6113",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué carnaval belga, celebrado en la provincia de Henao, es famoso por los Gilles y sus sombreros de plumas?",
+    "options": [
+      "El Carnaval de Binche",
+      "El Carnaval de Aalst",
+      "El Carnaval de Malinas",
+      "El Carnaval de Bruselas"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Carnaval de Binche fue proclamado Patrimonio de la Humanidad y los Gilles desfilan con máscaras de cera."
+  },
+  {
+    "id": "cg-6114",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué peregrinación islámica, uno de los cinco pilares, se realiza a La Meca en el mes de du l-hiyya?",
+    "options": [
+      "La umra",
+      "El hach",
+      "El ramadán",
+      "La yihad"
+    ],
+    "correctIndex": 1,
+    "explanation": "El hach es obligatorio al menos una vez en la vida para todo musulmán con medios suficientes."
+  },
+  {
+    "id": "cg-6115",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué director mauritano dirigió Timbuktú en 2014?",
+    "options": [
+      "Med Hondo",
+      "Sidney Sokhona",
+      "Abderrahmane Sissako",
+      "Mahamat-Saleh Haroun"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sissako retrató la ocupación yihadista de Tombuctú y ganó siete premios César."
+  },
+  {
+    "id": "cg-6116",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué país celebra el Carnaval de Río de Janeiro, con desfiles de escuelas de samba en el Sambódromo?",
+    "options": [
+      "Argentina",
+      "Uruguay",
+      "Portugal",
+      "Brasil"
+    ],
+    "correctIndex": 3,
+    "explanation": "El carnaval de Río de Janeiro se celebra en Brasil y es uno de los mayores espectáculos populares del mundo."
+  },
+  {
+    "id": "cg-6117",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué celebración mexicana de noviembre honra a los difuntos con altares, flores y calaveras?",
+    "options": [
+      "El Día de Muertos",
+      "La Semana Santa",
+      "La Fiesta de la Candelaria",
+      "El Grito de Dolores"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Día de Muertos se celebra el 1 y 2 de noviembre y fue inscrito por la UNESCO en 2008."
+  },
+  {
+    "id": "cg-6118",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué término japonés designa los espectáculos de fuegos artificiales que se celebran en verano?",
+    "options": [
+      "Hanami",
+      "Hanabi",
+      "Matsuri",
+      "Tsukimi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hanabi significa literalmente flores de fuego y los festivales pirotécnicos son habituales en el verano japonés."
+  },
+  {
+    "id": "cg-6119",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué fiesta china, celebrada el decimoquinto día del año lunar, cierra el Año Nuevo con faroles y tangyuan?",
+    "options": [
+      "El Festival del Medio Otoño",
+      "El Qingming",
+      "La Fiesta de los Faroles",
+      "El Doble Nueve"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Fiesta de los Faroles marca el final de las celebraciones del Año Nuevo chino con desfiles y dulces de arroz."
+  },
+  {
+    "id": "cg-6120",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué director chino de la quinta generación dirigió Plataforma en 2000?",
+    "options": [
+      "Zhang Yimou",
+      "Chen Kaige",
+      "Wang Xiaoshuai",
+      "Jia Zhangke"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jia Zhangke retrató a una troupe de teatro provincial en la China de los años ochenta."
+  },
+  {
+    "id": "cg-6121",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué fiesta irlandesa del 17 de marzo se asocia a un santo y al trébol?",
+    "options": [
+      "San Patricio",
+      "San Andrés",
+      "Santa Brígida",
+      "San David"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Día de San Patricio conmemora la muerte del patrono de Irlanda y se celebra con desfiles y tréboles."
+  },
+  {
+    "id": "cg-6122",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué fiesta cristiana celebra la resurrección de Jesús y se asocia a huevos decorados?",
+    "options": [
+      "La Navidad",
+      "La Pascua",
+      "Pentecostés",
+      "La Epifanía"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Pascua de Resurrección cierra la Semana Santa y en muchas culturas se adornan huevos como símbolo de vida."
+  },
+  {
+    "id": "cg-6123",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué ritual mesoamericano, practicado en Papantla, Veracruz, consiste en descender girando desde un poste?",
+    "options": [
+      "La Danza de la Pluma",
+      "La Danza del Venado",
+      "La Danza de los Voladores",
+      "La Danza de los Parachicos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cinco hombres suben a un poste y cuatro descienden atados con cuerdas mientras el quinto toca el tambor y la flauta."
+  },
+  {
+    "id": "cg-6124",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué localidad guatemalteca de Sacatepéquez es famosa por sus barriletes gigantes del Día de Todos los Santos?",
+    "options": [
+      "Chichicastenango",
+      "Antigua Guatemala",
+      "Sololá",
+      "Santiago Sacatepéquez"
+    ],
+    "correctIndex": 3,
+    "explanation": "En Santiago Sacatepéquez se elevan cometas de hasta varios metros construidas con papel y caña."
+  },
+  {
+    "id": "cg-6125",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué cultura precolombina del Perú trazó las líneas y geoglifos de la pampa de Nazca?",
+    "options": [
+      "La cultura nazca",
+      "La cultura moche",
+      "La cultura chimú",
+      "La cultura paracas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los nazca realizaron geoglifos entre 500 a. C. y 500 d. C. y muchos solo se aprecian desde el aire."
+  },
+  {
+    "id": "cg-6126",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad italiana se celebra un carnaval famoso por sus máscaras y trajes del siglo XVIII?",
+    "options": [
+      "Roma",
+      "Venecia",
+      "Florencia",
+      "Nápoles"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Carnaval de Venecia recuperó en el siglo XX la tradición de máscaras y bailes de salón."
+  },
+  {
+    "id": "cg-6127",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué costumbre japonesa consiste en contemplar la floración de los cerezos?",
+    "options": [
+      "El hanabi",
+      "El tsukimi",
+      "El hanami",
+      "El momiji"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hanami significa contemplar las flores y se practica en primavera bajo los cerezos en flor."
+  },
+  {
+    "id": "cg-6128",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué fiesta peruana recrea el solsticio de invierno andino en Sacsayhuamán cada 24 de junio?",
+    "options": [
+      "La Fiesta de la Candelaria",
+      "El Señor de los Milagros",
+      "La Mamacha Carmen",
+      "El Inti Raymi"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Inti Raymi o Fiesta del Sol se escenifica en Cusco y evoca la ceremonia inca en honor al Sol."
+  },
+  {
+    "id": "cg-6129",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué feria boliviana de miniaturas se celebra en La Paz a fines de enero?",
+    "options": [
+      "Las Alasitas",
+      "La Feria de la Alasita",
+      "El Gran Poder",
+      "La Entrada Universitaria"
+    ],
+    "correctIndex": 0,
+    "explanation": "En Alasitas se compran miniaturas que representan deseos, como casas, autos o títulos profesionales."
+  },
+  {
+    "id": "cg-6130",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué civilización mesoamericana desarrolló la escritura glífica y el calendario de cuenta larga?",
+    "options": [
+      "La civilización azteca",
+      "La civilización maya",
+      "La civilización olmeca",
+      "La civilización tolteca"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los mayas registraron fechas con la cuenta larga y dejaron textos en estelas, códices y cerámica."
+  },
+  {
+    "id": "cg-6131",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad boliviana se celebra un carnaval declarado Patrimonio de la Humanidad por la UNESCO?",
+    "options": [
+      "La Paz",
+      "Sucre",
+      "Oruro",
+      "Santa Cruz de la Sierra"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Carnaval de Oruro mezcla rituales andinos y católicos y fue proclamado Patrimonio en 2001."
+  },
+  {
+    "id": "cg-6132",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué baile tradicional mexicano, acompañado por mariachi, se considera símbolo nacional?",
+    "options": [
+      "La danza de los voladores",
+      "La polka norteña",
+      "El huapango",
+      "El jarabe tapatío"
+    ],
+    "correctIndex": 3,
+    "explanation": "El jarabe tapatío, originario de Jalisco, es conocido internacionalmente como el baile nacional mexicano."
+  },
+  {
+    "id": "cg-6133",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué celebración ecuatoriana de disfraces de diablos se realiza en la provincia de Tungurahua?",
+    "options": [
+      "La Diablada de Píllaro",
+      "La Mama Negra",
+      "El Corpus Christi de Pujilí",
+      "La Fiesta de la Fruta"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Diablada de Píllaro se celebra en enero y mezcla personajes demoníacos, música y danza."
+  },
+  {
+    "id": "cg-6134",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué carnaval colombiano, declarado Patrimonio de la Humanidad, se celebra junto al río Magdalena?",
+    "options": [
+      "El Carnaval de Pasto",
+      "El Carnaval de Barranquilla",
+      "El Carnaval de Riosucio",
+      "El Carnaval de Negros y Blancos"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Carnaval de Barranquilla combina tradiciones indígenas, africanas y europeas y se celebra en febrero."
+  },
+  {
+    "id": "cg-6135",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué cultura andina construyó el complejo monumental de Tiwanaku, cerca del lago Titicaca?",
+    "options": [
+      "La cultura inca",
+      "La cultura moche",
+      "La cultura tiahuanaco",
+      "La cultura chavín"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tiwanaku floreció entre 500 y 950 d. C. y su Puerta del Sol es uno de sus monumentos más conocidos."
+  },
+  {
+    "id": "cg-6136",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué prenda tradicional escocesa, de falda plisada y estampado tartán, llevan los hombres en ocasiones formales?",
+    "options": [
+      "El sarong",
+      "El kimono",
+      "El poncho",
+      "El kilt"
+    ],
+    "correctIndex": 3,
+    "explanation": "El kilt es la falda tradicional de las Tierras Altas de Escocia y suele confeccionarse en tartán."
+  },
+  {
+    "id": "cg-6137",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué monumento megalítico del sur de Inglaterra se alinea con el solsticio de verano?",
+    "options": [
+      "Stonehenge",
+      "Avebury",
+      "Newgrange",
+      "Carnac"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stonehenge se construyó en varias fases entre 3000 y 2000 a. C. y su eje coincide con el amanecer del solsticio."
+  },
+  {
+    "id": "cg-6138",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué género teatral y musical uruguayo, con coro y bombo, es central en el carnaval de Montevideo?",
+    "options": [
+      "El candombe",
+      "La murga",
+      "La milonga",
+      "El tango"
+    ],
+    "correctIndex": 1,
+    "explanation": "La murga uruguaya combina canto, actuación y crítica social y compite en el Teatro de Verano de Montevideo."
+  },
+  {
+    "id": "cg-6139",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿En qué localidad valenciana se celebra en agosto una batalla popular con tomates?",
+    "options": [
+      "Gandía",
+      "Játiva",
+      "Buñol",
+      "Requena"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Tomatina de Buñol se celebra el último miércoles de agosto y convoca a miles de participantes."
+  },
+  {
+    "id": "cg-6140",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué cultura prehispánica del norte del Perú produjo los llamados huacos retrato?",
+    "options": [
+      "La cultura nazca",
+      "La cultura chimú",
+      "La cultura lambayeque",
+      "La cultura moche"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los moche modelaron vasijas cerámicas con rostros humanos de gran expresividad entre los siglos I y VIII."
+  },
+  {
+    "id": "cg-6141",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué ciudadela inca del siglo XV se encuentra en los Andes peruanos, sobre el valle del Urubamba?",
+    "options": [
+      "Machu Picchu",
+      "Chichén Itzá",
+      "Tikal",
+      "Tiwanaku"
+    ],
+    "correctIndex": 0,
+    "explanation": "Machu Picchu fue construida bajo el gobierno de Pachacútec y declarada Patrimonio de la Humanidad en 1983."
+  },
+  {
+    "id": "cg-6142",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué templo del siglo V a. C., dedicado a Atenea, corona la Acrópolis de Atenas?",
+    "options": [
+      "El Erecteón",
+      "El Partenón",
+      "El templo de Zeus Olímpico",
+      "El Hefesteion"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Partenón se erigió entre 447 y 432 a. C. bajo la dirección de Fidias y los arquitectos Ictino y Calícrates."
+  },
+  {
+    "id": "cg-6143",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué costumbre española de Nochevieja consiste en comer doce uvas al ritmo de las campanadas?",
+    "options": [
+      "El roscón de Reyes",
+      "La tamborrada",
+      "Las doce uvas",
+      "El caga tió"
+    ],
+    "correctIndex": 2,
+    "explanation": "La tradición se popularizó en Madrid a comienzos del siglo XX y se sigue frente al reloj de la Puerta del Sol."
+  },
+  {
+    "id": "cg-6144",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué fiesta neerlandesa del 5 de diciembre reparte regalos y se asocia a un santo obispo?",
+    "options": [
+      "Carnaval de Róterdam",
+      "Día del Rey",
+      "Fiesta de San Martín",
+      "Sinterklaas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sinterklaas llega en barco desde España y reparte dulces y regalos en la víspera de su festividad."
+  },
+  {
+    "id": "cg-6145",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué cultura de Oaxaca es conocida por sus urnas funerarias de cerámica policromada?",
+    "options": [
+      "La cultura zapoteca",
+      "La cultura mixteca",
+      "La cultura maya",
+      "La cultura totonaca"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los zapotecas depositaron urnas con figuras de dioses y antepasados en tumbas de Monte Albán."
+  },
+  {
+    "id": "cg-6146",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué celebración china marca el inicio del año lunar con danzas de dragón y fuegos artificiales?",
+    "options": [
+      "El Festival del Medio Otoño",
+      "El Año Nuevo chino",
+      "La Fiesta de los Faroles",
+      "El Qingming"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Año Nuevo chino o Fiesta de la Primavera se celebra con reuniones familiares, dragones y petardos."
+  },
+  {
+    "id": "cg-6147",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué fiesta hindú de las luces, celebrada en otoño, simboliza el triunfo del bien sobre el mal?",
+    "options": [
+      "Holi",
+      "Navratri",
+      "Diwali",
+      "Raksha Bandhan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Diwali o Deepavali se celebra con lámparas de aceite, dulces y visitas familiares en la India y su diáspora."
+  },
+  {
+    "id": "cg-6148",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué fiesta sueca del solsticio de verano incluye el mayo de flores y coronas de hojas?",
+    "options": [
+      "Valborg",
+      "Lucía",
+      "Yule",
+      "Midsommar"
+    ],
+    "correctIndex": 3,
+    "explanation": "Midsommar se celebra en junio con danzas alrededor del maypole y comidas como arenques y fresas."
+  },
+  {
+    "id": "cg-6149",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la celebración escocesa de Año Nuevo, con la tradición del first footing?",
+    "options": [
+      "Hogmanay",
+      "Beltane",
+      "Samhain",
+      "Up Helly Aa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hogmanay incluye visitas a medianoche y la costumbre de que el primer visitante traiga buena suerte."
+  },
+  {
+    "id": "cg-6150",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué cultura del golfo de México talló cabezas colosales de basalto?",
+    "options": [
+      "La cultura maya",
+      "La cultura olmeca",
+      "La cultura huasteca",
+      "La cultura teotihuacana"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los olmecas esculpieron cabezas de hasta tres metros que probablemente representan gobernantes."
+  },
+  {
+    "id": "cg-6151",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué fiesta de Valencia, celebrada en marzo, culmina quemando grandes figuras de cartón?",
+    "options": [
+      "La Tomatina",
+      "Los Sanfermines",
+      "Las Fallas",
+      "La Feria de Abril"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las Fallas construyen monumentos satíricos que se queman en la noche de San José, el 19 de marzo."
+  },
+  {
+    "id": "cg-6152",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué fiesta de Múnich, celebrada entre septiembre y octubre, gira en torno a la cerveza?",
+    "options": [
+      "El Carnaval de Colonia",
+      "La Fiesta de la Cerveza de Bamberg",
+      "El Festival de Salzburgo",
+      "La Oktoberfest"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Oktoberfest se celebra en Múnich desde 1810 y reúne a millones de visitantes en grandes carpas."
+  },
+  {
+    "id": "cg-6153",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué festival austriaco, fundado en 1920, reúne ópera y conciertos cada verano en la localidad natal de Mozart?",
+    "options": [
+      "El Festival de Salzburgo",
+      "El Festival de Bayreuth",
+      "La Semana de Música de Lucerna",
+      "El Festival de Viena"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Festival de Salzburgo se celebra en julio y agosto con ópera, conciertos y teatro, y está ligado a la tradición mozartiana."
+  },
+  {
+    "id": "cg-6154",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué festival canadiense, fundado en 1979, es uno de los mayores encuentros de jazz del mundo y se celebra en Quebec?",
+    "options": [
+      "El Festival de Jazz de Monterey",
+      "El Festival Internacional de Jazz de Montreal",
+      "El Festival de Jazz de Montreux",
+      "El Festival de Jazz de Newport"
+    ],
+    "correctIndex": 1,
+    "explanation": "El festival de Montreal se celebra cada verano y combina conciertos gratuitos con grandes figuras internacionales."
+  },
+  {
+    "id": "cg-6155",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué pueblo ancestral construyó las viviendas en acantilados de Mesa Verde, en Colorado?",
+    "options": [
+      "Los hopi",
+      "Los navajo",
+      "Los anasazi",
+      "Los apache"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los anasazi o pueblo ancestral edificaron Cliff Palace y otras aldeas entre los siglos XII y XIII."
+  },
+  {
+    "id": "cg-6156",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué danza de guerra maorí de Nueva Zelanda se ejecuta en grupo con gestos intensos y gritos?",
+    "options": [
+      "La poi",
+      "La hula",
+      "La siva",
+      "La haka"
+    ],
+    "correctIndex": 3,
+    "explanation": "La haka es una danza maorí de desafío y celebración, popularizada por los All Blacks."
+  },
+  {
+    "id": "cg-6157",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué práctica brasileña combina lucha, danza y música con el berimbau?",
+    "options": [
+      "La capoeira",
+      "El frevo",
+      "La samba de roda",
+      "El maculelê"
+    ],
+    "correctIndex": 0,
+    "explanation": "La capoeira surgió entre africanos esclavizados en Brasil y se acompaña con berimbau, atabaque y canto."
+  },
+  {
+    "id": "cg-6158",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué festival británico de música y artes, celebrado en Somerset desde 1970, es famoso por sus escenarios al aire libre?",
+    "options": [
+      "Reading",
+      "Glastonbury",
+      "Isle of Wight",
+      "Latitude"
+    ],
+    "correctIndex": 1,
+    "explanation": "Glastonbury se celebra en una granja de Somerset y reúne rock, pop y artes escénicas durante varios días."
+  },
+  {
+    "id": "cg-6159",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué localidad costera de Cataluña acoge un festival internacional de cine fantástico desde 1968?",
+    "options": [
+      "San Sebastián",
+      "Gijón",
+      "Sitges",
+      "Cadaqués"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Festival de Cine de Sitges se especializa en terror y fantasía y se celebra en otoño."
+  },
+  {
+    "id": "cg-6160",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué civilización de la Edad del Bronce construyó el palacio de Cnosos en Creta?",
+    "options": [
+      "La civilización micénica",
+      "La civilización cicládica",
+      "La civilización hitita",
+      "La civilización minoica"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cnosos fue el centro de la Creta minoica y se asoció al mito del laberinto y el Minotauro."
+  },
+  {
+    "id": "cg-6161",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué ceremonia japonesa prepara y sirve té matcha con gestos rituales?",
+    "options": [
+      "El chanoyu",
+      "El ikebana",
+      "El hanami",
+      "El origami"
+    ],
+    "correctIndex": 0,
+    "explanation": "El chanoyu o ceremonia del té sigue reglas precisas de preparación y hospitalidad en una sala de té."
+  },
+  {
+    "id": "cg-6162",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué fiesta de Pamplona, celebrada en julio, es famosa por sus encierros de toros?",
+    "options": [
+      "Las Fallas",
+      "Los Sanfermines",
+      "La Feria de Abril",
+      "La Tomatina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los Sanfermines honran a San Fermín y sus encierros recorren las calles del casco antiguo de Pamplona."
+  },
+  {
+    "id": "cg-6163",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad francesa de la Costa Azul celebra un carnaval famoso por sus batallas de flores?",
+    "options": [
+      "Marsella",
+      "Cannes",
+      "Niza",
+      "Toulon"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Carnaval de Niza incluye desfiles de carrozas y la batalla de flores en el paseo de los Ingleses."
+  },
+  {
+    "id": "cg-6164",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué teatro de sombras javanés usa figuras de cuero proyectadas sobre una pantalla iluminada?",
+    "options": [
+      "El wayang golek",
+      "El topeng",
+      "El barong",
+      "El wayang kulit"
+    ],
+    "correctIndex": 3,
+    "explanation": "El wayang kulit es un teatro de sombras indonesio acompañado por el gamelán y narrado por un dalang."
+  },
+  {
+    "id": "cg-6165",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué civilización indoeuropea tuvo su capital en Hattusa, en Anatolia?",
+    "options": [
+      "La civilización hitita",
+      "La civilización frigia",
+      "La civilización lidia",
+      "La civilización urartiana"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los hititas dominaron Anatolia entre los siglos XVII y XII a. C. y firmaron un tratado con Egipto."
+  },
+  {
+    "id": "cg-6166",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué país celebra el 14 de julio con desfiles y fuegos artificiales en conmemoración de 1789?",
+    "options": [
+      "Bélgica",
+      "Francia",
+      "Italia",
+      "Estados Unidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Día de la Bastilla recuerda la toma de la prisión parisina el 14 de julio de 1789."
+  },
+  {
+    "id": "cg-6167",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué fiesta estadounidense del cuarto jueves de noviembre reúne a las familias en torno a un pavo?",
+    "options": [
+      "Halloween",
+      "El Día de los Caídos",
+      "Acción de Gracias",
+      "El Día de la Independencia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thanksgiving conmemora la cosecha de los peregrinos de Plymouth en 1621 y se celebra desde 1863."
+  },
+  {
+    "id": "cg-6168",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué teatro danzado coreano con máscaras satiriza a la nobleza y a los monjes?",
+    "options": [
+      "El pansori",
+      "El samulnori",
+      "El buchaechum",
+      "El talchum"
+    ],
+    "correctIndex": 3,
+    "explanation": "El talchum combina danza, música y sátira social y se representa al aire libre en festividades."
+  },
+  {
+    "id": "cg-6169",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué teatro japonés de marionetas de gran tamaño se acompaña de un recitador y un shamisen?",
+    "options": [
+      "El bunraku",
+      "El nō",
+      "El kabuki",
+      "El kyōgen"
+    ],
+    "correctIndex": 0,
+    "explanation": "En el bunraku cada marioneta es manipulada por tres titiriteros visibles y el recitador narra la historia."
+  },
+  {
+    "id": "cg-6170",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué civilización mesopotámica promulgó el código atribuido al rey Hammurabi?",
+    "options": [
+      "Asiria",
+      "Babilonia",
+      "Sumer",
+      "Acad"
+    ],
+    "correctIndex": 1,
+    "explanation": "El código de Hammurabi se grabó en una estela de basalto hacia 1750 a. C. y regulaba derecho civil y penal."
+  },
+  {
+    "id": "cg-6171",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué fiesta hindú de primavera se celebra lanzando polvos de colores?",
+    "options": [
+      "Diwali",
+      "Pongal",
+      "Holi",
+      "Onam"
+    ],
+    "correctIndex": 2,
+    "explanation": "Holi marca la llegada de la primavera y se celebra con polvos, agua y música en el norte de la India."
+  },
+  {
+    "id": "cg-6172",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué fiesta tailandesa de abril se celebra arrojando agua para purificar el año nuevo?",
+    "options": [
+      "Loy Krathong",
+      "Yi Peng",
+      "Bun Bang Fai",
+      "Songkran"
+    ],
+    "correctIndex": 3,
+    "explanation": "Songkran marca el año nuevo tailandés y el agua simboliza la limpieza de las impurezas del año anterior."
+  },
+  {
+    "id": "cg-6173",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué teatro japonés de máscaras, gestos lentos y escenario minimalista nació en el siglo XIV?",
+    "options": [
+      "El nō",
+      "El kabuki",
+      "El bunraku",
+      "El kyōgen"
+    ],
+    "correctIndex": 0,
+    "explanation": "El nō se desarrolló con Zeami y Kan’ami y combina canto, danza y máscaras talladas."
+  },
+  {
+    "id": "cg-6174",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué arte floral japonés busca el equilibrio entre cielo, tierra y humanidad?",
+    "options": [
+      "El bonsái",
+      "El ikebana",
+      "El origami",
+      "El karesansui"
+    ],
+    "correctIndex": 1,
+    "explanation": "El ikebana ordena flores y ramas según proporciones simbólicas y suele practicarse en silencio."
+  },
+  {
+    "id": "cg-6175",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué cultura de la meseta de Jos, en Nigeria, produjo esculturas de terracota entre 1500 a. C. y 500 d. C.?",
+    "options": [
+      "La cultura ife",
+      "La cultura benin",
+      "La cultura nok",
+      "La cultura sao"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las terracotas nok son algunas de las esculturas más antiguas del África subsahariana."
+  },
+  {
+    "id": "cg-6176",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué celebración persa del equinoccio de primavera marca el año nuevo en Irán?",
+    "options": [
+      "Yalda",
+      "Mehregan",
+      "Sizdah Bedar",
+      "Nowruz"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nowruz se celebra desde hace más de tres mil años y comienza con el equinoccio de marzo."
+  },
+  {
+    "id": "cg-6177",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué prenda tradicional japonesa, de manga larga y cinturón obi, se usa en ceremonias?",
+    "options": [
+      "El kimono",
+      "El hanbok",
+      "El sari",
+      "El qipao"
+    ],
+    "correctIndex": 0,
+    "explanation": "El kimono es la prenda tradicional japonesa y el obi es el cinturón que lo ajusta."
+  },
+  {
+    "id": "cg-6178",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué técnica japonesa repara cerámica rota con polvo de oro y resalta las grietas?",
+    "options": [
+      "El wabi-sabi",
+      "El kintsugi",
+      "El raku",
+      "El shibori"
+    ],
+    "correctIndex": 1,
+    "explanation": "El kintsugi trata las fracturas como parte de la historia del objeto y las embellece con oro o laca."
+  },
+  {
+    "id": "cg-6179",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué pueblo indígena de la costa noroeste de Canadá es famoso por sus tótems tallados?",
+    "options": [
+      "Los inuit",
+      "Los mohawk",
+      "Los haida",
+      "Los cree"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los haida habitan las islas Haida Gwaii y tallan postes totémicos con figuras de animales y antepasados."
+  },
+  {
+    "id": "cg-6180",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué reino africano construyó el Gran Zimbabue, conjunto de muros de piedra sin mortero?",
+    "options": [
+      "El reino de Malí",
+      "El reino de Aksum",
+      "El reino de Kush",
+      "El reino de Zimbabue"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Gran Zimbabue fue capital de un reino shona y sus muros se erigieron entre los siglos XI y XV."
+  },
+  {
+    "id": "cg-6181",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué prenda femenina tradicional de la India consiste en una tela larga drapeada sobre el cuerpo?",
+    "options": [
+      "El sari",
+      "El salwar kameez",
+      "El lehenga",
+      "El dhoti"
+    ],
+    "correctIndex": 0,
+    "explanation": "El sari es una pieza de tela de varios metros que se enrolla y drapea sobre una blusa y una falda."
+  },
+  {
+    "id": "cg-6182",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad nabatea de Jordania fue tallada en acantilados de arenisca?",
+    "options": [
+      "Palmira",
+      "Petra",
+      "Baalbek",
+      "Gérasa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Petra fue la capital del reino nabateo y su fachada más conocida es la del tesoro o Al-Khazneh."
+  },
+  {
+    "id": "cg-6183",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué pueblo bereber nómada del Sahara se distingue por el uso de velos azules?",
+    "options": [
+      "Los beduinos",
+      "Los masái",
+      "Los tuareg",
+      "Los fulani"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los tuareg recorrían el Sahara con caravanas y los hombres usan el tagelmust, un velo azul índigo."
+  },
+  {
+    "id": "cg-6184",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué pueblo indígena habita el Ártico de Canadá y Groenlandia y construye iglús con bloques de nieve?",
+    "options": [
+      "Los sami",
+      "Los nenets",
+      "Los aleutianos",
+      "Los inuit"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los inuit se distribuyen por el Ártico canadiense y groenlandés y han desarrollado técnicas de caza y vivienda adaptadas al frío."
+  },
+  {
+    "id": "cg-6185",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué civilización de la Edad del Bronce construyó las ciudades planificadas de Mohenjo-Daro y Harappa?",
+    "options": [
+      "La civilización del valle del Indo",
+      "La civilización mesopotámica",
+      "La civilización egipcia",
+      "La civilización persa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La civilización del Indo desarrolló alcantarillado y urbanismo en el actual Pakistán y noroeste de la India."
+  },
+  {
+    "id": "cg-6186",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad romana quedó sepultada por la erupción del Vesubio en el año 79?",
+    "options": [
+      "Herculano",
+      "Pompeya",
+      "Ostia",
+      "Éfeso"
+    ],
+    "correctIndex": 1,
+    "explanation": "La erupción del Vesubio cubrió Pompeya de ceniza y conservó sus calles y frescos hasta las excavaciones modernas."
+  },
+  {
+    "id": "cg-6187",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué mausoleo de mármol blanco del siglo XVII se encuentra en Agra, India?",
+    "options": [
+      "El Fuerte Rojo",
+      "El Qutub Minar",
+      "El Taj Mahal",
+      "El Hawa Mahal"
+    ],
+    "correctIndex": 2,
+    "explanation": "El emperador mogol Shah Jahan mandó construir el Taj Mahal como tumba para su esposa Mumtaz Mahal."
+  },
+  {
+    "id": "cg-6188",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué lengua prerromana, aislada y sin parentesco conocido, se habla en Euskadi y Navarra?",
+    "options": [
+      "El catalán",
+      "El gallego",
+      "El asturiano",
+      "El euskera"
+    ],
+    "correctIndex": 3,
+    "explanation": "El euskera o vasco es una lengua aislada que se habla en el País Vasco y Navarra."
+  },
+  {
+    "id": "cg-6189",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué lengua celta se habla en Gales y se llama Cymraeg en su propio idioma?",
+    "options": [
+      "El galés",
+      "El gaélico escocés",
+      "El irlandés",
+      "El bretón"
+    ],
+    "correctIndex": 0,
+    "explanation": "El galés es una lengua celta britónica oficial en Gales y presente en la educación y los medios."
+  },
+  {
+    "id": "cg-6190",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué dinastía china construyó entre 1406 y 1420 el conjunto palaciego conocido hoy como Ciudad Prohibida en Pekín?",
+    "options": [
+      "La dinastía Yuan",
+      "La dinastía Ming",
+      "La dinastía Song",
+      "La dinastía Qing"
+    ],
+    "correctIndex": 1,
+    "explanation": "El emperador Yongle trasladó la capital a Pekín y edificó el palacio imperial con miles de estancias."
+  },
+  {
+    "id": "cg-6191",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué catedral gótica de la isla de la Cité, en París, sufrió un incendio en 2019?",
+    "options": [
+      "Saint-Chapelle",
+      "Sainte-Geneviève",
+      "Notre-Dame",
+      "San Sulpicio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El incendio de Notre-Dame de París en abril de 2019 destruyó la aguja y parte de la cubierta."
+  },
+  {
+    "id": "cg-6192",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué anfiteatro romano del siglo I d. C. se encuentra junto al Foro de Roma?",
+    "options": [
+      "El Circo Máximo",
+      "Las Termas de Caracalla",
+      "El Teatro de Marcelo",
+      "El Coliseo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Coliseo o Anfiteatro Flavio se inauguró en el año 80 y podía albergar a más de cincuenta mil espectadores."
+  },
+  {
+    "id": "cg-6193",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué lengua polinesia es oficial en Nueva Zelanda junto al inglés y la lengua de signos?",
+    "options": [
+      "El maorí",
+      "El samoano",
+      "El tongano",
+      "El hawaiano"
+    ],
+    "correctIndex": 0,
+    "explanation": "El maorí o te reo Māori es lengua oficial de Nueva Zelanda desde 1987 y se enseña en escuelas."
+  },
+  {
+    "id": "cg-6194",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué conjunto de templos camboyanos fue capital del Imperio jemer entre los siglos IX y XV?",
+    "options": [
+      "Bagan",
+      "Angkor",
+      "Ayutthaya",
+      "Sukhothai"
+    ],
+    "correctIndex": 1,
+    "explanation": "Angkor alberga Angkor Wat y el Bayón, y fue la capital del Imperio jemer hasta su abandono en el siglo XV."
+  },
+  {
+    "id": "cg-6195",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué imperio andino usó quipus de cuerdas anudadas para llevar registros administrativos?",
+    "options": [
+      "El Imperio chimú",
+      "El Imperio tiahuanaco",
+      "El Imperio inca",
+      "El Imperio moche"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los incas codificaban datos en quipus mediante nudos, colores y posiciones de las cuerdas."
+  },
+  {
+    "id": "cg-6196",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué idioma es oficial en Brasil además de ser la lengua de Portugal?",
+    "options": [
+      "El español",
+      "El francés",
+      "El italiano",
+      "El portugués"
+    ],
+    "correctIndex": 3,
+    "explanation": "Brasil es el único país de América Latina donde el portugués es lengua oficial."
+  },
+  {
+    "id": "cg-6197",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "easy",
+    "question": "¿Qué arte japonés consiste en plegar papel para crear figuras sin cortarlo?",
+    "options": [
+      "El origami",
+      "El kirigami",
+      "El ikebana",
+      "El washi"
+    ],
+    "correctIndex": 0,
+    "explanation": "El origami parte de una hoja cuadrada y utiliza pliegues para formar grullas, flores y otros motivos."
+  },
+  {
+    "id": "cg-6198",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿En qué país se encuentra la gran mezquita de barro de Djenné, junto al río Bani?",
+    "options": [
+      "Níger",
+      "Malí",
+      "Chad",
+      "Senegal"
+    ],
+    "correctIndex": 1,
+    "explanation": "La mezquita de Djenné es la mayor construcción de adobe del mundo y se restaura cada año con barro."
+  },
+  {
+    "id": "cg-6199",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "medium",
+    "question": "¿Qué palacio francés fue residencia principal de Luis XIV y centro de la corte desde 1682?",
+    "options": [
+      "El Palacio de Fontainebleau",
+      "El Palacio del Louvre",
+      "El Palacio de Versalles",
+      "El Palacio de Chambord"
+    ],
+    "correctIndex": 2,
+    "explanation": "Versalles se amplió bajo Luis XIV y su Salón de los Espejos se convirtió en símbolo del absolutismo."
+  },
+  {
+    "id": "cg-6200",
+    "category": "general",
+    "topic": "music_cinema_culture",
+    "difficulty": "hard",
+    "question": "¿Qué pueblo polinesio de la isla de Pascua talló los moáis?",
+    "options": [
+      "Los maoríes",
+      "Los hawaianos",
+      "Los samoanos",
+      "Los rapanui"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los rapanui esculpieron los moáis entre los siglos XIII y XVI para representar antepasados divinizados."
+  }
+]

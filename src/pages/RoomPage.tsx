@@ -34,6 +34,7 @@ export function RoomPage() {
   const [resolveError, setResolveError] = useState<string | null>(null);
   const [busy, setBusy] = useState<string | null>(null);
   const [leaveOpen, setLeaveOpen] = useState(false);
+  const [closeRoomOpen, setCloseRoomOpen] = useState(false);
   const [toast, setToast] = useState<{ message: string; tone: 'error' | 'success' | 'info' } | null>(
     null,
   );
@@ -183,6 +184,33 @@ export function RoomPage() {
     }
   };
 
+  const closeRoom = async () => {
+    if (!session || !roomId) {
+      navigate('/home');
+      return;
+    }
+    setBusy('room.close');
+    try {
+      await callApi('room.close', { roomId }, session);
+      setActiveRoom(null);
+      navigate('/home');
+    } catch (err) {
+      if (
+        err instanceof ApiError &&
+        (err.code === 'ROOM_NOT_FOUND' || err.code === 'NOT_IN_ROOM')
+      ) {
+        setActiveRoom(null);
+        navigate('/home');
+        return;
+      }
+      notify(errorMessage(err));
+      void room.refetch(true);
+    } finally {
+      setBusy(null);
+      setCloseRoomOpen(false);
+    }
+  };
+
   const retry = () => {
     if (roomId) {
       void room.refetch(false);
@@ -265,11 +293,19 @@ export function RoomPage() {
             onStart={() => run('room.start')}
             onCopy={(text, label) => void copy(text, label)}
             onNotify={(message, tone) => notify(message, tone)}
+            onCloseRoom={() => setCloseRoomOpen(true)}
+            onLeave={() => setLeaveOpen(true)}
           />
         )}
 
         {isResults && (
-          <ResultsView state={state} busy={busyBool} onRestart={() => run('room.restart')} />
+          <ResultsView
+            state={state}
+            busy={busyBool}
+            onRestart={() => run('room.restart')}
+            onCloseRoom={() => setCloseRoomOpen(true)}
+            onLeave={() => setLeaveOpen(true)}
+          />
         )}
 
         {!isResults && state.room.status === 'playing' && (
@@ -336,6 +372,17 @@ export function RoomPage() {
         onConfirm={() => void leave()}
         onClose={() => setLeaveOpen(false)}
         loading={busy === 'leave'}
+        tone="danger"
+      />
+
+      <Modal
+        open={closeRoomOpen && state.me.isHost}
+        title="¿Cerrar la sala?"
+        description="Se eliminarán la sala, sus miembros y el historial de partidas. Los demás perderán el acceso y no podrán volver a entrar con este código. Solo puedes cerrarla si no hay una partida en curso."
+        confirmLabel="Cerrar sala"
+        onConfirm={() => void closeRoom()}
+        onClose={() => setCloseRoomOpen(false)}
+        loading={busy === 'room.close'}
         tone="danger"
       />
 

@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-2821",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la capa sólida más externa de la Tierra?",
+    "options": [
+      "Manto",
+      "Núcleo externo",
+      "Núcleo interno",
+      "Corteza"
+    ],
+    "correctIndex": 3,
+    "explanation": "La corteza es la capa rocosa más externa y delgada del planeta."
+  },
+  {
+    "id": "cg-2822",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué capa de la Tierra se encuentra entre la corteza y el núcleo?",
+    "options": [
+      "Corteza",
+      "Atmósfera",
+      "Manto",
+      "Hidrosfera"
+    ],
+    "correctIndex": 2,
+    "explanation": "El manto es la capa intermedia, formada por rocas ricas en silicatos."
+  },
+  {
+    "id": "cg-2823",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué metal predomina en el núcleo terrestre?",
+    "options": [
+      "Aluminio",
+      "Hierro",
+      "Cobre",
+      "Plomo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El núcleo está compuesto sobre todo por hierro y algo de níquel."
+  },
+  {
+    "id": "cg-2824",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué parte del interior terrestre es líquida y genera el campo magnético?",
+    "options": [
+      "Núcleo interno",
+      "Manto superior",
+      "Núcleo externo",
+      "Corteza oceánica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los movimientos del hierro fundido del núcleo externo generan el campo magnético."
+  },
+  {
+    "id": "cg-2825",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de roca se forma al enfriarse el magma o la lava?",
+    "options": [
+      "Sedimentaria",
+      "Ígnea",
+      "Metamórfica",
+      "Orgánica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las rocas ígneas cristalizan a partir de material fundido."
+  },
+  {
+    "id": "cg-2826",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de roca se forma por compactación y cementación de sedimentos?",
+    "options": [
+      "Ígnea",
+      "Metamórfica",
+      "Sedimentaria",
+      "Plutónica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los sedimentos acumulados se compactan y cementan con el tiempo."
+  },
+  {
+    "id": "cg-2827",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de roca se origina por calor y presión intensos sin llegar a fundirse?",
+    "options": [
+      "Sedimentaria",
+      "Ígnea",
+      "Detrítica",
+      "Metamórfica"
+    ],
+    "correctIndex": 3,
+    "explanation": "El metamorfismo transforma rocas preexistentes en estado sólido."
+  },
+  {
+    "id": "cg-2828",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué roca de origen volcánico forma gran parte del fondo oceánico?",
+    "options": [
+      "Caliza",
+      "Mármol",
+      "Pizarra",
+      "Basalto"
+    ],
+    "correctIndex": 3,
+    "explanation": "El basalto es una roca ígnea extrusiva que compone la corteza oceánica."
+  },
+  {
+    "id": "cg-2829",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué roca sedimentaria está formada principalmente por carbonato de calcio?",
+    "options": [
+      "Basalto",
+      "Granito",
+      "Obsidiana",
+      "Caliza"
+    ],
+    "correctIndex": 3,
+    "explanation": "La caliza se origina por acumulación de carbonato cálcico, a menudo de origen marino."
+  },
+  {
+    "id": "cg-2830",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué roca se forma por metamorfismo de la caliza?",
+    "options": [
+      "Pizarra",
+      "Basalto",
+      "Arenisca",
+      "Mármol"
+    ],
+    "correctIndex": 3,
+    "explanation": "El mármol es caliza recristalizada por calor y presión."
+  },
+  {
+    "id": "cg-2831",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué mineral ocupa el grado 10, el máximo de la escala de Mohs?",
+    "options": [
+      "Cuarzo",
+      "Corindón",
+      "Diamante",
+      "Yeso"
+    ],
+    "correctIndex": 2,
+    "explanation": "El diamante es el mineral de referencia con dureza 10."
+  },
+  {
+    "id": "cg-2832",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué mineral ocupa el grado 1 de la escala de Mohs?",
+    "options": [
+      "Yeso",
+      "Calcita",
+      "Cuarzo",
+      "Talco"
+    ],
+    "correctIndex": 3,
+    "explanation": "El talco es el mineral más blando de la escala, con dureza 1."
+  },
+  {
+    "id": "cg-2833",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué escala mide la dureza relativa de los minerales?",
+    "options": [
+      "Escala de Richter",
+      "Escala de Beaufort",
+      "Escala de Mohs",
+      "Escala de Mercalli"
+    ],
+    "correctIndex": 2,
+    "explanation": "La escala de Mohs ordena diez minerales de menor a mayor dureza."
+  },
+  {
+    "id": "cg-2834",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento registra las vibraciones de un terremoto?",
+    "options": [
+      "Barómetro",
+      "Anemómetro",
+      "Sismógrafo",
+      "Altímetro"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sismógrafo dibuja un sismograma con las ondas del sismo."
+  },
+  {
+    "id": "cg-2835",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué escala se usa tradicionalmente para expresar la magnitud de un sismo?",
+    "options": [
+      "Richter",
+      "Mohs",
+      "Fujita",
+      "Beaufort"
+    ],
+    "correctIndex": 0,
+    "explanation": "La escala de Richter mide la energía liberada por un terremoto."
+  },
+  {
+    "id": "cg-2836",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el punto de la superficie situado sobre el origen de un sismo?",
+    "options": [
+      "Hipocentro",
+      "Epicentro",
+      "Foco",
+      "Falla"
+    ],
+    "correctIndex": 1,
+    "explanation": "El epicentro es la proyección vertical del foco sísmico en la superficie."
+  },
+  {
+    "id": "cg-2837",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el punto del interior donde se origina un sismo?",
+    "options": [
+      "Hipocentro",
+      "Epicentro",
+      "Cresta",
+      "Vertiente"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hipocentro o foco es el lugar donde se libera la energía sísmica."
+  },
+  {
+    "id": "cg-2838",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué volcán italiano sepultó Pompeya y Herculano en el año 79?",
+    "options": [
+      "Etna",
+      "Estrómboli",
+      "Vesubio",
+      "Vulcano"
+    ],
+    "correctIndex": 2,
+    "explanation": "La erupción del Vesubio cubrió de ceniza y piroclastos ambas ciudades romanas."
+  },
+  {
+    "id": "cg-2839",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la roca fundida que permanece bajo la superficie terrestre?",
+    "options": [
+      "Magma",
+      "Lava",
+      "Ceniza",
+      "Obsidiana"
+    ],
+    "correctIndex": 0,
+    "explanation": "El magma es material fundido que aún no ha salido al exterior."
+  },
+  {
+    "id": "cg-2840",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el magma que sale al exterior por un volcán?",
+    "options": [
+      "Magma",
+      "Pumita",
+      "Lava",
+      "Basalto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al perder gases y alcanzar la superficie, el magma se convierte en lava."
+  },
+  {
+    "id": "cg-2841",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la abertura por la que un volcán expulsa materiales?",
+    "options": [
+      "Caldera",
+      "Géiser",
+      "Fumarola",
+      "Cráter"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cráter es la boca del conducto volcánico."
+  },
+  {
+    "id": "cg-2842",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe la zona del Pacífico con gran actividad sísmica y volcánica?",
+    "options": [
+      "Triángulo de las Bermudas",
+      "Dorsal Atlántica",
+      "Valle del Rift",
+      "Cinturón de Fuego"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Cinturón de Fuego rodea el Pacífico con fosas, arcos volcánicos y sismos."
+  },
+  {
+    "id": "cg-2843",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué teoría explica el movimiento de los continentes y la actividad sísmica?",
+    "options": [
+      "Teoría de la gravitación",
+      "Tectónica de placas",
+      "Teoría del ciclo geológico",
+      "Teoría de la isostasia"
+    ],
+    "correctIndex": 1,
+    "explanation": "La tectónica de placas integra la deriva continental y la expansión oceánica."
+  },
+  {
+    "id": "cg-2844",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el supercontinente que agrupó a las tierras emergidas hace unos 250 millones de años?",
+    "options": [
+      "Gondwana",
+      "Rodinia",
+      "Laurasia",
+      "Pangea"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pangea se formó al final del Paleozoico y empezó a fragmentarse después."
+  },
+  {
+    "id": "cg-2845",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué científico alemán propuso la teoría de la deriva continental en 1912?",
+    "options": [
+      "Charles Lyell",
+      "James Hutton",
+      "Alfred Wegener",
+      "Arthur Holmes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wegener defendió que los continentes se habían desplazado lateralmente."
+  },
+  {
+    "id": "cg-2846",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué capa atmosférica contiene las auroras polares y buena parte de la ionosfera?",
+    "options": [
+      "Troposfera",
+      "Estratosfera",
+      "Mesosfera",
+      "Termosfera"
+    ],
+    "correctIndex": 3,
+    "explanation": "En la termosfera o ionosfera las partículas cargadas producen las auroras."
+  },
+  {
+    "id": "cg-2847",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué capa atmosférica se encuentra entre la troposfera y la mesosfera?",
+    "options": [
+      "Termosfera",
+      "Exosfera",
+      "Estratosfera",
+      "Ionosfera"
+    ],
+    "correctIndex": 2,
+    "explanation": "La estratosfera alberga la capa de ozono y tiene aire estable."
+  },
+  {
+    "id": "cg-2848",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué gas constituye cerca del 78 % del aire atmosférico?",
+    "options": [
+      "Oxígeno",
+      "Argón",
+      "Dióxido de carbono",
+      "Nitrógeno"
+    ],
+    "correctIndex": 3,
+    "explanation": "El nitrógeno molecular es el componente mayoritario del aire."
+  },
+  {
+    "id": "cg-2849",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué gas del aire es imprescindible para la respiración de los seres vivos?",
+    "options": [
+      "Oxígeno",
+      "Nitrógeno",
+      "Helio",
+      "Metano"
+    ],
+    "correctIndex": 0,
+    "explanation": "El oxígeno interviene en la respiración celular de la mayoría de los organismos."
+  },
+  {
+    "id": "cg-2850",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué gas se libera al quemar combustibles fósiles y contribuye al efecto invernadero?",
+    "options": [
+      "Oxígeno",
+      "Nitrógeno",
+      "Argón",
+      "Dióxido de carbono"
+    ],
+    "correctIndex": 3,
+    "explanation": "La combustión de carbón, petróleo y gas emite dióxido de carbono."
+  },
+  {
+    "id": "cg-2851",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el paso del agua líquida a vapor por acción del calor?",
+    "options": [
+      "Evaporación",
+      "Condensación",
+      "Precipitación",
+      "Filtración"
+    ],
+    "correctIndex": 0,
+    "explanation": "La evaporación aporta vapor de agua a la atmósfera."
+  },
+  {
+    "id": "cg-2852",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el paso del vapor de agua a pequeñas gotas líquidas?",
+    "options": [
+      "Evaporación",
+      "Sublimación",
+      "Transpiración",
+      "Condensación"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al enfriarse, el vapor se condensa y forma nubes o rocío."
+  },
+  {
+    "id": "cg-2853",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la precipitación de trozos de hielo que se forma en tormentas?",
+    "options": [
+      "Escarcha",
+      "Granizo",
+      "Rocío",
+      "Nieve"
+    ],
+    "correctIndex": 1,
+    "explanation": "El granizo crece en corrientes ascendentes dentro de cumulonimbos."
+  },
+  {
+    "id": "cg-2854",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el conjunto de procesos por los que el agua circula entre océanos, atmósfera y continentes?",
+    "options": [
+      "Ciclo del carbono",
+      "Ciclo de las rocas",
+      "Ciclo del nitrógeno",
+      "Ciclo del agua"
+    ],
+    "correctIndex": 3,
+    "explanation": "El ciclo hidrológico incluye evaporación, transporte, precipitación y escorrentía."
+  },
+  {
+    "id": "cg-2855",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de nube suele producir tormentas y granizo?",
+    "options": [
+      "Cirro",
+      "Cumulonimbo",
+      "Estrato",
+      "Nimboestrato"
+    ],
+    "correctIndex": 1,
+    "explanation": "El cumulonimbo es una nube de gran desarrollo vertical asociada a tormentas."
+  },
+  {
+    "id": "cg-2856",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de nube forma una capa gris baja y uniforme, a menudo con llovizna?",
+    "options": [
+      "Estrato",
+      "Cumulonimbo",
+      "Cirro",
+      "Altocúmulo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los estratos cubren el cielo como una capa baja y homogénea."
+  },
+  {
+    "id": "cg-2857",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento mide la humedad relativa del aire?",
+    "options": [
+      "Higrómetro",
+      "Barómetro",
+      "Anemómetro",
+      "Pluviómetro"
+    ],
+    "correctIndex": 0,
+    "explanation": "El higrómetro determina el contenido de vapor de agua en el aire."
+  },
+  {
+    "id": "cg-2858",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento mide la velocidad del viento?",
+    "options": [
+      "Veleta",
+      "Anemómetro",
+      "Higrómetro",
+      "Termómetro"
+    ],
+    "correctIndex": 1,
+    "explanation": "El anemómetro cuantifica la velocidad del viento."
+  },
+  {
+    "id": "cg-2859",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento indica la dirección del viento?",
+    "options": [
+      "Anemómetro",
+      "Barómetro",
+      "Veleta",
+      "Sismógrafo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La veleta señala hacia el punto del horizonte de donde sopla el viento."
+  },
+  {
+    "id": "cg-2860",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento mide la cantidad de lluvia caída?",
+    "options": [
+      "Pluviómetro",
+      "Higrómetro",
+      "Barómetro",
+      "Altímetro"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pluviómetro recoge y mide la precipitación líquida."
+  },
+  {
+    "id": "cg-2861",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué línea imaginaria divide la Tierra en hemisferios norte y sur?",
+    "options": [
+      "Meridiano de Greenwich",
+      "Trópico de Cáncer",
+      "Círculo polar ártico",
+      "Ecuador"
+    ],
+    "correctIndex": 3,
+    "explanation": "El ecuador es el paralelo de latitud cero."
+  },
+  {
+    "id": "cg-2862",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué meridiano se toma como origen de la longitud, con valor cero grados?",
+    "options": [
+      "Ecuador",
+      "Meridiano de Greenwich",
+      "Trópico de Capricornio",
+      "Antimeridiano"
+    ],
+    "correctIndex": 1,
+    "explanation": "Por convención, Greenwich es el meridiano de referencia."
+  },
+  {
+    "id": "cg-2863",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué coordenada geográfica expresa la distancia angular al ecuador?",
+    "options": [
+      "Longitud",
+      "Altitud",
+      "Azimut",
+      "Latitud"
+    ],
+    "correctIndex": 3,
+    "explanation": "La latitud varía de 0 grados en el ecuador a 90 en los polos."
+  },
+  {
+    "id": "cg-2864",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué coordenada geográfica expresa la distancia angular al meridiano de Greenwich?",
+    "options": [
+      "Latitud",
+      "Altitud",
+      "Declinación",
+      "Longitud"
+    ],
+    "correctIndex": 3,
+    "explanation": "La longitud se mide hacia el este o el oeste de Greenwich."
+  },
+  {
+    "id": "cg-2865",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué movimiento de la Tierra sobre su eje produce el día y la noche?",
+    "options": [
+      "Traslación",
+      "Precesión",
+      "Rotación",
+      "Nutación"
+    ],
+    "correctIndex": 2,
+    "explanation": "La rotación completa dura aproximadamente 24 horas."
+  },
+  {
+    "id": "cg-2866",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué movimiento de la Tierra alrededor del Sol dura aproximadamente un año?",
+    "options": [
+      "Traslación",
+      "Rotación",
+      "Precesión",
+      "Inclinación"
+    ],
+    "correctIndex": 0,
+    "explanation": "La traslación recorre la órbita terrestre en unos 365 días."
+  },
+  {
+    "id": "cg-2867",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué estación comienza en el hemisferio norte alrededor del 21 de junio?",
+    "options": [
+      "Invierno",
+      "Verano",
+      "Primavera",
+      "Otoño"
+    ],
+    "correctIndex": 1,
+    "explanation": "El solsticio de junio marca el inicio del verano boreal."
+  },
+  {
+    "id": "cg-2868",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué factor explica principalmente la sucesión de las estaciones?",
+    "options": [
+      "La distancia al Sol",
+      "La rotación terrestre",
+      "La actividad solar",
+      "La inclinación del eje terrestre"
+    ],
+    "correctIndex": 3,
+    "explanation": "La inclinación del eje cambia el ángulo de incidencia de la luz solar."
+  },
+  {
+    "id": "cg-2869",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué fuerza hace que los cuerpos caigan hacia el centro de la Tierra?",
+    "options": [
+      "Magnetismo",
+      "Gravedad",
+      "Fricción",
+      "Presión"
+    ],
+    "correctIndex": 1,
+    "explanation": "La gravedad terrestre atrae las masas hacia el centro del planeta."
+  },
+  {
+    "id": "cg-2870",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el satélite natural de la Tierra?",
+    "options": [
+      "Fobos",
+      "Luna",
+      "Titán",
+      "Ío"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Luna orbita la Tierra y estabiliza su eje de rotación."
+  },
+  {
+    "id": "cg-2871",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la subida y bajada periódica del nivel del mar?",
+    "options": [
+      "Marea",
+      "Oleaje",
+      "Corriente",
+      "Tsunami"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las mareas se deben sobre todo a la atracción gravitatoria lunar y solar."
+  },
+  {
+    "id": "cg-2872",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué porcentaje aproximado de la superficie terrestre está cubierto por agua?",
+    "options": [
+      "50 %",
+      "29 %",
+      "71 %",
+      "90 %"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cerca de siete décimas partes de la superficie son océanos y mares."
+  },
+  {
+    "id": "cg-2873",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué océano ocupa aproximadamente un tercio de la superficie del planeta?",
+    "options": [
+      "Atlántico",
+      "Índico",
+      "Ártico",
+      "Pacífico"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Pacífico es el mayor y más profundo de los océanos."
+  },
+  {
+    "id": "cg-2874",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué océano se extiende entre América y Europa y África?",
+    "options": [
+      "Pacífico",
+      "Índico",
+      "Austral",
+      "Atlántico"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Atlántico separa América de Europa y África."
+  },
+  {
+    "id": "cg-2875",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué océano rodea el polo norte y es el de menor extensión?",
+    "options": [
+      "Antártico",
+      "Ártico",
+      "Índico",
+      "Pacífico"
+    ],
+    "correctIndex": 1,
+    "explanation": "El océano Ártico es el más pequeño y somero de los cinco."
+  },
+  {
+    "id": "cg-2876",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué continente se extiende desde el océano Atlántico hasta los montes Urales?",
+    "options": [
+      "Asia",
+      "África",
+      "Europa",
+      "Oceanía"
+    ],
+    "correctIndex": 2,
+    "explanation": "Europa ocupa el extremo occidental de Eurasia."
+  },
+  {
+    "id": "cg-2877",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué cordillera marca tradicionalmente el límite entre Europa y Asia?",
+    "options": [
+      "Montes Urales",
+      "Alpes",
+      "Cárpatos",
+      "Pirineos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los Urales separan las llanuras europeas de Siberia."
+  },
+  {
+    "id": "cg-2878",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama una gran masa de hielo que se desplaza lentamente por gravedad?",
+    "options": [
+      "Iceberg",
+      "Glaciar",
+      "Nevero",
+      "Morrena"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los glaciares fluyen y modelan el relieve con su erosión."
+  },
+  {
+    "id": "cg-2879",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama un bloque de hielo flotante desprendido de un glaciar o casquete?",
+    "options": [
+      "Glaciar",
+      "Fiordo",
+      "Barrera de hielo",
+      "Iceberg"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los icebergs son fragmentos de hielo continental que flotan en el mar."
+  },
+  {
+    "id": "cg-2880",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el suelo que permanece congelado durante todo el año?",
+    "options": [
+      "Tundra",
+      "Loess",
+      "Permafrost",
+      "Humus"
+    ],
+    "correctIndex": 2,
+    "explanation": "El permafrost mantiene hielo en el subsuelo de forma permanente."
+  },
+  {
+    "id": "cg-2881",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe una masa de hielo que cubre por completo una región continental?",
+    "options": [
+      "Fiordo",
+      "Morrena",
+      "Casquete glaciar",
+      "Drumlin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los casquetes glaciares cubren amplias áreas, como Groenlandia y la Antártida."
+  },
+  {
+    "id": "cg-2882",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿En qué era geológica vivieron los dinosaurios no avianos?",
+    "options": [
+      "Paleozoica",
+      "Mesozoica",
+      "Cenozoica",
+      "Proterozoica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los dinosaurios dominaron durante el Mesozoico, entre el Triásico y el Cretácico."
+  },
+  {
+    "id": "cg-2883",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de impacto se asocia a la extinción de los dinosaurios hace unos 66 millones de años?",
+    "options": [
+      "Una glaciación",
+      "Una erupción solar",
+      "Un tsunami",
+      "Un asteroide"
+    ],
+    "correctIndex": 3,
+    "explanation": "El impacto de Chicxulub coincide con la extinción del final del Cretácico."
+  },
+  {
+    "id": "cg-2884",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama un resto o huella de un ser vivo conservado en roca?",
+    "options": [
+      "Mineral",
+      "Fósil",
+      "Sedimento",
+      "Cristal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los fósiles conservan partes o señales de organismos antiguos."
+  },
+  {
+    "id": "cg-2885",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué ciencia estudia los fósiles y las formas de vida antiguas?",
+    "options": [
+      "Paleontología",
+      "Geología",
+      "Arqueología",
+      "Biología"
+    ],
+    "correctIndex": 0,
+    "explanation": "La paleontología reconstruye la historia de la vida a partir de fósiles."
+  },
+  {
+    "id": "cg-2886",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué ciencia estudia la estructura y la historia de la Tierra?",
+    "options": [
+      "Astronomía",
+      "Geología",
+      "Meteorología",
+      "Oceanografía"
+    ],
+    "correctIndex": 1,
+    "explanation": "La geología abarca rocas, estratos, tectónica y historia del planeta."
+  },
+  {
+    "id": "cg-2887",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué ciencia estudia el clima y sus variaciones a largo plazo?",
+    "options": [
+      "Meteorología",
+      "Climatología",
+      "Ecología",
+      "Geografía"
+    ],
+    "correctIndex": 1,
+    "explanation": "La climatología analiza patrones climáticos de décadas o siglos."
+  },
+  {
+    "id": "cg-2888",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué ciencia estudia el tiempo atmosférico y sus fenómenos?",
+    "options": [
+      "Meteorología",
+      "Climatología",
+      "Geología",
+      "Hidrología"
+    ],
+    "correctIndex": 0,
+    "explanation": "La meteorología se ocupa del estado de la atmósfera a corto plazo."
+  },
+  {
+    "id": "cg-2889",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué ciencia estudia los océanos, sus aguas y sus fondos?",
+    "options": [
+      "Geología",
+      "Meteorología",
+      "Limnología",
+      "Oceanografía"
+    ],
+    "correctIndex": 3,
+    "explanation": "La oceanografía integra física, química, biología y geología marina."
+  },
+  {
+    "id": "cg-2890",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama una ola gigante provocada por un terremoto o una erupción submarina?",
+    "options": [
+      "Tsunami",
+      "Ola de tormenta",
+      "Corriente de resaca",
+      "Seiche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los tsunamis se generan por desplazamientos bruscos del fondo marino."
+  },
+  {
+    "id": "cg-2891",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama un ciclón tropical en el océano Atlántico?",
+    "options": [
+      "Tifón",
+      "Ciclón extratropical",
+      "Huracán",
+      "Monzón"
+    ],
+    "correctIndex": 2,
+    "explanation": "En el Atlántico y el Pacífico oriental se denomina huracán."
+  },
+  {
+    "id": "cg-2892",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama una columna de aire giratoria que toca el suelo y se forma bajo una tormenta?",
+    "options": [
+      "Huracán",
+      "Monzón",
+      "Tornado",
+      "Vendaval"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los tornados son vórtices violentos de pequeña escala."
+  },
+  {
+    "id": "cg-2893",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué escala clasifica la intensidad de los tornados?",
+    "options": [
+      "Escala de Richter",
+      "Escala de Fujita",
+      "Escala de Saffir-Simpson",
+      "Escala de Mohs"
+    ],
+    "correctIndex": 1,
+    "explanation": "La escala de Fujita estima el daño causado por un tornado."
+  },
+  {
+    "id": "cg-2894",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué escala clasifica la intensidad de los huracanes según la velocidad del viento?",
+    "options": [
+      "Saffir-Simpson",
+      "Fujita",
+      "Richter",
+      "Beaufort"
+    ],
+    "correctIndex": 0,
+    "explanation": "Saffir-Simpson va de categoría 1 a 5 según los vientos sostenidos."
+  },
+  {
+    "id": "cg-2895",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama un periodo prolongado de precipitación muy inferior a la normal?",
+    "options": [
+      "Inundación",
+      "Monzón",
+      "Helada",
+      "Sequía"
+    ],
+    "correctIndex": 3,
+    "explanation": "La sequía reduce la disponibilidad de agua en suelos y reservas."
+  },
+  {
+    "id": "cg-2896",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el desplazamiento de rocas y suelo por una ladera?",
+    "options": [
+      "Erosión eólica",
+      "Deslizamiento de tierra",
+      "Diapirismo",
+      "Subsidencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los deslizamientos ocurren cuando el terreno pierde estabilidad."
+  },
+  {
+    "id": "cg-2897",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el desprendimiento de una masa de nieve por una ladera de montaña?",
+    "options": [
+      "Alud de rocas",
+      "Lahar",
+      "Corrimiento",
+      "Avalancha"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las avalanchas descienden velozmente por pendientes nevadas."
+  },
+  {
+    "id": "cg-2898",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué fenómeno atmosférico produce el trueno?",
+    "options": [
+      "Un rayo",
+      "Una nube cirro",
+      "El viento solar",
+      "La lluvia ácida"
+    ],
+    "correctIndex": 0,
+    "explanation": "El rayo calienta el aire, que se expande y genera la onda sonora del trueno."
+  },
+  {
+    "id": "cg-2899",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué fenómeno óptico explica la formación del arcoíris en gotas de agua?",
+    "options": [
+      "Absorción del sonido",
+      "Refracción y reflexión de la luz",
+      "Dispersión del viento",
+      "Polarización del calor"
+    ],
+    "correctIndex": 1,
+    "explanation": "La luz solar se refracta, se refleja y se dispersa en las gotas."
+  },
+  {
+    "id": "cg-2900",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué protege la capa de ozono en la estratosfera?",
+    "options": [
+      "De los rayos gamma",
+      "Del viento solar",
+      "De la radiación ultravioleta",
+      "Del calor interno"
+    ],
+    "correctIndex": 2,
+    "explanation": "El ozono absorbe buena parte de la radiación ultravioleta solar."
+  },
+  {
+    "id": "cg-2901",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de lluvia se forma por óxidos de azufre y nitrógeno emitidos a la atmósfera?",
+    "options": [
+      "Lluvia convectiva",
+      "Lluvia ácida",
+      "Lluvia orográfica",
+      "Lluvia frontal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Esos gases forman ácidos que acidifican la precipitación."
+  },
+  {
+    "id": "cg-2902",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la mezcla de humo y contaminantes que se acumula sobre las ciudades?",
+    "options": [
+      "Bruma marina",
+      "Smog",
+      "Calima",
+      "Neblina"
+    ],
+    "correctIndex": 1,
+    "explanation": "El smog combina partículas y gases contaminantes de origen urbano."
+  },
+  {
+    "id": "cg-2903",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué fenómeno natural retiene parte del calor terrestre gracias a gases atmosféricos?",
+    "options": [
+      "Efecto invernadero",
+      "Efecto Coriolis",
+      "Albedo",
+      "Inversión térmica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los gases de efecto invernadero absorben y reemiten radiación infrarroja."
+  },
+  {
+    "id": "cg-2904",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el aumento sostenido de la temperatura media global?",
+    "options": [
+      "Calentamiento global",
+      "Oscilación del Sur",
+      "Glaciación",
+      "El Niño"
+    ],
+    "correctIndex": 0,
+    "explanation": "El calentamiento global se asocia al aumento de gases de efecto invernadero."
+  },
+  {
+    "id": "cg-2905",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la fracción de luz solar que una superficie refleja?",
+    "options": [
+      "Albedo",
+      "Emisividad",
+      "Insolación",
+      "Radiación"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las superficies claras, como la nieve, tienen un albedo alto."
+  },
+  {
+    "id": "cg-2906",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Hacia dónde sopla el viento?",
+    "options": [
+      "De las bajas hacia las altas presiones",
+      "De las altas hacia las bajas presiones",
+      "Siempre hacia el ecuador",
+      "Siempre hacia el oeste"
+    ],
+    "correctIndex": 1,
+    "explanation": "El gradiente de presión impulsa el aire desde zonas anticiclónicas a ciclónicas."
+  },
+  {
+    "id": "cg-2907",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la brisa que sopla del mar hacia la costa durante el día?",
+    "options": [
+      "Brisa terrestre",
+      "Monzón",
+      "Brisa marina",
+      "Viento catabático"
+    ],
+    "correctIndex": 2,
+    "explanation": "De día la tierra se calienta más rápido y el aire marino avanza hacia ella."
+  },
+  {
+    "id": "cg-2908",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el viento estacional que provoca lluvias intensas en el sur de Asia?",
+    "options": [
+      "Monzón",
+      "Alisio",
+      "Poniente",
+      "Cierzo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El monzón invierte su dirección entre estaciones y trae la estación lluviosa."
+  },
+  {
+    "id": "cg-2909",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe el calentamiento anómalo de las aguas del Pacífico ecuatorial?",
+    "options": [
+      "La Niña",
+      "El Monzón",
+      "El Niño",
+      "La Corriente del Golfo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Niño altera lluvias y temperaturas en muchas regiones del planeta."
+  },
+  {
+    "id": "cg-2910",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué corriente cálida del Atlántico suaviza el clima del oeste de Europa?",
+    "options": [
+      "Corriente de Humboldt",
+      "Corriente de Benguela",
+      "Corriente del Labrador",
+      "Corriente del Golfo"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Corriente del Golfo transporta agua cálida hacia el noreste atlántico."
+  },
+  {
+    "id": "cg-2911",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué corriente fría recorre la costa occidental de América del Sur?",
+    "options": [
+      "Corriente del Golfo",
+      "Corriente de Kuroshio",
+      "Corriente de Humboldt",
+      "Corriente de Somalia"
+    ],
+    "correctIndex": 2,
+    "explanation": "La corriente de Humboldt asciende aguas frías y ricas en nutrientes."
+  },
+  {
+    "id": "cg-2912",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cuál es la salinidad media aproximada del agua de mar?",
+    "options": [
+      "0,5 %",
+      "10 %",
+      "3,5 %",
+      "20 %"
+    ],
+    "correctIndex": 2,
+    "explanation": "La salinidad oceánica media ronda los 35 gramos por litro."
+  },
+  {
+    "id": "cg-2913",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué lago de Asia occidental es conocido por su gran salinidad y por no tener salida al mar?",
+    "options": [
+      "Mar Caspio",
+      "Lago Victoria",
+      "Mar Muerto",
+      "Lago Titicaca"
+    ],
+    "correctIndex": 2,
+    "explanation": "El mar Muerto es un lago hipersalino sin desagüe hacia el océano."
+  },
+  {
+    "id": "cg-2914",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Frente a qué país se encuentra la Gran Barrera de Coral?",
+    "options": [
+      "Indonesia",
+      "Brasil",
+      "Australia",
+      "México"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Gran Barrera se extiende frente a la costa noreste australiana."
+  },
+  {
+    "id": "cg-2915",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la fosa oceánica de mayor profundidad conocida, en el Pacífico occidental?",
+    "options": [
+      "Fosa de Tonga",
+      "Fosa de las Marianas",
+      "Fosa de Perú-Chile",
+      "Fosa de Java"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fosa de las Marianas alcanza casi 11.000 metros en el abismo Challenger."
+  },
+  {
+    "id": "cg-2916",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué cadena montañosa submarina recorre el centro del océano Atlántico?",
+    "options": [
+      "Fosa de las Marianas",
+      "Plataforma continental",
+      "Dorsal mesoatlántica",
+      "Arco de las Antillas"
+    ],
+    "correctIndex": 2,
+    "explanation": "La dorsal mesoatlántica es un límite divergente donde nace corteza oceánica."
+  },
+  {
+    "id": "cg-2917",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿En qué estado de Estados Unidos se encuentra la falla de San Andrés?",
+    "options": [
+      "Texas",
+      "Florida",
+      "Nevada",
+      "California"
+    ],
+    "correctIndex": 3,
+    "explanation": "La falla de San Andrés recorre California y continúa hacia Baja California."
+  },
+  {
+    "id": "cg-2918",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué cordillera recorre el oeste de América del Sur de norte a sur?",
+    "options": [
+      "Himalaya",
+      "Andes",
+      "Alpes",
+      "Rocosas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los Andes se extienden más de 7.000 kilómetros junto al Pacífico."
+  },
+  {
+    "id": "cg-2919",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué cima del Himalaya, en la frontera entre Nepal y China, es el punto de mayor altitud del planeta?",
+    "options": [
+      "K2",
+      "Kangchenjunga",
+      "Everest",
+      "Lhotse"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Everest alcanza 8.849 metros sobre el nivel del mar."
+  },
+  {
+    "id": "cg-2920",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿En qué archipiélago se encuentra el volcán Kilauea?",
+    "options": [
+      "Canarias",
+      "Galápagos",
+      "Hawái",
+      "Azores"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kilauea es uno de los volcanes activos de la isla de Hawái."
+  },
+  {
+    "id": "cg-2921",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama una fuente termal que expulsa agua caliente y vapor de forma intermitente?",
+    "options": [
+      "Fumarola",
+      "Lahar",
+      "Géiser",
+      "Manantial"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los géiseres expulsan agua sobrecalentada a intervalos."
+  },
+  {
+    "id": "cg-2922",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué río excavó el Gran Cañón en Arizona?",
+    "options": [
+      "Misisipi",
+      "Río Grande",
+      "Colorado",
+      "Columbia"
+    ],
+    "correctIndex": 2,
+    "explanation": "El río Colorado ha erosionado la meseta durante millones de años."
+  },
+  {
+    "id": "cg-2923",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el depósito de sedimentos que forma un río al desembocar en el mar?",
+    "options": [
+      "Delta",
+      "Meandro",
+      "Estuario",
+      "Duna"
+    ],
+    "correctIndex": 0,
+    "explanation": "El delta se crea cuando el río pierde velocidad y deposita su carga."
+  },
+  {
+    "id": "cg-2924",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "easy",
+    "question": "¿Qué caracteriza a un desierto?",
+    "options": [
+      "Exceso de lluvias",
+      "Suelos permanentemente encharcados",
+      "Ausencia de viento",
+      "Escasez de precipitaciones"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un desierto se define por la escasez de agua, no necesariamente por el calor."
+  },
+  {
+    "id": "cg-2925",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué separa la discontinuidad de Mohorovičić?",
+    "options": [
+      "El manto y el núcleo externo",
+      "El núcleo externo y el interno",
+      "La corteza y el manto",
+      "La litosfera y la astenosfera"
+    ],
+    "correctIndex": 2,
+    "explanation": "La discontinuidad de Moho marca el cambio de velocidad sísmica entre corteza y manto."
+  },
+  {
+    "id": "cg-2926",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué incluye la litosfera?",
+    "options": [
+      "La corteza y la parte superior rígida del manto",
+      "Solo la corteza continental",
+      "El manto completo",
+      "El núcleo externo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La litosfera es la capa rígida fragmentada en placas tectónicas."
+  },
+  {
+    "id": "cg-2927",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué capa del manto es parcialmente fundida y permite el movimiento de las placas?",
+    "options": [
+      "Astenosfera",
+      "Litosfera",
+      "Mesosfera",
+      "Núcleo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La astenosfera es dúctil y actúa como lubricante bajo las placas."
+  },
+  {
+    "id": "cg-2928",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Por qué el núcleo interno de la Tierra es sólido pese a su temperatura?",
+    "options": [
+      "Por falta de hierro",
+      "Por enfriamiento rápido",
+      "Por la enorme presión",
+      "Por la rotación terrestre"
+    ],
+    "correctIndex": 2,
+    "explanation": "La presión impide que el hierro del núcleo interno se funda."
+  },
+  {
+    "id": "cg-2929",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué roca predomina en el manto superior?",
+    "options": [
+      "Granito",
+      "Caliza",
+      "Peridotita",
+      "Arenisca"
+    ],
+    "correctIndex": 2,
+    "explanation": "La peridotita es una roca ultramáfica rica en olivino."
+  },
+  {
+    "id": "cg-2930",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Hace cuánto comenzó aproximadamente la fragmentación de Pangea?",
+    "options": [
+      "Hace unos 20 millones de años",
+      "Hace unos 2.000 millones de años",
+      "Hace unos 500.000 años",
+      "Hace unos 200 millones de años"
+    ],
+    "correctIndex": 3,
+    "explanation": "La ruptura de Pangea se inició en el Triásico final y continuó en el Jurásico."
+  },
+  {
+    "id": "cg-2931",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de prueba usó Alfred Wegener para defender la deriva continental?",
+    "options": [
+      "Mediciones por satélite",
+      "Fósiles idénticos en continentes hoy separados",
+      "Análisis de ADN",
+      "Registros de mareas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wegener comparó fósiles, rocas y antiguas glaciaciones en continentes distantes."
+  },
+  {
+    "id": "cg-2932",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de límite de placas se caracteriza por la separación de dos placas y la creación de corteza?",
+    "options": [
+      "Convergente",
+      "Transformante",
+      "Oblicuo",
+      "Divergente"
+    ],
+    "correctIndex": 3,
+    "explanation": "En los límites divergentes asciende magma y se forma corteza nueva."
+  },
+  {
+    "id": "cg-2933",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de límite de placas origina fosas oceánicas y subducción?",
+    "options": [
+      "Divergente",
+      "Convergente",
+      "Transformante",
+      "Pasivo"
+    ],
+    "correctIndex": 1,
+    "explanation": "En los límites convergentes una placa se hunde bajo otra."
+  },
+  {
+    "id": "cg-2934",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de falla permite que dos placas se deslicen horizontalmente en sentidos opuestos?",
+    "options": [
+      "Falla transformante",
+      "Falla normal",
+      "Falla inversa",
+      "Falla de cabalgamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las fallas transformantes acomodan el movimiento lateral entre placas."
+  },
+  {
+    "id": "cg-2935",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué forma un arco de islas volcánicas como Japón o las Aleutianas?",
+    "options": [
+      "La separación de dos continentes",
+      "La erosión marina",
+      "El ascenso de un continente",
+      "La subducción de una placa oceánica"
+    ],
+    "correctIndex": 3,
+    "explanation": "El magma generado sobre la placa que subduce alimenta los arcos insulares."
+  },
+  {
+    "id": "cg-2936",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué terremoto de 1906 estuvo asociado a la falla de San Andrés?",
+    "options": [
+      "El de Tokio",
+      "El de San Francisco",
+      "El de Messina",
+      "El de Valparaíso"
+    ],
+    "correctIndex": 1,
+    "explanation": "El sismo de San Francisco de 1906 reveló el deslizamiento de la falla."
+  },
+  {
+    "id": "cg-2937",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad europea sufrió en 1755 un gran terremoto seguido de tsunami e incendios?",
+    "options": [
+      "Roma",
+      "Lisboa",
+      "Atenas",
+      "Nápoles"
+    ],
+    "correctIndex": 1,
+    "explanation": "El terremoto de Lisboa del 1 de noviembre de 1755 devastó la ciudad."
+  },
+  {
+    "id": "cg-2938",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué magnitud aproximada tuvo el terremoto de Valdivia, en Chile, en 1960?",
+    "options": [
+      "9,5",
+      "7,0",
+      "6,2",
+      "8,0"
+    ],
+    "correctIndex": 0,
+    "explanation": "El sismo de Valdivia es el de mayor magnitud registrada instrumentalmente."
+  },
+  {
+    "id": "cg-2939",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué central nuclear sufrió graves daños tras el tsunami de Japón en 2011?",
+    "options": [
+      "Chernóbil",
+      "Three Mile Island",
+      "Fukushima Daiichi",
+      "Bruce"
+    ],
+    "correctIndex": 2,
+    "explanation": "El tsunami del 11 de marzo de 2011 anegó la central de Fukushima Daiichi."
+  },
+  {
+    "id": "cg-2940",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿En qué país ocurrió el terremoto de Gorkha, de magnitud 7,8, en 2015?",
+    "options": [
+      "India",
+      "Pakistán",
+      "Nepal",
+      "Bután"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sismo de Gorkha afectó gravemente el valle de Katmandú."
+  },
+  {
+    "id": "cg-2941",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿En qué ciudad ocurrió el terremoto de 1985 que causó graves daños en edificios altos?",
+    "options": [
+      "Lima",
+      "Ciudad de México",
+      "Santiago",
+      "Managua"
+    ],
+    "correctIndex": 1,
+    "explanation": "El sismo de 1985 sacudió la capital mexicana sobre un antiguo lago relleno."
+  },
+  {
+    "id": "cg-2942",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué ondas sísmicas son longitudinales y llegan primero a las estaciones?",
+    "options": [
+      "Ondas S",
+      "Ondas superficiales",
+      "Ondas de Love",
+      "Ondas P"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las ondas P comprimen y dilatan el material y viajan más rápido."
+  },
+  {
+    "id": "cg-2943",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué ondas sísmicas no se propagan a través de líquidos?",
+    "options": [
+      "Ondas P",
+      "Ondas de Rayleigh",
+      "Ondas de presión",
+      "Ondas S"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las ondas S son transversales y no atraviesan medios líquidos."
+  },
+  {
+    "id": "cg-2944",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué ondas sísmicas suelen causar más daño en superficie?",
+    "options": [
+      "Ondas P",
+      "Ondas S",
+      "Ondas superficiales",
+      "Ondas internas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las ondas superficiales tienen gran amplitud y sacuden los edificios."
+  },
+  {
+    "id": "cg-2945",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el fenómeno por el que un suelo saturado pierde resistencia y se comporta como líquido durante un sismo?",
+    "options": [
+      "Licuefacción",
+      "Subsidencia",
+      "Isostasia",
+      "Meteorización"
+    ],
+    "correctIndex": 0,
+    "explanation": "La licuefacción ocurre en arenas saturadas sometidas a sacudidas."
+  },
+  {
+    "id": "cg-2946",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué océano fue afectado por el tsunami del 26 de diciembre de 2004 originado frente a Sumatra?",
+    "options": [
+      "Atlántico",
+      "Pacífico norte",
+      "Índico",
+      "Ártico"
+    ],
+    "correctIndex": 2,
+    "explanation": "El tsunami del Índico causó miles de muertos en varios países costeros."
+  },
+  {
+    "id": "cg-2947",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué volcán indonesio protagonizó en 1883 una erupción con tsunamis y efectos globales?",
+    "options": [
+      "Krakatoa",
+      "Tambora",
+      "Merapi",
+      "Agung"
+    ],
+    "correctIndex": 0,
+    "explanation": "La explosión de Krakatoa se oyó a miles de kilómetros y generó tsunamis."
+  },
+  {
+    "id": "cg-2948",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué volcán indonesio provocó en 1815 el llamado año sin verano de 1816?",
+    "options": [
+      "Krakatoa",
+      "Tambora",
+      "Pinatubo",
+      "Galunggung"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las cenizas y aerosoles de Tambora redujeron la luz solar y enfriaron el clima."
+  },
+  {
+    "id": "cg-2949",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué volcán filipino enfrió temporalmente el clima global tras su erupción de 1991?",
+    "options": [
+      "Mayón",
+      "Taal",
+      "Krakatoa",
+      "Pinatubo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los aerosoles sulfatados del Pinatubo reflejaron radiación solar durante meses."
+  },
+  {
+    "id": "cg-2950",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué volcán de Estados Unidos entró en erupción en 1980 con una gran explosión lateral?",
+    "options": [
+      "Monte Rainier",
+      "Monte Santa Helena",
+      "Mauna Loa",
+      "Monte Shasta"
+    ],
+    "correctIndex": 1,
+    "explanation": "La erupción del Santa Helena en Washington removió todo el flanco norte."
+  },
+  {
+    "id": "cg-2951",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad colombiana quedó sepultada por un lahar del Nevado del Ruiz en 1985?",
+    "options": [
+      "Popayán",
+      "Manizales",
+      "Pereira",
+      "Armero"
+    ],
+    "correctIndex": 3,
+    "explanation": "El lahar del Ruiz arrasó Armero y causó más de 20.000 muertes."
+  },
+  {
+    "id": "cg-2952",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué volcán islandés paralizó el tráfico aéreo europeo en 2010 con su ceniza?",
+    "options": [
+      "Hekla",
+      "Katla",
+      "Eyjafjallajökull",
+      "Bárðarbunga"
+    ],
+    "correctIndex": 2,
+    "explanation": "La ceniza del Eyjafjallajökull obligó a cerrar amplias zonas del espacio aéreo."
+  },
+  {
+    "id": "cg-2953",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de volcán, de pendientes suaves y gran extensión, es típico de Hawái?",
+    "options": [
+      "Volcán escudo",
+      "Estratovolcán",
+      "Cono de ceniza",
+      "Caldera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los volcanes escudo se forman por lavas basálticas muy fluidas."
+  },
+  {
+    "id": "cg-2954",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de volcán es el monte Fuji, formado por capas de lava y ceniza?",
+    "options": [
+      "Volcán escudo",
+      "Cono de escoria",
+      "Domo de sal",
+      "Estratovolcán"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los estratovolcanes alternan coladas y depósitos explosivos."
+  },
+  {
+    "id": "cg-2955",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe una gran depresión formada por el colapso del techo de una cámara magmática?",
+    "options": [
+      "Caldera",
+      "Cráter",
+      "Fosa tectónica",
+      "Valle glaciar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las calderas se originan cuando el terreno se hunde tras una erupción."
+  },
+  {
+    "id": "cg-2956",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué archipiélago del Pacífico central constituye el extremo actual de una cadena de islas formada sobre un punto caliente?",
+    "options": [
+      "Canarias",
+      "Hawái",
+      "Galápagos",
+      "Azores"
+    ],
+    "correctIndex": 1,
+    "explanation": "La cadena hawaiano-emperador registra el paso de la placa sobre una pluma."
+  },
+  {
+    "id": "cg-2957",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué placa oceánica subduce bajo América del Sur y origina la cordillera de los Andes?",
+    "options": [
+      "Caribe",
+      "Nazca",
+      "Cocos",
+      "Antártica"
+    ],
+    "correctIndex": 1,
+    "explanation": "La placa de Nazca se hunde bajo la placa Sudamericana."
+  },
+  {
+    "id": "cg-2958",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué roca volcánica es un vidrio oscuro de fractura concoidal?",
+    "options": [
+      "Pumita",
+      "Basalto",
+      "Granito",
+      "Obsidiana"
+    ],
+    "correctIndex": 3,
+    "explanation": "La obsidiana se forma al enfriarse la lava muy rápido sin cristalizar."
+  },
+  {
+    "id": "cg-2959",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué roca volcánica es tan porosa que puede flotar en el agua?",
+    "options": [
+      "Pumita",
+      "Obsidiana",
+      "Mármol",
+      "Caliza"
+    ],
+    "correctIndex": 0,
+    "explanation": "La pumita es una espuma volcánica llena de huecos de gas."
+  },
+  {
+    "id": "cg-2960",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué textura tienen las rocas ígneas plutónicas como el granito?",
+    "options": [
+      "Vidrio sin cristales",
+      "Cristales grandes visibles",
+      "Granos de arena cementados",
+      "Fibras minerales alineadas"
+    ],
+    "correctIndex": 1,
+    "explanation": "El enfriamiento lento en profundidad permite crecer cristales grandes."
+  },
+  {
+    "id": "cg-2961",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué paisaje se forma por la disolución de rocas calizas y produce cuevas y dolinas?",
+    "options": [
+      "Loess",
+      "Duna",
+      "Karst",
+      "Morrena"
+    ],
+    "correctIndex": 2,
+    "explanation": "El karst se desarrolla por la acción del agua sobre rocas solubles."
+  },
+  {
+    "id": "cg-2962",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿De qué roca procede principalmente la pizarra por metamorfismo?",
+    "options": [
+      "De calizas",
+      "De basaltos",
+      "De granitos",
+      "De lutitas o arcillas"
+    ],
+    "correctIndex": 3,
+    "explanation": "La pizarra deriva de sedimentos finos sometidos a presión."
+  },
+  {
+    "id": "cg-2963",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué rasgo distingue al gneis de otras rocas metamórficas?",
+    "options": [
+      "Su origen volcánico",
+      "Su alta porosidad",
+      "Su composición de carbonato",
+      "Bandas alternas claras y oscuras"
+    ],
+    "correctIndex": 3,
+    "explanation": "El gneis presenta foliación en bandas por metamorfismo de alto grado."
+  },
+  {
+    "id": "cg-2964",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿En qué ambiente se formó buena parte del carbón mineral?",
+    "options": [
+      "Arrecifes de coral",
+      "Desiertos de arena",
+      "Pantanos con abundante vegetación",
+      "Fondos de fosas oceánicas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los bosques pantanosos del Carbonífero dieron origen a grandes mantos de carbón."
+  },
+  {
+    "id": "cg-2965",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Cuál es el origen de buena parte del petróleo?",
+    "options": [
+      "Restos de plancton marino en cuencas sedimentarias",
+      "Cristales de granito",
+      "Lavas basálticas",
+      "Glaciares continentales"
+    ],
+    "correctIndex": 0,
+    "explanation": "El petróleo procede de materia orgánica marina acumulada y transformada."
+  },
+  {
+    "id": "cg-2966",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué proceso de meteorización física rompe rocas por congelación y descongelación del agua?",
+    "options": [
+      "Gelifracción",
+      "Hidrólisis",
+      "Carbonatación",
+      "Oxidación"
+    ],
+    "correctIndex": 0,
+    "explanation": "El agua que se congela en grietas aumenta de volumen y fractura la roca."
+  },
+  {
+    "id": "cg-2967",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué proceso químico disuelve la caliza y forma grutas?",
+    "options": [
+      "Gelifracción",
+      "Abrasión eólica",
+      "Compactación",
+      "Carbonatación"
+    ],
+    "correctIndex": 3,
+    "explanation": "El agua con dióxido de carbono disuelve el carbonato cálcico."
+  },
+  {
+    "id": "cg-2968",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué forma se crea por la acumulación de arena transportada por el viento?",
+    "options": [
+      "Duna",
+      "Meandro",
+      "Delta",
+      "Morrena"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las dunas son acumulaciones de arena modeladas por el viento."
+  },
+  {
+    "id": "cg-2969",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama cada curva pronunciada de un río en una llanura aluvial?",
+    "options": [
+      "Meandro",
+      "Delta",
+      "Rápido",
+      "Catarata"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los meandros se forman por erosión en la orilla exterior y sedimentación en la interior."
+  },
+  {
+    "id": "cg-2970",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de valle excava un glaciar de montaña?",
+    "options": [
+      "Valle en U",
+      "Valle en V",
+      "Cañón fluvial",
+      "Valle de rift"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lengua de hielo erosiona los flancos y deja un fondo amplio y plano."
+  },
+  {
+    "id": "cg-2971",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué depósito de materiales deja un glaciar al retroceder?",
+    "options": [
+      "Duna",
+      "Morrena",
+      "Delta",
+      "Loess"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las morrenas son acumulaciones de till transportado por el hielo."
+  },
+  {
+    "id": "cg-2972",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe un valle glaciar invadido por el mar, común en Noruega?",
+    "options": [
+      "Estuario",
+      "Fiordo",
+      "Ría",
+      "Laguna"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los fiordos son antiguos valles glaciares inundados por el océano."
+  },
+  {
+    "id": "cg-2973",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué formación geológica almacena y transmite agua subterránea?",
+    "options": [
+      "Acuífero",
+      "Acuitardo",
+      "Dorsal",
+      "Batolito"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un acuífero es una roca permeable capaz de contener agua explotable."
+  },
+  {
+    "id": "cg-2974",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el nivel superior del agua en un acuífero libre?",
+    "options": [
+      "Nivel freático",
+      "Línea de costa",
+      "Curva de nivel",
+      "Límite de nieve"
+    ],
+    "correctIndex": 0,
+    "explanation": "El nivel freático asciende o desciende según la recarga y la extracción."
+  },
+  {
+    "id": "cg-2975",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el territorio cuyas aguas drenan hacia un mismo río o lago?",
+    "options": [
+      "Divisoria climática",
+      "Delta",
+      "Acuífero",
+      "Cuenca hidrográfica"
+    ],
+    "correctIndex": 3,
+    "explanation": "La cuenca hidrográfica está delimitada por las divisorias de aguas."
+  },
+  {
+    "id": "cg-2976",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué río de Asia es el de mayor longitud dentro de China?",
+    "options": [
+      "Mekong",
+      "Ganges",
+      "Yangtsé",
+      "Amur"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Yangtsé recorre unos 6.300 kilómetros íntegramente en China."
+  },
+  {
+    "id": "cg-2977",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué río europeo atraviesa Viena, Budapest y Belgrado antes de llegar al mar Negro?",
+    "options": [
+      "Rin",
+      "Elba",
+      "Danubio",
+      "Vístula"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Danubio cruza diez países y desemboca en un gran delta."
+  },
+  {
+    "id": "cg-2978",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué lago es el de mayor superficie del mundo y recibe el nombre de mar por su tamaño y salinidad?",
+    "options": [
+      "Lago Superior",
+      "Lago Victoria",
+      "Mar Caspio",
+      "Lago Baikal"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Caspio es un lago salado sin salida al océano."
+  },
+  {
+    "id": "cg-2979",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿A qué altitud aproximada se encuentra el lago Titicaca?",
+    "options": [
+      "1.000 metros",
+      "500 metros",
+      "5.500 metros",
+      "3.800 metros"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Titicaca es uno de los lagos navegables de mayor altitud."
+  },
+  {
+    "id": "cg-2980",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué lago de Siberia destaca por ser el de mayor profundidad del planeta?",
+    "options": [
+      "Onega",
+      "Ládoga",
+      "Baikal",
+      "Titicaca"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Baikal supera los 1.600 metros de profundidad y es muy antiguo."
+  },
+  {
+    "id": "cg-2981",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Entre qué dos masas de tierra se encuentra el mar Rojo?",
+    "options": [
+      "Europa y África",
+      "Asia y Australia",
+      "América del Norte y del Sur",
+      "África y la península arábiga"
+    ],
+    "correctIndex": 3,
+    "explanation": "El mar Rojo se alarga entre el noreste de África y Arabia."
+  },
+  {
+    "id": "cg-2982",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué desierto del norte de Chile y sur de Perú es uno de los más áridos del planeta?",
+    "options": [
+      "Namib",
+      "Atacama",
+      "Sahara",
+      "Gobi"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Atacama recibe precipitaciones extremadamente escasas."
+  },
+  {
+    "id": "cg-2983",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué desierto costero de África recibe humedad de la niebla oceánica?",
+    "options": [
+      "Namib",
+      "Kalahari",
+      "Sahara",
+      "Danakil"
+    ],
+    "correctIndex": 0,
+    "explanation": "La niebla del Atlántico sur permite vida en el Namib."
+  },
+  {
+    "id": "cg-2984",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué desierto del oeste de China está rodeado por montañas y es uno de los mayores de Asia?",
+    "options": [
+      "Gobi",
+      "Karakum",
+      "Thar",
+      "Taklamakan"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Taklamakan ocupa una cuenca endorreica en Xinjiang."
+  },
+  {
+    "id": "cg-2985",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué bioma tropical alterna una estación húmeda y otra seca y sostiene grandes herbívoros?",
+    "options": [
+      "Taiga",
+      "Tundra",
+      "Bosque mediterráneo",
+      "Sabana"
+    ],
+    "correctIndex": 3,
+    "explanation": "La sabana cubre amplias zonas de África, Sudamérica y Australia."
+  },
+  {
+    "id": "cg-2986",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué bioma de coníferas se extiende por el norte de Europa, Asia y América?",
+    "options": [
+      "Sabana",
+      "Tundra",
+      "Selva tropical",
+      "Taiga"
+    ],
+    "correctIndex": 3,
+    "explanation": "La taiga es el bosque boreal dominado por pinos, abetos y alerces."
+  },
+  {
+    "id": "cg-2987",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué bioma se caracteriza por vegetación baja, veranos fríos y subsuelo congelado?",
+    "options": [
+      "Taiga",
+      "Sabana",
+      "Desierto",
+      "Tundra"
+    ],
+    "correctIndex": 3,
+    "explanation": "La tundra ocupa latitudes altas y carece de árboles."
+  },
+  {
+    "id": "cg-2988",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué bioma ecuatorial tiene precipitaciones abundantes todo el año y gran biodiversidad?",
+    "options": [
+      "Selva tropical",
+      "Sabana",
+      "Estepa",
+      "Taiga"
+    ],
+    "correctIndex": 0,
+    "explanation": "La selva tropical húmeda alberga una enorme diversidad de especies."
+  },
+  {
+    "id": "cg-2989",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué clima tiene veranos cálidos y secos e inviernos suaves y húmedos?",
+    "options": [
+      "Mediterráneo",
+      "Tropical",
+      "Polar",
+      "Continental"
+    ],
+    "correctIndex": 0,
+    "explanation": "El clima mediterráneo es típico de las costas de la cuenca mediterránea."
+  },
+  {
+    "id": "cg-2990",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué sistema de clasificación climática usa letras como A, B, C, D y E?",
+    "options": [
+      "Beaufort",
+      "Köppen",
+      "Saffir-Simpson",
+      "Fujita"
+    ],
+    "correctIndex": 1,
+    "explanation": "La clasificación de Köppen relaciona clima con vegetación y temperaturas."
+  },
+  {
+    "id": "cg-2991",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la franja de bajas presiones y lluvias intensas cercana al ecuador?",
+    "options": [
+      "Corriente en chorro",
+      "Frente polar",
+      "Dorsal subtropical",
+      "Zona de convergencia intertropical"
+    ],
+    "correctIndex": 3,
+    "explanation": "La ZCIT migra con las estaciones y alimenta las lluvias tropicales."
+  },
+  {
+    "id": "cg-2992",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Cómo se llaman los vientos constantes que soplan del nordeste y sudeste hacia el ecuador?",
+    "options": [
+      "Alisios",
+      "Ponientes",
+      "Monzones",
+      "Catabáticos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los alisios convergen en la zona de convergencia intertropical."
+  },
+  {
+    "id": "cg-2993",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Cómo se llaman los vientos predominantes del oeste en latitudes medias?",
+    "options": [
+      "Alisios",
+      "Ponientes",
+      "Monzones",
+      "Brisas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los ponientes soplan de oeste a este en ambas latitudes medias."
+  },
+  {
+    "id": "cg-2994",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué corriente de aire rápida y estrecha circula en la alta troposfera?",
+    "options": [
+      "Corriente en chorro",
+      "Monzón",
+      "Alisio",
+      "Frente cálido"
+    ],
+    "correctIndex": 0,
+    "explanation": "La corriente en chorro separa masas de aire y guía sistemas meteorológicos."
+  },
+  {
+    "id": "cg-2995",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué efecto desvía las masas de aire y las corrientes oceánicas por la rotación terrestre?",
+    "options": [
+      "Efecto invernadero",
+      "Efecto Föhn",
+      "Efecto albedo",
+      "Efecto Coriolis"
+    ],
+    "correctIndex": 3,
+    "explanation": "La rotación terrestre desvía los movimientos hacia la derecha en el hemisferio norte."
+  },
+  {
+    "id": "cg-2996",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué sistema atmosférico se caracteriza por bajas presiones y vientos que convergen hacia el centro?",
+    "options": [
+      "Anticiclón",
+      "Ciclón",
+      "Dorsal",
+      "Bloqueo"
+    ],
+    "correctIndex": 1,
+    "explanation": "En un ciclón el aire asciende y favorece la formación de nubes."
+  },
+  {
+    "id": "cg-2997",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué ocurre cuando un frente frío avanza y desplaza aire cálido hacia arriba?",
+    "options": [
+      "El aire se seca sin nubes",
+      "Aumenta la presión sin viento",
+      "Se forman nubes y precipitaciones",
+      "Desaparece la humedad"
+    ],
+    "correctIndex": 2,
+    "explanation": "El aire cálido forzado a ascender se enfría y condensa."
+  },
+  {
+    "id": "cg-2998",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué temperatura mínima del agua favorece la formación de huracanes tropicales?",
+    "options": [
+      "Unos 5 °C",
+      "Unos 15 °C",
+      "Unos 35 °C",
+      "Unos 26 °C"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los huracanes toman energía de aguas cálidas y húmedas."
+  },
+  {
+    "id": "cg-2999",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la zona central despejada y de baja presión de un huracán?",
+    "options": [
+      "Pared",
+      "Banda",
+      "Ojo",
+      "Frente"
+    ],
+    "correctIndex": 2,
+    "explanation": "El ojo del huracán es una región de calma relativa."
+  },
+  {
+    "id": "cg-3000",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué región de Estados Unidos concentra gran parte de los tornados?",
+    "options": [
+      "Tornado Alley",
+      "Valle de la Muerte",
+      "Cinturón del Maíz",
+      "Gran Cuenca"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tornado Alley abarca las llanuras centrales, donde chocan masas de aire."
+  },
+  {
+    "id": "cg-3001",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué nube alta y delgada está formada por cristales de hielo?",
+    "options": [
+      "Cumulonimbo",
+      "Cirro",
+      "Estrato",
+      "Cúmulo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los cirros se forman a gran altitud, donde el vapor se convierte en hielo."
+  },
+  {
+    "id": "cg-3002",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la situación en que una capa de aire cálido queda sobre aire más frío y frena la dispersión de contaminantes?",
+    "options": [
+      "Inversión térmica",
+      "Convección libre",
+      "Frente cálido",
+      "Brisa marina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La inversión térmica actúa como una tapa y concentra la contaminación."
+  },
+  {
+    "id": "cg-3003",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el aumento de temperatura en el centro de las ciudades respecto a su entorno?",
+    "options": [
+      "Efecto Föhn",
+      "Inversión térmica",
+      "Isla de calor urbana",
+      "Albedo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El asfalto y la escasa vegetación elevan la temperatura urbana."
+  },
+  {
+    "id": "cg-3004",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué proporción del tiempo geológico representa el Precámbrico?",
+    "options": [
+      "Cerca del 10 %",
+      "Cerca del 88 %",
+      "Cerca del 50 %",
+      "Cerca del 25 %"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Precámbrico abarca desde la formación de la Tierra hasta el Cámbrico."
+  },
+  {
+    "id": "cg-3005",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué acontecimiento marca el inicio del Cámbrico hace unos 541 millones de años?",
+    "options": [
+      "La aparición de los dinosaurios",
+      "La extinción de los trilobites",
+      "La formación de Pangea",
+      "La diversificación rápida de animales marinos"
+    ],
+    "correctIndex": 3,
+    "explanation": "La explosión cámbrica produjo una gran variedad de planes corporales."
+  },
+  {
+    "id": "cg-3006",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿En qué era geológica abundaron los trilobites en los mares?",
+    "options": [
+      "Mesozoica",
+      "Paleozoica",
+      "Cenozoica",
+      "Arcaica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los trilobites fueron muy abundantes en los mares paleozoicos."
+  },
+  {
+    "id": "cg-3007",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué periodo del Paleozoico es conocido por sus grandes bosques de helechos que originaron carbón?",
+    "options": [
+      "Cretácico",
+      "Carbonífero",
+      "Jurásico",
+      "Triásico"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Carbonífero tuvo climas húmedos y extensas turberas."
+  },
+  {
+    "id": "cg-3008",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué microfósiles de caparazón calcáreo se usan para estudiar climas marinos antiguos?",
+    "options": [
+      "Foraminíferos",
+      "Trilobites",
+      "Ammonites",
+      "Graptolitos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los isótopos de oxígeno en foraminíferos permiten estimar temperaturas pasadas."
+  },
+  {
+    "id": "cg-3009",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué grupo de cefalópodos con concha espiral es fósil característico del Mesozoico?",
+    "options": [
+      "Trilobites",
+      "Graptolitos",
+      "Corales rugosos",
+      "Ammonites"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los ammonites se extinguieron al final del Cretácico."
+  },
+  {
+    "id": "cg-3010",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué elemento químico anómalo en el límite Cretácico-Paleógeno apoya la hipótesis del impacto de un asteroide?",
+    "options": [
+      "Hierro",
+      "Calcio",
+      "Silicio",
+      "Iridio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El iridio es raro en la corteza pero abundante en meteoritos."
+  },
+  {
+    "id": "cg-3011",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué periodo se caracteriza por varias glaciaciones durante el Cuaternario?",
+    "options": [
+      "Mioceno",
+      "Cretácico",
+      "Pleistoceno",
+      "Eoceno"
+    ],
+    "correctIndex": 2,
+    "explanation": "En el Pleistoceno se alternaron periodos glaciales e interglaciares."
+  },
+  {
+    "id": "cg-3012",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Cuándo comenzó aproximadamente el Holoceno?",
+    "options": [
+      "Hace unos 2 millones de años",
+      "Hace unos 11.700 años",
+      "Hace unos 66 millones de años",
+      "Hace unos 300.000 años"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Holoceno es la época geológica actual, posterior al último glacial."
+  },
+  {
+    "id": "cg-3013",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué isótopo se usa para datar restos orgánicos de hasta unos 50.000 años?",
+    "options": [
+      "Uranio-238",
+      "Potasio-40",
+      "Carbono-14",
+      "Rubidio-87"
+    ],
+    "correctIndex": 2,
+    "explanation": "El carbono-14 se desintegra con una vida media de unos 5.700 años."
+  },
+  {
+    "id": "cg-3014",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué principio estratigráfico afirma que un estrato inferior es más antiguo que uno superior?",
+    "options": [
+      "Principio de uniformismo",
+      "Principio de isostasia",
+      "Principio de Coriolis",
+      "Principio de superposición"
+    ],
+    "correctIndex": 3,
+    "explanation": "En una secuencia no deformada, los estratos se depositan de abajo hacia arriba."
+  },
+  {
+    "id": "cg-3015",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué es un fósil guía?",
+    "options": [
+      "Una especie de distribución amplia y corta duración temporal",
+      "Un fósil de gran tamaño",
+      "Un mineral formado en cavernas",
+      "Una roca volcánica alterada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los fósiles guía permiten correlacionar estratos de una misma edad."
+  },
+  {
+    "id": "cg-3016",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué herramienta ordena las eras y periodos de la historia de la Tierra?",
+    "options": [
+      "La escala de Mohs",
+      "La clasificación de Köppen",
+      "La escala de tiempo geológico",
+      "La escala de Beaufort"
+    ],
+    "correctIndex": 2,
+    "explanation": "La escala de tiempo geológico se basa en estratigrafía y dataciones."
+  },
+  {
+    "id": "cg-3017",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de falla se produce por extensión y hunde un bloque respecto a otro?",
+    "options": [
+      "Falla inversa",
+      "Falla normal",
+      "Falla de deslizamiento",
+      "Falla de cabalgamiento"
+    ],
+    "correctIndex": 1,
+    "explanation": "En una falla normal el bloque de techo desciende por tensión."
+  },
+  {
+    "id": "cg-3018",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de falla se asocia a compresión y eleva un bloque sobre otro?",
+    "options": [
+      "Falla normal",
+      "Falla transformante",
+      "Falla de desgarre",
+      "Falla inversa"
+    ],
+    "correctIndex": 3,
+    "explanation": "La compresión empuja el bloque de techo hacia arriba."
+  },
+  {
+    "id": "cg-3019",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué principio explica el equilibrio vertical de la corteza sobre el manto?",
+    "options": [
+      "Coriolis",
+      "Albedo",
+      "Uniformismo",
+      "Isostasia"
+    ],
+    "correctIndex": 3,
+    "explanation": "La isostasia compensa el peso de la corteza con el empuje del manto."
+  },
+  {
+    "id": "cg-3020",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué colisión de placas inició hace unos 50 millones de años la formación del Himalaya?",
+    "options": [
+      "India y Eurasia",
+      "África y Europa",
+      "Norteamérica y Sudamérica",
+      "Australia y Antártida"
+    ],
+    "correctIndex": 0,
+    "explanation": "La India avanzó hacia el norte y chocó con Eurasia."
+  },
+  {
+    "id": "cg-3021",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué edad aproximada tiene la Tierra?",
+    "options": [
+      "4.540 millones de años",
+      "540 millones de años",
+      "13.800 millones de años",
+      "66 millones de años"
+    ],
+    "correctIndex": 0,
+    "explanation": "La edad se calcula a partir de meteoritos y rocas antiguas."
+  },
+  {
+    "id": "cg-3022",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué cráter de impacto de unos 180 km de diámetro se halla en la península de Yucatán?",
+    "options": [
+      "Chicxulub",
+      "Vredefort",
+      "Barringer",
+      "Manicouagan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chicxulub se formó hace unos 66 millones de años."
+  },
+  {
+    "id": "cg-3023",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué supercontinente existió hace unos 1.000 millones de años?",
+    "options": [
+      "Pangea",
+      "Rodinia",
+      "Gondwana",
+      "Laurasia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rodinia se fragmentó antes de la formación de Pangea."
+  },
+  {
+    "id": "cg-3024",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué cambio atmosférico ocurrió hace unos 2.400 millones de años con el aumento del oxígeno?",
+    "options": [
+      "El máximo térmico del Paleoceno",
+      "La explosión cámbrica",
+      "La gran oxidación",
+      "La extinción del Pérmico"
+    ],
+    "correctIndex": 2,
+    "explanation": "La gran oxidación transformó la atmósfera y permitió la vida aerobia."
+  },
+  {
+    "id": "cg-3025",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Cuánto subió aproximadamente el nivel del mar desde el último máximo glacial?",
+    "options": [
+      "Unos 12 metros",
+      "Unos 500 metros",
+      "Unos 120 metros",
+      "Unos 2.000 metros"
+    ],
+    "correctIndex": 2,
+    "explanation": "El deshielo de los grandes casquetes elevó el nivel marino tras el máximo glacial."
+  },
+  {
+    "id": "cg-3026",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué mar interior baña las costas de Italia, Grecia y Egipto?",
+    "options": [
+      "Mediterráneo",
+      "Negro",
+      "Rojo",
+      "Báltico"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Mediterráneo conecta Europa, África y Asia."
+  },
+  {
+    "id": "cg-3027",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué golfo de Asia occidental concentra grandes reservas de petróleo?",
+    "options": [
+      "Golfo de México",
+      "Golfo de Bengala",
+      "Golfo Pérsico",
+      "Golfo de Guinea"
+    ],
+    "correctIndex": 2,
+    "explanation": "El golfo Pérsico está rodeado por importantes países productores de petróleo."
+  },
+  {
+    "id": "cg-3028",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe la gran fractura continental del África oriental donde la litosfera se está separando?",
+    "options": [
+      "Fosa de las Marianas",
+      "Valle del Rift",
+      "Dorsal del Índico",
+      "Cuenca del Congo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Rift de África oriental es un límite divergente incipiente."
+  },
+  {
+    "id": "cg-3029",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿A qué profundidad se sitúa la discontinuidad de Gutenberg, entre manto y núcleo?",
+    "options": [
+      "Unos 700 km",
+      "Unos 2.900 km",
+      "Unos 5.100 km",
+      "Unos 35 km"
+    ],
+    "correctIndex": 1,
+    "explanation": "La discontinuidad de Gutenberg marca el límite manto-núcleo a unos 2.900 km."
+  },
+  {
+    "id": "cg-3030",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué discontinuidad separa el núcleo externo del núcleo interno?",
+    "options": [
+      "Discontinuidad de Mohorovičić",
+      "Discontinuidad de Lehmann",
+      "Discontinuidad de Gutenberg",
+      "Discontinuidad de Conrad"
+    ],
+    "correctIndex": 1,
+    "explanation": "La discontinuidad de Lehmann se encuentra a unos 5.150 km de profundidad."
+  },
+  {
+    "id": "cg-3031",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué mineral abunda en la peridotita, roca dominante del manto superior?",
+    "options": [
+      "Cuarzo",
+      "Olivino",
+      "Feldespato potásico",
+      "Mica"
+    ],
+    "correctIndex": 1,
+    "explanation": "El olivino es el componente principal del manto superior."
+  },
+  {
+    "id": "cg-3032",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Cuál es el gradiente geotérmico medio en la corteza continental?",
+    "options": [
+      "1 °C por kilómetro",
+      "25 a 30 °C por kilómetro",
+      "100 °C por kilómetro",
+      "250 °C por kilómetro"
+    ],
+    "correctIndex": 1,
+    "explanation": "La temperatura aumenta unos 25 a 30 grados por kilómetro en la corteza."
+  },
+  {
+    "id": "cg-3033",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué científico propuso en 1962 la expansión del fondo oceánico?",
+    "options": [
+      "Alfred Wegener",
+      "Arthur Holmes",
+      "Harry Hess",
+      "Charles Lyell"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hess explicó que se genera corteza nueva en las dorsales."
+  },
+  {
+    "id": "cg-3034",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué fenómeno explica las bandas magnéticas alternas paralelas a las dorsales?",
+    "options": [
+      "La erosión de los sedimentos",
+      "El deshielo de los glaciares",
+      "La inversión del campo magnético registrada en la corteza nueva",
+      "La sedimentación de carbonatos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cada inversión magnética queda grabada al enfriarse la lava del fondo oceánico."
+  },
+  {
+    "id": "cg-3035",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué placa se encuentra entre la placa del Pacífico y la Euroasiática, al oriente de Filipinas?",
+    "options": [
+      "Placa de Nazca",
+      "Placa Filipina",
+      "Placa Juan de Fuca",
+      "Placa Arábiga"
+    ],
+    "correctIndex": 1,
+    "explanation": "La placa Filipina es una placa menor con gran actividad sísmica."
+  },
+  {
+    "id": "cg-3036",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Frente a qué costa de América del Norte se encuentra la pequeña placa Juan de Fuca?",
+    "options": [
+      "Costa de Florida",
+      "Costa noroeste de Estados Unidos y Canadá",
+      "Costa de México",
+      "Costa de Groenlandia"
+    ],
+    "correctIndex": 1,
+    "explanation": "La placa Juan de Fuca subduce bajo el noroeste del Pacífico norteamericano."
+  },
+  {
+    "id": "cg-3037",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el punto donde convergen tres placas tectónicas?",
+    "options": [
+      "Punto caliente",
+      "Nodo sísmico",
+      "Eje de dorsal",
+      "Punto triple"
+    ],
+    "correctIndex": 3,
+    "explanation": "En un punto triple interactúan tres límites de placas."
+  },
+  {
+    "id": "cg-3038",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué sismólogo definió la escala de magnitud momento usada para grandes terremotos?",
+    "options": [
+      "Hiroo Kanamori",
+      "Charles Richter",
+      "Giuseppe Mercalli",
+      "Andrija Mohorovičić"
+    ],
+    "correctIndex": 0,
+    "explanation": "La magnitud momento estima la energía a partir del área de ruptura."
+  },
+  {
+    "id": "cg-3039",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué escala evalúa los efectos o daños de un sismo en un lugar concreto?",
+    "options": [
+      "Richter",
+      "Mercalli",
+      "Momento",
+      "Beaufort"
+    ],
+    "correctIndex": 1,
+    "explanation": "La escala de Mercalli usa la percepción y los daños observados."
+  },
+  {
+    "id": "cg-3040",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué serie de sismos afectó la región de New Madrid, en Misuri, entre 1811 y 1812?",
+    "options": [
+      "Una erupción volcánica",
+      "Una secuencia de grandes terremotos intraplaca",
+      "Un tsunami del Atlántico",
+      "Un deslizamiento glacial"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los sismos de New Madrid ocurrieron lejos de un límite de placas."
+  },
+  {
+    "id": "cg-3041",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué zona de sismos profundos se asocia a una placa que subduce?",
+    "options": [
+      "Zona de Mohorovičić",
+      "Zona de Wadati-Benioff",
+      "Zona de Lehmann",
+      "Zona de ablación"
+    ],
+    "correctIndex": 1,
+    "explanation": "La zona de Wadati-Benioff define el plano inclinado de la placa que se hunde."
+  },
+  {
+    "id": "cg-3042",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué índice clasifica la explosividad de las erupciones volcánicas de 0 a 8?",
+    "options": [
+      "Índice de Richter",
+      "Índice de Köppen",
+      "Índice de Aridez",
+      "Índice de Explosividad Volcánica"
+    ],
+    "correctIndex": 3,
+    "explanation": "El índice de explosividad volcánica considera volumen, altura de columna y estilo eruptivo."
+  },
+  {
+    "id": "cg-3043",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué supererupción ocurrió hace unos 74.000 años en Sumatra?",
+    "options": [
+      "Krakatoa",
+      "Toba",
+      "Tambora",
+      "Merapi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La erupción de Toba formó una gran caldera y dejó cenizas en Asia."
+  },
+  {
+    "id": "cg-3044",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué isla del Egeo sufrió una gran erupción hacia 1600 a. C. que pudo afectar a la civilización minoica?",
+    "options": [
+      "Creta",
+      "Rodas",
+      "Thera, actual Santorini",
+      "Chipre"
+    ],
+    "correctIndex": 2,
+    "explanation": "La erupción de Thera generó tsunamis y cubrió de ceniza el Egeo."
+  },
+  {
+    "id": "cg-3045",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué volcán islandés provocó en 1783 una crisis agrícola y una hambruna en Europa?",
+    "options": [
+      "Laki",
+      "Eyjafjallajökull",
+      "Hekla",
+      "Katla"
+    ],
+    "correctIndex": 0,
+    "explanation": "La erupción de Laki emitió gases y cenizas que dañaron cosechas."
+  },
+  {
+    "id": "cg-3046",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué volcán peruano entró en erupción en 1600 y enfrió el clima global?",
+    "options": [
+      "Huaynaputina",
+      "Misti",
+      "Cotopaxi",
+      "Chimborazo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La erupción del Huaynaputina fue una de las mayores de la era histórica."
+  },
+  {
+    "id": "cg-3047",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué altitud alcanza el volcán Ojos del Salado, en la frontera chileno-argentina?",
+    "options": [
+      "6.893 metros",
+      "5.100 metros",
+      "7.500 metros",
+      "4.200 metros"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ojos del Salado es el volcán más alto del mundo sobre el nivel del mar."
+  },
+  {
+    "id": "cg-3048",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué volcán hawaiano es el de mayor volumen del planeta?",
+    "options": [
+      "Kilauea",
+      "Mauna Loa",
+      "Mauna Kea",
+      "Haleakala"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mauna Loa es un volcán escudo con un volumen enorme."
+  },
+  {
+    "id": "cg-3049",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué profundidad aproximada tiene el abismo Challenger, en la fosa de las Marianas?",
+    "options": [
+      "Unos 11.000 metros",
+      "Unos 5.000 metros",
+      "Unos 7.000 metros",
+      "Unos 15.000 metros"
+    ],
+    "correctIndex": 0,
+    "explanation": "El abismo Challenger es el punto más profundo conocido del océano."
+  },
+  {
+    "id": "cg-3050",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué proporción del agua del planeta es agua dulce líquida accesible en superficie?",
+    "options": [
+      "Cerca del 10 %",
+      "Cerca del 30 %",
+      "Cerca del 50 %",
+      "Menos del 1 %"
+    ],
+    "correctIndex": 3,
+    "explanation": "La mayor parte del agua dulce está en glaciares y aguas subterráneas."
+  },
+  {
+    "id": "cg-3051",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué impulsa la circulación termohalina global?",
+    "options": [
+      "Diferencias de temperatura y salinidad",
+      "El viento solar",
+      "Las mareas exclusivamente",
+      "La rotación de la Luna"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las diferencias de densidad mueven las masas de agua por los océanos."
+  },
+  {
+    "id": "cg-3052",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la circulación oceánica del Atlántico que incluye la corriente del Golfo?",
+    "options": [
+      "Corriente de Humboldt",
+      "Oscilación del Sur",
+      "Corriente Ecuatorial del Norte",
+      "Circulación de vuelco meridional del Atlántico"
+    ],
+    "correctIndex": 3,
+    "explanation": "La AMOC transporta agua cálida hacia el norte y fría hacia el sur."
+  },
+  {
+    "id": "cg-3053",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el ascenso de aguas profundas ricas en nutrientes hacia la superficie costera?",
+    "options": [
+      "Subsidencia",
+      "Convergencia",
+      "Evaporación",
+      "Surgencia"
+    ],
+    "correctIndex": 3,
+    "explanation": "La surgencia alimenta pesquerías en costas como la de Perú."
+  },
+  {
+    "id": "cg-3054",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué volumen aproximado de hielo contiene el casquete antártico?",
+    "options": [
+      "Unos 26 millones de km³",
+      "Unos 2 millones de km³",
+      "Unos 100 millones de km³",
+      "Unos 500.000 km³"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Antártida concentra la mayor reserva de hielo dulce del planeta."
+  },
+  {
+    "id": "cg-3055",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué porcentaje aproximado de la superficie terrestre está cubierto por hielo de forma permanente?",
+    "options": [
+      "Cerca del 30 %",
+      "Cerca del 50 %",
+      "Cerca del 10 %",
+      "Cerca del 2 %"
+    ],
+    "correctIndex": 2,
+    "explanation": "Glaciares y casquetes cubren alrededor de una décima parte de las tierras."
+  },
+  {
+    "id": "cg-3056",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Cuál es el periodo aproximado del ciclo de excentricidad de la órbita terrestre de Milankovitch?",
+    "options": [
+      "100.000 años",
+      "41.000 años",
+      "23.000 años",
+      "11.000 años"
+    ],
+    "correctIndex": 0,
+    "explanation": "La forma de la órbita varía con ciclos cercanos a 100.000 años."
+  },
+  {
+    "id": "cg-3057",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Cuál es el periodo aproximado del ciclo de oblicuidad del eje terrestre?",
+    "options": [
+      "100.000 años",
+      "41.000 años",
+      "23.000 años",
+      "400.000 años"
+    ],
+    "correctIndex": 1,
+    "explanation": "La inclinación del eje oscila entre unos 22 y 24,5 grados cada 41.000 años."
+  },
+  {
+    "id": "cg-3058",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Cuál es el periodo aproximado del ciclo de precesión de los equinoccios?",
+    "options": [
+      "41.000 años",
+      "100.000 años",
+      "23.000 años",
+      "5.000 años"
+    ],
+    "correctIndex": 2,
+    "explanation": "La precesión cambia la orientación del eje cada unos 23.000 años."
+  },
+  {
+    "id": "cg-3059",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué retroalimentación climática produce el deshielo de superficies blancas?",
+    "options": [
+      "Aumenta el albedo y enfría",
+      "No altera la radiación",
+      "Reduce el albedo y acelera el calentamiento",
+      "Incrementa la salinidad oceánica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al desaparecer el hielo, la superficie absorbe más radiación solar."
+  },
+  {
+    "id": "cg-3060",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué valor se usa a menudo como sensibilidad climática por duplicación del CO₂ atmosférico?",
+    "options": [
+      "Unos 3 °C",
+      "Unos 0,1 °C",
+      "Unos 12 °C",
+      "Unos 30 °C"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las estimaciones sitúan la sensibilidad climática en torno a 3 grados."
+  },
+  {
+    "id": "cg-3061",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿En qué unidad se mide el forzamiento radiativo climático?",
+    "options": [
+      "Vatios por metro cuadrado",
+      "Julios por kilogramo",
+      "Pascales",
+      "Grados por kilómetro"
+    ],
+    "correctIndex": 0,
+    "explanation": "El forzamiento radiativo expresa un cambio en el balance energético por superficie."
+  },
+  {
+    "id": "cg-3062",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿A qué altitud aproximada se concentra la capa de ozono?",
+    "options": [
+      "Entre 0 y 5 km",
+      "Entre 80 y 100 km",
+      "Entre 15 y 35 km",
+      "Entre 200 y 300 km"
+    ],
+    "correctIndex": 2,
+    "explanation": "La mayor concentración de ozono se encuentra en la estratosfera inferior."
+  },
+  {
+    "id": "cg-3063",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué tratado de 1987 impulsó la eliminación de los clorofluorocarbonos?",
+    "options": [
+      "Protocolo de Kioto",
+      "Acuerdo de París",
+      "Convenio de Ramsar",
+      "Protocolo de Montreal"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Protocolo de Montreal protege la capa de ozono."
+  },
+  {
+    "id": "cg-3064",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué contaminantes reaccionan con la luz solar para formar smog fotoquímico?",
+    "options": [
+      "Óxidos de nitrógeno y compuestos orgánicos volátiles",
+      "Dióxido de carbono y vapor de agua",
+      "Helio y argón",
+      "Metano y ozono estratosférico"
+    ],
+    "correctIndex": 0,
+    "explanation": "La radiación solar activa reacciones que producen ozono troposférico."
+  },
+  {
+    "id": "cg-3065",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué paso marítimo separa América del Sur de la Antártida?",
+    "options": [
+      "Estrecho de Magallanes",
+      "Pasaje de Drake",
+      "Estrecho de Bering",
+      "Canal de Panamá"
+    ],
+    "correctIndex": 1,
+    "explanation": "El pasaje de Drake conecta los océanos Atlántico y Pacífico."
+  },
+  {
+    "id": "cg-3066",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué edad máxima aproximada tiene la corteza oceánica actual?",
+    "options": [
+      "Unos 2.000 millones de años",
+      "Unos 50 millones de años",
+      "Unos 200 millones de años",
+      "Unos 4.000 millones de años"
+    ],
+    "correctIndex": 2,
+    "explanation": "La corteza oceánica se renueva continuamente en las dorsales."
+  },
+  {
+    "id": "cg-3067",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Dónde se encuentran las rocas más antiguas conocidas de la corteza continental, con unos 4.000 millones de años?",
+    "options": [
+      "En el desierto del Sahara",
+      "En la fosa de las Marianas",
+      "En el gneis de Acasta, Canadá",
+      "En Islandia"
+    ],
+    "correctIndex": 2,
+    "explanation": "El gneis de Acasta, en el noroeste de Canadá, es una de las rocas más antiguas."
+  },
+  {
+    "id": "cg-3068",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué nombre recibe la hipótesis del cuerpo que chocó con la Tierra y originó la Luna?",
+    "options": [
+      "Hipótesis de Pangea",
+      "Hipótesis de Gaia",
+      "Hipótesis de Theia",
+      "Hipótesis de Laplace"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un protoplaneta llamado Theia habría impactado la Tierra primitiva."
+  },
+  {
+    "id": "cg-3069",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué periodo de glaciaciones globales ocurrió aproximadamente entre 720 y 635 millones de años atrás?",
+    "options": [
+      "Tierra bola de nieve",
+      "Máximo térmico del Paleoceno",
+      "Glaciación de Würm",
+      "Pequeña Edad de Hielo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hipótesis de la Tierra bola de nieve propone glaciares hasta en el ecuador."
+  },
+  {
+    "id": "cg-3070",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué proporción de especies marinas se extinguió aproximadamente en la extinción del Pérmico-Triásico?",
+    "options": [
+      "Alrededor del 10 %",
+      "Alrededor del 90 %",
+      "Alrededor del 50 %",
+      "Alrededor del 25 %"
+    ],
+    "correctIndex": 1,
+    "explanation": "La extinción del Pérmico fue la más severa de la historia de la vida."
+  },
+  {
+    "id": "cg-3071",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué diámetro aproximado tiene el cráter de Chicxulub?",
+    "options": [
+      "Unos 10 km",
+      "Unos 500 km",
+      "Unos 1.000 km",
+      "Unos 180 km"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cráter de Chicxulub se extiende bajo la península de Yucatán."
+  },
+  {
+    "id": "cg-3072",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el desplazamiento aparente de los polos magnéticos registrado en rocas de distintas edades?",
+    "options": [
+      "Expansión del fondo oceánico",
+      "Isostasia",
+      "Ablación glaciar",
+      "Deriva polar aparente"
+    ],
+    "correctIndex": 3,
+    "explanation": "La deriva polar aparente se reconstruye con paleomagnetismo continental."
+  },
+  {
+    "id": "cg-3073",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué propiedad de las rocas volcánicas permite reconstruir la dirección del campo magnético antiguo?",
+    "options": [
+      "La porosidad",
+      "El color",
+      "El paleomagnetismo",
+      "La dureza"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los minerales magnéticos se orientan al enfriarse la lava."
+  },
+  {
+    "id": "cg-3074",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de falla tiene movimiento horizontal paralelo al rumbo y se asocia a límites transformantes?",
+    "options": [
+      "Falla normal",
+      "Falla de deslizamiento",
+      "Falla inversa",
+      "Falla de empuje"
+    ],
+    "correctIndex": 1,
+    "explanation": "En una falla de deslizamiento los bloques se mueven lateralmente."
+  },
+  {
+    "id": "cg-3075",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué espesor aproximado tiene la corteza oceánica?",
+    "options": [
+      "Entre 5 y 10 km",
+      "Entre 30 y 70 km",
+      "Entre 100 y 200 km",
+      "Menos de 1 km"
+    ],
+    "correctIndex": 0,
+    "explanation": "La corteza oceánica es mucho más delgada que la continental."
+  },
+  {
+    "id": "cg-3076",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la profundidad oceánica bajo la cual los carbonatos se disuelven y no se acumulan?",
+    "options": [
+      "Zona de mínimo oxígeno",
+      "Termoclina",
+      "Zona afótica",
+      "Profundidad de compensación de carbonatos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Por debajo de esa profundidad el carbonato cálcico se disuelve."
+  },
+  {
+    "id": "cg-3077",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la nube densa de gas y ceniza que desciende por las laderas de un volcán a gran velocidad?",
+    "options": [
+      "Flujo piroclástico",
+      "Lahar",
+      "Fumarola",
+      "Colada de lava"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los flujos piroclásticos son extremadamente calientes y destructivos."
+  },
+  {
+    "id": "cg-3078",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué nombre recibe la oscilación de la presión atmosférica del Pacífico asociada a El Niño?",
+    "options": [
+      "Oscilación del Sur",
+      "Oscilación del Atlántico",
+      "Oscilación de Madden-Julian",
+      "Oscilación ártica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Oscilación del Sur y El Niño forman el sistema conocido como ENSO."
+  },
+  {
+    "id": "cg-3079",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué es un guyot?",
+    "options": [
+      "Una fosa tectónica",
+      "Un glaciar de casquete",
+      "Una montaña submarina de cima plana",
+      "Una dorsal volcánica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los guyots son antiguos volcanes submarinos erosionados y sumergidos."
+  },
+  {
+    "id": "cg-3080",
+    "category": "general",
+    "topic": "earth_science",
+    "difficulty": "hard",
+    "question": "¿Qué nombre reciben las muestras cilíndricas extraídas de glaciares para estudiar climas antiguos?",
+    "options": [
+      "Núcleos de roca",
+      "Testigos de hielo",
+      "Sedimentos de fosa",
+      "Terrazas marinas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los testigos de hielo conservan burbujas de aire y polvo de miles de años."
+  }
+]

@@ -1,0 +1,6015 @@
+[
+  {
+    "id": "cg-0001",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Australia?",
+    "options": [
+      "Sídney",
+      "Canberra",
+      "Melbourne",
+      "Perth"
+    ],
+    "correctIndex": 1,
+    "explanation": "Canberra es la capital de Australia desde 1913.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0002",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Francia?",
+    "options": [
+      "París",
+      "Lyon",
+      "Marsella",
+      "Niza"
+    ],
+    "correctIndex": 0,
+    "explanation": "París es la capital y la ciudad más poblada de Francia.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0003",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Japón?",
+    "options": [
+      "Kioto",
+      "Osaka",
+      "Tokio",
+      "Nagoya"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tokio es la capital de Japón desde 1868.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0004",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Canadá?",
+    "options": [
+      "Toronto",
+      "Montreal",
+      "Vancouver",
+      "Ottawa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ottawa es la capital federal de Canadá.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0005",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Brasil?",
+    "options": [
+      "Brasilia",
+      "Río de Janeiro",
+      "São Paulo",
+      "Salvador"
+    ],
+    "correctIndex": 0,
+    "explanation": "Brasilia es la capital de Brasil desde 1960.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0006",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Egipto?",
+    "options": [
+      "Alejandría",
+      "Luxor",
+      "El Cairo",
+      "Asuán"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Cairo es la capital de Egipto y su mayor ciudad.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0010",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el río más caudaloso del mundo?",
+    "options": [
+      "Nilo",
+      "Amazonas",
+      "Misisipi",
+      "Yangtsé"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Amazonas es el río con mayor caudal del mundo.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "cg-0015",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el país más poblado de África?",
+    "options": [
+      "Nigeria",
+      "Egipto",
+      "Sudáfrica",
+      "Kenia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nigeria es el país más poblado de África.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "cg-0016",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el planeta más cercano al Sol?",
+    "options": [
+      "Venus",
+      "Tierra",
+      "Mercurio",
+      "Marte"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mercurio orbita más cerca del Sol que cualquier otro planeta.",
+    "reasons": [
+      "“¿Cuál...?” sin ámbito explícito."
+    ]
+  },
+  {
+    "id": "cg-0021",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el animal terrestre más grande?",
+    "options": [
+      "Jirafa",
+      "Rinoceronte",
+      "Hipopótamo",
+      "Elefante africano"
+    ],
+    "correctIndex": 3,
+    "explanation": "El elefante africano es el animal terrestre de mayor tamaño.",
+    "reasons": [
+      "“¿Cuál...?” sin ámbito explícito."
+    ]
+  },
+  {
+    "id": "cg-0029",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento señala el norte?",
+    "options": [
+      "Termómetro",
+      "Telescopio",
+      "Microscopio",
+      "Brújula"
+    ],
+    "correctIndex": 3,
+    "explanation": "La brújula se orienta con el campo magnético terrestre.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0033",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la estrella más cercana a la Tierra?",
+    "options": [
+      "Sirio",
+      "Alfa Centauri",
+      "Sol",
+      "Polaris"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Sol es la estrella más próxima a nuestro planeta.",
+    "reasons": [
+      "“¿Cuál...?” sin ámbito explícito."
+    ]
+  },
+  {
+    "id": "cg-0035",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿En qué año comenzó la Primera Guerra Mundial?",
+    "options": [
+      "1918",
+      "1939",
+      "1905",
+      "1914"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Primera Guerra Mundial comenzó en 1914.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "cg-0037",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué muro cayó en 1989?",
+    "options": [
+      "Muro de Adriano",
+      "Muro de Berlín",
+      "Gran Muralla",
+      "Muro de los Lamentos"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Muro de Berlín cayó en noviembre de 1989.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0040",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el país con mayor superficie del mundo?",
+    "options": [
+      "Canadá",
+      "China",
+      "Rusia",
+      "Estados Unidos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rusia es el país más extenso del mundo.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "cg-0041",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es el país más pequeño del mundo?",
+    "options": [
+      "Mónaco",
+      "Ciudad del Vaticano",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Vaticano es el Estado soberano más pequeño del mundo.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "cg-0047",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué dos países ocupan la mayor parte de la península ibérica?",
+    "options": [
+      "España y Portugal",
+      "España y Francia",
+      "Portugal y Marruecos",
+      "España e Italia"
+    ],
+    "correctIndex": 0,
+    "explanation": "España y Portugal ocupan la mayor parte de la península ibérica.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "cg-0049",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Italia?",
+    "options": [
+      "Milán",
+      "Venecia",
+      "Roma",
+      "Florencia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Roma es la capital de Italia.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0050",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Alemania?",
+    "options": [
+      "Múnich",
+      "Hamburgo",
+      "Berlín",
+      "Fráncfort"
+    ],
+    "correctIndex": 2,
+    "explanation": "Berlín es la capital de Alemania desde la reunificación.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0051",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de España?",
+    "options": [
+      "Barcelona",
+      "Sevilla",
+      "Madrid",
+      "Valencia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Madrid es la capital de España.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0052",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de México?",
+    "options": [
+      "Guadalajara",
+      "Monterrey",
+      "Ciudad de México",
+      "Puebla"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Ciudad de México es la capital del país.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0053",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Argentina?",
+    "options": [
+      "Córdoba",
+      "Buenos Aires",
+      "Rosario",
+      "Mendoza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Buenos Aires es la capital de Argentina.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0054",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Perú?",
+    "options": [
+      "Cusco",
+      "Arequipa",
+      "Trujillo",
+      "Lima"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lima es la capital de Perú.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0055",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Chile?",
+    "options": [
+      "Valparaíso",
+      "Concepción",
+      "Antofagasta",
+      "Santiago"
+    ],
+    "correctIndex": 3,
+    "explanation": "Santiago es la capital de Chile.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0056",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capital de Colombia?",
+    "options": [
+      "Medellín",
+      "Bogotá",
+      "Cali",
+      "Cartagena"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bogotá es la capital de Colombia.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0058",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué río atraviesa París?",
+    "options": [
+      "Támesis",
+      "Sena",
+      "Danubio",
+      "Rin"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Sena atraviesa París antes de desembocar en el canal de la Mancha.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0059",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué río atraviesa Londres?",
+    "options": [
+      "Sena",
+      "Tíber",
+      "Elba",
+      "Támesis"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Támesis atraviesa Londres.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0065",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Dónde está la sede principal de la ONU?",
+    "options": [
+      "Ginebra",
+      "París",
+      "Nueva York",
+      "Bruselas"
+    ],
+    "correctIndex": 2,
+    "explanation": "La sede de la ONU está en Nueva York.",
+    "reasons": [
+      "“¿Dónde...?”; verificar que el lugar sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0066",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Dónde está la sede de la Comisión Europea?",
+    "options": [
+      "Estrasburgo",
+      "Bruselas",
+      "Luxemburgo",
+      "Ámsterdam"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Comisión Europea tiene su sede en Bruselas.",
+    "reasons": [
+      "“¿Dónde...?”; verificar que el lugar sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0070",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién era el dios griego del mar?",
+    "options": [
+      "Zeus",
+      "Apolo",
+      "Poseidón",
+      "Ares"
+    ],
+    "correctIndex": 2,
+    "explanation": "Poseidón era el dios griego del mar y de los terremotos.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0071",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Turquía?",
+    "options": [
+      "Estambul",
+      "Ankara",
+      "Esmirna",
+      "Bursa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ankara es la capital de Turquía desde 1923.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0072",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Marruecos?",
+    "options": [
+      "Casablanca",
+      "Rabat",
+      "Marrakech",
+      "Fez"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rabat es la capital de Marruecos.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0074",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Vietnam?",
+    "options": [
+      "Ciudad Ho Chi Minh",
+      "Da Nang",
+      "Hanói",
+      "Hué"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hanói es la capital de Vietnam.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0075",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Tailandia?",
+    "options": [
+      "Chiang Mai",
+      "Phuket",
+      "Bangkok",
+      "Pattaya"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bangkok es la capital de Tailandia.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0076",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Pakistán?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Rawalpindi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Islamabad es la capital de Pakistán.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0077",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Nigeria?",
+    "options": [
+      "Abuya",
+      "Lagos",
+      "Kano",
+      "Ibadán"
+    ],
+    "correctIndex": 0,
+    "explanation": "Abuya es la capital de Nigeria desde 1991.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0078",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capital de Kazajistán?",
+    "options": [
+      "Astaná",
+      "Almaty",
+      "Karaganda",
+      "Taskent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Astaná es la capital de Kazajistán.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0079",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el país más grande de América del Sur?",
+    "options": [
+      "Brasil",
+      "Argentina",
+      "Perú",
+      "Colombia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Brasil ocupa cerca de la mitad de la superficie de América del Sur.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "cg-0081",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué río atraviesa Bagdad?",
+    "options": [
+      "Éufrates",
+      "Tigris",
+      "Nilo",
+      "Jordán"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bagdad se encuentra a orillas del río Tigris.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0082",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el río más largo de Europa?",
+    "options": [
+      "Danubio",
+      "Rin",
+      "Volga",
+      "Dniéper"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Volga es el río más largo de Europa.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "cg-0091",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué volcán sepultó la ciudad de Pompeya?",
+    "options": [
+      "Etna",
+      "Estrómboli",
+      "Vesubio",
+      "Teide"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Vesubio erupcionó en el año 79 y sepultó Pompeya.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "cg-0092",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué volcán siciliano, situado junto a Catania, es el más activo de Europa?",
+    "options": [
+      "Vesubio",
+      "Etna",
+      "Teide",
+      "Estrómboli"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Etna, en Sicilia, es el volcán más activo de Europa.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "cg-0094",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Cuál es el mayor desierto polar del planeta, situado en el hemisferio sur?",
+    "options": [
+      "Sahara",
+      "Antártico",
+      "Gobi",
+      "Kalahari"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Antártida es el mayor desierto del mundo y es de tipo polar.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "cg-0101",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿En qué capa de la atmósfera se encuentra la mayor parte del ozono?",
+    "options": [
+      "Troposfera",
+      "Estratosfera",
+      "Mesosfera",
+      "Ionosfera"
+    ],
+    "correctIndex": 1,
+    "explanation": "La capa de ozono se sitúa principalmente en la estratosfera.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "cg-0106",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué órgano produce la insulina?",
+    "options": [
+      "Hígado",
+      "Riñón",
+      "Tiroides",
+      "Páncreas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las células beta del páncreas producen insulina.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0107",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué hueso protege el cerebro?",
+    "options": [
+      "Fémur",
+      "Esternón",
+      "Pelvis",
+      "Cráneo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cráneo forma una caja ósea que protege el cerebro.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0119",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién fue la primera persona en caminar sobre la Luna?",
+    "options": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Michael Collins"
+    ],
+    "correctIndex": 2,
+    "explanation": "Armstrong pisó la Luna en julio de 1969.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro.",
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0122",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién descubrió la penicilina?",
+    "options": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fleming observó en 1928 que un hongo inhibía bacterias.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0123",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién formuló las tres leyes del movimiento?",
+    "options": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Albert Einstein",
+      "Johannes Kepler"
+    ],
+    "correctIndex": 1,
+    "explanation": "Newton formuló sus leyes del movimiento en el siglo XVII.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0124",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién creó la tabla periódica de los elementos?",
+    "options": [
+      "Antoine Lavoisier",
+      "Dmitri Mendeléyev",
+      "John Dalton",
+      "Niels Bohr"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mendeléyev ordenó los elementos según su masa atómica en 1869.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0125",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién formuló la teoría de la relatividad?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Max Planck",
+      "Niels Bohr"
+    ],
+    "correctIndex": 1,
+    "explanation": "Einstein publicó la relatividad especial en 1905 y la general en 1915.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0130",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué navegante español completó la primera vuelta al mundo al mando de la expedición en 1522?",
+    "options": [
+      "Fernando de Magallanes",
+      "Juan Sebastián Elcano",
+      "Cristóbal Colón",
+      "Vasco da Gama"
+    ],
+    "correctIndex": 1,
+    "explanation": "Elcano completó la expedición iniciada por Magallanes en 1522.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "cg-0134",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién lideró la independencia del norte de América del Sur?",
+    "options": [
+      "José de San Martín",
+      "Simón Bolívar",
+      "Miguel Hidalgo",
+      "Bernardo O'Higgins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bolívar lideró la independencia de varios países andinos.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0136",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién lideró la independencia de Argentina, Chile y Perú?",
+    "options": [
+      "Simón Bolívar",
+      "Bernardo O'Higgins",
+      "Antonio José de Sucre",
+      "José de San Martín"
+    ],
+    "correctIndex": 3,
+    "explanation": "San Martín cruzó los Andes y proclamó la independencia de Perú.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0150",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se independizó Haití?",
+    "options": [
+      "1791",
+      "1810",
+      "1822",
+      "1804"
+    ],
+    "correctIndex": 3,
+    "explanation": "Haití proclamó su independencia en 1804.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0155",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué tratado puso fin a la Primera Guerra Mundial con Alemania?",
+    "options": [
+      "Tratado de Versalles",
+      "Tratado de Trianon",
+      "Tratado de Saint-Germain",
+      "Tratado de Sèvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Tratado de Versalles se firmó en 1919.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "cg-0158",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año partió la Primera Cruzada?",
+    "options": [
+      "1147",
+      "1189",
+      "1204",
+      "1096"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Primera Cruzada partió en 1096.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "cg-0170",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se hundió el Titanic?",
+    "options": [
+      "1912",
+      "1905",
+      "1915",
+      "1920"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Titanic se hundió en abril de 1912.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0171",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿En qué año se lanzó el Sputnik 1?",
+    "options": [
+      "1955",
+      "1961",
+      "1969",
+      "1957"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Sputnik 1 fue el primer satélite artificial, lanzado en 1957.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0172",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Quién fue el primer ser humano en viajar al espacio?",
+    "options": [
+      "Yuri Gagarin",
+      "Alan Shepard",
+      "John Glenn",
+      "Neil Armstrong"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gagarin orbitó la Tierra en 1961.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0173",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Quién fue la primera mujer en viajar al espacio?",
+    "options": [
+      "Valentina Tereshkova",
+      "Sally Ride",
+      "Svetlana Savitskaya",
+      "Mae Jemison"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tereshkova voló al espacio en 1963.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro.",
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0176",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién pintó la Mona Lisa?",
+    "options": [
+      "Miguel Ángel",
+      "Rafael Sanzio",
+      "Sandro Botticelli",
+      "Leonardo da Vinci"
+    ],
+    "correctIndex": 3,
+    "explanation": "Leonardo da Vinci pintó la Mona Lisa a comienzos del siglo XVI.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0177",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién esculpió la estatua del David que se conserva en Florencia?",
+    "options": [
+      "Donatello",
+      "Gian Lorenzo Bernini",
+      "Auguste Rodin",
+      "Miguel Ángel"
+    ],
+    "correctIndex": 3,
+    "explanation": "Miguel Ángel talló el David en mármol entre 1501 y 1504.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0178",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién escribió Don Quijote de la Mancha?",
+    "options": [
+      "Lope de Vega",
+      "Miguel de Cervantes",
+      "Federico García Lorca",
+      "Benito Pérez Galdós"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cervantes publicó la primera parte del Quijote en 1605.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0179",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién escribió la obra de teatro Romeo y Julieta?",
+    "options": [
+      "Christopher Marlowe",
+      "Charles Dickens",
+      "William Shakespeare",
+      "Oscar Wilde"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shakespeare escribió Romeo y Julieta hacia 1595.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...).",
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0184",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién dirigió la película Tiburón de 1975?",
+    "options": [
+      "George Lucas",
+      "Martin Scorsese",
+      "Ridley Scott",
+      "Steven Spielberg"
+    ],
+    "correctIndex": 3,
+    "explanation": "Steven Spielberg dirigió Tiburón, estrenada en 1975.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...).",
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0190",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué significan las siglas WWW?",
+    "options": [
+      "World Web Wide",
+      "Wide World Web",
+      "World Wide Web",
+      "Web World Wide"
+    ],
+    "correctIndex": 2,
+    "explanation": "WWW significa World Wide Web, la red mundial de páginas.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0191",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Con qué moneda se paga en Japón?",
+    "options": [
+      "El yen",
+      "El won",
+      "El yuan",
+      "La rupia"
+    ],
+    "correctIndex": 0,
+    "explanation": "El yen es la moneda oficial de Japón.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0195",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién pintó La noche estrellada?",
+    "options": [
+      "Claude Monet",
+      "Paul Cézanne",
+      "Vincent van Gogh",
+      "Edvard Munch"
+    ],
+    "correctIndex": 2,
+    "explanation": "Van Gogh pintó La noche estrellada en 1889.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0196",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién pintó el techo de la Capilla Sixtina?",
+    "options": [
+      "Miguel Ángel",
+      "Rafael Sanzio",
+      "Leonardo da Vinci",
+      "Tiziano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Miguel Ángel pintó los frescos de la Capilla Sixtina entre 1508 y 1512.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0198",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién escribió Cien años de soledad?",
+    "options": [
+      "Gabriel García Márquez",
+      "Mario Vargas Llosa",
+      "Julio Cortázar",
+      "Jorge Luis Borges"
+    ],
+    "correctIndex": 0,
+    "explanation": "García Márquez publicó Cien años de soledad en 1967.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0199",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién escribió La Odisea?",
+    "options": [
+      "Virgilio",
+      "Homero",
+      "Sófocles",
+      "Hesíodo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Odisea se atribuye al poeta griego Homero.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0201",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién compuso Las cuatro estaciones?",
+    "options": [
+      "Johann Sebastian Bach",
+      "Georg Friedrich Händel",
+      "Antonio Vivaldi",
+      "Joseph Haydn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vivaldi compuso Las cuatro estaciones hacia 1725.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0203",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién escribió El Principito?",
+    "options": [
+      "Jules Verne",
+      "Victor Hugo",
+      "Antoine de Saint-Exupéry",
+      "Albert Camus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Saint-Exupéry publicó El Principito en 1943.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0204",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpretó a Jack Dawson en la película Titanic de 1997?",
+    "options": [
+      "Brad Pitt",
+      "Johnny Depp",
+      "Leonardo DiCaprio",
+      "Matt Damon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Leonardo DiCaprio encarnó a Jack Dawson en Titanic de 1997.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "cg-0205",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién dirigió El padrino de 1972?",
+    "options": [
+      "Francis Ford Coppola",
+      "Martin Scorsese",
+      "Brian De Palma",
+      "Sergio Leone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Coppola dirigió El padrino, estrenada en 1972.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0214",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué país es el origen del sushi?",
+    "options": [
+      "China",
+      "Corea del Sur",
+      "Tailandia",
+      "Japón"
+    ],
+    "correctIndex": 3,
+    "explanation": "El sushi surgió en Japón como forma de conservar pescado.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0220",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento de cuerda frotada, el más agudo de la familia, tiene cuatro cuerdas y se toca con arco en una orquesta?",
+    "options": [
+      "La guitarra",
+      "El arpa",
+      "El violín",
+      "La flauta"
+    ],
+    "correctIndex": 2,
+    "explanation": "El violín tiene cuatro cuerdas y se toca con arco.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "cg-0225",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Qué moneda se utiliza en Suiza?",
+    "options": [
+      "El franco suizo",
+      "El euro",
+      "La corona",
+      "El dólar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Suiza conserva el franco suizo pese a estar rodeada de países del euro.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0228",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién protagonizó la película Casablanca de 1942 junto a Ingrid Bergman?",
+    "options": [
+      "Cary Grant",
+      "Clark Gable",
+      "James Stewart",
+      "Humphrey Bogart"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bogart interpretó a Rick Blaine en Casablanca.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...).",
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0239",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién fundó Amazon?",
+    "options": [
+      "Bill Gates",
+      "Jeff Bezos",
+      "Elon Musk",
+      "Larry Page"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bezos fundó Amazon en 1994.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0240",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "¿Quién creó la World Wide Web en el CERN?",
+    "options": [
+      "Vint Cerf",
+      "Steve Wozniak",
+      "Linus Torvalds",
+      "Tim Berners-Lee"
+    ],
+    "correctIndex": 3,
+    "explanation": "Berners-Lee propuso la web en el CERN en 1989.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0246",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién pintó El jardín de las delicias?",
+    "options": [
+      "Pieter Bruegel el Viejo",
+      "Jan van Eyck",
+      "Alberto Durero",
+      "El Bosco"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Bosco pintó el tríptico hacia 1500.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0248",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién pintó Impresión, sol naciente, obra que dio nombre al impresionismo?",
+    "options": [
+      "Claude Monet",
+      "Édouard Manet",
+      "Pierre-Auguste Renoir",
+      "Camille Pissarro"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cuadro de Monet se expuso en 1874 y originó el término impresionismo.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0253",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién esculpió El pensador?",
+    "options": [
+      "Camille Claudel",
+      "Aristide Maillol",
+      "Auguste Rodin",
+      "Constantin Brancusi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rodin creó El pensador como parte de La puerta del infierno.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0255",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién escribió Madame Bovary?",
+    "options": [
+      "Stendhal",
+      "Honoré de Balzac",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "correctIndex": 3,
+    "explanation": "Flaubert publicó Madame Bovary en 1857.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0256",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién escribió Los miserables?",
+    "options": [
+      "Alejandro Dumas",
+      "Julio Verne",
+      "Charles Baudelaire",
+      "Victor Hugo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Victor Hugo publicó Los miserables en 1862.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0257",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién escribió Crimen y castigo?",
+    "options": [
+      "León Tolstói",
+      "Fiódor Dostoievski",
+      "Nikolái Gógol",
+      "Borís Pasternak"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dostoievski publicó Crimen y castigo en 1866.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0259",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién escribió la novela 1984?",
+    "options": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "George Orwell",
+      "Franz Kafka"
+    ],
+    "correctIndex": 2,
+    "explanation": "Orwell publicó 1984 en 1949.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0264",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién escribió el libro de cuentos Ficciones?",
+    "options": [
+      "Jorge Luis Borges",
+      "Julio Cortázar",
+      "Adolfo Bioy Casares",
+      "Ernesto Sabato"
+    ],
+    "correctIndex": 0,
+    "explanation": "Borges publicó Ficciones en 1944.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...).",
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0266",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién compuso la ópera La bohème?",
+    "options": [
+      "Giuseppe Verdi",
+      "Giacomo Puccini",
+      "Vincenzo Bellini",
+      "Gioachino Rossini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Puccini estrenó La bohème en 1896.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0278",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién dirigió Ciudadano Kane?",
+    "options": [
+      "Orson Welles",
+      "John Huston",
+      "Elia Kazan",
+      "Billy Wilder"
+    ],
+    "correctIndex": 0,
+    "explanation": "Welles dirigió y protagonizó Ciudadano Kane en 1941.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0279",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién dirigió Pulp Fiction?",
+    "options": [
+      "Joel Coen",
+      "Martin Scorsese",
+      "Quentin Tarantino",
+      "David Fincher"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tarantino estrenó Pulp Fiction en 1994.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0281",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién dirigió El laberinto del fauno?",
+    "options": [
+      "Alfonso Cuarón",
+      "Alejandro González Iñárritu",
+      "Pedro Almodóvar",
+      "Guillermo del Toro"
+    ],
+    "correctIndex": 3,
+    "explanation": "Del Toro estrenó El laberinto del fauno en 2006.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0286",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué película de animación de 1995 fue la primera de Pixar?",
+    "options": [
+      "Bichos",
+      "Monsters, Inc.",
+      "Buscando a Nemo",
+      "Toy Story"
+    ],
+    "correctIndex": 3,
+    "explanation": "Toy Story fue el primer largometraje animado íntegramente por computadora de Pixar.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "cg-0287",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué selección ganó la primera Eurocopa de fútbol, en 1960?",
+    "options": [
+      "Yugoslavia",
+      "La Unión Soviética",
+      "España",
+      "Italia"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Unión Soviética ganó la final de 1960 ante Yugoslavia.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "cg-0297",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Quién creó el sistema de lectura para personas ciegas basado en puntos en relieve?",
+    "options": [
+      "Samuel Morse",
+      "Louis Braille",
+      "Alexander Graham Bell",
+      "Thomas Edison"
+    ],
+    "correctIndex": 1,
+    "explanation": "Louis Braille ideó su alfabeto táctil en el siglo XIX.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "cg-0300",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué significa HTML?",
+    "options": [
+      "HighText Machine Language",
+      "HyperTool Multi Language",
+      "HyperText Markup Language",
+      "HomeText Markup Language"
+    ],
+    "correctIndex": 2,
+    "explanation": "HTML es el lenguaje de marcado con el que se construyen las páginas web.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0303",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué es un algoritmo?",
+    "options": [
+      "Un tipo de hardware",
+      "Un lenguaje de programación",
+      "Una red social",
+      "Una secuencia de pasos para resolver un problema"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un algoritmo describe pasos ordenados para resolver un problema.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0313",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "¿Qué país es famoso por el kimchi?",
+    "options": [
+      "Corea del Sur",
+      "Japón",
+      "China",
+      "Vietnam"
+    ],
+    "correctIndex": 0,
+    "explanation": "El kimchi es una preparación coreana de col fermentada.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "cg-0339",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué club ganó la primera Copa de Europa de fútbol, en 1956?",
+    "options": [
+      "El Benfica",
+      "El Milan",
+      "El Stade de Reims",
+      "El Real Madrid"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Real Madrid venció al Stade de Reims en la final de 1956.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "cg-0340",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "¿Qué boxeador ganó el título mundial de los pesos pesados en 1964 y se proclamó a sí mismo «el más grande»?",
+    "options": [
+      "Joe Frazier",
+      "George Foreman",
+      "Muhammad Ali",
+      "Sonny Liston"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ali, entonces Cassius Clay, destronó a Sonny Liston en 1964.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "vg-0005",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Quién es el principal villano de la saga Super Mario?",
+    "options": [
+      "Bowser",
+      "Ganondorf",
+      "Dr. Eggman",
+      "Sephiroth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bowser es el rey de los Koopas y antagonista habitual de Mario.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "vg-0007",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el reino donde transcurren la mayoría de los juegos de Zelda?",
+    "options": [
+      "Kanto",
+      "Midgar",
+      "Hyrule",
+      "Reino Champiñón"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hyrule es el reino ficticio de la saga The Legend of Zelda.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "vg-0013",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la organización villana de la primera generación de Pokémon?",
+    "options": [
+      "Team Magma",
+      "Team Rocket",
+      "Team Aqua",
+      "Team Galactic"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Team Rocket roba Pokémon y persigue a Ash y sus amigos.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "vg-0020",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué significa la sigla RPG?",
+    "options": [
+      "Juego de carreras",
+      "Juego de rol",
+      "Juego de disparos",
+      "Juego de estrategia"
+    ],
+    "correctIndex": 1,
+    "explanation": "RPG viene de role-playing game, es decir, juego de rol.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0050",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Quién es el protagonista de Metal Gear Solid de 1998?",
+    "options": [
+      "Big Boss",
+      "Raiden",
+      "Solid Snake",
+      "Liquid Snake"
+    ],
+    "correctIndex": 2,
+    "explanation": "Solid Snake es el protagonista de Metal Gear Solid.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "vg-0053",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué compañía creó a Sonic?",
+    "options": [
+      "Nintendo",
+      "Sega",
+      "Capcom",
+      "Konami"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sonic es la mascota de Sega.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0054",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué compañía creó a Mario?",
+    "options": [
+      "Sega",
+      "Capcom",
+      "Atari",
+      "Nintendo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mario nació en los arcades de Nintendo.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0055",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué compañía fabricó la consola Atari 2600?",
+    "options": [
+      "Nintendo",
+      "Sega",
+      "Mattel",
+      "Atari"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Atari 2600 fue fabricada por Atari.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "vg-0089",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién creó la franquicia Pokémon?",
+    "options": [
+      "Shigeru Miyamoto",
+      "Satoru Iwata",
+      "Satoshi Tajiri",
+      "Ken Sugimori"
+    ],
+    "correctIndex": 2,
+    "explanation": "Satoshi Tajiri ideó Pokémon y fundó Game Freak.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0098",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién fundó Atari junto a Ted Dabney en 1972?",
+    "options": [
+      "Ralph Baer",
+      "Nolan Bushnell",
+      "Al Alcorn",
+      "Shigeru Miyamoto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nolan Bushnell y Ted Dabney fundaron Atari en 1972.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "vg-0102",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién diseñó el personaje de Pac-Man?",
+    "options": [
+      "Shigeru Miyamoto",
+      "Toru Iwatani",
+      "Nolan Bushnell",
+      "Hironobu Sakaguchi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Toru Iwatani diseñó a Pac-Man para Namco.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...).",
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "vg-0103",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién creó el Tetris?",
+    "options": [
+      "Alexéi Pázhitnov",
+      "Toru Iwatani",
+      "Satoshi Tajiri",
+      "Gunpei Yokoi"
+    ],
+    "correctIndex": 0,
+    "explanation": "El programador soviético Alexéi Pázhitnov creó Tetris en 1984.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0105",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué consola comercializada en 1972 se considera la primera videoconsola doméstica?",
+    "options": [
+      "Magnavox Odyssey",
+      "Atari 2600",
+      "NES",
+      "ColecoVision"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Magnavox Odyssey llegó al mercado en 1972.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "vg-0107",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llamaba la NES en Japón?",
+    "options": [
+      "Super Famicom",
+      "Famicom Disk System",
+      "Nintendo 64",
+      "Famicom"
+    ],
+    "correctIndex": 3,
+    "explanation": "La NES se llamó Family Computer, o Famicom, en Japón.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0117",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién creó la saga Metal Gear?",
+    "options": [
+      "Hideo Kojima",
+      "Hironobu Sakaguchi",
+      "Koji Igarashi",
+      "Keiji Inafune"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hideo Kojima creó Metal Gear en Konami.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0120",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿A qué género pertenece Contra?",
+    "options": [
+      "Puzzle",
+      "RPG",
+      "Run and gun",
+      "Carreras"
+    ],
+    "correctIndex": 2,
+    "explanation": "Contra es un clásico run and gun de Konami.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0122",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué compañía creó a Bomberman?",
+    "options": [
+      "Konami",
+      "Capcom",
+      "Taito",
+      "Hudson Soft"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bomberman nació en Hudson Soft en 1983.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0124",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién creó la saga Final Fantasy?",
+    "options": [
+      "Yuji Horii",
+      "Hironobu Sakaguchi",
+      "Hideo Kojima",
+      "Shigeru Miyamoto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hironobu Sakaguchi ideó Final Fantasy en Square.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0129",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio creó a Kirby?",
+    "options": [
+      "Game Freak",
+      "Intelligent Systems",
+      "HAL Laboratory",
+      "Retro Studios"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kirby nació en HAL Laboratory.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0130",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó Kirby?",
+    "options": [
+      "NES",
+      "Game Boy",
+      "Super Nintendo",
+      "Nintendo 64"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kirby debutó en Kirby's Dream Land para Game Boy.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0135",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó Pikmin?",
+    "options": [
+      "Nintendo 64",
+      "GameCube",
+      "Wii",
+      "Nintendo DS"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pikmin se lanzó en GameCube en 2001.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0136",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó Splatoon?",
+    "options": [
+      "Switch",
+      "Wii",
+      "Nintendo 3DS",
+      "Wii U"
+    ],
+    "correctIndex": 3,
+    "explanation": "Splatoon se lanzó en Wii U en 2015.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0137",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué consola debutó Star Fox?",
+    "options": [
+      "NES",
+      "Nintendo 64",
+      "Super Nintendo",
+      "GameCube"
+    ],
+    "correctIndex": 2,
+    "explanation": "Star Fox debutó en Super Nintendo en 1993.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0140",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué compañía japonesa creó la consola Neo Geo?",
+    "options": [
+      "SNK",
+      "Capcom",
+      "Sega",
+      "Namco"
+    ],
+    "correctIndex": 0,
+    "explanation": "SNK lanzó la Neo Geo en 1990.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "vg-0144",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué consola de 1976 fue la primera en usar cartuchos de ROM intercambiables?",
+    "options": [
+      "Atari 2600",
+      "Magnavox Odyssey",
+      "Intellivision",
+      "Fairchild Channel F"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Fairchild Channel F introdujo los cartuchos intercambiables en 1976.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "vg-0161",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿En qué juego debutó Yoshi?",
+    "options": [
+      "Super Mario Bros. 3",
+      "Super Mario 64",
+      "Super Mario World",
+      "Super Mario Land"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yoshi apareció por primera vez en Super Mario World de Super Nintendo.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0165",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién compuso la música original de Super Mario Bros. y The Legend of Zelda?",
+    "options": [
+      "Nobuo Uematsu",
+      "Koji Kondo",
+      "Koichi Sugiyama",
+      "Yoko Shimomura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Koji Kondo es el compositor histórico de Nintendo.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "vg-0166",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién compuso la banda sonora del Final Fantasy original de 1987?",
+    "options": [
+      "Koji Kondo",
+      "Akira Toriyama",
+      "Yuji Horii",
+      "Nobuo Uematsu"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nobuo Uematsu firmó la música de gran parte de la saga Final Fantasy.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "vg-0167",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién diseñó los personajes de Dragon Quest?",
+    "options": [
+      "Nobuo Uematsu",
+      "Koji Kondo",
+      "Akira Toriyama",
+      "Shigeru Miyamoto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Akira Toriyama, creador de Dragon Ball, diseñó los personajes de Dragon Quest.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "vg-0179",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué estudio desarrolló Minecraft?",
+    "options": [
+      "Valve",
+      "Epic Games",
+      "Rockstar Games",
+      "Mojang"
+    ],
+    "correctIndex": 3,
+    "explanation": "Minecraft fue creado por Mojang, el estudio fundado por Markus Persson.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0236",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad transcurre la primera entrega de Watch Dogs?",
+    "options": [
+      "Los Ángeles",
+      "Nueva York",
+      "San Francisco",
+      "Chicago"
+    ],
+    "correctIndex": 3,
+    "explanation": "Watch Dogs (2014) se ambienta en una Chicago conectada.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "vg-0239",
+    "category": "videogames",
+    "difficulty": "easy",
+    "question": "¿Qué estudio desarrolló la primera entrega de Crash Bandicoot?",
+    "options": [
+      "Insomniac Games",
+      "Naughty Dog",
+      "Rare",
+      "Traveller's Tales"
+    ],
+    "correctIndex": 1,
+    "explanation": "Naughty Dog creó Crash Bandicoot para la primera PlayStation.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "vg-0246",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó la primera PlayStation en Japón?",
+    "options": [
+      "1995",
+      "1994",
+      "1996",
+      "1993"
+    ],
+    "correctIndex": 1,
+    "explanation": "La primera PlayStation se lanzó en Japón en diciembre de 1994.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "vg-0248",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué consola de Sony es la más vendida de su historia?",
+    "options": [
+      "PlayStation 4",
+      "PlayStation 2",
+      "PlayStation",
+      "PlayStation 3"
+    ],
+    "correctIndex": 1,
+    "explanation": "La PlayStation 2 superó las 155 millones de unidades vendidas.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "vg-0258",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué entrega de Grand Theft Auto fue la primera en 3D?",
+    "options": [
+      "Grand Theft Auto III",
+      "Vice City",
+      "San Andreas",
+      "Grand Theft Auto IV"
+    ],
+    "correctIndex": 0,
+    "explanation": "Grand Theft Auto III inauguró la era tridimensional de la saga.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "vg-0263",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién compone la banda sonora de God of War (2018)?",
+    "options": [
+      "Hans Zimmer",
+      "Gustavo Santaolalla",
+      "Bear McCreary",
+      "Mick Gordon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bear McCreary compuso la música de God of War de 2018.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "vg-0268",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio desarrolló Returnal?",
+    "options": [
+      "Remedy Entertainment",
+      "Bluepoint Games",
+      "Media Molecule",
+      "Housemarque"
+    ],
+    "correctIndex": 3,
+    "explanation": "Returnal fue desarrollado por el estudio finlandés Housemarque.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0269",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué juego de FromSoftware transcurre en la ciudad de Yharnam?",
+    "options": [
+      "Demon's Souls",
+      "Bloodborne",
+      "Sekiro",
+      "Elden Ring"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yharnam es la ciudad gótica de Bloodborne.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "vg-0270",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién dirigió Dark Souls y Elden Ring?",
+    "options": [
+      "Hidetaka Miyazaki",
+      "Hideo Kojima",
+      "Yoko Taro",
+      "Fumito Ueda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hidetaka Miyazaki dirigió ambas obras de FromSoftware.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "vg-0274",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó Elden Ring?",
+    "options": [
+      "2022",
+      "2020",
+      "2021",
+      "2023"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elden Ring se lanzó en febrero de 2022.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0277",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la ciudad de Cyberpunk 2077?",
+    "options": [
+      "Los Santos",
+      "Night City",
+      "Nueva Vegas",
+      "Ciudad Libertad"
+    ],
+    "correctIndex": 1,
+    "explanation": "Night City es la megalópolis de Cyberpunk 2077.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "vg-0279",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Quién escribió las novelas en las que se basa The Witcher?",
+    "options": [
+      "Andrzej Sapkowski",
+      "George R. R. Martin",
+      "J. R. R. Tolkien",
+      "Brandon Sanderson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Andrzej Sapkowski es el autor de la saga de Geralt.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "vg-0285",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿Qué estudio desarrolló Destiny?",
+    "options": [
+      "Bungie",
+      "343 Industries",
+      "BioWare",
+      "Respawn Entertainment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bungie desarrolló Destiny tras separarse de Microsoft.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0308",
+    "category": "videogames",
+    "difficulty": "medium",
+    "question": "¿En qué año se lanzó Overwatch?",
+    "options": [
+      "2014",
+      "2018",
+      "2020",
+      "2016"
+    ],
+    "correctIndex": 3,
+    "explanation": "Overwatch se lanzó en mayo de 2016.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0320",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién fue el director creativo de God of War (2018)?",
+    "options": [
+      "David Jaffe",
+      "Neil Druckmann",
+      "Cory Barlog",
+      "Bruce Straley"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cory Barlog dirigió el reinicio nórdico de God of War.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "vg-0321",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién creó la saga God of War original?",
+    "options": [
+      "David Jaffe",
+      "Cory Barlog",
+      "Stig Asmussen",
+      "Neil Druckmann"
+    ],
+    "correctIndex": 0,
+    "explanation": "David Jaffe concibió y dirigió el primer God of War.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "vg-0323",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién dirigió The Last of Us Part II?",
+    "options": [
+      "Cory Barlog",
+      "Bruce Straley",
+      "Amy Hennig",
+      "Neil Druckmann"
+    ],
+    "correctIndex": 3,
+    "explanation": "Neil Druckmann fue el director creativo de The Last of Us Part II.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "vg-0327",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Quién dirigió Shadow of the Colossus y The Last Guardian?",
+    "options": [
+      "Hideo Kojima",
+      "Fumito Ueda",
+      "Yoko Taro",
+      "Keiichiro Toyama"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fumito Ueda dirigió ambas obras de Team Ico.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "vg-0330",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué estudio desarrolló Control?",
+    "options": [
+      "Remedy Entertainment",
+      "Arkane Studios",
+      "Tango Gameworks",
+      "Ninja Theory"
+    ],
+    "correctIndex": 0,
+    "explanation": "Control es obra del estudio finlandés Remedy Entertainment.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "vg-0331",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Cuál fue la primera expansión de World of Warcraft?",
+    "options": [
+      "The Burning Crusade",
+      "Wrath of the Lich King",
+      "Cataclysm",
+      "Mists of Pandaria"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Burning Crusade se lanzó en 2007 como primera expansión.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "vg-0347",
+    "category": "videogames",
+    "difficulty": "hard",
+    "question": "¿Qué estudio desarrolló Cuphead?",
+    "options": [
+      "Studio MDHR",
+      "Playdead",
+      "Team Cherry",
+      "Supergiant Games"
+    ],
+    "correctIndex": 0,
+    "explanation": "Studio MDHR creó Cuphead con estética de dibujos animados.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0001",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué ciudad se desarrolla principalmente la serie Friends?",
+    "options": [
+      "Nueva York",
+      "Los Ángeles",
+      "Chicago",
+      "Boston"
+    ],
+    "correctIndex": 0,
+    "explanation": "Friends sigue a seis amigos que viven en Manhattan, Nueva York.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0005",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Friends, ¿qué frase usa Joey Tribbiani para coquetear con las mujeres?",
+    "options": [
+      "How you doin'?",
+      "Did I do that?",
+      "Yada yada yada",
+      "I'm listening"
+    ],
+    "correctIndex": 0,
+    "explanation": "How you doin'? es la frase característica con la que Joey intenta ligar.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0006",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Friends, ¿cómo se llama la hija de Ross y Rachel?",
+    "options": [
+      "Ben",
+      "Emma",
+      "Jack",
+      "Michael"
+    ],
+    "correctIndex": 1,
+    "explanation": "Emma nace en la octava temporada y es hija de Ross y Rachel.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0007",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Friends, ¿cuál es la profesión de Ross Geller?",
+    "options": [
+      "Geólogo",
+      "Arqueólogo",
+      "Paleontólogo",
+      "Profesor de historia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ross es paleontólogo y más tarde da clases en la universidad.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0008",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Friends, ¿cuál es la profesión de Monica Geller?",
+    "options": [
+      "Nutricionista",
+      "Panadera",
+      "Directora de restaurante",
+      "Chef"
+    ],
+    "correctIndex": 3,
+    "explanation": "Monica trabaja como chef en varios restaurantes de Nueva York.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0009",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Friends, ¿cómo se llama el mono que Ross tuvo como mascota?",
+    "options": [
+      "Marcel",
+      "Hugo",
+      "Coco",
+      "Bongo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Marcel es el mono capuchino que Ross adopta en la primera temporada.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0010",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Friends, ¿qué personaje dice la frase We were on a break?",
+    "options": [
+      "Chandler",
+      "Ross",
+      "Joey",
+      "Richard"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ross repite esa frase para justificar su ruptura con Rachel.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0011",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Friends, ¿qué personaje canta la canción Smelly Cat?",
+    "options": [
+      "Rachel",
+      "Monica",
+      "Phoebe",
+      "Janice"
+    ],
+    "correctIndex": 2,
+    "explanation": "Phoebe Buffay compone y canta Smelly Cat en Central Perk.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0012",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Friends, ¿qué actor interpreta a Chandler Bing?",
+    "options": [
+      "Matt LeBlanc",
+      "David Schwimmer",
+      "Matthew Fox",
+      "Matthew Perry"
+    ],
+    "correctIndex": 3,
+    "explanation": "Matthew Perry interpretó a Chandler Bing en las diez temporadas de Friends.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0014",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Seinfeld, ¿cómo se llama el excéntrico vecino de Jerry?",
+    "options": [
+      "George Costanza",
+      "Cosmo Kramer",
+      "Newman",
+      "Morty Seinfeld"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kramer es el vecino de Jerry, famoso por entrar sin avisar en su apartamento.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0015",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Seinfeld, ¿cómo se llama el café donde Jerry y sus amigos suelen comer?",
+    "options": [
+      "Central Perk",
+      "Café Nervosa",
+      "Monk's Cafe",
+      "The Peach Pit"
+    ],
+    "correctIndex": 2,
+    "explanation": "Monk's Cafe es el restaurante habitual de Jerry, George, Elaine y Kramer.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0016",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Seinfeld, ¿cuál es la profesión de Jerry Seinfeld?",
+    "options": [
+      "Arquitecto",
+      "Psiquiatra",
+      "Vendedor de zapatos",
+      "Comediante de stand-up"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jerry interpreta una versión ficticia de sí mismo como comediante de stand-up.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0017",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Seinfeld, ¿qué actriz interpreta a Elaine Benes?",
+    "options": [
+      "Julia Louis-Dreyfus",
+      "Courteney Cox",
+      "Teri Hatcher",
+      "Leah Remini"
+    ],
+    "correctIndex": 0,
+    "explanation": "Julia Louis-Dreyfus ganó un Emmy por su papel de Elaine Benes.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0018",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Seinfeld, ¿cómo se llama el amigo calvo de Jerry que trabaja para los Yankees?",
+    "options": [
+      "Kramer",
+      "George Costanza",
+      "Newman",
+      "Morty Seinfeld"
+    ],
+    "correctIndex": 1,
+    "explanation": "George Costanza es el amigo de la infancia de Jerry y trabaja para los Yankees.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0019",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Seinfeld, ¿qué personaje es el cartero que vive en el mismo edificio que Jerry?",
+    "options": [
+      "Kramer",
+      "George",
+      "Newman",
+      "Bania"
+    ],
+    "correctIndex": 2,
+    "explanation": "Newman es el cartero vecino de Jerry y su enemigo recurrente.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0020",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Seinfeld, ¿cuál es el nombre de pila de Kramer?",
+    "options": [
+      "Conrad",
+      "Calvin",
+      "Curtis",
+      "Cosmo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El nombre completo del personaje es Cosmo Kramer.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0022",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Seinfeld, ¿cómo se conoce al personaje del restaurante que grita No soup for you?",
+    "options": [
+      "El Chef Gruñón",
+      "El Nazi de la Sopa",
+      "El Carnicero",
+      "El Hombre de la Sopa"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Nazi de la Sopa es el cocinero que se niega a servir a ciertos clientes.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0024",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Seinfeld, ¿qué actor interpreta a David Puddy, el novio de Elaine?",
+    "options": [
+      "Wayne Knight",
+      "Michael Richards",
+      "Jerry Stiller",
+      "Patrick Warburton"
+    ],
+    "correctIndex": 3,
+    "explanation": "Patrick Warburton interpretó a David Puddy, el novio mecánico de Elaine.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0026",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Frasier, ¿cuál es la profesión de Frasier Crane en su programa?",
+    "options": [
+      "Abogado",
+      "Psiquiatra de radio",
+      "Periodista",
+      "Médico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Frasier aconseja a los oyentes como psiquiatra en la emisora KACL.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0029",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Frasier, ¿cómo se llama la terapeuta física británica que cuida a Martin?",
+    "options": [
+      "Daphne Moon",
+      "Roz Doyle",
+      "Maris Crane",
+      "Lilith Sternin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Daphne Moon es la terapeuta física de Martin y el interés romántico de Niles.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0030",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Frasier, ¿cómo se llama el perro de Martin Crane?",
+    "options": [
+      "Comet",
+      "Eddie",
+      "Buck",
+      "Marcel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eddie es el perro Jack Russell de Martin que mira fijamente a Frasier.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0032",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Frasier, ¿qué actor interpreta a Niles Crane?",
+    "options": [
+      "Kelsey Grammer",
+      "John Mahoney",
+      "Dan Butler",
+      "David Hyde Pierce"
+    ],
+    "correctIndex": 3,
+    "explanation": "David Hyde Pierce ganó varios Emmy por interpretar a Niles Crane.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0034",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la telecomedia de los 90 protagonizada por Will Smith, ¿a qué lujoso barrio se muda Will al comenzar la serie?",
+    "options": [
+      "Beverly Hills",
+      "Bel-Air",
+      "Malibú",
+      "Hollywood"
+    ],
+    "correctIndex": 1,
+    "explanation": "Will se muda de Filadelfia a Bel-Air para vivir con sus tíos.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0035",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie The Fresh Prince of Bel-Air, ¿qué actor interpreta a Carlton Banks?",
+    "options": [
+      "Will Smith",
+      "DJ Jazzy Jeff",
+      "Alfonso Ribeiro",
+      "Kadeem Hardison"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alfonso Ribeiro interpretó a Carlton, el primo presumido de Will.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0037",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie The Fresh Prince of Bel-Air, ¿cómo se llama el mayordomo de la familia Banks?",
+    "options": [
+      "Geoffrey",
+      "Jazz",
+      "Carlton",
+      "Philip"
+    ],
+    "correctIndex": 0,
+    "explanation": "Geoffrey es el mayordomo británico de la familia Banks.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0038",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie The Fresh Prince of Bel-Air, ¿qué baile se hizo famoso gracias al personaje de Carlton?",
+    "options": [
+      "El Urkel",
+      "El baile de Carlton",
+      "El Running Man",
+      "La Macarena"
+    ],
+    "correctIndex": 1,
+    "explanation": "El característico movimiento de Carlton se conoce como el baile de Carlton.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0039",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie The Fresh Prince of Bel-Air, ¿qué actor y DJ interpreta a Jazz?",
+    "options": [
+      "Alfonso Ribeiro",
+      "Joseph Marcell",
+      "DJ Jazzy Jeff",
+      "Kadeem Hardison"
+    ],
+    "correctIndex": 2,
+    "explanation": "DJ Jazzy Jeff, compañero musical de Will Smith, interpreta a Jazz.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0041",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Full House, ¿cómo se llama el padre de las tres niñas Tanner?",
+    "options": [
+      "Danny Tanner",
+      "Jesse Katsopolis",
+      "Joey Gladstone",
+      "Nick Katsopolis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Danny Tanner es el padre viudo que cría a D.J., Stephanie y Michelle.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0042",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Full House, ¿qué gemelas interpretan a Michelle Tanner?",
+    "options": [
+      "Las gemelas Mowry",
+      "Mary-Kate y Ashley Olsen",
+      "Las hermanas Fanning",
+      "Ashley y Elizabeth Olsen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mary-Kate y Ashley Olsen compartieron el papel de Michelle durante toda la serie.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0043",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Full House, ¿cómo se llama el tío de las niñas que vive con ellas?",
+    "options": [
+      "Joey Gladstone",
+      "Danny Tanner",
+      "Jesse Katsopolis",
+      "Steve Hale"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jesse es el tío materno de las niñas y vive en la casa para ayudar a Danny.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0044",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Full House, ¿qué frase repite Stephanie Tanner con frecuencia?",
+    "options": [
+      "You got it, dude",
+      "Did I do that?",
+      "Cut it out",
+      "How rude!"
+    ],
+    "correctIndex": 3,
+    "explanation": "How rude! es la muletilla característica de Stephanie.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0045",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Full House, ¿cómo se llama la banda en la que toca Jesse?",
+    "options": [
+      "Jesse and the Rippers",
+      "The Beach Boys",
+      "The Tanner Trio",
+      "Uncle Jesse's Band"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jesse and the Rippers es el grupo con el que Jesse toca en la serie.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0047",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Family Matters, ¿qué frase dice Steve Urkel después de provocar un accidente?",
+    "options": [
+      "How rude!",
+      "Cut it out!",
+      "Did I do that?",
+      "I'm listening"
+    ],
+    "correctIndex": 2,
+    "explanation": "Did I do that? es la frase más recordada de Steve Urkel.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0048",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Family Matters, ¿en qué ciudad vive la familia Winslow?",
+    "options": [
+      "Detroit",
+      "Cleveland",
+      "Filadelfia",
+      "Chicago"
+    ],
+    "correctIndex": 3,
+    "explanation": "La familia Winslow vive en Chicago, Illinois.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0049",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Family Matters, ¿cómo se llama el alter ego elegante y seductor de Steve Urkel?",
+    "options": [
+      "Stefan Urquelle",
+      "Stefan Winslow",
+      "Cool Steve",
+      "Urkelbot"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stefan Urquelle es la personalidad sofisticada que Urkel adopta tras un experimento.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0050",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Family Matters, ¿cómo se llama el padre de los Winslow, que trabaja como policía?",
+    "options": [
+      "Eddie Winslow",
+      "Carl Winslow",
+      "Harriette Winslow",
+      "Waldo Faldo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Carl Winslow es el padre de familia y oficial de policía de Chicago.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0051",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Family Matters, ¿qué actor interpreta a Steve Urkel?",
+    "options": [
+      "Reginald VelJohnson",
+      "Darius McCrary",
+      "Jaleel White",
+      "Kellie Shanygne Williams"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jaleel White interpretó a Steve Urkel y a sus variantes durante la serie.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0053",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Boy Meets World, ¿cómo se llama el gran amor de Cory, con quien termina casándose?",
+    "options": [
+      "Topanga Lawrence",
+      "Angela Moore",
+      "Rachel McGuire",
+      "Lauren"
+    ],
+    "correctIndex": 0,
+    "explanation": "Topanga Lawrence es la novia de la infancia y luego esposa de Cory.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0054",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Boy Meets World, ¿quién es el profesor y vecino que aconseja a Cory?",
+    "options": [
+      "Jonathan Turner",
+      "George Feeny",
+      "Eli Williams",
+      "Stuart Minkus"
+    ],
+    "correctIndex": 1,
+    "explanation": "George Feeny es el profesor y vecino que guía a Cory durante toda la serie.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0055",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Boy Meets World, ¿en qué ciudad vive Cory Matthews?",
+    "options": [
+      "Boston",
+      "Chicago",
+      "Filadelfia",
+      "Nueva York"
+    ],
+    "correctIndex": 2,
+    "explanation": "Boy Meets World se desarrolla en Filadelfia, Pensilvania.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0056",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Boy Meets World, ¿cómo se llama el mejor amigo de Cory?",
+    "options": [
+      "Eric Matthews",
+      "Stuart Minkus",
+      "Jack Hunter",
+      "Shawn Hunter"
+    ],
+    "correctIndex": 3,
+    "explanation": "Shawn Hunter es el mejor amigo de Cory y su compañero de aventuras.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...).",
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "s90-0057",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Boy Meets World, ¿qué actor interpreta a George Feeny?",
+    "options": [
+      "William Daniels",
+      "Ben Savage",
+      "Rider Strong",
+      "William Russ"
+    ],
+    "correctIndex": 0,
+    "explanation": "William Daniels, recordado también por El auto fantástico, interpretó a Mr. Feeny.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0058",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Home Improvement, ¿cómo se llama el programa de bricolaje que conduce Tim Taylor?",
+    "options": [
+      "Home Improvement",
+      "Tool Time",
+      "Fix It Up",
+      "Tool Talk"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tool Time es el programa de herramientas que Tim presenta con Al Borland.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0059",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Home Improvement, ¿cómo se llama el vecino que conversa con Tim desde detrás de la cerca?",
+    "options": [
+      "Al Borland",
+      "Mark Taylor",
+      "Wilson",
+      "Harry"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wilson es el vecino sabio cuya cara casi nunca se ve completa.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0061",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Home Improvement, ¿cómo se llama el compañero de Tim en Tool Time?",
+    "options": [
+      "Al Borland",
+      "Wilson",
+      "Brad Taylor",
+      "Harry Turner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al Borland es el copresentador prudente de Tool Time.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0062",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Home Improvement, ¿qué actor interpreta al vecino Wilson?",
+    "options": [
+      "Richard Karn",
+      "Earl Hindman",
+      "Jonathan Taylor Thomas",
+      "Tim Allen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Earl Hindman interpretó al vecino Wilson durante toda la serie.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0064",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Married... with Children, ¿cuál es el trabajo de Al Bundy?",
+    "options": [
+      "Vendedor de autos",
+      "Mecánico",
+      "Profesor de gimnasia",
+      "Vendedor de zapatos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al trabaja en una tienda de zapatos llamada Gary's Shoes.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0065",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Married... with Children, ¿cómo se llama la esposa de Al Bundy?",
+    "options": [
+      "Peggy",
+      "Kelly",
+      "Marcy",
+      "Bud"
+    ],
+    "correctIndex": 0,
+    "explanation": "Peggy Bundy es la esposa de Al, famosa por su peinado y su pereza.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0066",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Married... with Children, ¿cómo se llaman los dos hijos de Al y Peggy?",
+    "options": [
+      "Kelly y Steve",
+      "Kelly y Bud",
+      "Bud y Jefferson",
+      "Kelly y Seven"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kelly y Bud son los hijos adolescentes de los Bundy.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0067",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Married... with Children, ¿cuántos touchdowns dice Al Bundy que anotó en un solo partido de preparatoria?",
+    "options": [
+      "Dos",
+      "Tres",
+      "Cuatro",
+      "Cinco"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al presume de haber anotado cuatro touchdowns en un partido con Polk High.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0068",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Married... with Children, ¿qué actor interpreta a Al Bundy?",
+    "options": [
+      "Ted McGinley",
+      "David Faustino",
+      "Ed Begley Jr.",
+      "Ed O'Neill"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ed O'Neill interpretó a Al Bundy y luego fue Jay Pritchett en Modern Family.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0069",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Sabrina, la bruja adolescente, ¿cómo se llama la gata parlante que vive con Sabrina?",
+    "options": [
+      "Salem",
+      "Eddie",
+      "Comet",
+      "Buck"
+    ],
+    "correctIndex": 0,
+    "explanation": "Salem es la gata negra parlante que acompaña a Sabrina.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0070",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Sabrina, la bruja adolescente, ¿quiénes son las tías brujas con las que vive Sabrina?",
+    "options": [
+      "Hilda y Mary",
+      "Hilda y Zelda",
+      "Zelda y Sabrina",
+      "Hilda y Salem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hilda y Zelda son las tías de Sabrina y sus guardianas.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0071",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Sabrina, la bruja adolescente, ¿cómo se llama el interés amoroso de Sabrina?",
+    "options": [
+      "Josh Blackhart",
+      "Aaron Jacobs",
+      "Harvey Kinkle",
+      "Dashiell"
+    ],
+    "correctIndex": 2,
+    "explanation": "Harvey Kinkle es el vecino y novio de Sabrina durante varias temporadas.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0072",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Sabrina, la bruja adolescente, ¿en qué editorial de cómics se basa el personaje de Sabrina?",
+    "options": [
+      "DC Comics",
+      "Marvel Comics",
+      "Dark Horse Comics",
+      "Archie Comics"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sabrina apareció originalmente en los cómics de Archie Comics.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0073",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actriz protagoniza The Nanny?",
+    "options": [
+      "Fran Drescher",
+      "Roseanne Barr",
+      "Debra Messing",
+      "Leah Remini"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fran Drescher creó y protagonizó The Nanny como Fran Fine.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0074",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie The Nanny, ¿cómo se llama el personaje que interpreta Fran Drescher?",
+    "options": [
+      "Fran Sheffield",
+      "Fran Fine",
+      "Sylvia Fine",
+      "C.C. Babcock"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fran Fine es la vendedora de cosméticos que se convierte en niñera.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0075",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie The Nanny, ¿a qué familia llega Fran para trabajar como niñera?",
+    "options": [
+      "Los Fine",
+      "Los Maxwell",
+      "Los Sheffield",
+      "Los Brighton"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fran llega por error a la casa del productor Maxwell Sheffield.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0076",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie The Nanny, ¿cuál es la profesión de Maxwell Sheffield?",
+    "options": [
+      "Abogado",
+      "Médico",
+      "Empresario naviero",
+      "Productor de teatro"
+    ],
+    "correctIndex": 3,
+    "explanation": "Maxwell Sheffield es un rico productor de Broadway.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0077",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie The Nanny, ¿cómo se llama el mayordomo de los Sheffield?",
+    "options": [
+      "Niles",
+      "Brighton",
+      "Maxwell",
+      "Yetta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Niles es el sarcástico mayordomo de la familia Sheffield.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0078",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el mejor amigo gay de Grace en Will & Grace?",
+    "options": [
+      "Jack McFarland",
+      "Will Truman",
+      "Leo Markus",
+      "Vince D'Angelo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Will Truman es el mejor amigo de Grace y coprotagonista de la serie.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "s90-0079",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Will & Grace, ¿cuál es la profesión de Will Truman?",
+    "options": [
+      "Diseñador de interiores",
+      "Actor",
+      "Abogado",
+      "Médico"
+    ],
+    "correctIndex": 2,
+    "explanation": "Will Truman trabaja como abogado en Nueva York.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0080",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Will & Grace, ¿cuál es la profesión de Grace Adler?",
+    "options": [
+      "Abogada",
+      "Arquitecta",
+      "Publicista",
+      "Diseñadora de interiores"
+    ],
+    "correctIndex": 3,
+    "explanation": "Grace Adler dirige su propio estudio de diseño de interiores.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0081",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Will & Grace, ¿qué actriz interpreta a Karen Walker?",
+    "options": [
+      "Megan Mullally",
+      "Debra Messing",
+      "Eric McCormack",
+      "Sean Hayes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Megan Mullally ganó dos Emmy por interpretar a Karen Walker.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0082",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Will & Grace, ¿cómo se llama la asistenta de Karen?",
+    "options": [
+      "Marta",
+      "Rosario Salazar",
+      "Lupe",
+      "Consuelo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rosario Salazar es la asistenta salvadoreña de Karen y su confidente.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0087",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie NewsRadio, ¿qué actor interpreta a Bill McNeal?",
+    "options": [
+      "Dave Foley",
+      "Andy Dick",
+      "Phil Hartman",
+      "Joe Rogan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Phil Hartman interpretó al locutor Bill McNeal antes de su muerte en 1998.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0090",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie 3rd Rock from the Sun, ¿qué actor interpreta a Dick Solomon?",
+    "options": [
+      "French Stewart",
+      "John Lithgow",
+      "Joseph Gordon-Levitt",
+      "Wayne Knight"
+    ],
+    "correctIndex": 1,
+    "explanation": "John Lithgow interpretó al comandante alienígena Dick Solomon.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0091",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie 3rd Rock from the Sun, ¿cuál de los alienígenas es el comandante de la misión?",
+    "options": [
+      "Harry",
+      "Tommy",
+      "Dick",
+      "Sally"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dick es el alto comandante de la misión enviada a la Tierra.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0092",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie 3rd Rock from the Sun, ¿cómo se llama la profesora universitaria que es el interés romántico de Dick?",
+    "options": [
+      "Sally Solomon",
+      "Nina Campbell",
+      "Judith Draper",
+      "Mary Albright"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mary Albright es la profesora de antropología y pareja de Dick.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0093",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie The Drew Carey Show, ¿en qué tienda departamental trabaja Drew Carey?",
+    "options": [
+      "Winfred-Louder",
+      "Dunder Mifflin",
+      "Buy More",
+      "Wernham Hogg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Drew trabaja en la tienda departamental Winfred-Louder de Cleveland.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0095",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie The Drew Carey Show, ¿cómo se llama la compañera de trabajo que es la enemiga de Drew?",
+    "options": [
+      "Kate O'Brien",
+      "Lisa Robbins",
+      "Mimi Bobeck",
+      "Oswald Lee Harvey"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mimi Bobeck es la rival de Drew en la oficina, famosa por su maquillaje.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0096",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Step by Step, ¿en qué estado viven Frank, Carol y sus hijos?",
+    "options": [
+      "Ohio",
+      "Míchigan",
+      "Illinois",
+      "Wisconsin"
+    ],
+    "correctIndex": 3,
+    "explanation": "La familia reconstituida de Step by Step vive en Wisconsin.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0097",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Step by Step, ¿qué actores interpretan a Frank Lambert y Carol Foster?",
+    "options": [
+      "Patrick Duffy y Suzanne Somers",
+      "Tim Allen y Patricia Richardson",
+      "Ed O'Neill y Katey Sagal",
+      "Bob Saget y Lori Loughlin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Patrick Duffy y Suzanne Somers encabezaron esta comedia familiar.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0098",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Step by Step, ¿qué actriz interpreta a Al Lambert, la hija menor de Frank?",
+    "options": [
+      "Sasha Mitchell",
+      "Christine Lakin",
+      "Staci Keanan",
+      "Angela Watson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Christine Lakin interpretó a Al Lambert, la hija traviesa de Frank.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0099",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Saved by the Bell, ¿cómo se llama la escuela secundaria a la que asisten Zack y sus amigos?",
+    "options": [
+      "Valley High",
+      "West Beverly High",
+      "Bayside High",
+      "Liberty High"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zack y sus amigos estudian en Bayside High, en California.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0100",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Saved by the Bell, ¿cómo se llama el director de Bayside High?",
+    "options": [
+      "Mr. Feeny",
+      "Mr. Turner",
+      "Principal Skinner",
+      "Mr. Belding"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mr. Belding es el director de la escuela y blanco frecuente de las bromas de Zack.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0101",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Saved by the Bell, ¿cómo se llama el amigo nerd de Zack?",
+    "options": [
+      "Screech",
+      "A.C. Slater",
+      "Jessie Spano",
+      "Lisa Turtle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Samuel Screech Powers es el amigo inventor y torpe de Zack.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0102",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Saved by the Bell, ¿qué actor interpreta a Zack Morris?",
+    "options": [
+      "Mario López",
+      "Mark-Paul Gosselaar",
+      "Dustin Diamond",
+      "Tiffani Thiessen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mark-Paul Gosselaar interpretó a Zack Morris, el carismático líder del grupo.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0103",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Saved by the Bell, ¿cómo se llama la porrista que es el gran amor de Zack?",
+    "options": [
+      "Lisa Turtle",
+      "Jessie Spano",
+      "Kelly Kapowski",
+      "Kelly Taylor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kelly Kapowski es la porrista y novia intermitente de Zack.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0104",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Saved by the Bell, ¿qué actriz interpreta a Kelly Kapowski?",
+    "options": [
+      "Lark Voorhies",
+      "Elizabeth Berkley",
+      "Leanna Creel",
+      "Tiffani Thiessen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tiffani Thiessen interpretó a Kelly Kapowski en Saved by the Bell.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0105",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Saved by the Bell, ¿qué canción canta Jessie en el episodio en que abusa de las pastillas de cafeína?",
+    "options": [
+      "I'm So Excited",
+      "Girls Just Want to Have Fun",
+      "Material Girl",
+      "Wake Me Up Before You Go-Go"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jessie canta I'm So Excited, de The Pointer Sisters, en el episodio sobre las pastillas.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0110",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Beverly Hills, 90210, ¿cómo se llaman los gemelos que se mudan desde Minnesota al inicio de la serie?",
+    "options": [
+      "Dylan y Kelly",
+      "Brandon y Brenda Walsh",
+      "Steve y Donna",
+      "Andrea y David"
+    ],
+    "correctIndex": 1,
+    "explanation": "Brandon y Brenda Walsh llegan desde Minnesota y se convierten en el centro de la trama.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0112",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Beverly Hills, 90210, ¿cómo se llama el instituto al que asisten los protagonistas?",
+    "options": [
+      "Bayside High",
+      "Liberty High",
+      "Palisades High",
+      "West Beverly High"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los protagonistas estudian en West Beverly High.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0114",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Beverly Hills, 90210, ¿qué actor interpreta a Dylan McKay?",
+    "options": [
+      "Jason Priestley",
+      "Luke Perry",
+      "Ian Ziering",
+      "Brian Austin Green"
+    ],
+    "correctIndex": 1,
+    "explanation": "Luke Perry interpretó al rebelde Dylan McKay.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0115",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Beverly Hills, 90210, ¿qué actriz interpreta a Kelly Taylor?",
+    "options": [
+      "Shannen Doherty",
+      "Tori Spelling",
+      "Jennie Garth",
+      "Gabrielle Carteris"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jennie Garth dio vida a Kelly Taylor durante toda la serie.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0118",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Melrose Place, ¿qué actriz interpreta a Amanda Woodward?",
+    "options": [
+      "Marcia Cross",
+      "Heather Locklear",
+      "Josie Bissett",
+      "Courtney Thorne-Smith"
+    ],
+    "correctIndex": 1,
+    "explanation": "Heather Locklear se unió a Melrose Place como la implacable Amanda Woodward.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0119",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Melrose Place, ¿cómo se llama el personaje que interpreta Andrew Shue?",
+    "options": [
+      "Jake Hanson",
+      "Matt Fielding",
+      "Billy Campbell",
+      "Michael Mancini"
+    ],
+    "correctIndex": 2,
+    "explanation": "Andrew Shue interpretó a Billy Campbell, uno de los vecinos del edificio.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0120",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Dawson's Creek, ¿cómo se llama el pueblo ficticio donde viven Dawson y sus amigos?",
+    "options": [
+      "Riverdale",
+      "Smallville",
+      "Sunnydale",
+      "Capeside"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dawson's Creek se desarrolla en el pueblo costero ficticio de Capeside.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0122",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Dawson's Creek, ¿qué actriz interpreta a Joey Potter?",
+    "options": [
+      "Michelle Williams",
+      "Katie Holmes",
+      "Selma Blair",
+      "Katie Cassidy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Katie Holmes interpretó a Joey Potter, la amiga de la infancia de Dawson.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0124",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Party of Five, ¿cómo se llama el hermano mayor que asume la tutela de los Salinger?",
+    "options": [
+      "Bailey",
+      "Owen",
+      "Griffin",
+      "Charlie"
+    ],
+    "correctIndex": 3,
+    "explanation": "Charlie Salinger se hace cargo de sus hermanos tras la muerte de los padres.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0125",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Party of Five, ¿qué les ocurre a los padres de los Salinger al inicio de la serie?",
+    "options": [
+      "Mueren en un accidente de tráfico",
+      "Se mudan a Europa",
+      "Los abandonan",
+      "Mueren en un incendio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los padres mueren en un accidente automovilístico y los hijos quedan a cargo de Charlie.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0126",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Party of Five, ¿qué actor interpreta a Bailey Salinger?",
+    "options": [
+      "Matthew Fox",
+      "Scott Wolf",
+      "Scott Speedman",
+      "Jeremy London"
+    ],
+    "correctIndex": 1,
+    "explanation": "Scott Wolf interpretó a Bailey, el segundo hermano de los Salinger.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0128",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie My So-Called Life, ¿cómo se llama el chico rebelde del que Angela está enamorada?",
+    "options": [
+      "Brian Krakow",
+      "Rickie Vasquez",
+      "Graham Chase",
+      "Jordan Catalano"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jordan Catalano, interpretado por Jared Leto, es el interés amoroso de Angela.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0131",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie ER, ¿qué actor interpreta al Dr. Doug Ross?",
+    "options": [
+      "Anthony Edwards",
+      "Noah Wyle",
+      "George Clooney",
+      "Eriq La Salle"
+    ],
+    "correctIndex": 2,
+    "explanation": "George Clooney interpretó al pediatra Doug Ross antes de su carrera en el cine.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0132",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie ER, ¿qué actor interpreta al Dr. Mark Greene?",
+    "options": [
+      "George Clooney",
+      "Noah Wyle",
+      "Julianna Margulies",
+      "Anthony Edwards"
+    ],
+    "correctIndex": 3,
+    "explanation": "Anthony Edwards fue el Dr. Mark Greene, uno de los médicos centrales de ER.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0133",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie ER, ¿cómo se llama la enfermera que tiene una relación con Doug Ross?",
+    "options": [
+      "Carol Hathaway",
+      "Susan Lewis",
+      "Kerry Weaver",
+      "Abbey Lockhart"
+    ],
+    "correctIndex": 0,
+    "explanation": "Carol Hathaway, interpretada por Julianna Margulies, es enfermera y pareja de Doug.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0134",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie ER, ¿qué actriz interpreta a la Dra. Kerry Weaver?",
+    "options": [
+      "Sherry Stringfield",
+      "Laura Innes",
+      "Julianna Margulies",
+      "Maura Tierney"
+    ],
+    "correctIndex": 1,
+    "explanation": "Laura Innes interpretó a la estricta Dra. Kerry Weaver.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0136",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Chicago Hope, ¿qué actor interpreta al Dr. Jeffrey Geiger?",
+    "options": [
+      "Adam Arkin",
+      "Héctor Elizondo",
+      "Stanley Tucci",
+      "Mandy Patinkin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mandy Patinkin interpretó al brillante y temperamental Dr. Jeffrey Geiger.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0137",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Chicago Hope, ¿qué actor interpreta al Dr. Phillip Watters?",
+    "options": [
+      "Héctor Elizondo",
+      "Mandy Patinkin",
+      "Adam Arkin",
+      "Peter Berg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Héctor Elizondo dio vida al director del hospital, el Dr. Phillip Watters.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0138",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie NYPD Blue, ¿qué actor interpreta a Andy Sipowicz?",
+    "options": [
+      "David Caruso",
+      "Dennis Franz",
+      "Jimmy Smits",
+      "Dennis Farina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dennis Franz ganó varios Emmy por su papel de Andy Sipowicz.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0140",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie NYPD Blue, ¿qué actor interpretó a John Kelly en la primera temporada?",
+    "options": [
+      "Jimmy Smits",
+      "Dennis Franz",
+      "Gordon Clapp",
+      "David Caruso"
+    ],
+    "correctIndex": 3,
+    "explanation": "David Caruso interpretó a John Kelly antes de abandonar la serie.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...).",
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "s90-0141",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie NYPD Blue, ¿qué actor interpreta al detective Greg Medavoy?",
+    "options": [
+      "Gordon Clapp",
+      "Nicholas Turturro",
+      "James McDaniel",
+      "Dennis Franz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gordon Clapp interpretó al detective Greg Medavoy durante toda la serie.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0142",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Law & Order, ¿qué actor interpreta al detective Lennie Briscoe?",
+    "options": [
+      "Sam Waterston",
+      "Jerry Orbach",
+      "Chris Noth",
+      "Benjamin Bratt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jerry Orbach interpretó a Lennie Briscoe desde 1992 hasta 2004.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0143",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Law & Order, ¿qué actor interpreta al fiscal Jack McCoy?",
+    "options": [
+      "Michael Moriarty",
+      "Steven Hill",
+      "Sam Waterston",
+      "Jerry Orbach"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sam Waterston interpretó a Jack McCoy durante muchas temporadas.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0144",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Law & Order, ¿cómo se llama el fiscal de distrito interpretado por Steven Hill?",
+    "options": [
+      "Jack McCoy",
+      "Ben Stone",
+      "Paul Robinette",
+      "Adam Schiff"
+    ],
+    "correctIndex": 3,
+    "explanation": "Adam Schiff es el fiscal de distrito que supervisa a los fiscales de la serie.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0145",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Quién creó la franquicia Law & Order?",
+    "options": [
+      "Dick Wolf",
+      "David E. Kelley",
+      "Steven Bochco",
+      "Tom Fontana"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dick Wolf creó Law & Order y sus numerosas series derivadas.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0147",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Homicide: Life on the Street, ¿qué actor interpreta al detective Frank Pembleton?",
+    "options": [
+      "Kyle Secor",
+      "Richard Belzer",
+      "Andre Braugher",
+      "Clark Johnson"
+    ],
+    "correctIndex": 2,
+    "explanation": "Andre Braugher ganó un Emmy por interpretar a Frank Pembleton.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0148",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Homicide: Life on the Street, ¿qué actor interpreta al detective John Munch?",
+    "options": [
+      "Andre Braugher",
+      "Kyle Secor",
+      "Yaphet Kotto",
+      "Richard Belzer"
+    ],
+    "correctIndex": 3,
+    "explanation": "Richard Belzer interpretó a John Munch, personaje que luego apareció en otras series.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0149",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿En qué libro de David Simon se basa la serie Homicide: Life on the Street?",
+    "options": [
+      "Homicide: A Year on the Killing Streets",
+      "The Wire",
+      "Serpico",
+      "In Cold Blood"
+    ],
+    "correctIndex": 0,
+    "explanation": "La serie se basa en el libro de David Simon sobre la unidad de homicidios de Baltimore.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0151",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie The Practice, ¿qué actor interpreta a Bobby Donnell?",
+    "options": [
+      "Steve Harris",
+      "Michael Badalucco",
+      "Dylan McDermott",
+      "Camryn Manheim"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dylan McDermott interpretó a Bobby Donnell, fundador del bufete.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0152",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie The Practice, ¿cómo se llama la abogada interpretada por Camryn Manheim?",
+    "options": [
+      "Lindsay Dole",
+      "Rebecca Washington",
+      "Jamie Stringer",
+      "Ellenor Frutt"
+    ],
+    "correctIndex": 3,
+    "explanation": "Camryn Manheim interpretó a Ellenor Frutt y ganó un Emmy por ese papel.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0154",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Ally McBeal, ¿cómo se llama el bufete donde trabaja Ally?",
+    "options": [
+      "Pearson Hardman",
+      "Cage & Fish",
+      "Donnell & Associates",
+      "Crane, Poole & Schmidt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ally trabaja en el bufete Cage & Fish, fundado por John Cage y Richard Fish.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0155",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Ally McBeal, ¿qué actor interpreta a John Cage?",
+    "options": [
+      "Greg Germann",
+      "Gil Bellows",
+      "Peter MacNicol",
+      "Robert Downey Jr."
+    ],
+    "correctIndex": 2,
+    "explanation": "Peter MacNicol interpretó al excéntrico abogado John Cage.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0156",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Ally McBeal, ¿qué cantante actúa en el bar e interpreta el tema principal?",
+    "options": [
+      "Alanis Morissette",
+      "Sheryl Crow",
+      "Paula Cole",
+      "Vonda Shepard"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vonda Shepard canta Searchin' My Soul y aparece actuando en el bar.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0160",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie The Sopranos, ¿qué actor interpreta a Christopher Moltisanti?",
+    "options": [
+      "Tony Sirico",
+      "Steven Van Zandt",
+      "Dominic Chianese",
+      "Michael Imperioli"
+    ],
+    "correctIndex": 3,
+    "explanation": "Michael Imperioli interpretó a Christopher, sobrino y protegido de Tony.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0162",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Sex and the City, ¿qué actriz interpreta a Carrie Bradshaw?",
+    "options": [
+      "Kim Cattrall",
+      "Sarah Jessica Parker",
+      "Kristin Davis",
+      "Cynthia Nixon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sarah Jessica Parker interpretó a Carrie Bradshaw, la narradora de la serie.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0164",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Sex and the City, ¿qué actor interpreta a Mr. Big?",
+    "options": [
+      "David Eigenberg",
+      "John Corbett",
+      "Kyle MacLachlan",
+      "Chris Noth"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chris Noth interpretó a Mr. Big, el gran amor de Carrie.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0165",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Sex and the City, ¿qué actor interpreta a Steve Brady?",
+    "options": [
+      "David Eigenberg",
+      "Chris Noth",
+      "John Corbett",
+      "Evan Handler"
+    ],
+    "correctIndex": 0,
+    "explanation": "David Eigenberg interpretó a Steve Brady, el novio de Miranda.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0166",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué cadena se emitió la serie carcelaria Oz?",
+    "options": [
+      "Showtime",
+      "HBO",
+      "NBC",
+      "FX"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oz fue una de las primeras series dramáticas originales de HBO.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0168",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Oz, ¿qué actor interpreta a Vern Schillinger?",
+    "options": [
+      "Lee Tergesen",
+      "Dean Winters",
+      "Terry Kinney",
+      "J.K. Simmons"
+    ],
+    "correctIndex": 3,
+    "explanation": "J.K. Simmons interpretó al líder nazi Vern Schillinger en Oz.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0171",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Northern Exposure, ¿qué actor interpreta a Joel Fleischman?",
+    "options": [
+      "John Corbett",
+      "Barry Corbin",
+      "Rob Morrow",
+      "Janine Turner"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rob Morrow interpretó al doctor Joel Fleischman durante las primeras temporadas.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0173",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Twin Peaks, ¿cómo se llama la joven cuya muerte desencadena la trama?",
+    "options": [
+      "Laura Palmer",
+      "Shelly Johnson",
+      "Audrey Horne",
+      "Donna Hayward"
+    ],
+    "correctIndex": 0,
+    "explanation": "La muerte de Laura Palmer es el misterio central de la primera temporada.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0174",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Twin Peaks, ¿qué actriz interpreta a Laura Palmer?",
+    "options": [
+      "Lara Flynn Boyle",
+      "Sheryl Lee",
+      "Sherilyn Fenn",
+      "Mädchen Amick"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sheryl Lee interpretó a Laura Palmer y también a su prima Maddy.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0175",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué pareja creó Twin Peaks?",
+    "options": [
+      "David Lynch y David Chase",
+      "Chris Carter y Mark Frost",
+      "David Lynch y Mark Frost",
+      "David Lynch y Joss Whedon"
+    ],
+    "correctIndex": 2,
+    "explanation": "David Lynch y Mark Frost crearon la serie y escribieron su episodio piloto.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0176",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es el capitán de la Enterprise-D en Star Trek: The Next Generation?",
+    "options": [
+      "Jean-Luc Picard",
+      "Benjamin Sisko",
+      "Kathryn Janeway",
+      "James T. Kirk"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jean-Luc Picard, interpretado por Patrick Stewart, comandó la Enterprise-D.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0180",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién es el primer oficial de Picard en la Enterprise-D?",
+    "options": [
+      "William Riker",
+      "Data",
+      "Geordi La Forge",
+      "Worf"
+    ],
+    "correctIndex": 0,
+    "explanation": "William Riker, interpretado por Jonathan Frakes, es el segundo al mando.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0190",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es la capitana de la USS Voyager?",
+    "options": [
+      "Benjamin Sisko",
+      "Jean-Luc Picard",
+      "Kathryn Janeway",
+      "William Riker"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kathryn Janeway es la capitana que comanda la Voyager.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0197",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la estación espacial que da título a la serie de ciencia ficción de los 90 creada por J. Michael Straczynski?",
+    "options": [
+      "Deep Space Nine",
+      "Babylon 5",
+      "Babylon 4",
+      "Galáctica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Babylon 5 es una estación diplomática y militar en el espacio.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0198",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién creó Babylon 5?",
+    "options": [
+      "Gene Roddenberry",
+      "Chris Carter",
+      "J. Michael Straczynski",
+      "Joss Whedon"
+    ],
+    "correctIndex": 2,
+    "explanation": "J. Michael Straczynski escribió y produjo la mayor parte de la serie.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0203",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Stargate SG-1, ¿a qué raza pertenece Teal'c?",
+    "options": [
+      "Goa'uld",
+      "Asgard",
+      "Unas",
+      "Jaffa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Teal'c es un jaffa que se rebela contra los Goa'uld.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0204",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Stargate SG-1, ¿qué actriz interpreta a Samantha Carter?",
+    "options": [
+      "Amanda Tapping",
+      "Claudia Black",
+      "Teryl Rothery",
+      "Jolene Blalock"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amanda Tapping dio vida a la capitana Samantha Carter.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0205",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie Stargate SG-1, ¿qué actor interpreta al general George Hammond?",
+    "options": [
+      "Richard Dean Anderson",
+      "Don S. Davis",
+      "Michael Shanks",
+      "Gary Jones"
+    ],
+    "correctIndex": 1,
+    "explanation": "Don S. Davis interpretó al general Hammond, jefe del SGC.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0206",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie The X-Files, ¿qué actor interpreta a Fox Mulder?",
+    "options": [
+      "Mitch Pileggi",
+      "Robert Patrick",
+      "David Duchovny",
+      "Nicholas Lea"
+    ],
+    "correctIndex": 2,
+    "explanation": "David Duchovny interpretó al agente del FBI Fox Mulder.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0207",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie The X-Files, ¿qué actriz interpreta a Dana Scully?",
+    "options": [
+      "Annabeth Gish",
+      "Tea Leoni",
+      "Mimi Rogers",
+      "Gillian Anderson"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gillian Anderson encarnó a la agente Dana Scully.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0209",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién creó The X-Files?",
+    "options": [
+      "David Lynch",
+      "Chris Carter",
+      "J.J. Abrams",
+      "Joss Whedon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chris Carter creó la serie y escribió muchos de sus episodios.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0210",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie The X-Files, ¿cómo se llama el grupo de informantes que ayuda a Mulder con las conspiraciones?",
+    "options": [
+      "The Syndicate",
+      "The Smoking Men",
+      "The Lone Gunmen",
+      "The Consortium"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los Lone Gunmen publican una revista y auxilian a Mulder.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0211",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "En la serie The X-Files, ¿qué actor interpreta al subdirector Walter Skinner?",
+    "options": [
+      "William B. Davis",
+      "Nicholas Lea",
+      "Tom Braidwood",
+      "Mitch Pileggi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mitch Pileggi interpretó al subdirector Skinner.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0215",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de vehículo es la seaQuest DSV en la serie de ciencia ficción de los 90?",
+    "options": [
+      "Una nave espacial",
+      "Un portaaviones",
+      "Un crucero",
+      "Un submarino"
+    ],
+    "correctIndex": 3,
+    "explanation": "La seaQuest es un submarino de investigación y defensa.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0222",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién es el protagonista de Highlander: The Series?",
+    "options": [
+      "Connor MacLeod",
+      "Methos",
+      "Duncan MacLeod",
+      "Richie Ryan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Duncan MacLeod, interpretado por Adrian Paul, es el protagonista.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0224",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actriz interpreta a Buffy Summers en la serie Buffy la cazavampiros?",
+    "options": [
+      "Sarah Michelle Gellar",
+      "Alyson Hannigan",
+      "Charisma Carpenter",
+      "Eliza Dushku"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sarah Michelle Gellar protagonizó Buffy la cazavampiros.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0225",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Buffy la cazavampiros, ¿cuál es la misión de Buffy?",
+    "options": [
+      "Proteger a los mutantes",
+      "Cazar vampiros y demonios",
+      "Entrenar a los Jedi",
+      "Investigar ovnis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Buffy es la Elegida, destinada a luchar contra fuerzas sobrenaturales.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0226",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Buffy la cazavampiros, ¿en qué pueblo ficticio vive Buffy?",
+    "options": [
+      "Riverdale",
+      "Smallville",
+      "Sunnydale",
+      "Mystic Falls"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sunnydale se asienta sobre la Boca del Infierno.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0227",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Buffy la cazavampiros, ¿qué vampiro con alma es el primer gran amor de Buffy?",
+    "options": [
+      "Spike",
+      "Riley Finn",
+      "Oz",
+      "Angel"
+    ],
+    "correctIndex": 3,
+    "explanation": "Angel recuperó su alma y se enamoró de Buffy.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0228",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Buffy la cazavampiros, ¿qué actor interpreta a Rupert Giles, el vigilante de Buffy?",
+    "options": [
+      "Anthony Head",
+      "James Marsters",
+      "David Boreanaz",
+      "Seth Green"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anthony Head interpretó al bibliotecario y vigilante Rupert Giles.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0233",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Cuántas hermanas brujas protagonizan Charmed al comenzar la serie?",
+    "options": [
+      "Dos",
+      "Tres",
+      "Cuatro",
+      "Cinco"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prue, Piper y Phoebe son las tres hermanas del inicio.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0234",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Charmed, ¿qué actriz interpreta a Phoebe Halliwell?",
+    "options": [
+      "Holly Marie Combs",
+      "Shannen Doherty",
+      "Alyssa Milano",
+      "Rose McGowan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alyssa Milano interpretó a Phoebe durante toda la serie.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0235",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el libro de hechizos que consultan las hermanas de Charmed?",
+    "options": [
+      "El Necronomicón",
+      "El Grimorio de Salem",
+      "El Códice de las Brujas",
+      "El Libro de las Sombras"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Libro de las Sombras guarda los hechizos y la historia familiar.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0237",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Xena: Warrior Princess, ¿cómo se llama la joven compañera de aventuras de Xena?",
+    "options": [
+      "Callisto",
+      "Gabrielle",
+      "Aphrodite",
+      "Eve"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gabrielle acompaña a Xena y evoluciona de aldeana a guerrera.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0241",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Hercules: The Legendary Journeys, ¿cómo se llama el mejor amigo y compañero de Hércules?",
+    "options": [
+      "Autolycus",
+      "Iolaus",
+      "Salmoneus",
+      "Ares"
+    ],
+    "correctIndex": 1,
+    "explanation": "Iolaus, interpretado por Michael Hurst, acompaña a Hércules.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...).",
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "s90-0243",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién creó Los Simpson?",
+    "options": [
+      "Seth MacFarlane",
+      "Mike Judge",
+      "Trey Parker",
+      "Matt Groening"
+    ],
+    "correctIndex": 3,
+    "explanation": "Matt Groening creó a la familia Simpson para un espacio de animación.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0246",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actriz da voz a Bart Simpson?",
+    "options": [
+      "Yeardley Smith",
+      "Julie Kavner",
+      "Nancy Cartwright",
+      "Dan Castellaneta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nancy Cartwright, una mujer, pone la voz de Bart.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0247",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Los Simpson, ¿cómo se llama el dueño de la taberna que frecuenta Homer?",
+    "options": [
+      "Barney Gumble",
+      "Apu Nahasapeemapetilon",
+      "Ned Flanders",
+      "Moe Szyslak"
+    ],
+    "correctIndex": 3,
+    "explanation": "Moe Szyslak regenta la taberna Moe's Tavern.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0249",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Quién disparó al señor Burns en el final de la sexta temporada de Los Simpson?",
+    "options": [
+      "Homer Simpson",
+      "Maggie Simpson",
+      "Waylon Smithers",
+      "Bart Simpson"
+    ],
+    "correctIndex": 1,
+    "explanation": "La segunda parte del episodio revela que Maggie disparó el arma.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0250",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quiénes crearon South Park?",
+    "options": [
+      "Matt Groening y James L. Brooks",
+      "Mike Judge",
+      "Trey Parker y Matt Stone",
+      "Seth MacFarlane"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trey Parker y Matt Stone crearon y protagonizan la serie.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0253",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿En qué año se desarrolla la mayor parte de Futurama tras el despertar de Fry?",
+    "options": [
+      "2500",
+      "3000",
+      "2100",
+      "4000"
+    ],
+    "correctIndex": 1,
+    "explanation": "La serie sitúa a Fry en el año 3000 tras salir de la criogenia.",
+    "reasons": [
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "s90-0254",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Futurama, ¿cómo se llama el robot mejor amigo de Fry?",
+    "options": [
+      "Calculon",
+      "Flexo",
+      "Bender",
+      "Roberto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bender es el robot sarcástico que acompaña a Fry.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0257",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie King of the Hill, ¿qué producto vende Hank Hill?",
+    "options": [
+      "Seguros",
+      "Propano",
+      "Neumáticos",
+      "Cerveza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hank trabaja vendiendo propano en Arlen, Texas.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0258",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Quiénes crearon King of the Hill?",
+    "options": [
+      "Matt Groening y David X. Cohen",
+      "Trey Parker y Matt Stone",
+      "Mike Judge y Greg Daniels",
+      "Seth MacFarlane"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mike Judge y Greg Daniels crearon la serie.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0259",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué cadena emitió Daria?",
+    "options": [
+      "Nickelodeon",
+      "Cartoon Network",
+      "Fox",
+      "MTV"
+    ],
+    "correctIndex": 3,
+    "explanation": "Daria se emitió dentro del bloque de animación de MTV.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0260",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿De qué serie es spin-off Daria?",
+    "options": [
+      "Beavis and Butt-Head",
+      "Los Simpson",
+      "South Park",
+      "Rocko's Modern Life"
+    ],
+    "correctIndex": 0,
+    "explanation": "Daria apareció primero como compañera de clase en Beavis and Butt-Head.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0263",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién creó Beavis and Butt-Head?",
+    "options": [
+      "Matt Groening",
+      "John Kricfalusi",
+      "Trey Parker",
+      "Mike Judge"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mike Judge creó y puso voz a los dos protagonistas.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0264",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie de animación de MTV sobre dos adolescentes, ¿cuál de los dos personajes se transforma en Cornholio al comer azúcar?",
+    "options": [
+      "Beavis",
+      "Butt-Head",
+      "Daria",
+      "Stewart"
+    ],
+    "correctIndex": 0,
+    "explanation": "Beavis adopta la personalidad de Cornholio tras consumir azúcar.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0265",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie The Ren & Stimpy Show, ¿qué animales son Ren y Stimpy?",
+    "options": [
+      "Un gato y un perro",
+      "Un chihuahua y un gato",
+      "Dos conejos",
+      "Un ratón y un gato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ren es un chihuahua y Stimpy es un gato.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0266",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién creó The Ren & Stimpy Show?",
+    "options": [
+      "Joe Murray",
+      "Craig McCracken",
+      "John Kricfalusi",
+      "Butch Hartman"
+    ],
+    "correctIndex": 2,
+    "explanation": "John Kricfalusi creó la serie para Nickelodeon.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0269",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Rocko's Modern Life, ¿cómo se llama el mejor amigo de Rocko, un novillo?",
+    "options": [
+      "Filburt",
+      "Heffer Wolfe",
+      "Ed Bighead",
+      "Spunky"
+    ],
+    "correctIndex": 1,
+    "explanation": "Heffer Wolfe es el mejor amigo de Rocko.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...).",
+      "Superlativo o “el primero” sin alcance claro."
+    ]
+  },
+  {
+    "id": "s90-0270",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Quién creó Rocko's Modern Life?",
+    "options": [
+      "John Kricfalusi",
+      "Craig McCracken",
+      "Joe Murray",
+      "Arlene Klasky"
+    ],
+    "correctIndex": 2,
+    "explanation": "Joe Murray creó la serie para Nickelodeon.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0275",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Hey Arnold!, ¿quién está secretamente enamorada de Arnold?",
+    "options": [
+      "Phoebe",
+      "Rhonda",
+      "Lila",
+      "Helga Pataki"
+    ],
+    "correctIndex": 3,
+    "explanation": "Helga esconde su amor por Arnold tras una actitud hostil.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0276",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es la hermana de Dexter en Dexter's Laboratory?",
+    "options": [
+      "Dee Dee",
+      "Mandark",
+      "Bubbles",
+      "Blossom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dee Dee es la hermana mayor que irrumpe en el laboratorio.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0277",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Dexter's Laboratory, ¿quién es el rival científico de Dexter?",
+    "options": [
+      "Dee Dee",
+      "Mandark",
+      "Professor Utonium",
+      "Mojo Jojo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mandark es el niño genio rival de Dexter.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0278",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Quién creó Dexter's Laboratory?",
+    "options": [
+      "Craig McCracken",
+      "Butch Hartman",
+      "Genndy Tartakovsky",
+      "Joe Murray"
+    ],
+    "correctIndex": 2,
+    "explanation": "Genndy Tartakovsky creó la serie para Cartoon Network.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0280",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es el villano simio de las Powerpuff Girls?",
+    "options": [
+      "Mojo Jojo",
+      "Him",
+      "Fuzzy Lumpkins",
+      "Princess Morbucks"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mojo Jojo es el chimpancé genio que quiere dominar Townsville.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0281",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién creó The Powerpuff Girls?",
+    "options": [
+      "Genndy Tartakovsky",
+      "Craig McCracken",
+      "Butch Hartman",
+      "Stephen Hillenburg"
+    ],
+    "correctIndex": 1,
+    "explanation": "Craig McCracken creó a Blossom, Bubbles y Buttercup.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0284",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién pone la voz a Batman en Batman: The Animated Series?",
+    "options": [
+      "Kevin Conroy",
+      "Mark Hamill",
+      "Tim Daly",
+      "Adam West"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kevin Conroy fue la voz de Batman en la serie animada.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0285",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién pone voz al Joker en Batman: The Animated Series?",
+    "options": [
+      "Kevin Conroy",
+      "Mark Hamill",
+      "Ron Perlman",
+      "John Glover"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mark Hamill interpretó al Joker en la serie animada.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0287",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Qué actor pone voz a Spider-Man en la serie animada de 1994 emitida en Fox Kids?",
+    "options": [
+      "Neil Patrick Harris",
+      "Josh Keaton",
+      "Drake Bell",
+      "Christopher Daniel Barnes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Christopher Daniel Barnes fue la voz de Peter Parker y Spider-Man.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0288",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién es el Duende Verde en Spider-Man: The Animated Series?",
+    "options": [
+      "Norman Osborn",
+      "Otto Octavius",
+      "Wilson Fisk",
+      "Eddie Brock"
+    ],
+    "correctIndex": 0,
+    "explanation": "Norman Osborn se convierte en el Duende Verde.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0289",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién lidera al equipo de mutantes en la serie animada X-Men: The Animated Series?",
+    "options": [
+      "Magneto",
+      "Professor X",
+      "Cyclops",
+      "Wolverine"
+    ],
+    "correctIndex": 1,
+    "explanation": "El profesor Charles Xavier dirige al equipo de mutantes.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...).",
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0292",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es el protagonista entrenador de Pokémon?",
+    "options": [
+      "Ash Ketchum",
+      "Misty",
+      "Brock",
+      "Gary Oak"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ash Ketchum es el joven entrenador que persigue ser maestro Pokémon.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0293",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Pokémon, ¿qué Pokémon es la mascota inseparable de Ash?",
+    "options": [
+      "Charmander",
+      "Pikachu",
+      "Bulbasaur",
+      "Squirtle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pikachu se convierte en el compañero más famoso de Ash.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0294",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Pokémon, ¿cómo se llama el profesor que entrega los Pokémon iniciales?",
+    "options": [
+      "Professor Elm",
+      "Professor Birch",
+      "Professor Oak",
+      "Professor Rowan"
+    ],
+    "correctIndex": 2,
+    "explanation": "El profesor Oak entrega a los entrenadores su primer Pokémon.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0295",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién es el protagonista de Dragon Ball Z?",
+    "options": [
+      "Vegeta",
+      "Gohan",
+      "Piccolo",
+      "Goku"
+    ],
+    "correctIndex": 3,
+    "explanation": "Son Goku es el saiyajin protagonista de la serie.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0296",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "En la serie Dragon Ball Z, ¿a qué raza pertenece Goku?",
+    "options": [
+      "Saiyajin",
+      "Namekiano",
+      "Humano",
+      "Androide"
+    ],
+    "correctIndex": 0,
+    "explanation": "Goku es un saiyajin enviado a la Tierra cuando era niño.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0297",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién es el príncipe de los saiyajin en Dragon Ball Z?",
+    "options": [
+      "Nappa",
+      "Vegeta",
+      "Raditz",
+      "Trunks"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vegeta es el príncipe del planeta Vegeta.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0298",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "En la serie Dragon Ball Z, ¿cómo se llama el hijo mayor de Goku?",
+    "options": [
+      "Goten",
+      "Trunks",
+      "Gohan",
+      "Pan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gohan es el primer hijo de Goku y Chi-Chi.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0310",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Dónde ocurre la acción de ReBoot?",
+    "options": [
+      "Dentro de una ciudad futurista",
+      "En un mundo de fantasía",
+      "Dentro de una computadora",
+      "En una estación espacial"
+    ],
+    "correctIndex": 2,
+    "explanation": "ReBoot se desarrolla en el mundo digital de Mainframe.",
+    "reasons": [
+      "“¿Dónde...?”; verificar que el lugar sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0312",
+    "category": "series_90s",
+    "difficulty": "hard",
+    "question": "¿Qué país produjo la serie ReBoot?",
+    "options": [
+      "Canadá",
+      "Estados Unidos",
+      "Japón",
+      "Reino Unido"
+    ],
+    "correctIndex": 0,
+    "explanation": "ReBoot fue producida por el estudio canadiense Mainframe Entertainment.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...).",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0315",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Qué actor interpreta a MacGyver?",
+    "options": [
+      "Kurt Russell",
+      "Harrison Ford",
+      "Mel Gibson",
+      "Richard Dean Anderson"
+    ],
+    "correctIndex": 3,
+    "explanation": "Richard Dean Anderson protagonizó MacGyver.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0317",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién protagoniza María la del Barrio?",
+    "options": [
+      "Salma Hayek",
+      "Thalía",
+      "Verónica Castro",
+      "Lucero"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thalía interpretó a María, la joven que sale de la pobreza.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0322",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿En qué país se produjo Carrusel?",
+    "options": [
+      "Colombia",
+      "Venezuela",
+      "México",
+      "Argentina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Carrusel fue una producción mexicana de Televisa.",
+    "reasons": [
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0324",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién protagoniza Café con aroma de mujer?",
+    "options": [
+      "Margarita Rosa de Francisco",
+      "Ana María Orozco",
+      "Catherine Siachoque",
+      "Paola Turbay"
+    ],
+    "correctIndex": 0,
+    "explanation": "Margarita Rosa de Francisco interpretó a Gaviota.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0326",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el personaje de Margarita Rosa de Francisco en Café con aroma de mujer?",
+    "options": [
+      "Milagros",
+      "Betty",
+      "Gaviota",
+      "María"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gaviota es el apodo de Teresa Suárez, la recolectora de café.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0328",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién interpreta a Betty en Yo soy Betty, la fea?",
+    "options": [
+      "Ana María Orozco",
+      "Natalia Oreiro",
+      "Thalía",
+      "Margarita Rosa de Francisco"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ana María Orozco dio vida a Betty Pinzón.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0338",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el personaje de Emilio Aragón en Médico de familia?",
+    "options": [
+      "Javier Martín",
+      "Carlos Martín",
+      "Nacho Martín",
+      "Diego Serrano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nacho Martín es el médico viudo protagonista.",
+    "reasons": [
+      "Referencia genérica (el país/la obra/el autor...)."
+    ]
+  },
+  {
+    "id": "s90-0339",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién interpreta al Chavo del 8?",
+    "options": [
+      "Ramón Valdés",
+      "Carlos Villagrán",
+      "María Antonieta de las Nieves",
+      "Roberto Gómez Bolaños"
+    ],
+    "correctIndex": 3,
+    "explanation": "Roberto Gómez Bolaños creó y protagonizó al Chavo.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0343",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién protagoniza La Usurpadora?",
+    "options": [
+      "Thalía",
+      "Ana María Orozco",
+      "Natalia Oreiro",
+      "Gabriela Spanic"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gabriela Spanic interpretó a las gemelas Paola y Paulina.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0346",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién protagoniza Esmeralda, la telenovela mexicana de 1997?",
+    "options": [
+      "Thalía",
+      "Adela Noriega",
+      "Leticia Calderón",
+      "Lucero"
+    ],
+    "correctIndex": 2,
+    "explanation": "Leticia Calderón interpretó a Esmeralda.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco."
+    ]
+  },
+  {
+    "id": "s90-0348",
+    "category": "series_90s",
+    "difficulty": "medium",
+    "question": "¿Quién creó Chiquititas?",
+    "options": [
+      "Cris Morena",
+      "Marcelo Tinelli",
+      "Adrián Suar",
+      "Gustavo Yankelevich"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cris Morena creó la serie y compuso muchas de sus canciones.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  },
+  {
+    "id": "s90-0349",
+    "category": "series_90s",
+    "difficulty": "easy",
+    "question": "¿Quién protagoniza Muñeca Brava?",
+    "options": [
+      "Thalía",
+      "Natalia Oreiro",
+      "Gabriela Spanic",
+      "Ana María Orozco"
+    ],
+    "correctIndex": 1,
+    "explanation": "Natalia Oreiro interpretó a Milagros Esposito.",
+    "reasons": [
+      "Empieza por “¿Quién...?”; verificar que el referente sea inequívoco.",
+      "Enunciado corto; verificar contexto."
+    ]
+  }
+]

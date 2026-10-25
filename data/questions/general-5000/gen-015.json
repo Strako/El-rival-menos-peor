@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cg-4641",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua romance es oficial en Portugal y Brasil?",
+    "options": [
+      "Portugués",
+      "Español",
+      "Italiano",
+      "Rumano"
+    ],
+    "correctIndex": 0,
+    "explanation": "El portugués es la lengua oficial de Portugal y Brasil."
+  },
+  {
+    "id": "cg-4642",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Egipto?",
+    "options": [
+      "Copto",
+      "Árabe",
+      "Turco",
+      "Francés"
+    ],
+    "correctIndex": 1,
+    "explanation": "El árabe es la lengua oficial de Egipto."
+  },
+  {
+    "id": "cg-4643",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Japón?",
+    "options": [
+      "Chino mandarín",
+      "Coreano",
+      "Japonés",
+      "Ruso"
+    ],
+    "correctIndex": 2,
+    "explanation": "El japonés es la lengua oficial de Japón."
+  },
+  {
+    "id": "cg-4644",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua germánica es oficial en Alemania, Austria y Suiza?",
+    "options": [
+      "Neerlandés",
+      "Danés",
+      "Sueco",
+      "Alemán"
+    ],
+    "correctIndex": 3,
+    "explanation": "El alemán es oficial en Alemania, Austria y, junto a otras lenguas, en Suiza."
+  },
+  {
+    "id": "cg-4645",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Francia?",
+    "options": [
+      "Francés",
+      "Occitano",
+      "Bretón",
+      "Corso"
+    ],
+    "correctIndex": 0,
+    "explanation": "El francés es la lengua oficial de Francia; las demás son lenguas regionales."
+  },
+  {
+    "id": "cg-4646",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Grecia?",
+    "options": [
+      "Albanés",
+      "Griego",
+      "Turco",
+      "Macedonio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El griego es la lengua oficial de Grecia."
+  },
+  {
+    "id": "cg-4647",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Turquía?",
+    "options": [
+      "Árabe",
+      "Kurdo",
+      "Turco",
+      "Persa"
+    ],
+    "correctIndex": 2,
+    "explanation": "El turco es la lengua oficial de Turquía."
+  },
+  {
+    "id": "cg-4648",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de los Países Bajos?",
+    "options": [
+      "Frisón",
+      "Alemán",
+      "Francés",
+      "Neerlandés"
+    ],
+    "correctIndex": 3,
+    "explanation": "El neerlandés es la lengua oficial de los Países Bajos."
+  },
+  {
+    "id": "cg-4649",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Suecia?",
+    "options": [
+      "Sueco",
+      "Noruego",
+      "Finés",
+      "Danés"
+    ],
+    "correctIndex": 0,
+    "explanation": "El sueco es la lengua oficial de Suecia."
+  },
+  {
+    "id": "cg-4650",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Noruega?",
+    "options": [
+      "Sueco",
+      "Noruego",
+      "Danés",
+      "Islandés"
+    ],
+    "correctIndex": 1,
+    "explanation": "El noruego es la lengua oficial de Noruega, con dos estándares escritos."
+  },
+  {
+    "id": "cg-4651",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Dinamarca?",
+    "options": [
+      "Noruego",
+      "Alemán",
+      "Danés",
+      "Sueco"
+    ],
+    "correctIndex": 2,
+    "explanation": "El danés es la lengua oficial de Dinamarca."
+  },
+  {
+    "id": "cg-4652",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Polonia?",
+    "options": [
+      "Checo",
+      "Ruso",
+      "Lituano",
+      "Polaco"
+    ],
+    "correctIndex": 3,
+    "explanation": "El polaco es la lengua oficial de Polonia."
+  },
+  {
+    "id": "cg-4653",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Hungría?",
+    "options": [
+      "Húngaro",
+      "Rumano",
+      "Eslovaco",
+      "Alemán"
+    ],
+    "correctIndex": 0,
+    "explanation": "El húngaro es la lengua oficial de Hungría."
+  },
+  {
+    "id": "cg-4654",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Islandia?",
+    "options": [
+      "Noruego",
+      "Islandés",
+      "Danés",
+      "Feroés"
+    ],
+    "correctIndex": 1,
+    "explanation": "El islandés es la lengua oficial de Islandia."
+  },
+  {
+    "id": "cg-4655",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Ucrania?",
+    "options": [
+      "Ruso",
+      "Polaco",
+      "Ucraniano",
+      "Rumano"
+    ],
+    "correctIndex": 2,
+    "explanation": "El ucraniano es la lengua oficial de Ucrania."
+  },
+  {
+    "id": "cg-4656",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Georgia, país del Cáucaso?",
+    "options": [
+      "Armenio",
+      "Ruso",
+      "Turco",
+      "Georgiano"
+    ],
+    "correctIndex": 3,
+    "explanation": "El georgiano es la lengua oficial de Georgia."
+  },
+  {
+    "id": "cg-4657",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Armenia?",
+    "options": [
+      "Armenio",
+      "Georgiano",
+      "Turco",
+      "Azerí"
+    ],
+    "correctIndex": 0,
+    "explanation": "El armenio es la lengua oficial de Armenia."
+  },
+  {
+    "id": "cg-4658",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Mongolia?",
+    "options": [
+      "Kazajo",
+      "Mongol",
+      "Chino mandarín",
+      "Ruso"
+    ],
+    "correctIndex": 1,
+    "explanation": "El mongol es la lengua oficial de Mongolia."
+  },
+  {
+    "id": "cg-4659",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Nepal?",
+    "options": [
+      "Hindi",
+      "Tibetano",
+      "Nepalí",
+      "Bengalí"
+    ],
+    "correctIndex": 2,
+    "explanation": "El nepalí es la lengua oficial de Nepal."
+  },
+  {
+    "id": "cg-4660",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Bangladés?",
+    "options": [
+      "Urdu",
+      "Hindi",
+      "Birmano",
+      "Bengalí"
+    ],
+    "correctIndex": 3,
+    "explanation": "El bengalí es la lengua oficial de Bangladés."
+  },
+  {
+    "id": "cg-4661",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Indonesia?",
+    "options": [
+      "Indonesio",
+      "Malayo",
+      "Javanés",
+      "Neerlandés"
+    ],
+    "correctIndex": 0,
+    "explanation": "El indonesio es la lengua oficial de Indonesia."
+  },
+  {
+    "id": "cg-4662",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Malasia?",
+    "options": [
+      "Indonesio",
+      "Malayo",
+      "Chino mandarín",
+      "Tamil"
+    ],
+    "correctIndex": 1,
+    "explanation": "El malayo es la lengua oficial de Malasia."
+  },
+  {
+    "id": "cg-4663",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua es oficial en Filipinas junto al inglés?",
+    "options": [
+      "Cebuano",
+      "Ilocano",
+      "Filipino",
+      "Español"
+    ],
+    "correctIndex": 2,
+    "explanation": "El filipino es lengua oficial de Filipinas junto al inglés."
+  },
+  {
+    "id": "cg-4664",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua es oficial en Nueva Zelanda junto al inglés y la lengua de signos neozelandesa?",
+    "options": [
+      "Samoano",
+      "Tongano",
+      "Fiyiano",
+      "Maorí"
+    ],
+    "correctIndex": 3,
+    "explanation": "El maorí es lengua oficial de Nueva Zelanda junto al inglés y la lengua de signos."
+  },
+  {
+    "id": "cg-4665",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua es oficial en Irlanda junto al inglés?",
+    "options": [
+      "Irlandés",
+      "Galés",
+      "Gaélico escocés",
+      "Bretón"
+    ],
+    "correctIndex": 0,
+    "explanation": "El irlandés es la primera lengua oficial de Irlanda, junto al inglés."
+  },
+  {
+    "id": "cg-4666",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua es oficial en Gales junto al inglés?",
+    "options": [
+      "Irlandés",
+      "Galés",
+      "Córnico",
+      "Bretón"
+    ],
+    "correctIndex": 1,
+    "explanation": "El galés tiene estatus oficial en Gales junto al inglés."
+  },
+  {
+    "id": "cg-4667",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Andorra?",
+    "options": [
+      "Español",
+      "Francés",
+      "Catalán",
+      "Occitano"
+    ],
+    "correctIndex": 2,
+    "explanation": "El catalán es la única lengua oficial de Andorra."
+  },
+  {
+    "id": "cg-4668",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua es oficial en Haití junto al francés?",
+    "options": [
+      "Antillano",
+      "Papiamento",
+      "Guaraní",
+      "Criollo haitiano"
+    ],
+    "correctIndex": 3,
+    "explanation": "El criollo haitiano es cooficial con el francés en Haití."
+  },
+  {
+    "id": "cg-4669",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua indígena es oficial en Paraguay junto al español?",
+    "options": [
+      "Guaraní",
+      "Quechua",
+      "Náhuatl",
+      "Mapuche"
+    ],
+    "correctIndex": 0,
+    "explanation": "El guaraní es cooficial con el español en Paraguay."
+  },
+  {
+    "id": "cg-4670",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua es oficial en Kenia junto al inglés?",
+    "options": [
+      "Amárico",
+      "Suajili",
+      "Zulú",
+      "Somalí"
+    ],
+    "correctIndex": 1,
+    "explanation": "El suajili es cooficial con el inglés en Kenia."
+  },
+  {
+    "id": "cg-4671",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Nigeria?",
+    "options": [
+      "Suajili",
+      "Hausa",
+      "Inglés",
+      "Yoruba"
+    ],
+    "correctIndex": 2,
+    "explanation": "El inglés es la lengua oficial de Nigeria."
+  },
+  {
+    "id": "cg-4672",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Senegal?",
+    "options": [
+      "Inglés",
+      "Árabe",
+      "Wólof",
+      "Francés"
+    ],
+    "correctIndex": 3,
+    "explanation": "El francés es la lengua oficial de Senegal."
+  },
+  {
+    "id": "cg-4673",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Angola?",
+    "options": [
+      "Portugués",
+      "Francés",
+      "Inglés",
+      "Suajili"
+    ],
+    "correctIndex": 0,
+    "explanation": "El portugués es la lengua oficial de Angola."
+  },
+  {
+    "id": "cg-4674",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Mozambique?",
+    "options": [
+      "Francés",
+      "Portugués",
+      "Suajili",
+      "Inglés"
+    ],
+    "correctIndex": 1,
+    "explanation": "El portugués es la lengua oficial de Mozambique."
+  },
+  {
+    "id": "cg-4675",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua es oficial en Timor Oriental junto al tetun?",
+    "options": [
+      "Indonesio",
+      "Inglés",
+      "Portugués",
+      "Neerlandés"
+    ],
+    "correctIndex": 2,
+    "explanation": "El portugués es cooficial con el tetun en Timor Oriental."
+  },
+  {
+    "id": "cg-4676",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua es oficial en Canadá junto al inglés?",
+    "options": [
+      "Español",
+      "Inuktitut",
+      "Alemán",
+      "Francés"
+    ],
+    "correctIndex": 3,
+    "explanation": "El francés es cooficial con el inglés en Canadá."
+  },
+  {
+    "id": "cg-4677",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua es oficial en Bélgica junto al neerlandés y el alemán?",
+    "options": [
+      "Francés",
+      "Luxemburgués",
+      "Italiano",
+      "Romanche"
+    ],
+    "correctIndex": 0,
+    "explanation": "El francés es una de las tres lenguas oficiales de Bélgica."
+  },
+  {
+    "id": "cg-4678",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué cuarta lengua nacional de Suiza se habla principalmente en los Grisones?",
+    "options": [
+      "Esloveno",
+      "Romanche",
+      "Ladino",
+      "Friulano"
+    ],
+    "correctIndex": 1,
+    "explanation": "El romanche es la cuarta lengua nacional de Suiza."
+  },
+  {
+    "id": "cg-4679",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua es oficial en Malta junto al maltés?",
+    "options": [
+      "Italiano",
+      "Francés",
+      "Inglés",
+      "Árabe"
+    ],
+    "correctIndex": 2,
+    "explanation": "El inglés es cooficial con el maltés en Malta."
+  },
+  {
+    "id": "cg-4680",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua es oficial en Chipre junto al turco?",
+    "options": [
+      "Inglés",
+      "Árabe",
+      "Armenio",
+      "Griego"
+    ],
+    "correctIndex": 3,
+    "explanation": "El griego y el turco son las lenguas oficiales de Chipre."
+  },
+  {
+    "id": "cg-4681",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial del Líbano?",
+    "options": [
+      "Árabe",
+      "Francés",
+      "Arameo",
+      "Turco"
+    ],
+    "correctIndex": 0,
+    "explanation": "El árabe es la lengua oficial del Líbano."
+  },
+  {
+    "id": "cg-4682",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua es oficial en Irak junto al kurdo?",
+    "options": [
+      "Persa",
+      "Árabe",
+      "Turco",
+      "Arameo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El árabe y el kurdo son lenguas oficiales de Irak."
+  },
+  {
+    "id": "cg-4683",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua es oficial en Afganistán junto al pastún?",
+    "options": [
+      "Urdu",
+      "Tayiko",
+      "Darí",
+      "Uzbeko"
+    ],
+    "correctIndex": 2,
+    "explanation": "El darí y el pastún son las lenguas oficiales de Afganistán."
+  },
+  {
+    "id": "cg-4684",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua es oficial en Pakistán junto al inglés?",
+    "options": [
+      "Hindi",
+      "Bengalí",
+      "Pastún",
+      "Urdu"
+    ],
+    "correctIndex": 3,
+    "explanation": "El urdu es la lengua nacional y oficial de Pakistán junto al inglés."
+  },
+  {
+    "id": "cg-4685",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua es oficial en la India a nivel federal junto al inglés?",
+    "options": [
+      "Hindi",
+      "Bengalí",
+      "Tamil",
+      "Sánscrito"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hindi y el inglés son las lenguas oficiales de la Unión India."
+  },
+  {
+    "id": "cg-4686",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Bután?",
+    "options": [
+      "Nepalí",
+      "Dzongkha",
+      "Tibetano",
+      "Hindi"
+    ],
+    "correctIndex": 1,
+    "explanation": "El dzongkha es la lengua oficial de Bután."
+  },
+  {
+    "id": "cg-4687",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Camboya?",
+    "options": [
+      "Tailandés",
+      "Vietnamita",
+      "Jemer",
+      "Lao"
+    ],
+    "correctIndex": 2,
+    "explanation": "El jemer es la lengua oficial de Camboya."
+  },
+  {
+    "id": "cg-4688",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Laos?",
+    "options": [
+      "Tailandés",
+      "Jemer",
+      "Birmano",
+      "Lao"
+    ],
+    "correctIndex": 3,
+    "explanation": "El lao es la lengua oficial de Laos."
+  },
+  {
+    "id": "cg-4689",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de Myanmar?",
+    "options": [
+      "Birmano",
+      "Tailandés",
+      "Jemer",
+      "Mandarín"
+    ],
+    "correctIndex": 0,
+    "explanation": "El birmano es la lengua oficial de Myanmar."
+  },
+  {
+    "id": "cg-4690",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua es oficial en Singapur junto al inglés, el malayo y el tamil?",
+    "options": [
+      "Cantonés",
+      "Chino mandarín",
+      "Hokkien",
+      "Indonesio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El chino mandarín es una de las cuatro lenguas oficiales de Singapur."
+  },
+  {
+    "id": "cg-4691",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué lengua germánica es oficial en Sudáfrica junto a las lenguas bantúes y el inglés?",
+    "options": [
+      "Sueco",
+      "Danés",
+      "Afrikáans",
+      "Islandés"
+    ],
+    "correctIndex": 2,
+    "explanation": "El afrikáans es una de las lenguas oficiales de Sudáfrica."
+  },
+  {
+    "id": "cg-4692",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es la lengua oficial de trabajo de Etiopía?",
+    "options": [
+      "Oromo",
+      "Tigriña",
+      "Somalí",
+      "Amárico"
+    ],
+    "correctIndex": 3,
+    "explanation": "El amárico es la lengua de trabajo del Gobierno federal de Etiopía."
+  },
+  {
+    "id": "cg-4693",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué alfabeto se usa para escribir el ruso?",
+    "options": [
+      "Cirílico",
+      "Griego",
+      "Latino",
+      "Armenio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El ruso se escribe con el alfabeto cirílico."
+  },
+  {
+    "id": "cg-4694",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué sistema de escritura se usa para el chino mandarín?",
+    "options": [
+      "Hiragana",
+      "Caracteres hanzi",
+      "Hangul",
+      "Devanagari"
+    ],
+    "correctIndex": 1,
+    "explanation": "El chino mandarín se escribe con caracteres hanzi."
+  },
+  {
+    "id": "cg-4695",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿En qué dirección se escribe tradicionalmente el árabe?",
+    "options": [
+      "De izquierda a derecha",
+      "De arriba abajo",
+      "De derecha a izquierda",
+      "En zigzag"
+    ],
+    "correctIndex": 2,
+    "explanation": "La escritura árabe avanza de derecha a izquierda."
+  },
+  {
+    "id": "cg-4696",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué escritura se usa para el hindi?",
+    "options": [
+      "Árabe",
+      "Cirílico",
+      "Tamil",
+      "Devanagari"
+    ],
+    "correctIndex": 3,
+    "explanation": "El hindi se escribe con el alfabeto devanagari."
+  },
+  {
+    "id": "cg-4697",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué alfabeto se usa para el griego moderno?",
+    "options": [
+      "Alfabeto griego",
+      "Cirílico",
+      "Latino",
+      "Copto"
+    ],
+    "correctIndex": 0,
+    "explanation": "El griego moderno emplea el alfabeto griego."
+  },
+  {
+    "id": "cg-4698",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué alfabeto se usa para el hebreo?",
+    "options": [
+      "Árabe",
+      "Alfabeto hebreo",
+      "Arameo",
+      "Griego"
+    ],
+    "correctIndex": 1,
+    "explanation": "El hebreo se escribe con el alfabeto hebreo."
+  },
+  {
+    "id": "cg-4699",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué dos silabarios se usan en el japonés además de los kanji?",
+    "options": [
+      "Hanja y hangul",
+      "Devanagari y bengalí",
+      "Hiragana y katakana",
+      "Hiragana y hangul"
+    ],
+    "correctIndex": 2,
+    "explanation": "El japonés combina kanji con hiragana y katakana."
+  },
+  {
+    "id": "cg-4700",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuántas letras tiene el alfabeto español moderno, sin contar dígrafos?",
+    "options": [
+      "26",
+      "29",
+      "24",
+      "27"
+    ],
+    "correctIndex": 3,
+    "explanation": "El alfabeto español tiene 27 letras, incluida la ñ."
+  },
+  {
+    "id": "cg-4701",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué signo se coloca al inicio de una pregunta en español?",
+    "options": [
+      "Signo de interrogación de apertura",
+      "Signo de exclamación de apertura",
+      "Punto y coma",
+      "Dos puntos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El español usa el signo de interrogación de apertura antes de la pregunta."
+  },
+  {
+    "id": "cg-4702",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es un alfabeto?",
+    "options": [
+      "Un conjunto de palabras",
+      "Un conjunto de signos que representan sonidos",
+      "Un tipo de dialecto",
+      "Una regla de acentuación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un alfabeto representa los sonidos de una lengua mediante signos."
+  },
+  {
+    "id": "cg-4703",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es un ideograma?",
+    "options": [
+      "Un sonido vocálico",
+      "Una sílaba tónica",
+      "Un signo que representa una idea o palabra",
+      "Una marca de puntuación"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un ideograma representa una idea o palabra completa."
+  },
+  {
+    "id": "cg-4704",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es un silabario?",
+    "options": [
+      "Un listado de verbos",
+      "Un alfabeto de consonantes",
+      "Un diccionario etimológico",
+      "Un sistema de signos que representan sílabas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un silabario emplea un signo para cada sílaba."
+  },
+  {
+    "id": "cg-4705",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué estudia la fonética?",
+    "options": [
+      "Los sonidos del habla",
+      "El significado de las palabras",
+      "La estructura de las oraciones",
+      "El origen de las lenguas"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fonética estudia la producción y percepción de los sonidos."
+  },
+  {
+    "id": "cg-4706",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué estudia la sintaxis?",
+    "options": [
+      "Los sonidos del habla",
+      "La estructura de las oraciones",
+      "El significado de las palabras",
+      "La formación de alfabetos"
+    ],
+    "correctIndex": 1,
+    "explanation": "La sintaxis estudia cómo se combinan las palabras en oraciones."
+  },
+  {
+    "id": "cg-4707",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué estudia la morfología?",
+    "options": [
+      "El orden de las oraciones",
+      "Los sonidos del habla",
+      "La estructura de las palabras",
+      "La historia de los alfabetos"
+    ],
+    "correctIndex": 2,
+    "explanation": "La morfología estudia la estructura interna de las palabras."
+  },
+  {
+    "id": "cg-4708",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué designa el léxico de una lengua?",
+    "options": [
+      "El conjunto de sus sonidos",
+      "El conjunto de sus reglas sintácticas",
+      "El conjunto de sus dialectos",
+      "El conjunto de sus palabras"
+    ],
+    "correctIndex": 3,
+    "explanation": "El léxico es el vocabulario de una lengua."
+  },
+  {
+    "id": "cg-4709",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es un sinónimo?",
+    "options": [
+      "Una palabra con significado igual o parecido a otra",
+      "Una palabra con significado opuesto",
+      "Una palabra de origen extranjero",
+      "Una palabra sin acento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los sinónimos comparten un significado semejante."
+  },
+  {
+    "id": "cg-4710",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es un antónimo?",
+    "options": [
+      "Una palabra con significado parecido",
+      "Una palabra con significado opuesto a otra",
+      "Una palabra compuesta",
+      "Una palabra invariable"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los antónimos expresan significados contrarios."
+  },
+  {
+    "id": "cg-4711",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es un préstamo lingüístico?",
+    "options": [
+      "Una palabra que cambia de género",
+      "Una oración sin verbo",
+      "Una palabra tomada de otra lengua",
+      "Un sonido que desaparece"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un préstamo es una palabra adoptada de otra lengua."
+  },
+  {
+    "id": "cg-4712",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es un cognado?",
+    "options": [
+      "Una palabra sin traducción",
+      "Una palabra inventada",
+      "Un sinónimo exacto",
+      "Una palabra de dos lenguas con un mismo origen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los cognados proceden de una misma palabra ancestral."
+  },
+  {
+    "id": "cg-4713",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué estudia la etimología?",
+    "options": [
+      "El origen y la evolución de las palabras",
+      "La pronunciación de las palabras",
+      "El orden de las palabras",
+      "La escritura de los números"
+    ],
+    "correctIndex": 0,
+    "explanation": "La etimología rastrea el origen de las palabras."
+  },
+  {
+    "id": "cg-4714",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es un dialecto?",
+    "options": [
+      "Una lengua sin escritura",
+      "Una variante regional de una lengua",
+      "Un alfabeto antiguo",
+      "Una lengua artificial"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un dialecto es una variedad geográfica de una lengua."
+  },
+  {
+    "id": "cg-4715",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es una lengua criolla?",
+    "options": [
+      "Una lengua litúrgica",
+      "Una lengua muerta",
+      "Una lengua estable surgida del contacto entre lenguas",
+      "Un dialecto sin gramática"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una lengua criolla surge del contacto y se transmite como lengua materna."
+  },
+  {
+    "id": "cg-4716",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es un pidgin?",
+    "options": [
+      "Una lengua oficial de un país",
+      "Una lengua con escritura pictográfica",
+      "Un dialecto rural",
+      "Una lengua de contacto simplificada sin hablantes nativos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un pidgin es una lengua auxiliar simplificada sin hablantes nativos."
+  },
+  {
+    "id": "cg-4717",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es el bilingüismo?",
+    "options": [
+      "El uso habitual de dos lenguas",
+      "El uso de una sola lengua",
+      "La mezcla de dos alfabetos",
+      "La traducción de textos antiguos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El bilingüismo es el uso habitual de dos lenguas."
+  },
+  {
+    "id": "cg-4718",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es la gramática?",
+    "options": [
+      "El conjunto de palabras extranjeras",
+      "El conjunto de reglas que rigen una lengua",
+      "El estudio de los alfabetos",
+      "La lista de nombres propios"
+    ],
+    "correctIndex": 1,
+    "explanation": "La gramática describe las reglas de una lengua."
+  },
+  {
+    "id": "cg-4719",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es un sustantivo?",
+    "options": [
+      "Una palabra que indica acción",
+      "Una palabra que califica",
+      "Una palabra que nombra personas, cosas o ideas",
+      "Una palabra que une oraciones"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sustantivo nombra entidades, objetos o conceptos."
+  },
+  {
+    "id": "cg-4720",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es un verbo?",
+    "options": [
+      "Una palabra que nombra objetos",
+      "Una palabra que sustituye al nombre",
+      "Una palabra que indica lugar",
+      "Una palabra que expresa acción o estado"
+    ],
+    "correctIndex": 3,
+    "explanation": "El verbo expresa acciones, procesos o estados."
+  },
+  {
+    "id": "cg-4721",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es un adjetivo?",
+    "options": [
+      "Una palabra que califica al sustantivo",
+      "Una palabra que expresa acción",
+      "Una palabra que sustituye al verbo",
+      "Una palabra que introduce una pregunta"
+    ],
+    "correctIndex": 0,
+    "explanation": "El adjetivo aporta cualidades al sustantivo."
+  },
+  {
+    "id": "cg-4722",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es un pronombre?",
+    "options": [
+      "Una palabra que califica al verbo",
+      "Una palabra que sustituye al sustantivo",
+      "Una palabra que une sílabas",
+      "Una palabra que indica cantidad exacta"
+    ],
+    "correctIndex": 1,
+    "explanation": "El pronombre reemplaza o representa al sustantivo."
+  },
+  {
+    "id": "cg-4723",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es una preposición?",
+    "options": [
+      "Una palabra que nombra acciones",
+      "Una palabra que acentúa la voz",
+      "Una palabra que relaciona elementos de la oración",
+      "Una palabra que cierra la oración"
+    ],
+    "correctIndex": 2,
+    "explanation": "La preposición vincula palabras o grupos de palabras."
+  },
+  {
+    "id": "cg-4724",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es un diptongo?",
+    "options": [
+      "La separación de dos vocales en sílabas distintas",
+      "La repetición de una consonante",
+      "Un acento al final de palabra",
+      "La unión de dos vocales en una misma sílaba"
+    ],
+    "correctIndex": 3,
+    "explanation": "En un diptongo, dos vocales se pronuncian en una sola sílaba."
+  },
+  {
+    "id": "cg-4725",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es un hiato?",
+    "options": [
+      "La separación de dos vocales en sílabas distintas",
+      "La unión de dos vocales en una sílaba",
+      "La unión de dos consonantes",
+      "La pérdida de una vocal"
+    ],
+    "correctIndex": 0,
+    "explanation": "En un hiato, dos vocales contiguas pertenecen a sílabas diferentes."
+  },
+  {
+    "id": "cg-4726",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es la sílaba tónica?",
+    "options": [
+      "La primera sílaba de toda palabra",
+      "La sílaba que se pronuncia con mayor relieve",
+      "La sílaba sin vocal",
+      "La última sílaba de un verbo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La sílaba tónica porta el acento prosódico de la palabra."
+  },
+  {
+    "id": "cg-4727",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es una palabra aguda?",
+    "options": [
+      "Una palabra acentuada en la penúltima",
+      "Una palabra sin acento",
+      "Una palabra acentuada en la última sílaba",
+      "Una palabra de una sola letra"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las palabras agudas llevan la fuerza en la última sílaba."
+  },
+  {
+    "id": "cg-4728",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es una palabra esdrújula?",
+    "options": [
+      "Una palabra acentuada en la última",
+      "Una palabra acentuada en la penúltima",
+      "Una palabra sin diptongo",
+      "Una palabra acentuada en la antepenúltima sílaba"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las palabras esdrújulas se acentúan en la antepenúltima sílaba."
+  },
+  {
+    "id": "cg-4729",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es un verbo irregular?",
+    "options": [
+      "Un verbo que cambia su conjugación respecto al modelo",
+      "Un verbo que no tiene sujeto",
+      "Un verbo que solo existe en plural",
+      "Un verbo sin significado"
+    ],
+    "correctIndex": 0,
+    "explanation": "El verbo irregular modifica su raíz o sus desinencias."
+  },
+  {
+    "id": "cg-4730",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es la concordancia gramatical?",
+    "options": [
+      "La repetición de una palabra",
+      "La coincidencia de género, número o persona entre elementos",
+      "El cambio de alfabeto",
+      "La unión de dos oraciones"
+    ],
+    "correctIndex": 1,
+    "explanation": "La concordancia exige que los elementos relacionados coincidan en sus rasgos."
+  },
+  {
+    "id": "cg-4731",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es el sujeto de una oración?",
+    "options": [
+      "La acción principal",
+      "El complemento directo",
+      "El elemento del que se dice algo",
+      "El signo de puntuación final"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sujeto es el elemento sobre el que se predica algo."
+  },
+  {
+    "id": "cg-4732",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Qué es el predicado?",
+    "options": [
+      "El nombre propio de la oración",
+      "La primera palabra de la oración",
+      "El alfabeto usado",
+      "Lo que se dice del sujeto"
+    ],
+    "correctIndex": 3,
+    "explanation": "El predicado expresa lo que se afirma del sujeto."
+  },
+  {
+    "id": "cg-4733",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es un artículo definido en español?",
+    "options": [
+      "El",
+      "Un",
+      "Algún",
+      "Ningún"
+    ],
+    "correctIndex": 0,
+    "explanation": "El artículo definido singular masculino es el."
+  },
+  {
+    "id": "cg-4734",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuál es un artículo indefinido en español?",
+    "options": [
+      "El",
+      "Un",
+      "Los",
+      "Aquel"
+    ],
+    "correctIndex": 1,
+    "explanation": "El artículo indefinido singular masculino es un."
+  },
+  {
+    "id": "cg-4735",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿Cuántas vocales tiene el español?",
+    "options": [
+      "Tres",
+      "Siete",
+      "Cinco",
+      "Cuatro"
+    ],
+    "correctIndex": 2,
+    "explanation": "El español tiene cinco vocales: a, e, i, o, u."
+  },
+  {
+    "id": "cg-4736",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿A qué familia lingüística pertenece el español?",
+    "options": [
+      "Germánica",
+      "Eslava",
+      "Céltica",
+      "Romance"
+    ],
+    "correctIndex": 3,
+    "explanation": "El español es una lengua romance, derivada del latín."
+  },
+  {
+    "id": "cg-4737",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿A qué familia lingüística pertenece el inglés?",
+    "options": [
+      "Germánica",
+      "Romance",
+      "Eslava",
+      "Urálica"
+    ],
+    "correctIndex": 0,
+    "explanation": "El inglés es una lengua germánica occidental."
+  },
+  {
+    "id": "cg-4738",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿A qué familia lingüística pertenece el ruso?",
+    "options": [
+      "Germánica",
+      "Eslava",
+      "Romance",
+      "Báltica"
+    ],
+    "correctIndex": 1,
+    "explanation": "El ruso es una lengua eslava oriental."
+  },
+  {
+    "id": "cg-4739",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿A qué familia lingüística pertenece el galés?",
+    "options": [
+      "Germánica",
+      "Romance",
+      "Céltica",
+      "Eslava"
+    ],
+    "correctIndex": 2,
+    "explanation": "El galés es una lengua celta insular."
+  },
+  {
+    "id": "cg-4740",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿A qué familia lingüística pertenece el árabe?",
+    "options": [
+      "Turca",
+      "Indoirania",
+      "Urálica",
+      "Semítica"
+    ],
+    "correctIndex": 3,
+    "explanation": "El árabe pertenece a la rama semítica de las lenguas afroasiáticas."
+  },
+  {
+    "id": "cg-4741",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿A qué familia lingüística pertenece el chino mandarín?",
+    "options": [
+      "Sino-tibetana",
+      "Austronesia",
+      "Austroasiática",
+      "Túrquica"
+    ],
+    "correctIndex": 0,
+    "explanation": "El chino mandarín pertenece a la familia sino-tibetana."
+  },
+  {
+    "id": "cg-4742",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿A qué familia lingüística pertenece el tagalo?",
+    "options": [
+      "Sino-tibetana",
+      "Austronesia",
+      "Dravídica",
+      "Japónica"
+    ],
+    "correctIndex": 1,
+    "explanation": "El tagalo es una lengua austronesia."
+  },
+  {
+    "id": "cg-4743",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿A qué familia lingüística pertenece el finlandés?",
+    "options": [
+      "Indoeuropea",
+      "Túrquica",
+      "Urálica",
+      "Semítica"
+    ],
+    "correctIndex": 2,
+    "explanation": "El finlandés es una lengua urálica de la rama báltico-finlandesa."
+  },
+  {
+    "id": "cg-4744",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "easy",
+    "question": "¿A qué familia lingüística pertenece el turco?",
+    "options": [
+      "Indoeuropea",
+      "Urálica",
+      "Semítica",
+      "Túrquica"
+    ],
+    "correctIndex": 3,
+    "explanation": "El turco es una lengua túrquica de la rama oghuz."
+  },
+  {
+    "id": "cg-4745",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿A qué rama del indoeuropeo pertenece el español?",
+    "options": [
+      "Iberorromance",
+      "Galorromance",
+      "Italorromance",
+      "Baltoeslava"
+    ],
+    "correctIndex": 0,
+    "explanation": "El español es una lengua iberorromance del grupo romance occidental."
+  },
+  {
+    "id": "cg-4746",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿De qué variedad del latín surgieron las lenguas romances?",
+    "options": [
+      "Latín clásico",
+      "Latín vulgar",
+      "Latín eclesiástico",
+      "Latín medieval"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las lenguas romances derivan del latín vulgar hablado."
+  },
+  {
+    "id": "cg-4747",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué lengua romance se desarrolló en la antigua Dacia, actual Rumanía?",
+    "options": [
+      "Búlgaro",
+      "Húngaro",
+      "Rumano",
+      "Albanés"
+    ],
+    "correctIndex": 2,
+    "explanation": "El rumano es la lengua romance de Rumanía y Moldavia."
+  },
+  {
+    "id": "cg-4748",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿A qué rama indoeuropea pertenece el griego moderno?",
+    "options": [
+      "Itálica",
+      "Iliria",
+      "Anatolia",
+      "Helénica"
+    ],
+    "correctIndex": 3,
+    "explanation": "El griego constituye la rama helénica del indoeuropeo."
+  },
+  {
+    "id": "cg-4749",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué lengua indoeuropea forma una rama propia y es oficial en Albania?",
+    "options": [
+      "Albanés",
+      "Rumano",
+      "Búlgaro",
+      "Griego"
+    ],
+    "correctIndex": 0,
+    "explanation": "El albanés constituye una rama independiente del indoeuropeo."
+  },
+  {
+    "id": "cg-4750",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿A qué rama indoeuropea pertenecen el lituano y el letón?",
+    "options": [
+      "Eslava",
+      "Báltica",
+      "Germánica",
+      "Céltica"
+    ],
+    "correctIndex": 1,
+    "explanation": "El lituano y el letón forman la rama báltica."
+  },
+  {
+    "id": "cg-4751",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿A qué rama indoeuropea pertenecen el persa y el kurdo?",
+    "options": [
+      "Indoaria",
+      "Anatolia",
+      "Irania",
+      "Armenia"
+    ],
+    "correctIndex": 2,
+    "explanation": "El persa y el kurdo son lenguas iranias."
+  },
+  {
+    "id": "cg-4752",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿A qué rama indoeuropea pertenecen el hindi y el bengalí?",
+    "options": [
+      "Irania",
+      "Dárdica",
+      "Nuristaní",
+      "Indoaria"
+    ],
+    "correctIndex": 3,
+    "explanation": "El hindi y el bengalí pertenecen a la rama indoaria."
+  },
+  {
+    "id": "cg-4753",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué lengua indoeuropea fue la principal del imperio hitita?",
+    "options": [
+      "Hitita",
+      "Luvita",
+      "Palaita",
+      "Frigio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hitita fue la lengua principal del imperio hitita."
+  },
+  {
+    "id": "cg-4754",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué lengua indoeuropea se hablaba en la cuenca del Tarim y se escribió en dos variedades?",
+    "options": [
+      "Saka",
+      "Tocario",
+      "Sogdiano",
+      "Bactriano"
+    ],
+    "correctIndex": 1,
+    "explanation": "El tocario se documenta en dos variedades en la cuenca del Tarim."
+  },
+  {
+    "id": "cg-4755",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué lengua germánica antigua usó Wulfila para traducir la Biblia en el siglo IV?",
+    "options": [
+      "Anglosajón",
+      "Antiguo nórdico",
+      "Gótico",
+      "Franco"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wulfila tradujo la Biblia al gótico en el siglo IV."
+  },
+  {
+    "id": "cg-4756",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué poema épico en inglés antiguo narra las hazañas de un héroe geata que lucha contra Grendel?",
+    "options": [
+      "La batalla de Maldon",
+      "El sueño de la cruz",
+      "Las ruinas",
+      "Beowulf"
+    ],
+    "correctIndex": 3,
+    "explanation": "Beowulf es el gran poema épico del inglés antiguo."
+  },
+  {
+    "id": "cg-4757",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué batalla de 1066 facilitó la entrada del francés normando en Inglaterra?",
+    "options": [
+      "Hastings",
+      "Stamford Bridge",
+      "Bannockburn",
+      "Agincourt"
+    ],
+    "correctIndex": 0,
+    "explanation": "La victoria normanda en Hastings introdujo el francés en la corte inglesa."
+  },
+  {
+    "id": "cg-4758",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué cambio vocálico transformó la pronunciación del inglés entre los siglos XIV y XVII?",
+    "options": [
+      "Ley de Grimm",
+      "Gran desplazamiento vocálico",
+      "Metafonía",
+      "Armonía vocálica"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Gran desplazamiento vocálico alteró profundamente las vocales del inglés."
+  },
+  {
+    "id": "cg-4759",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué ley fonética explica la correspondencia entre la p latina y la f germánica?",
+    "options": [
+      "Ley de Verner",
+      "Ley de Darmesteter",
+      "Ley de Grimm",
+      "Ley de Sievers"
+    ],
+    "correctIndex": 2,
+    "explanation": "La ley de Grimm describe la primera mutación consonántica germánica."
+  },
+  {
+    "id": "cg-4760",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué filólogo y jurista británico postuló en 1786 el parentesco del sánscrito con el griego y el latín?",
+    "options": [
+      "Henry Rawlinson",
+      "Max Müller",
+      "Jacob Grimm",
+      "William Jones"
+    ],
+    "correctIndex": 3,
+    "explanation": "William Jones planteó en 1786 el parentesco de las lenguas indoeuropeas."
+  },
+  {
+    "id": "cg-4761",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué método reconstruye lenguas antiguas comparando palabras emparentadas?",
+    "options": [
+      "Método comparativo",
+      "Método descriptivo",
+      "Método generativo",
+      "Método filológico"
+    ],
+    "correctIndex": 0,
+    "explanation": "El método comparativo reconstruye protolenguas a partir de cognados."
+  },
+  {
+    "id": "cg-4762",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué lengua reconstruida se considera el ancestro común de las lenguas indoeuropeas?",
+    "options": [
+      "Protoeslavo",
+      "Protoindoeuropeo",
+      "Protogermánico",
+      "Protoitálico"
+    ],
+    "correctIndex": 1,
+    "explanation": "El protoindoeuropeo es la protolengua reconstruida del indoeuropeo."
+  },
+  {
+    "id": "cg-4763",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué inscripción trilingüe permitió descifrar los jeroglíficos egipcios?",
+    "options": [
+      "Inscripción de Behistún",
+      "Tablillas de Amarna",
+      "Piedra Rosetta",
+      "Papiro de Turín"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Piedra Rosetta contiene el mismo texto en jeroglífico, demótico y griego."
+  },
+  {
+    "id": "cg-4764",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Quién descifró los jeroglíficos egipcios en 1822?",
+    "options": [
+      "Thomas Young",
+      "Henry Rawlinson",
+      "Michael Ventris",
+      "Jean-François Champollion"
+    ],
+    "correctIndex": 3,
+    "explanation": "Champollion anunció el desciframiento de los jeroglíficos en 1822."
+  },
+  {
+    "id": "cg-4765",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué rey coreano impulsó la creación del hangul en el siglo XV?",
+    "options": [
+      "Sejong",
+      "Taejo",
+      "Gojong",
+      "Sunjong"
+    ],
+    "correctIndex": 0,
+    "explanation": "El rey Sejong promovió el hangul en el siglo XV."
+  },
+  {
+    "id": "cg-4766",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué unidad representa cada bloque del hangul?",
+    "options": [
+      "Una frase",
+      "Una sílaba",
+      "Un fonema aislado",
+      "Un párrafo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las letras del hangul se agrupan en bloques que representan sílabas."
+  },
+  {
+    "id": "cg-4767",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué misión bizantina creó el alfabeto glagolítico en el siglo IX?",
+    "options": [
+      "Basilio y Constantino",
+      "Juan Damasceno y Focio",
+      "Cirilo y Metodio",
+      "Teodoro y Miguel"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cirilo y Metodio llevaron a cabo la misión eslava y crearon el glagolítico."
+  },
+  {
+    "id": "cg-4768",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿De qué alfabeto deriva el cirílico?",
+    "options": [
+      "Latino",
+      "Fenicio",
+      "Hebreo",
+      "Griego"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cirílico deriva del alfabeto griego."
+  },
+  {
+    "id": "cg-4769",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué alfabeto semítico antiguo dio origen al griego y al latino?",
+    "options": [
+      "Fenicio",
+      "Ugarítico",
+      "Arameo",
+      "Paleohebreo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El alfabeto fenicio se difundió y dio origen a los alfabetos griego y latino."
+  },
+  {
+    "id": "cg-4770",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de escritura es el árabe, que anota consonantes y vocales largas?",
+    "options": [
+      "Abugida",
+      "Abjad",
+      "Silabario",
+      "Logografía"
+    ],
+    "correctIndex": 1,
+    "explanation": "El árabe es un abjad: sus signos básicos representan consonantes."
+  },
+  {
+    "id": "cg-4771",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de escritura representa cada consonante con una vocal inherente, como el devanagari?",
+    "options": [
+      "Abjad",
+      "Alfabeto",
+      "Abugida",
+      "Logografía"
+    ],
+    "correctIndex": 2,
+    "explanation": "El devanagari es un abugida, con vocales inherentes y signos diacríticos."
+  },
+  {
+    "id": "cg-4772",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué silabario japonés se usa para palabras extranjeras?",
+    "options": [
+      "Hiragana",
+      "Kanji",
+      "Hangul",
+      "Katakana"
+    ],
+    "correctIndex": 3,
+    "explanation": "El katakana se emplea para préstamos y nombres extranjeros."
+  },
+  {
+    "id": "cg-4773",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué silabario japonés se usa para partículas y terminaciones gramaticales?",
+    "options": [
+      "Hiragana",
+      "Katakana",
+      "Kanji",
+      "Bopomofo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hiragana se usa para la gramática y las palabras nativas."
+  },
+  {
+    "id": "cg-4774",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué alfabeto inventó Mesrop Mashtots hacia el año 405?",
+    "options": [
+      "Georgiano",
+      "Armenio",
+      "Albanés caucásico",
+      "Copto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mesrop Mashtots creó el alfabeto armenio hacia el año 405."
+  },
+  {
+    "id": "cg-4775",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué escritura georgiana se usa para el georgiano moderno?",
+    "options": [
+      "Asomtavruli",
+      "Nuskhuri",
+      "Mkhedruli",
+      "Glagolítica"
+    ],
+    "correctIndex": 2,
+    "explanation": "El mkhedruli es la escritura habitual del georgiano moderno."
+  },
+  {
+    "id": "cg-4776",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué sistema de escritura se usó en la antigua Mesopotamia sobre tablillas de arcilla?",
+    "options": [
+      "Jeroglífico",
+      "Lineal B",
+      "Brahmi",
+      "Cuneiforme"
+    ],
+    "correctIndex": 3,
+    "explanation": "La escritura cuneiforme se imprimía con una caña sobre arcilla."
+  },
+  {
+    "id": "cg-4777",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué escritura antigua del valle del Indo sigue sin descifrarse?",
+    "options": [
+      "Escritura del Indo",
+      "Escritura brahmi",
+      "Escritura kharosthi",
+      "Escritura tamil"
+    ],
+    "correctIndex": 0,
+    "explanation": "La escritura del Indo aún no ha sido descifrada."
+  },
+  {
+    "id": "cg-4778",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué escritura minoica anterior al lineal B sigue sin descifrarse?",
+    "options": [
+      "Lineal B",
+      "Lineal A",
+      "Cuneiforme hitita",
+      "Alfabeto fenicio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El lineal A, usado en Creta, permanece sin descifrar."
+  },
+  {
+    "id": "cg-4779",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Quién descifró el lineal B como una forma de griego micénico?",
+    "options": [
+      "Arthur Evans",
+      "Alice Kober",
+      "Michael Ventris",
+      "John Chadwick"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ventris demostró en 1952 que el lineal B transcribía griego micénico."
+  },
+  {
+    "id": "cg-4780",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué estudioso soviético descifró gran parte de la escritura maya en el siglo XX?",
+    "options": [
+      "Diego de Landa",
+      "Eric Thompson",
+      "Michael Coe",
+      "Yuri Knórozov"
+    ],
+    "correctIndex": 3,
+    "explanation": "Knórozov identificó el carácter fonético de la escritura maya."
+  },
+  {
+    "id": "cg-4781",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Quién creó el sistema de lectura táctil con puntos en relieve?",
+    "options": [
+      "Louis Braille",
+      "Valentin Haüy",
+      "Samuel Howe",
+      "Helen Keller"
+    ],
+    "correctIndex": 0,
+    "explanation": "Louis Braille diseñó el sistema de lectura táctil que lleva su nombre."
+  },
+  {
+    "id": "cg-4782",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué sistema andino de cuerdas anudadas servía para registrar información?",
+    "options": [
+      "Códice",
+      "Quipu",
+      "Estela",
+      "Tablilla"
+    ],
+    "correctIndex": 1,
+    "explanation": "El quipu usaba cuerdas y nudos para registrar datos en los Andes."
+  },
+  {
+    "id": "cg-4783",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué escritura de la isla de Pascua permanece sin descifrar?",
+    "options": [
+      "Lineal A",
+      "Escritura del Indo",
+      "Rongorongo",
+      "Nüshu"
+    ],
+    "correctIndex": 2,
+    "explanation": "El rongorongo de Rapa Nui sigue sin descifrarse."
+  },
+  {
+    "id": "cg-4784",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué inscripción del rey persa Darío I facilitó el desciframiento del cuneiforme?",
+    "options": [
+      "Piedra Rosetta",
+      "Código de Hammurabi",
+      "Tablillas de Persépolis",
+      "Inscripción de Behistún"
+    ],
+    "correctIndex": 3,
+    "explanation": "La inscripción de Behistún permitió descifrar el persa antiguo cuneiforme."
+  },
+  {
+    "id": "cg-4785",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es un fonema?",
+    "options": [
+      "La unidad mínima de sonido con valor distintivo",
+      "La unidad mínima con significado",
+      "El conjunto de reglas de una lengua",
+      "Una variante regional del habla"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un fonema distingue significados dentro de una lengua."
+  },
+  {
+    "id": "cg-4786",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es un alófono?",
+    "options": [
+      "Un fonema con significado propio",
+      "Una variante de un fonema según el contexto",
+      "Una lengua sin escritura",
+      "Un tipo de morfema"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los alófonos son realizaciones contextuales de un mismo fonema."
+  },
+  {
+    "id": "cg-4787",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es un morfema?",
+    "options": [
+      "La unidad mínima de sonido",
+      "Una oración simple",
+      "La unidad mínima con significado gramatical o léxico",
+      "Un signo de puntuación"
+    ],
+    "correctIndex": 2,
+    "explanation": "El morfema es la unidad mínima portadora de significado."
+  },
+  {
+    "id": "cg-4788",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué distingue a la derivación de la flexión?",
+    "options": [
+      "La derivación solo afecta al sonido",
+      "La flexión crea palabras nuevas",
+      "No hay diferencia entre ambas",
+      "La derivación crea palabras nuevas y la flexión marca categorías"
+    ],
+    "correctIndex": 3,
+    "explanation": "La derivación forma lexemas nuevos; la flexión añade rasgos gramaticales."
+  },
+  {
+    "id": "cg-4789",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de lengua aglutina morfemas sin fusionarlos, como el turco?",
+    "options": [
+      "Aglutinante",
+      "Fusional",
+      "Aislante",
+      "Polisintética"
+    ],
+    "correctIndex": 0,
+    "explanation": "En las lenguas aglutinantes cada morfema se añade de forma distinguible."
+  },
+  {
+    "id": "cg-4790",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de lengua fusiona varios morfemas en una sola desinencia, como el latín?",
+    "options": [
+      "Aglutinante",
+      "Fusional",
+      "Aislante",
+      "Polisintética"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las lenguas fusionales combinan morfemas en una misma desinencia."
+  },
+  {
+    "id": "cg-4791",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de lengua usa pocos morfemas y recurre al orden de palabras, como el chino mandarín?",
+    "options": [
+      "Fusional",
+      "Aglutinante",
+      "Aislante",
+      "Polisintética"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las lenguas aislantes expresan relaciones mediante el orden y partículas."
+  },
+  {
+    "id": "cg-4792",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de lengua combina muchos morfemas en una sola palabra, como el inuktitut?",
+    "options": [
+      "Aislante",
+      "Fusional",
+      "Analítica",
+      "Polisintética"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las lenguas polisintéticas integran numerosos morfemas en una palabra."
+  },
+  {
+    "id": "cg-4793",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué indica un caso gramatical?",
+    "options": [
+      "La función sintáctica de un sustantivo o pronombre",
+      "El tiempo del verbo",
+      "El número de sílabas",
+      "El origen de la palabra"
+    ],
+    "correctIndex": 0,
+    "explanation": "El caso marca la función de un nombre en la oración."
+  },
+  {
+    "id": "cg-4794",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué caso latino se emplea para dirigirse o invocar a alguien?",
+    "options": [
+      "Nominativo",
+      "Vocativo",
+      "Acusativo",
+      "Ablativo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El vocativo latino sirve para llamar o invocar."
+  },
+  {
+    "id": "cg-4795",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué caso latino marca el sujeto de la oración?",
+    "options": [
+      "Genitivo",
+      "Dativo",
+      "Nominativo",
+      "Acusativo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El nominativo es el caso del sujeto."
+  },
+  {
+    "id": "cg-4796",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué caso latino marca el complemento directo?",
+    "options": [
+      "Nominativo",
+      "Genitivo",
+      "Vocativo",
+      "Acusativo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El acusativo marca el objeto directo."
+  },
+  {
+    "id": "cg-4797",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué caso latino marca la posesión?",
+    "options": [
+      "Genitivo",
+      "Dativo",
+      "Ablativo",
+      "Acusativo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El genitivo expresa posesión o pertenencia."
+  },
+  {
+    "id": "cg-4798",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué caso latino marca el complemento indirecto?",
+    "options": [
+      "Genitivo",
+      "Dativo",
+      "Vocativo",
+      "Nominativo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El dativo marca el objeto indirecto."
+  },
+  {
+    "id": "cg-4799",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué caso latino marca el medio o instrumento?",
+    "options": [
+      "Acusativo",
+      "Dativo",
+      "Ablativo",
+      "Genitivo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El ablativo latino expresa medio, instrumento y otras circunstancias."
+  },
+  {
+    "id": "cg-4800",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué orden sintáctico predomina en el español?",
+    "options": [
+      "Sujeto-objeto-verbo",
+      "Verbo-sujeto-objeto",
+      "Objeto-verbo-sujeto",
+      "Sujeto-verbo-objeto"
+    ],
+    "correctIndex": 3,
+    "explanation": "El español tiende al orden sujeto-verbo-objeto."
+  },
+  {
+    "id": "cg-4801",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué orden sintáctico predomina en el japonés?",
+    "options": [
+      "Sujeto-objeto-verbo",
+      "Sujeto-verbo-objeto",
+      "Verbo-objeto-sujeto",
+      "Objeto-sujeto-verbo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El japonés coloca el verbo al final de la oración."
+  },
+  {
+    "id": "cg-4802",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué caracteriza a una lengua pro-drop?",
+    "options": [
+      "No admite verbos",
+      "Permite omitir el pronombre sujeto",
+      "Carece de casos",
+      "Solo usa una vocal"
+    ],
+    "correctIndex": 1,
+    "explanation": "En las lenguas pro-drop el sujeto puede quedar sobreentendido."
+  },
+  {
+    "id": "cg-4803",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es la ergatividad?",
+    "options": [
+      "El sujeto transitivo se marca como el objeto",
+      "Todos los verbos son impersonales",
+      "El sujeto intransitivo se marca como el objeto transitivo",
+      "No existen pronombres"
+    ],
+    "correctIndex": 2,
+    "explanation": "En las lenguas ergativas, el sujeto intransitivo comparte marca con el objeto."
+  },
+  {
+    "id": "cg-4804",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es un clítico?",
+    "options": [
+      "Una palabra con acento propio",
+      "Un tipo de verbo irregular",
+      "Un alfabeto auxiliar",
+      "Un morfema átono que se apoya en otra palabra"
+    ],
+    "correctIndex": 3,
+    "explanation": "El clítico se pronuncia unido a una palabra anfitriona."
+  },
+  {
+    "id": "cg-4805",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es la supleción?",
+    "options": [
+      "El uso de formas distintas para completar un paradigma, como ir/fui",
+      "La repetición de un sonido",
+      "La pérdida de una vocal",
+      "La unión de dos lenguas"
+    ],
+    "correctIndex": 0,
+    "explanation": "La supleción usa raíces diferentes dentro de un mismo paradigma."
+  },
+  {
+    "id": "cg-4806",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es un calco lingüístico?",
+    "options": [
+      "La copia exacta de un sonido",
+      "La traducción de la estructura de una expresión extranjera",
+      "La invención de un alfabeto",
+      "La supresión de un acento"
+    ],
+    "correctIndex": 1,
+    "explanation": "El calco reproduce con material propio la estructura de otra lengua."
+  },
+  {
+    "id": "cg-4807",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué son los falsos amigos entre dos lenguas?",
+    "options": [
+      "Palabras con el mismo significado",
+      "Palabras de la misma familia",
+      "Palabras parecidas con significados distintos",
+      "Palabras sin traducción"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los falsos amigos se parecen formalmente pero significan cosas distintas."
+  },
+  {
+    "id": "cg-4808",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es la diglosia?",
+    "options": [
+      "El uso exclusivo de una lengua",
+      "La mezcla de alfabetos",
+      "La pérdida de una lengua",
+      "La convivencia de dos variedades con funciones sociales distintas"
+    ],
+    "correctIndex": 3,
+    "explanation": "La diglosia distribuye dos variedades en ámbitos sociales diferentes."
+  },
+  {
+    "id": "cg-4809",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es el cambio de código?",
+    "options": [
+      "Alternar dos lenguas en un mismo discurso",
+      "Cambiar de alfabeto al escribir",
+      "Traducir un texto palabra por palabra",
+      "Crear una lengua artificial"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cambio de código alterna lenguas dentro de una conversación."
+  },
+  {
+    "id": "cg-4810",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es una isoglosa?",
+    "options": [
+      "Una regla de acentuación",
+      "Una línea que separa rasgos dialectales",
+      "Un tipo de morfema",
+      "Una escritura antigua"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las isoglosas delimitan la extensión de un rasgo lingüístico."
+  },
+  {
+    "id": "cg-4811",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es un sociolecto?",
+    "options": [
+      "El habla individual de una persona",
+      "Una lengua sin hablantes",
+      "Una variedad lingüística ligada a un grupo social",
+      "Un alfabeto regional"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sociolecto refleja la pertenencia a un grupo social."
+  },
+  {
+    "id": "cg-4812",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es un idiolecto?",
+    "options": [
+      "La lengua de un Estado",
+      "Un dialecto rural",
+      "Un sistema de escritura",
+      "El modo de hablar propio de una persona"
+    ],
+    "correctIndex": 3,
+    "explanation": "El idiolecto es la variedad individual de cada hablante."
+  },
+  {
+    "id": "cg-4813",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es la deixis?",
+    "options": [
+      "La referencia a personas, tiempo o lugar desde el acto de habla",
+      "La formación de palabras nuevas",
+      "El estudio de los sonidos",
+      "La escritura de números"
+    ],
+    "correctIndex": 0,
+    "explanation": "La deixis señala elementos según el contexto comunicativo."
+  },
+  {
+    "id": "cg-4814",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es una implicatura conversacional?",
+    "options": [
+      "Una regla ortográfica obligatoria",
+      "Una inferencia que el oyente deduce del contexto",
+      "Un tipo de préstamo léxico",
+      "Una lengua de señas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las implicaturas se deducen de lo dicho y del principio de cooperación."
+  },
+  {
+    "id": "cg-4815",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué alfabeto se usa internacionalmente para transcribir sonidos del habla?",
+    "options": [
+      "Alfabeto Latino Universal",
+      "Alfabeto Cirílico Fonético",
+      "Alfabeto Fonético Internacional",
+      "Alfabeto Griego Moderno"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Alfabeto Fonético Internacional representa sonidos de forma estandarizada."
+  },
+  {
+    "id": "cg-4816",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué órgano se cierra en una oclusiva glotal?",
+    "options": [
+      "Los labios",
+      "El velo del paladar",
+      "La lengua",
+      "La glotis"
+    ],
+    "correctIndex": 3,
+    "explanation": "La oclusiva glotal se produce cerrando la glotis."
+  },
+  {
+    "id": "cg-4817",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué consonantes se articulan con ambos labios?",
+    "options": [
+      "Bilabiales",
+      "Alveolares",
+      "Velares",
+      "Glotales"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las bilabiales se producen con los dos labios."
+  },
+  {
+    "id": "cg-4818",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué consonantes se articulan con la lengua contra los alvéolos?",
+    "options": [
+      "Bilabiales",
+      "Alveolares",
+      "Velares",
+      "Uvulares"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las alveolares se articulan en los alvéolos dentales."
+  },
+  {
+    "id": "cg-4819",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué consonantes se articulan con el dorso de la lengua contra el velo del paladar?",
+    "options": [
+      "Labiodentales",
+      "Dentales",
+      "Velares",
+      "Faringales"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las velares se articulan en la zona del velo del paladar."
+  },
+  {
+    "id": "cg-4820",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué rasgo fonético distingue /p/ de /b/?",
+    "options": [
+      "La nasalidad",
+      "La longitud",
+      "El tono",
+      "La sonoridad"
+    ],
+    "correctIndex": 3,
+    "explanation": "/b/ es sonora y /p/ sorda; la diferencia principal es la sonoridad."
+  },
+  {
+    "id": "cg-4821",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué rasgo fonético distingue /t/ de /d/?",
+    "options": [
+      "La sonoridad",
+      "La aspiración",
+      "La labialización",
+      "El acento"
+    ],
+    "correctIndex": 0,
+    "explanation": "/d/ es sonora y /t/ sorda."
+  },
+  {
+    "id": "cg-4822",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es una vocal nasal?",
+    "options": [
+      "Una vocal sin sonido",
+      "Una vocal pronunciada con aire en la cavidad nasal",
+      "Una vocal escrita con tilde",
+      "Una vocal de una sola sílaba"
+    ],
+    "correctIndex": 1,
+    "explanation": "En las vocales nasales el aire sale también por la nariz."
+  },
+  {
+    "id": "cg-4823",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es el acento prosódico?",
+    "options": [
+      "La marca escrita sobre una letra",
+      "La pausa entre oraciones",
+      "El relieve con que se pronuncia una sílaba",
+      "El cambio de alfabeto"
+    ],
+    "correctIndex": 2,
+    "explanation": "El acento prosódico destaca una sílaba en la pronunciación."
+  },
+  {
+    "id": "cg-4824",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es el tono en una lengua tonal?",
+    "options": [
+      "La duración de las consonantes",
+      "El volumen de la voz",
+      "El orden de las palabras",
+      "La variación de altura que distingue significados"
+    ],
+    "correctIndex": 3,
+    "explanation": "En las lenguas tonales la altura del tono puede cambiar el significado."
+  },
+  {
+    "id": "cg-4825",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué lengua usa tonos para distinguir palabras como ma con distintos significados?",
+    "options": [
+      "Chino mandarín",
+      "Japonés",
+      "Coreano",
+      "Turco"
+    ],
+    "correctIndex": 0,
+    "explanation": "El chino mandarín tiene cuatro tonos léxicos principales."
+  },
+  {
+    "id": "cg-4826",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es la armonía vocálica?",
+    "options": [
+      "La eliminación de todas las vocales",
+      "La tendencia de las vocales de una palabra a compartir rasgos",
+      "La separación de vocales en sílabas",
+      "El uso de solo vocales abiertas"
+    ],
+    "correctIndex": 1,
+    "explanation": "La armonía vocálica hace que los sufijos se ajusten a la vocal de la raíz."
+  },
+  {
+    "id": "cg-4827",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué lengua del sur de África es conocida por sus chasquidos consonánticos?",
+    "options": [
+      "Suajili",
+      "Hausa",
+      "Xhosa",
+      "Amárico"
+    ],
+    "correctIndex": 2,
+    "explanation": "El xhosa emplea chasquidos como fonemas consonánticos."
+  },
+  {
+    "id": "cg-4828",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué es la aspiración en fonética?",
+    "options": [
+      "La nasalización de una vocal",
+      "El alargamiento de una sílaba",
+      "La pérdida de un fonema",
+      "Una bocanada de aire que acompaña a una consonante"
+    ],
+    "correctIndex": 3,
+    "explanation": "La aspiración añade una pequeña explosión de aire tras la consonante."
+  },
+  {
+    "id": "cg-4829",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué lingüista suizo fundó el estructuralismo y distinguió significante y significado?",
+    "options": [
+      "Ferdinand de Saussure",
+      "Noam Chomsky",
+      "Leonard Bloomfield",
+      "Roman Jakobson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Saussure concibió el signo lingüístico como unión de significante y significado."
+  },
+  {
+    "id": "cg-4830",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué lingüista estadounidense propuso la gramática generativa?",
+    "options": [
+      "Edward Sapir",
+      "Noam Chomsky",
+      "William Labov",
+      "Michael Halliday"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chomsky impulsó la gramática generativa en la segunda mitad del siglo XX."
+  },
+  {
+    "id": "cg-4831",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué lingüista estadounidense lideró el estructuralismo y escribió Language en 1933?",
+    "options": [
+      "Benjamin Lee Whorf",
+      "Charles Fillmore",
+      "Leonard Bloomfield",
+      "Zellig Harris"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bloomfield publicó Language en 1933 y consolidó el estructuralismo estadounidense."
+  },
+  {
+    "id": "cg-4832",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué hipótesis asocian Edward Sapir y Benjamin Lee Whorf?",
+    "options": [
+      "La gramática universal",
+      "La ley de Grimm",
+      "La teoría de los actos de habla",
+      "La relatividad lingüística"
+    ],
+    "correctIndex": 3,
+    "explanation": "La hipótesis Sapir-Whorf relaciona lengua y pensamiento."
+  },
+  {
+    "id": "cg-4833",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué sociolingüista estudió la variación de /r/ en Nueva York?",
+    "options": [
+      "William Labov",
+      "Dell Hymes",
+      "Peter Trudgill",
+      "Basil Bernstein"
+    ],
+    "correctIndex": 0,
+    "explanation": "Labov analizó la estratificación social de la pronunciación neoyorquina."
+  },
+  {
+    "id": "cg-4834",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué lingüista ruso describió seis funciones del lenguaje?",
+    "options": [
+      "Nikolai Trubetzkoy",
+      "Roman Jakobson",
+      "Mikhail Bakhtin",
+      "Lev Vygotski"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jakobson formuló un modelo con seis funciones comunicativas."
+  },
+  {
+    "id": "cg-4835",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué lingüista ruso fundó la fonología estructural y estudió los rasgos distintivos?",
+    "options": [
+      "Roman Jakobson",
+      "Viktor Vinogradov",
+      "Nikolai Trubetzkoy",
+      "André Martinet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trubetzkoy desarrolló la fonología como ciencia de los rasgos distintivos."
+  },
+  {
+    "id": "cg-4836",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué gramático de la India antigua escribió una descripción del sánscrito?",
+    "options": [
+      "Kalidasa",
+      "Patanjali",
+      "Bhartrihari",
+      "Panini"
+    ],
+    "correctIndex": 3,
+    "explanation": "Panini compuso el Ashtadhyayi, gramática del sánscrito."
+  },
+  {
+    "id": "cg-4837",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué lingüista estadounidense formuló universales y clasificó las lenguas por orden de palabras?",
+    "options": [
+      "Joseph Greenberg",
+      "Edward Sapir",
+      "Kenneth Pike",
+      "Charles Hockett"
+    ],
+    "correctIndex": 0,
+    "explanation": "Greenberg estudió los universales lingüísticos y la tipología."
+  },
+  {
+    "id": "cg-4838",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué antropólogo lingüista propuso el concepto de competencia comunicativa?",
+    "options": [
+      "Noam Chomsky",
+      "Dell Hymes",
+      "William Labov",
+      "John Gumperz"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hymes amplió la competencia lingüística con la competencia comunicativa."
+  },
+  {
+    "id": "cg-4839",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿Qué lingüista estadounidense desarrolló la teoría de la metáfora conceptual?",
+    "options": [
+      "Ray Jackendoff",
+      "Steven Pinker",
+      "George Lakoff",
+      "Ronald Langacker"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lakoff estudió la metáfora como fenómeno cognitivo."
+  },
+  {
+    "id": "cg-4840",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿De qué lengua proviene la palabra española álgebra?",
+    "options": [
+      "Griego",
+      "Latín",
+      "Persa",
+      "Árabe"
+    ],
+    "correctIndex": 3,
+    "explanation": "Álgebra procede del árabe al-yabr."
+  },
+  {
+    "id": "cg-4841",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿De qué lengua indígena proviene la palabra chocolate?",
+    "options": [
+      "Náhuatl",
+      "Quechua",
+      "Taíno",
+      "Guaraní"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chocolate procede del náhuatl chocolatl."
+  },
+  {
+    "id": "cg-4842",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿De qué lengua caribeña proviene la palabra huracán?",
+    "options": [
+      "Náhuatl",
+      "Taíno",
+      "Maya",
+      "Quechua"
+    ],
+    "correctIndex": 1,
+    "explanation": "Huracán procede del taíno hurakán."
+  },
+  {
+    "id": "cg-4843",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿De qué lengua andina proviene la palabra papa, nombre del tubérculo?",
+    "options": [
+      "Aimara",
+      "Mapuche",
+      "Quechua",
+      "Guaraní"
+    ],
+    "correctIndex": 2,
+    "explanation": "Papa procede del quechua papa."
+  },
+  {
+    "id": "cg-4844",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿De qué lengua indígena proviene la palabra jaguar, difundida por el portugués?",
+    "options": [
+      "Quechua",
+      "Náhuatl",
+      "Taíno",
+      "Guaraní"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jaguar llegó al español a través del portugués y procede del guaraní."
+  },
+  {
+    "id": "cg-4845",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿De qué lengua se tomó al español la palabra piano?",
+    "options": [
+      "Italiano",
+      "Francés",
+      "Alemán",
+      "Latín"
+    ],
+    "correctIndex": 0,
+    "explanation": "Piano es un préstamo del italiano."
+  },
+  {
+    "id": "cg-4846",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿De qué lengua se tomó al español la palabra jardín?",
+    "options": [
+      "Italiano",
+      "Francés",
+      "Árabe",
+      "Alemán"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jardín procede del francés jardin."
+  },
+  {
+    "id": "cg-4847",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿De qué lengua proceden las raíces de la palabra teléfono?",
+    "options": [
+      "Latín",
+      "Inglés",
+      "Griego",
+      "Francés"
+    ],
+    "correctIndex": 2,
+    "explanation": "Teléfono se formó con las raíces griegas tele y phone."
+  },
+  {
+    "id": "cg-4848",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "medium",
+    "question": "¿De qué lengua proviene la palabra fútbol?",
+    "options": [
+      "Francés",
+      "Italiano",
+      "Alemán",
+      "Inglés"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fútbol es un préstamo del inglés football."
+  },
+  {
+    "id": "cg-4849",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué ley fonética explica las excepciones a la ley de Grimm por el acento protoindoeuropeo?",
+    "options": [
+      "Ley de Verner",
+      "Ley de Grassmann",
+      "Ley de Bartholomae",
+      "Ley de Sievers"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ley de Verner explica la sonorización de fricativas según la posición del acento."
+  },
+  {
+    "id": "cg-4850",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué cambio consonántico diferencia al alto alemán de las demás lenguas germánicas?",
+    "options": [
+      "Primera mutación consonántica",
+      "Segunda mutación consonántica",
+      "Gran desplazamiento vocálico",
+      "Ley de Verner"
+    ],
+    "correctIndex": 1,
+    "explanation": "La segunda mutación consonántica afectó al alto alemán y lo separó del resto del germánico."
+  },
+  {
+    "id": "cg-4851",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué teoría reconstruye consonantes laríngeas en protoindoeuropeo?",
+    "options": [
+      "Teoría de las glotales",
+      "Teoría de la armonía",
+      "Teoría de las laríngeas",
+      "Teoría del sustrato"
+    ],
+    "correctIndex": 2,
+    "explanation": "La teoría de las laríngeas postula consonantes perdidas en las lenguas hijas."
+  },
+  {
+    "id": "cg-4852",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué hipótesis macrofamiliar agrupa el indoeuropeo, el urálico y el altaico, entre otras?",
+    "options": [
+      "Dené-caucásica",
+      "Austro-tai",
+      "Amerindia",
+      "Nostrática"
+    ],
+    "correctIndex": 3,
+    "explanation": "La hipótesis nostrática propone un ancestro común para varias macrofamilias euroasiáticas."
+  },
+  {
+    "id": "cg-4853",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué hipótesis agrupa lenguas como el turco, el mongol y el tungús y es rechazada por muchos lingüistas?",
+    "options": [
+      "Hipótesis altaica",
+      "Hipótesis urálica",
+      "Hipótesis nostrática",
+      "Hipótesis sino-tibetana"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hipótesis altaica agrupa las ramas túrquica, mongólica y tungúsica."
+  },
+  {
+    "id": "cg-4854",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia del Cáucaso incluye el georgiano, el mingreliano y el svano?",
+    "options": [
+      "Naj-daguestaní",
+      "Kartveliana",
+      "Abjaso-circasiana",
+      "Túrquica"
+    ],
+    "correctIndex": 1,
+    "explanation": "El georgiano, el mingreliano y el svano forman la familia kartveliana."
+  },
+  {
+    "id": "cg-4855",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia del Cáucaso noroccidental incluye el abjasio y el circasiano?",
+    "options": [
+      "Kartveliana",
+      "Naj-daguestaní",
+      "Abjaso-circasiana",
+      "Indoirania"
+    ],
+    "correctIndex": 2,
+    "explanation": "El abjasio y el circasiano pertenecen a la familia abjaso-circasiana."
+  },
+  {
+    "id": "cg-4856",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia del Cáucaso nororiental incluye el checheno y el avar?",
+    "options": [
+      "Kartveliana",
+      "Abjaso-circasiana",
+      "Armenia",
+      "Naj-daguestaní"
+    ],
+    "correctIndex": 3,
+    "explanation": "El checheno y el avar forman parte de la familia naj-daguestaní."
+  },
+  {
+    "id": "cg-4857",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué lengua del norte de España es considerada un aislado sin parientes conocidos?",
+    "options": [
+      "Euskera",
+      "Asturiano",
+      "Aragonés",
+      "Gallego"
+    ],
+    "correctIndex": 0,
+    "explanation": "El euskera es una lengua aislada, sin parentesco demostrado."
+  },
+  {
+    "id": "cg-4858",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué lengua del norte de Japón, hablada en Hokkaido, se considera un aislado?",
+    "options": [
+      "Ryukyuense",
+      "Ainu",
+      "Japonés antiguo",
+      "Coreano"
+    ],
+    "correctIndex": 1,
+    "explanation": "El ainu de Hokkaido se considera una lengua aislada."
+  },
+  {
+    "id": "cg-4859",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué lengua aislada se habla en valles del norte de Pakistán?",
+    "options": [
+      "Balti",
+      "Shina",
+      "Burushaski",
+      "Khowar"
+    ],
+    "correctIndex": 2,
+    "explanation": "El burushaski es una lengua aislada del norte de Pakistán."
+  },
+  {
+    "id": "cg-4860",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué lengua aislada de la antigua Mesopotamia se escribió en cuneiforme?",
+    "options": [
+      "Acadio",
+      "Elamita",
+      "Hurrita",
+      "Sumerio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El sumerio es una lengua aislada documentada en cuneiforme."
+  },
+  {
+    "id": "cg-4861",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué lengua prerromana de Italia, no indoeuropea, se conoce por inscripciones y textos rituales?",
+    "options": [
+      "Etrusco",
+      "Osco",
+      "Umbro",
+      "Falisco"
+    ],
+    "correctIndex": 0,
+    "explanation": "El etrusco no es indoeuropeo y se documenta en inscripciones de Italia."
+  },
+  {
+    "id": "cg-4862",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué rama urálica incluye el finés y el estonio?",
+    "options": [
+      "Ugria",
+      "Báltico-finlandesa",
+      "Samoyeda",
+      "Pérmica"
+    ],
+    "correctIndex": 1,
+    "explanation": "El finés y el estonio pertenecen a la rama báltico-finlandesa."
+  },
+  {
+    "id": "cg-4863",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué rama urálica incluye el húngaro?",
+    "options": [
+      "Báltico-finlandesa",
+      "Volgaica",
+      "Ugria",
+      "Samoyeda"
+    ],
+    "correctIndex": 2,
+    "explanation": "El húngaro es una lengua ugria de la familia urálica."
+  },
+  {
+    "id": "cg-4864",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia lingüística incluye el vietnamita y el jemer?",
+    "options": [
+      "Tai-kadai",
+      "Austronesia",
+      "Sino-tibetana",
+      "Austroasiática"
+    ],
+    "correctIndex": 3,
+    "explanation": "El vietnamita y el jemer pertenecen a la familia austroasiática."
+  },
+  {
+    "id": "cg-4865",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia incluye el tailandés y el lao?",
+    "options": [
+      "Tai-kadai",
+      "Austroasiática",
+      "Austronesia",
+      "Sino-tibetana"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tailandés y el lao son lenguas tai-kadai."
+  },
+  {
+    "id": "cg-4866",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia incluye el hmong y el mien?",
+    "options": [
+      "Tai-kadai",
+      "Hmong-mien",
+      "Austroasiática",
+      "Tibeto-birmana"
+    ],
+    "correctIndex": 1,
+    "explanation": "El hmong y el mien forman la familia hmong-mien."
+  },
+  {
+    "id": "cg-4867",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia incluye el tamil, el telugu y el malayalam?",
+    "options": [
+      "Indoaria",
+      "Munda",
+      "Drávida",
+      "Austroasiática"
+    ],
+    "correctIndex": 2,
+    "explanation": "El tamil, el telugu y el malayalam son lenguas drávidas."
+  },
+  {
+    "id": "cg-4868",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia norteamericana incluye el navajo y las lenguas apaches?",
+    "options": [
+      "Utoazteca",
+      "Algonquina",
+      "Sioux",
+      "Na-dené"
+    ],
+    "correctIndex": 3,
+    "explanation": "El navajo y las lenguas apaches pertenecen a la familia na-dené."
+  },
+  {
+    "id": "cg-4869",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia incluye el náhuatl, el hopi y el comanche?",
+    "options": [
+      "Utoazteca",
+      "Maya",
+      "Otomangue",
+      "Na-dené"
+    ],
+    "correctIndex": 0,
+    "explanation": "El náhuatl, el hopi y el comanche son lenguas utoaztecas."
+  },
+  {
+    "id": "cg-4870",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia andina incluye el aimara y el jaqaru?",
+    "options": [
+      "Quechua",
+      "Aimara",
+      "Tupí",
+      "Pano"
+    ],
+    "correctIndex": 1,
+    "explanation": "El aimara y el jaqaru forman la familia aimara."
+  },
+  {
+    "id": "cg-4871",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia sudamericana incluye el guaraní y el tupinambá?",
+    "options": [
+      "Arawak",
+      "Caribe",
+      "Tupí",
+      "Quechua"
+    ],
+    "correctIndex": 2,
+    "explanation": "El guaraní y el tupinambá pertenecen a la familia tupí."
+  },
+  {
+    "id": "cg-4872",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia mesoamericana incluye el maya yucateco y el k'iche'?",
+    "options": [
+      "Utoazteca",
+      "Otomangue",
+      "Mixe-zoque",
+      "Maya"
+    ],
+    "correctIndex": 3,
+    "explanation": "El maya yucateco y el k'iche' son lenguas mayas."
+  },
+  {
+    "id": "cg-4873",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué macrofamilia africana incluye el suajili y el zulú?",
+    "options": [
+      "Nigerocongolesa",
+      "Nilosahariana",
+      "Afroasiática",
+      "Khoisán"
+    ],
+    "correctIndex": 0,
+    "explanation": "El suajili y el zulú son lenguas nigerocongolesas."
+  },
+  {
+    "id": "cg-4874",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué rama de la familia nigerocongolesa incluye el suajili y el zulú?",
+    "options": [
+      "Mande",
+      "Bantú",
+      "Gur",
+      "Kwa"
+    ],
+    "correctIndex": 1,
+    "explanation": "El suajili y el zulú pertenecen a la rama bantú."
+  },
+  {
+    "id": "cg-4875",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia del noreste de África incluye el somalí y el oromo?",
+    "options": [
+      "Semítica",
+      "Chádica",
+      "Cushítica",
+      "Bereber"
+    ],
+    "correctIndex": 2,
+    "explanation": "El somalí y el oromo son lenguas cushíticas."
+  },
+  {
+    "id": "cg-4876",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia incluye el hausa?",
+    "options": [
+      "Cushítica",
+      "Semítica",
+      "Nilosahariana",
+      "Chádica"
+    ],
+    "correctIndex": 3,
+    "explanation": "El hausa pertenece a la rama chádica de las lenguas afroasiáticas."
+  },
+  {
+    "id": "cg-4877",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué rama semítica incluye el amárico y el tigriña?",
+    "options": [
+      "Etiópica",
+      "Árabe",
+      "Aramea",
+      "Cananea"
+    ],
+    "correctIndex": 0,
+    "explanation": "El amárico y el tigriña son lenguas semíticas etiópicas."
+  },
+  {
+    "id": "cg-4878",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia incluye el árabe, el hebreo, el bereber y el antiguo egipcio?",
+    "options": [
+      "Nigerocongolesa",
+      "Afroasiática",
+      "Nilosahariana",
+      "Indoeuropea"
+    ],
+    "correctIndex": 1,
+    "explanation": "Todas esas lenguas pertenecen a la familia afroasiática."
+  },
+  {
+    "id": "cg-4879",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué escritura tradicional usan los tuaregs para el bereber?",
+    "options": [
+      "Ge'ez",
+      "Nubio antiguo",
+      "Tifinagh",
+      "Copto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los tuaregs emplean la escritura tifinagh para el bereber."
+  },
+  {
+    "id": "cg-4880",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué rama túrquica incluye el turco y el azerbaiyano?",
+    "options": [
+      "Kipchak",
+      "Karluk",
+      "Siberiana",
+      "Oghuz"
+    ],
+    "correctIndex": 3,
+    "explanation": "El turco y el azerbaiyano son lenguas túrquicas oghuz."
+  },
+  {
+    "id": "cg-4881",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia incluye el mongol, el buriato y el kalmyk?",
+    "options": [
+      "Mongólica",
+      "Tungúsica",
+      "Túrquica",
+      "Sino-tibetana"
+    ],
+    "correctIndex": 0,
+    "explanation": "El mongol, el buriato y el kalmyk son lenguas mongólicas."
+  },
+  {
+    "id": "cg-4882",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia incluye el manchú y el evenki?",
+    "options": [
+      "Mongólica",
+      "Tungúsica",
+      "Túrquica",
+      "Yukaguir"
+    ],
+    "correctIndex": 1,
+    "explanation": "El manchú y el evenki pertenecen a la familia tungúsica."
+  },
+  {
+    "id": "cg-4883",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia incluye el inuktitut, el yupik y el aleutiano?",
+    "options": [
+      "Na-dené",
+      "Algonquina",
+      "Esquimo-aleutiana",
+      "Chukotko-kamchatkiana"
+    ],
+    "correctIndex": 2,
+    "explanation": "El inuktitut, el yupik y el aleutiano forman la familia esquimo-aleutiana."
+  },
+  {
+    "id": "cg-4884",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia siberiana incluye el ket?",
+    "options": [
+      "Yukaguir",
+      "Nivj",
+      "Chukotko-kamchatkiana",
+      "Yeniseica"
+    ],
+    "correctIndex": 3,
+    "explanation": "El ket es la única lengua viva de la familia yeniseica."
+  },
+  {
+    "id": "cg-4885",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué rama de las lenguas sino-tibetanas incluye el tibetano y el birmano?",
+    "options": [
+      "Tibeto-birmana",
+      "Sinítica",
+      "Tai-kadai",
+      "Hmong-mien"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tibetano y el birmano pertenecen a la rama tibeto-birmana."
+  },
+  {
+    "id": "cg-4886",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué familia de lenguas papúes agrupa más lenguas, cientos en total?",
+    "options": [
+      "Pama-ñungana",
+      "Trans-neoguineana",
+      "Austronesia",
+      "Sepik-ramu"
+    ],
+    "correctIndex": 1,
+    "explanation": "La familia trans-neoguineana es la mayor agrupación de lenguas papúes."
+  },
+  {
+    "id": "cg-4887",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué estudioso británico descifró la escritura cuneiforme persa a partir de la inscripción de Behistún?",
+    "options": [
+      "Georg Grotefend",
+      "Jean-François Champollion",
+      "Henry Rawlinson",
+      "Michael Ventris"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rawlinson copió y descifró la inscripción de Behistún."
+  },
+  {
+    "id": "cg-4888",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué alfabeto semítico de la antigua Ugarit es uno de los primeros alfabetos consonánticos completos?",
+    "options": [
+      "Fenicio",
+      "Arameo",
+      "Púnico",
+      "Ugarítico"
+    ],
+    "correctIndex": 3,
+    "explanation": "El alfabeto ugarítico representa consonantes con unos treinta signos."
+  },
+  {
+    "id": "cg-4889",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el estilo de escritura que alterna líneas de derecha a izquierda y de izquierda a derecha?",
+    "options": [
+      "Bustrofedón",
+      "Cuneiforme",
+      "Uncial",
+      "Capitular"
+    ],
+    "correctIndex": 0,
+    "explanation": "El bustrofedón cambia de dirección en cada línea, como un surco de buey."
+  },
+  {
+    "id": "cg-4890",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué escritura de la Edad del Bronce en Chipre sigue sin descifrarse?",
+    "options": [
+      "Lineal B",
+      "Chipro-minoica",
+      "Silabario chipriota",
+      "Alfabeto fenicio"
+    ],
+    "correctIndex": 1,
+    "explanation": "La escritura chipro-minoica aún no ha sido descifrada."
+  },
+  {
+    "id": "cg-4891",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué escritura india antigua sirvió de base a la devanagari y fue descifrada en el siglo XIX?",
+    "options": [
+      "Kharosthi",
+      "Cuneiforme",
+      "Brahmi",
+      "Arameo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La brahmi es el antecedente de la escritura devanagari."
+  },
+  {
+    "id": "cg-4892",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué gramático indio describió el sánscrito en el Ashtadhyayi?",
+    "options": [
+      "Patanjali",
+      "Katyayana",
+      "Bhartrihari",
+      "Panini"
+    ],
+    "correctIndex": 3,
+    "explanation": "Panini es el autor del Ashtadhyayi, gramática del sánscrito."
+  },
+  {
+    "id": "cg-4893",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué escritura de Etiopía se usa para el amárico y el tigriña?",
+    "options": [
+      "Ge'ez",
+      "Tifinagh",
+      "Copto",
+      "Meroítica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La escritura ge'ez sirve para escribir amárico y tigriña."
+  },
+  {
+    "id": "cg-4894",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué escritura antigua de Nubia deriva de los jeroglíficos egipcios?",
+    "options": [
+      "Copta",
+      "Meroítica",
+      "Ge'ez",
+      "Cuneiforme"
+    ],
+    "correctIndex": 1,
+    "explanation": "La escritura meroítica se usó en el reino de Kush."
+  },
+  {
+    "id": "cg-4895",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué escritura china, usada en Hunan, era exclusiva de mujeres?",
+    "options": [
+      "Chữ nôm",
+      "Sawndip",
+      "Nüshu",
+      "Bopomofo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El nüshu era un sistema de escritura empleado por mujeres en Hunan."
+  },
+  {
+    "id": "cg-4896",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué escritura vietnamita basada en caracteres chinos se usó hasta el siglo XX?",
+    "options": [
+      "Hangul",
+      "Hanja",
+      "Bopomofo",
+      "Chữ nôm"
+    ],
+    "correctIndex": 3,
+    "explanation": "El chữ nôm adaptó caracteres chinos para escribir vietnamita."
+  },
+  {
+    "id": "cg-4897",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué distinción de Saussure separa el sistema social de la lengua del uso individual?",
+    "options": [
+      "Lengua y habla",
+      "Significante y significado",
+      "Sincronía y diacronía",
+      "Competencia y actuación"
+    ],
+    "correctIndex": 0,
+    "explanation": "Saussure distinguió la langue, sistema social, de la parole, uso individual."
+  },
+  {
+    "id": "cg-4898",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué función del lenguaje, según Jakobson, se centra en el destinatario y busca influir en él?",
+    "options": [
+      "Referencial",
+      "Apelativa",
+      "Emotiva",
+      "Metalingüística"
+    ],
+    "correctIndex": 1,
+    "explanation": "La función apelativa o conativa orienta el mensaje hacia el receptor."
+  },
+  {
+    "id": "cg-4899",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué máxima de Grice exige aportar la cantidad de información necesaria, ni más ni menos?",
+    "options": [
+      "Máxima de calidad",
+      "Máxima de relación",
+      "Máxima de cantidad",
+      "Máxima de manera"
+    ],
+    "correctIndex": 2,
+    "explanation": "La máxima de cantidad regula la información aportada en la conversación."
+  },
+  {
+    "id": "cg-4900",
+    "category": "general",
+    "topic": "linguistics",
+    "difficulty": "hard",
+    "question": "¿Qué filósofo británico formuló la teoría de los actos de habla en Cómo hacer cosas con palabras?",
+    "options": [
+      "John Searle",
+      "Paul Grice",
+      "Ludwig Wittgenstein",
+      "John Austin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Austin desarrolló la teoría de los actos de habla en esa obra."
+  }
+]

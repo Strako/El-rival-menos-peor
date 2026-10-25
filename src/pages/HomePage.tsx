@@ -355,7 +355,7 @@ export function HomePage() {
 
         <footer className="mt-10 flex flex-wrap items-center justify-between gap-2 border-t border-white/5 pt-5 text-[10px] text-white/20">
           <span>El rival menos peor</span>
-          <span>1.050 preguntas · 3 categorías · 2 modos</span>
+          <span>6.050 preguntas · 3 categorías · 3 modos</span>
         </footer>
       </main>
     </div>
