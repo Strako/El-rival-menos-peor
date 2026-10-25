@@ -17,7 +17,12 @@ export function LobbyView({
 }: {
   state: RoomState;
   busy: boolean;
-  onUpdate: (mode: GameMode, rounds: number) => Promise<void>;
+  onUpdate: (
+    mode: GameMode,
+    rounds: number,
+    itemsEnabled: boolean,
+    multipleItemsEnabled: boolean,
+  ) => Promise<void>;
   onStart: () => Promise<void>;
   onCopy: (text: string, label: string) => void;
   onNotify: (message: string, tone?: 'error' | 'success' | 'info') => void;
@@ -26,6 +31,10 @@ export function LobbyView({
 }) {
   const [mode, setMode] = useState<GameMode>(state.room.mode);
   const [rounds, setRounds] = useState(state.room.maxRounds);
+  const [itemsEnabled, setItemsEnabled] = useState(state.room.itemsEnabled);
+  const [multipleItemsEnabled, setMultipleItemsEnabled] = useState(
+    state.room.multipleItemsEnabled,
+  );
   const isHost = state.me.isHost;
   const playerCount = state.room.playerCount;
   const minPlayers = mode === 'elimination' ? 3 : 2;
@@ -33,12 +42,19 @@ export function LobbyView({
   useEffect(() => {
     setMode(state.room.mode);
     setRounds(state.room.maxRounds);
-  }, [state.room.mode, state.room.maxRounds]);
+    setItemsEnabled(state.room.itemsEnabled);
+    setMultipleItemsEnabled(state.room.multipleItemsEnabled);
+  }, [
+    state.room.mode,
+    state.room.maxRounds,
+    state.room.itemsEnabled,
+    state.room.multipleItemsEnabled,
+  ]);
 
   const changeMode = (next: GameMode) => {
     if (!isHost || busy || next === mode) return;
     setMode(next);
-    void onUpdate(next, rounds);
+    void onUpdate(next, rounds, itemsEnabled, multipleItemsEnabled);
   };
 
   const changeRounds = (next: number) => {
@@ -46,7 +62,21 @@ export function LobbyView({
     const clamped = Math.min(30, Math.max(1, next));
     if (clamped === rounds) return;
     setRounds(clamped);
-    void onUpdate(mode, clamped);
+    void onUpdate(mode, clamped, itemsEnabled, multipleItemsEnabled);
+  };
+
+  const changeItems = (next: boolean) => {
+    if (!isHost || busy) return;
+    const nextMultiple = next ? multipleItemsEnabled : false;
+    setItemsEnabled(next);
+    setMultipleItemsEnabled(nextMultiple);
+    void onUpdate(mode, rounds, next, nextMultiple);
+  };
+
+  const changeMultipleItems = (next: boolean) => {
+    if (!isHost || busy || !itemsEnabled) return;
+    setMultipleItemsEnabled(next);
+    void onUpdate(mode, rounds, itemsEnabled, next);
   };
 
   return (
@@ -265,6 +295,44 @@ export function LobbyView({
               </p>
             </div>
 
+            <div className="mt-5 rounded-2xl border border-white/10 bg-white/[0.025] p-4">
+              <label className="flex cursor-pointer items-start gap-3">
+                <input
+                  type="checkbox"
+                  checked={itemsEnabled}
+                  onChange={(event) => changeItems(event.target.checked)}
+                  disabled={busy}
+                  className="mt-0.5 h-4 w-4 shrink-0 accent-gold-400"
+                />
+                <span>
+                  <span className="block text-sm font-semibold text-white">Habilitar items</span>
+                  <span className="mt-0.5 block text-[11px] leading-relaxed text-white/35">
+                    Los ítems aparecen durante la partida.
+                  </span>
+                </span>
+              </label>
+
+              {itemsEnabled && (
+                <label className="mt-3 flex cursor-pointer items-start gap-3 border-t border-white/[0.06] pt-3">
+                  <input
+                    type="checkbox"
+                    checked={multipleItemsEnabled}
+                    onChange={(event) => changeMultipleItems(event.target.checked)}
+                    disabled={busy}
+                    className="mt-0.5 h-4 w-4 shrink-0 accent-gold-400"
+                  />
+                  <span>
+                    <span className="block text-sm font-semibold text-white">
+                      Habilitar items múltiples
+                    </span>
+                    <span className="mt-0.5 block text-[11px] leading-relaxed text-white/35">
+                      Hasta 3 acumulados; el cuarto borra todos.
+                    </span>
+                  </span>
+                </label>
+              )}
+            </div>
+
             <div className="mt-6">
               <Button
                 fullWidth
@@ -328,6 +396,16 @@ export function LobbyView({
               <div className="flex justify-between">
                 <span className="text-white/40">Jugadores</span>
                 <span className="font-semibold text-white">{playerCount}</span>
+              </div>
+              <div className="flex justify-between">
+                <span className="text-white/40">Ítems</span>
+                <span className="font-semibold text-white">
+                  {state.room.itemsEnabled
+                    ? state.room.multipleItemsEnabled
+                      ? 'Múltiples'
+                      : 'Sí'
+                    : 'No'}
+                </span>
               </div>
             </div>
 

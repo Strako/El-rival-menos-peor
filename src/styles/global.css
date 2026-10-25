@@ -148,6 +148,49 @@ input {
   animation: fade-up 0.5s cubic-bezier(0.2, 0.8, 0.2, 1) both;
 }
 
+@keyframes item-apagon {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  8%,
+  20%,
+  32%,
+  44%,
+  56%,
+  68%,
+  80% {
+    opacity: 0.94;
+  }
+  14%,
+  26%,
+  38%,
+  50%,
+  62%,
+  74% {
+    opacity: 0.28;
+  }
+}
+
+.animate-apagon {
+  animation: item-apagon 1.1s steps(1, end) infinite;
+}
+
+@keyframes item-shuffle {
+  from {
+    opacity: 0.45;
+    transform: scale(0.985);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-option-shuffle {
+  animation: item-shuffle 0.28s ease-out both;
+}
+
 @keyframes pop-in {
   0% {
     opacity: 0;

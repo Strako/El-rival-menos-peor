@@ -100,6 +100,8 @@ async function createRoom(page, mode) {
   if (mode === 'race') {
     await page.getByRole('button', { name: 'Relámpago' }).click();
   }
+  await page.getByLabel('Habilitar items').check();
+  await page.getByLabel('Habilitar items múltiples').check();
   const minus = page.getByRole('button', { name: mode === 'race' ? 'Menos preguntas' : 'Menos turnos' });
   for (let i = 0; i < 4; i += 1) await minus.click();
   await page.getByRole('button', { name: 'Crear sala' }).click();

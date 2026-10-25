@@ -17,6 +17,8 @@ export function HomePage() {
 
   const [mode, setMode] = useState<GameMode>('classic');
   const [rounds, setRounds] = useState(5);
+  const [itemsEnabled, setItemsEnabled] = useState(false);
+  const [multipleItemsEnabled, setMultipleItemsEnabled] = useState(false);
   const [code, setCode] = useState('');
   const [busy, setBusy] = useState<'create' | 'join' | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -39,7 +41,12 @@ export function HomePage() {
     try {
       const state = await callApi<RoomState>(
         'room.create',
-        { mode, maxRounds: rounds },
+        {
+          mode,
+          maxRounds: rounds,
+          itemsEnabled,
+          multipleItemsEnabled: itemsEnabled && multipleItemsEnabled,
+        },
         session,
       );
       applyRoom(state);
@@ -213,6 +220,45 @@ export function HomePage() {
                 <p className="mt-2 text-[10px] leading-relaxed text-cyan-200/60">
                   10 segundos por pregunta · sin eliminación · respuesta incorrecta: −100.
                 </p>
+              )}
+            </div>
+
+            <div className="mt-5 rounded-2xl border border-white/10 bg-white/[0.025] p-4">
+              <label className="flex cursor-pointer items-start gap-3">
+                <input
+                  type="checkbox"
+                  checked={itemsEnabled}
+                  onChange={(event) => {
+                    setItemsEnabled(event.target.checked);
+                    if (!event.target.checked) setMultipleItemsEnabled(false);
+                  }}
+                  className="mt-0.5 h-4 w-4 shrink-0 accent-gold-400"
+                />
+                <span>
+                  <span className="block text-sm font-semibold text-white">Habilitar items</span>
+                  <span className="mt-0.5 block text-[11px] leading-relaxed text-white/35">
+                    Apagón, barajado, cambio de pregunta, intercambio y aleatorio.
+                  </span>
+                </span>
+              </label>
+
+              {itemsEnabled && (
+                <label className="mt-3 flex cursor-pointer items-start gap-3 border-t border-white/[0.06] pt-3">
+                  <input
+                    type="checkbox"
+                    checked={multipleItemsEnabled}
+                    onChange={(event) => setMultipleItemsEnabled(event.target.checked)}
+                    className="mt-0.5 h-4 w-4 shrink-0 accent-gold-400"
+                  />
+                  <span>
+                    <span className="block text-sm font-semibold text-white">
+                      Habilitar items múltiples
+                    </span>
+                    <span className="mt-0.5 block text-[11px] leading-relaxed text-white/35">
+                      Hasta 3 ítems. Si llega un cuarto, se pierden todos.
+                    </span>
+                  </span>
+                </label>
               )}
             </div>
 

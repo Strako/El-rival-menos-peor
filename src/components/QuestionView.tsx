@@ -3,6 +3,7 @@ import { Avatar, Badge, Button, Card, Modal, Spinner, cn } from './ui';
 import { Confetti } from './Confetti';
 import { CountryFlag } from './CountryFlag';
 import { useCountdown } from '../hooks/useCountdown';
+import { useShuffledOptions } from '../hooks/useShuffledOptions';
 import { useTurnCountdown } from '../hooks/useTurnCountdown';
 import {
   CATEGORY_ICON,
@@ -29,7 +30,7 @@ export function QuestionView({
 }: {
   state: RoomState;
   busy: boolean;
-  onAnswer: (index: number) => Promise<void>;
+  onAnswer: (canonicalIndex: number) => Promise<void>;
   onSkip: () => Promise<void>;
   onExpire?: () => void;
 }) {
@@ -46,6 +47,11 @@ export function QuestionView({
     game?.phase === 'question',
     onExpire,
     question?.gameQuestionId,
+  );
+  const { display, shuffleTick, shuffleActive } = useShuffledOptions(
+    question,
+    state.items.effects,
+    game?.phase === 'question',
   );
 
   const currentPlayer = state.players.find((p) => p.playerId === game?.currentPlayerId);
@@ -76,10 +82,10 @@ export function QuestionView({
     return () => window.clearTimeout(timer);
   }, [selected, busy, game?.phase]);
 
-  const answer = async (index: number) => {
+  const answer = async (canonicalIndex: number) => {
     if (!isMyTurn || busy) return;
-    setSelected(index);
-    await onAnswer(index);
+    setSelected(canonicalIndex);
+    await onAnswer(canonicalIndex);
   };
 
   if (!question) {
@@ -190,24 +196,33 @@ export function QuestionView({
             {question.prompt}
           </h2>
 
-          <div className="relative mt-6 grid gap-3 sm:grid-cols-2">
-            {question.options.map((option, index) => {
-              const isCorrectOption = isReveal && index === lastAnswer?.correctDisplayIndex;
+          <div className={cn('relative mt-6 grid gap-3 sm:grid-cols-2', shuffleActive && 'item-shuffling')}>
+            {display.map((option, displayIndex) => {
+              const correctCanonical =
+                lastAnswer?.correctDisplayIndex !== undefined && lastAnswer.correctDisplayIndex !== null
+                  ? question.optionOrder?.[lastAnswer.correctDisplayIndex] ?? null
+                  : null;
+              const selectedCanonical =
+                lastAnswer?.selectedIndex !== null && lastAnswer?.selectedIndex !== undefined
+                  ? question.optionOrder?.[lastAnswer.selectedIndex] ?? null
+                  : null;
+              const isCorrectOption = isReveal && option.canonical === correctCanonical;
               const isWrongChoice =
                 isReveal &&
-                index === lastAnswer?.selectedIndex &&
+                option.canonical === selectedCanonical &&
                 lastAnswer?.isCorrect === false;
-              const isChosen = !isReveal && selected === index;
+              const isChosen = !isReveal && selected === option.canonical;
               const dimmed = isReveal && !isCorrectOption && !isWrongChoice;
 
               return (
                 <button
-                  key={`${question.gameQuestionId}-${index}`}
+                  key={`${question.gameQuestionId}-${option.canonical}-${shuffleTick}`}
                   type="button"
                   disabled={!isMyTurn || busy}
-                  onClick={() => void answer(index)}
+                  onClick={() => void answer(option.canonical)}
                   className={cn(
                     'option-btn group',
+                    shuffleActive && 'animate-option-shuffle',
                     isChosen && 'border-gold-400/50 bg-gold-400/10',
                     isCorrectOption && 'border-emerald-400/50 bg-emerald-400/10',
                     isWrongChoice && 'border-red-400/50 bg-red-500/10',
@@ -227,10 +242,10 @@ export function QuestionView({
                             : 'bg-white/10 text-white/60',
                     )}
                   >
-                    {isCorrectOption ? '✓' : isWrongChoice ? '✕' : LETTERS[index]}
+                    {isCorrectOption ? '✓' : isWrongChoice ? '✕' : LETTERS[displayIndex]}
                   </span>
                   <span className="pt-1 text-sm font-medium leading-snug text-white/85">
-                    {option}
+                    {option.text}
                   </span>
                   {isChosen && busy && (
                     <span className="ml-auto pt-1">

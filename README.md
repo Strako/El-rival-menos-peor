@@ -11,6 +11,7 @@ Trivia multijugador por salas, inspirada en el formato de “El rival menos peor
 - **Tres modos:** Clásico, Eliminación y Relámpago.
 - **Timer de 10 s** para responder en todos los modos.
 - **Chat efímero por sala** durante la partida.
+- **Ítems opcionales** en los tres modos: apagón, barajado, cambio de pregunta, intercambio de puntos y aleatorio.
 - **Banderas por país** según la IP.
 - **Invitaciones** a jugadores conectados desde el lobby.
 - **Cierre de sala** por el anfitrión, validado en base de datos.
@@ -30,7 +31,7 @@ Trivia multijugador por salas, inspirada en el formato de “El rival menos peor
 | Preguntas cargadas | 6.050 |
 | Banco ampliado | 5.000 nuevas de cultura general |
 | Auditoría de contexto | 206 preguntas mejoradas |
-| Edge Function `api` | Desplegada (versión 4) |
+| Edge Function `api` | Desplegada (versión 5) |
 | Frontend | Implementado y compilando |
 | Modo Relámpago | Implementado |
 | Timer de 10 s | En los tres modos |
@@ -39,13 +40,14 @@ Trivia multijugador por salas, inspirada en el formato de “El rival menos peor
 | Invitaciones en lobby | Implementadas |
 | Cierre de sala | Implementado con validación de anfitrión |
 | Salida de jugadores | Disponible en lobby, partida y resultados |
+| Sistema de ítems | Implementado en Clásico, Eliminación y Relámpago |
 | Emojis de ranking | Implementados |
 | Sin repetición por partida | Restricción única aplicada |
 | Sonidos | Implementados |
 | Pruebas unitarias | 23/23 |
 | Smoke test backend | Clásico, Eliminación y Relámpago OK |
 | Prueba de cierre de sala | Permisos, bloqueo y salida OK |
-| E2E con Chrome | Clásico, Relámpago, social y cierre OK |
+| E2E con Chrome | Clásico, Relámpago, social, cierre e ítems OK |
 | Responsive mobile | 320, 360 y 390 px sin desbordes |
 | Despliegue Netlify | Pendiente de credenciales |
 
@@ -118,6 +120,7 @@ Abre `http://localhost:5173`.
 9. **Relámpago:** la primera respuesta cierra la pregunta. Sin respuesta: −10 a todos los activos. Sin eliminación.
 10. **Resultados:** se muestra el ganador y la tabla final. Solo el anfitrión puede volver a configurar y reiniciar.
 11. **Cerrar o salir:** el anfitrión puede cerrar la sala desde el lobby o los resultados si la partida no está en curso (o si ya no queda nadie dentro). Cualquier jugador puede salir en cualquier momento con el botón **Salir**.
+12. **Ítems opcionales:** si el anfitrión los habilita, aparecen en la bandeja de cada jugador. Se usan antes de responder y los efectos se aplican en el turno de la víctima.
 
 ### Orden de turnos
 
@@ -255,6 +258,7 @@ Migraciones en `supabase/migrations/`:
 12. `timer_scoring_flags_invites_functions` — avance con timer, puntos decrecientes, penalización, presencia e invitaciones.
 13. `question_keys_topic` — normalización de enunciados, índice único y metadato de tema.
 14. `close_room` — cierre de sala por el anfitrión con validación de partida en curso y jugadores dentro.
+15. `items_system` — inventario, premios, efectos, límites y configuración de ítems.
 
 La Edge Function está en `supabase/functions/api/index.ts` y se despliega con `verify_jwt = false` porque usa autenticación propia por token de jugador.
 
@@ -368,6 +372,27 @@ npm run test:chat        # Chat por Broadcast
 ```
 
 Genera capturas en `e2e-artifacts/` (ignorado por git).
+
+### Sistema de ítems
+
+```bash
+npm run test:items       # configuración, estado, ítem aleatorio de Relámpago y uso
+npm run test:e2e:items   # E2E de configuración, inventario y uso
+```
+
+Los ítems están desactivados por defecto. El anfitrión puede habilitarlos y permitir hasta 3 acumulados; al recibir un cuarto se pierden todos. Sin ítems múltiples, el nuevo reemplaza al anterior.
+
+En Clásico/Eliminación se obtienen por racha de 3 aciertos o 30 % por respuesta. En Relámpago se entrega uno aleatorio por pregunta. Solo pueden usarse antes de responder y dentro de los 10 segundos del turno.
+
+| Ítem | Efecto |
+|---|---|
+| 🌑 Apagón | La pantalla de la víctima parpadea en negro durante 5 s. |
+| 🔀 Ora ora ora | Las opciones de la víctima se barajan cada 1,5 s. |
+| ❓ Ah que dijeron | Si la víctima no responde a los 4 s, la pregunta cambia sin reiniciar el tiempo. En Relámpago cambia para todos. |
+| 🔄 Ay wey | Intercambia puntos con un jugador activo al azar. |
+| 🎲 Aleatorio | Víctima y efecto del 1 al 4 al azar; 5 % de +300 puntos para quien lo usa. |
+
+En Clásico/Eliminación los efectos se aplican en el siguiente turno de la víctima. En Relámpago se aplican en la ronda actual.
 
 ### Responsive mobile
 

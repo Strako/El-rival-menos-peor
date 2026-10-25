@@ -25,6 +25,8 @@ export interface RoomView {
   maxRounds: number;
   hostPlayerId: string;
   playerCount: number;
+  itemsEnabled: boolean;
+  multipleItemsEnabled: boolean;
 }
 
 export interface MeView {
@@ -73,6 +75,8 @@ export interface QuestionView {
   gameQuestionId: string;
   prompt: string;
   options: string[];
+  optionOrder: number[];
+  revision: number;
   category: Category;
   difficulty: Difficulty;
   round: number;
@@ -80,6 +84,58 @@ export interface QuestionView {
   servedAt: string;
   deadlineAt: string | null;
   isMine: boolean;
+}
+
+export interface ItemDefinition {
+  id: string;
+  itemType: number;
+  createdAt: string;
+}
+
+export interface ItemEffectView {
+  id: string;
+  itemType: number;
+  sourcePlayerId: string;
+  sourceNickname: string;
+  targetPlayerId: string;
+  targetNickname: string;
+  activatedAt: string;
+  expiresAt: string | null;
+  metadata: Record<string, unknown>;
+}
+
+export interface ItemTickView {
+  id: string;
+  itemType: number;
+  targetPlayerId: string;
+  targetNickname: string;
+  expiresAt: string;
+}
+
+export interface ItemLogView {
+  id: string;
+  itemType: number;
+  status: 'held' | 'pending' | 'active' | 'consumed' | 'expired';
+  ownerPlayerId: string;
+  ownerNickname: string;
+  targetPlayerId: string | null;
+  targetNickname: string | null;
+  createdAt: string;
+  usedAt: string | null;
+  activatedAt: string | null;
+  expiresAt: string | null;
+  metadata: Record<string, unknown>;
+}
+
+export interface ItemsView {
+  enabled: boolean;
+  multiple: boolean;
+  canUse: boolean;
+  deadlineAt: string | null;
+  myItems: ItemDefinition[];
+  effects: ItemEffectView[];
+  ticks: ItemTickView[];
+  log: ItemLogView[];
 }
 
 export interface LastAnswerView {
@@ -184,6 +240,7 @@ export interface RoomState {
   voting: VotingView | null;
   race: RaceView | null;
   results: ResultsView | null;
+  items: ItemsView;
 }
 
 export interface ResumeData {

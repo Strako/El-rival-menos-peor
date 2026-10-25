@@ -20,7 +20,7 @@
 - [x] **5.000 preguntas nuevas** de cultura general sobre artes y ciencias del mundo.
 - [x] **206 correcciones de contexto** en preguntas existentes.
 - [x] Cobertura de 20 temas: física, astronomía, química, biología, medicina, matemáticas, tecnología, ciencias de la Tierra, geografía, historia antigua/moderna, arqueología, filosofía/religión, mitología, lingüística, literatura, teatro/poesía, pintura/escultura, arquitectura/diseño/fotografía, música/danza/cine/culturas.
-- [x] Edge Function `api` desplegada (versión 4) con `verify_jwt = false`.
+- [x] Edge Function `api` desplegada (versión 5) con `verify_jwt = false`.
 - [x] Frontend React + Vite + TypeScript + Tailwind implementado.
 - [x] Sesión local por token, salas, lobby, juego, votación, resultados y reinicio.
 - [x] Ranking solo por sala; sin ranking global.
@@ -32,6 +32,8 @@
 - [x] **Banderas por IP** en lobby, jugadores, scoreboard y resultados.
 - [x] **Listado de conectados** y **modal de invitación** con 60 s de validez.
 - [x] **Chat efímero por sala** solo durante la partida, sin persistencia.
+- [x] **Sistema de ítems** opcional en los tres modos, con inventario, premios, efectos y anuncios.
+- [x] **Ítems múltiples**: máximo 3; el cuarto borra todos. Sin múltiples, el nuevo reemplaza al anterior.
 - [x] **Cierre de sala** por el anfitrión en lobby y resultados, validado en base de datos.
 - [x] **Salida de jugadores** en lobby, partida y resultados; el host se reasigna si es necesario.
 - [x] **Auditoría responsive mobile** a 320, 360 y 390 px en landing, home, lobby, juego clásico, Relámpago, votación, resultados y modales.
@@ -44,7 +46,8 @@
 - [x] Pruebas unitarias: 23/23.
 - [x] Smoke test backend: clásico, eliminación, relámpago, timeout, concurrencia, reinicio y permisos.
 - [x] Prueba de cierre de sala: permisos de anfitrión, bloqueo en partida, cierre con 0 jugadores y salida libre.
-- [x] E2E real con Chrome: clásico, relámpago, social y cierre de sala.
+- [x] Pruebas del sistema de ítems: inventario, límites, uso, intercambio, reemplazo de pregunta y modo Relámpago.
+- [x] E2E real con Chrome: clásico, relámpago, social, cierre de sala e ítems.
 - [x] Auditoría mobile con capturas y detección de overflow: 0 desbordes horizontales.
 - [x] Asesores de seguridad sin advertencias.
 - [x] Backend actualizado mientras había partidas en curso, sin alterar su estado ni su orden ya asignado.

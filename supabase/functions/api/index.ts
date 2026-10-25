@@ -30,6 +30,13 @@ const ERROR_MESSAGES: Record<string, string> = {
   ROOM_NOT_IN_LOBBY: 'La sala ya no está en la espera.',
   ROOM_NOT_FINISHED: 'La partida todavía no terminó.',
   ROOM_IN_PROGRESS: 'No se puede cerrar la sala mientras haya una partida en curso con jugadores.',
+  ITEMS_DISABLED: 'Los ítems no están habilitados en esta partida.',
+  ITEM_NOT_OWNED: 'Ese ítem no está en tu inventario.',
+  ITEM_TARGET_REQUIRED: 'Debes elegir una víctima para este ítem.',
+  ITEM_TARGET_INVALID: 'La víctima elegida no es válida.',
+  ITEM_WINDOW_CLOSED: 'La ventana para usar ítems ya está cerrada.',
+  INVALID_ITEM: 'Ítem inválido.',
+  QUESTION_CHANGED: 'La pregunta cambió. Actualiza y vuelve a intentarlo.',
   NOT_ENOUGH_PLAYERS: 'Faltan jugadores para comenzar.',
   NOT_ENOUGH_QUESTIONS: 'No hay preguntas suficientes para esta configuración.',
   INVALID_MODE: 'Modo de juego inválido.',
@@ -369,11 +376,15 @@ async function handleRoom(
     if (!Number.isInteger(maxRounds) || maxRounds < 1 || maxRounds > 30) {
       throw new ApiError('INVALID_ROUNDS');
     }
+    const itemsEnabled = body.itemsEnabled === true;
+    const multipleItemsEnabled = itemsEnabled && body.multipleItemsEnabled === true;
 
     const { data, error } = await admin.rpc('rpc_create_room', {
       p_host_id: player.id,
       p_mode: mode,
       p_max_rounds: maxRounds,
+      p_items_enabled: itemsEnabled,
+      p_multiple_items_enabled: multipleItemsEnabled,
     });
     if (error) throw error;
 
@@ -410,12 +421,16 @@ async function handleRoom(
     if (!Number.isInteger(maxRounds) || maxRounds < 1 || maxRounds > 30) {
       throw new ApiError('INVALID_ROUNDS');
     }
+    const itemsEnabled = body.itemsEnabled === true;
+    const multipleItemsEnabled = itemsEnabled && body.multipleItemsEnabled === true;
 
     const { error } = await admin.rpc('rpc_update_room', {
       p_host_id: player.id,
       p_room_id: roomId,
       p_mode: mode,
       p_max_rounds: maxRounds,
+      p_items_enabled: itemsEnabled,
+      p_multiple_items_enabled: multipleItemsEnabled,
     });
     if (error) throw error;
 
@@ -497,15 +512,29 @@ async function handleGame(
   if (action === 'game.raceAnswer') {
     if (room.mode !== 'race') throw new ApiError('BAD_REQUEST');
     if (!room.current_game_id) throw new ApiError('GAME_NOT_FOUND', 404);
-    const selectedIndex = Number(body.selectedIndex);
+    const canonicalIndex =
+      body.canonicalIndex === undefined || body.canonicalIndex === null
+        ? null
+        : Number(body.canonicalIndex);
+    const selectedIndex = Number(body.selectedIndex ?? canonicalIndex);
     if (!Number.isInteger(selectedIndex) || selectedIndex < 0 || selectedIndex > 3) {
       throw new ApiError('INVALID_OPTION');
     }
+    if (canonicalIndex !== null && (!Number.isInteger(canonicalIndex) || canonicalIndex < 0 || canonicalIndex > 3)) {
+      throw new ApiError('INVALID_OPTION');
+    }
+    const revision =
+      body.revision === undefined || body.revision === null ? null : Number(body.revision);
+    if (revision !== null && (!Number.isInteger(revision) || revision < 0)) {
+      throw new ApiError('BAD_REQUEST');
+    }
 
-    const { error } = await admin.rpc('rpc_race_answer', {
+    const { error } = await admin.rpc('rpc_race_answer_v2', {
       p_player_id: player.id,
       p_game_id: room.current_game_id,
       p_selected_index: selectedIndex,
+      p_canonical_index: canonicalIndex,
+      p_revision: revision,
     });
     if (error) throw error;
 
@@ -525,6 +554,44 @@ async function handleGame(
     return ok(await getRaceState(player.id, roomId));
   }
 
+  if (action === 'game.useItem') {
+    if (!room.current_game_id) throw new ApiError('GAME_NOT_FOUND', 404);
+    const itemId = String(body.itemId ?? '');
+    if (!/^[0-9a-f-]{36}$/i.test(itemId)) throw new ApiError('INVALID_ITEM');
+    const targetPlayerId = body.targetPlayerId ? String(body.targetPlayerId) : null;
+    if (targetPlayerId && !/^[0-9a-f-]{36}$/i.test(targetPlayerId)) {
+      throw new ApiError('ITEM_TARGET_INVALID');
+    }
+
+    const { error } = await admin.rpc('rpc_use_item', {
+      p_player_id: player.id,
+      p_game_id: room.current_game_id,
+      p_item_id: itemId,
+      p_target_player_id: targetPlayerId,
+    });
+    if (error) throw error;
+
+    return ok(
+      await (room.mode === 'race'
+        ? getRaceState(player.id, roomId)
+        : getState(player.id, roomId)),
+    );
+  }
+
+  if (action === 'game.itemTick') {
+    if (!room.current_game_id) throw new ApiError('GAME_NOT_FOUND', 404);
+    const { error } = await admin.rpc('rpc_process_item_ticks', {
+      p_game_id: room.current_game_id,
+    });
+    if (error) throw error;
+
+    return ok(
+      await (room.mode === 'race'
+        ? getRaceState(player.id, roomId)
+        : getState(player.id, roomId)),
+    );
+  }
+
   if (room.mode === 'race') {
     throw new ApiError('BAD_REQUEST');
   }
@@ -533,16 +600,30 @@ async function handleGame(
     if (!room.current_game_id) throw new ApiError('GAME_NOT_FOUND', 404);
     const gameQuestionId = String(body.gameQuestionId ?? '');
     if (!/^[0-9a-f-]{36}$/i.test(gameQuestionId)) throw new ApiError('BAD_REQUEST');
-    const selectedIndex = Number(body.selectedIndex);
+    const canonicalIndex =
+      body.canonicalIndex === undefined || body.canonicalIndex === null
+        ? null
+        : Number(body.canonicalIndex);
+    const selectedIndex = Number(body.selectedIndex ?? canonicalIndex);
     if (!Number.isInteger(selectedIndex) || selectedIndex < 0 || selectedIndex > 3) {
       throw new ApiError('INVALID_OPTION');
     }
+    if (canonicalIndex !== null && (!Number.isInteger(canonicalIndex) || canonicalIndex < 0 || canonicalIndex > 3)) {
+      throw new ApiError('INVALID_OPTION');
+    }
+    const revision =
+      body.revision === undefined || body.revision === null ? null : Number(body.revision);
+    if (revision !== null && (!Number.isInteger(revision) || revision < 0)) {
+      throw new ApiError('BAD_REQUEST');
+    }
 
-    const { error } = await admin.rpc('rpc_submit_answer', {
+    const { error } = await admin.rpc('rpc_submit_answer_v2', {
       p_player_id: player.id,
       p_game_id: room.current_game_id,
       p_game_question_id: gameQuestionId,
       p_selected_index: selectedIndex,
+      p_canonical_index: canonicalIndex,
+      p_revision: revision,
     });
     if (error) throw error;
 
@@ -731,7 +812,9 @@ function mapError(error: unknown): Response {
       known === 'TIME_EXPIRED' ||
       known === 'INVITE_EXPIRED' ||
       known === 'INVITE_NOT_PENDING' ||
-      known === 'ROOM_IN_PROGRESS'
+      known === 'ROOM_IN_PROGRESS' ||
+      known === 'QUESTION_CHANGED' ||
+      known === 'ITEM_WINDOW_CLOSED'
         ? 409
         : 400;
     return fail(known, status);

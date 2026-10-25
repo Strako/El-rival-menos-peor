@@ -1,8 +1,11 @@
-import { useCallback, useEffect, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { ApiError, callApi, errorMessage } from '../lib/api';
 import { broadcastRoomSync } from '../lib/realtime';
+import { itemEventMessage } from '../lib/items';
 import { RoomHeader } from '../components/RoomHeader';
+import { ItemOverlay } from '../components/ItemOverlay';
+import { ItemTray } from '../components/ItemTray';
 import { LobbyView } from '../components/LobbyView';
 import { QuestionView } from '../components/QuestionView';
 import { VotingView } from '../components/VotingView';
@@ -38,6 +41,7 @@ export function RoomPage() {
   const [toast, setToast] = useState<{ message: string; tone: 'error' | 'success' | 'info' } | null>(
     null,
   );
+  const seenItemEvents = useRef<Set<string> | null>(null);
 
   const room = useRoomState(roomId, session, seed);
   const state = room.state;
@@ -128,6 +132,45 @@ export function RoomPage() {
     },
     [session, roomId, room, clear],
   );
+
+  useEffect(() => {
+    if (!session || !roomId) return;
+    const events = state?.items?.log ?? [];
+    if (seenItemEvents.current === null) {
+      seenItemEvents.current = new Set(
+        events.map((event) => `${event.id}:${event.status}`),
+      );
+      return;
+    }
+
+    const fresh = events.filter(
+      (event) => !seenItemEvents.current?.has(`${event.id}:${event.status}`),
+    );
+    for (const event of fresh) {
+      seenItemEvents.current?.add(`${event.id}:${event.status}`);
+      const message = itemEventMessage(event, state?.me.playerId ?? null);
+      if (message) notify(message, 'info');
+    }
+  }, [state?.items?.log, state?.me.playerId, session, roomId]);
+
+  useEffect(() => {
+    if (!session || !roomId) return;
+    const ticks = state?.items?.ticks ?? [];
+    if (ticks.length === 0) return;
+    const nextExpiry = Math.min(
+      ...ticks.map((tick) => new Date(tick.expiresAt).getTime()),
+    );
+    const delay = Math.max(0, nextExpiry - Date.now() + 80);
+    const timer = window.setTimeout(() => {
+      void callApi<RoomState>('game.itemTick', { roomId }, session)
+        .then((next) => {
+          room.setState(next);
+          void broadcastRoomSync(roomId);
+        })
+        .catch(() => undefined);
+    }, delay);
+    return () => window.clearTimeout(timer);
+  }, [state?.items?.ticks, session, roomId]);
 
   const syncAfterTimeout = () => {
     void room.refetch(true).then(() => {
@@ -287,8 +330,18 @@ export function RoomPage() {
           <LobbyView
             state={state}
             busy={busyBool}
-            onUpdate={(mode: GameMode, rounds: number) =>
-              run('room.update', { mode, maxRounds: rounds })
+            onUpdate={(
+              mode: GameMode,
+              rounds: number,
+              itemsEnabled: boolean,
+              multipleItemsEnabled: boolean,
+            ) =>
+              run('room.update', {
+                mode,
+                maxRounds: rounds,
+                itemsEnabled,
+                multipleItemsEnabled,
+              })
             }
             onStart={() => run('room.start')}
             onCopy={(text, label) => void copy(text, label)}
@@ -316,8 +369,12 @@ export function RoomPage() {
                 <RaceQuestionView
                   state={state}
                   busy={busyBool}
-                  onAnswer={(selectedIndex) =>
-                    run('game.raceAnswer', { selectedIndex })
+                  onAnswer={(canonicalIndex) =>
+                    run('game.raceAnswer', {
+                      selectedIndex: canonicalIndex,
+                      canonicalIndex,
+                      revision: state.question?.revision,
+                    })
                   }
                   onSkip={() => run('game.skipRaceQuestion')}
                   onExpire={syncAfterTimeout}
@@ -333,16 +390,27 @@ export function RoomPage() {
                 <QuestionView
                   state={state}
                   busy={busyBool}
-                  onAnswer={(selectedIndex) =>
+                  onAnswer={(canonicalIndex) =>
                     run('game.answer', {
                       gameQuestionId: state.question?.gameQuestionId,
-                      selectedIndex,
+                      selectedIndex: canonicalIndex,
+                      canonicalIndex,
+                      revision: state.question?.revision,
                     })
                   }
                   onSkip={() => run('game.skip')}
                   onExpire={syncAfterTimeout}
                 />
               )}
+              <div className="mt-4">
+                <ItemTray
+                  state={state}
+                  busy={busyBool}
+                  onUse={(itemId, targetPlayerId) =>
+                    run('game.useItem', { itemId, targetPlayerId })
+                  }
+                />
+              </div>
             </section>
             <div className="order-3 min-w-0 space-y-4">
               <Scoreboard state={state} />
@@ -385,6 +453,8 @@ export function RoomPage() {
         loading={busy === 'room.close'}
         tone="danger"
       />
+
+      <ItemOverlay state={state} />
 
       <Toast
         message={toast?.message ?? null}
