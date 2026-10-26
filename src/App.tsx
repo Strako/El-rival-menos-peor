@@ -12,6 +12,7 @@ import { useSessionBootstrap } from './hooks/useSessionBootstrap';
 import { useSessionStore } from './store/session';
 import { LandingPage } from './pages/LandingPage';
 import { HomePage } from './pages/HomePage';
+import { ChangelogPage } from './pages/ChangelogPage';
 import { RoomPage } from './pages/RoomPage';
 import { Button, Card, Logo, Spinner } from './components/ui';
 import { InviteHost } from './components/InviteHost';
@@ -84,6 +85,7 @@ export default function App() {
       <InviteHost />
       <Routes>
         <Route path="/" element={<LandingPage />} />
+        <Route path="/changelog" element={<ChangelogPage />} />
         <Route
           path="/home"
           element={

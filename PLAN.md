@@ -47,10 +47,11 @@
 - [x] **Sonidos** de turno, inicio de pregunta, correcta, fallida y tiempo agotado.
 - [x] **Aviso de turno** reproducido solo en el cliente del jugador actual.
 - [x] **Sincronización de turnos** con reloj de servidor, broadcast de transición y refetch encolado; 20 s visibles al iniciar cada turno.
+- [x] **Changelog público** en `/changelog`, con los últimos commits publicados en GitHub, enlace directo a cada cambio y fallback al repositorio.
 - [x] **Orden de turnos fijo por índice/asiento**, sin rotación ni influencia del puntaje.
 - [x] **Dificultad progresiva** fácil → media → difícil en todos los modos, por tercios del total de rondas.
 - [x] **Timer global de 20 s** en Clásico, Eliminación y Relámpago, sincronizado con el servidor.
-- [x] Pruebas unitarias: 24/24.
+- [x] Pruebas unitarias: 27/27.
 - [x] Smoke test backend: clásico, eliminación, relámpago, timeout, concurrencia, reinicio y permisos.
 - [x] Prueba de cierre de sala: permisos de anfitrión, bloqueo en partida, cierre con 0 jugadores y salida libre.
 - [x] Pruebas del sistema de ítems: inventario, límites, uso, intercambio, reemplazo de pregunta y modo Relámpago.

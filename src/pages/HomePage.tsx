@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Badge, Button, Card, Input, Logo, cn } from '../components/ui';
+import { ChangelogButton } from '../components/ChangelogButton';
 import { SoundToggle } from '../components/SoundToggle';
 import { callApi, errorMessage } from '../lib/api';
 import { broadcastRoomSync } from '../lib/realtime';
@@ -97,10 +98,10 @@ export function HomePage() {
 
       <header className="relative z-10 border-b border-white/5 bg-ink-950/60 backdrop-blur-xl">
         <div className="mx-auto flex w-full max-w-6xl items-center justify-between gap-4 px-5 py-4 sm:px-8">
-          <div className="hidden min-[360px]:flex">
+          <div className="hidden min-[390px]:flex">
             <Logo />
           </div>
-          <div className="min-[360px]:hidden">
+          <div className="min-[390px]:hidden">
             <Logo compact />
           </div>
           <div className="flex items-center gap-3">
@@ -110,6 +111,7 @@ export function HomePage() {
                 {session.nickname}
               </p>
             </div>
+            <ChangelogButton />
             <SoundToggle />
             <Button variant="ghost" size="sm" onClick={logout}>
               Salir
@@ -406,7 +408,16 @@ export function HomePage() {
 
         <footer className="mt-10 flex flex-wrap items-center justify-between gap-2 border-t border-white/5 pt-5 text-[10px] text-white/20">
           <span>El rival menos peor</span>
-          <span>7.050 preguntas · 3 categorías · 3 modos</span>
+          <div className="flex items-center gap-3">
+            <button
+              type="button"
+              onClick={() => navigate('/changelog')}
+              className="transition hover:text-white/50"
+            >
+              Changelog
+            </button>
+            <span>7.050 preguntas · 3 categorías · 3 modos</span>
+          </div>
         </footer>
       </main>
     </div>

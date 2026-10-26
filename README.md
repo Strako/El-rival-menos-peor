@@ -20,6 +20,7 @@ Trivia multijugador por salas, inspirada en el formato de “El rival menos peor
 - **Emojis de posición** en el scoreboard.
 - **Diseño responsive** optimizado para móviles de 320–390 px.
 - **Sonidos:** turno, respuesta correcta, respuesta fallida y tiempo agotado.
+- **Changelog público:** últimas actualizaciones publicadas desde GitHub en `/changelog`.
 
 ---
 
@@ -51,7 +52,8 @@ Trivia multijugador por salas, inspirada en el formato de “El rival menos peor
 | Orden de categorías | Aleatorio y equilibrado en cada partida |
 | Sonidos | Implementados; aviso de turno solo para el jugador actual |
 | Sincronización de turnos | Verificada: 20 s al comenzar cada turno |
-| Pruebas unitarias | 24/24 |
+| Changelog | Público en `/changelog`; últimos commits desde GitHub |
+| Pruebas unitarias | 27/27 |
 | Smoke test backend | Clásico, Eliminación y Relámpago OK |
 | Prueba de cierre de sala | Permisos, bloqueo y salida OK |
 | E2E con Chrome | Clásico, Relámpago, social, cierre e ítems OK |
@@ -60,6 +62,7 @@ Trivia multijugador por salas, inspirada en el formato de “El rival menos peor
 
 - Supabase: `https://aaojioxhupihfgqfiken.supabase.co`
 - Edge Function: `https://aaojioxhupihfgqfiken.supabase.co/functions/v1/api`
+- Changelog: `/changelog` (consulta los últimos commits del repositorio en GitHub; si la API falla, enlaza al historial completo).
 - El plan de trabajo original y las decisiones están en [`PLAN.md`](./PLAN.md).
 
 ---
@@ -359,7 +362,7 @@ npm run seed:questions
 npm test
 ```
 
-Valida el banco de preguntas y helpers de formato.
+Valida el banco de preguntas, helpers de formato y el parseo del changelog de GitHub.
 
 ### Backend smoke test
 
@@ -515,7 +518,7 @@ jueguito/
 │  │  ├─ rank.ts
 │  │  ├─ race.ts
 │  │  └─ ...
-│  ├─ pages/
+│  ├─ pages/                  # incluye ChangelogPage.tsx
 │  ├─ store/
 │  ├─ styles/
 │  ├─ types.ts

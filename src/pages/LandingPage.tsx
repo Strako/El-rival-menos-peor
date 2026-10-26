@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { Avatar, Badge, Button, Card, Input, Logo, cn } from '../components/ui';
+import { ChangelogButton } from '../components/ChangelogButton';
 import { SoundToggle } from '../components/SoundToggle';
 import { callApi, errorMessage } from '../lib/api';
 import { broadcastRoomSync } from '../lib/realtime';
@@ -109,6 +110,7 @@ export function LandingPage() {
             <span className="h-2 w-2 animate-pulse rounded-full bg-emerald-400" />
             Multijugador en tiempo real
           </div>
+          <ChangelogButton />
           <SoundToggle />
         </div>
       </header>
@@ -263,7 +265,16 @@ export function LandingPage() {
 
       <footer className="relative z-10 mx-auto flex w-full max-w-6xl flex-wrap items-center justify-between gap-3 border-t border-white/5 px-5 py-5 text-[10px] text-white/20 sm:px-8">
         <span>El rival menos peor · Trivia multijugador</span>
-        <span>React + Vite + Supabase</span>
+        <div className="flex items-center gap-3">
+          <button
+            type="button"
+            onClick={() => navigate('/changelog')}
+            className="transition hover:text-white/50"
+          >
+            Changelog
+          </button>
+          <span>React + Vite + Supabase</span>
+        </div>
       </footer>
     </div>
   );
