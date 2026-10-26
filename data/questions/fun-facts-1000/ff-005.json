@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "cg-6881",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué aparato de 1902 de Willis Carrier controlaba la humedad y la temperatura del aire?",
+    "options": [
+      "Aire acondicionado",
+      "Calefacción",
+      "Ventilador",
+      "Refrigerador"
+    ],
+    "correctIndex": 0,
+    "explanation": "Carrier diseñó un sistema para controlar la humedad en una imprenta."
+  },
+  {
+    "id": "cg-6882",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué alimento se obtiene al cuajar la leche y separar el suero?",
+    "options": [
+      "Queso",
+      "Yogur",
+      "Mantequilla",
+      "Nata"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cuajo o los ácidos hacen que las proteínas de la leche formen la cuajada."
+  },
+  {
+    "id": "cg-6883",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué planta produce los granos que se tuestan para hacer café?",
+    "options": [
+      "Cacaotero",
+      "Cafeto",
+      "Té",
+      "Nogal"
+    ],
+    "correctIndex": 1,
+    "explanation": "El cafeto es un arbusto cuyas semillas, los granos de café, se tuestan y muelen."
+  },
+  {
+    "id": "cg-6884",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué hermanos estadounidenses lograron el primer vuelo motorizado en 1903?",
+    "options": [
+      "Los hermanos Lumière",
+      "Los hermanos Montgolfier",
+      "Los hermanos Wright",
+      "Los hermanos Siemens"
+    ],
+    "correctIndex": 2,
+    "explanation": "Orville y Wilbur Wright volaron en Kitty Hawk con un biplano motorizado."
+  },
+  {
+    "id": "cg-6885",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué país nórdico posee el archipiélago de Svalbard y una costa llena de fiordos?",
+    "options": [
+      "Suecia",
+      "Noruega",
+      "Islandia",
+      "Finlandia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Svalbard es un archipiélago noruego en el océano Ártico."
+  },
+  {
+    "id": "cg-6886",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad azteca se construyó sobre islas del lago Texcoco?",
+    "options": [
+      "Teotihuacán",
+      "Tula",
+      "Tenochtitlán",
+      "Chichén Itzá"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tenochtitlán se fundó en 1325 y hoy yace bajo el centro de Ciudad de México."
+  },
+  {
+    "id": "cg-6887",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué plato del norte de África se hace con sémola de trigo?",
+    "options": [
+      "Polenta",
+      "Quinua",
+      "Bulgur",
+      "Cuscús"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cuscús se cocina al vapor y se sirve con guisos de carne o verduras."
+  },
+  {
+    "id": "cg-6888",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué especia da color amarillo al curry y se usa como colorante?",
+    "options": [
+      "Azafrán",
+      "Pimentón",
+      "Jengibre",
+      "Cúrcuma"
+    ],
+    "correctIndex": 3,
+    "explanation": "La cúrcuma contiene curcumina, el pigmento amarillo que tiñe el curry."
+  },
+  {
+    "id": "cg-6889",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué gran isla del océano Índico alberga lémures endémicos y bosques de baobabs?",
+    "options": [
+      "Madagascar",
+      "Mauricio",
+      "Seychelles",
+      "Comoras"
+    ],
+    "correctIndex": 0,
+    "explanation": "Madagascar es la gran isla del Índico frente a la costa de África."
+  },
+  {
+    "id": "cg-6890",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué bebida japonesa se fermenta a partir del arroz?",
+    "options": [
+      "Soju",
+      "Sake",
+      "Vino de arroz",
+      "Té verde"
+    ],
+    "correctIndex": 1,
+    "explanation": "El sake se elabora fermentando arroz pulido con koji y levadura."
+  },
+  {
+    "id": "cg-6891",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué emperador romano legalizó el cristianismo con el Edicto de Milán?",
+    "options": [
+      "Constantino",
+      "Diocleciano",
+      "Teodosio",
+      "Juliano"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Edicto de Milán, en 313, permitió el culto cristiano en el Imperio romano."
+  },
+  {
+    "id": "cg-6892",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué plato valenciano se cocina en una sartén ancha y poco profunda?",
+    "options": [
+      "Risotto",
+      "Pilaf",
+      "Paella",
+      "Jambalaya"
+    ],
+    "correctIndex": 2,
+    "explanation": "La paella es originaria de Valencia y se cocina en una sartén ancha y poco profunda."
+  },
+  {
+    "id": "cg-6893",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué pan plano indio se cocina en un horno tandoor?",
+    "options": [
+      "Pita",
+      "Naan",
+      "Baguette",
+      "Tortilla"
+    ],
+    "correctIndex": 1,
+    "explanation": "El naan se adhiere a las paredes del tandoor y se hincha por el calor."
+  },
+  {
+    "id": "cg-6894",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué capital europea está dividida por el Danubio?",
+    "options": [
+      "Praga",
+      "Viena",
+      "Budapest",
+      "Bratislava"
+    ],
+    "correctIndex": 2,
+    "explanation": "Buda y Pest, en orillas opuestas del Danubio, se unieron en 1873."
+  },
+  {
+    "id": "cg-6895",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué término laboral se relaciona con la sal en su etimología latina?",
+    "options": [
+      "Sueldo",
+      "Jornal",
+      "Honorario",
+      "Salario"
+    ],
+    "correctIndex": 3,
+    "explanation": "Salario viene del latín salarium, relacionado con la sal, un bien muy valorado."
+  },
+  {
+    "id": "cg-6896",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué alimento indonesio se hace fermentando soja con un hongo?",
+    "options": [
+      "Tempeh",
+      "Tofu",
+      "Miso",
+      "Seitán"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tempeh se fermenta con Rhizopus oligosporus y forma un bloque compacto."
+  },
+  {
+    "id": "cg-6897",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué rey macedonio creó un imperio que llegó hasta la India?",
+    "options": [
+      "Darío I",
+      "Julio César",
+      "Carlomagno",
+      "Alejandro Magno"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alejandro Magno conquistó Persia, Egipto y llegó hasta el Indo."
+  },
+  {
+    "id": "cg-6898",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué palabra designa un mercado tradicional de Oriente y proviene del persa?",
+    "options": [
+      "Bazar",
+      "Zoco",
+      "Souk",
+      "Tianguis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bazar viene del persa bazar, mercado o recinto comercial."
+  },
+  {
+    "id": "cg-6899",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué material transparente se fabrica fundiendo arena de sílice?",
+    "options": [
+      "Cuarzo",
+      "Vidrio",
+      "Plástico",
+      "Mica"
+    ],
+    "correctIndex": 1,
+    "explanation": "El vidrio común se obtiene fundiendo sílice con carbonato de sodio y caliza."
+  },
+  {
+    "id": "cg-6900",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué alga aporta sabor umami al caldo dashi?",
+    "options": [
+      "Nori",
+      "Kombu",
+      "Wakame",
+      "Espirulina"
+    ],
+    "correctIndex": 1,
+    "explanation": "El kombu es un alga kelp rica en glutamato, la base del dashi."
+  },
+  {
+    "id": "cg-6901",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad italiana está construida sobre más de cien islas?",
+    "options": [
+      "Génova",
+      "Nápoles",
+      "Venecia",
+      "Florencia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Venecia se asienta sobre islas de la laguna y se recorre con puentes y canales."
+  },
+  {
+    "id": "cg-6902",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué dulce alemán de pan de jengibre se vende en mercados navideños?",
+    "options": [
+      "Stollen",
+      "Strudel",
+      "Lebkuchen",
+      "Pretzel"
+    ],
+    "correctIndex": 2,
+    "explanation": "El lebkuchen es un pan de especias típico de Núremberg y otros lugares de Alemania."
+  },
+  {
+    "id": "cg-6903",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué festividad celta de origen precristiano se asocia al actual Halloween?",
+    "options": [
+      "Beltane",
+      "Imbolc",
+      "Lughnasadh",
+      "Samhain"
+    ],
+    "correctIndex": 3,
+    "explanation": "Samhain marcaba el inicio del invierno celta y la conexión con los difuntos."
+  },
+  {
+    "id": "cg-6904",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué palacio de Granada fue residencia de los sultanes nazaríes?",
+    "options": [
+      "Alhambra",
+      "Alcázar de Sevilla",
+      "Mezquita de Córdoba",
+      "Palacio Real de Madrid"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Alhambra combina fortaleza y palacios nazaríes sobre la colina de la Sabika."
+  },
+  {
+    "id": "cg-6905",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué vehículo de Karl Benz de 1886 usaba un motor de gasolina?",
+    "options": [
+      "Tranvía",
+      "Automóvil",
+      "Locomotora",
+      "Bicicleta"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Benz Patent-Motorwagen se considera uno de los primeros automóviles prácticos."
+  },
+  {
+    "id": "cg-6906",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué número debe su nombre al árabe sifr, que significa vacío?",
+    "options": [
+      "Cero",
+      "Uno",
+      "Diez",
+      "Millón"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cero viene del árabe sifr, vacío, a través del italiano zefiro."
+  },
+  {
+    "id": "cg-6907",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué país del sudeste asiático limita con China, Myanmar, Tailandia, Camboya y Vietnam?",
+    "options": [
+      "Malasia",
+      "Laos",
+      "Indonesia",
+      "Brunéi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Laos limita con China, Myanmar, Tailandia, Camboya y Vietnam."
+  },
+  {
+    "id": "cg-6908",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mes islámico se dedica al ayuno diurno?",
+    "options": [
+      "Muharram",
+      "Shawwal",
+      "Rajab",
+      "Ramadán"
+    ],
+    "correctIndex": 3,
+    "explanation": "Durante el ramadán, las personas adultas sanas ayunan desde el amanecer hasta el ocaso."
+  },
+  {
+    "id": "cg-6909",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué canal inaugurado en 1869 une el Mediterráneo y el mar Rojo?",
+    "options": [
+      "Canal de Suez",
+      "Canal de Panamá",
+      "Canal de Corinto",
+      "Canal de Kiel"
+    ],
+    "correctIndex": 0,
+    "explanation": "El canal de Suez atraviesa Egipto y acorta la ruta entre Europa y Asia."
+  },
+  {
+    "id": "cg-6910",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué festividad marca el inicio del año en el calendario lunar chino?",
+    "options": [
+      "El Festival de los Faroles",
+      "El Año Nuevo chino",
+      "El Día de los Muertos",
+      "El Nowruz"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Año Nuevo chino se celebra con reuniones familiares, comida y fuegos artificiales."
+  },
+  {
+    "id": "cg-6911",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué país del golfo Pérsico tiene su capital en Doha y alberga un museo de arte islámico diseñado por I. M. Pei?",
+    "options": [
+      "Baréin",
+      "Kuwait",
+      "Catar",
+      "Emiratos Árabes Unidos"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Museo de Arte Islámico de Doha, obra de I. M. Pei, se inauguró en 2008."
+  },
+  {
+    "id": "cg-6912",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué producto dulce debe su nombre al sánscrito sharkara?",
+    "options": [
+      "Miel",
+      "Melaza",
+      "Azúcar",
+      "Sirope"
+    ],
+    "correctIndex": 2,
+    "explanation": "Azúcar viene del sánscrito sharkara, que pasó al árabe y luego al español."
+  },
+  {
+    "id": "cg-6913",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué sistema de cierre se inspiró en las semillas de bardana?",
+    "options": [
+      "Cremallera",
+      "Botón",
+      "Velcro",
+      "Broche"
+    ],
+    "correctIndex": 2,
+    "explanation": "George de Mestral observó cómo las semillas se adherían a la ropa y al pelaje."
+  },
+  {
+    "id": "cg-6914",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué país europeo tiene su capital oficial en Ámsterdam y la sede del gobierno en La Haya?",
+    "options": [
+      "Bélgica",
+      "Dinamarca",
+      "Luxemburgo",
+      "Países Bajos"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Constitución neerlandesa fija Ámsterdam como capital, pero el gobierno trabaja en La Haya."
+  },
+  {
+    "id": "cg-6915",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué cumbre argentina supera los 6.900 metros de altitud?",
+    "options": [
+      "Aconcagua",
+      "Ojos del Salado",
+      "Monte Fitz Roy",
+      "Lanín"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Aconcagua, en la cordillera de los Andes, es la cumbre más alta de América."
+  },
+  {
+    "id": "cg-6916",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué país europeo ocupa la península de Jutlandia y varias islas del Báltico?",
+    "options": [
+      "Países Bajos",
+      "Noruega",
+      "Suecia",
+      "Dinamarca"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dinamarca ocupa Jutlandia y un archipiélago del mar Báltico."
+  },
+  {
+    "id": "cg-6917",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué viajero veneciano describió la China de Kublai Kan en el siglo XIII?",
+    "options": [
+      "Marco Polo",
+      "Cristóbal Colón",
+      "Vasco da Gama",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Marco Polo dictó sus viajes en Il Milione, donde relata la corte del Gran Kan."
+  },
+  {
+    "id": "cg-6918",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué lengua artificial creó L. L. Zamenhof en 1887?",
+    "options": [
+      "El volapük",
+      "El esperanto",
+      "El ido",
+      "El interlingua"
+    ],
+    "correctIndex": 1,
+    "explanation": "Zamenhof diseñó el esperanto para facilitar la comunicación internacional."
+  },
+  {
+    "id": "cg-6919",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad fue elegida como capital de Australia para zanjar la rivalidad entre Sídney y Melbourne?",
+    "options": [
+      "Perth",
+      "Canberra",
+      "Adelaida",
+      "Brisbane"
+    ],
+    "correctIndex": 1,
+    "explanation": "Canberra se planificó como capital federal y el Parlamento se trasladó allí en 1927."
+  },
+  {
+    "id": "cg-6920",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué basílica de Estambul mandó construir Justiniano en el siglo VI?",
+    "options": [
+      "Mezquita Azul",
+      "Santa Irene",
+      "Santa Sofía",
+      "San Salvador de Cora"
+    ],
+    "correctIndex": 2,
+    "explanation": "Santa Sofía se terminó en 537 y luego fue mezquita y museo."
+  },
+  {
+    "id": "cg-6921",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué bebida se aromatiza con bayas de enebro?",
+    "options": [
+      "Vodka",
+      "Ron",
+      "Tequila",
+      "Ginebra"
+    ],
+    "correctIndex": 3,
+    "explanation": "El enebro es el botánico que define el sabor de la ginebra."
+  },
+  {
+    "id": "cg-6922",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué país de América del Norte tiene costas en los océanos Atlántico, Pacífico y Ártico?",
+    "options": [
+      "Estados Unidos",
+      "México",
+      "Canadá",
+      "Rusia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Canadá es el único país americano bañado por esos tres océanos."
+  },
+  {
+    "id": "cg-6923",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué monumento megalítico inglés se alinea con el solsticio de verano?",
+    "options": [
+      "Stonehenge",
+      "Avebury",
+      "Newgrange",
+      "Carnac"
+    ],
+    "correctIndex": 0,
+    "explanation": "En Stonehenge, el sol sale alineado con la piedra del talón en el solsticio de verano."
+  },
+  {
+    "id": "cg-6924",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿De qué material está hecha la mina de un lápiz común?",
+    "options": [
+      "Plomo",
+      "Estaño",
+      "Carbón vegetal",
+      "Grafito"
+    ],
+    "correctIndex": 3,
+    "explanation": "La mina del lápiz mezcla grafito con arcilla; no contiene plomo."
+  },
+  {
+    "id": "cg-6925",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué grano andino era un alimento central del Imperio inca?",
+    "options": [
+      "Arroz",
+      "Quinua",
+      "Mijo",
+      "Sorgo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La quinua se cultivó en los Andes y aporta proteínas y fibra."
+  },
+  {
+    "id": "cg-6926",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué crema de garbanzos y tahini es típica del Levante?",
+    "options": [
+      "Falafel",
+      "Baba ganoush",
+      "Hummus",
+      "Labneh"
+    ],
+    "correctIndex": 2,
+    "explanation": "El hummus mezcla garbanzos, tahini, limón, ajo y aceite de oliva."
+  },
+  {
+    "id": "cg-6927",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué torre de 1889 se construyó para la Exposición Universal de París?",
+    "options": [
+      "Torre Eiffel",
+      "Torre de Pisa",
+      "Empire State",
+      "Torre de Londres"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Torre Eiffel fue diseñada por Gustave Eiffel y se pensaba desmontar tras la exposición."
+  },
+  {
+    "id": "cg-6928",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué palacio francés fue residencia de Luis XIV?",
+    "options": [
+      "Fontainebleau",
+      "Chambord",
+      "Louvre",
+      "Versalles"
+    ],
+    "correctIndex": 3,
+    "explanation": "Luis XIV trasladó la corte a Versalles en 1682."
+  },
+  {
+    "id": "cg-6929",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué seta japonesa se cultiva en troncos y se usa en sopas y salteados?",
+    "options": [
+      "Shiitake",
+      "Champiñón",
+      "Trufa",
+      "Boletus"
+    ],
+    "correctIndex": 0,
+    "explanation": "El shiitake es una seta comestible muy apreciada en la cocina japonesa."
+  },
+  {
+    "id": "cg-6930",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿En qué año se inauguró Brasilia como nueva capital de Brasil?",
+    "options": [
+      "1945",
+      "1960",
+      "1950",
+      "1975"
+    ],
+    "correctIndex": 1,
+    "explanation": "Brasilia se inauguró en 1960 y sustituyó a Río de Janeiro como capital."
+  },
+  {
+    "id": "cg-6931",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué pasta italiana tiene forma de tubos cortos y estrías?",
+    "options": [
+      "Espagueti",
+      "Penne",
+      "Farfalle",
+      "Lasaña"
+    ],
+    "correctIndex": 1,
+    "explanation": "Penne significa plumas en italiano y su superficie estriada retiene la salsa."
+  },
+  {
+    "id": "cg-6932",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué metal líquido se usó en termómetros antiguos?",
+    "options": [
+      "Plomo",
+      "Estaño",
+      "Mercurio",
+      "Zinc"
+    ],
+    "correctIndex": 2,
+    "explanation": "El mercurio es líquido a temperatura ambiente y se expande con el calor."
+  },
+  {
+    "id": "cg-6933",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué capital de Oceanía se encuentra en la isla Norte de su país, junto al estrecho de Cook?",
+    "options": [
+      "Canberra",
+      "Apia",
+      "Nukualofa",
+      "Wellington"
+    ],
+    "correctIndex": 3,
+    "explanation": "Wellington, en Nueva Zelanda, es la capital de un Estado soberano situada más al sur."
+  },
+  {
+    "id": "cg-6934",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué código de puntos y rayas se usó en el telégrafo?",
+    "options": [
+      "Braille",
+      "ASCII",
+      "Morse",
+      "Binario"
+    ],
+    "correctIndex": 2,
+    "explanation": "El código Morse representa letras y números con señales cortas y largas."
+  },
+  {
+    "id": "cg-6935",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué país del Cáucaso adoptó el cristianismo como religión oficial a comienzos del siglo IV?",
+    "options": [
+      "Armenia",
+      "Georgia",
+      "Grecia",
+      "Etiopía"
+    ],
+    "correctIndex": 0,
+    "explanation": "Armenia adoptó el cristianismo hacia el año 301, antes que el Imperio romano."
+  },
+  {
+    "id": "cg-6936",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué infusión sudamericana se bebe con una bombilla metálica en un recipiente llamado calabaza?",
+    "options": [
+      "Chai",
+      "Té helado",
+      "Café de olla",
+      "Mate"
+    ],
+    "correctIndex": 3,
+    "explanation": "El mate es una infusión tradicional de Argentina, Uruguay, Paraguay y el sur de Brasil."
+  },
+  {
+    "id": "cg-6937",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué documento inglés de 1215 limitó el poder del rey Juan sin Tierra?",
+    "options": [
+      "La Carta Magna",
+      "El Domesday Book",
+      "La Petición de Derechos",
+      "El Bill of Rights"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Carta Magna estableció que el rey también estaba sujeto a la ley."
+  },
+  {
+    "id": "cg-6938",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué país de África Occidental rodea casi por completo a Gambia y tiene su capital en Dakar?",
+    "options": [
+      "Guinea",
+      "Senegal",
+      "Malí",
+      "Mauritania"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gambia es un enclave casi completo dentro de Senegal, salvo su salida al mar."
+  },
+  {
+    "id": "cg-6939",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué almirante chino dirigió expediciones al océano Índico en el siglo XV?",
+    "options": [
+      "Zhang Qian",
+      "Kublai Kan",
+      "Zheng He",
+      "Sun Yat-sen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zheng He comandó grandes flotas de la dinastía Ming hasta África oriental."
+  },
+  {
+    "id": "cg-6940",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué país de la península arábiga tiene su capital en Mascate y es famoso por el incienso?",
+    "options": [
+      "Yemen",
+      "Arabia Saudita",
+      "Emiratos Árabes Unidos",
+      "Omán"
+    ],
+    "correctIndex": 3,
+    "explanation": "Omán fue un gran productor de incienso, resina aromática de sus árboles."
+  },
+  {
+    "id": "cg-6941",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué microorganismos transforman la leche en yogur?",
+    "options": [
+      "Levaduras",
+      "Virus",
+      "Hongos filamentosos",
+      "Bacterias lácticas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las bacterias lácticas fermentan la lactosa y acidifican la leche."
+  },
+  {
+    "id": "cg-6942",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué bebida valenciana se elabora con chufa, agua y azúcar?",
+    "options": [
+      "Horchata",
+      "Agua de jamaica",
+      "Té helado",
+      "Batido de almendra"
+    ],
+    "correctIndex": 0,
+    "explanation": "La horchata de chufa es típica de Valencia y se sirve muy fría."
+  },
+  {
+    "id": "cg-6943",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué templo camboyano aparece en la bandera nacional?",
+    "options": [
+      "Angkor Wat",
+      "Borobudur",
+      "Shwedagon",
+      "Wat Phra Kaew"
+    ],
+    "correctIndex": 0,
+    "explanation": "Angkor Wat se construyó en el siglo XII y es símbolo de Camboya."
+  },
+  {
+    "id": "cg-6944",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué árbol sudamericano produce el látex del caucho natural?",
+    "options": [
+      "Baobab",
+      "Hevea brasiliensis",
+      "Ceiba",
+      "Árbol del hule"
+    ],
+    "correctIndex": 1,
+    "explanation": "El árbol del caucho es originario de la cuenca amazónica y se cultiva en plantaciones."
+  },
+  {
+    "id": "cg-6945",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué condimento picante debe su nombre al náhuatl chilli?",
+    "options": [
+      "Pimienta",
+      "Chile",
+      "Jengibre",
+      "Mostaza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chile procede del náhuatl chilli, el nombre de la planta y su fruto."
+  },
+  {
+    "id": "cg-6946",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué capital de un Estado soberano se encuentra más al norte?",
+    "options": [
+      "Oslo",
+      "Helsinki",
+      "Reikiavik",
+      "Ottawa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Reikiavik, en Islandia, está a unos 64 grados de latitud norte."
+  },
+  {
+    "id": "cg-6947",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de vivienda de un solo piso debe su nombre a una palabra hindi?",
+    "options": [
+      "Chalet",
+      "Cabaña",
+      "Bungaló",
+      "Dúplex"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bungaló viene del hindi bangla, casa de estilo bengalí de un solo piso."
+  },
+  {
+    "id": "cg-6948",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad fue tomada por los otomanos en 1453?",
+    "options": [
+      "Atenas",
+      "Roma",
+      "Alejandría",
+      "Constantinopla"
+    ],
+    "correctIndex": 3,
+    "explanation": "La caída de Constantinopla marcó el fin del Imperio bizantino."
+  },
+  {
+    "id": "cg-6949",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué aleación metálica dio nombre a una edad de la Prehistoria?",
+    "options": [
+      "Bronce",
+      "Latón",
+      "Acero",
+      "Peltre"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Edad del Bronce debe su nombre a la aleación de cobre y estaño."
+  },
+  {
+    "id": "cg-6950",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué producto elaboran las abejas con el néctar de las flores?",
+    "options": [
+      "Cera",
+      "Miel",
+      "Polen",
+      "Jarabe de arce"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las abejas transforman el néctar y lo almacenan en los panales."
+  },
+  {
+    "id": "cg-6951",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué país del sudeste asiático usa el ringgit como moneda?",
+    "options": [
+      "Indonesia",
+      "Malasia",
+      "Tailandia",
+      "Filipinas"
+    ],
+    "correctIndex": 1,
+    "explanation": "El ringgit es la moneda de Malasia y se divide en 100 sen."
+  },
+  {
+    "id": "cg-6952",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué castillo bávaro inspiró el castillo de Disney?",
+    "options": [
+      "Hohenzollern",
+      "Heidelberg",
+      "Neuschwanstein",
+      "Linderhof"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neuschwanstein fue construido por Luis II de Baviera en el siglo XIX."
+  },
+  {
+    "id": "cg-6953",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué fruta cítrica debe su nombre al sánscrito naranga?",
+    "options": [
+      "Limón",
+      "Mandarina",
+      "Pomelo",
+      "Naranja"
+    ],
+    "correctIndex": 3,
+    "explanation": "Naranja remonta al sánscrito naranga, que pasó al persa y al árabe."
+  },
+  {
+    "id": "cg-6954",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué locomotora de George Stephenson ganó las pruebas de Rainhill en 1829?",
+    "options": [
+      "La Puffing Billy",
+      "La Locomotion",
+      "La Mallard",
+      "La Rocket"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Rocket demostró que las locomotoras de vapor podían remolcar trenes con eficacia."
+  },
+  {
+    "id": "cg-6955",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué emperador romano dividió el imperio entre sus hijos a su muerte en 395?",
+    "options": [
+      "Teodosio I",
+      "Constantino",
+      "Diocleciano",
+      "Justiniano I"
+    ],
+    "correctIndex": 0,
+    "explanation": "La división de 395 separó el Imperio romano de Oriente y el de Occidente."
+  },
+  {
+    "id": "cg-6956",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué país tiene su capital en Naipyidó, una ciudad planificada en el centro del territorio?",
+    "options": [
+      "Laos",
+      "Myanmar",
+      "Camboya",
+      "Tailandia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Naipyidó sustituyó a Rangún como capital administrativa de Myanmar en 2005."
+  },
+  {
+    "id": "cg-6957",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿De qué lengua caribeña proviene la palabra patata?",
+    "options": [
+      "Del náhuatl",
+      "Del quechua",
+      "Del taíno",
+      "Del mapuche"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patata deriva del taíno batata, nombre de la batata o boniato."
+  },
+  {
+    "id": "cg-6958",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué baile y género musical brasileño anima el carnaval de Río de Janeiro?",
+    "options": [
+      "La bossa nova",
+      "El frevo",
+      "La salsa",
+      "La samba"
+    ],
+    "correctIndex": 3,
+    "explanation": "La samba se desarrolló en las comunidades afrobrasileñas de Río de Janeiro."
+  },
+  {
+    "id": "cg-6959",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué proceso hace más resistente el caucho al calentarlo con azufre?",
+    "options": [
+      "Vulcanización",
+      "Polimerización",
+      "Destilación",
+      "Galvanización"
+    ],
+    "correctIndex": 0,
+    "explanation": "Charles Goodyear descubrió la vulcanización en 1839."
+  },
+  {
+    "id": "cg-6960",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué producto de higiene capilar proviene del hindi champi, un masaje de cabeza?",
+    "options": [
+      "Jabón",
+      "Crema",
+      "Champú",
+      "Colonia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Champú viene del hindi champi, que designa un masaje de cabeza."
+  },
+  {
+    "id": "cg-6961",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué país del sudeste asiático tiene una bandera con la silueta de Angkor Wat?",
+    "options": [
+      "Camboya",
+      "Tailandia",
+      "Laos",
+      "Vietnam"
+    ],
+    "correctIndex": 0,
+    "explanation": "La bandera camboyana muestra en blanco el templo de Angkor Wat."
+  },
+  {
+    "id": "cg-6962",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué grano americano se usa para hacer tortillas y tamales?",
+    "options": [
+      "Trigo",
+      "Maíz",
+      "Arroz",
+      "Cebada"
+    ],
+    "correctIndex": 1,
+    "explanation": "El maíz se domesticó en Mesoamérica y es central en la cocina mexicana."
+  },
+  {
+    "id": "cg-6963",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué bebida se obtiene al fermentar miel con agua?",
+    "options": [
+      "Cerveza",
+      "Hidromiel",
+      "Sidra",
+      "Sake"
+    ],
+    "correctIndex": 1,
+    "explanation": "La hidromiel es una bebida alcohólica fermentada a partir de miel."
+  },
+  {
+    "id": "cg-6964",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué costumbre española consiste en descansar después de la comida del mediodía?",
+    "options": [
+      "El aperitivo",
+      "La sobremesa",
+      "La siesta",
+      "El vermut"
+    ],
+    "correctIndex": 2,
+    "explanation": "La siesta se asocia al horario partido y al calor del mediodía, aunque no es universal."
+  },
+  {
+    "id": "cg-6965",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué vehículo de dos ruedas se impulsa con pedales?",
+    "options": [
+      "Motocicleta",
+      "Patinete",
+      "Bicicleta",
+      "Triciclo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La bicicleta se popularizó en el siglo XIX y no necesita motor."
+  },
+  {
+    "id": "cg-6966",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué queso suizo se derrite en la fondue?",
+    "options": [
+      "Parmesano",
+      "Gorgonzola",
+      "Manchego",
+      "Gruyère"
+    ],
+    "correctIndex": 3,
+    "explanation": "La fondue suiza suele combinar gruyère con otros quesos de montaña."
+  },
+  {
+    "id": "cg-6967",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿En qué país se fabricaba papel higiénico ya en la Edad Media?",
+    "options": [
+      "Egipto",
+      "Roma",
+      "India",
+      "China"
+    ],
+    "correctIndex": 3,
+    "explanation": "En China se producían hojas de papel para higiene personal siglos antes que en Europa."
+  },
+  {
+    "id": "cg-6968",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué faraón niño fue hallado en una tumba casi intacta en 1922?",
+    "options": [
+      "Ramsés II",
+      "Keops",
+      "Akenatón",
+      "Tutankamón"
+    ],
+    "correctIndex": 3,
+    "explanation": "La tumba de Tutankamón se descubrió en el Valle de los Reyes."
+  },
+  {
+    "id": "cg-6969",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué país del Himalaya mide su progreso con el Índice de Felicidad Nacional Bruta?",
+    "options": [
+      "Bután",
+      "Nepal",
+      "Bangladés",
+      "Sri Lanka"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bután popularizó la Felicidad Nacional Bruta como indicador de desarrollo."
+  },
+  {
+    "id": "cg-6970",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué festividad mexicana honra a los difuntos con altares y flores de cempasúchil?",
+    "options": [
+      "El Día de Muertos",
+      "El Día de Todos los Santos",
+      "El Carnaval",
+      "La Guelaguetza"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Día de Muertos se celebra el 1 y 2 de noviembre con ofrendas y visitas a los cementerios."
+  },
+  {
+    "id": "cg-6971",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué título nobiliario tenía John Montagu, a quien se atribuye el nombre del sándwich?",
+    "options": [
+      "Duque",
+      "Conde",
+      "Barón",
+      "Marqués"
+    ],
+    "correctIndex": 1,
+    "explanation": "John Montagu era conde de Sandwich y se le atribuye la difusión del bocadillo."
+  },
+  {
+    "id": "cg-6972",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué tubérculo andino se consume frito, hervido o en puré?",
+    "options": [
+      "Papa",
+      "Yuca",
+      "Batata",
+      "Ñame"
+    ],
+    "correctIndex": 0,
+    "explanation": "La papa se domesticó en los Andes y se difundió por el mundo tras el siglo XVI."
+  },
+  {
+    "id": "cg-6973",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué país debe su nombre a la palabra latina argentum, que designa la plata?",
+    "options": [
+      "Chile",
+      "Argentina",
+      "Uruguay",
+      "Paraguay"
+    ],
+    "correctIndex": 1,
+    "explanation": "Argentina procede del latín argentum, plata, por la leyenda de riquezas argentíferas."
+  },
+  {
+    "id": "cg-6974",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué bebida se obtiene al fermentar cebada y lúpulo?",
+    "options": [
+      "Vino",
+      "Sidra",
+      "Cerveza",
+      "Hidromiel"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cebada malteada aporta azúcares y el lúpulo amargor y aroma."
+  },
+  {
+    "id": "cg-6975",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué cereal es la base del pan tradicional en Europa y de la pasta?",
+    "options": [
+      "Arroz",
+      "Maíz",
+      "Cebada",
+      "Trigo"
+    ],
+    "correctIndex": 3,
+    "explanation": "La harina de trigo contiene gluten, que da elasticidad a la masa."
+  },
+  {
+    "id": "cg-6976",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué país sudamericano incluye la isla de Pascua en su territorio?",
+    "options": [
+      "Chile",
+      "Perú",
+      "Ecuador",
+      "Argentina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La isla de Pascua, o Rapa Nui, pertenece a Chile desde 1888."
+  },
+  {
+    "id": "cg-6977",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué país africano cambió su nombre en 1984 y tiene su capital en Uagadugú?",
+    "options": [
+      "Malí",
+      "Burkina Faso",
+      "Níger",
+      "Benín"
+    ],
+    "correctIndex": 1,
+    "explanation": "Burkina Faso sustituyó en 1984 el nombre de Alto Volta y conserva Uagadugú como capital."
+  },
+  {
+    "id": "cg-6978",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué guerra entre Atenas y Esparta narró el historiador Tucídides?",
+    "options": [
+      "Las guerras médicas",
+      "La guerra del Peloponeso",
+      "La guerra de Troya",
+      "Las guerras púnicas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tucídides escribió la historia de la guerra del Peloponeso en el siglo V a. C."
+  },
+  {
+    "id": "cg-6979",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué invento de Gideon Sundback sustituyó botones y cordones en la ropa?",
+    "options": [
+      "Velcro",
+      "Imperdible",
+      "Cremallera",
+      "Hebilla"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cremallera moderna se patentó a comienzos del siglo XX."
+  },
+  {
+    "id": "cg-6980",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué navegante portugués llegó a la India por mar en 1498?",
+    "options": [
+      "Fernando de Magallanes",
+      "Bartolomé Díaz",
+      "Pedro Álvares Cabral",
+      "Vasco da Gama"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vasco da Gama abrió la ruta marítima entre Portugal y la India."
+  },
+  {
+    "id": "cg-6981",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué dispositivo de descarga de agua popularizó John Crapper en el siglo XIX?",
+    "options": [
+      "Lavabo",
+      "Bidé",
+      "Inodoro con cisterna",
+      "Ducha"
+    ],
+    "correctIndex": 2,
+    "explanation": "Crapper mejoró el inodoro con cisterna, aunque no fue su inventor."
+  },
+  {
+    "id": "cg-6982",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué condimento japonés de sabor picante acompaña al sushi?",
+    "options": [
+      "Jengibre encurtido",
+      "Miso",
+      "Wasabi",
+      "Salsa de soja"
+    ],
+    "correctIndex": 2,
+    "explanation": "El wasabi auténtico se ralla de un rizoma de la familia del brócoli."
+  },
+  {
+    "id": "cg-6983",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿De qué flor se obtienen los estigmas que forman el azafrán?",
+    "options": [
+      "Del crocus",
+      "De la rosa",
+      "Del jazmín",
+      "De la lavanda"
+    ],
+    "correctIndex": 0,
+    "explanation": "El azafrán se obtiene de los estigmas de Crocus sativus y requiere mucha mano de obra."
+  },
+  {
+    "id": "cg-6984",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué muñeca rusa contiene otras muñecas más pequeñas en su interior?",
+    "options": [
+      "La balalaika",
+      "La matrioshka",
+      "La muñeca de porcelana",
+      "La peonza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las matrioshkas se tornean en madera y suelen pintarse con motivos folclóricos."
+  },
+  {
+    "id": "cg-6985",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué plato tailandés combina fideos de arroz, tamarindo y cacahuetes?",
+    "options": [
+      "Pho",
+      "Ramen",
+      "Pad thai",
+      "Nasi goreng"
+    ],
+    "correctIndex": 2,
+    "explanation": "El pad thai equilibra dulce, ácido, salado y picante."
+  },
+  {
+    "id": "cg-6986",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿De qué ciudad alemana toma su nombre la hamburguesa?",
+    "options": [
+      "Fráncfort",
+      "Berlín",
+      "Múnich",
+      "Hamburgo"
+    ],
+    "correctIndex": 3,
+    "explanation": "La hamburguesa debe su nombre al estilo de carne picada asociado a Hamburgo."
+  },
+  {
+    "id": "cg-6987",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué género musical portugués, melancólico y urbano, se asocia a Lisboa?",
+    "options": [
+      "El flamenco",
+      "La morna",
+      "El rebetiko",
+      "El fado"
+    ],
+    "correctIndex": 3,
+    "explanation": "El fado se canta con guitarra portuguesa y expresa saudade."
+  },
+  {
+    "id": "cg-6988",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿De qué lengua proviene la palabra té?",
+    "options": [
+      "Del chino",
+      "Del árabe",
+      "Del hindi",
+      "Del portugués"
+    ],
+    "correctIndex": 0,
+    "explanation": "La palabra té llega del chino meridional tê, difundida por comerciantes neerlandeses."
+  },
+  {
+    "id": "cg-6989",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué pueblo nórdico construía barcos largos y exploraba el Atlántico?",
+    "options": [
+      "Los fenicios",
+      "Los vikingos",
+      "Los cartagineses",
+      "Los hunos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los vikingos navegaron desde Escandinavia hasta América del Norte y el Mediterráneo."
+  },
+  {
+    "id": "cg-6990",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué país europeo está dividido en comunidades lingüísticas y tiene su capital en Bruselas?",
+    "options": [
+      "Suiza",
+      "Canadá",
+      "Bélgica",
+      "Finlandia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bélgica organiza parte de su administración en comunidades flamenca, francófona y germanófona."
+  },
+  {
+    "id": "cg-6991",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué aparato de los hermanos Lumière proyectaba películas en 1895?",
+    "options": [
+      "Cinematógrafo",
+      "Fonógrafo",
+      "Fotoscopio",
+      "Proyector de diapositivas"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cinematógrafo servía para filmar y proyectar películas."
+  },
+  {
+    "id": "cg-6992",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué batalla de 1066 permitió a Guillermo el Conquistador tomar Inglaterra?",
+    "options": [
+      "La batalla de Stamford Bridge",
+      "La batalla de Hastings",
+      "La batalla de Agincourt",
+      "La batalla de Bosworth"
+    ],
+    "correctIndex": 1,
+    "explanation": "Guillermo de Normandía venció a Harold II en Hastings y se convirtió en rey de Inglaterra."
+  },
+  {
+    "id": "cg-6993",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ciudad turca se extiende a ambos lados del estrecho del Bósforo?",
+    "options": [
+      "Ankara",
+      "Esmirna",
+      "Atenas",
+      "Estambul"
+    ],
+    "correctIndex": 3,
+    "explanation": "Estambul ocupa las orillas europea y asiática del Bósforo."
+  },
+  {
+    "id": "cg-6994",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué hortaliza roja es el ingrediente principal del gazpacho andaluz?",
+    "options": [
+      "Tomate",
+      "Pepino",
+      "Pimiento",
+      "Berenjena"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tomate llegó a Europa desde América y es la base del gazpacho, aunque botánicamente es una baya."
+  },
+  {
+    "id": "cg-6995",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿De qué lengua procede la expresión jaque mate?",
+    "options": [
+      "Del árabe",
+      "Del sánscrito",
+      "Del turco",
+      "Del persa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jaque mate viene del persa shah mat, el rey está vencido o sin recursos."
+  },
+  {
+    "id": "cg-6996",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué país sudamericano debe su nombre al navegante Cristóbal Colón?",
+    "options": [
+      "Venezuela",
+      "Colombia",
+      "Panamá",
+      "Ecuador"
+    ],
+    "correctIndex": 1,
+    "explanation": "Colombia deriva de Colón, aunque el nombre se adoptó en el siglo XIX."
+  },
+  {
+    "id": "cg-6997",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué país tiene su capital constitucional en Sucre y la sede del gobierno en La Paz?",
+    "options": [
+      "Perú",
+      "Ecuador",
+      "Bolivia",
+      "Colombia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sucre conserva el título de capital constitucional, mientras La Paz alberga los poderes ejecutivo y legislativo."
+  },
+  {
+    "id": "cg-6998",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué término químico proviene del árabe al-kuhl, un polvo cosmético?",
+    "options": [
+      "Alcohol",
+      "Álcali",
+      "Elixir",
+      "Jarabe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alcohol viene del árabe al-kuhl, polvo de antimonio usado como cosmético."
+  },
+  {
+    "id": "cg-6999",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué alimento coreano se obtiene fermentando col con chile?",
+    "options": [
+      "Chucrut",
+      "Miso",
+      "Kimchi",
+      "Tempeh"
+    ],
+    "correctIndex": 2,
+    "explanation": "El kimchi se prepara con col, rábano, chile y salmuera."
+  },
+  {
+    "id": "cg-7000",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué especia son los botones florales secos de un árbol tropical de la familia del mirto?",
+    "options": [
+      "Nuez moscada",
+      "Cardamomo",
+      "Pimienta",
+      "Clavo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los clavos son capullos florales secos de Syzygium aromaticum."
+  },
+  {
+    "id": "cg-7001",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué país asiático está formado por unas 1.200 islas coralinas?",
+    "options": [
+      "Sri Lanka",
+      "Mauricio",
+      "Seychelles",
+      "Maldivas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Maldivas reúne unas 1.200 islas coralinas agrupadas en atolones."
+  },
+  {
+    "id": "cg-7002",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué gesto de saludo es habitual en Japón e incluye inclinar el torso?",
+    "options": [
+      "La reverencia",
+      "El apretón de manos",
+      "El abrazo",
+      "La venia"
+    ],
+    "correctIndex": 0,
+    "explanation": "La reverencia japonesa varía en profundidad según el contexto y la relación."
+  },
+  {
+    "id": "cg-7003",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué museo de París tiene una pirámide de vidrio en el patio?",
+    "options": [
+      "Museo de Orsay",
+      "Louvre",
+      "Centro Pompidou",
+      "Museo Rodin"
+    ],
+    "correctIndex": 1,
+    "explanation": "La pirámide de vidrio del Louvre, obra de I. M. Pei, se inauguró en 1989."
+  },
+  {
+    "id": "cg-7004",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿De qué lengua llegó al español la palabra limón?",
+    "options": [
+      "Del árabe",
+      "Del griego",
+      "Del latín",
+      "Del persa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Limón procede del árabe laymun, que a su vez tiene origen persa."
+  },
+  {
+    "id": "cg-7005",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿En qué país se documentan sombrillas de papel y bambú desde la Antigüedad?",
+    "options": [
+      "Egipto",
+      "China",
+      "Grecia",
+      "India"
+    ],
+    "correctIndex": 1,
+    "explanation": "En China se documentan sombrillas de papel y bambú desde hace siglos."
+  },
+  {
+    "id": "cg-7006",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué fibra vegetal se obtiene de la planta Gossypium y se usa en camisetas?",
+    "options": [
+      "Lino",
+      "Cáñamo",
+      "Algodón",
+      "Yute"
+    ],
+    "correctIndex": 2,
+    "explanation": "El algodón rodea las semillas de la planta y se hila para fabricar tejidos."
+  },
+  {
+    "id": "cg-7007",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué fruto americano es la base del guacamole?",
+    "options": [
+      "Tomate",
+      "Mango",
+      "Papaya",
+      "Aguacate"
+    ],
+    "correctIndex": 3,
+    "explanation": "El aguacate es originario de México y Centroamérica."
+  },
+  {
+    "id": "cg-7008",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué metal se extrae de la bauxita?",
+    "options": [
+      "Hierro",
+      "Aluminio",
+      "Cobre",
+      "Titanio"
+    ],
+    "correctIndex": 1,
+    "explanation": "La bauxita es el mineral del que se obtiene aluminio por electrólisis."
+  },
+  {
+    "id": "cg-7009",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué saludo tailandés se hace juntando las palmas y haciendo una leve reverencia?",
+    "options": [
+      "El namaste",
+      "El hongi",
+      "El wai",
+      "El salaam"
+    ],
+    "correctIndex": 2,
+    "explanation": "El wai se usa para saludar, agradecer o disculparse en Tailandia."
+  },
+  {
+    "id": "cg-7010",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué producto lácteo se obtiene al batir la nata?",
+    "options": [
+      "Mantequilla",
+      "Queso fresco",
+      "Yogur",
+      "Leche condensada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al batir la nata, los glóbulos de grasa se agrupan y forman mantequilla."
+  },
+  {
+    "id": "cg-7011",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿A quién se atribuye la mejora del papel en la China del siglo II?",
+    "options": [
+      "Bi Sheng",
+      "Zhang Heng",
+      "Confucio",
+      "Cai Lun"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cai Lun es tradición que perfeccionó el papel con fibras vegetales hacia el año 105."
+  },
+  {
+    "id": "cg-7012",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué conjunto musical tradicional mexicano usa violines, trompetas y guitarras?",
+    "options": [
+      "La tuna",
+      "El mariachi",
+      "El son cubano",
+      "La cumbia"
+    ],
+    "correctIndex": 1,
+    "explanation": "El mariachi se asocia especialmente a Jalisco y a las serenatas."
+  },
+  {
+    "id": "cg-7013",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué invento chino del siglo XI de Bi Sheng usaba piezas de barro cocido para imprimir?",
+    "options": [
+      "Brújula",
+      "Pólvora",
+      "Imprenta de tipos móviles",
+      "Papel moneda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bi Sheng describió tipos móviles de cerámica cocida antes de la imprenta de Gutenberg."
+  },
+  {
+    "id": "cg-7014",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué país sudamericano tiene dos lenguas oficiales, español y guaraní?",
+    "options": [
+      "Bolivia",
+      "Uruguay",
+      "Ecuador",
+      "Paraguay"
+    ],
+    "correctIndex": 3,
+    "explanation": "Paraguay reconoce el español y el guaraní como lenguas oficiales."
+  },
+  {
+    "id": "cg-7015",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ciudadela inca se construyó encajando piedras sin mortero?",
+    "options": [
+      "Machu Picchu",
+      "Tikal",
+      "Teotihuacán",
+      "Copán"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los incas ajustaban las piedras con gran precisión, sin argamasa."
+  },
+  {
+    "id": "cg-7016",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿En qué imperio se usaba un tenedor de mesa antes de generalizarse en Europa occidental?",
+    "options": [
+      "Bizantino",
+      "Romano",
+      "Otomano",
+      "Persa"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tenedor de mesa se usó en Bizancio y llegó a Venecia en la Edad Media."
+  },
+  {
+    "id": "cg-7017",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué fibra textil produce el gusano Bombyx mori?",
+    "options": [
+      "Lana",
+      "Algodón",
+      "Seda",
+      "Lino"
+    ],
+    "correctIndex": 2,
+    "explanation": "El gusano de seda forma un capullo con un hilo continuo de seda."
+  },
+  {
+    "id": "cg-7018",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué cereal es la base del risotto italiano?",
+    "options": [
+      "Trigo",
+      "Cebada",
+      "Mijo",
+      "Arroz"
+    ],
+    "correctIndex": 3,
+    "explanation": "El risotto se hace con arroz de grano corto, como el arborio."
+  },
+  {
+    "id": "cg-7019",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué material se obtiene al cocer arcilla y se usa en vasijas y ladrillos?",
+    "options": [
+      "Cerámica",
+      "Vidrio",
+      "Hormigón",
+      "Yeso"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cerámica se forma con arcilla y se endurece en el horno."
+  },
+  {
+    "id": "cg-7020",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿En qué país se popularizó el árbol de Navidad decorado en el siglo XIX?",
+    "options": [
+      "Italia",
+      "Alemania",
+      "Francia",
+      "Inglaterra"
+    ],
+    "correctIndex": 1,
+    "explanation": "La costumbre del árbol navideño se difundió desde Alemania, con figuras como el príncipe Alberto."
+  },
+  {
+    "id": "cg-7021",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué lengua está en el origen remoto de la palabra café?",
+    "options": [
+      "El italiano",
+      "El árabe",
+      "El turco",
+      "El griego"
+    ],
+    "correctIndex": 1,
+    "explanation": "Café procede del árabe qahwa, a través del turco kahve y del italiano caffè."
+  },
+  {
+    "id": "cg-7022",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué país europeo alberga el glaciar Vatnajökull y el volcán Eyjafjallajökull?",
+    "options": [
+      "Noruega",
+      "Finlandia",
+      "Islandia",
+      "Dinamarca"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Vatnajökull es uno de los mayores glaciares de Europa y está en Islandia."
+  },
+  {
+    "id": "cg-7023",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ciudad rusa, fundada por Pedro el Grande en 1703, está repartida entre varias islas del delta del Nevá?",
+    "options": [
+      "Moscú",
+      "Kiev",
+      "San Petersburgo",
+      "Odesa"
+    ],
+    "correctIndex": 2,
+    "explanation": "San Petersburgo se construyó sobre decenas de islas del delta del Nevá."
+  },
+  {
+    "id": "cg-7024",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué país de Asia occidental usa el shekel como moneda?",
+    "options": [
+      "Jordania",
+      "Líbano",
+      "Egipto",
+      "Israel"
+    ],
+    "correctIndex": 3,
+    "explanation": "El shekel es la moneda de Israel; su nombre remite a una antigua unidad de peso."
+  },
+  {
+    "id": "cg-7025",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué arqueólogo británico descubrió la tumba de Tutankamón?",
+    "options": [
+      "Arthur Evans",
+      "Heinrich Schliemann",
+      "Flinders Petrie",
+      "Howard Carter"
+    ],
+    "correctIndex": 3,
+    "explanation": "Carter encontró la tumba en 1922 tras años de excavaciones en el Valle de los Reyes."
+  },
+  {
+    "id": "cg-7026",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué procedimiento de Joseph Niépce fijó imágenes sobre una placa en 1826?",
+    "options": [
+      "Fotografía",
+      "Litografía",
+      "Grabado",
+      "Serigrafía"
+    ],
+    "correctIndex": 0,
+    "explanation": "Niépce obtuvo una de las primeras fotografías permanentes con una placa de estaño."
+  },
+  {
+    "id": "cg-7027",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué saludo maorí consiste en juntar y presionar las narices?",
+    "options": [
+      "El wai",
+      "El hongi",
+      "El namaste",
+      "El haka"
+    ],
+    "correctIndex": 1,
+    "explanation": "El hongi comparte el aliento y simboliza la unión entre las personas."
+  },
+  {
+    "id": "cg-7028",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué masa fermentada se reserva para iniciar nuevas hogazas de pan?",
+    "options": [
+      "Masa quebrada",
+      "Masa filo",
+      "Masa madre",
+      "Masa de hojaldre"
+    ],
+    "correctIndex": 2,
+    "explanation": "La masa madre contiene levaduras y bacterias que fermentan la harina."
+  },
+  {
+    "id": "cg-7029",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué gesto de saludo se asocia con mostrar la mano vacía para indicar falta de armas?",
+    "options": [
+      "La reverencia",
+      "El apretón de manos",
+      "El saludo militar",
+      "El abrazo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El apretón de manos tiene antecedentes antiguos y se generalizó como saludo formal."
+  },
+  {
+    "id": "cg-7030",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántas capitales oficiales tiene Sudáfrica?",
+    "options": [
+      "Una",
+      "Dos",
+      "Cuatro",
+      "Tres"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pretoria, Ciudad del Cabo y Bloemfontein reparten las funciones de capital."
+  },
+  {
+    "id": "cg-7031",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué tradición catalana consiste en levantar torres humanas?",
+    "options": [
+      "Los correfocs",
+      "La sardana",
+      "Los castells",
+      "Las fallas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los castells se construyen en plazas y se coronan con un niño que sube a la cima."
+  },
+  {
+    "id": "cg-7032",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué lago andino se encuentra a unos 3.800 metros de altitud y es navegable?",
+    "options": [
+      "Titicaca",
+      "Lago Poopó",
+      "Lago Argentino",
+      "Lago de Atitlán"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Titicaca, compartido por Perú y Bolivia, es el lago navegable más alto del mundo."
+  },
+  {
+    "id": "cg-7033",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué país de América Central tiene una moneda llamada quetzal, como el ave sagrada maya?",
+    "options": [
+      "Honduras",
+      "El Salvador",
+      "Belice",
+      "Guatemala"
+    ],
+    "correctIndex": 3,
+    "explanation": "El quetzal es el ave nacional de Guatemala y da nombre a su moneda."
+  },
+  {
+    "id": "cg-7034",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué país africano toma su nombre del río que lo atraviesa?",
+    "options": [
+      "Nigeria",
+      "Ghana",
+      "Camerún",
+      "Benín"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nigeria debe su nombre al río Níger, que recorre el oeste del país."
+  },
+  {
+    "id": "cg-7035",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué guerreros japoneses servían a los señores feudales y usaban katana?",
+    "options": [
+      "Los ninjas",
+      "Los samuráis",
+      "Los mongoles",
+      "Los caballeros"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los samuráis formaban la clase guerrera del Japón feudal."
+  },
+  {
+    "id": "cg-7036",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué navegante nórdico llegó a América del Norte hacia el año 1000?",
+    "options": [
+      "Erik el Rojo",
+      "Leif Erikson",
+      "Canuto el Grande",
+      "Harald Hardrada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las sagas nórdicas atribuyen a Leif Erikson la llegada a Vinland."
+  },
+  {
+    "id": "cg-7037",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿A qué país se atribuye el origen del croissant, antes de popularizarse en Francia?",
+    "options": [
+      "Italia",
+      "Bélgica",
+      "Austria",
+      "Suiza"
+    ],
+    "correctIndex": 2,
+    "explanation": "El croissant deriva del kipferl austriaco, aunque su forma actual se desarrolló en Francia."
+  },
+  {
+    "id": "cg-7038",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué caudillo huno invadió Europa en el siglo V?",
+    "options": [
+      "Gengis Kan",
+      "Tamerlán",
+      "Alarico",
+      "Atila"
+    ],
+    "correctIndex": 3,
+    "explanation": "Atila dirigió a los hunos en incursiones contra el Imperio romano de Occidente."
+  },
+  {
+    "id": "cg-7039",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué obelisco egipcio se alza en la plaza de la Concordia de París?",
+    "options": [
+      "Obelisco de Luxor",
+      "Obelisco de Cleopatra",
+      "Obelisco de Ramsés",
+      "Obelisco de Karnak"
+    ],
+    "correctIndex": 0,
+    "explanation": "El obelisco de Luxor, de más de 3.000 años, se instaló en París en 1836."
+  },
+  {
+    "id": "cg-7040",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué país de América Central usa el lempira como moneda?",
+    "options": [
+      "Honduras",
+      "Guatemala",
+      "El Salvador",
+      "Nicaragua"
+    ],
+    "correctIndex": 0,
+    "explanation": "El lempira hondureño lleva el nombre de un líder indígena del siglo XVI."
+  },
+  {
+    "id": "cg-7041",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué médico británico relacionó el cólera con el agua contaminada en Londres en 1854?",
+    "options": [
+      "Edward Jenner",
+      "John Snow",
+      "Louis Pasteur",
+      "Robert Koch"
+    ],
+    "correctIndex": 1,
+    "explanation": "Snow cartografió los casos y señaló una bomba de agua como foco del brote."
+  },
+  {
+    "id": "cg-7042",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué país celebra el festival Naadam con lucha, carreras de caballos y tiro con arco?",
+    "options": [
+      "Kazajistán",
+      "Kirguistán",
+      "Mongolia",
+      "Bután"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Naadam se celebra en Mongolia y combina los tres deportes tradicionales."
+  },
+  {
+    "id": "cg-7043",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué país escandinavo tiene un extenso archipiélago costero y una capital construida sobre varias islas?",
+    "options": [
+      "Noruega",
+      "Finlandia",
+      "Suecia",
+      "Dinamarca"
+    ],
+    "correctIndex": 2,
+    "explanation": "Suecia tiene una costa muy fragmentada, con archipiélagos como el de Estocolmo."
+  },
+  {
+    "id": "cg-7044",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué piedra de tres escrituras permitió descifrar los jeroglíficos egipcios?",
+    "options": [
+      "La piedra de Palermo",
+      "La piedra de Rosetta",
+      "La piedra de Behistún",
+      "La piedra de Scone"
+    ],
+    "correctIndex": 1,
+    "explanation": "La piedra de Rosetta contiene un decreto en jeroglífico, demótico y griego."
+  },
+  {
+    "id": "cg-7045",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué semilla es la materia prima del chocolate?",
+    "options": [
+      "Café",
+      "Vainilla",
+      "Nuez moscada",
+      "Cacao"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las semillas de cacao se fermentan, secan y tuestan antes de molerse."
+  },
+  {
+    "id": "cg-7046",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué palabra viene del francés restaurer, que significa recuperar fuerzas?",
+    "options": [
+      "Cafetería",
+      "Cantina",
+      "Restaurante",
+      "Fondue"
+    ],
+    "correctIndex": 2,
+    "explanation": "Restaurante viene del francés restaurant, participio de restaurer, restaurar."
+  },
+  {
+    "id": "cg-7047",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué tratado de 1494 repartió las zonas de exploración entre España y Portugal?",
+    "options": [
+      "El Tratado de Utrecht",
+      "El Tratado de Cateau-Cambrésis",
+      "El Tratado de Zaragoza",
+      "El Tratado de Tordesillas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tordesillas trazó un meridiano que dividió las áreas de expansión ibéricas en el Atlántico."
+  },
+  {
+    "id": "cg-7048",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué prenda tradicional escocesa se lleva como falda plisada?",
+    "options": [
+      "El kilt",
+      "El sarong",
+      "El dhoti",
+      "La hakama"
+    ],
+    "correctIndex": 0,
+    "explanation": "El kilt se asocia a las Tierras Altas de Escocia y a los tartanes de clan."
+  },
+  {
+    "id": "cg-7049",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué aleación de hierro y carbono se usa en estructuras y herramientas?",
+    "options": [
+      "Bronce",
+      "Acero",
+      "Aluminio",
+      "Fundición"
+    ],
+    "correctIndex": 1,
+    "explanation": "El acero es hierro con una pequeña proporción de carbono que le da dureza."
+  },
+  {
+    "id": "cg-7050",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué guiso húngaro se aromatiza con pimentón?",
+    "options": [
+      "Goulash",
+      "Borscht",
+      "Chucrut",
+      "Cuscús"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pimentón, hecho con pimientos secos, da color y sabor al goulash."
+  },
+  {
+    "id": "cg-7051",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué gas produce la levadura al fermentar la masa del pan?",
+    "options": [
+      "Oxígeno",
+      "Nitrógeno",
+      "Dióxido de carbono",
+      "Hidrógeno"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las burbujas de dióxido de carbono quedan atrapadas en la masa y la hacen subir."
+  },
+  {
+    "id": "cg-7052",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué calendario maya tenía 365 días y se basaba en el ciclo solar?",
+    "options": [
+      "El Tzolkin",
+      "El calendario juliano",
+      "El calendario lunar",
+      "El Haab"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Haab maya dividía el año solar en 18 meses de 20 días más cinco días finales."
+  },
+  {
+    "id": "cg-7053",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué lago de Siberia contiene cerca de una quinta parte del agua dulce del planeta?",
+    "options": [
+      "Lago Victoria",
+      "Baikal",
+      "Lago Superior",
+      "Lago Titicaca"
+    ],
+    "correctIndex": 1,
+    "explanation": "El lago Baikal es el más profundo del mundo y tiene agua muy limpia."
+  },
+  {
+    "id": "cg-7054",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué país de la península arábiga está formado por siete emiratos?",
+    "options": [
+      "Catar",
+      "Baréin",
+      "Omán",
+      "Emiratos Árabes Unidos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los siete emiratos se federaron a comienzos de la década de 1970; Abu Dabi es la capital."
+  },
+  {
+    "id": "cg-7055",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué objeto mexicano se rompe en fiestas para liberar dulces?",
+    "options": [
+      "La alcancía",
+      "El papalote",
+      "La piñata",
+      "La maraca"
+    ],
+    "correctIndex": 2,
+    "explanation": "La piñata tradicional se decora con papel y se golpea con un palo."
+  },
+  {
+    "id": "cg-7056",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué país sudamericano usa el sol como moneda?",
+    "options": [
+      "Perú",
+      "Ecuador",
+      "Bolivia",
+      "Chile"
+    ],
+    "correctIndex": 0,
+    "explanation": "El sol es la moneda oficial de Perú desde 1991."
+  },
+  {
+    "id": "cg-7057",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué parte de un árbol se usa para obtener la canela?",
+    "options": [
+      "La raíz",
+      "La corteza",
+      "La flor",
+      "La semilla"
+    ],
+    "correctIndex": 1,
+    "explanation": "La canela es la corteza interior seca de varias especies de árboles del género Cinnamomum."
+  },
+  {
+    "id": "cg-7058",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué basílica de Barcelona se comenzó a construir en 1882?",
+    "options": [
+      "Catedral de Barcelona",
+      "Santa María del Mar",
+      "San Pablo del Campo",
+      "Sagrada Familia"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Sagrada Familia, diseñada por Gaudí, sigue en construcción."
+  },
+  {
+    "id": "cg-7059",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué medio de comunicación transmitió imágenes en movimiento gracias a John Logie Baird?",
+    "options": [
+      "Televisión",
+      "Radio",
+      "Telégrafo",
+      "Cinematógrafo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Baird realizó demostraciones de televisión mecánica en la década de 1920."
+  },
+  {
+    "id": "cg-7060",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué país sudamericano es el único del continente cuya lengua oficial es el portugués?",
+    "options": [
+      "Argentina",
+      "Colombia",
+      "Brasil",
+      "Perú"
+    ],
+    "correctIndex": 2,
+    "explanation": "Brasil es el único Estado soberano sudamericano de lengua portuguesa."
+  },
+  {
+    "id": "cg-7061",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué condimento líquido fermentado de habas o soja nació en China y se usa en toda Asia?",
+    "options": [
+      "Salsa de pescado",
+      "Vinagre de arroz",
+      "Aceite de sésamo",
+      "Salsa de soja"
+    ],
+    "correctIndex": 3,
+    "explanation": "La salsa de soja se elabora fermentando soja con trigo y sal."
+  },
+  {
+    "id": "cg-7062",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué fibra animal se obtiene del vellón de las ovejas?",
+    "options": [
+      "Lana",
+      "Seda",
+      "Cuero",
+      "Alpaca"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lana protege del frío y se hila para prendas y mantas."
+  },
+  {
+    "id": "cg-7063",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué edificio de Sídney tiene cubiertas en forma de velas?",
+    "options": [
+      "Puente de la Bahía",
+      "Ópera de Sídney",
+      "Museo de Arte",
+      "Catedral de San Andrés"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Ópera de Sídney, diseñada por Jørn Utzon, se inauguró en 1973."
+  },
+  {
+    "id": "cg-7064",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué país tiene un conjunto de enclaves dentro de los Países Bajos conocido como Baarle-Hertog?",
+    "options": [
+      "Bélgica",
+      "Luxemburgo",
+      "Alemania",
+      "Francia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Baarle-Hertog está formado por fragmentos de territorio belga rodeados por los Países Bajos."
+  },
+  {
+    "id": "cg-7065",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué bebida india combina té, leche y especias?",
+    "options": [
+      "Lassi",
+      "Chai",
+      "Café turco",
+      "Horchata"
+    ],
+    "correctIndex": 1,
+    "explanation": "El chai indio suele llevar cardamomo, jengibre, canela y clavo."
+  },
+  {
+    "id": "cg-7066",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué faraón mandó construir la Gran Pirámide de Guiza?",
+    "options": [
+      "Tutankamón",
+      "Ramsés II",
+      "Keops",
+      "Hatshepsut"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Gran Pirámide de Guiza se atribuye al faraón Keops, de la IV dinastía."
+  },
+  {
+    "id": "cg-7067",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué endulzante se obtiene de la savia de los arces y es típico de Quebec?",
+    "options": [
+      "Melaza",
+      "Jarabe de maíz",
+      "Jarabe de arce",
+      "Miel de caña"
+    ],
+    "correctIndex": 2,
+    "explanation": "El jarabe de arce es típico de Quebec y el noreste de América del Norte."
+  },
+  {
+    "id": "cg-7068",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué nombre reciben los libros mayas pintados sobre corteza que conservan información astronómica y ritual?",
+    "options": [
+      "Los quipus",
+      "Las estelas",
+      "Los glifos",
+      "Los códices"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los códices mayas se pintaban sobre tiras de corteza y se plegaban como acordeón."
+  },
+  {
+    "id": "cg-7069",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué país asiático está formado por más de 7.000 islas y tiene su capital en Manila?",
+    "options": [
+      "Indonesia",
+      "Malasia",
+      "Vietnam",
+      "Filipinas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Filipinas es un archipiélago de más de 7.000 islas con capital en Manila."
+  },
+  {
+    "id": "cg-7070",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué capital europea se asienta a orillas del Moldava?",
+    "options": [
+      "Praga",
+      "Viena",
+      "Cracovia",
+      "Budapest"
+    ],
+    "correctIndex": 0,
+    "explanation": "El río Moldava, o Vltava, atraviesa el centro de Praga."
+  },
+  {
+    "id": "cg-7071",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué dispositivo de 1868 usaba gas para regular el tráfico en Londres?",
+    "options": [
+      "Faro",
+      "Semáforo",
+      "Señal de stop",
+      "Barrera ferroviaria"
+    ],
+    "correctIndex": 1,
+    "explanation": "El primer semáforo de gas se instaló cerca del Parlamento británico."
+  },
+  {
+    "id": "cg-7072",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué especia es la semilla de un árbol originario de las islas Banda?",
+    "options": [
+      "Clavo",
+      "Cardamomo",
+      "Nuez moscada",
+      "Pimienta de Jamaica"
+    ],
+    "correctIndex": 2,
+    "explanation": "La nuez moscada es la semilla de Myristica fragrans, nativa de las Molucas."
+  },
+  {
+    "id": "cg-7073",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿En qué año se coronó Napoleón como emperador de los franceses?",
+    "options": [
+      "1799",
+      "1804",
+      "1812",
+      "1815"
+    ],
+    "correctIndex": 1,
+    "explanation": "Napoleón se coronó en Notre Dame en 1804, tras proclamarse emperador."
+  },
+  {
+    "id": "cg-7074",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué canal inaugurado en 1914 une el Atlántico y el Pacífico?",
+    "options": [
+      "Canal de Panamá",
+      "Canal de Suez",
+      "Canal de Nicaragua",
+      "Canal de la Mancha"
+    ],
+    "correctIndex": 0,
+    "explanation": "El canal de Panamá utiliza esclusas para salvar el desnivel del terreno."
+  },
+  {
+    "id": "cg-7075",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué baile de pareja, con origen en los arrabales, es emblemático de Argentina?",
+    "options": [
+      "La chacarera",
+      "El tango",
+      "La cueca",
+      "El bolero"
+    ],
+    "correctIndex": 1,
+    "explanation": "El tango nació en Buenos Aires y Montevideo a finales del siglo XIX."
+  },
+  {
+    "id": "cg-7076",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué té japonés se elabora con hojas molidas en polvo?",
+    "options": [
+      "Sencha",
+      "Earl Grey",
+      "Matcha",
+      "Rooibos"
+    ],
+    "correctIndex": 2,
+    "explanation": "El matcha se bate en agua caliente y se usa en la ceremonia del té."
+  },
+  {
+    "id": "cg-7077",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué mezcla india de especias se añade al final de los curries?",
+    "options": [
+      "Curry en polvo",
+      "Pimentón",
+      "Cinco especias",
+      "Garam masala"
+    ],
+    "correctIndex": 3,
+    "explanation": "Garam masala significa mezcla cálida y suele llevar canela, cardamomo y clavo."
+  },
+  {
+    "id": "cg-7078",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué postre crujiente con un mensaje dentro se popularizó en Estados Unidos vinculado a inmigrantes japoneses?",
+    "options": [
+      "El pastel de luna",
+      "El mochi",
+      "El dorayaki",
+      "La galleta de la fortuna"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las galletas de la fortuna se difundieron en California y luego en la cocina chino-estadounidense."
+  },
+  {
+    "id": "cg-7079",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué plato griego alterna berenjena, carne y salsa blanca?",
+    "options": [
+      "Moussaka",
+      "Lasaña",
+      "Pastitsio",
+      "Pilaf"
+    ],
+    "correctIndex": 0,
+    "explanation": "La moussaka griega lleva capas de berenjena, carne y bechamel."
+  },
+  {
+    "id": "cg-7080",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué rizoma aromático se usa en repostería y en curries?",
+    "options": [
+      "Cúrcuma",
+      "Cardamomo",
+      "Jengibre",
+      "Comino"
+    ],
+    "correctIndex": 2,
+    "explanation": "El jengibre es un rizoma, un tallo subterráneo, no una raíz."
+  },
+  {
+    "id": "cg-7081",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué expedición dio la vuelta al mundo por primera vez entre 1519 y 1522?",
+    "options": [
+      "La de Colón",
+      "La de Magallanes y Elcano",
+      "La de Vasco da Gama",
+      "La de Cook"
+    ],
+    "correctIndex": 1,
+    "explanation": "Magallanes murió en Filipinas y Juan Sebastián Elcano completó el viaje."
+  },
+  {
+    "id": "cg-7082",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué término español, sinónimo de selva tropical, proviene del hindi?",
+    "options": [
+      "Sabana",
+      "Taiga",
+      "Estepa",
+      "Jungla"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jungla deriva del hindi jangal, que designa un terreno boscoso o salvaje."
+  },
+  {
+    "id": "cg-7083",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué pirámide maya de Chichén Itzá tiene escalones que suman 365?",
+    "options": [
+      "El Caracol",
+      "El Templo de los Guerreros",
+      "El Castillo",
+      "La Iglesia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las cuatro escaleras de El Castillo suman 364 escalones y la plataforma superior completa 365."
+  },
+  {
+    "id": "cg-7084",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué preparación alemana de col fermentada acompaña embutidos?",
+    "options": [
+      "Kimchi",
+      "Pepinillos",
+      "Aceitunas",
+      "Chucrut"
+    ],
+    "correctIndex": 3,
+    "explanation": "El chucrut se obtiene fermentando col con sal y bacterias lácticas."
+  },
+  {
+    "id": "cg-7085",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué sopa eslava de remolacha tiene un color rojo intenso?",
+    "options": [
+      "Borscht",
+      "Sopa de cebolla",
+      "Gazpacho",
+      "Minestrone"
+    ],
+    "correctIndex": 0,
+    "explanation": "El borscht se prepara con remolacha y es tradicional en Ucrania y Europa del Este."
+  },
+  {
+    "id": "cg-7086",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué bebida se prepara con hojas de Camellia sinensis?",
+    "options": [
+      "Té",
+      "Café",
+      "Mate",
+      "Cacao"
+    ],
+    "correctIndex": 0,
+    "explanation": "El té, el té verde y el té negro proceden de la misma planta."
+  },
+  {
+    "id": "cg-7087",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué pasta de soja fermentada se usa en la sopa japonesa?",
+    "options": [
+      "Tofu",
+      "Miso",
+      "Tempeh",
+      "Salsa de soja"
+    ],
+    "correctIndex": 1,
+    "explanation": "El miso se fermenta con soja, sal y koji, un hongo del arroz."
+  },
+  {
+    "id": "cg-7088",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿En qué país se originó el ajedrez?",
+    "options": [
+      "En Persia",
+      "En China",
+      "En la India",
+      "En Grecia"
+    ],
+    "correctIndex": 2,
+    "explanation": "El ajedrez deriva del chaturanga, un juego indio del siglo VI."
+  },
+  {
+    "id": "cg-7089",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué sistema de lectura táctil usa puntos en relieve?",
+    "options": [
+      "Morse",
+      "Braille",
+      "Alfabeto dactilológico",
+      "Código binario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Louis Braille creó el sistema de puntos que lleva su nombre en el siglo XIX."
+  },
+  {
+    "id": "cg-7090",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué producto chino se obtiene cuajando leche de soja?",
+    "options": [
+      "Miso",
+      "Tempeh",
+      "Tofu",
+      "Seitán"
+    ],
+    "correctIndex": 2,
+    "explanation": "El tofu se forma al cuajar la leche de soja con sales de magnesio o calcio."
+  },
+  {
+    "id": "cg-7091",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿De qué batalla de 490 a. C. toma su nombre una conocida carrera de 42 kilómetros?",
+    "options": [
+      "De la batalla de Salamina",
+      "De la batalla de Termópilas",
+      "De la batalla de Platea",
+      "De la batalla de Maratón"
+    ],
+    "correctIndex": 3,
+    "explanation": "La leyenda cuenta que un mensajero corrió de Maratón a Atenas para anunciar la victoria."
+  },
+  {
+    "id": "cg-7092",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué torre italiana se inclina por el terreno de arcilla blanda?",
+    "options": [
+      "Torre de Pisa",
+      "Torre de Siena",
+      "Torre de Bolonia",
+      "Campanile de Venecia"
+    ],
+    "correctIndex": 0,
+    "explanation": "El terreno blando bajo la torre de Pisa provocó su inclinación."
+  },
+  {
+    "id": "cg-7093",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué planta trepadora produce las vainas de las que se extrae la vainilla?",
+    "options": [
+      "Una palmera",
+      "Una orquídea",
+      "Un cactus",
+      "Una leguminosa"
+    ],
+    "correctIndex": 1,
+    "explanation": "La vainilla proviene de una orquídea del género Vanilla, originaria de México."
+  },
+  {
+    "id": "cg-7094",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué prenda de anillas metálicas protegía a los caballeros medievales?",
+    "options": [
+      "El peto",
+      "La armadura de placas",
+      "La cota de malla",
+      "El gambesón"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cota de malla se tejía con anillos de hierro entrelazados."
+  },
+  {
+    "id": "cg-7095",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué país africano tiene su capital en Gaborone y su nombre significa tierra de los tsuana?",
+    "options": [
+      "Botsuana",
+      "Zimbabue",
+      "Zambia",
+      "Namibia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Botswana significa tierra de los tsuana, el grupo étnico mayoritario."
+  },
+  {
+    "id": "cg-7096",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué prisión parisina fue asaltada el 14 de julio de 1789?",
+    "options": [
+      "La Conciergerie",
+      "El Louvre",
+      "Versalles",
+      "La Bastilla"
+    ],
+    "correctIndex": 3,
+    "explanation": "El asalto a la Bastilla se convirtió en símbolo de la Revolución francesa."
+  },
+  {
+    "id": "cg-7097",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué condimento de tomate debe su nombre a una salsa de pescado del hokkien?",
+    "options": [
+      "Mayonesa",
+      "Ketchup",
+      "Mostaza",
+      "Salsa barbacoa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ketchup viene del hokkien kê-tsiap, una salsa de pescado fermentada."
+  },
+  {
+    "id": "cg-7098",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué instrumento de 1656 de Christiaan Huygens mejoró la precisión mediante una oscilación regular?",
+    "options": [
+      "Reloj de sol",
+      "Reloj de arena",
+      "Reloj de péndulo",
+      "Cronómetro de cuarzo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El péndulo mejora la precisión porque su oscilación es regular."
+  },
+  {
+    "id": "cg-7099",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué sopa vietnamita combina fideos de arroz, caldo y hierbas?",
+    "options": [
+      "Ramen",
+      "Udon",
+      "Soba",
+      "Pho"
+    ],
+    "correctIndex": 3,
+    "explanation": "El pho se sirve con caldo aromatizado, carne y hierbas frescas."
+  },
+  {
+    "id": "cg-7100",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué país de América Central suprimió su ejército permanente en 1948?",
+    "options": [
+      "Panamá",
+      "Nicaragua",
+      "Honduras",
+      "Costa Rica"
+    ],
+    "correctIndex": 3,
+    "explanation": "Costa Rica disolvió su ejército tras la guerra civil de 1948."
+  }
+]

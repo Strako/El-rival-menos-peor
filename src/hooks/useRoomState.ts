@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { ApiError, callApi } from '../lib/api';
+import { broadcastRoomSync } from '../lib/realtime';
 import { supabase } from '../lib/supabase';
 import { useSessionStore } from '../store/session';
 import type { PlayerSession, RoomState } from '../types';
@@ -14,20 +15,46 @@ export function useRoomState(
   const [error, setError] = useState<string | null>(null);
   const [connected, setConnected] = useState(false);
   const inFlight = useRef(false);
+  const queuedRefetch = useRef(false);
   const mounted = useRef(true);
   const initialRef = useRef(initial ?? null);
+  const stateRef = useRef<RoomState | null>(initial ?? null);
+  const lastBroadcastKey = useRef<string | null>(null);
   const setActiveRoom = useSessionStore((s) => s.setActiveRoom);
+
+  const setStateSafe = useCallback((next: RoomState | null) => {
+    stateRef.current = next;
+    setState(next);
+  }, []);
 
   const refetch = useCallback(
     async (silent = true) => {
-      if (!roomId || !session || inFlight.current) return;
+      if (!roomId || !session) return;
+      if (inFlight.current) {
+        queuedRefetch.current = true;
+        return;
+      }
       inFlight.current = true;
       if (!silent) setLoading(true);
       try {
         const next = await callApi<RoomState>('game.state', { roomId }, session);
         if (!mounted.current) return;
-        setState(next);
+        const previous = stateRef.current;
+        setStateSafe(next);
         setError(null);
+
+        const transitionKey =
+          next.game?.phase === 'question'
+            ? `${next.game.id}:${next.question?.gameQuestionId ?? ''}:${next.question?.revision ?? ''}:${next.game.currentPlayerId ?? ''}`
+            : null;
+        if (
+          previous &&
+          transitionKey &&
+          transitionKey !== lastBroadcastKey.current
+        ) {
+          lastBroadcastKey.current = transitionKey;
+          void broadcastRoomSync(roomId);
+        }
       } catch (err) {
         if (!mounted.current) return;
         if (err instanceof ApiError && err.code === 'INVALID_SESSION') {
@@ -39,15 +66,19 @@ export function useRoomState(
           (err.code === 'NOT_IN_ROOM' || err.code === 'ROOM_NOT_FOUND')
         ) {
           useSessionStore.getState().setActiveRoom(null);
-          setState(null);
+          setStateSafe(null);
         }
         setError(err instanceof Error ? err.message : 'No se pudo actualizar la sala.');
       } finally {
         inFlight.current = false;
         if (!silent && mounted.current) setLoading(false);
+        if (queuedRefetch.current && mounted.current) {
+          queuedRefetch.current = false;
+          void refetch(true);
+        }
       }
     },
-    [roomId, session],
+    [roomId, session, setStateSafe],
   );
 
   useEffect(() => {
@@ -108,11 +139,14 @@ export function useRoomState(
 
   useEffect(() => {
     if (!state?.game?.revealUntil) return;
-    const delay = new Date(state.game.revealUntil).getTime() - Date.now() + 250;
-    if (delay <= 0) return;
+    const serverOffset = new Date(state.serverTime).getTime() - Date.now();
+    const delay = Math.max(
+      250,
+      new Date(state.game.revealUntil).getTime() - (Date.now() + serverOffset) + 250,
+    );
     const timer = window.setTimeout(() => void refetch(true), Math.min(delay, 8000));
     return () => window.clearTimeout(timer);
-  }, [state?.game?.revealUntil, refetch]);
+  }, [state?.game?.revealUntil, state?.serverTime, refetch]);
 
-  return { state, setState, loading, error, refetch, connected };
+  return { state, setState: setStateSafe, loading, error, refetch, connected };
 }

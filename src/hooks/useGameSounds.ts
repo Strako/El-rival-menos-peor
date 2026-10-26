@@ -31,7 +31,7 @@ export function detectSoundEvents(prev: RoomState | null, next: RoomState): Soun
     const roundChanged =
       prev.game?.phase !== 'question' || prev.game?.currentRound !== game.currentRound;
 
-    if (game.phase === 'question' && roundChanged) {
+    if (game.phase === 'question' && roundChanged && next.question?.isMine) {
       cues.push({
         key: `race:${game.id}:${game.currentRound}`,
         event: 'turn',
@@ -42,8 +42,9 @@ export function detectSoundEvents(prev: RoomState | null, next: RoomState): Soun
       prev.game?.phase !== 'question' ||
       prev.question?.gameQuestionId !== next.question.gameQuestionId ||
       prev.game?.currentPlayerId !== game.currentPlayerId;
+    const isMyTurn = game.currentPlayerId === next.me.playerId;
 
-    if (turnChanged) {
+    if (turnChanged && isMyTurn) {
       cues.push({
         key: `turn:${game.id}:${next.question.gameQuestionId}:${game.currentPlayerId}`,
         event: 'turn',

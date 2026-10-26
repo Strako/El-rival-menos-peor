@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "cg-6221",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero usa su trompa para respirar, oler y recoger objetos?",
+    "options": [
+      "Rinoceronte",
+      "Hipopótamo",
+      "Elefante",
+      "Tapir"
+    ],
+    "correctIndex": 2,
+    "explanation": "La trompa del elefante es una prolongación de la nariz y del labio superior."
+  },
+  {
+    "id": "cg-6222",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero africano alcanza las hojas altas gracias a su largo cuello?",
+    "options": [
+      "Jirafa",
+      "Okapi",
+      "Camello",
+      "Alce"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cuello de la jirafa le permite alimentarse de hojas fuera del alcance de otros herbívoros."
+  },
+  {
+    "id": "cg-6223",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué felino tiene rayas negras sobre un pelaje anaranjado?",
+    "options": [
+      "León",
+      "Tigre",
+      "Jaguar",
+      "Guepardo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El tigre es el único gran felino con rayas negras sobre fondo anaranjado."
+  },
+  {
+    "id": "cg-6224",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué felino social vive en manadas y cuyos machos desarrollan melena?",
+    "options": [
+      "Tigre",
+      "Puma",
+      "León",
+      "Lince"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los leones viven en grupos familiares llamados manadas y los machos tienen melena."
+  },
+  {
+    "id": "cg-6225",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué roedor construye presas y diques en los cursos de agua?",
+    "options": [
+      "Castor",
+      "Nutria",
+      "Capibara",
+      "Rata almizclera"
+    ],
+    "correctIndex": 0,
+    "explanation": "El castor corta troncos y construye diques para crear estanques donde vive."
+  },
+  {
+    "id": "cg-6226",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué marsupial lleva a sus crías en una bolsa abdominal?",
+    "options": [
+      "Koala",
+      "Wombat",
+      "Canguro",
+      "Equidna"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las crías de canguro nacen muy pequeñas y completan su desarrollo en la bolsa materna."
+  },
+  {
+    "id": "cg-6227",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero sudamericano está protegido por un caparazón de placas óseas?",
+    "options": [
+      "Pangolín",
+      "Armadillo",
+      "Erizo",
+      "Tortuga"
+    ],
+    "correctIndex": 1,
+    "explanation": "El armadillo tiene bandas óseas móviles y algunas especies pueden enrollarse formando una bola."
+  },
+  {
+    "id": "cg-6228",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero pasa gran parte del día colgado de las ramas y se desplaza muy despacio?",
+    "options": [
+      "Perezoso",
+      "Koala",
+      "Lémur",
+      "Mono aullador"
+    ],
+    "correctIndex": 0,
+    "explanation": "El perezoso tiene un metabolismo lento y pasa largas horas suspendido en los árboles."
+  },
+  {
+    "id": "cg-6229",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué primate africano usa ramitas para extraer termitas de sus nidos?",
+    "options": [
+      "Chimpancé",
+      "Gorila",
+      "Orangután",
+      "Babuino"
+    ],
+    "correctIndex": 0,
+    "explanation": "El chimpancé fabrica y emplea herramientas sencillas, como ramitas para pescar termitas."
+  },
+  {
+    "id": "cg-6230",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero blanco y negro se alimenta casi exclusivamente de bambú?",
+    "options": [
+      "Oso polar",
+      "Panda gigante",
+      "Oso bezudo",
+      "Panda rojo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El panda gigante consume grandes cantidades de bambú cada día."
+  },
+  {
+    "id": "cg-6231",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero de Asia central tiene dos jorobas y resiste climas fríos y secos?",
+    "options": [
+      "Dromedario",
+      "Llama",
+      "Vicuña",
+      "Camello bactriano"
+    ],
+    "correctIndex": 3,
+    "explanation": "El camello bactriano almacena grasa en sus dos jorobas y habita zonas áridas de Asia."
+  },
+  {
+    "id": "cg-6232",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué estructura usa una ballena para expulsar el aire al respirar?",
+    "options": [
+      "Branquia",
+      "Espiráculo",
+      "Vejiga natatoria",
+      "Aleta dorsal"
+    ],
+    "correctIndex": 1,
+    "explanation": "El espiráculo es la abertura nasal situada en la parte superior de la cabeza de los cetáceos."
+  },
+  {
+    "id": "cg-6233",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero marino del Ártico tiene dos largos colmillos?",
+    "options": [
+      "Foca",
+      "Morsa",
+      "Narval",
+      "Beluga"
+    ],
+    "correctIndex": 1,
+    "explanation": "La morsa usa sus colmillos para ayudarse a salir del agua y para exhibiciones sociales."
+  },
+  {
+    "id": "cg-6234",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero andino se usa como animal de carga y tiene orejas largas?",
+    "options": [
+      "Alpaca",
+      "Vicuña",
+      "Llama",
+      "Guanaco"
+    ],
+    "correctIndex": 2,
+    "explanation": "La llama es un camélido domesticado de los Andes empleado para transportar cargas."
+  },
+  {
+    "id": "cg-6235",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero es el único capaz de volar de forma activa?",
+    "options": [
+      "Ardilla voladora",
+      "Colugo",
+      "Lémur volador",
+      "Murciélago"
+    ],
+    "correctIndex": 3,
+    "explanation": "El murciélago es el único mamífero con alas verdaderas que le permiten volar batiendo."
+  },
+  {
+    "id": "cg-6236",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué roedor sudamericano puede superar los 50 kilogramos de peso?",
+    "options": [
+      "Castor",
+      "Capibara",
+      "Puercoespín",
+      "Nutria"
+    ],
+    "correctIndex": 1,
+    "explanation": "El capibara, natural de Sudamérica, es el roedor de mayor tamaño y puede pesar más de 50 kilogramos."
+  },
+  {
+    "id": "cg-6237",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué delfín de agua dulce vive en la cuenca del Amazonas y tiene color rosado?",
+    "options": [
+      "Delfín mular",
+      "Beluga",
+      "Delfín rosado",
+      "Narval"
+    ],
+    "correctIndex": 2,
+    "explanation": "El delfín rosado o boto habita ríos amazónicos y su piel adquiere tonos rosados con la edad."
+  },
+  {
+    "id": "cg-6238",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántos cuernos tiene normalmente un rinoceronte blanco?",
+    "options": [
+      "Uno",
+      "Tres",
+      "Ninguno",
+      "Dos"
+    ],
+    "correctIndex": 3,
+    "explanation": "El rinoceronte blanco suele tener dos cuernos, uno delante del otro sobre el hocico."
+  },
+  {
+    "id": "cg-6239",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero sudamericano se alimenta de hormigas y termitas con una lengua larga y pegajosa?",
+    "options": [
+      "Pangolín",
+      "Oso hormiguero gigante",
+      "Armadillo",
+      "Perezoso"
+    ],
+    "correctIndex": 1,
+    "explanation": "El oso hormiguero gigante introduce su lengua en los nidos de insectos sociales."
+  },
+  {
+    "id": "cg-6240",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero cubre su cuerpo con espinas y se enrolla ante el peligro?",
+    "options": [
+      "Puercoespín",
+      "Erizo",
+      "Equidna",
+      "Armadillo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El erizo eriza sus espinas y se enrolla para proteger las partes blandas de su cuerpo."
+  },
+  {
+    "id": "cg-6241",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué marsupial australiano se alimenta de hojas de eucalipto?",
+    "options": [
+      "Canguro",
+      "Wombat",
+      "Koala",
+      "Demonio de Tasmania"
+    ],
+    "correctIndex": 2,
+    "explanation": "El koala tiene un aparato digestivo adaptado a una dieta casi exclusiva de eucalipto."
+  },
+  {
+    "id": "cg-6242",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero marino es conocido por nadar en grupos y comunicarse con silbidos?",
+    "options": [
+      "Tiburón",
+      "Delfín",
+      "Foca",
+      "Manatí"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los delfines forman grupos sociales y emiten silbidos y chasquidos para comunicarse."
+  },
+  {
+    "id": "cg-6243",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué cánido aúlla para comunicarse con su manada y defender su territorio?",
+    "options": [
+      "Zorro",
+      "Coyote",
+      "Perro salvaje africano",
+      "Lobo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El aullido del lobo sirve para reunir a la manada y advertir a otros grupos."
+  },
+  {
+    "id": "cg-6244",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero omnívoro captura salmones en los ríos de América del Norte?",
+    "options": [
+      "Oso polar",
+      "Lobo",
+      "Oso pardo",
+      "Nutria"
+    ],
+    "correctIndex": 2,
+    "explanation": "El oso pardo aprovecha la migración del salmón para alimentarse antes del invierno."
+  },
+  {
+    "id": "cg-6245",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero carnívoro terrestre es el de mayor tamaño?",
+    "options": [
+      "Oso pardo",
+      "Tigre",
+      "Oso polar",
+      "León"
+    ],
+    "correctIndex": 2,
+    "explanation": "El oso polar es el carnívoro terrestre de mayor tamaño y depende del hielo marino para cazar."
+  },
+  {
+    "id": "cg-6246",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero africano cierra sus fosas nasales y orejas al sumergirse?",
+    "options": [
+      "Cocodrilo",
+      "Manatí",
+      "Tapir",
+      "Hipopótamo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El hipopótamo puede permanecer sumergido varios minutos con las aberturas cerradas."
+  },
+  {
+    "id": "cg-6247",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué mamífero marino depende de un pelaje muy denso, y no de grasa, para mantenerse caliente?",
+    "options": [
+      "Nutria marina",
+      "Foca",
+      "Morsa",
+      "Ballena"
+    ],
+    "correctIndex": 0,
+    "explanation": "La nutria marina tiene uno de los pelajes más densos del reino animal, con millones de pelos por metro cuadrado."
+  },
+  {
+    "id": "cg-6248",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántas cámaras tiene el estómago de una vaca?",
+    "options": [
+      "Dos",
+      "Tres",
+      "Cinco",
+      "Cuatro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El estómago de los rumiantes como la vaca tiene cuatro compartimentos."
+  },
+  {
+    "id": "cg-6249",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué órgano de la ballena azul puede pesar unos 400 kilogramos?",
+    "options": [
+      "Hígado",
+      "Corazón",
+      "Cerebro",
+      "Pulmón"
+    ],
+    "correctIndex": 1,
+    "explanation": "El corazón de una ballena azul es enorme y bombea sangre a un cuerpo de gran tamaño."
+  },
+  {
+    "id": "cg-6250",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué mamífero tiene espolones venenosos en las patas traseras de los machos?",
+    "options": [
+      "Equidna",
+      "Erizo",
+      "Musaraña",
+      "Ornitorrinco"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los machos de ornitorrinco poseen espolones venenosos que usan en disputas territoriales."
+  },
+  {
+    "id": "cg-6251",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuánto mide aproximadamente la lengua de una jirafa?",
+    "options": [
+      "45 centímetros",
+      "15 centímetros",
+      "75 centímetros",
+      "1 metro"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lengua de la jirafa es larga y prensil, y le ayuda a arrancar hojas de las acacias."
+  },
+  {
+    "id": "cg-6252",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué mamífero bucea a más de mil metros para cazar calamares?",
+    "options": [
+      "Ballena azul",
+      "Delfín",
+      "Foca",
+      "Cachalote"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cachalote realiza inmersiones profundas y se alimenta sobre todo de calamares."
+  },
+  {
+    "id": "cg-6253",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué murciélago se alimenta exclusivamente de sangre?",
+    "options": [
+      "Murciélago frugívoro",
+      "Vampiro común",
+      "Murciélago insectívoro",
+      "Murciélago nectarívoro"
+    ],
+    "correctIndex": 1,
+    "explanation": "El murciélago vampiro hace una pequeña incisión y lame la sangre de aves o mamíferos."
+  },
+  {
+    "id": "cg-6254",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuánto dura aproximadamente la gestación de un elefante africano?",
+    "options": [
+      "22 meses",
+      "9 meses",
+      "12 meses",
+      "30 meses"
+    ],
+    "correctIndex": 0,
+    "explanation": "La gestación del elefante africano es una de las más largas entre los mamíferos."
+  },
+  {
+    "id": "cg-6255",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ballena migra desde el Ártico hasta las lagunas de Baja California?",
+    "options": [
+      "Ballena jorobada",
+      "Ballena azul",
+      "Ballena gris",
+      "Ballena franca"
+    ],
+    "correctIndex": 2,
+    "explanation": "La ballena gris recorre grandes distancias para reproducirse en aguas cálidas."
+  },
+  {
+    "id": "cg-6256",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué primate es el único que vive en libertad en Europa, en Gibraltar?",
+    "options": [
+      "Macaco de Berbería",
+      "Chimpancé",
+      "Lémur",
+      "Babuino"
+    ],
+    "correctIndex": 0,
+    "explanation": "El macaco de Berbería habita en Gibraltar y es el único primate que vive en libertad en Europa."
+  },
+  {
+    "id": "cg-6257",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué primate sudamericano se cuelga de las ramas y usa su cola prensil como una quinta mano?",
+    "options": [
+      "Tití",
+      "Tamarino",
+      "Mono araña",
+      "Macaco"
+    ],
+    "correctIndex": 2,
+    "explanation": "El mono araña tiene brazos y piernas largos y una cola prensil muy ágil."
+  },
+  {
+    "id": "cg-6258",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué familia de mamíferos rumiantes incluye a vacas, ovejas y cabras?",
+    "options": [
+      "Cérvidos",
+      "Équidos",
+      "Suidos",
+      "Bóvidos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los bóvidos son rumiantes con cuernos permanentes, a diferencia de los cérvidos."
+  },
+  {
+    "id": "cg-6259",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué mamífero tiene un apéndice nasal con forma de estrella y caza bajo el agua?",
+    "options": [
+      "Topo de nariz estrellada",
+      "Musaraña",
+      "Desmán",
+      "Ornitorrinco"
+    ],
+    "correctIndex": 0,
+    "explanation": "El topo de nariz estrellada usa sus tentáculos nasales para detectar presas en el lodo."
+  },
+  {
+    "id": "cg-6260",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántas vértebras cervicales tiene una jirafa?",
+    "options": [
+      "Nueve",
+      "Doce",
+      "Siete",
+      "Cinco"
+    ],
+    "correctIndex": 2,
+    "explanation": "La jirafa tiene siete vértebras cervicales, aunque cada una es muy alargada."
+  },
+  {
+    "id": "cg-6261",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué mamífero comparte con los humanos huellas dactilares muy similares?",
+    "options": [
+      "Chimpancé",
+      "Koala",
+      "Gorila",
+      "Lémur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los koalas tienen crestas en las yemas de los dedos comparables a las huellas humanas."
+  },
+  {
+    "id": "cg-6262",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué órgano sensorial usan las focas para detectar vibraciones en aguas turbias?",
+    "options": [
+      "Bigotes",
+      "Aletas",
+      "Ojos",
+      "Oídos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los bigotes de las focas captan las estelas que dejan los peces al nadar."
+  },
+  {
+    "id": "cg-6263",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué mamífero resiste el veneno de muchas serpientes y las caza?",
+    "options": [
+      "Suricata",
+      "Tejón",
+      "Mangosta",
+      "Zorro"
+    ],
+    "correctIndex": 2,
+    "explanation": "La mangosta tiene proteínas que reducen el efecto de ciertos venenos de serpiente."
+  },
+  {
+    "id": "cg-6264",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué primate asiático es el único venenoso conocido?",
+    "options": [
+      "Tarsero",
+      "Loris lento",
+      "Gibón",
+      "Macaco"
+    ],
+    "correctIndex": 1,
+    "explanation": "El loris lento segrega una toxina en una glándula del brazo y la mezcla con su saliva."
+  },
+  {
+    "id": "cg-6265",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué mamífero australiano cubierto de espinas pone un huevo y amamanta sin pezones?",
+    "options": [
+      "Ornitorrinco",
+      "Equidna",
+      "Erizo",
+      "Pangolín"
+    ],
+    "correctIndex": 1,
+    "explanation": "El equidna es un monotrema: pone huevos y las crías lamen leche de la piel materna."
+  },
+  {
+    "id": "cg-6266",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué pequeño roedor del desierto obtiene casi toda el agua de sus semillas e insectos?",
+    "options": [
+      "Jerbo",
+      "Rata canguro",
+      "Hámster",
+      "Topo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La rata canguro evita beber y aprovecha el agua metabólica de sus alimentos."
+  },
+  {
+    "id": "cg-6267",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué felino no puede rugir y se comunica con gorjeos y ronroneos?",
+    "options": [
+      "León",
+      "Guepardo",
+      "Tigre",
+      "Jaguar"
+    ],
+    "correctIndex": 1,
+    "explanation": "El guepardo tiene una laringe que no le permite rugir; emite chirridos y ronroneos."
+  },
+  {
+    "id": "cg-6268",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué mamífero marino duerme con una sola mitad del cerebro a la vez?",
+    "options": [
+      "Foca",
+      "Ballena",
+      "Delfín",
+      "Morsa"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sueño unihemisférico permite al delfín seguir respirando y atento al entorno."
+  },
+  {
+    "id": "cg-6269",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué sustancia rojiza segrega la piel del hipopótamo para protegerse del sol?",
+    "options": [
+      "Melanina",
+      "Un pigmento protector",
+      "Sebo",
+      "Queratina"
+    ],
+    "correctIndex": 1,
+    "explanation": "El hipopótamo produce una secreción rojiza que filtra la radiación y combate bacterias."
+  },
+  {
+    "id": "cg-6270",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué animal tiene un colmillo que puede medir hasta tres metros?",
+    "options": [
+      "Narval",
+      "Morsa",
+      "Elefante",
+      "Hipopótamo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El colmillo del narval es en realidad un diente muy alargado y suele desarrollarlo el macho."
+  },
+  {
+    "id": "cg-6271",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué mamífero terrestre comunica a larga distancia con sonidos de baja frecuencia que los humanos no oyen?",
+    "options": [
+      "Murciélago",
+      "Elefante",
+      "León",
+      "Rinoceronte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los elefantes emiten infrasonidos que se transmiten por el suelo y el aire a grandes distancias."
+  },
+  {
+    "id": "cg-6272",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué primate de Madagascar usa un dedo delgado para extraer larvas de la madera?",
+    "options": [
+      "Lémur de cola anillada",
+      "Indri",
+      "Aye-aye",
+      "Tarsero"
+    ],
+    "correctIndex": 2,
+    "explanation": "El aye-aye golpea la corteza y usa su largo dedo medio para localizar y sacar larvas."
+  },
+  {
+    "id": "cg-6273",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué mamífero africano tiene las patas traseras con rayas parecidas a las de una cebra?",
+    "options": [
+      "Okapi",
+      "Gacela",
+      "Ñu",
+      "Kudú"
+    ],
+    "correctIndex": 0,
+    "explanation": "El okapi es pariente de la jirafa y habita selvas tropicales del centro de África."
+  },
+  {
+    "id": "cg-6274",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿De qué material están formadas las escamas del pangolín?",
+    "options": [
+      "Hueso",
+      "Queratina",
+      "Cartílago",
+      "Quitina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las escamas del pangolín son de queratina, el mismo material de las uñas y los cuernos."
+  },
+  {
+    "id": "cg-6275",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué mamífero forma colonias con una reina y obreras, como las abejas?",
+    "options": [
+      "Rata topo desnuda",
+      "Suricata",
+      "Perrito de la pradera",
+      "Castor"
+    ],
+    "correctIndex": 0,
+    "explanation": "La rata topo desnuda es un mamífero eusocial con castas reproductivas y no reproductivas."
+  },
+  {
+    "id": "cg-6276",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ave no voladora de África es la de mayor tamaño?",
+    "options": [
+      "Emú",
+      "Avestruz",
+      "Ñandú",
+      "Casuario"
+    ],
+    "correctIndex": 1,
+    "explanation": "El avestruz es el ave viva de mayor tamaño y puede correr a gran velocidad."
+  },
+  {
+    "id": "cg-6277",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ave marina tiene una bolsa en el pico que usa para pescar?",
+    "options": [
+      "Albatros",
+      "Gaviota",
+      "Pelícano",
+      "Cormorán"
+    ],
+    "correctIndex": 2,
+    "explanation": "La bolsa del pelícano se estira bajo el pico y le ayuda a capturar peces."
+  },
+  {
+    "id": "cg-6278",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ave carroñera de gran tamaño suele tener la cabeza sin plumas?",
+    "options": [
+      "Buitre",
+      "Águila",
+      "Halcón",
+      "Búho"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cabeza desnuda del buitre facilita su higiene al alimentarse de carroña."
+  },
+  {
+    "id": "cg-6279",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ave rapaz nocturna tiene ojos grandes y puede girar la cabeza unos 270 grados?",
+    "options": [
+      "Águila",
+      "Halcón",
+      "Lechuza",
+      "Búho"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los búhos tienen ojos fijos y compensan girando el cuello para mirar alrededor."
+  },
+  {
+    "id": "cg-6280",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ave despliega su cola en abanico durante el cortejo?",
+    "options": [
+      "Pavo real",
+      "Faisán",
+      "Tucán",
+      "Flamenco"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pavo real macho exhibe su cola con ocelos para atraer a las hembras."
+  },
+  {
+    "id": "cg-6281",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ave migratoria vuela en formaciones en V durante sus desplazamientos?",
+    "options": [
+      "Avestruz",
+      "Ganso",
+      "Pingüino",
+      "Kiwi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La formación en V reduce la resistencia del aire para las aves que siguen a la líder."
+  },
+  {
+    "id": "cg-6282",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ave construye un nido de barro en forma de copa y anuncia la primavera?",
+    "options": [
+      "Cuervo",
+      "Golondrina",
+      "Petirrojo",
+      "Mirlo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Muchas golondrinas construyen nidos de barro adheridos a paredes y aleros."
+  },
+  {
+    "id": "cg-6283",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ave rosada suele sostenerse sobre una sola pata?",
+    "options": [
+      "Cisne",
+      "Garza",
+      "Flamenco",
+      "Espátula"
+    ],
+    "correctIndex": 2,
+    "explanation": "El flamenco adopta esa postura para regular su temperatura corporal."
+  },
+  {
+    "id": "cg-6284",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ave pone sus huevos en el nido de otras especies?",
+    "options": [
+      "Paloma",
+      "Urraca",
+      "Cuco",
+      "Gorrión"
+    ],
+    "correctIndex": 2,
+    "explanation": "El cuco practica el parasitismo de cría y deja que otras aves incuben sus huevos."
+  },
+  {
+    "id": "cg-6285",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ave marina tiene una envergadura de alas que puede superar los tres metros?",
+    "options": [
+      "Pelícano",
+      "Gaviota",
+      "Flamenco",
+      "Albatros"
+    ],
+    "correctIndex": 3,
+    "explanation": "El albatros viajero tiene una de las mayores envergaduras entre las aves actuales."
+  },
+  {
+    "id": "cg-6286",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ave marina se lanza en picado al agua desde gran altura para pescar?",
+    "options": [
+      "Alcatraz",
+      "Pelícano",
+      "Flamenco",
+      "Avestruz"
+    ],
+    "correctIndex": 0,
+    "explanation": "El alcatraz se zambulle a gran velocidad y atrapa peces bajo la superficie."
+  },
+  {
+    "id": "cg-6287",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ave no voladora es símbolo nacional de Nueva Zelanda?",
+    "options": [
+      "Emú",
+      "Pingüino",
+      "Avestruz",
+      "Kiwi"
+    ],
+    "correctIndex": 3,
+    "explanation": "El kiwi es un ave nocturna y no voladora endémica de Nueva Zelanda."
+  },
+  {
+    "id": "cg-6288",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ave usa su largo pico para extraer néctar de las flores?",
+    "options": [
+      "Tucán",
+      "Pato",
+      "Colibrí",
+      "Buitre"
+    ],
+    "correctIndex": 2,
+    "explanation": "El colibrí introduce el pico en las flores y liba néctar con una lengua especializada."
+  },
+  {
+    "id": "cg-6289",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ave pone el huevo de mayor tamaño?",
+    "options": [
+      "Emú",
+      "Avestruz",
+      "Cisne",
+      "Albatros"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un huevo de avestruz puede pesar alrededor de un kilogramo y medio."
+  },
+  {
+    "id": "cg-6290",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántas cámaras tiene el corazón de un ave?",
+    "options": [
+      "Dos",
+      "Cuatro",
+      "Tres",
+      "Cinco"
+    ],
+    "correctIndex": 1,
+    "explanation": "El corazón de las aves tiene cuatro cámaras y separa por completo la sangre oxigenada."
+  },
+  {
+    "id": "cg-6291",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué característica de los huesos de las aves facilita el vuelo?",
+    "options": [
+      "Son macizos y pesados",
+      "Están hechos de cartílago",
+      "Son huecos y ligeros",
+      "No tienen médula"
+    ],
+    "correctIndex": 2,
+    "explanation": "Muchos huesos de aves son neumatizados, es decir, huecos y conectados a sacos aéreos."
+  },
+  {
+    "id": "cg-6292",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de plumas forman la superficie sustentadora de las alas?",
+    "options": [
+      "Plumón",
+      "Filoplumas",
+      "Remeras",
+      "Coberteras"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las remeras son plumas largas y firmes que dan forma y sustentación al ala."
+  },
+  {
+    "id": "cg-6293",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué parte del huevo aporta alimento al embrión?",
+    "options": [
+      "La cáscara",
+      "La clara",
+      "La cámara de aire",
+      "La yema"
+    ],
+    "correctIndex": 3,
+    "explanation": "La yema contiene las reservas nutritivas que el embrión consume durante su desarrollo."
+  },
+  {
+    "id": "cg-6294",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ave antártica incuba su único huevo sobre las patas?",
+    "options": [
+      "Pingüino de Adelia",
+      "Albatros",
+      "Pingüino emperador",
+      "Petrel"
+    ],
+    "correctIndex": 2,
+    "explanation": "El pingüino emperador mantiene el huevo sobre sus patas y lo cubre con un pliegue de piel."
+  },
+  {
+    "id": "cg-6295",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué ave ha mostrado indicios de reconocerse en un espejo en pruebas de laboratorio?",
+    "options": [
+      "Gorrión",
+      "Paloma",
+      "Avestruz",
+      "Urraca"
+    ],
+    "correctIndex": 3,
+    "explanation": "La urraca es una de las pocas aves que ha superado la prueba de la marca frente al espejo."
+  },
+  {
+    "id": "cg-6296",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué familia de aves incluye a los loros, guacamayos y cotorras?",
+    "options": [
+      "Psitácidas",
+      "Córvidos",
+      "Falcónidas",
+      "Anátidas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las psitácidas se caracterizan por su pico curvo y sus dedos zigodáctilos."
+  },
+  {
+    "id": "cg-6297",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué órgano muscular de las aves tritura el alimento?",
+    "options": [
+      "Buche",
+      "Proventrículo",
+      "Siringe",
+      "Molleja"
+    ],
+    "correctIndex": 3,
+    "explanation": "La molleja, con ayuda de pequeñas piedras ingeridas, tritura los alimentos duros."
+  },
+  {
+    "id": "cg-6298",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ave puede volar hacia atrás de forma sostenida?",
+    "options": [
+      "Vencejo",
+      "Golondrina",
+      "Martín pescador",
+      "Colibrí"
+    ],
+    "correctIndex": 3,
+    "explanation": "La articulación de las alas del colibrí le permite batir en todas direcciones y retroceder."
+  },
+  {
+    "id": "cg-6299",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué ave realiza una migración anual de decenas de miles de kilómetros entre el Ártico y la Antártida?",
+    "options": [
+      "Albatros viajero",
+      "Ganso canadiense",
+      "Charrán ártico",
+      "Flamenco"
+    ],
+    "correctIndex": 2,
+    "explanation": "El charrán ártico recorre una de las rutas migratorias más largas conocidas."
+  },
+  {
+    "id": "cg-6300",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué ave alcanza velocidades superiores a 300 km/h al lanzarse en picado?",
+    "options": [
+      "Águila real",
+      "Vencejo común",
+      "Albatros",
+      "Halcón peregrino"
+    ],
+    "correctIndex": 3,
+    "explanation": "El halcón peregrino es el animal más rápido en vuelo en picado."
+  },
+  {
+    "id": "cg-6301",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué ave tropical conserva garras en las alas durante sus primeros días de vida?",
+    "options": [
+      "Hoacín",
+      "Tucán",
+      "Loro",
+      "Colibrí"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hoacín usa esas garras para trepar por las ramas antes de poder volar bien."
+  },
+  {
+    "id": "cg-6302",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué ave australiana incuba sus huevos en un montículo de materia vegetal en descomposición?",
+    "options": [
+      "Talégalo",
+      "Emú",
+      "Casuario",
+      "Kiwi"
+    ],
+    "correctIndex": 0,
+    "explanation": "El calor de la fermentación mantiene los huevos del talégalo a temperatura constante."
+  },
+  {
+    "id": "cg-6303",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué ave alimenta a sus crías con una secreción nutritiva producida en el buche?",
+    "options": [
+      "Pato",
+      "Paloma",
+      "Gaviota",
+      "Buitre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ambos progenitores de la paloma producen leche de buche para alimentar a los pichones."
+  },
+  {
+    "id": "cg-6304",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué ave tiene una lengua tan larga que se enrolla alrededor de su cráneo?",
+    "options": [
+      "Tucán",
+      "Colibrí",
+      "Pelícano",
+      "Pájaro carpintero"
+    ],
+    "correctIndex": 3,
+    "explanation": "La lengua del pájaro carpintero se extiende para extraer insectos de la madera."
+  },
+  {
+    "id": "cg-6305",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué animal marino tiene forma de paraguas y tentáculos urticantes?",
+    "options": [
+      "Estrella de mar",
+      "Medusa",
+      "Calamar",
+      "Coral"
+    ],
+    "correctIndex": 1,
+    "explanation": "La medusa es un animal gelatinoso con tentáculos que pueden inyectar sustancias urticantes."
+  },
+  {
+    "id": "cg-6306",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántos brazos tiene normalmente una estrella de mar?",
+    "options": [
+      "Tres",
+      "Cinco",
+      "Siete",
+      "Diez"
+    ],
+    "correctIndex": 1,
+    "explanation": "La mayoría de las estrellas de mar tienen cinco brazos dispuestos alrededor de un disco central."
+  },
+  {
+    "id": "cg-6307",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué crustáceo marino tiene un caparazón duro y una cola en forma de abanico?",
+    "options": [
+      "Cangrejo",
+      "Camarón",
+      "Langosta",
+      "Krill"
+    ],
+    "correctIndex": 2,
+    "explanation": "La langosta tiene un caparazón robusto y un abdomen terminado en una cola en abanico."
+  },
+  {
+    "id": "cg-6308",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué tiburón es un gran depredador con dientes triangulares y hocico puntiagudo?",
+    "options": [
+      "Tiburón ballena",
+      "Tiburón martillo",
+      "Tiburón blanco",
+      "Tiburón peregrino"
+    ],
+    "correctIndex": 2,
+    "explanation": "El tiburón blanco es un depredador tope de aguas templadas y costeras."
+  },
+  {
+    "id": "cg-6309",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué pez plano tiene ambos ojos en el mismo lado de la cabeza?",
+    "options": [
+      "Lenguado",
+      "Salmón",
+      "Atún",
+      "Sardina"
+    ],
+    "correctIndex": 0,
+    "explanation": "El lenguado nada apoyado sobre un costado y sus dos ojos miran hacia arriba."
+  },
+  {
+    "id": "cg-6310",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué pez se infla con agua o aire cuando se siente amenazado?",
+    "options": [
+      "Pez espada",
+      "Pez payaso",
+      "Pez volador",
+      "Pez globo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El pez globo llena su estómago elástico y eriza sus espinas para disuadir a los depredadores."
+  },
+  {
+    "id": "cg-6311",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué pez tiene una gran aleta dorsal en forma de vela y es muy veloz?",
+    "options": [
+      "Pez globo",
+      "Pez piedra",
+      "Pez payaso",
+      "Pez vela"
+    ],
+    "correctIndex": 3,
+    "explanation": "El pez vela despliega su aleta dorsal y es uno de los peces más rápidos del océano."
+  },
+  {
+    "id": "cg-6312",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué pequeño crustáceo parecido al camarón forma grandes concentraciones en los océanos fríos?",
+    "options": [
+      "Krill",
+      "Percebe",
+      "Cangrejo ermitaño",
+      "Langostino"
+    ],
+    "correctIndex": 0,
+    "explanation": "El krill es una pieza clave de las redes alimenticias antárticas."
+  },
+  {
+    "id": "cg-6313",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué pez de agua dulce tiene bigotes sensoriales junto a la boca?",
+    "options": [
+      "Bagre",
+      "Trucha",
+      "Carpa",
+      "Piraña"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los bigotes del bagre, llamados barbillas, le ayudan a detectar alimento en aguas turbias."
+  },
+  {
+    "id": "cg-6314",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué pez puede respirar aire y sobrevivir fuera del agua durante horas?",
+    "options": [
+      "Salmón",
+      "Pez pulmonado",
+      "Tiburón",
+      "Caballito de mar"
+    ],
+    "correctIndex": 1,
+    "explanation": "El pez pulmonado posee pulmones que le permiten tomar oxígeno del aire."
+  },
+  {
+    "id": "cg-6315",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué pez sudamericano puede generar descargas eléctricas para aturdir a sus presas?",
+    "options": [
+      "Anguila eléctrica",
+      "Piraña",
+      "Bagre",
+      "Pez disco"
+    ],
+    "correctIndex": 0,
+    "explanation": "La anguila eléctrica produce descargas mediante órganos especializados en su cuerpo."
+  },
+  {
+    "id": "cg-6316",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué pez se adhiere a tiburones y otros animales con una ventosa en la cabeza?",
+    "options": [
+      "Rémora",
+      "Pez payaso",
+      "Pez volador",
+      "Pez sierra"
+    ],
+    "correctIndex": 0,
+    "explanation": "La rémora usa una ventosa dorsal para viajar adherida a animales más grandes."
+  },
+  {
+    "id": "cg-6317",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué pequeño pez de arrecife se alimenta de parásitos de peces más grandes?",
+    "options": [
+      "Pez limpiador",
+      "Pez globo",
+      "Pez espada",
+      "Morena"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pez limpiador retira parásitos y tejido muerto de la piel de otros peces."
+  },
+  {
+    "id": "cg-6318",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué molusco tiene una concha formada por dos valvas?",
+    "options": [
+      "Caracol",
+      "Pulpo",
+      "Almeja",
+      "Calamar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las almejas son bivalvos: su concha está formada por dos piezas unidas por una charnela."
+  },
+  {
+    "id": "cg-6319",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué cefalópodo tiene diez brazos y expulsa tinta cuando se asusta?",
+    "options": [
+      "Pulpo",
+      "Medusa",
+      "Calamar",
+      "Estrella de mar"
+    ],
+    "correctIndex": 2,
+    "explanation": "El calamar tiene diez apéndices y libera tinta para ocultarse de los depredadores."
+  },
+  {
+    "id": "cg-6320",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántas cámaras tiene el corazón de un pez?",
+    "options": [
+      "Tres",
+      "Cuatro",
+      "Dos",
+      "Una"
+    ],
+    "correctIndex": 2,
+    "explanation": "El corazón de un pez tiene dos cámaras principales y bombea sangre hacia las branquias."
+  },
+  {
+    "id": "cg-6321",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué estructura permite a muchos peces óseos regular su flotabilidad?",
+    "options": [
+      "Línea lateral",
+      "Opérculo",
+      "Vejiga natatoria",
+      "Aleta adiposa"
+    ],
+    "correctIndex": 2,
+    "explanation": "La vejiga natatoria contiene gas y ajusta la densidad del pez para flotar."
+  },
+  {
+    "id": "cg-6322",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué órgano sensorial detecta vibraciones y movimientos en el agua?",
+    "options": [
+      "Línea lateral",
+      "Branquia",
+      "Vejiga natatoria",
+      "Aleta caudal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La línea lateral recorre el cuerpo del pez y detecta cambios de presión en el agua."
+  },
+  {
+    "id": "cg-6323",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué característica de los dientes de los tiburones les permite reemplazarlos continuamente?",
+    "options": [
+      "Son de cartílago blando",
+      "Crecen en filas sucesivas",
+      "Se afilan al usarlos",
+      "No se desgastan nunca"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los tiburones tienen varias filas de dientes y los de la fila delantera se renuevan."
+  },
+  {
+    "id": "cg-6324",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué sentido adicional usan los tiburones para detectar campos eléctricos de sus presas?",
+    "options": [
+      "Ecolocalización",
+      "Olfato",
+      "Vista ultravioleta",
+      "Electrorecepción"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las ampollas de Lorenzini detectan los débiles campos eléctricos producidos por los músculos."
+  },
+  {
+    "id": "cg-6325",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué raya tiene una cola con un aguijón venenoso?",
+    "options": [
+      "Manta",
+      "Pastinaca",
+      "Raya eléctrica",
+      "Raya sierra"
+    ],
+    "correctIndex": 1,
+    "explanation": "La pastinaca posee un aguijón aserrado en la cola que puede inyectar veneno."
+  },
+  {
+    "id": "cg-6326",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué pez tiene una cola prensil y el macho incuba los huevos?",
+    "options": [
+      "Pez payaso",
+      "Pez volador",
+      "Pez globo",
+      "Caballito de mar"
+    ],
+    "correctIndex": 3,
+    "explanation": "En los caballitos de mar es el macho quien lleva los huevos en una bolsa incubadora."
+  },
+  {
+    "id": "cg-6327",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué pez puede planear sobre la superficie usando sus grandes aletas pectorales?",
+    "options": [
+      "Pez vela",
+      "Pez espada",
+      "Pez luna",
+      "Pez volador"
+    ],
+    "correctIndex": 3,
+    "explanation": "El pez volador acelera bajo el agua y extiende sus aletas para planear varios metros."
+  },
+  {
+    "id": "cg-6328",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué gran raya se alimenta filtrando plancton y suele saltar fuera del agua?",
+    "options": [
+      "Pastinaca",
+      "Raya eléctrica",
+      "Tiburón ballena",
+      "Manta"
+    ],
+    "correctIndex": 3,
+    "explanation": "La manta tiene placas branquiales que filtran el plancton del agua."
+  },
+  {
+    "id": "cg-6329",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué pez marino posee espinas dorsales venenosas y se camufla en el fondo?",
+    "options": [
+      "Pez payaso",
+      "Pez volador",
+      "Pez piedra",
+      "Salmón"
+    ],
+    "correctIndex": 2,
+    "explanation": "El pez piedra se confunde con una roca y sus espinas pueden inyectar un veneno potente."
+  },
+  {
+    "id": "cg-6330",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué animal marino tiene tentáculos con células urticantes tan potentes que puede causar graves lesiones?",
+    "options": [
+      "Avispa de mar",
+      "Estrella de mar",
+      "Coral blando",
+      "Pepino de mar"
+    ],
+    "correctIndex": 0,
+    "explanation": "La avispa de mar, una medusa caja, está entre los animales marinos más venenosos."
+  },
+  {
+    "id": "cg-6331",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué pez eleva la temperatura de sus músculos y es un nadador veloz de aguas abiertas?",
+    "options": [
+      "Sardina",
+      "Lenguado",
+      "Atún",
+      "Pez globo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El atún conserva calor en sus músculos y eso mejora su rendimiento al nadar."
+  },
+  {
+    "id": "cg-6332",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué pez escupe chorros de agua para derribar insectos de las hojas?",
+    "options": [
+      "Pez payaso",
+      "Pez globo",
+      "Pez espada",
+      "Pez arquero"
+    ],
+    "correctIndex": 3,
+    "explanation": "El pez arquero calcula la refracción de la luz y acierta a sus presas con precisión."
+  },
+  {
+    "id": "cg-6333",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué crustáceo tiene un golpe tan rápido que puede romper conchas?",
+    "options": [
+      "Camarón mantis",
+      "Cangrejo ermitaño",
+      "Langosta",
+      "Krill"
+    ],
+    "correctIndex": 0,
+    "explanation": "El camarón mantis golpea con un apéndice a velocidad extrema para aturdir a sus presas."
+  },
+  {
+    "id": "cg-6334",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué cefalópodo imita a otros animales, como serpientes o peces venenosos?",
+    "options": [
+      "Pulpo mimo",
+      "Calamar gigante",
+      "Nautilo",
+      "Sepia"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pulpo mimo adopta la forma y el color de especies peligrosas para evitar depredadores."
+  },
+  {
+    "id": "cg-6335",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué pez de arrecife produce granos de arena al triturar coral?",
+    "options": [
+      "Pez payaso",
+      "Pez cirujano",
+      "Pez globo",
+      "Pez loro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El pez loro raspa el coral con su pico y expulsa fragmentos calcáreos que forman arena."
+  },
+  {
+    "id": "cg-6336",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué animal marino expulsa sus órganos internos como defensa y luego los regenera?",
+    "options": [
+      "Pepino de mar",
+      "Estrella de mar",
+      "Erizo de mar",
+      "Medusa"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pepino de mar puede expulsar parte de sus órganos para distraer a un depredador."
+  },
+  {
+    "id": "cg-6337",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué pez antártico tiene sangre transparente porque carece de hemoglobina?",
+    "options": [
+      "Pez hielo",
+      "Pez pulmonado",
+      "Pez volador",
+      "Pez piedra"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los peces hielo transportan oxígeno disuelto en el plasma y sobreviven en aguas muy frías."
+  },
+  {
+    "id": "cg-6338",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué pez de aletas lobuladas se consideraba extinguido hasta que se halló un ejemplar en 1938?",
+    "options": [
+      "Esturión",
+      "Pez pulmonado",
+      "Pez sierra",
+      "Celacanto"
+    ],
+    "correctIndex": 3,
+    "explanation": "El celacanto es un fósil viviente emparentado con los vertebrados que colonizaron la tierra."
+  },
+  {
+    "id": "cg-6339",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué tiburón puede vivir más de 400 años y habita aguas profundas del Ártico?",
+    "options": [
+      "Tiburón blanco",
+      "Tiburón de Groenlandia",
+      "Tiburón ballena",
+      "Tiburón martillo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El tiburón de Groenlandia crece muy despacio y es uno de los vertebrados más longevos."
+  },
+  {
+    "id": "cg-6340",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué animal marino puede rejuvenecer y volver a su fase de pólipo tras alcanzar la madurez?",
+    "options": [
+      "Coral cerebro",
+      "Medusa inmortal",
+      "Anémona",
+      "Estrella de mar"
+    ],
+    "correctIndex": 1,
+    "explanation": "La medusa Turritopsis dohrnii revierte su ciclo vital a una etapa juvenil."
+  },
+  {
+    "id": "cg-6341",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué pez abisal produce luz con órganos llamados fotóforos para atraer presas?",
+    "options": [
+      "Pez linterna",
+      "Pez luna",
+      "Pez espada",
+      "Pez payaso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los fotóforos del pez linterna contienen bacterias o reacciones químicas que emiten luz."
+  },
+  {
+    "id": "cg-6342",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué molusco con concha externa regula su flotabilidad llenando cámaras de gas?",
+    "options": [
+      "Pulpo",
+      "Sepia",
+      "Almeja",
+      "Nautilo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El nautilo ajusta el gas de las cámaras de su concha para ascender o descender."
+  },
+  {
+    "id": "cg-6343",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué reptil usa una lengua bífida para percibir sustancias del aire?",
+    "options": [
+      "Tortuga",
+      "Cocodrilo",
+      "Serpiente",
+      "Iguana"
+    ],
+    "correctIndex": 2,
+    "explanation": "La lengua bífida de la serpiente recoge partículas y las lleva a un órgano olfativo."
+  },
+  {
+    "id": "cg-6344",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué reptil construye un nido de vegetación y vigila sus huevos?",
+    "options": [
+      "Tortuga",
+      "Serpiente",
+      "Camaleón",
+      "Cocodrilo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Muchos cocodrilos construyen nidos y protegen a las crías durante sus primeras semanas."
+  },
+  {
+    "id": "cg-6345",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué anfibio tiene la piel verrugosa y segrega sustancias tóxicas?",
+    "options": [
+      "Rana",
+      "Tritón",
+      "Sapo",
+      "Salamandra"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las glándulas de la piel del sapo producen toxinas que disuaden a los depredadores."
+  },
+  {
+    "id": "cg-6346",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué reptil puede desprenderse de su cola para escapar de un depredador?",
+    "options": [
+      "Tortuga",
+      "Lagartija",
+      "Serpiente",
+      "Cocodrilo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La lagartija pierde la cola por una fractura especializada y luego la regenera."
+  },
+  {
+    "id": "cg-6347",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué reptil de Nueva Zelanda tiene un tercer ojo parietal en la cabeza?",
+    "options": [
+      "Tuátara",
+      "Iguana",
+      "Camaleón",
+      "Gecko"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tuátara conserva un ojo parietal, un órgano sensible a la luz, bajo la piel."
+  },
+  {
+    "id": "cg-6348",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué serpiente despliega una capucha al sentirse amenazada?",
+    "options": [
+      "Víbora",
+      "Boa",
+      "Cobra",
+      "Pitón"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cobra ensancha las costillas del cuello y forma una capucha como advertencia."
+  },
+  {
+    "id": "cg-6349",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué gran serpiente sudamericana mata a sus presas por constricción?",
+    "options": [
+      "Cobra",
+      "Víbora",
+      "Serpiente coral",
+      "Anaconda"
+    ],
+    "correctIndex": 3,
+    "explanation": "La anaconda envuelve a su presa y la comprime hasta asfixiarla."
+  },
+  {
+    "id": "cg-6350",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué reptil marino sale a la playa para enterrar sus huevos?",
+    "options": [
+      "Tortuga marina",
+      "Cocodrilo",
+      "Iguana marina",
+      "Serpiente marina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las tortugas marinas regresan a las playas donde nacieron para desovar."
+  },
+  {
+    "id": "cg-6351",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué reptil puede mover cada ojo de forma independiente?",
+    "options": [
+      "Tortuga",
+      "Serpiente",
+      "Camaleón",
+      "Cocodrilo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los ojos del camaleón se mueven por separado y le permiten vigilar casi todo su entorno."
+  },
+  {
+    "id": "cg-6352",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué anfibio tiene cola en estado adulto y suele vivir en el agua?",
+    "options": [
+      "Rana",
+      "Sapo",
+      "Cecilia",
+      "Tritón"
+    ],
+    "correctIndex": 3,
+    "explanation": "El tritón es un anfibio con cola que nada y respira por la piel y los pulmones."
+  },
+  {
+    "id": "cg-6353",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántas cámaras tiene el corazón de un cocodrilo?",
+    "options": [
+      "Dos",
+      "Tres",
+      "Cuatro",
+      "Cinco"
+    ],
+    "correctIndex": 2,
+    "explanation": "El corazón de los cocodrilos tiene cuatro cámaras, aunque posee una conexión especial entre circuitos."
+  },
+  {
+    "id": "cg-6354",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué reptil tiene la mordida más fuerte medida entre los animales actuales?",
+    "options": [
+      "Cocodrilo de agua salada",
+      "Dragón de Komodo",
+      "Tortuga gigante",
+      "Anaconda"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cocodrilo de agua salada ejerce una fuerza de mordida extraordinaria con sus mandíbulas."
+  },
+  {
+    "id": "cg-6355",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué órgano permite a algunas víboras detectar el calor de sus presas?",
+    "options": [
+      "Escamas dorsales",
+      "Ojo parietal",
+      "Fosetas loreales",
+      "Lengua bífida"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las fosetas loreales detectan radiación infrarroja y ayudan a localizar animales de sangre caliente."
+  },
+  {
+    "id": "cg-6356",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué adaptación permite a las ranas arborícolas trepar por superficies lisas?",
+    "options": [
+      "Garras retráctiles",
+      "Escamas duras",
+      "Discos adhesivos en los dedos",
+      "Aletas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las ranas arborícolas tienen almohadillas adhesivas en las puntas de los dedos."
+  },
+  {
+    "id": "cg-6357",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué serpiente ostenta el récord de longitud entre las serpientes actuales?",
+    "options": [
+      "Anaconda verde",
+      "Pitón reticulada",
+      "Cobra real",
+      "Boa constrictora"
+    ],
+    "correctIndex": 1,
+    "explanation": "La pitón reticulada puede superar los seis metros de longitud, aunque no es la más pesada."
+  },
+  {
+    "id": "cg-6358",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué serpiente puede lanzar veneno a distancia por sus colmillos?",
+    "options": [
+      "Cobra escupidora",
+      "Boa constrictora",
+      "Pitón real",
+      "Serpiente de cascabel"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cobra escupidora dirige el veneno hacia los ojos del agresor."
+  },
+  {
+    "id": "cg-6359",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué factor determina el sexo de las crías en muchas tortugas?",
+    "options": [
+      "La edad de la madre",
+      "La temperatura del nido",
+      "El tamaño del huevo",
+      "La humedad del aire"
+    ],
+    "correctIndex": 1,
+    "explanation": "En muchas tortugas, la temperatura de incubación decide si nacen machos o hembras."
+  },
+  {
+    "id": "cg-6360",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué lagarto de Indonesia puede medir más de tres metros?",
+    "options": [
+      "Iguana verde",
+      "Varano del Nilo",
+      "Gecko leopardo",
+      "Dragón de Komodo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El dragón de Komodo es el lagarto de mayor tamaño y vive en varias islas de Indonesia."
+  },
+  {
+    "id": "cg-6361",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué lagarto puede correr sobre la superficie del agua durante unos metros?",
+    "options": [
+      "Iguana",
+      "Camaleón",
+      "Gecko",
+      "Basilisco"
+    ],
+    "correctIndex": 3,
+    "explanation": "El basilisco golpea el agua con sus patas traseras y corre sobre ella para escapar."
+  },
+  {
+    "id": "cg-6362",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué anfibio puede superar el metro y medio de longitud?",
+    "options": [
+      "Salamandra gigante china",
+      "Rana toro",
+      "Sapo común",
+      "Tritón crestado"
+    ],
+    "correctIndex": 0,
+    "explanation": "La salamandra gigante china es el anfibio de mayor tamaño y puede superar el metro y medio."
+  },
+  {
+    "id": "cg-6363",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué anfibio carece de pulmones y respira únicamente a través de la piel?",
+    "options": [
+      "Salamandra sin pulmones",
+      "Rana toro",
+      "Sapo de caña",
+      "Tritón alpino"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las salamandras de la familia Plethodontidae respiran por la piel y la boca."
+  },
+  {
+    "id": "cg-6364",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué reptil es vivíparo y habita en regiones frías de Europa?",
+    "options": [
+      "Dragón de Komodo",
+      "Cocodrilo del Nilo",
+      "Tortuga mediterránea",
+      "Lagartija vivípara"
+    ],
+    "correctIndex": 3,
+    "explanation": "La lagartija vivípara pare crías vivas, una adaptación a los climas fríos."
+  },
+  {
+    "id": "cg-6365",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué anfibio transporta a sus renacuajos en la espalda hasta el agua?",
+    "options": [
+      "Rana toro",
+      "Sapo común",
+      "Salamandra moteada",
+      "Rana flecha"
+    ],
+    "correctIndex": 3,
+    "explanation": "Algunas ranas flecha macho llevan sus renacuajos sobre la espalda hasta un charco seguro."
+  },
+  {
+    "id": "cg-6366",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué anfibio conserva branquias externas y rasgos juveniles durante toda su vida?",
+    "options": [
+      "Rana toro",
+      "Tritón común",
+      "Ajolote",
+      "Sapo partero"
+    ],
+    "correctIndex": 2,
+    "explanation": "El ajolote es neoténico: se reproduce sin perder sus branquias ni su forma larval."
+  },
+  {
+    "id": "cg-6367",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué reptil tiene un hocico muy estrecho adaptado a capturar peces?",
+    "options": [
+      "Cocodrilo marino",
+      "Caimán",
+      "Dragón de Komodo",
+      "Gavial"
+    ],
+    "correctIndex": 3,
+    "explanation": "El gavial usa su hocico alargado y sus dientes finos para atrapar peces."
+  },
+  {
+    "id": "cg-6368",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué serpiente es la de mayor tamaño entre las venenosas?",
+    "options": [
+      "Taipán interior",
+      "Cobra real",
+      "Mamba negra",
+      "Víbora gabonesa"
+    ],
+    "correctIndex": 1,
+    "explanation": "La cobra real puede superar los cinco metros y se alimenta principalmente de otras serpientes."
+  },
+  {
+    "id": "cg-6369",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿En qué parte de la flor se desarrolla el fruto tras la fecundación?",
+    "options": [
+      "Pétalo",
+      "Sépalo",
+      "Estambre",
+      "Ovario"
+    ],
+    "correctIndex": 3,
+    "explanation": "El ovario contiene los óvulos y después de la fecundación se transforma en fruto."
+  },
+  {
+    "id": "cg-6370",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué árbol produce bellotas?",
+    "options": [
+      "Roble",
+      "Pino",
+      "Abedul",
+      "Haya"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las bellotas son los frutos del roble y sirven de alimento a muchos animales."
+  },
+  {
+    "id": "cg-6371",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué árbol tiene hojas en forma de aguja y produce piñas?",
+    "options": [
+      "Roble",
+      "Arce",
+      "Sauce",
+      "Pino"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los pinos son coníferas: sus semillas se forman en piñas y sus hojas son acículas."
+  },
+  {
+    "id": "cg-6372",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el árbol que pierde sus hojas durante la estación desfavorable?",
+    "options": [
+      "Perennifolio",
+      "Conífera",
+      "Caducifolio",
+      "Xerófilo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los árboles caducifolios renuevan su follaje cada año."
+  },
+  {
+    "id": "cg-6373",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué flor de gran tamaño es conocida porque sus capítulos jóvenes siguen el movimiento del sol?",
+    "options": [
+      "Girasol",
+      "Tulipán",
+      "Amapola",
+      "Margarita"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los girasoles jóvenes orientan sus capítulos hacia el sol y de adultos miran al este."
+  },
+  {
+    "id": "cg-6374",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué planta acuática tiene hojas flotantes y flores que emergen del agua?",
+    "options": [
+      "Nenúfar",
+      "Helecho",
+      "Cactus",
+      "Orquídea"
+    ],
+    "correctIndex": 0,
+    "explanation": "El nenúfar arraiga en el fondo y sus hojas flotan gracias a tallos largos y flexibles."
+  },
+  {
+    "id": "cg-6375",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué planta carnívora cierra sus hojas al detectar un insecto?",
+    "options": [
+      "Drosera",
+      "Nepentes",
+      "Dionea atrapamoscas",
+      "Victoria amazónica"
+    ],
+    "correctIndex": 2,
+    "explanation": "La dionea tiene pelos sensibles y dos lóbulos que se cierran rápidamente sobre la presa."
+  },
+  {
+    "id": "cg-6376",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué árbol tiene ramas largas y colgantes y suele crecer junto al agua?",
+    "options": [
+      "Olivo",
+      "Ciprés",
+      "Baobab",
+      "Sauce llorón"
+    ],
+    "correctIndex": 3,
+    "explanation": "El sauce llorón desarrolla ramas flexibles que cuelgan hasta cerca del suelo."
+  },
+  {
+    "id": "cg-6377",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué planta tropical produce racimos de frutos amarillos y no es un árbol verdadero?",
+    "options": [
+      "Mango",
+      "Banano",
+      "Papaya",
+      "Cacao"
+    ],
+    "correctIndex": 1,
+    "explanation": "El banano es una hierba gigante cuyo tallo aparente está formado por vainas de hojas."
+  },
+  {
+    "id": "cg-6378",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué planta del desierto almacena agua en sus tallos y tiene espinas?",
+    "options": [
+      "Helecho",
+      "Musgo",
+      "Nenúfar",
+      "Cactus"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los cactus almacenan agua en tejidos carnosos y sus espinas reducen la pérdida de humedad."
+  },
+  {
+    "id": "cg-6379",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué planta produce vainas cuyas semillas se usan para fabricar chocolate?",
+    "options": [
+      "Café",
+      "Vainilla",
+      "Cacao",
+      "Caña de azúcar"
+    ],
+    "correctIndex": 2,
+    "explanation": "El chocolate se obtiene de las semillas fermentadas y tostadas del cacao."
+  },
+  {
+    "id": "cg-6380",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué árbol mediterráneo produce corcho a partir de su corteza?",
+    "options": [
+      "Olivo",
+      "Encina",
+      "Alcornoque",
+      "Pino piñonero"
+    ],
+    "correctIndex": 2,
+    "explanation": "La corteza del alcornoque se extrae en capas y se regenera con los años."
+  },
+  {
+    "id": "cg-6381",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué árbol tiene hojas en forma de estrella y es símbolo de Canadá?",
+    "options": [
+      "Roble",
+      "Abedul",
+      "Fresno",
+      "Arce"
+    ],
+    "correctIndex": 3,
+    "explanation": "La hoja de arce figura en la bandera canadiense y de su savia se obtiene el jarabe."
+  },
+  {
+    "id": "cg-6382",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué árbol de California puede superar los 100 metros de altura?",
+    "options": [
+      "Secuoya roja",
+      "Eucalipto",
+      "Baobab",
+      "Roble"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las secuoyas rojas de California son los árboles de mayor altura y pueden superar los 100 metros."
+  },
+  {
+    "id": "cg-6383",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de fruto alado dispersa el viento, como el del arce?",
+    "options": [
+      "Sámara",
+      "Baya",
+      "Drupa",
+      "Legumbre"
+    ],
+    "correctIndex": 0,
+    "explanation": "La sámara tiene una prolongación membranosa que hace girar la semilla al caer."
+  },
+  {
+    "id": "cg-6384",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué estructura de la semilla almacena reservas para el embrión?",
+    "options": [
+      "Radícula",
+      "Tegumento",
+      "Cotiledón",
+      "Plúmula"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los cotiledones aportan nutrientes hasta que la plántula puede realizar fotosíntesis."
+  },
+  {
+    "id": "cg-6385",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué tejido vegetal transporta agua y minerales desde la raíz?",
+    "options": [
+      "Xilema",
+      "Floema",
+      "Epidermis",
+      "Colénquima"
+    ],
+    "correctIndex": 0,
+    "explanation": "El xilema conduce la savia bruta a través de vasos y traqueidas."
+  },
+  {
+    "id": "cg-6386",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué hormona vegetal favorece el crecimiento de los tallos hacia la luz?",
+    "options": [
+      "Etileno",
+      "Ácido abscísico",
+      "Giberelina",
+      "Auxina"
+    ],
+    "correctIndex": 3,
+    "explanation": "La auxina se redistribuye en el tallo y provoca el alargamiento celular del lado sombreado."
+  },
+  {
+    "id": "cg-6387",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la pérdida de agua en forma de vapor por las hojas?",
+    "options": [
+      "Respiración",
+      "Germinación",
+      "Fotosíntesis",
+      "Transpiración"
+    ],
+    "correctIndex": 3,
+    "explanation": "La transpiración ocurre sobre todo por los estomas y ayuda a transportar agua por la planta."
+  },
+  {
+    "id": "cg-6388",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué estructura de la hoja regula el intercambio de gases?",
+    "options": [
+      "Nervadura",
+      "Cutícula",
+      "Tricoma",
+      "Estoma"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los estomas son poros que se abren y cierran para permitir el paso de gases y vapor de agua."
+  },
+  {
+    "id": "cg-6389",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué pigmento verde captura la energía de la luz en las plantas?",
+    "options": [
+      "Caroteno",
+      "Clorofila",
+      "Antocianina",
+      "Melanina"
+    ],
+    "correctIndex": 1,
+    "explanation": "La clorofila absorbe principalmente luz roja y azul y refleja el verde."
+  },
+  {
+    "id": "cg-6390",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué orgánulo de la célula vegetal realiza la fotosíntesis?",
+    "options": [
+      "Mitocondria",
+      "Cloroplasto",
+      "Núcleo",
+      "Vacuola"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los cloroplastos contienen clorofila y las membranas donde ocurre la fotosíntesis."
+  },
+  {
+    "id": "cg-6391",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué grupo de plantas se reproduce mediante esporas y no produce flores?",
+    "options": [
+      "Helechos",
+      "Pinos",
+      "Robles",
+      "Orquídeas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los helechos liberan esporas y tienen una fase sexual independiente llamada gametofito."
+  },
+  {
+    "id": "cg-6392",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué planta acuática diminuta flota en masas verdes y carece de raíces verdaderas?",
+    "options": [
+      "Nenúfar",
+      "Jacinto de agua",
+      "Elodea",
+      "Lenteja de agua"
+    ],
+    "correctIndex": 3,
+    "explanation": "La lenteja de agua es una planta flotante muy pequeña que forma alfombras en aguas quietas."
+  },
+  {
+    "id": "cg-6393",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué árbol produce frutos triangulares llamados hayucos?",
+    "options": [
+      "Roble",
+      "Abedul",
+      "Haya",
+      "Olmo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los hayucos son frutos pequeños y comestibles para muchos animales del bosque."
+  },
+  {
+    "id": "cg-6394",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué árbol de corteza blanca se usa para fabricar papel de alta calidad?",
+    "options": [
+      "Abedul",
+      "Roble",
+      "Cedro",
+      "Olivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La madera de abedul es apreciada en la fabricación de papel y muebles."
+  },
+  {
+    "id": "cg-6395",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué árbol africano de tronco abultado almacena grandes cantidades de agua?",
+    "options": [
+      "Acacia",
+      "Eucalipto",
+      "Palmera",
+      "Baobab"
+    ],
+    "correctIndex": 3,
+    "explanation": "El baobab almacena agua en su tronco y sobrevive en regiones secas."
+  },
+  {
+    "id": "cg-6396",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué planta parásita de Sumatra produce una flor de casi un metro de diámetro?",
+    "options": [
+      "Rafflesia arnoldii",
+      "Girasol",
+      "Victoria amazónica",
+      "Titan arum"
+    ],
+    "correctIndex": 0,
+    "explanation": "La flor de Rafflesia arnoldii puede medir alrededor de un metro de diámetro y carece de hojas."
+  },
+  {
+    "id": "cg-6397",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué planta de Sumatra produce una inflorescencia de más de dos metros de altura?",
+    "options": [
+      "Titan arum",
+      "Rafflesia",
+      "Girasol",
+      "Bambú"
+    ],
+    "correctIndex": 0,
+    "explanation": "La inflorescencia del titan arum puede superar los dos metros de altura y desprende un olor fuerte."
+  },
+  {
+    "id": "cg-6398",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué semilla de las islas Seychelles puede pesar más de 15 kilogramos?",
+    "options": [
+      "Cacao",
+      "Aguacate",
+      "Coco de mar",
+      "Mango"
+    ],
+    "correctIndex": 2,
+    "explanation": "La semilla del coco de mar es la más grande del reino vegetal y puede pesar más de 15 kilogramos."
+  },
+  {
+    "id": "cg-6399",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué árbol produce el fruto más grande que crece en un árbol?",
+    "options": [
+      "Mango",
+      "Cacao",
+      "Jackfruit",
+      "Aguacate"
+    ],
+    "correctIndex": 2,
+    "explanation": "La jackfruit puede superar los 30 kilogramos y es originaria del sur de Asia."
+  },
+  {
+    "id": "cg-6400",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué planta de tallos huecos es conocida por su crecimiento extraordinariamente rápido?",
+    "options": [
+      "Bambú",
+      "Roble",
+      "Olivo",
+      "Secuoya"
+    ],
+    "correctIndex": 0,
+    "explanation": "Algunos bambúes pueden crecer casi un metro en un solo día."
+  },
+  {
+    "id": "cg-6401",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿De la corteza de qué árbol tropical se obtiene la canela?",
+    "options": [
+      "Canelo",
+      "Cacao",
+      "Cafeto",
+      "Nogal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La canela se obtiene de la capa interna de la corteza del canelo, que se seca y se enrolla."
+  },
+  {
+    "id": "cg-6402",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué planta parásita carece de clorofila y se enrolla en otras plantas para robarles nutrientes?",
+    "options": [
+      "Muérdago",
+      "Cuscuta",
+      "Orquídea",
+      "Liana"
+    ],
+    "correctIndex": 1,
+    "explanation": "La cuscuta introduce estructuras absorbentes en el tallo de su hospedador."
+  },
+  {
+    "id": "cg-6403",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué planta carnívora acuática captura presas con vesículas que se abren por succión?",
+    "options": [
+      "Dionea",
+      "Drosera",
+      "Utricularia",
+      "Nepentes"
+    ],
+    "correctIndex": 2,
+    "explanation": "La utricularia aspira pequeños invertebrados hacia el interior de sus vesículas."
+  },
+  {
+    "id": "cg-6404",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué árbol libera una sustancia que inhibe el crecimiento de otras plantas cercanas?",
+    "options": [
+      "Nogal",
+      "Roble",
+      "Haya",
+      "Abedul"
+    ],
+    "correctIndex": 0,
+    "explanation": "El nogal produce juglona, un compuesto alelopático que reduce la competencia."
+  },
+  {
+    "id": "cg-6405",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué planta puede secarse casi por completo y revivir cuando recibe agua?",
+    "options": [
+      "Cactus",
+      "Rosa de Jericó",
+      "Aloe",
+      "Baobab"
+    ],
+    "correctIndex": 1,
+    "explanation": "La rosa de Jericó entra en un estado de latencia y recupera su forma con la humedad."
+  },
+  {
+    "id": "cg-6406",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué nenúfar amazónico tiene hojas circulares de hasta tres metros de diámetro?",
+    "options": [
+      "Nenúfar común",
+      "Loto",
+      "Lenteja de agua",
+      "Victoria amazónica"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las hojas de la victoria amazónica tienen un borde levantado y pueden sostener peso."
+  },
+  {
+    "id": "cg-6407",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué planta australiana mantiene sus semillas en conos que se abren tras un incendio?",
+    "options": [
+      "Eucalipto",
+      "Banksia",
+      "Acacia",
+      "Baobab"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los conos de banksia se abren con el calor del fuego y dispersan las semillas en el suelo fértil."
+  },
+  {
+    "id": "cg-6408",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué grupo de organismos microscópicos puede proliferar y teñir el mar de rojo?",
+    "options": [
+      "Diatomeas",
+      "Cianobacterias",
+      "Dinoflagelados",
+      "Foraminíferos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Algunos dinoflagelados producen toxinas y, en grandes cantidades, causan mareas rojas."
+  },
+  {
+    "id": "cg-6409",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué árbol considerado un fósil viviente tiene hojas en abanico y semillas carnosas?",
+    "options": [
+      "Ginkgo",
+      "Secuoya",
+      "Wollemia",
+      "Cicada"
+    ],
+    "correctIndex": 0,
+    "explanation": "El ginkgo es el único superviviente de un antiguo grupo de árboles."
+  },
+  {
+    "id": "cg-6410",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el conjunto de seres vivos y el medio físico con el que interactúan?",
+    "options": [
+      "Población",
+      "Bioma",
+      "Ecosistema",
+      "Comunidad"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un ecosistema incluye organismos, agua, suelo, aire y las relaciones entre ellos."
+  },
+  {
+    "id": "cg-6411",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué papel ocupan las plantas verdes en una cadena alimenticia?",
+    "options": [
+      "Consumidores primarios",
+      "Descomponedores",
+      "Productores",
+      "Depredadores"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las plantas producen materia orgánica a partir de la luz y son la base de muchas cadenas."
+  },
+  {
+    "id": "cg-6412",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el animal que se alimenta tanto de plantas como de carne?",
+    "options": [
+      "Herbívoro",
+      "Omnívoro",
+      "Carnívoro",
+      "Detritívoro"
+    ],
+    "correctIndex": 1,
+    "explanation": "El omnívoro consume alimentos de origen vegetal y animal."
+  },
+  {
+    "id": "cg-6413",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el animal que se alimenta exclusivamente de plantas?",
+    "options": [
+      "Carnívoro",
+      "Omnívoro",
+      "Carroñero",
+      "Herbívoro"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los herbívoros obtienen energía de hojas, frutos, semillas u otros tejidos vegetales."
+  },
+  {
+    "id": "cg-6414",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la relación en la que un organismo vive a costa de otro y le causa daño?",
+    "options": [
+      "Mutualismo",
+      "Parasitismo",
+      "Comensalismo",
+      "Competencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "El parásito obtiene recursos de su hospedador y suele perjudicarlo."
+  },
+  {
+    "id": "cg-6415",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué proceso convierte el nitrógeno del aire en formas que las plantas pueden usar?",
+    "options": [
+      "Fotosíntesis",
+      "Respiración",
+      "Transpiración",
+      "Fijación del nitrógeno"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bacterias del suelo y de las raíces fijan el nitrógeno atmosférico en compuestos utilizables."
+  },
+  {
+    "id": "cg-6416",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué fenómeno atmosférico se produce cuando la lluvia contiene contaminantes ácidos?",
+    "options": [
+      "Niebla densa",
+      "Lluvia ácida",
+      "Granizo",
+      "Rocío"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los óxidos de azufre y nitrógeno reaccionan con el agua y acidifican la precipitación."
+  },
+  {
+    "id": "cg-6417",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la pérdida de bosques por tala u otras actividades humanas?",
+    "options": [
+      "Desertificación",
+      "Deforestación",
+      "Reforestación",
+      "Eutrofización"
+    ],
+    "correctIndex": 1,
+    "explanation": "La deforestación reduce la cobertura arbórea y altera suelos, agua y biodiversidad."
+  },
+  {
+    "id": "cg-6418",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el animal que se alimenta de restos de animales muertos?",
+    "options": [
+      "Herbívoro",
+      "Productor",
+      "Polinizador",
+      "Carroñero"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los carroñeros ayudan a reciclar materia orgánica en los ecosistemas."
+  },
+  {
+    "id": "cg-6419",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el animal que es cazado por un depredador?",
+    "options": [
+      "Parásito",
+      "Presa",
+      "Productor",
+      "Competidor"
+    ],
+    "correctIndex": 1,
+    "explanation": "La presa forma parte de la dieta del depredador dentro de la red alimenticia."
+  },
+  {
+    "id": "cg-6420",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la relación en la que dos especies disputan los mismos recursos?",
+    "options": [
+      "Competencia",
+      "Mutualismo",
+      "Parasitismo",
+      "Comensalismo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La competencia puede ser por alimento, agua, espacio o pareja."
+  },
+  {
+    "id": "cg-6421",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la capa de suelo que permanece congelada todo el año?",
+    "options": [
+      "Humus",
+      "Loess",
+      "Permafrost",
+      "Mantillo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El permafrost se encuentra en regiones polares y de alta montaña."
+  },
+  {
+    "id": "cg-6422",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la franja de vegetación que conecta dos hábitats fragmentados?",
+    "options": [
+      "Barrera geográfica",
+      "Ecotono",
+      "Cuenca hidrográfica",
+      "Corredor biológico"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los corredores permiten el desplazamiento de animales y la dispersión de semillas."
+  },
+  {
+    "id": "cg-6423",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la zona de transición entre dos ecosistemas?",
+    "options": [
+      "Bioma",
+      "Hábitat",
+      "Ecotono",
+      "Nicho"
+    ],
+    "correctIndex": 2,
+    "explanation": "El ecotono comparte especies de ambos ecosistemas y suele tener alta diversidad."
+  },
+  {
+    "id": "cg-6424",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe el conjunto de todos los ecosistemas del planeta?",
+    "options": [
+      "Atmósfera",
+      "Biosfera",
+      "Litosfera",
+      "Hidrosfera"
+    ],
+    "correctIndex": 1,
+    "explanation": "La biosfera abarca todos los seres vivos y los ambientes donde habitan."
+  },
+  {
+    "id": "cg-6425",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la materia orgánica descompuesta que enriquece el suelo?",
+    "options": [
+      "Arcilla",
+      "Humus",
+      "Arena",
+      "Grava"
+    ],
+    "correctIndex": 1,
+    "explanation": "El humus mejora la retención de agua y aporta nutrientes al suelo."
+  },
+  {
+    "id": "cg-6426",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué bioma se caracteriza por praderas extensas, estación seca y grandes herbívoros?",
+    "options": [
+      "Taiga",
+      "Sabana",
+      "Tundra",
+      "Desierto"
+    ],
+    "correctIndex": 1,
+    "explanation": "La sabana combina hierbas altas y árboles dispersos, típica de regiones tropicales."
+  },
+  {
+    "id": "cg-6427",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué bioma tiene inviernos largos y fríos y bosques de coníferas?",
+    "options": [
+      "Sabana",
+      "Taiga",
+      "Selva",
+      "Chaparral"
+    ],
+    "correctIndex": 1,
+    "explanation": "La taiga o bosque boreal se extiende por el norte de Europa, Asia y América."
+  },
+  {
+    "id": "cg-6428",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ecosistema costero está dominado por árboles adaptados al agua salada?",
+    "options": [
+      "Arrecife",
+      "Estuario",
+      "Duna",
+      "Manglar"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los mangles tienen raíces especiales que les permiten vivir en suelos salinos e inundados."
+  },
+  {
+    "id": "cg-6429",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama la desembocadura de un río donde se mezcla agua dulce y salada?",
+    "options": [
+      "Delta",
+      "Estuario",
+      "Fiordo",
+      "Laguna"
+    ],
+    "correctIndex": 1,
+    "explanation": "En el estuario las mareas mezclan el agua del río con la del mar."
+  },
+  {
+    "id": "cg-6430",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué efecto describe el cambio en un ecosistema causado por la alteración de un depredador superior?",
+    "options": [
+      "Sucesión primaria",
+      "Cascada trófica",
+      "Eutrofización",
+      "Bioacumulación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Una cascada trófica ocurre cuando un cambio en un nivel de la red afecta a los demás."
+  },
+  {
+    "id": "cg-6431",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el número máximo de individuos que un ambiente puede sostener?",
+    "options": [
+      "Tasa de natalidad",
+      "Densidad ecológica",
+      "Nicho fundamental",
+      "Capacidad de carga"
+    ],
+    "correctIndex": 3,
+    "explanation": "La capacidad de carga depende de los recursos disponibles y de las condiciones del ambiente."
+  },
+  {
+    "id": "cg-6432",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de sucesión ocurre en un área que carece de suelo?",
+    "options": [
+      "Sucesión secundaria",
+      "Regeneración",
+      "Sucesión primaria",
+      "Migración"
+    ],
+    "correctIndex": 2,
+    "explanation": "La sucesión primaria comienza sobre roca desnuda, lava o arena y tarda mucho tiempo."
+  },
+  {
+    "id": "cg-6433",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cómo se llaman las primeras especies que colonizan un ambiente sin vegetación?",
+    "options": [
+      "Especies endémicas",
+      "Especies pioneras",
+      "Especies invasoras",
+      "Especies clave"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las especies pioneras modifican el ambiente y facilitan el establecimiento de otras."
+  },
+  {
+    "id": "cg-6434",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la acumulación de sustancias tóxicas en los tejidos de un organismo a lo largo de su vida?",
+    "options": [
+      "Biomagnificación",
+      "Eutrofización",
+      "Biorremediación",
+      "Bioacumulación"
+    ],
+    "correctIndex": 3,
+    "explanation": "La bioacumulación ocurre cuando un organismo absorbe más sustancia de la que elimina."
+  },
+  {
+    "id": "cg-6435",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué proceso enriquece un cuerpo de agua con nutrientes y provoca un crecimiento excesivo de algas?",
+    "options": [
+      "Eutrofización",
+      "Sedimentación",
+      "Salinización",
+      "Acidificación"
+    ],
+    "correctIndex": 0,
+    "explanation": "El exceso de nitrógeno y fósforo favorece las algas y reduce el oxígeno disponible."
+  },
+  {
+    "id": "cg-6436",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué nombre recibe un reservorio que absorbe más carbono del que libera?",
+    "options": [
+      "Fuente de carbono",
+      "Ciclo del nitrógeno",
+      "Sumidero de carbono",
+      "Huella hídrica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los bosques y los océanos actúan como sumideros al retener grandes cantidades de carbono."
+  },
+  {
+    "id": "cg-6437",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué proporción aproximada de energía pasa de un nivel trófico al siguiente en una cadena alimenticia?",
+    "options": [
+      "1 %",
+      "50 %",
+      "90 %",
+      "10 %"
+    ],
+    "correctIndex": 3,
+    "explanation": "La mayoría de la energía se pierde como calor y solo una pequeña parte pasa al siguiente nivel."
+  },
+  {
+    "id": "cg-6438",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el cambio de condiciones en el borde de un hábitat fragmentado?",
+    "options": [
+      "Efecto invernadero",
+      "Efecto de isla",
+      "Efecto de borde",
+      "Efecto de cuello de botella"
+    ],
+    "correctIndex": 2,
+    "explanation": "El efecto de borde expone a más luz, viento y depredadores a las zonas recién creadas."
+  },
+  {
+    "id": "cg-6439",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué proceso convierte tierras fértiles en áreas áridas por causas climáticas o humanas?",
+    "options": [
+      "Deforestación",
+      "Desertificación",
+      "Salinización",
+      "Erosión eólica"
+    ],
+    "correctIndex": 1,
+    "explanation": "La desertificación reduce la productividad del suelo y es difícil de revertir."
+  },
+  {
+    "id": "cg-6440",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama el aumento de la concentración de un contaminante en cada nivel de la cadena alimenticia?",
+    "options": [
+      "Biomagnificación",
+      "Bioacumulación",
+      "Biorremediación",
+      "Eutrofización"
+    ],
+    "correctIndex": 0,
+    "explanation": "La biomagnificación hace que los depredadores superiores acumulen mayores concentraciones."
+  }
+]

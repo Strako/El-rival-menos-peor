@@ -1,7 +1,7 @@
 import { DIFFICULTY_POINTS } from './format';
 import type { Difficulty } from '../types';
 
-export const RACE_SECONDS = 10;
+export const RACE_SECONDS = 20;
 export const RACE_MIN_CORRECT_POINTS = 10;
 export const RACE_TIMEOUT_PENALTY = 10;
 

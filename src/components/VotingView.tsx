@@ -18,7 +18,7 @@ export function VotingView({
   const voting = state.voting;
   const [selected, setSelected] = useState<string | null>(null);
   const [forceOpen, setForceOpen] = useState(false);
-  const countdown = useCountdown(game?.revealUntil);
+  const countdown = useCountdown(game?.revealUntil, state.serverTime);
   const isVoteResult = game?.phase === 'vote_result';
   const tally = game?.lastVoteResult ?? [];
   const eliminatedId = game?.lastEliminatedPlayerId ?? null;

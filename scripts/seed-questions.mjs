@@ -23,7 +23,11 @@ const extraFile = path.join(ROOT, 'data', 'questions', 'general-5000.json');
 const extraQuestions = fs.existsSync(extraFile)
   ? JSON.parse(fs.readFileSync(extraFile, 'utf8'))
   : [];
-const questions = [...baseQuestions, ...extraQuestions];
+const funFactsFile = path.join(ROOT, 'data', 'questions', 'fun-facts-1000.json');
+const funFactsQuestions = fs.existsSync(funFactsFile)
+  ? JSON.parse(fs.readFileSync(funFactsFile, 'utf8'))
+  : [];
+const questions = [...baseQuestions, ...extraQuestions, ...funFactsQuestions];
 
 const url = process.env.SUPABASE_URL;
 const secret =

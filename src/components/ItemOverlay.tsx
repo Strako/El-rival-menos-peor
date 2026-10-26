@@ -3,7 +3,7 @@ import type { RoomState } from '../types';
 
 export function ItemOverlay({ state }: { state: RoomState }) {
   const apagon = state.items.effects.find((effect) => effect.itemType === 1);
-  const seconds = useCountdown(apagon?.expiresAt);
+  const seconds = useCountdown(apagon?.expiresAt, state.serverTime);
 
   if (!apagon || seconds <= 0) return null;
 

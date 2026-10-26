@@ -4,7 +4,7 @@ import { Confetti } from './Confetti';
 import { CountryFlag } from './CountryFlag';
 import { useCountdown } from '../hooks/useCountdown';
 import { useShuffledOptions } from '../hooks/useShuffledOptions';
-import { racePointsFor } from '../lib/race';
+import { RACE_SECONDS, racePointsFor } from '../lib/race';
 import { CATEGORY_ICON, CATEGORY_LABEL, DIFFICULTY_LABEL } from '../lib/format';
 import type { RoomState } from '../types';
 
@@ -39,20 +39,23 @@ function useRaceCountdown(
     }
 
     const deadline = new Date(deadlineAt).getTime();
-    const serverNow = new Date(serverTime).getTime();
-    const initial = Math.max(0, Math.ceil((deadline - serverNow) / 1000));
-    setSeconds(initial);
+    const serverOffset = new Date(serverTime).getTime() - Date.now();
 
-    const started = Date.now();
-    const timer = window.setInterval(() => {
-      const next = Math.max(0, initial - Math.floor((Date.now() - started) / 1000));
+    const tick = () => {
+      const next = Math.max(
+        0,
+        Math.ceil((deadline - (Date.now() + serverOffset)) / 1000),
+      );
       setSeconds(next);
 
       if (next <= 0 && !fired.current) {
         fired.current = true;
         expireRef.current?.();
       }
-    }, 200);
+    };
+
+    tick();
+    const timer = window.setInterval(tick, 200);
 
     return () => window.clearInterval(timer);
   }, [deadlineAt, serverTime, active]);
@@ -93,7 +96,7 @@ export function RaceQuestionView({
     onExpire,
     game?.currentRound,
   );
-  const revealCountdown = useCountdown(game?.revealUntil);
+  const revealCountdown = useCountdown(game?.revealUntil, state.serverTime);
   const { display, shuffleTick, shuffleActive } = useShuffledOptions(
     question,
     state.items.effects,
@@ -163,7 +166,7 @@ export function RaceQuestionView({
 
   const ringRadius = 34;
   const ringCircumference = 2 * Math.PI * ringRadius;
-  const ringProgress = Math.max(0, Math.min(1, remaining / 10));
+  const ringProgress = Math.max(0, Math.min(1, remaining / RACE_SECONDS));
   const urgent = remaining <= 3;
 
   return (
@@ -260,7 +263,7 @@ export function RaceQuestionView({
                     {skippedByHost
                       ? 'El anfitrión saltó esta pregunta.'
                       : timedOut
-                        ? 'Nadie respondió dentro de los 10 segundos.'
+                        ? 'Nadie respondió dentro de los 20 segundos.'
                         : `${lastAnswer?.nickname ?? 'Un jugador'} respondió primero.`}
                   </p>
                 </>

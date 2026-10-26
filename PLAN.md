@@ -12,12 +12,14 @@
 - [x] MCP de Supabase configurado y autenticado.
 - [x] Proyecto Supabase creado/verificado: `aaojioxhupihfgqfiken`.
 - [x] Esquema, índices, RLS, RPC y seguridad aplicados.
-- [x] **6.050 preguntas** cargadas en Supabase:
-  - 5.350 cultura general.
+- [x] **7.050 preguntas** cargadas en Supabase:
+  - 6.350 cultura general.
   - 350 videojuegos.
   - 350 series de los 90.
   - 0 duplicados normalizados (`question_key`).
-- [x] **5.000 preguntas nuevas** de cultura general sobre artes y ciencias del mundo.
+- [x] **5.000 preguntas nuevas** sobre artes y ciencias del mundo.
+- [x] **1.000 datos curiosos** sobre cuerpo humano, animales, naturaleza, Tierra, espacio, ciencia, inventos, comida y vida cotidiana.
+- [x] **183 preguntas de Series de los 90** localizadas al español; se conservaron IDs, opciones y respuestas.
 - [x] **206 correcciones de contexto** en preguntas existentes.
 - [x] Cobertura de 20 temas: física, astronomía, química, biología, medicina, matemáticas, tecnología, ciencias de la Tierra, geografía, historia antigua/moderna, arqueología, filosofía/religión, mitología, lingüística, literatura, teatro/poesía, pintura/escultura, arquitectura/diseño/fotografía, música/danza/cine/culturas.
 - [x] Edge Function `api` desplegada (versión 5) con `verify_jwt = false`.
@@ -25,8 +27,8 @@
 - [x] Sesión local por token, salas, lobby, juego, votación, resultados y reinicio.
 - [x] Ranking solo por sala; sin ranking global.
 - [x] Confeti CSS en respuestas correctas y resultados.
-- [x] **Modo Relámpago** (primero en responder, 10 s, sin eliminación, −100 por fallo, dificultad progresiva).
-- [x] **Timer de 10 s en todos los modos**, con avance automático y “Tiempo agotado”.
+- [x] **Modo Relámpago** (primero en responder, 20 s, sin eliminación, -100 por fallo, dificultad progresiva).
+- [x] **Timer de 20 s en todos los modos**, con avance automático y "Tiempo agotado".
 - [x] **Puntos decrecientes en Relámpago** según el tiempo restante, mínimo 10.
 - [x] **−10 a todos los activos** si nadie responde en Relámpago; salto del anfitrión sin penalización.
 - [x] **Banderas por IP** en lobby, jugadores, scoreboard y resultados.
@@ -40,14 +42,19 @@
 - [x] **Tarjeta de jugador del lobby** reordenada: nombre en una línea y metadatos debajo, sin partir nombres letra por letra.
 - [x] **Emojis de posición** 🥇🥈🥉, keycaps 4–10 y `#N` desde 11.º.
 - [x] **Sin repetición de preguntas dentro de una partida** (índice único).
+- [x] **Selección con historial reciente**: evita preguntas de los últimos 10 juegos de los mismos jugadores y reutiliza solo si el pool se agota.
+- [x] **Orden de categorías aleatorio** con reparto equilibrado en Clásico, Eliminación y Relámpago.
 - [x] **Sonidos** de turno, inicio de pregunta, correcta, fallida y tiempo agotado.
+- [x] **Aviso de turno** reproducido solo en el cliente del jugador actual.
+- [x] **Sincronización de turnos** con reloj de servidor, broadcast de transición y refetch encolado; 20 s visibles al iniciar cada turno.
 - [x] **Orden de turnos fijo por índice/asiento**, sin rotación ni influencia del puntaje.
-- [x] **Dificultad progresiva** fácil → media → difícil en Relámpago.
-- [x] Pruebas unitarias: 23/23.
+- [x] **Dificultad progresiva** fácil → media → difícil en todos los modos, por tercios del total de rondas.
+- [x] **Timer global de 20 s** en Clásico, Eliminación y Relámpago, sincronizado con el servidor.
+- [x] Pruebas unitarias: 24/24.
 - [x] Smoke test backend: clásico, eliminación, relámpago, timeout, concurrencia, reinicio y permisos.
 - [x] Prueba de cierre de sala: permisos de anfitrión, bloqueo en partida, cierre con 0 jugadores y salida libre.
 - [x] Pruebas del sistema de ítems: inventario, límites, uso, intercambio, reemplazo de pregunta y modo Relámpago.
-- [x] E2E real con Chrome: clásico, relámpago, social, cierre de sala e ítems.
+- [x] E2E real con Chrome: clásico, relámpago, social, cierre de sala, ítems y sincronización de turnos.
 - [x] Auditoría mobile con capturas y detección de overflow: 0 desbordes horizontales.
 - [x] Asesores de seguridad sin advertencias.
 - [x] Backend actualizado mientras había partidas en curso, sin alterar su estado ni su orden ya asignado.
@@ -62,7 +69,7 @@
 ### Pendiente
 
 - [ ] Desplegar el frontend en Netlify (requiere cuenta/token o conectar el repositorio).
-- [ ] Revisión factual completa de las 6.050 preguntas. La validación estructural está al 100%; se hizo muestreo de los lotes nuevos y de las correcciones de contexto.
+- [ ] Revisión factual completa de las 7.050 preguntas. La validación estructural está al 100%; se hizo muestreo de los lotes nuevos y de las correcciones de contexto.
 
 ### Cómo continuar
 
@@ -82,13 +89,13 @@ Juego de trivia multijugador por salas, cada jugador desde su propio navegador.
 - **Idioma de la interfaz:** español.
 - **Modos de juego:** Clásico, Eliminación y Relámpago.
 - **Sin ranking global.** Solo tabla de posiciones por sala.
-- **Base de preguntas:** 6.050 preguntas; 5.350 de cultura general, 350 de videojuegos y 350 de series de los 90.
+- **Base de preguntas:** 7.050 preguntas; 6.350 de cultura general, 350 de videojuegos y 350 de series de los 90.
 
 ### Categorías definitivas
 
 | Categoría | Valor interno | Preguntas | Icono |
 |---|---|---|---|
-| Cultura general global | `general` | 5.350 | 🌍 |
+| Cultura general global | `general` | 6.350 | 🌍 |
 | Videojuegos | `videogames` | 350 | 🎮 |
 | Series de los 90 | `series_90s` | 350 | 📺 |
 
@@ -105,7 +112,7 @@ Juego de trivia multijugador por salas, cada jugador desde su propio navegador.
 4. **Turnos = preguntas por jugador.** Ejemplo: 3 jugadores × 5 turnos = 15 preguntas.
 5. **Temas mezclados** en cada partida; sin filtro de categoría.
 6. **Puntaje:** 100, 150 o 200 puntos según dificultad (fácil, media, difícil). Incorrecta = 0.
-7. **Timer de 10 s en todos los modos.** El anfitrión puede saltar un turno trabado.
+7. **Timer de 20 s en todos los modos.** El anfitrión puede saltar un turno trabado.
 8. **Nickname único dentro de cada sala.** No hay identidad global ni tag.
 9. **Sin ranking global.** Solo ranking de sala y resultado de cada partida.
 10. **Identidad local sin Supabase Auth:** `playerId` + token secreto en `localStorage`.
@@ -219,7 +226,7 @@ scripts/seed-questions.mjs
 - 350 cultura general global.
 - 350 videojuegos.
 - 350 series de los 90.
-- **Total del banco base: 1050.** El banco ampliado suma 5.000 preguntas nuevas de cultura general.
+- **Total del banco base: 1050.** El banco ampliado suma 5.000 de artes/ciencias y 1.000 datos curiosos.
 - Dificultad por categoría: 40 % fácil, 40 % media, 20 % difícil.
 
 ### Validación automática
@@ -240,7 +247,7 @@ El script comprobará:
 - Solo hechos consolidados y verificables.
 - Explicación en todas las preguntas.
 - Revisión por muestreo y corrección de errores detectados.
-- **Limitación conocida:** no se verificará con una fuente individual cada una de las 6.050 preguntas; se prioriza exactitud, validación estructural y muestreo.
+- **Limitación conocida:** no se verificará con una fuente individual cada una de las 7.050 preguntas; se prioriza exactitud, validación estructural y muestreo.
 
 ### Carga en Supabase
 
@@ -462,14 +469,14 @@ Características:
 - Mínimo 2 jugadores.
 - Sin eliminación ni votación.
 - El anfitrión configura el total de preguntas (1–30).
-- Cada pregunta dura 10 segundos y todos pueden responder a la vez.
+- Cada pregunta dura 20 segundos y todos pueden responder a la vez.
 - La primera respuesta que llega al servidor cierra la pregunta y se le atribuye.
 - Los puntos de una respuesta correcta **bajan con el tiempo restante**: máximo al inicio, mínimo 10.
 - Incorrecta: −100.
 - Sin respuesta: **−10 a todos los jugadores activos**.
 - El salto manual del anfitrión no aplica penalización.
 - Dificultad progresiva: fácil → media → difícil.
-- Categorías rotativas: general → videojuegos → series de los 90.
+- Categorías aleatorias con reparto equilibrado: general, videojuegos y series de los 90.
 - Ninguna pregunta se repite dentro de la misma partida.
 - Puntajes negativos permitidos y visibles en rojo.
 - Al terminar las preguntas gana el mayor puntaje.
@@ -486,7 +493,7 @@ Características:
 
 ### Timer global
 
-- Todas las preguntas tienen 10 segundos para responder.
+- Todas las preguntas tienen 20 segundos para responder.
 - En Clásico/Eliminación, el timeout otorga 0 puntos y avanza.
 - En Relámpago, el timeout resta 10 a todos los activos.
 - El deadline es autoritativo en PostgreSQL.
@@ -749,14 +756,14 @@ jueguito/
 ## 12. Orden de implementación
 
 1. **Fase 0:** configurar MCP, autenticar y reiniciar OpenCode.
-2. **Fase 1:** generar las 1050 preguntas base, validarlas y consolidarlas; después ampliar a 6.050 con 5.000 nuevas.
+2. **Fase 1:** generar las 1050 preguntas base, validarlas y consolidarlas; después ampliar a 7.050 con 5.000 de artes/ciencias y 1.000 datos curiosos.
 3. **Fase 2:** crear migraciones, RLS, RPC, triggers y Realtime; cargar preguntas.
 4. **Fase 3:** implementar y desplegar la Edge Function `api`.
 5. **Fase 4:** implementar el frontend y la sincronización.
 6. **Fase 5:** pruebas unitarias y smoke test real.
 7. **Fase 6:** configurar Netlify, documentar y desplegar si hay token.
 
-> El primer entregable fue el **JSON base de 1050 preguntas validado**. El banco final es de 6.050 preguntas.
+> El primer entregable fue el **JSON base de 1050 preguntas validado**. El banco final es de 7.050 preguntas.
 
 ---
 
@@ -766,7 +773,7 @@ jueguito/
 - [ ] Reiniciar OpenCode para cargar las herramientas MCP.
 - [ ] Confirmar que el MCP responde (el agente lo verificará con `list_tables` / `get_project_url`).
 - [ ] Opcional: proporcionar token de Netlify para el despliegue final.
-- [ ] Aceptar el muestreo de revisión factual de las 6.050 preguntas.
+- [ ] Aceptar el muestreo de revisión factual de las 7.050 preguntas.
 
 ---
 

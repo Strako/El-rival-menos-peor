@@ -40,7 +40,7 @@ export function QuestionView({
   const [selected, setSelected] = useState<number | null>(null);
   const [celebrate, setCelebrate] = useState(false);
   const [skipOpen, setSkipOpen] = useState(false);
-  const countdown = useCountdown(game?.revealUntil);
+  const countdown = useCountdown(game?.revealUntil, state.serverTime);
   const turnCountdown = useTurnCountdown(
     question?.deadlineAt,
     state.serverTime,

@@ -194,7 +194,7 @@ async function playElimination(sessions, host, roomId) {
   throw new Error('Timeout en partida de eliminación');
 }
 
-async function waitForRaceQuestion(session, roomId, round, timeoutMs = 20000) {
+async function waitForRaceQuestion(session, roomId, round, timeoutMs = 30000) {
   const deadline = Date.now() + timeoutMs;
   while (Date.now() < deadline) {
     const state = await getState(session, roomId);
@@ -221,7 +221,7 @@ async function waitForRaceReveal(session, roomId, timeoutMs = 15000) {
   throw new Error('Timeout esperando la revelación de relámpago');
 }
 
-async function waitForRaceTimeout(session, roomId, timeoutMs = 20000) {
+async function waitForRaceTimeout(session, roomId, timeoutMs = 30000) {
   const deadline = Date.now() + timeoutMs;
   while (Date.now() < deadline) {
     const state = await getState(session, roomId);
@@ -320,7 +320,7 @@ async function main() {
   const raceRound1 = await waitForRaceQuestion(p1, raceRoomId, 1);
   const difficulties = [raceRound1.question.difficulty];
   check(raceRound1.game.currentPlayerId === null, 'Relámpago no usa turnos');
-  check(Boolean(raceRound1.race?.deadlineAt), 'Relámpago expone el deadline de 10 s');
+  check(Boolean(raceRound1.race?.deadlineAt), 'Relámpago expone el deadline de 20 s');
 
   const parallel = await Promise.allSettled([
     call('game.raceAnswer', { roomId: raceRoomId, selectedIndex: 0 }, p1),
@@ -334,9 +334,11 @@ async function main() {
   const answererScore = raceReveal1.players.find(
     (player) => player.playerId === answererId,
   )?.score;
+  const answerWasCorrect = raceReveal1.lastAnswer?.isCorrect === true;
   check(
-    typeof answererScore === 'number' && Math.abs(answererScore) === 100,
-    'La primera respuesta suma +100 o resta -100 (dificultad fácil)',
+    typeof answererScore === 'number' &&
+      (answerWasCorrect ? answererScore > 0 && answererScore <= 100 : answererScore === -100),
+    'La primera respuesta suma puntos positivos o resta -100 (dificultad fácil)',
   );
   const scoresAfterFirst = Object.fromEntries(
     raceReveal1.players.map((player) => [player.playerId, player.score]),

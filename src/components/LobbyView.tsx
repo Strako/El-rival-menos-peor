@@ -208,7 +208,7 @@ export function LobbyView({
                     {mode === 'classic' && <Badge tone="gold">Elegido</Badge>}
                   </div>
                   <p className="mt-1 text-xs leading-relaxed text-white/40">
-                    Todos responden la misma cantidad de preguntas, con 10 segundos por turno,
+                    Todos responden la misma cantidad de preguntas, con 20 segundos por turno,
                     y gana el mayor puntaje. Mínimo 2 jugadores.
                   </p>
                 </button>
@@ -229,7 +229,7 @@ export function LobbyView({
                     {mode === 'elimination' && <Badge tone="red">Elegido</Badge>}
                   </div>
                   <p className="mt-1 text-xs leading-relaxed text-white/40">
-                    Cada turno dura 10 segundos. Después de cada ronda, los activos votan y el
+                    Cada turno dura 20 segundos. Después de cada ronda, los activos votan y el
                     más votado sale. Mínimo 3 jugadores.
                   </p>
                 </button>
@@ -250,7 +250,7 @@ export function LobbyView({
                     {mode === 'race' && <Badge tone="cyan">Elegido</Badge>}
                   </div>
                   <p className="mt-1 text-xs leading-relaxed text-white/40">
-                    Todos responden a la vez durante 10 segundos. El primero se lleva los
+                    Todos responden a la vez durante 20 segundos. El primero se lleva los
                     puntos; si falla, pierde 100. Sin eliminación. Mínimo 2 jugadores.
                   </p>
                 </button>
@@ -290,7 +290,7 @@ export function LobbyView({
               </div>
               <p className="mt-2 text-[11px] text-white/30">
                 {mode === 'race'
-                  ? `10 segundos por pregunta · ${rounds} ${rounds === 1 ? 'pregunta' : 'preguntas'} en total.`
+                  ? `20 segundos por pregunta · ${rounds} ${rounds === 1 ? 'pregunta' : 'preguntas'} en total.`
                   : `Total estimado: ${rounds * playerCount} preguntas en esta partida.`}
               </p>
             </div>

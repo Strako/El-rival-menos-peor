@@ -58,7 +58,35 @@ describe('detección de sonidos', () => {
     expect(detectSoundEvents(null, baseState())).toEqual([]);
   });
 
-  it('detecta el cambio de turno en modo clásico', () => {
+  it('detecta el cambio de turno solo para el jugador actual', () => {
+    const prev = baseState();
+    const next = baseState({
+      me: {
+        ...prev.me,
+        playerId: 'p2',
+        nickname: 'P2',
+      },
+      game: {
+        ...prev.game!,
+        currentPlayerId: 'p2',
+      },
+      question: {
+        ...prev.question!,
+        gameQuestionId: 'gq-2',
+        round: 2,
+        isMine: true,
+      },
+    });
+
+    expect(detectSoundEvents(prev, next)).toEqual([
+      {
+        key: 'turn:game-1:gq-2:p2',
+        event: 'turn',
+      },
+    ]);
+  });
+
+  it('no suena para quien no tiene el turno', () => {
     const prev = baseState();
     const next = baseState({
       game: {
@@ -73,12 +101,7 @@ describe('detección de sonidos', () => {
       },
     });
 
-    expect(detectSoundEvents(prev, next)).toEqual([
-      {
-        key: 'turn:game-1:gq-2:p2',
-        event: 'turn',
-      },
-    ]);
+    expect(detectSoundEvents(prev, next)).toEqual([]);
   });
 
   it('no repite el sonido si el estado no cambió', () => {

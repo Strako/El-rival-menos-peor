@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-10-26T03:26:13.788Z",
+  "summaries": [
+    {
+      "file": "data\\questions\\fun-facts-1000\\ff-001.json",
+      "count": 220,
+      "difficulties": {
+        "easy": 88,
+        "medium": 88,
+        "hard": 44
+      },
+      "correctIndex": {
+        "0": 55,
+        "1": 55,
+        "2": 55,
+        "3": 55
+      }
+    },
+    {
+      "file": "data\\questions\\fun-facts-1000\\ff-002.json",
+      "count": 220,
+      "difficulties": {
+        "easy": 88,
+        "medium": 88,
+        "hard": 44
+      },
+      "correctIndex": {
+        "0": 55,
+        "1": 55,
+        "2": 55,
+        "3": 55
+      }
+    },
+    {
+      "file": "data\\questions\\fun-facts-1000\\ff-003.json",
+      "count": 220,
+      "difficulties": {
+        "easy": 88,
+        "medium": 88,
+        "hard": 44
+      },
+      "correctIndex": {
+        "0": 55,
+        "1": 55,
+        "2": 55,
+        "3": 55
+      }
+    },
+    {
+      "file": "data\\questions\\fun-facts-1000\\ff-004.json",
+      "count": 220,
+      "difficulties": {
+        "easy": 88,
+        "medium": 88,
+        "hard": 44
+      },
+      "correctIndex": {
+        "0": 55,
+        "1": 55,
+        "2": 55,
+        "3": 55
+      }
+    },
+    {
+      "file": "data\\questions\\fun-facts-1000\\ff-005.json",
+      "count": 220,
+      "difficulties": {
+        "easy": 88,
+        "medium": 88,
+        "hard": 44
+      },
+      "correctIndex": {
+        "0": 55,
+        "1": 55,
+        "2": 55,
+        "3": 55
+      }
+    }
+  ],
+  "totals": {
+    "questions": 1100,
+    "files": 5,
+    "errors": 0,
+    "warnings": 0
+  },
+  "errors": [],
+  "warnings": []
+}

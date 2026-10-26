@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "cg-6441",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuál es el radio medio de la Tierra?",
+    "options": [
+      "Unos 6.371 kilómetros",
+      "Unos 3.471 kilómetros",
+      "Unos 9.371 kilómetros",
+      "Unos 12.742 kilómetros"
+    ],
+    "correctIndex": 0,
+    "explanation": "El radio medio terrestre mide aproximadamente 6.371 kilómetros."
+  },
+  {
+    "id": "cg-6442",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué capa ocupa la parte central de la Tierra?",
+    "options": [
+      "La corteza",
+      "El núcleo",
+      "El manto",
+      "La litosfera"
+    ],
+    "correctIndex": 1,
+    "explanation": "El núcleo, formado sobre todo por hierro y níquel, ocupa el centro del planeta."
+  },
+  {
+    "id": "cg-6443",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué roca sedimentaria está formada por granos de arena cementados?",
+    "options": [
+      "La caliza",
+      "La pizarra",
+      "La arenisca",
+      "El mármol"
+    ],
+    "correctIndex": 2,
+    "explanation": "La arenisca se forma por la compactación de granos de arena."
+  },
+  {
+    "id": "cg-6444",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es un mineral?",
+    "options": [
+      "Una mezcla de rocas sin estructura",
+      "Un gas disuelto en el agua",
+      "Un resto orgánico fosilizado",
+      "Una sustancia natural sólida con composición química definida"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los minerales tienen una estructura cristalina y una composición química característica."
+  },
+  {
+    "id": "cg-6445",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué escala mide la dureza de los minerales del 1 al 10?",
+    "options": [
+      "La escala de Mohs",
+      "La escala de Richter",
+      "La escala de Beaufort",
+      "La escala de Kelvin"
+    ],
+    "correctIndex": 0,
+    "explanation": "La escala de Mohs va del talco, con dureza 1, al diamante, con 10."
+  },
+  {
+    "id": "cg-6446",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ciencia se dedica al estudio de los terremotos?",
+    "options": [
+      "La vulcanología",
+      "La sismología",
+      "La geodesia",
+      "La paleontología"
+    ],
+    "correctIndex": 1,
+    "explanation": "La sismología estudia los terremotos y las ondas que generan."
+  },
+  {
+    "id": "cg-6447",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué roca sedimentaria se forma por acumulación de conchas y caparazones?",
+    "options": [
+      "La arenisca",
+      "La pizarra",
+      "La caliza",
+      "El basalto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los restos calcáreos de organismos marinos pueden originar caliza."
+  },
+  {
+    "id": "cg-6448",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué agente modela principalmente las dunas de arena?",
+    "options": [
+      "El agua dulce",
+      "El hielo glaciar",
+      "La gravedad",
+      "El viento"
+    ],
+    "correctIndex": 3,
+    "explanation": "El viento transporta y deposita granos de arena en forma de dunas."
+  },
+  {
+    "id": "cg-6449",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuál es la capa de mayor espesor en el interior de la Tierra?",
+    "options": [
+      "El manto",
+      "La corteza",
+      "El núcleo interno",
+      "El núcleo externo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El manto se extiende unos 2.900 kilómetros entre la corteza y el núcleo."
+  },
+  {
+    "id": "cg-6450",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué roca predomina en la corteza oceánica?",
+    "options": [
+      "El granito",
+      "El basalto",
+      "La caliza",
+      "El mármol"
+    ],
+    "correctIndex": 1,
+    "explanation": "La corteza oceánica está compuesta sobre todo por basalto."
+  },
+  {
+    "id": "cg-6451",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué roca es característica de la corteza continental?",
+    "options": [
+      "El basalto",
+      "La obsidiana",
+      "El granito",
+      "La arenisca"
+    ],
+    "correctIndex": 2,
+    "explanation": "El granito y rocas afines abundan en la corteza continental."
+  },
+  {
+    "id": "cg-6452",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué elemento químico abunda más en la corteza terrestre?",
+    "options": [
+      "El silicio",
+      "El aluminio",
+      "El hierro",
+      "El oxígeno"
+    ],
+    "correctIndex": 3,
+    "explanation": "El oxígeno representa cerca del 46 % de la corteza terrestre."
+  },
+  {
+    "id": "cg-6453",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué roca metamórfica se forma a partir de la caliza?",
+    "options": [
+      "El mármol",
+      "La cuarcita",
+      "La pizarra",
+      "El gneis"
+    ],
+    "correctIndex": 0,
+    "explanation": "El mármol resulta del metamorfismo de la caliza."
+  },
+  {
+    "id": "cg-6454",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué roca metamórfica procede de la arenisca?",
+    "options": [
+      "El mármol",
+      "La cuarcita",
+      "La pizarra",
+      "El esquisto"
+    ],
+    "correctIndex": 1,
+    "explanation": "La cuarcita se forma a partir de areniscas ricas en cuarzo."
+  },
+  {
+    "id": "cg-6455",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Quién propuso la teoría de la deriva continental en 1912?",
+    "options": [
+      "Charles Lyell",
+      "Harry Hess",
+      "Alfred Wegener",
+      "James Hutton"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wegener reunió pruebas de fósiles y de costas que encajaban."
+  },
+  {
+    "id": "cg-6456",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el hundimiento de una placa oceánica bajo otra?",
+    "options": [
+      "Obducción",
+      "Rifting",
+      "Acreción",
+      "Subducción"
+    ],
+    "correctIndex": 3,
+    "explanation": "En la subducción, la placa más densa desciende hacia el manto."
+  },
+  {
+    "id": "cg-6457",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué principio geológico indica que las capas inferiores se depositaron antes?",
+    "options": [
+      "El principio de superposición",
+      "El principio de horizontalidad",
+      "El actualismo",
+      "El principio de sucesión faunística"
+    ],
+    "correctIndex": 0,
+    "explanation": "En capas no deformadas, las más profundas son las más antiguas."
+  },
+  {
+    "id": "cg-6458",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué isótopo se emplea para datar restos orgánicos de pocos miles de años?",
+    "options": [
+      "El uranio-238",
+      "El carbono-14",
+      "El potasio-40",
+      "El rubidio-87"
+    ],
+    "correctIndex": 1,
+    "explanation": "El carbono-14 permite datar restos de hasta unas 50.000 años."
+  },
+  {
+    "id": "cg-6459",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué mineral constituye cerca del 60 % de la corteza terrestre?",
+    "options": [
+      "El cuarzo",
+      "La mica",
+      "El feldespato",
+      "El olivino"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los feldespatos son el grupo mineral más abundante de la corteza."
+  },
+  {
+    "id": "cg-6460",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la discontinuidad que separa la corteza del manto?",
+    "options": [
+      "Discontinuidad de Gutenberg",
+      "Discontinuidad de Lehmann",
+      "Discontinuidad de Conrad",
+      "Discontinuidad de Mohorovičić"
+    ],
+    "correctIndex": 3,
+    "explanation": "La discontinuidad de Mohorovičić marca el límite entre corteza y manto."
+  },
+  {
+    "id": "cg-6461",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué discontinuidad separa el manto del núcleo terrestre?",
+    "options": [
+      "Discontinuidad de Gutenberg",
+      "Discontinuidad de Mohorovičić",
+      "Discontinuidad de Lehmann",
+      "Discontinuidad de Conrad"
+    ],
+    "correctIndex": 0,
+    "explanation": "La discontinuidad de Gutenberg se sitúa a unos 2.900 kilómetros de profundidad."
+  },
+  {
+    "id": "cg-6462",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué discontinuidad divide el núcleo externo del núcleo interno?",
+    "options": [
+      "Discontinuidad de Gutenberg",
+      "Discontinuidad de Lehmann",
+      "Discontinuidad de Mohorovičić",
+      "Discontinuidad de Repetti"
+    ],
+    "correctIndex": 1,
+    "explanation": "La discontinuidad de Lehmann separa las dos zonas del núcleo."
+  },
+  {
+    "id": "cg-6463",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué temperatura aproximada alcanza el núcleo interno de la Tierra?",
+    "options": [
+      "Unos 1.400 °C",
+      "Unos 3.400 °C",
+      "Unos 5.400 °C",
+      "Unos 9.400 °C"
+    ],
+    "correctIndex": 2,
+    "explanation": "Se estima en unos 5.400 °C, parecida a la de la superficie del Sol."
+  },
+  {
+    "id": "cg-6464",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama un bloque de terreno hundido entre dos fallas normales?",
+    "options": [
+      "Un horst",
+      "Un pilar tectónico",
+      "Un domo salino",
+      "Un graben"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un graben o fosa tectónica se forma por extensión de la corteza."
+  },
+  {
+    "id": "cg-6465",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué capa del manto es parcialmente fundida y permite mover las placas?",
+    "options": [
+      "La astenosfera",
+      "La litosfera",
+      "La mesosfera",
+      "El núcleo externo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La astenosfera es deformable y facilita el desplazamiento de la litosfera."
+  },
+  {
+    "id": "cg-6466",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de fósil sirve para datar y correlacionar capas de roca?",
+    "options": [
+      "Un fósil de ámbar",
+      "Un fósil guía",
+      "Un fósil petrificado",
+      "Un fósil de impresión"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los fósiles guía tuvieron una distribución amplia y una vida corta."
+  },
+  {
+    "id": "cg-6467",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es un volcán?",
+    "options": [
+      "Una montaña formada solo por hielo",
+      "Una falla que no emite materiales",
+      "Una abertura que comunica el interior terrestre con la superficie",
+      "Una depresión creada por la lluvia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Por un volcán salen magma, ceniza y gases desde el interior."
+  },
+  {
+    "id": "cg-6468",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué materiales expulsa un volcán además de lava?",
+    "options": [
+      "Solo agua líquida",
+      "Únicamente arena",
+      "Hielo y sal",
+      "Ceniza y gases"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las erupciones emiten fragmentos de roca, ceniza y gases disueltos."
+  },
+  {
+    "id": "cg-6469",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es un géiser?",
+    "options": [
+      "Una fuente termal que expulsa agua y vapor de forma intermitente",
+      "Un río subterráneo de agua fría",
+      "Una grieta que solo emite lava",
+      "Un pozo natural de petróleo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El agua subterránea se calienta y sale a presión en intervalos."
+  },
+  {
+    "id": "cg-6470",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué parque nacional de Estados Unidos es famoso por el géiser Old Faithful?",
+    "options": [
+      "Yosemite",
+      "Yellowstone",
+      "Grand Canyon",
+      "Everglades"
+    ],
+    "correctIndex": 1,
+    "explanation": "Old Faithful se encuentra en el parque nacional de Yellowstone."
+  },
+  {
+    "id": "cg-6471",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué son las fumarolas?",
+    "options": [
+      "Chorros de lava líquida",
+      "Depósitos de sal marina",
+      "Emisiones de gases y vapor en zonas volcánicas",
+      "Nubes de hielo polar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las fumarolas liberan gases a través de grietas del terreno."
+  },
+  {
+    "id": "cg-6472",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra el Kilimanjaro, el pico más alto de África?",
+    "options": [
+      "Kenia",
+      "Etiopía",
+      "Uganda",
+      "Tanzania"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Kilimanjaro se eleva en el noreste de Tanzania."
+  },
+  {
+    "id": "cg-6473",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es una caldera volcánica?",
+    "options": [
+      "Una depresión formada por el colapso del terreno tras una erupción",
+      "Un cráter abierto por la lluvia",
+      "Una grieta tectónica sin magma",
+      "Una montaña de sedimentos marinos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al vaciarse la cámara magmática, el terreno puede hundirse."
+  },
+  {
+    "id": "cg-6474",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es un lahar?",
+    "options": [
+      "Una colada de lava muy fluida",
+      "Un flujo de lodo y ceniza que baja por las laderas de un volcán",
+      "Una nube de gas incandescente",
+      "Un depósito de sales minerales"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los lahares pueden formarse al mezclarse ceniza con agua."
+  },
+  {
+    "id": "cg-6475",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe el conjunto de fragmentos sólidos expulsados por un volcán?",
+    "options": [
+      "Magma",
+      "Lava",
+      "Tefra",
+      "Sial"
+    ],
+    "correctIndex": 2,
+    "explanation": "La tefra incluye ceniza, lapilli y bloques volcánicos."
+  },
+  {
+    "id": "cg-6476",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué gas predomina en las emisiones volcánicas?",
+    "options": [
+      "Dióxido de carbono",
+      "Dióxido de azufre",
+      "Metano",
+      "Vapor de agua"
+    ],
+    "correctIndex": 3,
+    "explanation": "El vapor de agua suele ser el componente más abundante de los gases volcánicos."
+  },
+  {
+    "id": "cg-6477",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué efecto puede tener una gran erupción volcánica en el clima global?",
+    "options": [
+      "Un enfriamiento temporal",
+      "Un calentamiento permanente",
+      "La desaparición de las mareas",
+      "Un aumento del oxígeno atmosférico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las partículas de azufre reflejan parte de la radiación solar."
+  },
+  {
+    "id": "cg-6478",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es un maar?",
+    "options": [
+      "Una colada de lava submarina",
+      "Un cráter volcánico formado por una explosión freática",
+      "Un domo de lava viscosa",
+      "Una falla con desplazamiento vertical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los maares se originan cuando el magma contacta con agua subterránea."
+  },
+  {
+    "id": "cg-6479",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es la lava almohadillada?",
+    "options": [
+      "Lava que forma columnas hexagonales",
+      "Lava que queda atrapada en un cráter",
+      "Lava que se solidifica en bloques redondeados bajo el agua",
+      "Lava mezclada con hielo glaciar"
+    ],
+    "correctIndex": 2,
+    "explanation": "El enfriamiento rápido bajo el agua produce formas de almohada."
+  },
+  {
+    "id": "cg-6480",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué volcán destruyó Saint-Pierre, en Martinica, en 1902?",
+    "options": [
+      "El Etna",
+      "El Krakatoa",
+      "El Vesubio",
+      "El Monte Pelée"
+    ],
+    "correctIndex": 3,
+    "explanation": "Una nube piroclástica del Monte Pelée arrasó Saint-Pierre."
+  },
+  {
+    "id": "cg-6481",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué volcán colombiano provocó la tragedia de Armero en 1985?",
+    "options": [
+      "El Nevado del Ruiz",
+      "El Cotopaxi",
+      "El Galeras",
+      "El Chimborazo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un lahar del Nevado del Ruiz sepultó la localidad de Armero."
+  },
+  {
+    "id": "cg-6482",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué isla volcánica surgió del mar frente a Islandia en 1963?",
+    "options": [
+      "Santorini",
+      "Surtsey",
+      "Krakatoa",
+      "Helgafell"
+    ],
+    "correctIndex": 1,
+    "explanation": "Surtsey emergió por erupciones submarinas al sur de Islandia."
+  },
+  {
+    "id": "cg-6483",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es un terremoto?",
+    "options": [
+      "Un aumento lento de la marea",
+      "Una erupción de vapor en un géiser",
+      "Una liberación súbita de energía en la corteza terrestre",
+      "Un cambio estacional de la presión del aire"
+    ],
+    "correctIndex": 2,
+    "explanation": "La energía liberada genera ondas sísmicas que hacen temblar el suelo."
+  },
+  {
+    "id": "cg-6484",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿En qué zonas se producen casi todos los terremotos?",
+    "options": [
+      "En el centro de los continentes",
+      "En las zonas polares",
+      "En los desiertos cálidos",
+      "En los bordes de las placas tectónicas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los bordes de placas concentran fallas y actividad sísmica."
+  },
+  {
+    "id": "cg-6485",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántas placas tectónicas principales se suelen distinguir?",
+    "options": [
+      "Siete",
+      "Tres",
+      "Doce",
+      "Veinte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Se reconocen siete grandes placas, además de otras menores."
+  },
+  {
+    "id": "cg-6486",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué placa tectónica es la de mayor extensión?",
+    "options": [
+      "La placa africana",
+      "La placa del Pacífico",
+      "La placa euroasiática",
+      "La placa antártica"
+    ],
+    "correctIndex": 1,
+    "explanation": "La placa del Pacífico cubre buena parte del fondo oceánico homónimo."
+  },
+  {
+    "id": "cg-6487",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de límite se forma cuando dos placas se separan?",
+    "options": [
+      "Convergente",
+      "Transformante",
+      "Divergente",
+      "Oblicuo"
+    ],
+    "correctIndex": 2,
+    "explanation": "En los límites divergentes se crea nueva corteza oceánica."
+  },
+  {
+    "id": "cg-6488",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué estructura se crea en un límite divergente del fondo oceánico?",
+    "options": [
+      "Una fosa abisal",
+      "Un arco de islas",
+      "Un rift continental",
+      "Una dorsal mediooceánica"
+    ],
+    "correctIndex": 3,
+    "explanation": "El magma asciende y forma una cadena montañosa submarina."
+  },
+  {
+    "id": "cg-6489",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué tipo de límite de placas destruye litosfera?",
+    "options": [
+      "Convergente",
+      "Divergente",
+      "Transformante",
+      "Pasivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "En los límites convergentes una placa se hunde bajo otra."
+  },
+  {
+    "id": "cg-6490",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué mecanismo se considera motor del movimiento de las placas?",
+    "options": [
+      "La rotación terrestre",
+      "La convección del manto",
+      "La gravedad lunar",
+      "El viento solar"
+    ],
+    "correctIndex": 1,
+    "explanation": "El calor interno impulsa corrientes de convección en el manto."
+  },
+  {
+    "id": "cg-6491",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de falla se produce por compresión?",
+    "options": [
+      "Falla normal",
+      "Falla de desgarre",
+      "Falla inversa",
+      "Falla transformante"
+    ],
+    "correctIndex": 2,
+    "explanation": "La compresión empuja un bloque sobre otro en una falla inversa."
+  },
+  {
+    "id": "cg-6492",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué tipo de falla se produce por extensión?",
+    "options": [
+      "Falla inversa",
+      "Falla de cabalgamiento",
+      "Falla de desgarre",
+      "Falla normal"
+    ],
+    "correctIndex": 3,
+    "explanation": "La extensión hace que un bloque descienda respecto al otro."
+  },
+  {
+    "id": "cg-6493",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué onda sísmica llega primero a una estación de registro?",
+    "options": [
+      "La onda P",
+      "La onda S",
+      "La onda superficial de Love",
+      "La onda superficial de Rayleigh"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las ondas P son longitudinales y viajan más rápido."
+  },
+  {
+    "id": "cg-6494",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué onda sísmica no atraviesa medios líquidos?",
+    "options": [
+      "La onda P",
+      "La onda S",
+      "La onda de Rayleigh",
+      "La onda de Love"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las ondas S son transversales y no se propagan en líquidos."
+  },
+  {
+    "id": "cg-6495",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué porcentaje de la superficie terrestre está cubierta por agua?",
+    "options": [
+      "Cerca del 41 %",
+      "Cerca del 51 %",
+      "Cerca del 71 %",
+      "Cerca del 91 %"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los océanos y otras masas de agua cubren aproximadamente el 71 % de la superficie."
+  },
+  {
+    "id": "cg-6496",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿En qué océano se encuentra la fosa de las Marianas?",
+    "options": [
+      "Atlántico",
+      "Índico",
+      "Ártico",
+      "Pacífico"
+    ],
+    "correctIndex": 3,
+    "explanation": "La fosa de las Marianas se localiza en el océano Pacífico occidental."
+  },
+  {
+    "id": "cg-6497",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué océano baña las costas de la India?",
+    "options": [
+      "Índico",
+      "Pacífico",
+      "Atlántico",
+      "Ártico"
+    ],
+    "correctIndex": 0,
+    "explanation": "La India está bañada por el océano Índico."
+  },
+  {
+    "id": "cg-6498",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué océano se extiende entre América y Asia?",
+    "options": [
+      "Atlántico",
+      "Pacífico",
+      "Índico",
+      "Austral"
+    ],
+    "correctIndex": 1,
+    "explanation": "El océano Pacífico separa las costas de América y de Asia."
+  },
+  {
+    "id": "cg-6499",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué son las mareas?",
+    "options": [
+      "Corrientes de agua dulce hacia el mar",
+      "Olas producidas por el viento",
+      "Ascensos y descensos periódicos del nivel del mar",
+      "Cambios de salinidad en los polos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las mareas se deben sobre todo a la gravedad de la Luna y del Sol."
+  },
+  {
+    "id": "cg-6500",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el paso del vapor de agua a líquido?",
+    "options": [
+      "Evaporación",
+      "Sublimación",
+      "Fusión",
+      "Condensación"
+    ],
+    "correctIndex": 3,
+    "explanation": "La condensación forma gotas cuando el vapor se enfría."
+  },
+  {
+    "id": "cg-6501",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es un delta fluvial?",
+    "options": [
+      "Una desembocadura con brazos formados por sedimentos",
+      "Un valle excavado por un glaciar",
+      "Una fosa tectónica inundada",
+      "Una isla volcánica reciente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los sedimentos se depositan y dividen el cauce en varios brazos."
+  },
+  {
+    "id": "cg-6502",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento usa el sonido para medir la profundidad del mar?",
+    "options": [
+      "El barómetro",
+      "La ecosonda",
+      "El anemómetro",
+      "El higrómetro"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ecosonda calcula la profundidad a partir del eco del sonido."
+  },
+  {
+    "id": "cg-6503",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es un arrecife de coral?",
+    "options": [
+      "Una acumulación de lava submarina",
+      "Una duna de arena costera",
+      "Una estructura calcárea construida por colonias de corales",
+      "Una capa de hielo flotante"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los corales secretan esqueletos de carbonato de calcio."
+  },
+  {
+    "id": "cg-6504",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué proporción del agua del planeta es agua salada?",
+    "options": [
+      "Cerca del 50 %",
+      "Cerca del 75 %",
+      "Cerca del 90 %",
+      "Cerca del 97,5 %"
+    ],
+    "correctIndex": 3,
+    "explanation": "Solo una pequeña parte del agua terrestre es dulce."
+  },
+  {
+    "id": "cg-6505",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué océano fue incluido en la delimitación de la Organización Hidrográfica Internacional del año 2000?",
+    "options": [
+      "El océano Austral",
+      "El océano Ártico",
+      "El océano Índico",
+      "El océano Atlántico"
+    ],
+    "correctIndex": 0,
+    "explanation": "La delimitación del año 2000 incluyó el océano Austral alrededor de la Antártida."
+  },
+  {
+    "id": "cg-6506",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué profundidad aproximada alcanza el abismo Challenger?",
+    "options": [
+      "Unos 4.900 metros",
+      "Unos 10.900 metros",
+      "Unos 7.900 metros",
+      "Unos 14.900 metros"
+    ],
+    "correctIndex": 1,
+    "explanation": "El abismo Challenger es el punto más profundo conocido del océano."
+  },
+  {
+    "id": "cg-6507",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué cordillera submarina se extiende a lo largo de unos 65.000 kilómetros?",
+    "options": [
+      "La fosa de las Marianas",
+      "El talud continental",
+      "La dorsal mediooceánica",
+      "La llanura abisal"
+    ],
+    "correctIndex": 2,
+    "explanation": "La dorsal mediooceánica forma el sistema montañoso más extenso del planeta."
+  },
+  {
+    "id": "cg-6508",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué corriente fría recorre la costa de Perú y Chile?",
+    "options": [
+      "La corriente del Golfo",
+      "La corriente de Benguela",
+      "La corriente de Kuroshio",
+      "La corriente de Humboldt"
+    ],
+    "correctIndex": 3,
+    "explanation": "La corriente de Humboldt asciende agua fría frente a la costa sudamericana."
+  },
+  {
+    "id": "cg-6509",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuál es la salinidad media del agua de mar?",
+    "options": [
+      "Cerca del 3,5 %",
+      "Cerca del 0,5 %",
+      "Cerca del 10 %",
+      "Cerca del 20 %"
+    ],
+    "correctIndex": 0,
+    "explanation": "La salinidad media oceánica ronda los 35 gramos de sal por litro."
+  },
+  {
+    "id": "cg-6510",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué masa de agua, situada entre Israel y Jordania, es famosa por su gran salinidad?",
+    "options": [
+      "El lago Baikal",
+      "El mar Muerto",
+      "El lago Victoria",
+      "El lago Titicaca"
+    ],
+    "correctIndex": 1,
+    "explanation": "La alta densidad del mar Muerto facilita que una persona flote."
+  },
+  {
+    "id": "cg-6511",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es la plataforma continental?",
+    "options": [
+      "La fosa más profunda del océano",
+      "La cadena de volcanes submarinos",
+      "La zona somera que rodea los continentes",
+      "La llanura del fondo abisal"
+    ],
+    "correctIndex": 2,
+    "explanation": "La plataforma continental se extiende hasta el borde del talud."
+  },
+  {
+    "id": "cg-6512",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es el talud continental?",
+    "options": [
+      "Una llanura de sedimentos fluviales",
+      "Una dorsal de nueva corteza",
+      "Un cráter volcánico sumergido",
+      "La pendiente entre la plataforma y el fondo abisal"
+    ],
+    "correctIndex": 3,
+    "explanation": "El talud desciende de forma pronunciada hacia las llanuras abisales."
+  },
+  {
+    "id": "cg-6513",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es una llanura abisal?",
+    "options": [
+      "Una extensa zona plana del fondo oceánico profundo",
+      "Una meseta alta de la corteza continental",
+      "Una playa formada por mareas",
+      "Una fosa tectónica estrecha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las llanuras abisales ocupan gran parte de los fondos oceánicos."
+  },
+  {
+    "id": "cg-6514",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es la zona fótica del océano?",
+    "options": [
+      "La zona más profunda y oscura",
+      "La capa iluminada donde es posible la fotosíntesis",
+      "La franja de hielo marino",
+      "La desembocadura de los ríos"
+    ],
+    "correctIndex": 1,
+    "explanation": "La luz solar penetra solo hasta unos 200 metros en aguas claras."
+  },
+  {
+    "id": "cg-6515",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué organismo marino produce cerca de la mitad del oxígeno atmosférico?",
+    "options": [
+      "El zooplancton",
+      "Los peces",
+      "El fitoplancton",
+      "Los mamíferos marinos"
+    ],
+    "correctIndex": 2,
+    "explanation": "El fitoplancton realiza fotosíntesis en la superficie oceánica."
+  },
+  {
+    "id": "cg-6516",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es la circulación termohalina?",
+    "options": [
+      "Un sistema de mareas provocado por el viento",
+      "Una corriente de agua dulce en los polos",
+      "Un remolino formado por un huracán",
+      "Un circuito oceánico global impulsado por temperatura y salinidad"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las diferencias de densidad mueven masas de agua entre los océanos."
+  },
+  {
+    "id": "cg-6517",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es la termoclina?",
+    "options": [
+      "Una capa donde la temperatura del agua cambia rápidamente",
+      "Una zona de salinidad constante",
+      "La superficie helada del océano",
+      "El fondo de una fosa abisal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La termoclina separa aguas superficiales cálidas de aguas profundas frías."
+  },
+  {
+    "id": "cg-6518",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es la acidificación oceánica?",
+    "options": [
+      "El aumento de salinidad por evaporación",
+      "El descenso del pH del agua por absorción de dióxido de carbono",
+      "La subida del nivel del mar por deshielo",
+      "La pérdida de oxígeno por erupciones"
+    ],
+    "correctIndex": 1,
+    "explanation": "El dióxido de carbono disuelto forma ácido carbónico en el agua."
+  },
+  {
+    "id": "cg-6519",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es una marea negra?",
+    "options": [
+      "Una corriente de agua turbia",
+      "Una nube de ceniza volcánica",
+      "Un vertido de petróleo en el mar",
+      "Una floración de algas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los vertidos de petróleo dañan la fauna y las costas."
+  },
+  {
+    "id": "cg-6520",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es la bioluminiscencia?",
+    "options": [
+      "La reflexión de la luz lunar",
+      "El brillo de minerales en el fondo marino",
+      "La dispersión de la luz en el agua",
+      "La producción de luz por organismos vivos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Muchos organismos marinos emiten luz mediante reacciones químicas."
+  },
+  {
+    "id": "cg-6521",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué marea ocurre durante la luna nueva y la luna llena?",
+    "options": [
+      "La marea viva",
+      "La marea muerta",
+      "La marea baja",
+      "La marea de cuadratura"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sol y Luna alinean sus fuerzas y producen mareas de mayor amplitud."
+  },
+  {
+    "id": "cg-6522",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué marea se produce cuando el Sol y la Luna forman un ángulo recto?",
+    "options": [
+      "La marea viva",
+      "La marea muerta",
+      "La marea alta",
+      "La marea de sicigia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las fuerzas se contrarrestan en parte y la amplitud de marea disminuye."
+  },
+  {
+    "id": "cg-6523",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué porcentaje aproximado de la atmósfera terrestre es oxígeno?",
+    "options": [
+      "11 %",
+      "31 %",
+      "21 %",
+      "51 %"
+    ],
+    "correctIndex": 2,
+    "explanation": "El oxígeno constituye cerca del 21 % del aire atmosférico."
+  },
+  {
+    "id": "cg-6524",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿En qué unidad se suele expresar la presión atmosférica?",
+    "options": [
+      "En grados Celsius",
+      "En metros por segundo",
+      "En milímetros cúbicos",
+      "En hectopascales"
+    ],
+    "correctIndex": 3,
+    "explanation": "La presión atmosférica se mide habitualmente en hectopascales."
+  },
+  {
+    "id": "cg-6525",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento mide la humedad del aire?",
+    "options": [
+      "El higrómetro",
+      "El barómetro",
+      "La veleta",
+      "El pluviómetro"
+    ],
+    "correctIndex": 0,
+    "explanation": "El higrómetro mide el vapor de agua presente en el aire."
+  },
+  {
+    "id": "cg-6526",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento mide la velocidad del viento?",
+    "options": [
+      "El barómetro",
+      "El anemómetro",
+      "El higrómetro",
+      "El sismógrafo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El anemómetro calcula la velocidad del viento."
+  },
+  {
+    "id": "cg-6527",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento indica la dirección del viento?",
+    "options": [
+      "El anemómetro",
+      "El barómetro",
+      "La veleta",
+      "El altímetro"
+    ],
+    "correctIndex": 2,
+    "explanation": "La veleta señala de dónde sopla el viento."
+  },
+  {
+    "id": "cg-6528",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es la presión atmosférica?",
+    "options": [
+      "La temperatura del suelo",
+      "La cantidad de lluvia caída",
+      "La velocidad de las olas",
+      "El peso del aire sobre una superficie"
+    ],
+    "correctIndex": 3,
+    "explanation": "La presión disminuye con la altitud porque hay menos aire encima."
+  },
+  {
+    "id": "cg-6529",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es la niebla?",
+    "options": [
+      "Una nube que está en contacto con el suelo",
+      "Una lluvia de gotas grandes",
+      "Una capa de hielo en el suelo",
+      "Un viento seco y cálido"
+    ],
+    "correctIndex": 0,
+    "explanation": "La niebla se forma cuando el aire cercano al suelo se satura."
+  },
+  {
+    "id": "cg-6530",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama el agua que se condensa en las superficies durante la noche?",
+    "options": [
+      "Escarcha",
+      "Rocío",
+      "Granizo",
+      "Aguanieve"
+    ],
+    "correctIndex": 1,
+    "explanation": "El rocío aparece cuando el aire se enfría por debajo del punto de rocío."
+  },
+  {
+    "id": "cg-6531",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es el clima?",
+    "options": [
+      "El estado de la atmósfera de un día concreto",
+      "La temperatura del agua del mar",
+      "El patrón habitual de la atmósfera en un lugar durante años",
+      "El movimiento de las placas tectónicas"
+    ],
+    "correctIndex": 2,
+    "explanation": "El clima se describe a partir de promedios y variaciones de largo plazo."
+  },
+  {
+    "id": "cg-6532",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué inclinación tiene el eje de rotación terrestre?",
+    "options": [
+      "Unos 13,5 grados",
+      "Unos 33,5 grados",
+      "Unos 45 grados",
+      "Unos 23,5 grados"
+    ],
+    "correctIndex": 3,
+    "explanation": "La inclinación del eje terrestre es de aproximadamente 23,5 grados."
+  },
+  {
+    "id": "cg-6533",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es la latitud?",
+    "options": [
+      "La distancia angular de un punto al ecuador",
+      "La distancia angular a un meridiano",
+      "La altura sobre el nivel del mar",
+      "La profundidad de un océano"
+    ],
+    "correctIndex": 0,
+    "explanation": "La latitud se mide en grados hacia el norte o hacia el sur del ecuador."
+  },
+  {
+    "id": "cg-6534",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es la brisa marina?",
+    "options": [
+      "Un viento que baja de una montaña",
+      "Un viento que sopla del mar hacia la tierra durante el día",
+      "Una corriente profunda del océano",
+      "Una lluvia breve de verano"
+    ],
+    "correctIndex": 1,
+    "explanation": "La tierra se calienta más rápido y el aire asciende, atrayendo aire del mar."
+  },
+  {
+    "id": "cg-6535",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es un anticiclón?",
+    "options": [
+      "Una zona de baja presión atmosférica",
+      "Un frente de lluvias intensas",
+      "Una zona de alta presión atmosférica",
+      "Una corriente marina cálida"
+    ],
+    "correctIndex": 2,
+    "explanation": "En un anticiclón el aire desciende y suele asociarse a tiempo estable."
+  },
+  {
+    "id": "cg-6536",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es una borrasca?",
+    "options": [
+      "Una zona de alta presión atmosférica",
+      "Una ola de calor persistente",
+      "Un glaciar en retroceso",
+      "Una zona de baja presión atmosférica"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las borrascas atraen aire y favorecen la formación de nubes."
+  },
+  {
+    "id": "cg-6537",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es una isobara?",
+    "options": [
+      "Una línea que une puntos de igual presión",
+      "Una línea que une puntos de igual temperatura",
+      "Una curva que marca la dirección del viento",
+      "Una franja de precipitación constante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los mapas del tiempo usan isobaras para representar la presión."
+  },
+  {
+    "id": "cg-6538",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es una isoterma?",
+    "options": [
+      "Una línea que une puntos de igual presión",
+      "Una línea que une puntos de igual temperatura",
+      "Una zona de vientos fuertes",
+      "Una capa de la atmósfera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las isotermas permiten ver gradientes de temperatura en un mapa."
+  },
+  {
+    "id": "cg-6539",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es la humedad relativa?",
+    "options": [
+      "La cantidad total de agua líquida en el aire",
+      "La presión que ejerce el viento",
+      "La proporción de vapor de agua respecto al máximo posible",
+      "La temperatura mínima nocturna"
+    ],
+    "correctIndex": 2,
+    "explanation": "La humedad relativa se expresa en porcentaje y depende de la temperatura."
+  },
+  {
+    "id": "cg-6540",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es el smog?",
+    "options": [
+      "Una nube de hielo polar",
+      "Una lluvia ácida natural",
+      "Un viento cálido del desierto",
+      "Una mezcla de humo y niebla contaminantes"
+    ],
+    "correctIndex": 3,
+    "explanation": "El smog se forma por contaminantes y condiciones atmosféricas estables."
+  },
+  {
+    "id": "cg-6541",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué sustancias destruyen la capa de ozono estratosférico?",
+    "options": [
+      "Los clorofluorocarbonos",
+      "El vapor de agua",
+      "El nitrógeno",
+      "El argón"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los clorofluorocarbonos liberan cloro que rompe moléculas de ozono."
+  },
+  {
+    "id": "cg-6542",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Sobre qué región se forma el agujero de ozono más conocido?",
+    "options": [
+      "El Ártico",
+      "La Antártida",
+      "El Sahara",
+      "El Amazonas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las condiciones invernales antárticas favorecen la destrucción del ozono."
+  },
+  {
+    "id": "cg-6543",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué protocolo internacional prohibió los clorofluorocarbonos?",
+    "options": [
+      "El Protocolo de Kioto",
+      "El Acuerdo de París",
+      "El Protocolo de Montreal",
+      "El Convenio de Ramsar"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Protocolo de Montreal, firmado en 1987, protege la capa de ozono."
+  },
+  {
+    "id": "cg-6544",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué acuerdo de 2015 busca limitar el aumento de la temperatura global?",
+    "options": [
+      "El Protocolo de Montreal",
+      "El Protocolo de Kioto",
+      "La Convención de Viena",
+      "El Acuerdo de París"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Acuerdo de París establece objetivos para reducir emisiones."
+  },
+  {
+    "id": "cg-6545",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es el efecto Coriolis?",
+    "options": [
+      "La desviación de los vientos por la rotación terrestre",
+      "El ascenso de aire caliente sobre el ecuador",
+      "La formación de nubes en las montañas",
+      "El cambio de salinidad en los océanos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La rotación del planeta desvía las masas de aire en movimiento."
+  },
+  {
+    "id": "cg-6546",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué son los vientos alisios?",
+    "options": [
+      "Vientos polares que soplan hacia el ecuador",
+      "Vientos tropicales que soplan del este hacia el oeste",
+      "Brisas que cambian con las estaciones",
+      "Vientos que descienden de las montañas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los alisios convergen cerca del ecuador en la zona de bajas presiones."
+  },
+  {
+    "id": "cg-6547",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué escala mide la fuerza del viento en grados?",
+    "options": [
+      "La escala de Mohs",
+      "La escala de Richter",
+      "La escala de Beaufort",
+      "La escala de Saffir-Simpson"
+    ],
+    "correctIndex": 2,
+    "explanation": "La escala de Beaufort clasifica el viento por sus efectos."
+  },
+  {
+    "id": "cg-6548",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué hace un satélite meteorológico?",
+    "options": [
+      "Mide la profundidad de las fosas oceánicas",
+      "Estudia la composición del núcleo terrestre",
+      "Detecta ondas sísmicas en el fondo del mar",
+      "Observa nubes y fenómenos atmosféricos desde la órbita"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los satélites meteorológicos ofrecen imágenes y datos continuos de la atmósfera."
+  },
+  {
+    "id": "cg-6549",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es una sequía?",
+    "options": [
+      "Un periodo prolongado con precipitaciones muy escasas",
+      "Una tormenta breve de granizo",
+      "Una crecida repentina de un río",
+      "Una ola de frío polar"
+    ],
+    "correctIndex": 0,
+    "explanation": "La falta prolongada de lluvia reduce la disponibilidad de agua."
+  },
+  {
+    "id": "cg-6550",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es la desertificación?",
+    "options": [
+      "La formación de dunas en las playas",
+      "La degradación de tierras en zonas áridas o semiáridas",
+      "El avance natural de un glaciar",
+      "La erosión causada por las mareas"
+    ],
+    "correctIndex": 1,
+    "explanation": "La desertificación puede deberse al sobrepastoreo, la deforestación y el clima."
+  },
+  {
+    "id": "cg-6551",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es el punto de rocío?",
+    "options": [
+      "La temperatura máxima del día",
+      "La presión mínima de una borrasca",
+      "La temperatura a la que el aire se satura de vapor",
+      "La altura de las nubes bajas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al enfriarse por debajo del punto de rocío, el vapor condensa."
+  },
+  {
+    "id": "cg-6552",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿En qué sentido giran los ciclones del hemisferio norte?",
+    "options": [
+      "En sentido horario",
+      "Sin rotación",
+      "Siempre hacia el norte",
+      "En sentido antihorario"
+    ],
+    "correctIndex": 3,
+    "explanation": "El efecto Coriolis imprime giro antihorario a los ciclones boreales."
+  },
+  {
+    "id": "cg-6553",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es la corriente en chorro?",
+    "options": [
+      "Una banda rápida de viento en la alta atmósfera",
+      "Una corriente marina de superficie",
+      "Un río subterráneo de agua dulce",
+      "Un viento que sopla solo en los desiertos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las corrientes en chorro separan masas de aire y guían los frentes."
+  },
+  {
+    "id": "cg-6554",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es la célula de Hadley?",
+    "options": [
+      "Un remolino de agua en el Atlántico norte",
+      "Una circulación atmosférica tropical entre el ecuador y los trópicos",
+      "Una corriente de aire polar descendente",
+      "Un ciclo de mareas de dos semanas"
+    ],
+    "correctIndex": 1,
+    "explanation": "El aire asciende en el ecuador y desciende en los trópicos."
+  },
+  {
+    "id": "cg-6555",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es una inversión térmica?",
+    "options": [
+      "Un cambio brusco de la dirección del viento",
+      "Una subida del nivel del mar",
+      "Una situación en la que el aire cálido queda sobre el aire frío",
+      "Una capa de hielo en la estratosfera"
+    ],
+    "correctIndex": 2,
+    "explanation": "La inversión térmica dificulta la dispersión de contaminantes."
+  },
+  {
+    "id": "cg-6556",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es el efecto Foehn?",
+    "options": [
+      "El enfriamiento del aire al ascender una montaña",
+      "La formación de niebla en los valles",
+      "El aumento de salinidad en las costas",
+      "El calentamiento y secado del aire al descender una montaña"
+    ],
+    "correctIndex": 3,
+    "explanation": "El aire pierde humedad al ascender y llega cálido y seco al otro lado."
+  },
+  {
+    "id": "cg-6557",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es una radiosonda?",
+    "options": [
+      "Un instrumento que mide condiciones atmosféricas en altura",
+      "Un radar que detecta barcos",
+      "Un satélite que estudia el fondo marino",
+      "Un sismógrafo instalado en un volcán"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las radiosondas se elevan con globos y transmiten datos de presión y temperatura."
+  },
+  {
+    "id": "cg-6558",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es la oscilación del Sur?",
+    "options": [
+      "Una corriente marina del océano Índico",
+      "Un cambio alternante de la presión atmosférica en el Pacífico",
+      "Un ciclo de erupciones volcánicas",
+      "Una variación del campo magnético terrestre"
+    ],
+    "correctIndex": 1,
+    "explanation": "La oscilación del Sur está relacionada con El Niño y La Niña."
+  },
+  {
+    "id": "cg-6559",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es un glaciar?",
+    "options": [
+      "Una capa de nieve que no se mueve",
+      "Un lago de agua salada congelada",
+      "Una masa de hielo que fluye lentamente",
+      "Una montaña cubierta de rocas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los glaciares se desplazan por su propio peso y modelan el terreno."
+  },
+  {
+    "id": "cg-6560",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿En qué continente se encuentra el casquete de hielo de mayor extensión?",
+    "options": [
+      "Europa",
+      "África",
+      "Australia",
+      "La Antártida"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Antártida contiene la mayor extensión de hielo continental."
+  },
+  {
+    "id": "cg-6561",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿En qué país se encuentra el glaciar Perito Moreno?",
+    "options": [
+      "Argentina",
+      "Chile",
+      "Islandia",
+      "Noruega"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Perito Moreno está en la Patagonia argentina, en Santa Cruz."
+  },
+  {
+    "id": "cg-6562",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué porcentaje del agua dulce del planeta está almacenada en glaciares y casquetes?",
+    "options": [
+      "Cerca del 9 %",
+      "Cerca del 69 %",
+      "Cerca del 29 %",
+      "Cerca del 89 %"
+    ],
+    "correctIndex": 1,
+    "explanation": "La mayor parte del agua dulce se encuentra congelada."
+  },
+  {
+    "id": "cg-6563",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es el permafrost?",
+    "options": [
+      "Una capa de hielo marino estacional",
+      "Un glaciar de montaña en retroceso",
+      "Un suelo que permanece congelado durante todo el año",
+      "Una acumulación de nieve en un circo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El permafrost cubre amplias zonas de Siberia, Canadá y Alaska."
+  },
+  {
+    "id": "cg-6564",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cómo se llama el hielo marino que flota en los océanos polares?",
+    "options": [
+      "Iceberg",
+      "Nunatak",
+      "Morrena",
+      "Banquisa"
+    ],
+    "correctIndex": 3,
+    "explanation": "La banquisa se forma al congelarse la superficie del mar."
+  },
+  {
+    "id": "cg-6565",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué proporción del hielo terrestre se concentra en la Antártida?",
+    "options": [
+      "Cerca del 90 %",
+      "Cerca del 30 %",
+      "Cerca del 50 %",
+      "Cerca del 70 %"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Antártida almacena alrededor del 90 % del hielo del planeta."
+  },
+  {
+    "id": "cg-6566",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es un circo glaciar?",
+    "options": [
+      "Una llanura de sedimentos fluviales",
+      "Una depresión en forma de anfiteatro excavada por el hielo",
+      "Un cráter volcánico colapsado",
+      "Una fosa tectónica marina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los circos se forman en la cabecera de los glaciares de montaña."
+  },
+  {
+    "id": "cg-6567",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es un nunatak?",
+    "options": [
+      "Un bloque de hielo flotante",
+      "Una grieta profunda del hielo",
+      "Un pico rocoso que sobresale por encima de un glaciar",
+      "Un depósito de sedimentos glaciares"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los nunataks emergen del hielo y resisten la erosión glaciar."
+  },
+  {
+    "id": "cg-6568",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es la ablación de un glaciar?",
+    "options": [
+      "La acumulación de nieve en la cabecera",
+      "El avance del frente glaciar",
+      "La formación de un fiordo",
+      "La pérdida de hielo por fusión, sublimación o desprendimiento"
+    ],
+    "correctIndex": 3,
+    "explanation": "La ablación compensa parte de la acumulación de nieve."
+  },
+  {
+    "id": "cg-6569",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿A qué distancia media se encuentra la Luna de la Tierra?",
+    "options": [
+      "Unos 384.000 kilómetros",
+      "Unos 38.400 kilómetros",
+      "Unos 1.384.000 kilómetros",
+      "Unos 3.840.000 kilómetros"
+    ],
+    "correctIndex": 0,
+    "explanation": "La distancia media entre la Tierra y la Luna es de unos 384.000 kilómetros."
+  },
+  {
+    "id": "cg-6570",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo es la gravedad lunar comparada con la terrestre?",
+    "options": [
+      "Cerca de la mitad",
+      "Cerca de una sexta parte",
+      "Cerca del doble",
+      "Cerca de una centésima parte"
+    ],
+    "correctIndex": 1,
+    "explanation": "La gravedad lunar es aproximadamente un sexto de la terrestre."
+  },
+  {
+    "id": "cg-6571",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es un cráter lunar?",
+    "options": [
+      "Una grieta abierta por un terremoto",
+      "Un valle excavado por un río",
+      "Una depresión formada por el impacto de un cuerpo rocoso",
+      "Una montaña de origen volcánico"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los impactos de rocas espaciales han marcado la superficie lunar."
+  },
+  {
+    "id": "cg-6572",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué fase lunar sigue inmediatamente a la luna nueva?",
+    "options": [
+      "Luna llena",
+      "Luna menguante",
+      "Cuarto menguante",
+      "Luna creciente"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tras la luna nueva, la parte iluminada visible aumenta."
+  },
+  {
+    "id": "cg-6573",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ocurre en un eclipse total de Sol?",
+    "options": [
+      "La Luna cubre por completo el disco solar",
+      "La Tierra proyecta su sombra sobre la Luna",
+      "El Sol deja de emitir luz",
+      "La Luna se interpone entre dos planetas"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Luna se alinea entre el Sol y la Tierra y oculta el disco solar."
+  },
+  {
+    "id": "cg-6574",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es la luna llena?",
+    "options": [
+      "La fase en la que la Luna no se ve",
+      "La fase en la que se ve iluminada toda la cara visible",
+      "La fase en la que solo se ilumina un cuarto",
+      "La fase en la que la Luna está más lejos"
+    ],
+    "correctIndex": 1,
+    "explanation": "En la luna llena, la cara visible queda completamente iluminada."
+  },
+  {
+    "id": "cg-6575",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuánto tarda la luz reflejada por la Luna en llegar a la Tierra?",
+    "options": [
+      "Unos 8 minutos",
+      "Unos 13 segundos",
+      "Unos 1,3 segundos",
+      "Unos 0,13 segundos"
+    ],
+    "correctIndex": 2,
+    "explanation": "La luz recorre la distancia Tierra-Luna en poco más de un segundo."
+  },
+  {
+    "id": "cg-6576",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuánto tarda la Luna en completar una órbita alrededor de la Tierra?",
+    "options": [
+      "Unos 7,3 días",
+      "Unos 17,3 días",
+      "Unos 37,3 días",
+      "Unos 27,3 días"
+    ],
+    "correctIndex": 3,
+    "explanation": "El periodo orbital sidéreo de la Luna es de unos 27,3 días."
+  },
+  {
+    "id": "cg-6577",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuánto dura un ciclo completo de fases lunares?",
+    "options": [
+      "Unos 29,5 días",
+      "Unos 19,5 días",
+      "Unos 24,5 días",
+      "Unos 39,5 días"
+    ],
+    "correctIndex": 0,
+    "explanation": "El mes sinódico, entre dos lunas nuevas, dura unos 29,5 días."
+  },
+  {
+    "id": "cg-6578",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Por qué vemos siempre la misma cara de la Luna?",
+    "options": [
+      "Porque la Luna no gira sobre su eje",
+      "Porque su rotación dura lo mismo que su órbita",
+      "Porque la Tierra gira más despacio",
+      "Porque la Luna solo emite luz por un lado"
+    ],
+    "correctIndex": 1,
+    "explanation": "La rotación sincrónica hace que la misma cara mire siempre a la Tierra."
+  },
+  {
+    "id": "cg-6579",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿En qué año se realizó la última misión tripulada a la Luna?",
+    "options": [
+      "1969",
+      "1975",
+      "1972",
+      "1981"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Apolo 17, en diciembre de 1972, fue la última misión tripulada lunar."
+  },
+  {
+    "id": "cg-6580",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántas misiones Apolo lograron alunizar?",
+    "options": [
+      "Tres",
+      "Cuatro",
+      "Nueve",
+      "Seis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alunizaron el Apolo 11, 12, 14, 15, 16 y 17."
+  },
+  {
+    "id": "cg-6581",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué astronauta permaneció en órbita durante el Apolo 11?",
+    "options": [
+      "Michael Collins",
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Alan Shepard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Collins esperó en el módulo de mando mientras sus compañeros bajaban."
+  },
+  {
+    "id": "cg-6582",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué cuerpo se cree que chocó con la Tierra y originó la Luna?",
+    "options": [
+      "Ceres",
+      "Theia",
+      "Vesta",
+      "Ío"
+    ],
+    "correctIndex": 1,
+    "explanation": "La hipótesis del gran impacto propone una colisión con un cuerpo llamado Theia."
+  },
+  {
+    "id": "cg-6583",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué porcentaje de la superficie lunar puede verse desde la Tierra?",
+    "options": [
+      "Cerca del 29 %",
+      "Cerca del 49 %",
+      "Cerca del 59 %",
+      "Cerca del 79 %"
+    ],
+    "correctIndex": 2,
+    "explanation": "La libración permite observar algo más de la mitad de la superficie lunar."
+  },
+  {
+    "id": "cg-6584",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Quién fue la última persona en caminar sobre la Luna?",
+    "options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Harrison Schmitt",
+      "Eugene Cernan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cernan fue el comandante del Apolo 17 y el último en pisar la Luna."
+  },
+  {
+    "id": "cg-6585",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cómo se llamaba el módulo lunar del Apolo 11?",
+    "options": [
+      "Eagle",
+      "Columbia",
+      "Odyssey",
+      "Aquarius"
+    ],
+    "correctIndex": 0,
+    "explanation": "El módulo lunar Eagle descendió al mar de la Tranquilidad."
+  },
+  {
+    "id": "cg-6586",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es la libración lunar?",
+    "options": [
+      "Un cambio real de la orientación de la Luna",
+      "Una oscilación aparente que deja ver algo de la cara oculta",
+      "Una variación del brillo lunar",
+      "Un eclipse parcial de Luna"
+    ],
+    "correctIndex": 1,
+    "explanation": "La libración se debe a irregularidades del movimiento lunar."
+  },
+  {
+    "id": "cg-6587",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de estrella es el Sol?",
+    "options": [
+      "Una gigante roja",
+      "Una enana blanca",
+      "Una enana amarilla",
+      "Una supergigante azul"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Sol es una estrella de tipo espectral G en la secuencia principal."
+  },
+  {
+    "id": "cg-6588",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué elemento predomina en el Sol?",
+    "options": [
+      "Oxígeno",
+      "Hierro",
+      "Helio",
+      "Hidrógeno"
+    ],
+    "correctIndex": 3,
+    "explanation": "El hidrógeno constituye alrededor del 70 % de la masa solar."
+  },
+  {
+    "id": "cg-6589",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Dónde se observan con más frecuencia las auroras boreales?",
+    "options": [
+      "En latitudes altas del hemisferio norte",
+      "En el ecuador",
+      "En los desiertos tropicales",
+      "En el hemisferio sur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las auroras boreales aparecen en regiones cercanas al polo norte."
+  },
+  {
+    "id": "cg-6590",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántos años tiene aproximadamente el Sol?",
+    "options": [
+      "Unos 460 millones",
+      "Unos 4.600 millones",
+      "Unos 46.000 millones",
+      "Unos 4.600 billones"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Sol se formó hace unos 4.600 millones de años."
+  },
+  {
+    "id": "cg-6591",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuál es la temperatura aproximada de la superficie solar?",
+    "options": [
+      "Unos 1.500 °C",
+      "Unos 15.000 °C",
+      "Unos 5.500 °C",
+      "Unos 55.000 °C"
+    ],
+    "correctIndex": 2,
+    "explanation": "La fotosfera solar tiene una temperatura cercana a 5.500 °C."
+  },
+  {
+    "id": "cg-6592",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuál es la temperatura aproximada del núcleo solar?",
+    "options": [
+      "Unos 1,5 millones de °C",
+      "Unos 150.000 °C",
+      "Unos 150 millones de °C",
+      "Unos 15 millones de °C"
+    ],
+    "correctIndex": 3,
+    "explanation": "En el núcleo solar la fusión nuclear requiere unos 15 millones de grados."
+  },
+  {
+    "id": "cg-6593",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué son las manchas solares?",
+    "options": [
+      "Regiones más frías asociadas a campos magnéticos intensos",
+      "Nubes de polvo que ocultan el Sol",
+      "Cráteres de impactos de cometas",
+      "Zonas donde el Sol no emite luz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las manchas solares parecen oscuras porque están más frías que su entorno."
+  },
+  {
+    "id": "cg-6594",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuánto dura aproximadamente un ciclo de actividad solar?",
+    "options": [
+      "Un año",
+      "Once años",
+      "Cinco años",
+      "Cien años"
+    ],
+    "correctIndex": 1,
+    "explanation": "El número de manchas solares varía con un ciclo de unos once años."
+  },
+  {
+    "id": "cg-6595",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es el viento solar?",
+    "options": [
+      "Una corriente de aire entre los planetas",
+      "Un viento que sopla en la alta atmósfera terrestre",
+      "Un flujo de partículas cargadas expulsadas por el Sol",
+      "Una lluvia de meteoros procedente del Sol"
+    ],
+    "correctIndex": 2,
+    "explanation": "El viento solar está formado por electrones y protones muy energéticos."
+  },
+  {
+    "id": "cg-6596",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es una tormenta geomagnética?",
+    "options": [
+      "Una tempestad de arena en el desierto",
+      "Un cambio brusco de las mareas",
+      "Una erupción volcánica submarina",
+      "Una perturbación del campo magnético terrestre por actividad solar"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las eyecciones solares pueden alterar la magnetosfera y las comunicaciones."
+  },
+  {
+    "id": "cg-6597",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué porcentaje de la masa del sistema solar concentra el Sol?",
+    "options": [
+      "Cerca del 99,8 %",
+      "Cerca del 50 %",
+      "Cerca del 75 %",
+      "Cerca del 90 %"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Sol domina la masa total del sistema solar."
+  },
+  {
+    "id": "cg-6598",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cuánto tarda aproximadamente la energía del núcleo solar en alcanzar la superficie?",
+    "options": [
+      "Unos segundos",
+      "Miles de años",
+      "Unos minutos",
+      "Unos días"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los fotones rebotan numerosas veces antes de escapar de la fotosfera."
+  },
+  {
+    "id": "cg-6599",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cómo se llama la capa visible de la atmósfera solar?",
+    "options": [
+      "Cromosfera",
+      "Corona",
+      "Fotosfera",
+      "Núcleo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La fotosfera es la superficie luminosa que observamos del Sol."
+  },
+  {
+    "id": "cg-6600",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué planeta ocupa la segunda posición desde el Sol?",
+    "options": [
+      "Mercurio",
+      "Tierra",
+      "Marte",
+      "Venus"
+    ],
+    "correctIndex": 3,
+    "explanation": "Venus orbita entre Mercurio y la Tierra."
+  },
+  {
+    "id": "cg-6601",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué planeta ocupa la cuarta posición desde el Sol?",
+    "options": [
+      "Marte",
+      "Venus",
+      "Júpiter",
+      "Mercurio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Marte se encuentra después de la Tierra en el sistema solar."
+  },
+  {
+    "id": "cg-6602",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué planeta ocupa la séptima posición desde el Sol?",
+    "options": [
+      "Saturno",
+      "Urano",
+      "Neptuno",
+      "Júpiter"
+    ],
+    "correctIndex": 1,
+    "explanation": "Urano orbita entre Saturno y Neptuno."
+  },
+  {
+    "id": "cg-6603",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿De qué están formados principalmente los anillos de Saturno?",
+    "options": [
+      "Gas y polvo fino",
+      "Lava solidificada",
+      "Hielo y fragmentos de roca",
+      "Cristales de sal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los anillos contienen innumerables fragmentos de hielo y roca."
+  },
+  {
+    "id": "cg-6604",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo se llaman las dos lunas de Marte?",
+    "options": [
+      "Io y Europa",
+      "Titán y Rea",
+      "Tritón y Nereida",
+      "Fobos y Deimos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fobos y Deimos son pequeños satélites irregulares de Marte."
+  },
+  {
+    "id": "cg-6605",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué estructura marciana es un enorme sistema de cañones?",
+    "options": [
+      "Valles Marineris",
+      "Gran Mancha Roja",
+      "Monte Olimpo",
+      "Hellas Planitia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Valles Marineris se extiende miles de kilómetros sobre Marte."
+  },
+  {
+    "id": "cg-6606",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué planeta tiene casquetes polares formados por hielo de agua y dióxido de carbono?",
+    "options": [
+      "Venus",
+      "Marte",
+      "Mercurio",
+      "Júpiter"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los casquetes marcianos contienen hielo de agua y hielo seco."
+  },
+  {
+    "id": "cg-6607",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué planeta rocoso gira sobre su eje en sentido retrógrado?",
+    "options": [
+      "Marte",
+      "Mercurio",
+      "Venus",
+      "Tierra"
+    ],
+    "correctIndex": 2,
+    "explanation": "Venus rota en sentido opuesto al de la mayoría de los planetas."
+  },
+  {
+    "id": "cg-6608",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿En qué planeta resulta más extrema la diferencia de temperatura entre el día y la noche?",
+    "options": [
+      "Venus",
+      "Marte",
+      "Júpiter",
+      "Mercurio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sin una atmósfera densa, Mercurio pasa de unos 430 °C de día a unos 180 °C bajo cero de noche."
+  },
+  {
+    "id": "cg-6609",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué planeta tarda unos 165 años terrestres en completar una órbita?",
+    "options": [
+      "Neptuno",
+      "Urano",
+      "Saturno",
+      "Júpiter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neptuno, el planeta más lejano del Sol, tarda unos 165 años en orbitar."
+  },
+  {
+    "id": "cg-6610",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué planeta tiene una densidad media menor que la del agua?",
+    "options": [
+      "Júpiter",
+      "Saturno",
+      "Neptuno",
+      "Urano"
+    ],
+    "correctIndex": 1,
+    "explanation": "La densidad media de Saturno es inferior a 1 gramo por centímetro cúbico."
+  },
+  {
+    "id": "cg-6611",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué dos planetas se conocen como gigantes helados?",
+    "options": [
+      "Júpiter y Saturno",
+      "Marte y Venus",
+      "Urano y Neptuno",
+      "Mercurio y Venus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Urano y Neptuno contienen grandes cantidades de agua, amoníaco y metano."
+  },
+  {
+    "id": "cg-6612",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué planeta tiene la órbita más excéntrica del sistema solar?",
+    "options": [
+      "Venus",
+      "Marte",
+      "Neptuno",
+      "Mercurio"
+    ],
+    "correctIndex": 3,
+    "explanation": "La órbita de Mercurio es la más elíptica entre los planetas."
+  },
+  {
+    "id": "cg-6613",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué planeta registra los vientos más veloces del sistema solar?",
+    "options": [
+      "Neptuno",
+      "Júpiter",
+      "Saturno",
+      "Venus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los vientos de Neptuno pueden superar los 2.000 kilómetros por hora."
+  },
+  {
+    "id": "cg-6614",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántas lunas conocidas tiene Plutón?",
+    "options": [
+      "Una",
+      "Cinco",
+      "Dos",
+      "Diez"
+    ],
+    "correctIndex": 1,
+    "explanation": "Plutón tiene cinco satélites: Caronte, Nix, Hidra, Cerbero y Estigia."
+  },
+  {
+    "id": "cg-6615",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué sonda europea aterrizó en Titán en 2005?",
+    "options": [
+      "Cassini",
+      "Galileo",
+      "Huygens",
+      "Philae"
+    ],
+    "correctIndex": 2,
+    "explanation": "Huygens descendió sobre Titán, la gran luna de Saturno."
+  },
+  {
+    "id": "cg-6616",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué rover de la NASA aterrizó en Marte en 2021?",
+    "options": [
+      "Curiosity",
+      "Spirit",
+      "Opportunity",
+      "Perseverance"
+    ],
+    "correctIndex": 3,
+    "explanation": "Perseverance llegó al cráter Jezero en febrero de 2021."
+  },
+  {
+    "id": "cg-6617",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué helicóptero realizó el primer vuelo motorizado en Marte?",
+    "options": [
+      "Ingenuity",
+      "Sojourner",
+      "Zhurong",
+      "Phoenix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ingenuity voló por primera vez en la atmósfera marciana en 2021."
+  },
+  {
+    "id": "cg-6618",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es un exoplaneta?",
+    "options": [
+      "Un planeta que no tiene satélites",
+      "Un planeta que orbita una estrella distinta del Sol",
+      "Una estrella que no tiene planetas",
+      "Un asteroide del cinturón principal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los exoplanetas se detectan alrededor de otras estrellas."
+  },
+  {
+    "id": "cg-6619",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es un cometa?",
+    "options": [
+      "Una roca metálica que orbita Marte",
+      "Un planeta enano del cinturón de asteroides",
+      "Un cuerpo helado que desarrolla coma y cola al acercarse al Sol",
+      "Una estrella que explota al final de su vida"
+    ],
+    "correctIndex": 2,
+    "explanation": "El calor solar sublima el hielo y forma la coma y la cola."
+  },
+  {
+    "id": "cg-6620",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es un meteoroide?",
+    "options": [
+      "Un satélite natural de un planeta",
+      "Una nube de gas interestelar",
+      "Un planeta que no orbita ninguna estrella",
+      "Una roca o fragmento pequeño que viaja por el espacio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los meteoroides pueden producir meteoros al entrar en la atmósfera."
+  },
+  {
+    "id": "cg-6621",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué mide la excentricidad de una órbita?",
+    "options": [
+      "Cuánto se aparta de una circunferencia",
+      "La inclinación respecto al ecuador",
+      "La velocidad del cuerpo en órbita",
+      "El tamaño del cuerpo que orbita"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una excentricidad cero corresponde a una órbita circular."
+  },
+  {
+    "id": "cg-6622",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué altura aproximada tiene la órbita de la Estación Espacial Internacional?",
+    "options": [
+      "Unos 40 kilómetros",
+      "Unos 400 kilómetros",
+      "Unos 4.000 kilómetros",
+      "Unos 40.000 kilómetros"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ISS orbita en la baja atmósfera terrestre, a unos 400 kilómetros."
+  },
+  {
+    "id": "cg-6623",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuánto dura aproximadamente una órbita de la Estación Espacial Internacional?",
+    "options": [
+      "Unos 9 minutos",
+      "Unos 9 horas",
+      "Unos 90 minutos",
+      "Unos 24 horas"
+    ],
+    "correctIndex": 2,
+    "explanation": "La ISS completa una vuelta a la Tierra en alrededor de hora y media."
+  },
+  {
+    "id": "cg-6624",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cuál es la velocidad de escape de la Tierra?",
+    "options": [
+      "Unos 3,2 km/s",
+      "Unos 7,9 km/s",
+      "Unos 25 km/s",
+      "Unos 11,2 km/s"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para abandonar la gravedad terrestre se necesitan unos 11,2 kilómetros por segundo."
+  },
+  {
+    "id": "cg-6625",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿A qué velocidad aproximada orbita la Estación Espacial Internacional?",
+    "options": [
+      "Unos 28.000 km/h",
+      "Unos 2.800 km/h",
+      "Unos 8.000 km/h",
+      "Unos 80.000 km/h"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ISS se desplaza a unos 7,7 kilómetros por segundo."
+  },
+  {
+    "id": "cg-6626",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿A qué altura se sitúa una órbita geoestacionaria?",
+    "options": [
+      "Unos 3.580 kilómetros",
+      "Unos 35.800 kilómetros",
+      "Unos 10.000 kilómetros",
+      "Unos 100.000 kilómetros"
+    ],
+    "correctIndex": 1,
+    "explanation": "A esa altura, el satélite tarda lo mismo que la Tierra en girar."
+  },
+  {
+    "id": "cg-6627",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es el límite de Roche?",
+    "options": [
+      "La altura máxima de una órbita estable",
+      "La frontera del sistema solar",
+      "La distancia a la que las fuerzas de marea pueden disgregar un cuerpo",
+      "El borde de la atmósfera de un planeta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dentro del límite de Roche, un cuerpo puede romperse y formar anillos."
+  },
+  {
+    "id": "cg-6628",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es un asteroide troyano?",
+    "options": [
+      "Un asteroide que cruza la órbita terrestre",
+      "Un cuerpo del cinturón de Kuiper",
+      "Un satélite natural capturado por Marte",
+      "Un asteroide que comparte la órbita de un planeta en un punto de Lagrange"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los troyanos se concentran en puntos estables de la órbita de un planeta."
+  },
+  {
+    "id": "cg-6629",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es una órbita de transferencia de Hohmann?",
+    "options": [
+      "Una ruta eficiente para pasar de una órbita a otra",
+      "Una trayectoria que escapa del sistema solar",
+      "Una órbita que pasa por los polos",
+      "Un giro alrededor de un satélite natural"
+    ],
+    "correctIndex": 0,
+    "explanation": "La maniobra de Hohmann usa dos impulsos para cambiar de órbita."
+  },
+  {
+    "id": "cg-6630",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántos planetas enanos reconoce la Unión Astronómica Internacional?",
+    "options": [
+      "Tres",
+      "Cinco",
+      "Ocho",
+      "Doce"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los planetas enanos reconocidos son Ceres, Plutón, Haumea, Makemake y Eris."
+  },
+  {
+    "id": "cg-6631",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es la Vía Láctea?",
+    "options": [
+      "Una nebulosa cercana al Sol",
+      "El conjunto de todos los planetas",
+      "La galaxia que contiene el sistema solar",
+      "Una estrella más brillante que el Sol"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sistema solar se encuentra en uno de los brazos de la Vía Láctea."
+  },
+  {
+    "id": "cg-6632",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es una nebulosa?",
+    "options": [
+      "Un grupo de planetas rocosos",
+      "Una estrella que ya se apagó",
+      "Un cinturón de asteroides",
+      "Una nube de gas y polvo en el espacio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las nebulosas pueden ser lugares de formación de estrellas."
+  },
+  {
+    "id": "cg-6633",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es un gigante rojo?",
+    "options": [
+      "Una estrella que se expande al agotar el hidrógeno de su núcleo",
+      "Un planeta gaseoso de gran tamaño",
+      "Una enana blanca muy caliente",
+      "Una nube de polvo interestelar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al acabarse el hidrógeno central, la estrella se hincha y enfría."
+  },
+  {
+    "id": "cg-6634",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué es una galaxia?",
+    "options": [
+      "Un sistema de planetas alrededor de una estrella",
+      "Un conjunto de estrellas, gas y polvo ligados por gravedad",
+      "Una nube de cometas que rodea el Sol",
+      "Un cúmulo de asteroides entre dos planetas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las galaxias contienen millones o miles de millones de estrellas."
+  },
+  {
+    "id": "cg-6635",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántos kilómetros hay en un año luz?",
+    "options": [
+      "Unos 9,46 millones",
+      "Unos 946.000 millones",
+      "Unos 9,46 billones",
+      "Unos 94,6 billones"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un año luz equivale a cerca de 9,46 billones de kilómetros."
+  },
+  {
+    "id": "cg-6636",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es un púlsar?",
+    "options": [
+      "Una estrella joven que aún no fusiona hidrógeno",
+      "Un planeta que gira muy rápido",
+      "Una nube de gas que refleja luz",
+      "Una estrella de neutrones que emite pulsos regulares de radiación"
+    ],
+    "correctIndex": 3,
+    "explanation": "El haz de radiación de un púlsar barre el espacio como un faro."
+  },
+  {
+    "id": "cg-6637",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es una estrella de neutrones?",
+    "options": [
+      "El núcleo colapsado de una estrella masiva",
+      "Una estrella que aún no ha nacido",
+      "Un planeta enano muy denso",
+      "Una nube de polvo sin gravedad"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las estrellas de neutrones son extremadamente densas y pequeñas."
+  },
+  {
+    "id": "cg-6638",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es una nebulosa planetaria?",
+    "options": [
+      "Una nube donde nacen planetas",
+      "La capa de gas expulsada por una estrella moribunda",
+      "Un anillo de asteroides alrededor de una estrella",
+      "La atmósfera de un planeta gigante"
+    ],
+    "correctIndex": 1,
+    "explanation": "A pesar del nombre, no tiene relación directa con planetas."
+  },
+  {
+    "id": "cg-6639",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es la secuencia principal?",
+    "options": [
+      "La fase final de una estrella masiva",
+      "El conjunto de planetas de una estrella",
+      "La etapa en la que una estrella fusiona hidrógeno en su núcleo",
+      "La zona de asteroides de un sistema"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Sol se encuentra actualmente en la secuencia principal."
+  },
+  {
+    "id": "cg-6640",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es un cúmulo globular?",
+    "options": [
+      "Una nube de gas sin estrellas",
+      "Un conjunto de planetas jóvenes",
+      "Una galaxia con brazos espirales",
+      "Un grupo esférico de estrellas antiguas ligadas por la gravedad"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los cúmulos globulares orbitan el centro de las galaxias."
+  },
+  {
+    "id": "cg-6641",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué caracteriza a una galaxia elíptica?",
+    "options": [
+      "Una forma esferoidal sin brazos espirales",
+      "Brazos espirales muy marcados",
+      "Una forma irregular sin estrellas",
+      "Un disco de gas en rotación"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las galaxias elípticas contienen sobre todo estrellas antiguas."
+  },
+  {
+    "id": "cg-6642",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuál es el diámetro aproximado de la Vía Láctea?",
+    "options": [
+      "Unos 1.000 años luz",
+      "Unos 100.000 años luz",
+      "Unos 10.000 años luz",
+      "Unos 1.000.000 de años luz"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Vía Láctea mide alrededor de 100.000 años luz de diámetro."
+  },
+  {
+    "id": "cg-6643",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué objeto masivo ocupa el centro de la Vía Láctea?",
+    "options": [
+      "Una estrella de neutrones",
+      "Un cúmulo abierto",
+      "Un agujero negro supermasivo",
+      "Una nebulosa planetaria"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sagitario A* es el agujero negro supermasivo del centro galáctico."
+  },
+  {
+    "id": "cg-6644",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es el Grupo Local?",
+    "options": [
+      "El grupo de planetas del sistema solar",
+      "Un cúmulo de estrellas de la Vía Láctea",
+      "La región central de una galaxia",
+      "El conjunto de galaxias al que pertenece la Vía Láctea"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Grupo Local incluye la Vía Láctea, Andrómeda y muchas galaxias menores."
+  },
+  {
+    "id": "cg-6645",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué es el universo observable?",
+    "options": [
+      "La parte del universo cuya luz ha podido llegar hasta nosotros",
+      "La totalidad del universo, sin límites",
+      "El conjunto de planetas habitables",
+      "La región situada más allá de los agujeros negros"
+    ],
+    "correctIndex": 0,
+    "explanation": "El universo observable tiene un radio de unos 46.000 millones de años luz."
+  },
+  {
+    "id": "cg-6646",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es un pársec?",
+    "options": [
+      "Una unidad de tiempo estelar",
+      "Una distancia equivalente a unos 3,26 años luz",
+      "Una medida del brillo de una estrella",
+      "Una distancia de 1.000 kilómetros"
+    ],
+    "correctIndex": 1,
+    "explanation": "El pársec se define a partir del paralaje anual de una estrella."
+  },
+  {
+    "id": "cg-6647",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es una enana marrón?",
+    "options": [
+      "Una estrella que ha agotado todo su combustible",
+      "Un planeta gaseoso que orbita una enana blanca",
+      "Un objeto que no tiene masa suficiente para fusionar hidrógeno de forma estable",
+      "Una nube de polvo que oculta una estrella"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las enanas marrones son más masivas que los planetas, pero no tanto como las estrellas."
+  },
+  {
+    "id": "cg-6648",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué representa el diagrama de Hertzsprung-Russell?",
+    "options": [
+      "La distancia entre las galaxias",
+      "La órbita de los planetas del sistema solar",
+      "La composición química de los cometas",
+      "La relación entre luminosidad y temperatura de las estrellas"
+    ],
+    "correctIndex": 3,
+    "explanation": "El diagrama ordena las estrellas y muestra sus etapas evolutivas."
+  },
+  {
+    "id": "cg-6649",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es el Gran Atractor?",
+    "options": [
+      "Una región gravitatoria que atrae al Grupo Local",
+      "Un agujero negro del centro de la Vía Láctea",
+      "Una estrella que absorbe materia de su compañera",
+      "Un cúmulo de cometas del sistema solar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Gran Atractor influye en el movimiento de galaxias cercanas."
+  },
+  {
+    "id": "cg-6650",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es la inflación cósmica?",
+    "options": [
+      "El aumento de la temperatura de las estrellas",
+      "Una expansión acelerada del universo primitivo",
+      "La formación de los primeros planetas",
+      "La colisión entre dos galaxias"
+    ],
+    "correctIndex": 1,
+    "explanation": "La inflación explica la uniformidad del universo a gran escala."
+  },
+  {
+    "id": "cg-6651",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿En qué año se lanzó el telescopio espacial James Webb?",
+    "options": [
+      "2011",
+      "2016",
+      "2021",
+      "2024"
+    ],
+    "correctIndex": 2,
+    "explanation": "El James Webb se lanzó en diciembre de 2021."
+  },
+  {
+    "id": "cg-6652",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de radiación observa principalmente el telescopio James Webb?",
+    "options": [
+      "Ultravioleta",
+      "Rayos X",
+      "Ondas de radio",
+      "Infrarroja"
+    ],
+    "correctIndex": 3,
+    "explanation": "El infrarrojo permite ver objetos fríos y galaxias muy lejanas."
+  },
+  {
+    "id": "cg-6653",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Desde qué año está habitada de forma continua la Estación Espacial Internacional?",
+    "options": [
+      "Desde 2000",
+      "Desde 1980",
+      "Desde 1990",
+      "Desde 2010"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ISS ha mantenido tripulación de forma continua desde noviembre de 2000."
+  },
+  {
+    "id": "cg-6654",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántos segmentos hexagonales tiene el espejo principal del James Webb?",
+    "options": [
+      "6",
+      "18",
+      "12",
+      "36"
+    ],
+    "correctIndex": 1,
+    "explanation": "El espejo del James Webb está formado por 18 segmentos de berilio."
+  },
+  {
+    "id": "cg-6655",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué misión de la NASA estudió los sismos de Marte con un sismómetro?",
+    "options": [
+      "Curiosity",
+      "Perseverance",
+      "InSight",
+      "Viking 1"
+    ],
+    "correctIndex": 2,
+    "explanation": "InSight detectó numerosos martemotos entre 2018 y 2022."
+  },
+  {
+    "id": "cg-6656",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué misión depositó el primer rover en Marte, llamado Sojourner, en 1997?",
+    "options": [
+      "Mars Global Surveyor",
+      "Phoenix",
+      "MAVEN",
+      "Mars Pathfinder"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mars Pathfinder llevó a la superficie marciana el pequeño rover Sojourner."
+  },
+  {
+    "id": "cg-6657",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué misión china trajo muestras lunares a la Tierra en 2020?",
+    "options": [
+      "Chang'e 5",
+      "Chang'e 4",
+      "Tianwen-1",
+      "Yutu 2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chang'e 5 recogió muestras del suelo lunar y las devolvió a la Tierra."
+  },
+  {
+    "id": "cg-6658",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué misión india logró un alunizaje cerca del polo sur lunar en 2023?",
+    "options": [
+      "Chandrayaan-1",
+      "Chandrayaan-3",
+      "Mangalyaan",
+      "Gaganyaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chandrayaan-3 posó un módulo y un rover cerca del polo sur de la Luna."
+  },
+  {
+    "id": "cg-6659",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué misión de la NASA impactó un asteroide para probar la desviación de su órbita?",
+    "options": [
+      "OSIRIS-REx",
+      "Deep Impact",
+      "DART",
+      "Lucy"
+    ],
+    "correctIndex": 2,
+    "explanation": "DART chocó contra Dimorphos para modificar su órbita."
+  },
+  {
+    "id": "cg-6660",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué observatorio solar europeo-estadounidense, lanzado en 1995, estudia el Sol de forma continua?",
+    "options": [
+      "SDO",
+      "Parker Solar Probe",
+      "Solar Orbiter",
+      "SOHO"
+    ],
+    "correctIndex": 3,
+    "explanation": "SOHO observa el Sol y su atmósfera desde el punto de Lagrange L1."
+  }
+]

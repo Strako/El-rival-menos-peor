@@ -111,7 +111,7 @@ export function ItemTray({
 
         {!items.canUse && (
           <p className="mt-3 text-[10px] leading-relaxed text-white/25">
-            Solo puedes usar ítems durante tu turno y antes de responder.
+            Solo puedes usar ítems durante tu turno de 20 s y antes de responder.
           </p>
         )}
       </Card>

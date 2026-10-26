@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "cg-6661",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué flota un iceberg en el agua?",
+    "options": [
+      "Su densidad es menor que la del agua líquida",
+      "Contiene bolsas de aire en su interior",
+      "El hielo contiene sal disuelta",
+      "La gravedad actúa menos sobre el hielo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hielo tiene una densidad cercana a 0,92 g/cm³, menor que la del agua líquida."
+  },
+  {
+    "id": "cg-6662",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué se ve azul el cielo en un día despejado?",
+    "options": [
+      "El reflejo de los océanos",
+      "La dispersión de Rayleigh de la luz solar",
+      "La refracción en las nubes",
+      "La presencia de oxígeno en el aire"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las moléculas del aire dispersan con más fuerza las longitudes de onda cortas, como el azul."
+  },
+  {
+    "id": "cg-6663",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué vemos un relámpago antes de oír el trueno?",
+    "options": [
+      "El trueno se genera después del rayo",
+      "El sonido se detiene en las nubes",
+      "La luz viaja mucho más rápido que el sonido",
+      "El oído reacciona antes que la vista"
+    ],
+    "correctIndex": 2,
+    "explanation": "La luz recorre unos 300.000 km/s y el sonido unos 343 m/s en el aire."
+  },
+  {
+    "id": "cg-6664",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué una olla a presión cocina más rápido?",
+    "options": [
+      "El vapor calienta el metal directamente",
+      "La olla concentra el oxígeno",
+      "El agua hierve a menor temperatura",
+      "La presión eleva el punto de ebullición del agua"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al aumentar la presión, el agua alcanza temperaturas superiores a 100 °C antes de hervir."
+  },
+  {
+    "id": "cg-6665",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué el sudor refresca el cuerpo?",
+    "options": [
+      "Su evaporación absorbe calor de la piel",
+      "El sudor refleja la luz solar",
+      "El sudor bloquea los rayos infrarrojos",
+      "El sudor aumenta la circulación"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para pasar de líquido a vapor, el sudor toma energía térmica de la piel."
+  },
+  {
+    "id": "cg-6666",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué un vaso de metal se siente más frío que uno de madera a la misma temperatura?",
+    "options": [
+      "El metal está a menor temperatura",
+      "El metal conduce mejor el calor",
+      "La madera genera calor",
+      "El metal pesa más"
+    ],
+    "correctIndex": 1,
+    "explanation": "El metal extrae calor de la mano con más rapidez, aunque ambos estén a la misma temperatura."
+  },
+  {
+    "id": "cg-6667",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué se empañan las ventanas en invierno?",
+    "options": [
+      "El vidrio absorbe la humedad del aire",
+      "El aire exterior entra por la ventana",
+      "El vapor de agua se condensa en la superficie fría",
+      "La luz calienta el agua del vidrio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El aire interior, más húmedo y cálido, se enfría al tocar el vidrio y el vapor condensa."
+  },
+  {
+    "id": "cg-6668",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué se seca la ropa más rápido en un día ventoso?",
+    "options": [
+      "El viento calienta la tela",
+      "El viento elimina la humedad del aire",
+      "El viento impide que la tela se moje",
+      "El viento acelera la evaporación"
+    ],
+    "correctIndex": 3,
+    "explanation": "El viento retira el vapor de agua que rodea la tela y favorece nueva evaporación."
+  },
+  {
+    "id": "cg-6669",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué el hielo se derrite cuando se le echa sal?",
+    "options": [
+      "La sal reduce el punto de congelación del agua",
+      "La sal calienta el hielo",
+      "La sal absorbe el agua líquida",
+      "La sal impide que el agua se evapore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las partículas de sal interfieren en la formación del hielo y bajan su temperatura de fusión."
+  },
+  {
+    "id": "cg-6670",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué una pajita parece quebrada dentro de un vaso con agua?",
+    "options": [
+      "La reflexión total en el fondo",
+      "La refracción de la luz al cambiar de medio",
+      "La difracción en el borde del vaso",
+      "La absorción del agua"
+    ],
+    "correctIndex": 1,
+    "explanation": "La luz cambia de dirección al pasar del agua al aire, y el cerebro interpreta mal la posición."
+  },
+  {
+    "id": "cg-6671",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué el aceite se separa del agua?",
+    "options": [
+      "El aceite tiene mayor densidad",
+      "El agua repele las grasas por magnetismo",
+      "Son líquidos inmiscibles con distinta densidad",
+      "El aceite se disuelve solo en frío"
+    ],
+    "correctIndex": 2,
+    "explanation": "El aceite es apolar y no se mezcla con el agua polar; además, es menos denso y queda arriba."
+  },
+  {
+    "id": "cg-6672",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué el jabón elimina la grasa?",
+    "options": [
+      "El jabón disuelve la grasa en agua",
+      "El jabón aumenta la densidad del agua",
+      "El jabón neutraliza la grasa con sal",
+      "Sus moléculas tienen una parte afín al agua y otra a la grasa"
+    ],
+    "correctIndex": 3,
+    "explanation": "La parte lipófila se une a la grasa y la parte hidrófila permite arrastrarla con el agua."
+  },
+  {
+    "id": "cg-6673",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué sube la masa del pan al hornearse?",
+    "options": [
+      "El dióxido de carbono de la fermentación se expande",
+      "El azúcar se convierte en aire",
+      "La harina absorbe oxígeno",
+      "El calor crea burbujas de vapor"
+    ],
+    "correctIndex": 0,
+    "explanation": "La levadura produce gas que queda atrapado en la masa y se expande con el calor."
+  },
+  {
+    "id": "cg-6674",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué una bebida con gas hace burbujas al abrirse?",
+    "options": [
+      "El azúcar se transforma en gas",
+      "El dióxido de carbono escapa al bajar la presión",
+      "El agua se congela",
+      "El envase absorbe oxígeno"
+    ],
+    "correctIndex": 1,
+    "explanation": "El gas estaba disuelto a mayor presión; al abrir, la solubilidad cae y forma burbujas."
+  },
+  {
+    "id": "cg-6675",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué el hierro se oxida al contacto con el agua y el aire?",
+    "options": [
+      "El hierro se convierte en carbono",
+      "El agua disuelve el hierro",
+      "Se forma óxido de hierro hidratado",
+      "Se forma carbonato de calcio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El oxígeno y la humedad reaccionan con el hierro y producen una capa de óxido."
+  },
+  {
+    "id": "cg-6676",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué el cobre se vuelve verde con el tiempo?",
+    "options": [
+      "El cobre se oxida hasta desaparecer",
+      "El cobre absorbe agua",
+      "Se forma hierro en la superficie",
+      "Se forma una capa de sales de cobre"
+    ],
+    "correctIndex": 3,
+    "explanation": "La pátina verde es una mezcla de compuestos de cobre que protege el metal."
+  },
+  {
+    "id": "cg-6677",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué el aluminio no se corroe con facilidad?",
+    "options": [
+      "Una capa de óxido lo protege",
+      "El aluminio no reacciona con el oxígeno",
+      "El aluminio es un gas noble",
+      "La humedad lo recubre de grasa"
+    ],
+    "correctIndex": 0,
+    "explanation": "El aluminio forma rápidamente una capa fina de óxido que impide el avance de la corrosión."
+  },
+  {
+    "id": "cg-6678",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué el diamante es tan duro?",
+    "options": [
+      "Sus átomos son más grandes",
+      "Cada carbono está unido a otros cuatro en una red covalente",
+      "Tiene enlaces metálicos",
+      "Contiene impurezas de hierro"
+    ],
+    "correctIndex": 1,
+    "explanation": "La red tridimensional de enlaces covalentes hace muy difícil desplazar los átomos."
+  },
+  {
+    "id": "cg-6679",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué el grafito se usa en los lápices?",
+    "options": [
+      "El grafito es más duro que el diamante",
+      "El grafito contiene plomo",
+      "Sus capas de carbono se deslizan y dejan marca",
+      "Sus átomos se funden al escribir"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las capas de grafeno del grafito se separan con facilidad y depositan carbono sobre el papel."
+  },
+  {
+    "id": "cg-6680",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué el vidrio común es transparente?",
+    "options": [
+      "Refleja toda la luz",
+      "Es más denso que el aire",
+      "Tiene átomos de oxígeno",
+      "No absorbe la luz visible"
+    ],
+    "correctIndex": 3,
+    "explanation": "Su banda de energía prohibida es mayor que la energía de los fotones visibles."
+  },
+  {
+    "id": "cg-6681",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué el caucho vulcanizado es más resistente?",
+    "options": [
+      "Los enlaces de azufre unen las cadenas del polímero",
+      "El azufre reemplaza al carbono",
+      "El caucho se vuelve metálico",
+      "El azufre elimina el agua"
+    ],
+    "correctIndex": 0,
+    "explanation": "El azufre crea enlaces entre cadenas y forma una red elástica más estable."
+  },
+  {
+    "id": "cg-6682",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué el acero es más duro que el hierro puro?",
+    "options": [
+      "El carbono hace más denso el hierro",
+      "El carbono dificulta el movimiento de las dislocaciones",
+      "El carbono elimina el oxígeno",
+      "El carbono convierte el hierro en aluminio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los átomos de carbono distorsionan la red y frenan los defectos que permiten deformar el metal."
+  },
+  {
+    "id": "cg-6683",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué fragua el hormigón?",
+    "options": [
+      "El agua evapora y deja sales",
+      "La arena se funde",
+      "El cemento reacciona con el agua y forma cristales",
+      "El acero se oxida"
+    ],
+    "correctIndex": 2,
+    "explanation": "La hidratación del cemento produce cristales que unen los áridos en una masa rígida."
+  },
+  {
+    "id": "cg-6684",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué una toalla absorbe agua?",
+    "options": [
+      "La gravedad empuja el agua",
+      "El algodón se disuelve",
+      "La electricidad estática atrae el agua",
+      "La capilaridad entre sus fibras"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los espacios entre fibras actúan como tubos capilares que retienen el líquido."
+  },
+  {
+    "id": "cg-6685",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué la lana abriga?",
+    "options": [
+      "Atrapa aire, que conduce mal el calor",
+      "Genera calor por fricción",
+      "Refleja el calor del cuerpo",
+      "Absorbe la humedad del ambiente"
+    ],
+    "correctIndex": 0,
+    "explanation": "El aire inmóvil atrapado entre las fibras reduce la pérdida de calor."
+  },
+  {
+    "id": "cg-6686",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué un termo conserva la temperatura?",
+    "options": [
+      "El vidrio refleja todo el calor",
+      "El vacío reduce la conducción y la convección",
+      "El metal interior genera frío",
+      "El aire interior circula sin parar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entre las dos paredes hay vacío, y sin materia casi no hay conducción ni convección."
+  },
+  {
+    "id": "cg-6687",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué un ventilador refresca?",
+    "options": [
+      "Sopla aire más frío que el ambiente",
+      "Elimina el oxígeno de la piel",
+      "Acelera la evaporación del sudor",
+      "Bloquea el calor del cuerpo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El movimiento del aire renueva la capa húmeda y acelera la evaporación."
+  },
+  {
+    "id": "cg-6688",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué el cielo se ve rojizo al atardecer?",
+    "options": [
+      "El Sol emite más luz roja al atardecer",
+      "El aire se calienta y cambia de color",
+      "La Luna refleja luz roja",
+      "La luz recorre más atmósfera y se dispersa el azul"
+    ],
+    "correctIndex": 3,
+    "explanation": "Con el Sol bajo, la luz atraviesa más aire y el azul se dispersa antes de llegar."
+  },
+  {
+    "id": "cg-6689",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué titilan las estrellas?",
+    "options": [
+      "La turbulencia atmosférica desvía su luz",
+      "Las estrellas cambian de tamaño",
+      "La gravedad las atrae y las aleja",
+      "Su luz tarda más en llegar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las capas de aire en movimiento refractan la luz de forma variable."
+  },
+  {
+    "id": "cg-6690",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué la Luna parece más grande cerca del horizonte?",
+    "options": [
+      "La refracción atmosférica la agranda",
+      "Una ilusión óptica del cerebro",
+      "Está más cerca de la Tierra",
+      "La gravedad lunar la deforma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Su tamaño angular no cambia; el cerebro la compara con objetos del horizonte."
+  },
+  {
+    "id": "cg-6691",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué puede volar un avión?",
+    "options": [
+      "Los motores empujan el avión hacia arriba",
+      "El aire solo empuja desde abajo",
+      "La forma del ala genera una diferencia de presión",
+      "La gravedad desaparece a cierta altura"
+    ],
+    "correctIndex": 2,
+    "explanation": "El aire circula más rápido sobre el ala y la presión disminuye, creando sustentación."
+  },
+  {
+    "id": "cg-6692",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué las burbujas de jabón son esféricas?",
+    "options": [
+      "La gravedad las estira hacia abajo",
+      "El aire interior las empuja en todas las direcciones",
+      "El jabón atrae el agua circundante",
+      "La tensión superficial minimiza el área de la superficie"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para un volumen dado, la esfera es la forma con menor superficie."
+  },
+  {
+    "id": "cg-6693",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué sube un globo de aire caliente?",
+    "options": [
+      "El aire caliente es menos denso que el frío",
+      "El globo contiene vacío",
+      "El calor reduce la gravedad",
+      "El gas pesa más que el aire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al calentarse, el aire se expande, pierde densidad y el empuje lo hace subir."
+  },
+  {
+    "id": "cg-6694",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué puede sumergirse un submarino?",
+    "options": [
+      "Expulsa todo el aire del casco",
+      "Llena tanques de lastre con agua",
+      "Aumenta la temperatura del agua",
+      "Gira sus hélices hacia arriba"
+    ],
+    "correctIndex": 1,
+    "explanation": "Al admitir agua en los tanques, el peso total supera el empuje y el submarino desciende."
+  },
+  {
+    "id": "cg-6695",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué sentimos que nos empuja el asiento al acelerar un auto?",
+    "options": [
+      "La gravedad aumenta al acelerar",
+      "El asiento ejerce menos fuerza",
+      "La inercia del cuerpo tiende a mantener su estado",
+      "El aire empuja al pasajero"
+    ],
+    "correctIndex": 2,
+    "explanation": "El cuerpo tiende a seguir a la velocidad anterior y el asiento lo empuja hacia adelante."
+  },
+  {
+    "id": "cg-6696",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué flotan los astronautas en la estación espacial?",
+    "options": [
+      "La gravedad no existe en órbita",
+      "La estación gira y los expulsa",
+      "El traje los mantiene suspendidos",
+      "Están en caída libre alrededor de la Tierra"
+    ],
+    "correctIndex": 3,
+    "explanation": "La estación y sus ocupantes caen juntos continuamente, por lo que no sienten apoyo."
+  },
+  {
+    "id": "cg-6697",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué el sonido viaja más rápido en el agua que en el aire?",
+    "options": [
+      "El agua es más rígida y menos compresible",
+      "El agua tiene menos densidad",
+      "El sonido no necesita medio",
+      "El agua amplifica la gravedad"
+    ],
+    "correctIndex": 0,
+    "explanation": "La mayor resistencia del agua a comprimirse transmite las vibraciones con más rapidez."
+  },
+  {
+    "id": "cg-6698",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué se produce un estampido sónico?",
+    "options": [
+      "El avión choca con el aire",
+      "La fuente supera la velocidad del sonido y crea una onda de choque",
+      "El motor explota al acelerar",
+      "El sonido se refleja en las nubes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las ondas sonoras se acumulan delante del objeto y forman una onda de presión abrupta."
+  },
+  {
+    "id": "cg-6699",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué se forma una estela blanca detrás de un avión a gran altitud?",
+    "options": [
+      "El avión libera humo blanco",
+      "El combustible se convierte en hielo",
+      "El vapor de agua se condensa en aire frío",
+      "El aire caliente se vuelve visible"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los gases de escape, ricos en vapor, se congelan al encontrar aire muy frío."
+  },
+  {
+    "id": "cg-6700",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué un imán atrae clips de hierro?",
+    "options": [
+      "Transfiere electrones al imán",
+      "El imán atrae solo metales líquidos",
+      "La gravedad atrae el clip",
+      "Orienta los dominios magnéticos del hierro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El campo magnético alinea los pequeños dominios del hierro y lo convierte en un imán temporal."
+  },
+  {
+    "id": "cg-6701",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué una brújula señala el norte?",
+    "options": [
+      "Su aguja se alinea con el campo magnético terrestre",
+      "Se orienta hacia el Sol",
+      "La gravedad la empuja al norte",
+      "Detecta el campo eléctrico de la atmósfera"
+    ],
+    "correctIndex": 0,
+    "explanation": "La aguja imantada gira hasta alinearse con las líneas del campo magnético de la Tierra."
+  },
+  {
+    "id": "cg-6702",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué un transformador no funciona con corriente continua?",
+    "options": [
+      "La corriente continua no tiene electrones",
+      "Necesita un flujo magnético variable para inducir tensión",
+      "El núcleo se satura solo con continua",
+      "La continua no puede circular por una bobina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con corriente continua el flujo es constante y no hay inducción en el secundario."
+  },
+  {
+    "id": "cg-6703",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué un LED consume menos que una bombilla incandescente?",
+    "options": [
+      "Usa menos voltaje por ser más pequeño",
+      "No necesita circuito eléctrico",
+      "Convierte más electricidad en luz y menos en calor",
+      "Genera electricidad mientras ilumina"
+    ],
+    "correctIndex": 2,
+    "explanation": "La bombilla incandescente pierde gran parte de la energía como calor."
+  },
+  {
+    "id": "cg-6704",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué un panel solar produce corriente continua?",
+    "options": [
+      "Invierte la corriente alterna de la red",
+      "Usa un motor para girar",
+      "Almacena calor y lo convierte",
+      "La luz separa cargas en el semiconductor"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los fotones liberan electrones en la célula y generan una corriente en un solo sentido."
+  },
+  {
+    "id": "cg-6705",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué un microondas calienta la comida?",
+    "options": [
+      "Hace rotar moléculas polares como el agua",
+      "Calienta el aire del horno",
+      "Genera rayos X",
+      "Solo calienta metales"
+    ],
+    "correctIndex": 0,
+    "explanation": "La radiación de 2,45 GHz hace vibrar las moléculas de agua y aumenta su energía térmica."
+  },
+  {
+    "id": "cg-6706",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué un refrigerador enfría?",
+    "options": [
+      "El motor produce frío",
+      "Un refrigerante se evapora y absorbe calor",
+      "El aire se comprime y se enfría",
+      "El hielo del congelador enfría todo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El refrigerante absorbe calor al evaporarse dentro y lo libera fuera al condensarse."
+  },
+  {
+    "id": "cg-6707",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué las nubes se ven blancas?",
+    "options": [
+      "Reflejan el color azul del cielo",
+      "Contienen vapor de agua de color blanco",
+      "Dispersan todas las longitudes de onda de la luz solar",
+      "Emiten luz propia"
+    ],
+    "correctIndex": 2,
+    "explanation": "La dispersión múltiple en las gotas devuelve todas las longitudes de onda mezcladas."
+  },
+  {
+    "id": "cg-6708",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué se calienta tanto una bombilla incandescente?",
+    "options": [
+      "El filamento absorbe luz",
+      "El vidrio genera calor",
+      "La corriente se convierte en sonido",
+      "Gran parte de la energía se emite como calor"
+    ],
+    "correctIndex": 3,
+    "explanation": "Solo una pequeña parte de la electricidad se transforma en luz visible."
+  },
+  {
+    "id": "cg-6709",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué se usa aluminio en las líneas eléctricas de alta tensión?",
+    "options": [
+      "Es ligero y buen conductor",
+      "Es el metal más denso",
+      "No conduce electricidad",
+      "Resiste el campo magnético"
+    ],
+    "correctIndex": 0,
+    "explanation": "El aluminio pesa menos que el cobre y permite cables largos con menos apoyos."
+  },
+  {
+    "id": "cg-6710",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué los enchufes tienen toma de tierra?",
+    "options": [
+      "Aumenta el voltaje de la red",
+      "Ofrece una vía segura para corrientes de fuga",
+      "Almacena energía para apagones",
+      "Reduce el consumo del aparato"
+    ],
+    "correctIndex": 1,
+    "explanation": "La conexión a tierra deriva una fuga y evita que atraviese el cuerpo del usuario."
+  },
+  {
+    "id": "cg-6711",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué un disyuntor protege la instalación?",
+    "options": [
+      "Aumenta la potencia del circuito",
+      "Convierte la corriente alterna en continua",
+      "Corta la corriente ante una sobrecarga",
+      "Filtra el ruido de la red"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un mecanismo térmico o magnético abre el circuito cuando la corriente es excesiva."
+  },
+  {
+    "id": "cg-6712",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué se usa corriente alterna en la red eléctrica?",
+    "options": [
+      "No produce pérdidas en los cables",
+      "Es más segura porque tiene menos voltaje",
+      "No necesita generadores",
+      "Se puede transformar a distintas tensiones con facilidad"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los transformadores permiten elevar la tensión para transportar y bajarla para consumir."
+  },
+  {
+    "id": "cg-6713",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Por qué es peligroso un cortocircuito?",
+    "options": [
+      "La resistencia muy baja permite una corriente enorme",
+      "La corriente se detiene por completo",
+      "El circuito se convierte en aislante",
+      "La energía se almacena en el cable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una corriente muy alta calienta los cables y puede provocar incendios."
+  },
+  {
+    "id": "cg-6714",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué unidad se usa para medir la energía de los alimentos?",
+    "options": [
+      "Newton",
+      "Kilocaloría",
+      "Vatio",
+      "Amperio"
+    ],
+    "correctIndex": 1,
+    "explanation": "En nutrición se emplea la kilocaloría, equivalente a 1.000 calorías."
+  },
+  {
+    "id": "cg-6715",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué gas se usa en los extintores para sofocar incendios?",
+    "options": [
+      "Oxígeno",
+      "Nitrógeno",
+      "Dióxido de carbono",
+      "Hidrógeno"
+    ],
+    "correctIndex": 2,
+    "explanation": "El dióxido de carbono desplaza el oxígeno y ahoga la combustión."
+  },
+  {
+    "id": "cg-6716",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento mide la resistencia eléctrica de un componente?",
+    "options": [
+      "Voltímetro",
+      "Amperímetro",
+      "Vatímetro",
+      "Óhmetro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El óhmetro aplica una pequeña tensión y mide la corriente para calcular la resistencia."
+  },
+  {
+    "id": "cg-6717",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento mide la presión de un gas encerrado?",
+    "options": [
+      "Manómetro",
+      "Barómetro",
+      "Dinamómetro",
+      "Calorímetro"
+    ],
+    "correctIndex": 0,
+    "explanation": "El manómetro compara la presión del gas con la presión exterior."
+  },
+  {
+    "id": "cg-6718",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento registra los movimientos sísmicos?",
+    "options": [
+      "Barómetro",
+      "Sismógrafo",
+      "Altímetro",
+      "Hidrómetro"
+    ],
+    "correctIndex": 1,
+    "explanation": "El sismógrafo dibuja las vibraciones del suelo producidas por un terremoto."
+  },
+  {
+    "id": "cg-6719",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad de volumen del Sistema Internacional?",
+    "options": [
+      "Litro",
+      "Metro cuadrado",
+      "Metro cúbico",
+      "Kilogramo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El volumen se expresa en metros cúbicos; un litro equivale a un decímetro cúbico."
+  },
+  {
+    "id": "cg-6720",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad de densidad del Sistema Internacional?",
+    "options": [
+      "Gramo por litro",
+      "Newton por metro",
+      "Mol por litro",
+      "Kilogramo por metro cúbico"
+    ],
+    "correctIndex": 3,
+    "explanation": "La densidad relaciona masa y volumen en kilogramos por metro cúbico."
+  },
+  {
+    "id": "cg-6721",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad de velocidad del Sistema Internacional?",
+    "options": [
+      "Metro por segundo",
+      "Kilómetro por hora",
+      "Metro por segundo al cuadrado",
+      "Newton"
+    ],
+    "correctIndex": 0,
+    "explanation": "La velocidad indica distancia recorrida por unidad de tiempo."
+  },
+  {
+    "id": "cg-6722",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuál es la unidad de aceleración del Sistema Internacional?",
+    "options": [
+      "Metro por segundo",
+      "Metro por segundo al cuadrado",
+      "Kilogramo por metro",
+      "Julio"
+    ],
+    "correctIndex": 1,
+    "explanation": "La aceleración mide el cambio de velocidad por unidad de tiempo."
+  },
+  {
+    "id": "cg-6723",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuál es el metal más abundante en la corteza terrestre?",
+    "options": [
+      "Hierro",
+      "Cobre",
+      "Aluminio",
+      "Zinc"
+    ],
+    "correctIndex": 2,
+    "explanation": "El aluminio representa cerca del 8 % de la corteza, por delante del hierro."
+  },
+  {
+    "id": "cg-6724",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuál es el elemento más abundante en el universo?",
+    "options": [
+      "Helio",
+      "Oxígeno",
+      "Carbono",
+      "Hidrógeno"
+    ],
+    "correctIndex": 3,
+    "explanation": "Aproximadamente tres cuartas partes de la materia ordinaria del universo es hidrógeno."
+  },
+  {
+    "id": "cg-6725",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuál es el gas más ligero?",
+    "options": [
+      "Hidrógeno",
+      "Helio",
+      "Nitrógeno",
+      "Oxígeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "La molécula de hidrógeno tiene la menor masa por mol de todos los gases."
+  },
+  {
+    "id": "cg-6726",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué metal conduce mejor la electricidad?",
+    "options": [
+      "Cobre",
+      "Plata",
+      "Oro",
+      "Aluminio"
+    ],
+    "correctIndex": 1,
+    "explanation": "La plata tiene la mayor conductividad eléctrica, aunque el cobre se usa más por su costo."
+  },
+  {
+    "id": "cg-6727",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué metal tiene el punto de fusión más alto?",
+    "options": [
+      "Osmio",
+      "Tantalio",
+      "Tungsteno",
+      "Platino"
+    ],
+    "correctIndex": 2,
+    "explanation": "El tungsteno funde a unos 3.422 °C, el valor más alto entre los metales."
+  },
+  {
+    "id": "cg-6728",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué metal se derrite con el calor de la mano?",
+    "options": [
+      "Plomo",
+      "Estaño",
+      "Zinc",
+      "Galio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El galio funde a unos 30 °C, apenas por encima de la temperatura corporal."
+  },
+  {
+    "id": "cg-6729",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántas veces es más masivo un protón que un electrón?",
+    "options": [
+      "Unas 1.836 veces",
+      "Unas 12 veces",
+      "Unas 100 veces",
+      "Unas 10.000 veces"
+    ],
+    "correctIndex": 0,
+    "explanation": "La masa del protón es aproximadamente 1.836 veces la del electrón."
+  },
+  {
+    "id": "cg-6730",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué interacción fundamental provoca la desintegración beta?",
+    "options": [
+      "Nuclear fuerte",
+      "Nuclear débil",
+      "Electromagnética",
+      "Gravitatoria"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fuerza débil transforma un neutrón en un protón y emite un electrón."
+  },
+  {
+    "id": "cg-6731",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué radiación tiene mayor poder de penetración?",
+    "options": [
+      "Rayos infrarrojos",
+      "Ondas de radio",
+      "Rayos gamma",
+      "Luz visible"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los rayos gamma tienen la mayor energía y atraviesan más materia."
+  },
+  {
+    "id": "cg-6732",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué material se usa para bloquear los rayos X?",
+    "options": [
+      "Aluminio",
+      "Cobre",
+      "Vidrio",
+      "Plomo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El plomo absorbe eficazmente la radiación de alta energía."
+  },
+  {
+    "id": "cg-6733",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué gas inerte se usa para proteger la soldadura de la oxidación?",
+    "options": [
+      "Argón",
+      "Oxígeno",
+      "Hidrógeno",
+      "Nitrógeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "El argón desplaza el oxígeno y evita que el metal caliente se oxide."
+  },
+  {
+    "id": "cg-6734",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué instrumento mide el pH de una disolución?",
+    "options": [
+      "Barómetro",
+      "pH-metro",
+      "Higrómetro",
+      "Manómetro"
+    ],
+    "correctIndex": 1,
+    "explanation": "El pH-metro mide la actividad de los iones de hidrógeno en la disolución."
+  },
+  {
+    "id": "cg-6735",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué metal da nombre a las baterías recargables ligeras de teléfonos y computadoras portátiles?",
+    "options": [
+      "Plomo",
+      "Níquel",
+      "Litio",
+      "Zinc"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las baterías de iones de litio usan compuestos de litio en uno de sus electrodos."
+  },
+  {
+    "id": "cg-6736",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué isótopo se usa como combustible habitual en los reactores nucleares?",
+    "options": [
+      "Plutonio-239",
+      "Torio-232",
+      "Carbono-14",
+      "Uranio-235"
+    ],
+    "correctIndex": 3,
+    "explanation": "El uranio-235 sostiene la reacción en cadena en los reactores de agua ligera."
+  },
+  {
+    "id": "cg-6737",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué elemento químico tiene el símbolo Sb?",
+    "options": [
+      "Antimonio",
+      "Estaño",
+      "Azufre",
+      "Selenio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sb proviene del latín stibium, nombre antiguo del antimonio."
+  },
+  {
+    "id": "cg-6738",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué emite un núcleo en la desintegración alfa?",
+    "options": [
+      "Un electrón",
+      "Dos protones y dos neutrones",
+      "Un neutrón",
+      "Un fotón"
+    ],
+    "correctIndex": 1,
+    "explanation": "La partícula alfa es un núcleo de helio-4, formado por dos protones y dos neutrones."
+  },
+  {
+    "id": "cg-6739",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué ley de Newton explica el avance de un cohete?",
+    "options": [
+      "Primera ley de Newton",
+      "Segunda ley de Newton",
+      "Tercera ley de Newton",
+      "Ley de gravitación universal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al expulsar gas hacia atrás, el cohete recibe una fuerza igual y opuesta hacia adelante."
+  },
+  {
+    "id": "cg-6740",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántos segundos tiene un día?",
+    "options": [
+      "3.600",
+      "1.440",
+      "864.000",
+      "86.400"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un día tiene 24 horas de 60 minutos y cada minuto 60 segundos."
+  },
+  {
+    "id": "cg-6741",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántos minutos tiene una semana?",
+    "options": [
+      "10.080",
+      "168",
+      "1.440",
+      "720"
+    ],
+    "correctIndex": 0,
+    "explanation": "Siete días de 24 horas suman 168 horas, equivalentes a 10.080 minutos."
+  },
+  {
+    "id": "cg-6742",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántos días tiene un año bisiesto?",
+    "options": [
+      "365",
+      "366",
+      "367",
+      "364"
+    ],
+    "correctIndex": 1,
+    "explanation": "El año bisiesto añade un día a febrero para ajustar el calendario."
+  },
+  {
+    "id": "cg-6743",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántos meses del año tienen 31 días?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "explanation": "Enero, marzo, mayo, julio, agosto, octubre y diciembre tienen 31 días."
+  },
+  {
+    "id": "cg-6744",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué número romano representa 50?",
+    "options": [
+      "C",
+      "D",
+      "X",
+      "L"
+    ],
+    "correctIndex": 3,
+    "explanation": "La letra L representa cincuenta en la numeración romana."
+  },
+  {
+    "id": "cg-6745",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuánto suman los ángulos exteriores de un polígono convexo?",
+    "options": [
+      "360°",
+      "180°",
+      "540°",
+      "720°"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al recorrer el polígono se completa una vuelta de 360°."
+  },
+  {
+    "id": "cg-6746",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué civilización usó un sistema numérico de base 60?",
+    "options": [
+      "Egipcia",
+      "Babilónica",
+      "Romana",
+      "Maya"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los babilonios dividían el círculo en 360 grados y la hora en 60 minutos."
+  },
+  {
+    "id": "cg-6747",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántos segundos de arco tiene un grado?",
+    "options": [
+      "60",
+      "100",
+      "3.600",
+      "360"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cada grado se divide en 60 minutos de arco y cada minuto en 60 segundos."
+  },
+  {
+    "id": "cg-6748",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántas caras tiene un tetraedro?",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "4"
+    ],
+    "correctIndex": 3,
+    "explanation": "El tetraedro es un poliedro formado por cuatro caras triangulares."
+  },
+  {
+    "id": "cg-6749",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué demostró el péndulo de Foucault exhibido en 1851?",
+    "options": [
+      "Que la Tierra gira sobre su eje",
+      "Que la Tierra es esférica",
+      "Que la gravedad varía con la latitud",
+      "Que la Luna orbita la Tierra"
+    ],
+    "correctIndex": 0,
+    "explanation": "El plano de oscilación parecía girar respecto al suelo, prueba de la rotación terrestre."
+  },
+  {
+    "id": "cg-6750",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué astrónomo danés reunió las mediciones de Marte que usó Kepler?",
+    "options": [
+      "Nicolás Copérnico",
+      "Tycho Brahe",
+      "Johannes Kepler",
+      "Galileo Galilei"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las observaciones de Tycho Brahe permitieron a Kepler deducir sus tres leyes planetarias."
+  },
+  {
+    "id": "cg-6751",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué físico austríaco descubrió en 1912 que la radiación ionizante aumenta con la altitud?",
+    "options": [
+      "Wilhelm Röntgen",
+      "Henri Becquerel",
+      "Victor Hess",
+      "Ernest Rutherford"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los vuelos en globo de Hess mostraron una radiación de origen cósmico."
+  },
+  {
+    "id": "cg-6752",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué químicos alemanes descubrieron la fisión del uranio en 1938?",
+    "options": [
+      "Lise Meitner y Otto Frisch",
+      "Marie y Pierre Curie",
+      "Enrico Fermi y Niels Bohr",
+      "Otto Hahn y Fritz Strassmann"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hahn y Strassmann detectaron bario; Meitner y Frisch interpretaron el proceso como fisión."
+  },
+  {
+    "id": "cg-6753",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué dos investigadores detectaron en 1964 el fondo cósmico de microondas?",
+    "options": [
+      "Arno Penzias y Robert Wilson",
+      "Albert Michelson y Edward Morley",
+      "Hans Bethe y Enrico Fermi",
+      "Fred Hoyle y Geoffrey Burbidge"
+    ],
+    "correctIndex": 0,
+    "explanation": "La señal de ruido que encontraron resultó ser la radiación residual del universo temprano."
+  },
+  {
+    "id": "cg-6754",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué astrónoma detectó en 1967 las señales periódicas de los primeros púlsares?",
+    "options": [
+      "Henrietta Leavitt",
+      "Jocelyn Bell Burnell",
+      "Cecilia Payne-Gaposchkin",
+      "Vera Rubin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bell identificó pulsos de radio extraordinariamente regulares emitidos por estrellas de neutrones."
+  },
+  {
+    "id": "cg-6755",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué partícula descubierta en 2012 se asocia al campo que explica la masa?",
+    "options": [
+      "Fotón",
+      "Neutrino",
+      "Bosón de Higgs",
+      "Quark cima"
+    ],
+    "correctIndex": 2,
+    "explanation": "El bosón de Higgs confirma el mecanismo que da masa a las partículas elementales."
+  },
+  {
+    "id": "cg-6756",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué físico propuso en 1964, junto a George Zweig, el modelo de los quarks?",
+    "options": [
+      "Richard Feynman",
+      "Steven Weinberg",
+      "Sheldon Glashow",
+      "Murray Gell-Mann"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gell-Mann y Zweig plantearon que protones y neutrones están formados por quarks."
+  },
+  {
+    "id": "cg-6757",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué físico alemán interpretó la función de onda como una probabilidad?",
+    "options": [
+      "Max Born",
+      "Werner Heisenberg",
+      "Niels Bohr",
+      "Erwin Schrödinger"
+    ],
+    "correctIndex": 0,
+    "explanation": "La interpretación de Born describe la función de onda como una amplitud de probabilidad."
+  },
+  {
+    "id": "cg-6758",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué científico identificó el protón al bombardear nitrógeno con partículas alfa en 1917?",
+    "options": [
+      "James Chadwick",
+      "Ernest Rutherford",
+      "J. J. Thomson",
+      "Niels Bohr"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rutherford observó núcleos de hidrógeno en la reacción y los identificó como protones."
+  },
+  {
+    "id": "cg-6759",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué físico ordenó los elementos por número atómico gracias a sus estudios de rayos X?",
+    "options": [
+      "Dmitri Mendeleev",
+      "Antoine Lavoisier",
+      "Henry Moseley",
+      "John Dalton"
+    ],
+    "correctIndex": 2,
+    "explanation": "Moseley demostró que la carga nuclear, y no la masa, define la posición de cada elemento."
+  },
+  {
+    "id": "cg-6760",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué astrónoma mostró que las estrellas están compuestas principalmente de hidrógeno?",
+    "options": [
+      "Annie Jump Cannon",
+      "Henrietta Leavitt",
+      "Vera Rubin",
+      "Cecilia Payne-Gaposchkin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Su tesis de 1925 mostró que el hidrógeno es el elemento dominante en las estrellas."
+  },
+  {
+    "id": "cg-6761",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué físico explicó la producción de energía en las estrellas mediante fusión nuclear?",
+    "options": [
+      "Hans Bethe",
+      "Enrico Fermi",
+      "Lise Meitner",
+      "Robert Oppenheimer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bethe describió las reacciones de fusión que convierten hidrógeno en helio en el interior estelar."
+  },
+  {
+    "id": "cg-6762",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué dos astrónomos descubrieron el primer púlsar binario en 1974?",
+    "options": [
+      "Arno Penzias y Robert Wilson",
+      "Russell Hulse y Joseph Taylor",
+      "Kip Thorne y Barry Barish",
+      "Roger Penrose y Stephen Hawking"
+    ],
+    "correctIndex": 1,
+    "explanation": "El sistema PSR B1913+16 permitió poner a prueba la relatividad general."
+  },
+  {
+    "id": "cg-6763",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué red de radiotelescopios obtuvo en 2019 una imagen de un agujero negro?",
+    "options": [
+      "Telescopio Hubble",
+      "Telescopio James Webb",
+      "Event Horizon Telescope",
+      "Observatorio Chandra"
+    ],
+    "correctIndex": 2,
+    "explanation": "La colaboración combinó radiotelescopios de varios continentes para formar un interferómetro terrestre."
+  },
+  {
+    "id": "cg-6764",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué inventora estadounidense patentó en 1903 un limpiaparabrisas manual para automóviles?",
+    "options": [
+      "Josephine Cochrane",
+      "Margaret Knight",
+      "Sarah Goode",
+      "Mary Anderson"
+    ],
+    "correctIndex": 3,
+    "explanation": "Su dispositivo tenía una hoja de goma que se movía con una palanca desde el interior."
+  },
+  {
+    "id": "cg-6765",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué inventor chino creó tipos móviles de cerámica en el siglo XI?",
+    "options": [
+      "Bi Sheng",
+      "Cai Lun",
+      "Johannes Gutenberg",
+      "Wang Zhen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bi Sheng usó caracteres de cerámica cocida para imprimir, siglos antes de la imprenta europea."
+  },
+  {
+    "id": "cg-6766",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué fabricante de lentes neerlandés solicitó en 1608 una patente por un telescopio?",
+    "options": [
+      "Galileo Galilei",
+      "Hans Lippershey",
+      "Zacharias Janssen",
+      "Christiaan Huygens"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lippershey presentó un dispositivo que ampliaba objetos lejanos mediante lentes."
+  },
+  {
+    "id": "cg-6767",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿A qué fabricante de lentes neerlandés se atribuye uno de los primeros microscopios compuestos?",
+    "options": [
+      "Hans Lippershey",
+      "Antonie van Leeuwenhoek",
+      "Zacharias Janssen",
+      "Christiaan Huygens"
+    ],
+    "correctIndex": 2,
+    "explanation": "Janssen y su padre construyeron a finales del siglo XVI un tubo con dos lentes."
+  },
+  {
+    "id": "cg-6768",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué inventor británico construyó una de las primeras locomotoras de vapor que circuló sobre rieles en 1804?",
+    "options": [
+      "George Stephenson",
+      "James Watt",
+      "Robert Fulton",
+      "Richard Trevithick"
+    ],
+    "correctIndex": 3,
+    "explanation": "Trevithick probó su locomotora en una vía de Gales y demostró la tracción a vapor."
+  },
+  {
+    "id": "cg-6769",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué relojero británico construyó el cronómetro marino H4 en el siglo XVIII?",
+    "options": [
+      "John Harrison",
+      "Christiaan Huygens",
+      "James Watt",
+      "George Stephenson"
+    ],
+    "correctIndex": 0,
+    "explanation": "El H4 permitió calcular la longitud en el mar con una precisión sin precedentes."
+  },
+  {
+    "id": "cg-6770",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué físico italiano inventó la pila eléctrica en 1800?",
+    "options": [
+      "Luigi Galvani",
+      "Alessandro Volta",
+      "André-Marie Ampère",
+      "Michael Faraday"
+    ],
+    "correctIndex": 1,
+    "explanation": "La pila de Volta produjo corriente continua con discos de cobre y zinc separados por paño húmedo."
+  },
+  {
+    "id": "cg-6771",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué inventor estadounidense patentó en 1846 una máquina de coser con puntada de bloqueo?",
+    "options": [
+      "Isaac Singer",
+      "Samuel Colt",
+      "Elias Howe",
+      "Cyrus McCormick"
+    ],
+    "correctIndex": 2,
+    "explanation": "Howe patentó la puntada de bloqueo; Singer popularizó después una máquina mejorada."
+  },
+  {
+    "id": "cg-6772",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué sistema de pulsos cortos y largos ideó Samuel Morse para el telégrafo?",
+    "options": [
+      "Código Baudot",
+      "Código binario",
+      "Código ASCII",
+      "Código Morse"
+    ],
+    "correctIndex": 3,
+    "explanation": "El código Morse representa letras y números con combinaciones de puntos y rayas."
+  },
+  {
+    "id": "cg-6773",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué químico sueco patentó la dinamita en 1867?",
+    "options": [
+      "Alfred Nobel",
+      "Antoine Lavoisier",
+      "Humphry Davy",
+      "Dmitri Mendeleev"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nobel estabilizó la nitroglicerina con un material poroso y obtuvo un explosivo más seguro."
+  },
+  {
+    "id": "cg-6774",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué físico estadounidense construyó el primer láser funcional en 1960?",
+    "options": [
+      "Gordon Gould",
+      "Theodore Maiman",
+      "Charles Townes",
+      "Arthur Schawlow"
+    ],
+    "correctIndex": 1,
+    "explanation": "Maiman usó un cristal de rubí y produjo un haz de luz coherente."
+  },
+  {
+    "id": "cg-6775",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ingeniero de Kodak construyó en 1975 una cámara digital funcional?",
+    "options": [
+      "George Eastman",
+      "Edwin Land",
+      "Steven Sasson",
+      "Chester Carlson"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cámara de Sasson pesaba varios kilos y guardaba imágenes en una cinta magnética."
+  },
+  {
+    "id": "cg-6776",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué inventor italiano transmitió señales de radio a larga distancia en 1901?",
+    "options": [
+      "Nikola Tesla",
+      "Heinrich Hertz",
+      "James Clerk Maxwell",
+      "Guglielmo Marconi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Marconi logró recibir una señal enviada desde Inglaterra hasta Terranova."
+  },
+  {
+    "id": "cg-6777",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué inventor mexicano patentó en 1940 un sistema de televisión a color?",
+    "options": [
+      "Guillermo González Camarena",
+      "John Logie Baird",
+      "Philo Farnsworth",
+      "Vladimir Zworykin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Su sistema secuencial de campos permitió transmitir imágenes en color."
+  },
+  {
+    "id": "cg-6778",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué inventor estadounidense desarrolló el tubo de imagen electrónico en 1927?",
+    "options": [
+      "John Logie Baird",
+      "Philo Farnsworth",
+      "Vladimir Zworykin",
+      "David Sarnoff"
+    ],
+    "correctIndex": 1,
+    "explanation": "El disector de imagen de Farnsworth fue clave para la televisión totalmente electrónica."
+  },
+  {
+    "id": "cg-6779",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué físico británico dirigió el desarrollo del radar en la década de 1930?",
+    "options": [
+      "Paul Langevin",
+      "Frank Whittle",
+      "Robert Watson-Watt",
+      "Alan Turing"
+    ],
+    "correctIndex": 2,
+    "explanation": "Watson-Watt impulsó la red de estaciones que detectaba aviones por ondas de radio."
+  },
+  {
+    "id": "cg-6780",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué físico francés desarrolló el sonar de ultrasonidos durante la guerra de 1914 a 1918?",
+    "options": [
+      "Robert Watson-Watt",
+      "Guglielmo Marconi",
+      "Jacques Cousteau",
+      "Paul Langevin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Langevin usó cristales piezoeléctricos para emitir y detectar ondas acústicas bajo el agua."
+  },
+  {
+    "id": "cg-6781",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ingeniero británico patentó un motor a reacción en 1930?",
+    "options": [
+      "Frank Whittle",
+      "Hans von Ohain",
+      "Wernher von Braun",
+      "Igor Sikorsky"
+    ],
+    "correctIndex": 0,
+    "explanation": "Whittle diseñó un turborreactor que voló por primera vez en 1941."
+  },
+  {
+    "id": "cg-6782",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ingeniero alemán diseñó el motor a reacción del avión He 178?",
+    "options": [
+      "Frank Whittle",
+      "Hans von Ohain",
+      "Wernher von Braun",
+      "Ernst Heinkel"
+    ],
+    "correctIndex": 1,
+    "explanation": "El He 178 realizó en 1939 el primer vuelo con un turborreactor."
+  },
+  {
+    "id": "cg-6783",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ingeniero estadounidense popularizó la producción en cadena del automóvil?",
+    "options": [
+      "Karl Benz",
+      "Gottlieb Daimler",
+      "Henry Ford",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 2,
+    "explanation": "La línea de montaje de Ford redujo el tiempo de fabricación del Modelo T."
+  },
+  {
+    "id": "cg-6784",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ingeniero alemán diseñó un motor que encendía el combustible por compresión?",
+    "options": [
+      "Nikolaus Otto",
+      "Karl Benz",
+      "Gottlieb Daimler",
+      "Rudolf Diesel"
+    ],
+    "correctIndex": 3,
+    "explanation": "El motor diésel alcanza la ignición al comprimir el aire hasta una temperatura muy alta."
+  },
+  {
+    "id": "cg-6785",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué físico estadounidense inventó la fotocopia electrostática en 1938?",
+    "options": [
+      "Chester Carlson",
+      "George Eastman",
+      "Louis Daguerre",
+      "Edwin Land"
+    ],
+    "correctIndex": 0,
+    "explanation": "La xerografía usó cargas eléctricas y un polvo pigmentado para copiar documentos."
+  },
+  {
+    "id": "cg-6786",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ingeniero de IBM dirigió el equipo que creó el primer disco duro en 1956?",
+    "options": [
+      "Douglas Engelbart",
+      "Reynold B. Johnson",
+      "Jack Kilby",
+      "Robert Noyce"
+    ],
+    "correctIndex": 1,
+    "explanation": "El IBM RAMAC 305 almacenaba datos en discos magnéticos apilados."
+  },
+  {
+    "id": "cg-6787",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué químico de DuPont dirigió el equipo que desarrolló el nailon en 1935?",
+    "options": [
+      "Leo Baekeland",
+      "Stephanie Kwolek",
+      "Wallace Carothers",
+      "Roy Plunkett"
+    ],
+    "correctIndex": 2,
+    "explanation": "El nailon fue la primera fibra sintética producida a gran escala."
+  },
+  {
+    "id": "cg-6788",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué química desarrolló la fibra Kevlar en DuPont en 1965?",
+    "options": [
+      "Wallace Carothers",
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Stephanie Kwolek"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kwolek obtuvo una poliamida aromática de gran resistencia a la tracción."
+  },
+  {
+    "id": "cg-6789",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué químico descubrió accidentalmente el politetrafluoroetileno en 1938?",
+    "options": [
+      "Roy Plunkett",
+      "Wallace Carothers",
+      "Leo Baekeland",
+      "Charles Goodyear"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un gas almacenado bajo presión polimerizó y dio origen al teflón."
+  },
+  {
+    "id": "cg-6790",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué metalúrgico británico desarrolló el acero inoxidable en 1913?",
+    "options": [
+      "Henry Bessemer",
+      "Harry Brearley",
+      "Andrew Carnegie",
+      "Charles Goodyear"
+    ],
+    "correctIndex": 1,
+    "explanation": "Brearley añadió cromo al acero y observó que resistía la corrosión."
+  },
+  {
+    "id": "cg-6791",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué científico japonés describió los nanotubos de carbono en 1991?",
+    "options": [
+      "Andre Geim",
+      "Konstantin Novoselov",
+      "Sumio Iijima",
+      "Richard Smalley"
+    ],
+    "correctIndex": 2,
+    "explanation": "Iijima observó tubos cilíndricos de carbono de escala nanométrica al microscopio electrónico."
+  },
+  {
+    "id": "cg-6792",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ingeniero británico construyó el puente de hierro de Coalbrookdale en 1779?",
+    "options": [
+      "Isambard Kingdom Brunel",
+      "Thomas Telford",
+      "John Smeaton",
+      "Abraham Darby III"
+    ],
+    "correctIndex": 3,
+    "explanation": "El puente de Ironbridge fue la primera gran estructura de hierro fundido."
+  },
+  {
+    "id": "cg-6793",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué inventora estadounidense patentó una lavavajillas práctica en 1886?",
+    "options": [
+      "Josephine Cochrane",
+      "Mary Anderson",
+      "Margaret Knight",
+      "Lillian Gilbreth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cochrane construyó una máquina que lavaba platos con chorros de agua a presión."
+  },
+  {
+    "id": "cg-6794",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ingeniero observó el calentamiento de alimentos por microondas y patentó su uso culinario?",
+    "options": [
+      "Willis Carrier",
+      "Percy Spencer",
+      "James Clerk Maxwell",
+      "Heinrich Hertz"
+    ],
+    "correctIndex": 1,
+    "explanation": "Spencer observó el calentamiento por microondas y patentó su aplicación culinaria."
+  },
+  {
+    "id": "cg-6795",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué ingeniero suizo inventó el cierre de velcro tras observar cardos?",
+    "options": [
+      "Art Fry",
+      "László Bíró",
+      "George de Mestral",
+      "Whitcomb Judson"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los ganchos de los cardos inspiraron un cierre de dos tiras que se adhieren."
+  },
+  {
+    "id": "cg-6796",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué periodista húngaro patentó en 1938 una pluma de bolígrafo con tinta espesa?",
+    "options": [
+      "George de Mestral",
+      "Art Fry",
+      "Chester Carlson",
+      "László Bíró"
+    ],
+    "correctIndex": 3,
+    "explanation": "La tinta viscosa de Bíró fluía por una bola giratoria y no se secaba en el depósito."
+  },
+  {
+    "id": "cg-6797",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué inventor estadounidense patentó en 1893 un cierre deslizante precursor de la cremallera?",
+    "options": [
+      "Whitcomb Judson",
+      "László Bíró",
+      "Elias Howe",
+      "Isaac Singer"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cierre de Judson se mostró en la Exposición de Chicago, aunque era propenso a abrirse."
+  },
+  {
+    "id": "cg-6798",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué empleado de 3M convirtió un adhesivo débil en las notas Post-it?",
+    "options": [
+      "George de Mestral",
+      "Arthur Fry",
+      "László Bíró",
+      "Chester Carlson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fry usó el adhesivo de Spencer Silver para sujetar marcadores en su libro de himnos."
+  },
+  {
+    "id": "cg-6799",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué cocinero francés desarrolló la conservación de alimentos en frascos sellados?",
+    "options": [
+      "Louis Pasteur",
+      "Clarence Birdseye",
+      "Nicolas Appert",
+      "Gail Borden"
+    ],
+    "correctIndex": 2,
+    "explanation": "Appert calentó alimentos en frascos cerrados y ganó un premio del gobierno francés."
+  },
+  {
+    "id": "cg-6800",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué químico alemán sintetizó la aspirina en 1897?",
+    "options": [
+      "Robert Koch",
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Felix Hoffmann"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hoffmann acetiló el ácido salicílico en los laboratorios de Bayer."
+  },
+  {
+    "id": "cg-6801",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué médico húngaro demostró que lavarse las manos reducía la fiebre puerperal?",
+    "options": [
+      "Ignaz Semmelweis",
+      "Joseph Lister",
+      "Louis Pasteur",
+      "Edward Jenner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Semmelweis redujo la mortalidad materna al exigir desinfección de manos en el hospital."
+  },
+  {
+    "id": "cg-6802",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué inventor estadounidense patentó en 1868 una máquina de escribir práctica?",
+    "options": [
+      "Elias Howe",
+      "Christopher Sholes",
+      "Isaac Singer",
+      "Cyrus McCormick"
+    ],
+    "correctIndex": 1,
+    "explanation": "El modelo de Sholes usó el teclado QWERTY que todavía se emplea."
+  },
+  {
+    "id": "cg-6803",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué físico dirigió en 1942 el primer reactor nuclear en funcionamiento?",
+    "options": [
+      "Ernest Rutherford",
+      "Niels Bohr",
+      "Enrico Fermi",
+      "Robert Oppenheimer"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fermi construyó el reactor Chicago Pile-1 bajo las gradas de un estadio."
+  },
+  {
+    "id": "cg-6804",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué físico francés propuso que las partículas tienen longitud de onda?",
+    "options": [
+      "Werner Heisenberg",
+      "Max Planck",
+      "Niels Bohr",
+      "Louis de Broglie"
+    ],
+    "correctIndex": 3,
+    "explanation": "De Broglie extendió la dualidad onda-partícula de la luz a toda la materia."
+  },
+  {
+    "id": "cg-6805",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué físico italiano dirigió el equipo del CERN que descubrió los bosones W y Z?",
+    "options": [
+      "Carlo Rubbia",
+      "Enrico Fermi",
+      "Abdus Salam",
+      "Steven Weinberg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rubbia y Simon van der Meer recibieron el Nobel por el descubrimiento de esas partículas."
+  },
+  {
+    "id": "cg-6806",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuál es la suma de los primeros 100 números enteros?",
+    "options": [
+      "5000",
+      "5050",
+      "10100",
+      "4950"
+    ],
+    "correctIndex": 1,
+    "explanation": "La suma es 100 × 101 / 2 = 5050."
+  },
+  {
+    "id": "cg-6807",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué deja pasar un filtro polarizador?",
+    "options": [
+      "Todas las longitudes de onda",
+      "Solo luz ultravioleta",
+      "Luz que vibra en una sola dirección",
+      "Luz que vibra en todas las direcciones"
+    ],
+    "correctIndex": 2,
+    "explanation": "El filtro absorbe la componente de la luz que no coincide con su eje de transmisión."
+  },
+  {
+    "id": "cg-6808",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué lente corrige la hipermetropía?",
+    "options": [
+      "Lente divergente",
+      "Espejo cóncavo",
+      "Prisma",
+      "Lente convergente"
+    ],
+    "correctIndex": 3,
+    "explanation": "La hipermetropía se corrige con una lente que hace converger la luz en la retina."
+  },
+  {
+    "id": "cg-6809",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué unidad se usa para medir la potencia de una lente?",
+    "options": [
+      "Dioptría",
+      "Lumen",
+      "Lux",
+      "Vatio"
+    ],
+    "correctIndex": 0,
+    "explanation": "La dioptría es la inversa de la distancia focal medida en metros."
+  },
+  {
+    "id": "cg-6810",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué partículas usa un microscopio electrónico para formar la imagen?",
+    "options": [
+      "Rayos X",
+      "Electrones",
+      "Ultrasonidos",
+      "Luz ultravioleta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los electrones tienen una longitud de onda mucho menor y permiten mayor resolución."
+  },
+  {
+    "id": "cg-6811",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué material piezoeléctrico se usa en relojes y sensores de presión?",
+    "options": [
+      "Cobre",
+      "Vidrio",
+      "Cuarzo",
+      "Plomo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El cuarzo genera una carga eléctrica cuando se deforma y vibra con gran estabilidad."
+  },
+  {
+    "id": "cg-6812",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué elementos forman un termopar?",
+    "options": [
+      "Dos aislantes",
+      "Un imán y una bobina",
+      "Una resistencia y un condensador",
+      "Dos metales distintos"
+    ],
+    "correctIndex": 3,
+    "explanation": "La unión de dos metales distintos produce una tensión que depende de la temperatura."
+  },
+  {
+    "id": "cg-6813",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué propiedad distingue a un termistor?",
+    "options": [
+      "Su resistencia cambia con la temperatura",
+      "Genera luz al calentarse",
+      "Almacena carga eléctrica",
+      "Convierte sonido en voltaje"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los termistores se usan como sensores de temperatura por su resistencia variable."
+  },
+  {
+    "id": "cg-6814",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué hace un fotodiodo?",
+    "options": [
+      "Genera luz al recibir corriente",
+      "Genera corriente al recibir luz",
+      "Mide la humedad",
+      "Amplifica el sonido"
+    ],
+    "correctIndex": 1,
+    "explanation": "La luz libera portadores de carga en la unión y produce una corriente proporcional."
+  },
+  {
+    "id": "cg-6815",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué convierte el efecto Seebeck?",
+    "options": [
+      "Un voltaje en movimiento",
+      "Un metal en imán",
+      "Una diferencia de temperatura en voltaje",
+      "La luz en sonido"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dos metales distintos sometidos a un gradiente térmico generan una tensión eléctrica."
+  },
+  {
+    "id": "cg-6816",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué convierte el efecto Peltier?",
+    "options": [
+      "Temperatura en corriente",
+      "Luz en electricidad",
+      "Presión en voltaje",
+      "Corriente eléctrica en una diferencia de temperatura"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al pasar corriente por una unión de metales, un lado se enfría y el otro se calienta."
+  },
+  {
+    "id": "cg-6817",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué significa la sigla LASER?",
+    "options": [
+      "Amplificación de luz por emisión estimulada de radiación",
+      "Luz amplificada por emisión solar de radiación",
+      "Láser de alta seguridad y energía radiante",
+      "Lectura automática de señales electromagnéticas"
+    ],
+    "correctIndex": 0,
+    "explanation": "El acrónimo inglés describe el proceso de amplificar luz mediante emisión estimulada."
+  },
+  {
+    "id": "cg-6818",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué significa la sigla RADAR?",
+    "options": [
+      "Rango y dirección por sonido",
+      "Detección y localización por radio",
+      "Registro automático de datos y rayos",
+      "Recepción de audio a distancia"
+    ],
+    "correctIndex": 1,
+    "explanation": "El radar emite ondas de radio y mide el eco para localizar objetos."
+  },
+  {
+    "id": "cg-6819",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué significa la sigla SONAR?",
+    "options": [
+      "Sistema óptico de navegación y rango",
+      "Señal de ondas de radio",
+      "Navegación y localización por sonido",
+      "Sensor de radar"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sonar usa ondas acústicas para detectar objetos bajo el agua."
+  },
+  {
+    "id": "cg-6820",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué instrumento indica la altitud de un avión?",
+    "options": [
+      "Barómetro",
+      "Anemómetro",
+      "Sextante",
+      "Altímetro"
+    ],
+    "correctIndex": 3,
+    "explanation": "El altímetro mide la altitud, a menudo a partir de la presión atmosférica."
+  },
+  {
+    "id": "cg-6821",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué instrumento usa un topógrafo para medir ángulos horizontales y verticales?",
+    "options": [
+      "Teodolito",
+      "Sextante",
+      "Astrolabio",
+      "Compás"
+    ],
+    "correctIndex": 0,
+    "explanation": "El teodolito combina un telescopio con círculos graduados para medir ángulos."
+  },
+  {
+    "id": "cg-6822",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué circuito toma muestras de una señal continua y las representa con números?",
+    "options": [
+      "Convertidor digital-analógico",
+      "Convertidor analógico-digital",
+      "Amplificador operacional",
+      "Multiplexor"
+    ],
+    "correctIndex": 1,
+    "explanation": "El convertidor toma muestras de la señal continua y las representa con números."
+  },
+  {
+    "id": "cg-6823",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué componente reconstruye una señal continua a partir de valores discretos?",
+    "options": [
+      "Convertidor analógico-digital",
+      "Regulador de voltaje",
+      "Convertidor digital-analógico",
+      "Osciloscopio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El DAC reconstruye una señal continua a partir de valores discretos."
+  },
+  {
+    "id": "cg-6824",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué caracteriza a un servomotor?",
+    "options": [
+      "Gira siempre a velocidad fija",
+      "Genera corriente alterna",
+      "No necesita energía eléctrica",
+      "Incluye control de posición con realimentación"
+    ],
+    "correctIndex": 3,
+    "explanation": "Un servomotor ajusta su posición según una señal de control y un sensor."
+  },
+  {
+    "id": "cg-6825",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué significa PLC en automatización industrial?",
+    "options": [
+      "Controlador lógico programable",
+      "Panel de luces conmutables",
+      "Procesador de lenguaje compilado",
+      "Puerto lógico de comunicación"
+    ],
+    "correctIndex": 0,
+    "explanation": "El PLC ejecuta programas para controlar máquinas y procesos industriales."
+  },
+  {
+    "id": "cg-6826",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué significa SCADA?",
+    "options": [
+      "Sistema de control automático de diseño",
+      "Supervisión y adquisición de datos",
+      "Secuencia de comandos y datos",
+      "Servicio de copia y archivo"
+    ],
+    "correctIndex": 1,
+    "explanation": "SCADA supervisa y controla instalaciones distribuidas, como plantas y redes."
+  },
+  {
+    "id": "cg-6827",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué técnica de impresión 3D deposita filamento fundido capa por capa?",
+    "options": [
+      "Fusión selectiva por láser",
+      "Estereolitografía",
+      "Modelado por deposición fundida",
+      "Corte por chorro de agua"
+    ],
+    "correctIndex": 2,
+    "explanation": "La boquilla de FDM extruye plástico fundido que se solidifica formando cada capa."
+  },
+  {
+    "id": "cg-6828",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué tecnología mide distancias emitiendo pulsos de luz?",
+    "options": [
+      "Radar",
+      "Sonar",
+      "GPS",
+      "LiDAR"
+    ],
+    "correctIndex": 3,
+    "explanation": "LiDAR calcula la distancia a partir del tiempo que tarda la luz en regresar."
+  },
+  {
+    "id": "cg-6829",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué sistema europeo de navegación por satélite existe además del GPS?",
+    "options": [
+      "Galileo",
+      "GLONASS",
+      "BeiDou",
+      "NavIC"
+    ],
+    "correctIndex": 0,
+    "explanation": "Galileo es el sistema civil de navegación por satélite de la Unión Europea."
+  },
+  {
+    "id": "cg-6830",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿A qué país pertenece el sistema de navegación GLONASS?",
+    "options": [
+      "Estados Unidos",
+      "Rusia",
+      "China",
+      "Unión Europea"
+    ],
+    "correctIndex": 1,
+    "explanation": "GLONASS es el sistema ruso de navegación por satélite."
+  },
+  {
+    "id": "cg-6831",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué técnica usa un receptor GPS para calcular su posición?",
+    "options": [
+      "Triangulación con brújula y mapa",
+      "Interferometría con ondas de radio",
+      "Trilateración con distancias a satélites",
+      "Ecolocalización con ultrasonidos"
+    ],
+    "correctIndex": 2,
+    "explanation": "El receptor estima su distancia a varios satélites y cruza esas esferas para situarse."
+  },
+  {
+    "id": "cg-6832",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué código de estado HTTP indica que un recurso solicitado no se encontró?",
+    "options": [
+      "200",
+      "301",
+      "500",
+      "404"
+    ],
+    "correctIndex": 3,
+    "explanation": "El servidor responde 404 cuando la URL solicitada no existe."
+  },
+  {
+    "id": "cg-6833",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué significa RFID?",
+    "options": [
+      "Identificación por radiofrecuencia",
+      "Comunicación de campo cercano",
+      "Red inalámbrica de área personal",
+      "Sistema de posicionamiento global"
+    ],
+    "correctIndex": 0,
+    "explanation": "RFID usa etiquetas y ondas de radio para identificar objetos a distancia."
+  },
+  {
+    "id": "cg-6834",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué significa NFC?",
+    "options": [
+      "Identificación por radiofrecuencia",
+      "Comunicación de campo cercano",
+      "Red de área local inalámbrica",
+      "Protocolo de transferencia de archivos"
+    ],
+    "correctIndex": 1,
+    "explanation": "NFC permite intercambiar datos entre dispositivos muy próximos."
+  },
+  {
+    "id": "cg-6835",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué frecuencia usa habitualmente Bluetooth?",
+    "options": [
+      "5 GHz",
+      "900 MHz",
+      "2,4 GHz",
+      "60 GHz"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bluetooth opera en la banda libre de 2,4 GHz."
+  },
+  {
+    "id": "cg-6836",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué sensor detecta movimiento por el calor del cuerpo?",
+    "options": [
+      "Ultrasonidos",
+      "Láser",
+      "Radiofrecuencia",
+      "Infrarrojo pasivo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El sensor PIR detecta cambios en la radiación infrarroja emitida por cuerpos calientes."
+  },
+  {
+    "id": "cg-6837",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cuál es el valor aproximado de la constante de Planck?",
+    "options": [
+      "6,626e-34 J·s",
+      "6,626e-31 J·s",
+      "1,602e-19 J·s",
+      "9,109e-31 J·s"
+    ],
+    "correctIndex": 0,
+    "explanation": "La constante de Planck relaciona la energía de un fotón con su frecuencia."
+  },
+  {
+    "id": "cg-6838",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cuál es el valor aproximado de la carga elemental del electrón?",
+    "options": [
+      "1,602e-16 C",
+      "1,602e-19 C",
+      "9,109e-31 C",
+      "6,626e-34 C"
+    ],
+    "correctIndex": 1,
+    "explanation": "La carga elemental es la magnitud de la carga del electrón y del protón."
+  },
+  {
+    "id": "cg-6839",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué científico determinó la densidad media de la Tierra con una balanza de torsión en 1798?",
+    "options": [
+      "Isaac Newton",
+      "Charles Coulomb",
+      "Henry Cavendish",
+      "Joseph Priestley"
+    ],
+    "correctIndex": 2,
+    "explanation": "El experimento de Cavendish también permitió estimar la constante gravitacional."
+  },
+  {
+    "id": "cg-6840",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué efecto demuestra que los fotones tienen momento al chocar con electrones?",
+    "options": [
+      "Efecto fotoeléctrico",
+      "Efecto Doppler",
+      "Efecto Hall",
+      "Efecto Compton"
+    ],
+    "correctIndex": 3,
+    "explanation": "Compton observó que los rayos X cambian de longitud de onda al dispersarse en electrones."
+  },
+  {
+    "id": "cg-6841",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué anomalía orbital de Mercurio explicó la relatividad general?",
+    "options": [
+      "La precesión de su perihelio",
+      "La inclinación de su eje",
+      "La forma de sus cráteres",
+      "La duración de su rotación"
+    ],
+    "correctIndex": 0,
+    "explanation": "La relatividad general predijo un avance adicional del perihelio que coincidió con las observaciones."
+  },
+  {
+    "id": "cg-6842",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué le ocurre a un reloj situado cerca de una gran masa comparado con otro lejano?",
+    "options": [
+      "Funciona más rápido",
+      "Funciona más despacio",
+      "Deja de funcionar",
+      "Avanza en sentido inverso"
+    ],
+    "correctIndex": 1,
+    "explanation": "La dilatación gravitacional del tiempo hace que los relojes en campos intensos atrasen."
+  },
+  {
+    "id": "cg-6843",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué ley de la termodinámica afirma que la entropía de un cristal perfecto tiende a cero en el cero absoluto?",
+    "options": [
+      "Ley cero",
+      "Primera ley",
+      "Tercera ley",
+      "Segunda ley"
+    ],
+    "correctIndex": 2,
+    "explanation": "La tercera ley establece un valor de referencia para la entropía absoluta."
+  },
+  {
+    "id": "cg-6844",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué etapas forman el ciclo de Carnot?",
+    "options": [
+      "Dos isobaras y dos isocoras",
+      "Cuatro isotermas",
+      "Dos adiabáticas y dos isocoras",
+      "Dos isotermas y dos adiabáticas"
+    ],
+    "correctIndex": 3,
+    "explanation": "El ciclo reversible de Carnot alterna expansión y compresión isotérmicas y adiabáticas."
+  },
+  {
+    "id": "cg-6845",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué afirma la ley de Hess?",
+    "options": [
+      "La variación de entalpía depende solo de los estados inicial y final",
+      "La entalpía depende del camino de la reacción",
+      "La ley solo se aplica a gases",
+      "La entalpía siempre aumenta"
+    ],
+    "correctIndex": 0,
+    "explanation": "La entalpía es una función de estado, así que el camino no altera el balance total."
+  },
+  {
+    "id": "cg-6846",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué relaciona la ecuación de Nernst?",
+    "options": [
+      "La velocidad de reacción con la presión",
+      "El potencial de una celda con las concentraciones",
+      "La masa de un gas con el volumen",
+      "La entalpía con la temperatura"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ecuación corrige el potencial estándar según las concentraciones de las especies."
+  },
+  {
+    "id": "cg-6847",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué establece la ley de Raoult?",
+    "options": [
+      "La presión osmótica depende de la masa",
+      "El punto de ebullición no cambia",
+      "La presión de vapor desciende según la fracción molar del soluto",
+      "La solubilidad aumenta con la presión"
+    ],
+    "correctIndex": 2,
+    "explanation": "La presencia de un soluto no volátil reduce la presión de vapor del disolvente."
+  },
+  {
+    "id": "cg-6848",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué establece la ley de Henry?",
+    "options": [
+      "La solubilidad disminuye al aumentar la presión",
+      "Los gases no se disuelven en líquidos",
+      "La solubilidad depende solo de la temperatura",
+      "La solubilidad de un gas es proporcional a su presión parcial"
+    ],
+    "correctIndex": 3,
+    "explanation": "A mayor presión parcial, más gas puede disolverse en un líquido."
+  },
+  {
+    "id": "cg-6849",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué indica el principio de Aufbau?",
+    "options": [
+      "Se llenan primero los orbitales de menor energía",
+      "Se llenan primero los de mayor energía",
+      "Todos los orbitales se llenan a la vez",
+      "Solo se llenan los orbitales s"
+    ],
+    "correctIndex": 0,
+    "explanation": "La configuración electrónica se construye ocupando primero los niveles más bajos."
+  },
+  {
+    "id": "cg-6850",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué mide la energía de ionización?",
+    "options": [
+      "La energía liberada al ganar un electrón",
+      "La energía necesaria para arrancar un electrón",
+      "La masa de un átomo ionizado",
+      "La carga total del núcleo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Es la energía mínima para separar un electrón de un átomo en estado gaseoso."
+  },
+  {
+    "id": "cg-6851",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cómo varía la electronegatividad en la tabla periódica?",
+    "options": [
+      "Aumenta hacia la izquierda y hacia abajo",
+      "Es igual en todos los elementos",
+      "Aumenta hacia la derecha y hacia arriba",
+      "Solo cambia en los gases nobles"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los elementos con más carga nuclear efectiva atraen mejor los electrones."
+  },
+  {
+    "id": "cg-6852",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cómo varía el radio atómico en la tabla periódica?",
+    "options": [
+      "Aumenta hacia arriba y hacia la derecha",
+      "Disminuye al bajar de grupo",
+      "No depende del número de capas",
+      "Aumenta hacia abajo y hacia la izquierda"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al bajar de grupo se añaden capas y el átomo se hace más grande."
+  },
+  {
+    "id": "cg-6853",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué son dos enantiómeros?",
+    "options": [
+      "Imágenes especulares no superponibles",
+      "Isómeros con distinta fórmula molecular",
+      "Isómeros de cadena",
+      "Átomos con distinto número de protones"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los enantiómeros tienen la misma fórmula y difieren en su orientación espacial."
+  },
+  {
+    "id": "cg-6854",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué caracteriza a un carbono quiral?",
+    "options": [
+      "Tiene un doble enlace",
+      "Está unido a cuatro grupos diferentes",
+      "Está unido a dos hidrógenos",
+      "Tiene carga positiva"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con cuatro sustituyentes distintos, el carbono no coincide con su imagen especular."
+  },
+  {
+    "id": "cg-6855",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué distingue a la polimerización por condensación?",
+    "options": [
+      "No produce subproductos",
+      "Solo ocurre en metales",
+      "Libera una molécula pequeña, como agua",
+      "Rompe los monómeros"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los monómeros se unen y expulsan pequeñas moléculas durante la formación del polímero."
+  },
+  {
+    "id": "cg-6856",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué distingue a la polimerización por adición?",
+    "options": [
+      "Libera agua",
+      "Requiere oxígeno",
+      "Forma sales",
+      "No libera subproductos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los monómeros con dobles enlaces se enlazan sin expulsar otras moléculas."
+  },
+  {
+    "id": "cg-6857",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es una aleación eutéctica?",
+    "options": [
+      "La composición con el punto de fusión más bajo",
+      "La composición con el punto de fusión más alto",
+      "Una mezcla que no se funde",
+      "Un compuesto puro"
+    ],
+    "correctIndex": 0,
+    "explanation": "En una mezcla eutéctica, los componentes funden juntos a una temperatura mínima."
+  },
+  {
+    "id": "cg-6858",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué metal predomina en el peltre tradicional?",
+    "options": [
+      "Hierro",
+      "Estaño",
+      "Aluminio",
+      "Cobre"
+    ],
+    "correctIndex": 1,
+    "explanation": "El peltre clásico contiene principalmente estaño, con pequeñas cantidades de otros metales."
+  },
+  {
+    "id": "cg-6859",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Para qué se usa el molibdeno en aleaciones?",
+    "options": [
+      "Para conducir la luz en fibras",
+      "Para formar imanes permanentes",
+      "Para resistir temperaturas muy altas",
+      "Para servir de combustible nuclear"
+    ],
+    "correctIndex": 2,
+    "explanation": "El molibdeno eleva la resistencia térmica y mecánica de los aceros."
+  },
+  {
+    "id": "cg-6860",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cómo controla un MOSFET el paso de corriente?",
+    "options": [
+      "La luz controla la corriente",
+      "La presión controla la resistencia",
+      "Un campo magnético genera luz",
+      "La tensión de la compuerta controla un canal"
+    ],
+    "correctIndex": 3,
+    "explanation": "El campo eléctrico de la compuerta modula la conductividad del canal semiconductor."
+  },
+  {
+    "id": "cg-6861",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué longitud de onda usa la litografía ultravioleta extrema?",
+    "options": [
+      "13,5 nanómetros",
+      "193 nanómetros",
+      "1 micrómetro",
+      "500 nanómetros"
+    ],
+    "correctIndex": 0,
+    "explanation": "La luz EUV de 13,5 nm permite grabar circuitos de escala nanométrica."
+  },
+  {
+    "id": "cg-6862",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es un qubit?",
+    "options": [
+      "Un bit que solo vale 0 o 1",
+      "Un bit cuántico que puede estar en superposición",
+      "Un byte cuántico de ocho bits",
+      "Un transistor de un solo electrón"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un qubit puede representar una combinación de 0 y 1 hasta que se mide."
+  },
+  {
+    "id": "cg-6863",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Para qué sirve el algoritmo de Shor?",
+    "options": [
+      "Para ordenar listas",
+      "Para buscar en bases de datos",
+      "Para factorizar números enteros",
+      "Para comprimir archivos"
+    ],
+    "correctIndex": 2,
+    "explanation": "En una computadora cuántica, Shor podría factorizar enteros en tiempo polinómico."
+  },
+  {
+    "id": "cg-6864",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Para qué sirve el algoritmo de Grover?",
+    "options": [
+      "Para factorizar enteros",
+      "Para simular proteínas",
+      "Para cifrar mensajes",
+      "Para buscar en una base de datos no ordenada"
+    ],
+    "correctIndex": 3,
+    "explanation": "Grover ofrece una aceleración cuadrática en la búsqueda no estructurada."
+  },
+  {
+    "id": "cg-6865",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué caracteriza a la criptografía postcuántica?",
+    "options": [
+      "Resistir ataques con computadoras cuánticas",
+      "Usar claves de un solo bit",
+      "No necesitar claves",
+      "Funcionar solo en satélites"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sus algoritmos se diseñan para resistir las capacidades de Shor y Grover."
+  },
+  {
+    "id": "cg-6866",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿A qué constante llega la rutina de Kaprekar con números de cuatro cifras?",
+    "options": [
+      "1089",
+      "6174",
+      "1729",
+      "495"
+    ],
+    "correctIndex": 1,
+    "explanation": "Al ordenar y restar las cifras repetidamente, casi todos los números de cuatro cifras llegan a 6174."
+  },
+  {
+    "id": "cg-6867",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué hace especial al número 1729?",
+    "options": [
+      "Es el mayor primo de cuatro cifras",
+      "Es un cuadrado perfecto",
+      "Es el menor que se expresa como suma de dos cubos positivos de dos formas",
+      "Es divisible por todos los números del 1 al 10"
+    ],
+    "correctIndex": 2,
+    "explanation": "1729 = 1³ + 12³ = 9³ + 10³, como observó Ramanujan."
+  },
+  {
+    "id": "cg-6868",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿A qué número llega el truco de invertir y restar un número de tres cifras cuyas cifras extremas difieren al menos en dos, y luego invertir y sumar?",
+    "options": [
+      "999",
+      "1008",
+      "1234",
+      "1089"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al invertir y restar un número de tres cifras, y luego invertir y sumar, se llega a 1089."
+  },
+  {
+    "id": "cg-6869",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué ocurre al multiplicar 142857 por 2, 3, 4, 5 o 6?",
+    "options": [
+      "Se obtienen rotaciones de sus cifras",
+      "Se obtienen números primos",
+      "El resultado siempre termina en 9",
+      "Se duplica el número de cifras"
+    ],
+    "correctIndex": 0,
+    "explanation": "142857 es un número cíclico vinculado a la fracción 1/7."
+  },
+  {
+    "id": "cg-6870",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cuántos movimientos mínimos requiere la torre de Hanói con n discos?",
+    "options": [
+      "n^2",
+      "2^n - 1",
+      "2n",
+      "n!"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cada disco adicional duplica el número de movimientos y añade uno."
+  },
+  {
+    "id": "cg-6871",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cuántos granos de trigo suma la leyenda del tablero de ajedrez?",
+    "options": [
+      "64^2",
+      "2^32",
+      "2^64 - 1",
+      "64!"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al duplicar el grano en cada casilla, el total es la suma de las 64 primeras potencias de dos."
+  },
+  {
+    "id": "cg-6872",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cómo se construye el triángulo de Sierpinski?",
+    "options": [
+      "Uniendo cuadrados de tamaño creciente",
+      "Trazando una sola circunferencia",
+      "Repitiendo un segmento en línea recta",
+      "Quitando triángulos centrales de forma sucesiva"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cada paso elimina el triángulo central y deja tres copias reducidas del anterior."
+  },
+  {
+    "id": "cg-6873",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué define al conjunto de Mandelbrot?",
+    "options": [
+      "Los valores de c para los que z² + c permanece acotado",
+      "Los primos de Mersenne",
+      "Las raíces de un polinomio",
+      "Las curvas de longitud finita"
+    ],
+    "correctIndex": 0,
+    "explanation": "Se genera iterando z² + c desde cero y comprobando si la sucesión escapa al infinito."
+  },
+  {
+    "id": "cg-6874",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es la botella de Klein?",
+    "options": [
+      "Una botella de exactamente un litro",
+      "Una superficie no orientable sin interior ni exterior",
+      "Un poliedro de doce caras",
+      "Una curva cerrada de una dimensión"
+    ],
+    "correctIndex": 1,
+    "explanation": "Es una superficie cerrada que solo puede sumergirse sin cortarse en cuatro dimensiones."
+  },
+  {
+    "id": "cg-6875",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué predice la ley de Benford?",
+    "options": [
+      "Todos los dígitos aparecen por igual",
+      "El 9 es el primer dígito más frecuente",
+      "El 1 aparece como primer dígito cerca del 30 % de las veces",
+      "Solo se aplica a números primos"
+    ],
+    "correctIndex": 2,
+    "explanation": "En muchos conjuntos de datos reales, los primeros dígitos pequeños son más frecuentes."
+  },
+  {
+    "id": "cg-6876",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cómo se genera la sucesión look-and-say?",
+    "options": [
+      "Cada término suma los dos anteriores",
+      "Cada término multiplica el anterior por 2",
+      "Cada término invierte las cifras",
+      "Cada término describe el anterior"
+    ],
+    "correctIndex": 3,
+    "explanation": "Se lee el término anterior en voz alta contando las repeticiones de cada cifra."
+  },
+  {
+    "id": "cg-6877",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué es el Juego de la Vida de Conway?",
+    "options": [
+      "Un autómata celular con reglas simples",
+      "Un lenguaje de programación",
+      "Un teorema de geometría",
+      "Un algoritmo de ordenamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las células de una cuadrícula nacen, sobreviven o mueren según sus vecinas."
+  },
+  {
+    "id": "cg-6878",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué mide la entropía de Shannon?",
+    "options": [
+      "La energía de un sistema",
+      "La cantidad media de información de una fuente",
+      "La velocidad de la luz",
+      "El número de estados de un átomo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La entropía cuantifica la incertidumbre y el contenido de información de un mensaje."
+  },
+  {
+    "id": "cg-6879",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué hace la codificación de Huffman?",
+    "options": [
+      "Asigna códigos de igual longitud",
+      "Comprime sin usar árboles",
+      "Asigna códigos más cortos a los símbolos más frecuentes",
+      "Cifra con clave pública"
+    ],
+    "correctIndex": 2,
+    "explanation": "El árbol de Huffman construye un código prefijo óptimo para los datos."
+  },
+  {
+    "id": "cg-6880",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿En qué se basa la criptografía de curva elíptica?",
+    "options": [
+      "En la factorización de números primos",
+      "En la paradoja de Russell",
+      "En claves de ocho bits",
+      "En el logaritmo discreto sobre curvas elípticas"
+    ],
+    "correctIndex": 3,
+    "explanation": "La seguridad depende de la dificultad de resolver el logaritmo discreto en un grupo de curva elíptica."
+  }
+]

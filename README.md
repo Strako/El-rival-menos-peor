@@ -6,10 +6,11 @@ Trivia multijugador por salas, inspirada en el formato de “El rival menos peor
 - **Backend:** Supabase (Postgres, Edge Functions y Realtime).
 - **Despliegue:** Netlify.
 - **Sin ranking global.**
-- **6.050 preguntas** en tres categorías.
-- **5.350 de cultura general**, ampliadas a artes y ciencias de todo el mundo.
+- **Sin repeticiones recientes:** evita preguntas de los últimos 10 juegos de los mismos jugadores; reutiliza solo si el pool se agota.
+- **7.050 preguntas** en tres categorías.
+- **6.350 de cultura general**, ampliadas a artes, ciencias y datos curiosos de todo el mundo.
 - **Tres modos:** Clásico, Eliminación y Relámpago.
-- **Timer de 10 s** para responder en todos los modos.
+- **Timer de 20 s** para responder en todos los modos.
 - **Chat efímero por sala** durante la partida.
 - **Ítems opcionales** en los tres modos: apagón, barajado, cambio de pregunta, intercambio de puntos y aleatorio.
 - **Banderas por país** según la IP.
@@ -28,13 +29,16 @@ Trivia multijugador por salas, inspirada en el formato de “El rival menos peor
 |---|---|
 | Proyecto Supabase | Activo |
 | Esquema, RLS, RPC y seguridad | Aplicado |
-| Preguntas cargadas | 6.050 |
-| Banco ampliado | 5.000 nuevas de cultura general |
+| Preguntas cargadas | 7.050 |
+| Banco ampliado | 5.000 de artes/ciencias + 1.000 datos curiosos |
+| Datos curiosos | 1.000 preguntas cargadas |
+| Series de los 90 | 350 preguntas; 183 con nombres localizados al español |
 | Auditoría de contexto | 206 preguntas mejoradas |
 | Edge Function `api` | Desplegada (versión 5) |
 | Frontend | Implementado y compilando |
 | Modo Relámpago | Implementado |
-| Timer de 10 s | En los tres modos |
+| Timer de 20 s | En los tres modos |
+| Dificultad progresiva | Fácil → media → difícil por tercios en todos los modos |
 | Chat efímero | Implementado |
 | Banderas por IP | Implementadas |
 | Invitaciones en lobby | Implementadas |
@@ -43,8 +47,11 @@ Trivia multijugador por salas, inspirada en el formato de “El rival menos peor
 | Sistema de ítems | Implementado en Clásico, Eliminación y Relámpago |
 | Emojis de ranking | Implementados |
 | Sin repetición por partida | Restricción única aplicada |
-| Sonidos | Implementados |
-| Pruebas unitarias | 23/23 |
+| Repetición entre partidas | Evitada durante los últimos 10 juegos |
+| Orden de categorías | Aleatorio y equilibrado en cada partida |
+| Sonidos | Implementados; aviso de turno solo para el jugador actual |
+| Sincronización de turnos | Verificada: 20 s al comenzar cada turno |
+| Pruebas unitarias | 24/24 |
 | Smoke test backend | Clásico, Eliminación y Relámpago OK |
 | Prueba de cierre de sala | Permisos, bloqueo y salida OK |
 | E2E con Chrome | Clásico, Relámpago, social, cierre e ítems OK |
@@ -61,15 +68,15 @@ Trivia multijugador por salas, inspirada en el formato de “El rival menos peor
 
 | Categoría | Valor interno | Preguntas |
 |---|---|---|
-| Cultura general global | `general` | 5.350 |
+| Cultura general global | `general` | 6.350 |
 | Videojuegos | `videogames` | 350 |
 | Series de los 90 | `series_90s` | 350 |
 
 Incluye sitcoms, dramas, ciencia ficción, animación y producciones latinoamericanas/españolas de los 90. “Los Simpson” está dentro de **Series de los 90**, no como categoría separada.
 
-Distribución por dificultad: 2.386 fáciles, 2.448 medias, 1.216 difíciles.
+Distribución por dificultad: 2.787 fáciles, 2.838 medias, 1.425 difíciles.
 
-La ampliación cubre física, astronomía, química, biología, medicina, matemáticas, tecnología, ciencias de la Tierra, geografía, historia antigua y moderna, arqueología, filosofía, religión, mitología, lingüística, literatura, teatro, poesía, pintura, escultura, arquitectura, diseño, fotografía, música, danza, cine y culturas del mundo.
+La ampliación cubre física, astronomía, química, biología, medicina, matemáticas, tecnología, ciencias de la Tierra, geografía, historia antigua y moderna, arqueología, filosofía, religión, mitología, lingüística, literatura, teatro, poesía, pintura, escultura, arquitectura, diseño, fotografía, música, danza, cine y culturas del mundo. Incluye además 1.000 datos curiosos sobre cuerpo humano, animales, naturaleza, Tierra, espacio, ciencia, inventos, comida y vida cotidiana.
 
 ---
 
@@ -114,7 +121,7 @@ Abre `http://localhost:5173`.
 3. **Configurar:** solo el anfitrión elige el modo y la cantidad de turnos (1–30).
 4. **Iniciar:** se necesitan al menos 2 jugadores en Clásico y Relámpago, y 3 en Eliminación.
 5. **Responder:** en Clásico y Eliminación cada jugador responde una pregunta por turno. En Relámpago todos responden la misma pregunta a la vez.
-6. **Timer:** todas las preguntas tienen **10 segundos**. Si el turno expira sin respuesta, se otorgan 0 puntos y se avanza automáticamente.
+6. **Timer:** todas las preguntas tienen **20 segundos**. Si el turno expira sin respuesta, se otorgan 0 puntos y se avanza automáticamente.
 7. **Puntuar:** fácil = 100, media = 150, difícil = 200. En Relámpago el valor baja con el tiempo; incorrecta = −100.
 8. **Eliminación:** después de cada ronda, los activos votan en secreto. El más votado queda eliminado y pasa a espectador.
 9. **Relámpago:** la primera respuesta cierra la pregunta. Sin respuesta: −10 a todos los activos. Sin eliminación.
@@ -131,11 +138,21 @@ Abre `http://localhost:5173`.
 - En Relámpago no hay turnos; el listado sigue por índice.
 - Ninguna pregunta se repite dentro de la misma partida, en ningún modo.
 
+### Dificultad progresiva
+
+En los tres modos, la dificultad se calcula según la ronda y el total de rondas:
+
+- Primer tercio: fáciles.
+- Tercio central: medias.
+- Último tercio: difíciles.
+
+Así, una partida de 3 rondas usa fácil → media → difícil, y una de 5 usa fácil, fácil, media, media, difícil. Con pocas rondas se evita que toda la partida quede en dificultad fácil.
+
 ### Reglas del modo Relámpago
 
 - Dificultad progresiva: las primeras preguntas son fáciles, luego medias y al final difíciles.
-- Las categorías rotan entre Cultura general, Videojuegos y Series de los 90.
-- Cada pregunta dura 10 segundos.
+- Las categorías se eligen aleatoriamente, con un reparto equilibrado entre Cultura general, Videojuegos y Series de los 90.
+- Cada pregunta dura 20 segundos.
 - La primera respuesta que llega al servidor se atribuye a ese jugador.
 - Los puntos de una respuesta correcta **bajan con el tiempo**: máximo al inicio y mínimo 10.
 - Si nadie responde, **todos los activos pierden 10 puntos**.
@@ -152,7 +169,7 @@ Abre `http://localhost:5173`.
 
 ### Reglas especiales
 
-- **Todas las preguntas tienen 10 segundos** para responder en los tres modos.
+- **Todas las preguntas tienen 20 segundos** para responder en los tres modos.
 - El anfitrión puede **saltar un turno/pregunta** si un jugador se desconecta.
 - El anfitrión puede **forzar el cierre de una votación** si falta alguien.
 - Si el anfitrión abandona, el host pasa al siguiente jugador de la sala.
@@ -226,8 +243,8 @@ El juego incluye un sistema de audio sintetizado con **Web Audio API**, sin arch
 
 | Sonido | Cuándo suena |
 |---|---|
-| Turno | Al comenzar el turno de un jugador en Clásico/Eliminación |
-| Inicio de pregunta | Al comenzar cada ronda de 10 s en Relámpago |
+| Turno | Solo en el cliente del jugador que tiene el turno en Clásico/Eliminación |
+| Inicio de pregunta | En los jugadores activos al comenzar cada ronda de 20 s en Relámpago |
 | Correcta | Al revelarse una respuesta correcta en cualquier modo |
 | Fallida | Al revelarse una respuesta incorrecta en cualquier modo |
 | Tiempo agotado | Cuando vence el turno en cualquier modo o se salta una pregunta |
@@ -237,6 +254,7 @@ El juego incluye un sistema de audio sintetizado con **Web Audio API**, sin arch
 - Los sonidos se desbloquean con el primer clic/tecla (política de autoplay de los navegadores).
 - No se repiten por polling: cada evento tiene una clave única.
 - No suenan al recargar a mitad de una pregunta o revelación.
+- El aviso de turno no suena a espectadores, eliminados ni a los demás jugadores.
 
 ---
 
@@ -285,11 +303,16 @@ data/questions/series-90.json
 data/questions.json
 data/questions/general-5000/      # 20 lotes fuente
 data/questions/general-5000.json  # 5.000 seleccionadas
+data/questions/fun-facts-1000/    # 5 lotes de datos curiosos
+data/questions/fun-facts-1000.json # 1.000 seleccionadas
+data/questions/series-90-spanish-fixes.json # 183 correcciones de series
 data/questions/context-fixes.json # 206 correcciones de contexto
 data/questions/parts/*.json
 data/questions.report.json
 data/questions/general-5000.report.json
 data/questions/general-5000.selected.report.json
+data/questions/fun-facts-1000.report.json
+data/questions/fun-facts-1000.selected.report.json
 supabase/seed/questions.sql
 ```
 
@@ -299,18 +322,21 @@ Validar:
 npm run validate:questions
 npm run validate:questions:final
 npm run validate:general-5000
+npm run validate:fun-facts
 npm run audit:ambiguity
 ```
 
-Regenerar consolidado, correcciones y banco ampliado:
+Regenerar consolidado, correcciones y bancos ampliados:
 
 ```bash
 npm run merge:context-fixes
+npm run apply:series-spanish
 npm run merge:questions
 npm run merge:general-5000
+npm run merge:fun-facts
 ```
 
-> El banco final en Supabase es de **6.050** preguntas. `questions.question_key` impide duplicados normalizados.
+> El banco final en Supabase es de **7.050** preguntas. `questions.question_key` impide duplicados normalizados.
 
 Cargar a Supabase con una clave secreta (solo para administración):
 
@@ -368,6 +394,7 @@ npm run test:e2e         # Clásico
 npm run test:e2e:race    # Relámpago, timer y sonido
 npm run test:e2e:social  # Bandera, emoji, invitación, chat y timeout
 npm run test:e2e:close-room # Cierre de sala y salida desde el lobby
+npm run test:timer-sync  # 20 s visibles al inicio de cada turno
 npm run test:chat        # Chat por Broadcast
 ```
 
@@ -382,7 +409,7 @@ npm run test:e2e:items   # E2E de configuración, inventario y uso
 
 Los ítems están desactivados por defecto. El anfitrión puede habilitarlos y permitir hasta 3 acumulados; al recibir un cuarto se pierden todos. Sin ítems múltiples, el nuevo reemplaza al anterior.
 
-En Clásico/Eliminación se obtienen por racha de 3 aciertos o 30 % por respuesta. En Relámpago se entrega uno aleatorio por pregunta. Solo pueden usarse antes de responder y dentro de los 10 segundos del turno.
+En Clásico/Eliminación se obtienen por racha de 3 aciertos o 30 % por respuesta. En Relámpago se entrega uno aleatorio por pregunta. Solo pueden usarse antes de responder y dentro de los 20 segundos del turno.
 
 | Ítem | Efecto |
 |---|---|

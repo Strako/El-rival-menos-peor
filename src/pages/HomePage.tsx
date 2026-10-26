@@ -208,17 +208,17 @@ export function HomePage() {
                     </span>
                     <span className="mt-0.5 block text-[10px] leading-tight text-white/35">
                       {option === 'classic'
-                        ? '10 s por turno · mayor puntaje'
+                        ? '20 s por turno · mayor puntaje'
                         : option === 'elimination'
-                          ? '10 s por turno · votan y eliminan'
-                          : '10 s · el primero responde'}
+                          ? '20 s por turno · votan y eliminan'
+                          : '20 s · el primero responde'}
                     </span>
                   </button>
                 ))}
               </div>
               {mode === 'race' && (
                 <p className="mt-2 text-[10px] leading-relaxed text-cyan-200/60">
-                  10 segundos por pregunta · sin eliminación · respuesta incorrecta: −100.
+                  20 segundos por pregunta · sin eliminación · respuesta incorrecta: −100.
                 </p>
               )}
             </div>
@@ -406,7 +406,7 @@ export function HomePage() {
 
         <footer className="mt-10 flex flex-wrap items-center justify-between gap-2 border-t border-white/5 pt-5 text-[10px] text-white/20">
           <span>El rival menos peor</span>
-          <span>6.050 preguntas · 3 categorías · 3 modos</span>
+          <span>7.050 preguntas · 3 categorías · 3 modos</span>
         </footer>
       </main>
     </div>

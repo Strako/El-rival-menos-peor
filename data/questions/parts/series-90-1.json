@@ -428,7 +428,7 @@
       "Seinfeld",
       "Wings",
       "Cheers",
-      "The Simpsons"
+      "Los Simpson"
     ],
     "correctIndex": 2,
     "explanation": "Frasier nació como spin-off del personaje que aparecía en Cheers."
@@ -451,7 +451,7 @@
     "id": "s90-0033",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Qué actor protagoniza The Fresh Prince of Bel-Air?",
+    "question": "¿Qué actor protagoniza El príncipe del rap en Bel-Air?",
     "options": [
       "Will Smith",
       "Martin Lawrence",
@@ -479,7 +479,7 @@
     "id": "s90-0035",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Qué actor interpreta a Carlton Banks?",
+    "question": "En la serie El príncipe del rap en Bel-Air, ¿qué actor interpreta a Carlton Banks?",
     "options": [
       "Will Smith",
       "DJ Jazzy Jeff",
@@ -507,7 +507,7 @@
     "id": "s90-0037",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cómo se llama el mayordomo de la familia Banks?",
+    "question": "En la serie El príncipe del rap en Bel-Air, ¿cómo se llama el mayordomo de la familia Banks?",
     "options": [
       "Geoffrey",
       "Jazz",
@@ -521,7 +521,7 @@
     "id": "s90-0038",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Qué baile se hizo famoso gracias al personaje de Carlton?",
+    "question": "En la serie El príncipe del rap en Bel-Air, ¿qué baile se hizo famoso gracias al personaje de Carlton?",
     "options": [
       "El Urkel",
       "El baile de Carlton",
@@ -535,7 +535,7 @@
     "id": "s90-0039",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Qué actor y DJ interpreta a Jazz en la serie?",
+    "question": "En la serie El príncipe del rap en Bel-Air, ¿qué actor y DJ interpreta a Jazz?",
     "options": [
       "Alfonso Ribeiro",
       "Joseph Marcell",
@@ -549,7 +549,7 @@
     "id": "s90-0040",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿En qué ciudad vive la familia Tanner en Full House?",
+    "question": "¿En qué ciudad vive la familia Tanner en Padres forzosos?",
     "options": [
       "Los Ángeles",
       "Chicago",
@@ -557,13 +557,13 @@
       "San Francisco"
     ],
     "correctIndex": 3,
-    "explanation": "Full House se desarrolla en San Francisco, California."
+    "explanation": "Padres forzosos se desarrolla en San Francisco, California."
   },
   {
     "id": "s90-0041",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama el padre de las tres niñas Tanner?",
+    "question": "En la serie Padres forzosos, ¿cómo se llama el padre de las tres niñas Tanner?",
     "options": [
       "Danny Tanner",
       "Jesse Katsopolis",
@@ -577,7 +577,7 @@
     "id": "s90-0042",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Qué gemelas interpretan a Michelle Tanner?",
+    "question": "En la serie Padres forzosos, ¿qué gemelas interpretan a Michelle Tanner?",
     "options": [
       "Las gemelas Mowry",
       "Mary-Kate y Ashley Olsen",
@@ -591,7 +591,7 @@
     "id": "s90-0043",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cómo se llama el tío de las niñas que vive con ellas?",
+    "question": "En la serie Padres forzosos, ¿cómo se llama el tío de las niñas que vive con ellas?",
     "options": [
       "Joey Gladstone",
       "Danny Tanner",
@@ -605,7 +605,7 @@
     "id": "s90-0044",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Qué frase repite Stephanie Tanner con frecuencia?",
+    "question": "En la serie Padres forzosos, ¿qué frase repite Stephanie Tanner con frecuencia?",
     "options": [
       "You got it, dude",
       "Did I do that?",
@@ -619,7 +619,7 @@
     "id": "s90-0045",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Cómo se llama la banda en la que toca Jesse?",
+    "question": "En la serie Padres forzosos, ¿cómo se llama la banda en la que toca Jesse?",
     "options": [
       "Jesse and the Rippers",
       "The Beach Boys",
@@ -633,7 +633,7 @@
     "id": "s90-0046",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama el vecino torpe y enamorado de Laura en Family Matters?",
+    "question": "¿Cómo se llama el vecino torpe y enamorado de Laura en Cosas de casa?",
     "options": [
       "Waldo Faldo",
       "Steve Urkel",
@@ -647,7 +647,7 @@
     "id": "s90-0047",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Qué frase dice Steve Urkel después de provocar un accidente?",
+    "question": "En la serie Cosas de casa, ¿qué frase dice Steve Urkel después de provocar un accidente?",
     "options": [
       "How rude!",
       "Cut it out!",
@@ -661,7 +661,7 @@
     "id": "s90-0048",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿En qué ciudad vive la familia Winslow?",
+    "question": "En la serie Cosas de casa, ¿en qué ciudad vive la familia Winslow?",
     "options": [
       "Detroit",
       "Cleveland",
@@ -675,7 +675,7 @@
     "id": "s90-0049",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cómo se llama el alter ego elegante y seductor de Steve Urkel?",
+    "question": "En la serie Cosas de casa, ¿cómo se llama el alter ego elegante y seductor de Steve Urkel?",
     "options": [
       "Stefan Urquelle",
       "Stefan Winslow",
@@ -689,7 +689,7 @@
     "id": "s90-0050",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cómo se llama el padre de la familia, que trabaja como policía?",
+    "question": "En la serie Cosas de casa, ¿cómo se llama el padre de los Winslow, que trabaja como policía?",
     "options": [
       "Eddie Winslow",
       "Carl Winslow",
@@ -703,7 +703,7 @@
     "id": "s90-0051",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Qué actor interpreta a Steve Urkel?",
+    "question": "En la serie Cosas de casa, ¿qué actor interpreta a Steve Urkel?",
     "options": [
       "Reginald VelJohnson",
       "Darius McCrary",
@@ -717,7 +717,7 @@
     "id": "s90-0052",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama el protagonista de Boy Meets World?",
+    "question": "¿Cómo se llama el protagonista de Yo y el mundo?",
     "options": [
       "Shawn Hunter",
       "Eric Matthews",
@@ -731,7 +731,7 @@
     "id": "s90-0053",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama el gran amor de Cory, con quien termina casándose?",
+    "question": "En la serie Yo y el mundo, ¿cómo se llama el gran amor de Cory, con quien termina casándose?",
     "options": [
       "Topanga Lawrence",
       "Angela Moore",
@@ -745,7 +745,7 @@
     "id": "s90-0054",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Quién es el profesor y vecino que aconseja a Cory?",
+    "question": "En la serie Yo y el mundo, ¿quién es el profesor y vecino que aconseja a Cory?",
     "options": [
       "Jonathan Turner",
       "George Feeny",
@@ -759,7 +759,7 @@
     "id": "s90-0055",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿En qué ciudad vive Cory Matthews?",
+    "question": "En la serie Yo y el mundo, ¿en qué ciudad vive Cory Matthews?",
     "options": [
       "Boston",
       "Chicago",
@@ -767,13 +767,13 @@
       "Nueva York"
     ],
     "correctIndex": 2,
-    "explanation": "Boy Meets World se desarrolla en Filadelfia, Pensilvania."
+    "explanation": "Yo y el mundo se desarrolla en Filadelfia, Pensilvania."
   },
   {
     "id": "s90-0056",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cómo se llama el mejor amigo de Cory?",
+    "question": "En la serie Yo y el mundo, ¿cómo se llama el mejor amigo de Cory?",
     "options": [
       "Eric Matthews",
       "Stuart Minkus",
@@ -787,7 +787,7 @@
     "id": "s90-0057",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Qué actor interpreta a George Feeny?",
+    "question": "En la serie Yo y el mundo, ¿qué actor interpreta a George Feeny?",
     "options": [
       "William Daniels",
       "Ben Savage",
@@ -795,15 +795,15 @@
       "William Russ"
     ],
     "correctIndex": 0,
-    "explanation": "William Daniels, recordado también por El auto fantástico, interpretó a Mr. Feeny."
+    "explanation": "William Daniels, recordado también por El auto fantástico, interpretó al Sr. Feeny."
   },
   {
     "id": "s90-0058",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama el programa de bricolaje que conduce Tim Taylor?",
+    "question": "En la serie Mejorando la casa, ¿cómo se llama el programa de bricolaje que conduce Tim Taylor?",
     "options": [
-      "Home Improvement",
+      "Mejorando la casa",
       "Tool Time",
       "Fix It Up",
       "Tool Talk"
@@ -815,7 +815,7 @@
     "id": "s90-0059",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama el vecino que conversa con Tim desde detrás de la cerca?",
+    "question": "En la serie Mejorando la casa, ¿cómo se llama el vecino que conversa con Tim desde detrás de la cerca?",
     "options": [
       "Al Borland",
       "Mark Taylor",
@@ -829,7 +829,7 @@
     "id": "s90-0060",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿En qué ciudad se desarrolla Home Improvement?",
+    "question": "¿En qué ciudad se desarrolla Mejorando la casa?",
     "options": [
       "Chicago",
       "Cleveland",
@@ -843,7 +843,7 @@
     "id": "s90-0061",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cómo se llama el compañero de Tim en Tool Time?",
+    "question": "En la serie Mejorando la casa, ¿cómo se llama el compañero de Tim en Tool Time?",
     "options": [
       "Al Borland",
       "Wilson",
@@ -857,7 +857,7 @@
     "id": "s90-0062",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Qué actor interpreta a Wilson?",
+    "question": "En la serie Mejorando la casa, ¿qué actor interpreta al vecino Wilson?",
     "options": [
       "Richard Karn",
       "Earl Hindman",
@@ -871,7 +871,7 @@
     "id": "s90-0063",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama el protagonista de Married... with Children?",
+    "question": "¿Cómo se llama el protagonista de Matrimonio con hijos?",
     "options": [
       "Bud Bundy",
       "Steve Rhoades",
@@ -885,7 +885,7 @@
     "id": "s90-0064",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cuál es el trabajo de Al Bundy?",
+    "question": "En la serie Matrimonio con hijos, ¿cuál es el trabajo de Al Bundy?",
     "options": [
       "Vendedor de autos",
       "Mecánico",
@@ -899,7 +899,7 @@
     "id": "s90-0065",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama la esposa de Al Bundy?",
+    "question": "En la serie Matrimonio con hijos, ¿cómo se llama la esposa de Al Bundy?",
     "options": [
       "Peggy",
       "Kelly",
@@ -913,7 +913,7 @@
     "id": "s90-0066",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cómo se llaman los dos hijos de Al y Peggy?",
+    "question": "En la serie Matrimonio con hijos, ¿cómo se llaman los dos hijos de Al y Peggy?",
     "options": [
       "Kelly y Steve",
       "Kelly y Bud",
@@ -927,7 +927,7 @@
     "id": "s90-0067",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cuántos touchdowns dice Al Bundy que anotó en un solo partido de preparatoria?",
+    "question": "En la serie Matrimonio con hijos, ¿cuántos touchdowns dice Al Bundy que anotó en un solo partido de preparatoria?",
     "options": [
       "Dos",
       "Tres",
@@ -941,7 +941,7 @@
     "id": "s90-0068",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Qué actor interpreta a Al Bundy?",
+    "question": "En la serie Matrimonio con hijos, ¿qué actor interpreta a Al Bundy?",
     "options": [
       "Ted McGinley",
       "David Faustino",
@@ -955,7 +955,7 @@
     "id": "s90-0069",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama la gata parlante que vive con Sabrina?",
+    "question": "En la serie Sabrina, cosas de brujas, ¿cómo se llama la gata parlante que vive con Sabrina?",
     "options": [
       "Salem",
       "Eddie",
@@ -969,7 +969,7 @@
     "id": "s90-0070",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Quiénes son las tías brujas con las que vive Sabrina?",
+    "question": "En la serie Sabrina, cosas de brujas, ¿quiénes son las tías brujas con las que vive Sabrina?",
     "options": [
       "Hilda y Mary",
       "Hilda y Zelda",
@@ -983,7 +983,7 @@
     "id": "s90-0071",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cómo se llama el interés amoroso de Sabrina en la serie?",
+    "question": "En la serie Sabrina, cosas de brujas, ¿cómo se llama el interés amoroso de Sabrina?",
     "options": [
       "Josh Blackhart",
       "Aaron Jacobs",
@@ -997,7 +997,7 @@
     "id": "s90-0072",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿En qué editorial de cómics se basa el personaje de Sabrina?",
+    "question": "En la serie Sabrina, cosas de brujas, ¿en qué editorial de cómics se basa el personaje de Sabrina?",
     "options": [
       "DC Comics",
       "Marvel Comics",
@@ -1011,7 +1011,7 @@
     "id": "s90-0073",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Qué actriz protagoniza The Nanny?",
+    "question": "¿Qué actriz protagoniza La niñera?",
     "options": [
       "Fran Drescher",
       "Roseanne Barr",
@@ -1019,13 +1019,13 @@
       "Leah Remini"
     ],
     "correctIndex": 0,
-    "explanation": "Fran Drescher creó y protagonizó The Nanny como Fran Fine."
+    "explanation": "Fran Drescher creó y protagonizó La niñera como Fran Fine."
   },
   {
     "id": "s90-0074",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama el personaje que interpreta Fran Drescher?",
+    "question": "En la serie La niñera, ¿cómo se llama el personaje que interpreta Fran Drescher?",
     "options": [
       "Fran Sheffield",
       "Fran Fine",
@@ -1039,7 +1039,7 @@
     "id": "s90-0075",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿A qué familia llega Fran para trabajar como niñera?",
+    "question": "En la serie La niñera, ¿a qué familia llega Fran para trabajar como niñera?",
     "options": [
       "Los Fine",
       "Los Maxwell",
@@ -1053,7 +1053,7 @@
     "id": "s90-0076",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cuál es la profesión de Maxwell Sheffield?",
+    "question": "En la serie La niñera, ¿cuál es la profesión de Maxwell Sheffield?",
     "options": [
       "Abogado",
       "Médico",
@@ -1067,7 +1067,7 @@
     "id": "s90-0077",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cómo se llama el mayordomo de los Sheffield?",
+    "question": "En la serie La niñera, ¿cómo se llama el mayordomo de los Sheffield?",
     "options": [
       "Niles",
       "Brighton",
@@ -1235,7 +1235,7 @@
     "id": "s90-0089",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Qué son en realidad los miembros de la familia Solomon en 3rd Rock from the Sun?",
+    "question": "¿Qué son en realidad los miembros de la familia Solomon en Cosas de marcianos?",
     "options": [
       "Extraterrestres",
       "Fantasmas",
@@ -1249,7 +1249,7 @@
     "id": "s90-0090",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Qué actor interpreta a Dick Solomon?",
+    "question": "En la serie Cosas de marcianos, ¿qué actor interpreta a Dick Solomon?",
     "options": [
       "French Stewart",
       "John Lithgow",
@@ -1263,7 +1263,7 @@
     "id": "s90-0091",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cuál de los alienígenas es el comandante de la misión?",
+    "question": "En la serie Cosas de marcianos, ¿cuál de los alienígenas es el comandante de la misión?",
     "options": [
       "Harry",
       "Tommy",
@@ -1277,7 +1277,7 @@
     "id": "s90-0092",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Cómo se llama la profesora universitaria que es el interés romántico de Dick?",
+    "question": "En la serie Cosas de marcianos, ¿cómo se llama la profesora universitaria que es el interés romántico de Dick?",
     "options": [
       "Sally Solomon",
       "Nina Campbell",
@@ -1291,7 +1291,7 @@
     "id": "s90-0093",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿En qué tienda departamental trabaja Drew Carey?",
+    "question": "En la serie El show de Drew Carey, ¿en qué tienda departamental trabaja Drew Carey?",
     "options": [
       "Winfred-Louder",
       "Dunder Mifflin",
@@ -1305,7 +1305,7 @@
     "id": "s90-0094",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿En qué ciudad se desarrolla The Drew Carey Show?",
+    "question": "¿En qué ciudad se desarrolla El show de Drew Carey?",
     "options": [
       "Chicago",
       "Cleveland",
@@ -1319,7 +1319,7 @@
     "id": "s90-0095",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cómo se llama la compañera de trabajo que es la enemiga de Drew?",
+    "question": "En la serie El show de Drew Carey, ¿cómo se llama la compañera de trabajo que es la enemiga de Drew?",
     "options": [
       "Kate O'Brien",
       "Lisa Robbins",
@@ -1333,7 +1333,7 @@
     "id": "s90-0096",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿En qué estado viven Frank, Carol y sus hijos?",
+    "question": "En la serie Paso a paso, ¿en qué estado viven Frank, Carol y sus hijos?",
     "options": [
       "Ohio",
       "Míchigan",
@@ -1341,13 +1341,13 @@
       "Wisconsin"
     ],
     "correctIndex": 3,
-    "explanation": "La familia reconstituida de Step by Step vive en Wisconsin."
+    "explanation": "La familia reconstituida de Paso a paso vive en Wisconsin."
   },
   {
     "id": "s90-0097",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Qué actores interpretan a Frank Lambert y Carol Foster?",
+    "question": "En la serie Paso a paso, ¿qué actores interpretan a Frank Lambert y Carol Foster?",
     "options": [
       "Patrick Duffy y Suzanne Somers",
       "Tim Allen y Patricia Richardson",
@@ -1361,7 +1361,7 @@
     "id": "s90-0098",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Qué actriz interpreta a Al Lambert, la hija menor de Frank?",
+    "question": "En la serie Paso a paso, ¿qué actriz interpreta a Al Lambert, la hija menor de Frank?",
     "options": [
       "Sasha Mitchell",
       "Christine Lakin",
@@ -1375,7 +1375,7 @@
     "id": "s90-0099",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama la escuela secundaria a la que asisten Zack y sus amigos?",
+    "question": "En la serie Salvados por la campana, ¿cómo se llama la escuela secundaria a la que asisten Zack y sus amigos?",
     "options": [
       "Valley High",
       "West Beverly High",
@@ -1389,21 +1389,21 @@
     "id": "s90-0100",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama el director de Bayside High?",
+    "question": "En la serie Salvados por la campana, ¿cómo se llama el director de Bayside High?",
     "options": [
-      "Mr. Feeny",
-      "Mr. Turner",
-      "Principal Skinner",
-      "Mr. Belding"
+      "Sr. Feeny",
+      "Sr. Turner",
+      "Director Skinner",
+      "Sr. Belding"
     ],
     "correctIndex": 3,
-    "explanation": "Mr. Belding es el director de la escuela y blanco frecuente de las bromas de Zack."
+    "explanation": "Sr. Belding es el director de la escuela y blanco frecuente de las bromas de Zack."
   },
   {
     "id": "s90-0101",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama el amigo nerd de Zack?",
+    "question": "En la serie Salvados por la campana, ¿cómo se llama el amigo nerd de Zack?",
     "options": [
       "Screech",
       "A.C. Slater",
@@ -1417,7 +1417,7 @@
     "id": "s90-0102",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Qué actor interpreta a Zack Morris?",
+    "question": "En la serie Salvados por la campana, ¿qué actor interpreta a Zack Morris?",
     "options": [
       "Mario López",
       "Mark-Paul Gosselaar",
@@ -1431,7 +1431,7 @@
     "id": "s90-0103",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cómo se llama la porrista que es el gran amor de Zack?",
+    "question": "En la serie Salvados por la campana, ¿cómo se llama la porrista que es el gran amor de Zack?",
     "options": [
       "Lisa Turtle",
       "Jessie Spano",
@@ -1445,7 +1445,7 @@
     "id": "s90-0104",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Qué actriz interpreta a Kelly Kapowski?",
+    "question": "En la serie Salvados por la campana, ¿qué actriz interpreta a Kelly Kapowski?",
     "options": [
       "Lark Voorhies",
       "Elizabeth Berkley",
@@ -1453,13 +1453,13 @@
       "Tiffani Thiessen"
     ],
     "correctIndex": 3,
-    "explanation": "Tiffani Thiessen interpretó a Kelly Kapowski en Saved by the Bell."
+    "explanation": "Tiffani Thiessen interpretó a Kelly Kapowski en Salvados por la campana."
   },
   {
     "id": "s90-0105",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Qué canción canta Jessie en el episodio en que abusa de las pastillas de cafeína?",
+    "question": "En la serie Salvados por la campana, ¿qué canción canta Jessie en el episodio en que abusa de las pastillas de cafeína?",
     "options": [
       "I'm So Excited",
       "Girls Just Want to Have Fun",
@@ -1529,7 +1529,7 @@
     "id": "s90-0110",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llaman los gemelos que se mudan a Beverly Hills al inicio de la serie?",
+    "question": "En la serie Sensación de vivir, ¿cómo se llaman los gemelos que se mudan desde Minnesota al inicio de la serie?",
     "options": [
       "Dylan y Kelly",
       "Brandon y Brenda Walsh",
@@ -1543,7 +1543,7 @@
     "id": "s90-0111",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿En qué cadena se emitió originalmente Beverly Hills, 90210?",
+    "question": "¿En qué cadena se emitió originalmente Sensación de vivir?",
     "options": [
       "NBC",
       "ABC",
@@ -1551,13 +1551,13 @@
       "CBS"
     ],
     "correctIndex": 2,
-    "explanation": "Beverly Hills, 90210 fue una de las series juveniles emblemáticas de FOX."
+    "explanation": "Sensación de vivir fue una de las series juveniles emblemáticas de FOX."
   },
   {
     "id": "s90-0112",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama el instituto al que asisten los protagonistas?",
+    "question": "En la serie Sensación de vivir, ¿cómo se llama el instituto al que asisten los protagonistas?",
     "options": [
       "Bayside High",
       "Liberty High",
@@ -1585,7 +1585,7 @@
     "id": "s90-0114",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Qué actor interpreta a Dylan McKay?",
+    "question": "En la serie Sensación de vivir, ¿qué actor interpreta a Dylan McKay?",
     "options": [
       "Jason Priestley",
       "Luke Perry",
@@ -1599,7 +1599,7 @@
     "id": "s90-0115",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Qué actriz interpreta a Kelly Taylor?",
+    "question": "En la serie Sensación de vivir, ¿qué actriz interpreta a Kelly Taylor?",
     "options": [
       "Shannen Doherty",
       "Tori Spelling",
@@ -1616,12 +1616,12 @@
     "question": "¿De qué serie es spin-off Melrose Place?",
     "options": [
       "Knots Landing",
-      "Dynasty",
+      "Dinastía",
       "Dawson's Creek",
-      "Beverly Hills, 90210"
+      "Sensación de vivir"
     ],
     "correctIndex": 3,
-    "explanation": "Melrose Place nació como un spin-off de Beverly Hills, 90210."
+    "explanation": "Melrose Place nació como un spin-off de Sensación de vivir."
   },
   {
     "id": "s90-0117",
@@ -1725,7 +1725,7 @@
     "id": "s90-0124",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama el hermano mayor que asume la tutela de los Salinger?",
+    "question": "En la serie Cinco en familia, ¿cómo se llama el hermano mayor que asume la tutela de los Salinger?",
     "options": [
       "Bailey",
       "Owen",
@@ -1739,7 +1739,7 @@
     "id": "s90-0125",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Qué les ocurre a los padres de los Salinger al inicio de la serie?",
+    "question": "En la serie Cinco en familia, ¿qué les ocurre a los padres de los Salinger al inicio de la serie?",
     "options": [
       "Mueren en un accidente de tráfico",
       "Se mudan a Europa",
@@ -1753,7 +1753,7 @@
     "id": "s90-0126",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Qué actor interpreta a Bailey Salinger?",
+    "question": "En la serie Cinco en familia, ¿qué actor interpreta a Bailey Salinger?",
     "options": [
       "Matthew Fox",
       "Scott Wolf",
@@ -1767,7 +1767,7 @@
     "id": "s90-0127",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama la protagonista de My So-Called Life?",
+    "question": "¿Cómo se llama la protagonista de Es mi vida?",
     "options": [
       "Rayanne Graff",
       "Jordan Catalano",
@@ -1781,7 +1781,7 @@
     "id": "s90-0128",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cómo se llama el chico rebelde del que Angela está enamorada?",
+    "question": "En la serie Es mi vida, ¿cómo se llama el chico rebelde del que Angela está enamorada?",
     "options": [
       "Brian Krakow",
       "Rickie Vasquez",
@@ -1795,7 +1795,7 @@
     "id": "s90-0129",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Cuántas temporadas tuvo My So-Called Life?",
+    "question": "¿Cuántas temporadas tuvo Es mi vida?",
     "options": [
       "Una",
       "Dos",
@@ -1809,7 +1809,7 @@
     "id": "s90-0130",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿En qué ciudad se ubica el hospital County General de ER?",
+    "question": "¿En qué ciudad se ubica el hospital County General de Urgencias?",
     "options": [
       "Nueva York",
       "Chicago",
@@ -1817,13 +1817,13 @@
       "Boston"
     ],
     "correctIndex": 1,
-    "explanation": "ER se desarrolla en el ficticio County General de Chicago."
+    "explanation": "Urgencias se desarrolla en el ficticio County General de Chicago."
   },
   {
     "id": "s90-0131",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Qué actor interpreta al Dr. Doug Ross?",
+    "question": "En la serie Urgencias, ¿qué actor interpreta al Dr. Doug Ross?",
     "options": [
       "Anthony Edwards",
       "Noah Wyle",
@@ -1837,7 +1837,7 @@
     "id": "s90-0132",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Qué actor interpreta al Dr. Mark Greene?",
+    "question": "En la serie Urgencias, ¿qué actor interpreta al Dr. Mark Greene?",
     "options": [
       "George Clooney",
       "Noah Wyle",
@@ -1845,13 +1845,13 @@
       "Anthony Edwards"
     ],
     "correctIndex": 3,
-    "explanation": "Anthony Edwards fue el Dr. Mark Greene, uno de los médicos centrales de ER."
+    "explanation": "Anthony Edwards fue el Dr. Mark Greene, uno de los médicos centrales de Urgencias."
   },
   {
     "id": "s90-0133",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cómo se llama la enfermera que tiene una relación con Doug Ross?",
+    "question": "En la serie Urgencias, ¿cómo se llama la enfermera que tiene una relación con Doug Ross?",
     "options": [
       "Carol Hathaway",
       "Susan Lewis",
@@ -1865,7 +1865,7 @@
     "id": "s90-0134",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Qué actriz interpreta a la Dra. Kerry Weaver?",
+    "question": "En la serie Urgencias, ¿qué actriz interpreta a la Dra. Kerry Weaver?",
     "options": [
       "Sherry Stringfield",
       "Laura Innes",
@@ -1921,7 +1921,7 @@
     "id": "s90-0138",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Qué actor interpreta a Andy Sipowicz?",
+    "question": "En la serie Policías de Nueva York, ¿qué actor interpreta a Andy Sipowicz?",
     "options": [
       "David Caruso",
       "Dennis Franz",
@@ -1935,7 +1935,7 @@
     "id": "s90-0139",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿En qué ciudad se desarrolla NYPD Blue?",
+    "question": "¿En qué ciudad se desarrolla Policías de Nueva York?",
     "options": [
       "Chicago",
       "Los Ángeles",
@@ -1949,7 +1949,7 @@
     "id": "s90-0140",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Qué actor interpretó a John Kelly en la primera temporada?",
+    "question": "En la serie Policías de Nueva York, ¿qué actor interpretó a John Kelly en la primera temporada?",
     "options": [
       "Jimmy Smits",
       "Dennis Franz",
@@ -1963,7 +1963,7 @@
     "id": "s90-0141",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Qué actor interpreta al detective Greg Medavoy?",
+    "question": "En la serie Policías de Nueva York, ¿qué actor interpreta al detective Greg Medavoy?",
     "options": [
       "Gordon Clapp",
       "Nicholas Turturro",
@@ -1977,7 +1977,7 @@
     "id": "s90-0142",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Qué actor interpreta al detective Lennie Briscoe?",
+    "question": "En la serie Ley y orden, ¿qué actor interpreta al detective Lennie Briscoe?",
     "options": [
       "Sam Waterston",
       "Jerry Orbach",
@@ -1991,7 +1991,7 @@
     "id": "s90-0143",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Qué actor interpreta al fiscal Jack McCoy?",
+    "question": "En la serie Ley y orden, ¿qué actor interpreta al fiscal Jack McCoy?",
     "options": [
       "Michael Moriarty",
       "Steven Hill",
@@ -2005,7 +2005,7 @@
     "id": "s90-0144",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cómo se llama el fiscal de distrito interpretado por Steven Hill?",
+    "question": "En la serie Ley y orden, ¿cómo se llama el fiscal de distrito interpretado por Steven Hill?",
     "options": [
       "Jack McCoy",
       "Ben Stone",
@@ -2019,7 +2019,7 @@
     "id": "s90-0145",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Quién creó la franquicia Law & Order?",
+    "question": "¿Quién creó la franquicia Ley y orden?",
     "options": [
       "Dick Wolf",
       "David E. Kelley",
@@ -2027,13 +2027,13 @@
       "Tom Fontana"
     ],
     "correctIndex": 0,
-    "explanation": "Dick Wolf creó Law & Order y sus numerosas series derivadas."
+    "explanation": "Dick Wolf creó Ley y orden y sus numerosas series derivadas."
   },
   {
     "id": "s90-0146",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿En qué ciudad se desarrolla Homicide: Life on the Street?",
+    "question": "¿En qué ciudad se desarrolla Homicidio: vida en la calle?",
     "options": [
       "Nueva York",
       "Baltimore",
@@ -2047,7 +2047,7 @@
     "id": "s90-0147",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Qué actor interpreta al detective Frank Pembleton?",
+    "question": "En la serie Homicidio: vida en la calle, ¿qué actor interpreta al detective Frank Pembleton?",
     "options": [
       "Kyle Secor",
       "Richard Belzer",
@@ -2061,7 +2061,7 @@
     "id": "s90-0148",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Qué actor interpreta al detective John Munch?",
+    "question": "En la serie Homicidio: vida en la calle, ¿qué actor interpreta al detective John Munch?",
     "options": [
       "Andre Braugher",
       "Kyle Secor",
@@ -2075,7 +2075,7 @@
     "id": "s90-0149",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿En qué libro de David Simon se basa la serie?",
+    "question": "¿En qué libro de David Simon se basa la serie Homicidio: vida en la calle?",
     "options": [
       "Homicide: A Year on the Killing Streets",
       "The Wire",
@@ -2089,7 +2089,7 @@
     "id": "s90-0150",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿En qué ciudad se ubica el bufete de The Practice?",
+    "question": "¿En qué ciudad se ubica el bufete de la serie El abogado?",
     "options": [
       "Nueva York",
       "Boston",
@@ -2097,13 +2097,13 @@
       "Los Ángeles"
     ],
     "correctIndex": 1,
-    "explanation": "The Practice sigue a un bufete de abogados de Boston."
+    "explanation": "La serie El abogado sigue a un bufete de abogados de Boston."
   },
   {
     "id": "s90-0151",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Qué actor interpreta a Bobby Donnell?",
+    "question": "En la serie El abogado, ¿qué actor interpreta a Bobby Donnell?",
     "options": [
       "Steve Harris",
       "Michael Badalucco",
@@ -2117,7 +2117,7 @@
     "id": "s90-0152",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Cómo se llama la abogada interpretada por Camryn Manheim?",
+    "question": "En la serie El abogado, ¿cómo se llama la abogada interpretada por Camryn Manheim?",
     "options": [
       "Lindsay Dole",
       "Rebecca Washington",
@@ -2187,7 +2187,7 @@
     "id": "s90-0157",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Cómo se llama el protagonista de The Sopranos?",
+    "question": "¿Cómo se llama el protagonista de Los Soprano?",
     "options": [
       "Tony Soprano",
       "Christopher Moltisanti",
@@ -2201,7 +2201,7 @@
     "id": "s90-0158",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿En qué cadena se emitió The Sopranos?",
+    "question": "¿En qué cadena se emitió Los Soprano?",
     "options": [
       "Showtime",
       "HBO",
@@ -2209,7 +2209,7 @@
       "AMC"
     ],
     "correctIndex": 1,
-    "explanation": "The Sopranos fue una de las series dramáticas más influyentes de HBO."
+    "explanation": "Los Soprano fue una de las series dramáticas más influyentes de HBO."
   },
   {
     "id": "s90-0159",
@@ -2229,7 +2229,7 @@
     "id": "s90-0160",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Qué actor interpreta a Christopher Moltisanti?",
+    "question": "En la serie Los Soprano, ¿qué actor interpreta a Christopher Moltisanti?",
     "options": [
       "Tony Sirico",
       "Steven Van Zandt",
@@ -2257,7 +2257,7 @@
     "id": "s90-0162",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿Qué actriz interpreta a Carrie Bradshaw?",
+    "question": "En la serie Sexo en Nueva York, ¿qué actriz interpreta a Carrie Bradshaw?",
     "options": [
       "Kim Cattrall",
       "Sarah Jessica Parker",
@@ -2271,7 +2271,7 @@
     "id": "s90-0163",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿En qué ciudad viven las protagonistas de Sex and the City?",
+    "question": "¿En qué ciudad viven las protagonistas de Sexo en Nueva York?",
     "options": [
       "Los Ángeles",
       "Chicago",
@@ -2285,7 +2285,7 @@
     "id": "s90-0164",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Qué actor interpreta a Mr. Big?",
+    "question": "En la serie Sexo en Nueva York, ¿qué actor interpreta al Sr. Big?",
     "options": [
       "David Eigenberg",
       "John Corbett",
@@ -2293,13 +2293,13 @@
       "Chris Noth"
     ],
     "correctIndex": 3,
-    "explanation": "Chris Noth interpretó a Mr. Big, el gran amor de Carrie."
+    "explanation": "Chris Noth interpretó al Sr. Big, el gran amor de Carrie."
   },
   {
     "id": "s90-0165",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Qué actor interpreta a Steve Brady?",
+    "question": "En la serie Sexo en Nueva York, ¿qué actor interpreta a Steve Brady?",
     "options": [
       "David Eigenberg",
       "Chris Noth",
@@ -2355,7 +2355,7 @@
     "id": "s90-0169",
     "category": "series_90s",
     "difficulty": "easy",
-    "question": "¿A qué estado de EE. UU. se muda el doctor Joel Fleischman?",
+    "question": "¿A qué estado de EE. UU. se muda el doctor Joel Fleischman, protagonista de Doctor en Alaska?",
     "options": [
       "Alaska",
       "Montana",
@@ -2369,7 +2369,7 @@
     "id": "s90-0170",
     "category": "series_90s",
     "difficulty": "medium",
-    "question": "¿Cómo se llama el pueblo ficticio de Northern Exposure?",
+    "question": "¿Cómo se llama el pueblo ficticio de Doctor en Alaska?",
     "options": [
       "Capeside",
       "Cicely",
@@ -2377,13 +2377,13 @@
       "Mayberry"
     ],
     "correctIndex": 1,
-    "explanation": "Cicely, Alaska, es el pueblo donde transcurre Northern Exposure."
+    "explanation": "Cicely, Alaska, es el pueblo donde transcurre Doctor en Alaska."
   },
   {
     "id": "s90-0171",
     "category": "series_90s",
     "difficulty": "hard",
-    "question": "¿Qué actor interpreta a Joel Fleischman?",
+    "question": "En la serie Doctor en Alaska, ¿qué actor interpreta a Joel Fleischman?",
     "options": [
       "John Corbett",
       "Barry Corbin",

@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "cg-6001",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántos huesos tiene normalmente una mano humana, contando carpo, metacarpo y falanges?",
+    "options": [
+      "27",
+      "23",
+      "25",
+      "31"
+    ],
+    "correctIndex": 0,
+    "explanation": "La mano suma 27 huesos: 8 del carpo, 5 del metacarpo y 14 falanges."
+  },
+  {
+    "id": "cg-6002",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántos huesos tiene normalmente cada pie humano?",
+    "options": [
+      "22",
+      "24",
+      "30",
+      "26"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cada pie tiene 26 huesos: 7 del tarso, 5 del metatarso y 14 falanges."
+  },
+  {
+    "id": "cg-6003",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué hueso forma la frente del cráneo?",
+    "options": [
+      "hueso frontal",
+      "hueso parietal",
+      "hueso occipital",
+      "hueso temporal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hueso frontal forma la parte anterior del cráneo."
+  },
+  {
+    "id": "cg-6004",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántas vértebras hay en la columna humana antes de que se fusionen las sacras y las coccígeas?",
+    "options": [
+      "26",
+      "33",
+      "29",
+      "36"
+    ],
+    "correctIndex": 1,
+    "explanation": "Son 7 cervicales, 12 dorsales, 5 lumbares, 5 sacras y 4 coccígeas."
+  },
+  {
+    "id": "cg-6005",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué hueso une el esternón con la escápula en la parte superior del tórax?",
+    "options": [
+      "húmero",
+      "vértebra",
+      "clavícula",
+      "costilla"
+    ],
+    "correctIndex": 2,
+    "explanation": "La clavícula actúa como puntal entre el esternón y la escápula."
+  },
+  {
+    "id": "cg-6006",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Con qué dos huesos se articula el fémur en la pierna?",
+    "options": [
+      "peroné y rótula",
+      "tibia y rótula",
+      "tibia y peroné",
+      "ilion y pubis"
+    ],
+    "correctIndex": 1,
+    "explanation": "El fémur se une a la tibia y a la rótula en la rodilla."
+  },
+  {
+    "id": "cg-6007",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué hueso de la pierna se conoce como caña o espinilla?",
+    "options": [
+      "peroné",
+      "tibia",
+      "fémur",
+      "calcáneo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La tibia es el hueso anterior y grueso de la pierna."
+  },
+  {
+    "id": "cg-6008",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué hueso plano protege la parte delantera de la rodilla?",
+    "options": [
+      "menisco",
+      "rótula",
+      "tibia",
+      "peroné"
+    ],
+    "correctIndex": 1,
+    "explanation": "La rótula es un hueso sesamoideo situado delante de la articulación."
+  },
+  {
+    "id": "cg-6009",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué líquido lubricante contiene una articulación sinovial?",
+    "options": [
+      "líquido cefalorraquídeo",
+      "linfa",
+      "líquido sinovial",
+      "plasma"
+    ],
+    "correctIndex": 2,
+    "explanation": "El líquido sinovial reduce la fricción entre los cartílagos."
+  },
+  {
+    "id": "cg-6010",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué células del hueso depositan nueva matriz ósea?",
+    "options": [
+      "osteoclastos",
+      "osteoblastos",
+      "osteocitos",
+      "condrocitos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los osteoblastos producen colágeno y minerales que endurecen el hueso."
+  },
+  {
+    "id": "cg-6011",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué células disuelven el hueso durante su remodelación?",
+    "options": [
+      "osteoclastos",
+      "osteoblastos",
+      "osteocitos",
+      "fibroblastos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los osteoclastos reabsorben tejido óseo y permiten renovarlo."
+  },
+  {
+    "id": "cg-6012",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe la capa externa y dura del hueso?",
+    "options": [
+      "hueso compacto",
+      "hueso esponjoso",
+      "médula ósea",
+      "cartílago"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hueso compacto forma la superficie resistente de los huesos."
+  },
+  {
+    "id": "cg-6013",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué tejido flexible recubre los extremos de los huesos en las articulaciones?",
+    "options": [
+      "esmalte",
+      "queratina",
+      "cartílago",
+      "fascia"
+    ],
+    "correctIndex": 2,
+    "explanation": "El cartílago articular amortigua y reduce el roce."
+  },
+  {
+    "id": "cg-6014",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántos músculos esqueléticos se suelen contar en el cuerpo humano?",
+    "options": [
+      "unos 200",
+      "unos 400",
+      "unos 900",
+      "unos 600"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las cifras varían, pero se habla de alrededor de 600 músculos esqueléticos."
+  },
+  {
+    "id": "cg-6015",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué músculo forma el contorno redondeado del hombro y separa el brazo del tronco?",
+    "options": [
+      "bíceps",
+      "deltoides",
+      "tríceps",
+      "trapecio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El deltoides cubre la articulación del hombro."
+  },
+  {
+    "id": "cg-6016",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué músculo de la parte anterior del brazo flexiona el codo?",
+    "options": [
+      "tríceps braquial",
+      "deltoides",
+      "braquiorradial",
+      "bíceps braquial"
+    ],
+    "correctIndex": 3,
+    "explanation": "El bíceps braquial acerca el antebrazo al brazo."
+  },
+  {
+    "id": "cg-6017",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué músculo de la pantorrilla forma el relieve posterior de la pierna?",
+    "options": [
+      "sóleo",
+      "tibial anterior",
+      "gastrocnemio",
+      "cuádriceps"
+    ],
+    "correctIndex": 2,
+    "explanation": "El gastrocnemio, junto con el sóleo, forma el tríceps sural."
+  },
+  {
+    "id": "cg-6018",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué músculo plano recorre la pared anterior del abdomen?",
+    "options": [
+      "recto abdominal",
+      "dorsal ancho",
+      "oblicuo externo",
+      "transverso del abdomen"
+    ],
+    "correctIndex": 0,
+    "explanation": "El recto abdominal se extiende entre el pubis y el esternón."
+  },
+  {
+    "id": "cg-6019",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de músculo se contrae de forma voluntaria?",
+    "options": [
+      "esquelético",
+      "cardíaco",
+      "liso",
+      "visceral"
+    ],
+    "correctIndex": 0,
+    "explanation": "El músculo esquelético está unido a los huesos y se controla a voluntad."
+  },
+  {
+    "id": "cg-6020",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué tendón une los músculos de la pantorrilla con el hueso del talón?",
+    "options": [
+      "tendón rotuliano",
+      "ligamento cruzado",
+      "fascia lata",
+      "tendón de Aquiles"
+    ],
+    "correctIndex": 3,
+    "explanation": "El tendón de Aquiles se inserta en el calcáneo."
+  },
+  {
+    "id": "cg-6021",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué membrana de tejido conectivo envuelve y separa los músculos?",
+    "options": [
+      "pleura",
+      "fascia",
+      "peritoneo",
+      "periostio"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fascia organiza y da continuidad a los músculos."
+  },
+  {
+    "id": "cg-6022",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué músculo de la mandíbula es uno de los principales responsables de la masticación?",
+    "options": [
+      "orbicular de los ojos",
+      "masetero",
+      "esternocleidomastoideo",
+      "risorio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El masetero eleva la mandíbula al masticar."
+  },
+  {
+    "id": "cg-6023",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué músculo largo del muslo permite cruzar una pierna sobre la otra?",
+    "options": [
+      "grácil",
+      "sartorio",
+      "recto femoral",
+      "aductor mayor"
+    ],
+    "correctIndex": 1,
+    "explanation": "El sartorio es el músculo más largo del cuerpo humano."
+  },
+  {
+    "id": "cg-6024",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué pequeño músculo del oído medio amortigua las vibraciones de sonidos intensos?",
+    "options": [
+      "estapedio",
+      "tensor del tímpano",
+      "orbicular del oído",
+      "digástrico"
+    ],
+    "correctIndex": 0,
+    "explanation": "El estapedio se une al estribo y reduce su movimiento."
+  },
+  {
+    "id": "cg-6025",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué huesecillo del oído medio se encuentra entre el martillo y el estribo?",
+    "options": [
+      "estribo",
+      "yunque",
+      "martillo",
+      "cóclea"
+    ],
+    "correctIndex": 1,
+    "explanation": "La cadena se ordena martillo, yunque y estribo."
+  },
+  {
+    "id": "cg-6026",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántos huesecillos tiene cada oído medio?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "correctIndex": 2,
+    "explanation": "Son el martillo, el yunque y el estribo."
+  },
+  {
+    "id": "cg-6027",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué tres huesos se fusionan para formar el hueso coxal de la cadera?",
+    "options": [
+      "sacro, coxis e ilion",
+      "fémur, isquion y pubis",
+      "ilion, sacro y pubis",
+      "ilion, isquion y pubis"
+    ],
+    "correctIndex": 3,
+    "explanation": "En la edad adulta forman una pieza única."
+  },
+  {
+    "id": "cg-6028",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué hueso del pie forma el talón?",
+    "options": [
+      "astrágalo",
+      "escafoides",
+      "metatarsiano",
+      "calcáneo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El calcáneo es el hueso grande que forma el talón."
+  },
+  {
+    "id": "cg-6029",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántas falanges tiene cada dedo de la mano, excepto el pulgar?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los cuatro dedos largos tienen tres falanges."
+  },
+  {
+    "id": "cg-6030",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántas falanges tiene el pulgar?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pulgar tiene falange proximal y distal."
+  },
+  {
+    "id": "cg-6031",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué hueso móvil forma la mandíbula inferior?",
+    "options": [
+      "maxilar superior",
+      "hioides",
+      "mandíbula",
+      "cigomático"
+    ],
+    "correctIndex": 2,
+    "explanation": "La mandíbula es el único hueso móvil de la cabeza."
+  },
+  {
+    "id": "cg-6032",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué hueso plano y alargado se encuentra en el centro del tórax?",
+    "options": [
+      "clavícula",
+      "escápula",
+      "esternón",
+      "costilla"
+    ],
+    "correctIndex": 2,
+    "explanation": "El esternón se une a las clavículas y a los cartílagos costales."
+  },
+  {
+    "id": "cg-6033",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántos dientes permanentes tiene un adulto con las cuatro muelas del juicio?",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctIndex": 2,
+    "explanation": "Son 8 incisivos, 4 caninos, 8 premolares y 12 molares."
+  },
+  {
+    "id": "cg-6034",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué tejido duro y mineralizado recubre la corona del diente?",
+    "options": [
+      "dentina",
+      "cemento",
+      "esmalte",
+      "pulpa"
+    ],
+    "correctIndex": 2,
+    "explanation": "El esmalte es la capa externa visible del diente."
+  },
+  {
+    "id": "cg-6035",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué tejido del diente se encuentra bajo el esmalte y rodea la pulpa?",
+    "options": [
+      "dentina",
+      "cemento",
+      "esmalte",
+      "hueso alveolar"
+    ],
+    "correctIndex": 0,
+    "explanation": "La dentina forma la mayor parte de la pieza dental."
+  },
+  {
+    "id": "cg-6036",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué estructura fibrosa une la raíz del diente con el hueso alveolar?",
+    "options": [
+      "ligamento cruzado",
+      "membrana sinovial",
+      "ligamento periodontal",
+      "periostio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El ligamento periodontal amortigua la presión de la mordida."
+  },
+  {
+    "id": "cg-6037",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué glándula salival, situada delante de la oreja, es la de mayor tamaño?",
+    "options": [
+      "parótida",
+      "submandibular",
+      "sublingual",
+      "tiroides"
+    ],
+    "correctIndex": 0,
+    "explanation": "La parótida produce saliva rica en enzimas."
+  },
+  {
+    "id": "cg-6038",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué glándula salival se encuentra bajo la lengua?",
+    "options": [
+      "glándula parótida",
+      "glándula submandibular",
+      "tiroides",
+      "glándula sublingual"
+    ],
+    "correctIndex": 3,
+    "explanation": "La sublingual es la más pequeña de las glándulas salivales principales."
+  },
+  {
+    "id": "cg-6039",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué bacteria participa de forma característica en la caries dental al fermentar azúcares?",
+    "options": [
+      "Escherichia coli",
+      "Helicobacter pylori",
+      "Lactobacillus bulgaricus",
+      "Streptococcus mutans"
+    ],
+    "correctIndex": 3,
+    "explanation": "La bacteria forma ácidos que desmineralizan el esmalte."
+  },
+  {
+    "id": "cg-6040",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la parte del diente que se ve por encima de la encía?",
+    "options": [
+      "corona",
+      "raíz",
+      "cuello",
+      "pulpa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La corona está cubierta por esmalte."
+  },
+  {
+    "id": "cg-6041",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué hueso del cráneo aloja la hipófisis en una depresión llamada silla turca?",
+    "options": [
+      "etmoides",
+      "esfenoides",
+      "occipital",
+      "temporal"
+    ],
+    "correctIndex": 1,
+    "explanation": "La silla turca se encuentra en el cuerpo del esfenoides."
+  },
+  {
+    "id": "cg-6042",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Aproximadamente cuántos huesos tiene un recién nacido?",
+    "options": [
+      "206",
+      "300",
+      "250",
+      "350"
+    ],
+    "correctIndex": 1,
+    "explanation": "Muchos se fusionan durante el crecimiento hasta dejar unos 206."
+  },
+  {
+    "id": "cg-6043",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué membrana fibrosa recubre la superficie externa del hueso?",
+    "options": [
+      "periostio",
+      "endostio",
+      "peritoneo",
+      "pleura"
+    ],
+    "correctIndex": 0,
+    "explanation": "El periostio contiene vasos y células que participan en el crecimiento."
+  },
+  {
+    "id": "cg-6044",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué nombre reciben los espacios membranosos entre los huesos del cráneo de un bebé?",
+    "options": [
+      "suturas",
+      "meninges",
+      "fontanelas",
+      "vértebras"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las fontanelas permiten el crecimiento del cráneo y se cierran con el tiempo."
+  },
+  {
+    "id": "cg-6045",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿En qué órgano se transforma el amoníaco tóxico en urea?",
+    "options": [
+      "hígado",
+      "riñón",
+      "bazo",
+      "páncreas"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hígado convierte el amoníaco en urea, que después eliminan los riñones."
+  },
+  {
+    "id": "cg-6046",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué parte del intestino grueso tiene forma de bolsa y recibe el contenido del intestino delgado?",
+    "options": [
+      "ciego",
+      "colon transverso",
+      "recto",
+      "duodeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "El ciego es la primera porción del intestino grueso."
+  },
+  {
+    "id": "cg-6047",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué glándula produce enzimas digestivas y también insulina?",
+    "options": [
+      "páncreas",
+      "hígado",
+      "tiroides",
+      "suprarrenal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El páncreas tiene funciones digestivas y hormonales."
+  },
+  {
+    "id": "cg-6048",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué órgano absorbe gran parte de los nutrientes del alimento?",
+    "options": [
+      "estómago",
+      "colon",
+      "intestino delgado",
+      "esófago"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sus vellosidades amplían la superficie de absorción."
+  },
+  {
+    "id": "cg-6049",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué parte final del tubo digestivo almacena las heces antes de expulsarlas?",
+    "options": [
+      "colon ascendente",
+      "ciego",
+      "recto",
+      "duodeno"
+    ],
+    "correctIndex": 2,
+    "explanation": "El recto conecta el colon con el ano."
+  },
+  {
+    "id": "cg-6050",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuánto mide aproximadamente el intestino delgado de un adulto?",
+    "options": [
+      "entre 1 y 2 metros",
+      "entre 3 y 4 metros",
+      "entre 6 y 7 metros",
+      "entre 10 y 12 metros"
+    ],
+    "correctIndex": 2,
+    "explanation": "Su longitud y sus pliegues permiten absorber nutrientes."
+  },
+  {
+    "id": "cg-6051",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué estructuras del intestino delgado aumentan su superficie de absorción?",
+    "options": [
+      "vellosidades",
+      "cilios",
+      "alvéolos",
+      "nefronas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las vellosidades contienen capilares y vasos linfáticos."
+  },
+  {
+    "id": "cg-6052",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué órgano almacena el alimento y lo mezcla con jugos gástricos?",
+    "options": [
+      "esófago",
+      "estómago",
+      "hígado",
+      "intestino grueso"
+    ],
+    "correctIndex": 1,
+    "explanation": "El jugo gástrico inicia la digestión de las proteínas."
+  },
+  {
+    "id": "cg-6053",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué esfínter regula el paso del contenido del estómago al duodeno?",
+    "options": [
+      "cardias",
+      "esfínter de Oddi",
+      "píloro",
+      "esfínter anal"
+    ],
+    "correctIndex": 2,
+    "explanation": "El píloro controla la salida del quimo hacia el intestino delgado."
+  },
+  {
+    "id": "cg-6054",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué conducto muscular conecta la faringe con el estómago?",
+    "options": [
+      "tráquea",
+      "esófago",
+      "laringe",
+      "duodeno"
+    ],
+    "correctIndex": 1,
+    "explanation": "El esófago impulsa el bolo alimenticio mediante contracciones."
+  },
+  {
+    "id": "cg-6055",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué líquido circula por los vasos linfáticos y transporta linfocitos?",
+    "options": [
+      "plasma",
+      "linfa",
+      "bilis",
+      "líquido sinovial"
+    ],
+    "correctIndex": 1,
+    "explanation": "La linfa recoge líquido de los tejidos y lo devuelve a la sangre."
+  },
+  {
+    "id": "cg-6056",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué conducto lleva la orina desde la vejiga al exterior?",
+    "options": [
+      "uretra",
+      "uréter",
+      "nefrona",
+      "conducto deferente"
+    ],
+    "correctIndex": 0,
+    "explanation": "La uretra comunica la vejiga con el exterior."
+  },
+  {
+    "id": "cg-6057",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuál es la capacidad aproximada de la vejiga de un adulto?",
+    "options": [
+      "entre 100 y 200 mililitros",
+      "entre 400 y 600 mililitros",
+      "entre 1 y 2 litros",
+      "entre 2 y 3 litros"
+    ],
+    "correctIndex": 1,
+    "explanation": "La vejiga se distiende al acumular orina."
+  },
+  {
+    "id": "cg-6058",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué hormona estimula la maduración de los folículos ováricos?",
+    "options": [
+      "prolactina",
+      "insulina",
+      "hormona foliculoestimulante",
+      "tiroxina"
+    ],
+    "correctIndex": 2,
+    "explanation": "La hormona foliculoestimulante se produce en la hipófisis."
+  },
+  {
+    "id": "cg-6059",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué hormona eleva el ritmo cardíaco y prepara al cuerpo para una emergencia?",
+    "options": [
+      "adrenalina",
+      "insulina",
+      "melatonina",
+      "tiroxina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La adrenalina se libera en situaciones de alerta."
+  },
+  {
+    "id": "cg-6060",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué glándula regula el metabolismo con hormonas que contienen yodo?",
+    "options": [
+      "paratiroides",
+      "suprarrenal",
+      "timo",
+      "tiroides"
+    ],
+    "correctIndex": 3,
+    "explanation": "La tiroides produce tiroxina y triyodotironina."
+  },
+  {
+    "id": "cg-6061",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué hormona prepara el útero para la implantación del embrión?",
+    "options": [
+      "adrenalina",
+      "insulina",
+      "tiroxina",
+      "progesterona"
+    ],
+    "correctIndex": 3,
+    "explanation": "La progesterona mantiene el revestimiento uterino."
+  },
+  {
+    "id": "cg-6062",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿En qué parte del cuerpo se encuentra la hipófisis?",
+    "options": [
+      "en la base del cerebro",
+      "en el cuello",
+      "en el abdomen",
+      "en la pelvis"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hipófisis está unida al hipotálamo."
+  },
+  {
+    "id": "cg-6063",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué cuatro pequeñas glándulas del cuello ayudan a regular el calcio en la sangre?",
+    "options": [
+      "suprarrenales",
+      "paratiroides",
+      "tiroides",
+      "ovarios"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las paratiroides están situadas detrás de la tiroides."
+  },
+  {
+    "id": "cg-6064",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué órgano contiene las cuerdas vocales?",
+    "options": [
+      "faringe",
+      "tráquea",
+      "laringe",
+      "esófago"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las cuerdas vocales vibran con el aire espirado."
+  },
+  {
+    "id": "cg-6065",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué tubo lleva el aire desde la laringe hasta los bronquios?",
+    "options": [
+      "esófago",
+      "bronquiolo",
+      "faringe",
+      "tráquea"
+    ],
+    "correctIndex": 3,
+    "explanation": "La tráquea se divide en dos bronquios principales."
+  },
+  {
+    "id": "cg-6066",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántos lóbulos tiene el pulmón derecho?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 2,
+    "explanation": "El pulmón derecho tiene lóbulos superior, medio e inferior."
+  },
+  {
+    "id": "cg-6067",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántos lóbulos tiene el pulmón izquierdo?",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "correctIndex": 2,
+    "explanation": "El pulmón izquierdo deja espacio al corazón."
+  },
+  {
+    "id": "cg-6068",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué sacos microscópicos de los pulmones realizan el intercambio de gases?",
+    "options": [
+      "bronquios",
+      "pleuras",
+      "alvéolos",
+      "cilios"
+    ],
+    "correctIndex": 2,
+    "explanation": "En los alvéolos el oxígeno pasa a la sangre."
+  },
+  {
+    "id": "cg-6069",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué membrana doble rodea cada pulmón?",
+    "options": [
+      "peritoneo",
+      "pericardio",
+      "pleura",
+      "meninge"
+    ],
+    "correctIndex": 2,
+    "explanation": "La pleura reduce el roce durante la respiración."
+  },
+  {
+    "id": "cg-6070",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuánto aire cabe aproximadamente en los pulmones de un adulto tras una inspiración máxima?",
+    "options": [
+      "unos 2 litros",
+      "unos 3 litros",
+      "unos 6 litros",
+      "unos 10 litros"
+    ],
+    "correctIndex": 2,
+    "explanation": "La capacidad pulmonar total ronda los 6 litros."
+  },
+  {
+    "id": "cg-6071",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántas respiraciones por minuto hace aproximadamente un adulto en reposo?",
+    "options": [
+      "entre 4 y 8",
+      "entre 12 y 20",
+      "entre 30 y 40",
+      "entre 50 y 60"
+    ],
+    "correctIndex": 1,
+    "explanation": "La frecuencia respiratoria en reposo se sitúa en ese intervalo."
+  },
+  {
+    "id": "cg-6072",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué capa muscular forma la pared del corazón?",
+    "options": [
+      "miocardio",
+      "endocardio",
+      "pericardio",
+      "epicardio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El miocardio genera la fuerza de la contracción cardíaca."
+  },
+  {
+    "id": "cg-6073",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué válvula se abre del ventrículo derecho hacia la arteria pulmonar?",
+    "options": [
+      "válvula aórtica",
+      "válvula mitral",
+      "válvula pulmonar",
+      "válvula tricúspide"
+    ],
+    "correctIndex": 2,
+    "explanation": "La válvula pulmonar impide el retorno de sangre al ventrículo."
+  },
+  {
+    "id": "cg-6074",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué membrana envuelve el corazón y contiene líquido lubricante?",
+    "options": [
+      "pleura",
+      "peritoneo",
+      "meninge",
+      "pericardio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El pericardio protege el corazón y reduce el roce."
+  },
+  {
+    "id": "cg-6075",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué vasos de pared muy fina permiten el intercambio de gases y nutrientes con las células?",
+    "options": [
+      "capilares",
+      "arterias",
+      "venas",
+      "arteriolas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los capilares conectan arteriolas y vénulas."
+  },
+  {
+    "id": "cg-6076",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué venas llevan sangre oxigenada de los pulmones al corazón?",
+    "options": [
+      "venas cavas",
+      "venas pulmonares",
+      "venas yugulares",
+      "venas porta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Son una excepción: las venas pulmonares transportan sangre oxigenada."
+  },
+  {
+    "id": "cg-6077",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué arterias llevan sangre al músculo cardíaco?",
+    "options": [
+      "arterias coronarias",
+      "arterias carótidas",
+      "arterias pulmonares",
+      "arterias renales"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las coronarias nacen de la aorta y nutren el corazón."
+  },
+  {
+    "id": "cg-6078",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántas válvulas tiene el corazón humano?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "correctIndex": 1,
+    "explanation": "Son mitral, tricúspide, pulmonar y aórtica."
+  },
+  {
+    "id": "cg-6079",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué válvula impide que la sangre vuelva de la aorta al ventrículo izquierdo?",
+    "options": [
+      "válvula mitral",
+      "válvula pulmonar",
+      "válvula aórtica",
+      "válvula tricúspide"
+    ],
+    "correctIndex": 2,
+    "explanation": "La válvula aórtica se cierra al terminar la sístole."
+  },
+  {
+    "id": "cg-6080",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué parte del electrocardiograma refleja la despolarización de los ventrículos?",
+    "options": [
+      "onda P",
+      "onda T",
+      "intervalo PR",
+      "complejo QRS"
+    ],
+    "correctIndex": 3,
+    "explanation": "El QRS precede a la contracción ventricular."
+  },
+  {
+    "id": "cg-6081",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué aparato registra la actividad eléctrica del corazón?",
+    "options": [
+      "espirómetro",
+      "esfigmomanómetro",
+      "electrocardiógrafo",
+      "estetoscopio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El electrocardiograma muestra las ondas eléctricas del corazón."
+  },
+  {
+    "id": "cg-6082",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué ruido del corazón produce el cierre de las válvulas auriculoventriculares?",
+    "options": [
+      "segundo ruido",
+      "tercer ruido",
+      "primer ruido",
+      "soplo diastólico"
+    ],
+    "correctIndex": 2,
+    "explanation": "El primer ruido coincide con el inicio de la sístole."
+  },
+  {
+    "id": "cg-6083",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuánta sangre bombea aproximadamente el corazón de un adulto por minuto en reposo?",
+    "options": [
+      "unos 2 litros",
+      "unos 10 litros",
+      "unos 5 litros",
+      "unos 20 litros"
+    ],
+    "correctIndex": 2,
+    "explanation": "El gasto cardíaco en reposo ronda los 5 litros por minuto."
+  },
+  {
+    "id": "cg-6084",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuánto mide aproximadamente el intestino grueso de un adulto?",
+    "options": [
+      "alrededor de 50 centímetros",
+      "alrededor de 1,5 metros",
+      "alrededor de 3 metros",
+      "alrededor de 6 metros"
+    ],
+    "correctIndex": 1,
+    "explanation": "El intestino grueso es más corto pero más ancho que el delgado."
+  },
+  {
+    "id": "cg-6085",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué función cumple la bilis en la digestión?",
+    "options": [
+      "emulsiona las grasas",
+      "degrada proteínas",
+      "absorbe agua",
+      "produce glucosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La bilis divide las grasas en gotas pequeñas."
+  },
+  {
+    "id": "cg-6086",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué sustancia protege la pared del estómago de su propio ácido?",
+    "options": [
+      "bilis",
+      "moco",
+      "saliva",
+      "insulina"
+    ],
+    "correctIndex": 1,
+    "explanation": "El moco forma una capa que amortigua el ácido gástrico."
+  },
+  {
+    "id": "cg-6087",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué hormona intestinal estimula la secreción de bicarbonato por el páncreas?",
+    "options": [
+      "insulina",
+      "secretina",
+      "gastrina",
+      "tiroxina"
+    ],
+    "correctIndex": 1,
+    "explanation": "La secretina se libera cuando el duodeno detecta contenido ácido."
+  },
+  {
+    "id": "cg-6088",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué movimiento muscular empuja el alimento a lo largo del tubo digestivo?",
+    "options": [
+      "peristalsis",
+      "difusión",
+      "ósmosis",
+      "diástole"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las contracciones peristálticas avanzan el contenido intestinal."
+  },
+  {
+    "id": "cg-6089",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué nombre recibe la célula madre que origina todas las células de la sangre?",
+    "options": [
+      "célula madre epitelial",
+      "célula madre hematopoyética",
+      "osteocito",
+      "neurona"
+    ],
+    "correctIndex": 1,
+    "explanation": "Se encuentra en la médula ósea y da origen a eritrocitos, leucocitos y plaquetas."
+  },
+  {
+    "id": "cg-6090",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuánto vive aproximadamente un glóbulo rojo humano?",
+    "options": [
+      "unos 7 días",
+      "unos 30 días",
+      "unos 2 años",
+      "unos 120 días"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al envejecer, los glóbulos rojos se destruyen en el bazo y el hígado."
+  },
+  {
+    "id": "cg-6091",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cuántos glóbulos rojos hay aproximadamente por microlitro de sangre?",
+    "options": [
+      "unos 5 mil",
+      "unos 50 mil",
+      "unos 500 mil",
+      "unos 5 millones"
+    ],
+    "correctIndex": 3,
+    "explanation": "La cifra varía con la edad y el sexo."
+  },
+  {
+    "id": "cg-6092",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué forma tiene un glóbulo rojo maduro?",
+    "options": [
+      "esfera perfecta",
+      "cubo",
+      "estrella",
+      "disco bicóncavo"
+    ],
+    "correctIndex": 3,
+    "explanation": "La forma bicóncava facilita el intercambio de gases."
+  },
+  {
+    "id": "cg-6093",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué estructura pierden los glóbulos rojos al madurar?",
+    "options": [
+      "el núcleo",
+      "la membrana",
+      "la hemoglobina",
+      "el citoplasma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sin núcleo, el glóbulo rojo dedica más espacio al transporte de oxígeno."
+  },
+  {
+    "id": "cg-6094",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué células sanguíneas defienden al cuerpo de infecciones?",
+    "options": [
+      "leucocitos",
+      "eritrocitos",
+      "plaquetas",
+      "adipocitos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los leucocitos incluyen neutrófilos, linfocitos y otras células."
+  },
+  {
+    "id": "cg-6095",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué proteína plasmática se transforma en fibrina durante la coagulación?",
+    "options": [
+      "fibrinógeno",
+      "albúmina",
+      "transferrina",
+      "hemoglobina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fibrina forma una red que atrapa células y cierra la herida."
+  },
+  {
+    "id": "cg-6096",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántas plaquetas hay aproximadamente por microlitro de sangre?",
+    "options": [
+      "entre 150.000 y 450.000",
+      "entre 5.000 y 15.000",
+      "entre 1 y 2 millones",
+      "entre 50 y 100"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las plaquetas son fragmentos de megacariocitos."
+  },
+  {
+    "id": "cg-6097",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué células de la médula ósea originan las plaquetas?",
+    "options": [
+      "osteoclastos",
+      "megacariocitos",
+      "eritroblastos",
+      "linfocitos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los megacariocitos liberan fragmentos que se convierten en plaquetas."
+  },
+  {
+    "id": "cg-6098",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué antígenos presentan los glóbulos rojos del grupo AB?",
+    "options": [
+      "antígenos A y B",
+      "solo A",
+      "solo B",
+      "ninguno"
+    ],
+    "correctIndex": 0,
+    "explanation": "El grupo AB tiene ambos antígenos y no produce anticuerpos contra ellos."
+  },
+  {
+    "id": "cg-6099",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué anticuerpos tienen las personas del grupo sanguíneo O?",
+    "options": [
+      "anti-A solamente",
+      "anti-B solamente",
+      "ninguno",
+      "anti-A y anti-B"
+    ],
+    "correctIndex": 3,
+    "explanation": "El grupo O carece de antígenos A y B en sus glóbulos."
+  },
+  {
+    "id": "cg-6100",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿De qué animal proviene el nombre del factor Rh de la sangre?",
+    "options": [
+      "del ratón",
+      "del conejo",
+      "del macaco Rhesus",
+      "del chimpancé"
+    ],
+    "correctIndex": 2,
+    "explanation": "El factor se descubrió investigando la sangre de macacos Rhesus."
+  },
+  {
+    "id": "cg-6101",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué proteína transporta el hierro en la sangre?",
+    "options": [
+      "ferritina",
+      "albúmina",
+      "fibrinógeno",
+      "transferrina"
+    ],
+    "correctIndex": 3,
+    "explanation": "La transferrina lleva el hierro desde el intestino a los tejidos."
+  },
+  {
+    "id": "cg-6102",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué proteína almacena hierro en el hígado?",
+    "options": [
+      "ferritina",
+      "transferrina",
+      "hemoglobina",
+      "ceruloplasmina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ferritina guarda el hierro en una forma disponible."
+  },
+  {
+    "id": "cg-6103",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué células liberan histamina en las reacciones alérgicas?",
+    "options": [
+      "eritrocitos",
+      "mastocitos",
+      "plaquetas",
+      "neuronas"
+    ],
+    "correctIndex": 1,
+    "explanation": "La histamina dilata los vasos y produce picor."
+  },
+  {
+    "id": "cg-6104",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué células del sistema inmunitario destruyen células tumorales sin reconocer un anticuerpo específico?",
+    "options": [
+      "linfocitos B",
+      "células asesinas naturales",
+      "eritrocitos",
+      "plaquetas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las células asesinas naturales forman parte de la inmunidad innata."
+  },
+  {
+    "id": "cg-6105",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Dónde se originan y maduran los linfocitos B en los mamíferos?",
+    "options": [
+      "en el timo",
+      "en la médula ósea",
+      "en el hígado",
+      "en las amígdalas"
+    ],
+    "correctIndex": 1,
+    "explanation": "La médula ósea es el órgano principal de maduración de los linfocitos B."
+  },
+  {
+    "id": "cg-6106",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué complejo de proteínas de la superficie celular presenta antígenos a los linfocitos T?",
+    "options": [
+      "sistema del complemento",
+      "inmunoglobulina",
+      "complejo mayor de histocompatibilidad",
+      "interleucina"
+    ],
+    "correctIndex": 2,
+    "explanation": "El complejo mayor de histocompatibilidad muestra fragmentos de proteínas a los linfocitos T."
+  },
+  {
+    "id": "cg-6107",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué anticuerpo se asocia con las reacciones alérgicas?",
+    "options": [
+      "IgG",
+      "IgM",
+      "IgA",
+      "IgE"
+    ],
+    "correctIndex": 3,
+    "explanation": "La IgE se une a los mastocitos y desencadena la liberación de histamina."
+  },
+  {
+    "id": "cg-6108",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué amígdalas se encuentran a ambos lados de la garganta?",
+    "options": [
+      "amígdalas faríngeas",
+      "amígdalas linguales",
+      "amígdalas palatinas",
+      "amígdalas tubáricas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las palatinas son las visibles al abrir la boca."
+  },
+  {
+    "id": "cg-6109",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué cúmulos de tejido linfático protegen el intestino delgado?",
+    "options": [
+      "islotes de Langerhans",
+      "placas de Peyer",
+      "corpúsculos de Pacini",
+      "glomérulos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las placas de Peyer vigilan los antígenos del intestino."
+  },
+  {
+    "id": "cg-6110",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué inmunidad recibe un bebé a través de la leche materna?",
+    "options": [
+      "inmunidad activa",
+      "inmunidad innata",
+      "inmunidad pasiva",
+      "autoinmunidad"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los anticuerpos maternos protegen temporalmente al bebé."
+  },
+  {
+    "id": "cg-6111",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué enzima de las lágrimas y la saliva destruye bacterias?",
+    "options": [
+      "pepsina",
+      "amilasa",
+      "lisozima",
+      "tripsina"
+    ],
+    "correctIndex": 2,
+    "explanation": "La lisozima rompe la pared de muchas bacterias."
+  },
+  {
+    "id": "cg-6112",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué proceso produce enrojecimiento, calor e hinchazón tras una lesión?",
+    "options": [
+      "coagulación",
+      "inflamación",
+      "apoptosis",
+      "digestión"
+    ],
+    "correctIndex": 1,
+    "explanation": "La inflamación lleva células de defensa a la zona dañada."
+  },
+  {
+    "id": "cg-6113",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué proteínas liberan las células infectadas por virus para alertar a las vecinas?",
+    "options": [
+      "inmunoglobulinas",
+      "enzimas digestivas",
+      "hormonas",
+      "interferones"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los interferones dificultan la replicación viral."
+  },
+  {
+    "id": "cg-6114",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué conjunto de proteínas plasmáticas ayuda a destruir bacterias y células dañadas?",
+    "options": [
+      "sistema renina-angiotensina",
+      "sistema del complemento",
+      "sistema nervioso autónomo",
+      "sistema linfoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "El complemento forma poros en la membrana de los microbios."
+  },
+  {
+    "id": "cg-6115",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué proceso de muerte celular programada elimina células dañadas?",
+    "options": [
+      "mitosis",
+      "meiosis",
+      "necrosis",
+      "apoptosis"
+    ],
+    "correctIndex": 3,
+    "explanation": "La apoptosis evita que las células defectuosas se acumulen."
+  },
+  {
+    "id": "cg-6116",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué orgánulo organiza los microtúbulos y forma el huso durante la división celular?",
+    "options": [
+      "lisosoma",
+      "ribosoma",
+      "centrosoma",
+      "peroxisoma"
+    ],
+    "correctIndex": 2,
+    "explanation": "El centrosoma contiene dos centriolos y organiza el huso mitótico."
+  },
+  {
+    "id": "cg-6117",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué orgánulo de las células vegetales almacena agua y nutrientes?",
+    "options": [
+      "lisosoma",
+      "ribosoma",
+      "vacuola",
+      "centrosoma"
+    ],
+    "correctIndex": 2,
+    "explanation": "La vacuola central también contribuye a la turgencia de la célula vegetal."
+  },
+  {
+    "id": "cg-6118",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué red de membranas participa en la síntesis y el transporte de proteínas?",
+    "options": [
+      "retículo endoplásmico",
+      "citoesqueleto",
+      "núcleo",
+      "vacuola"
+    ],
+    "correctIndex": 0,
+    "explanation": "El retículo endoplásmico rugoso lleva ribosomas adheridos."
+  },
+  {
+    "id": "cg-6119",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué orgánulo produce y degrada peróxido de hidrógeno?",
+    "options": [
+      "lisosoma",
+      "peroxisoma",
+      "mitocondria",
+      "ribosoma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los peroxisomas participan en la desintoxicación celular."
+  },
+  {
+    "id": "cg-6120",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué estructura da forma y permite el movimiento de la célula?",
+    "options": [
+      "membrana plasmática",
+      "citoesqueleto",
+      "núcleo",
+      "aparato de Golgi"
+    ],
+    "correctIndex": 1,
+    "explanation": "El citoesqueleto está formado por microtúbulos, filamentos y proteínas asociadas."
+  },
+  {
+    "id": "cg-6121",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué nombre recibe el límite de divisiones que puede realizar una célula humana antes de envejecer?",
+    "options": [
+      "límite de Bohr",
+      "ciclo de Krebs",
+      "efecto Warburg",
+      "límite de Hayflick"
+    ],
+    "correctIndex": 3,
+    "explanation": "Se relaciona con el acortamiento de los telómeros."
+  },
+  {
+    "id": "cg-6122",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué enzima alarga los telómeros?",
+    "options": [
+      "ADN polimerasa",
+      "helicasa",
+      "ligasa",
+      "telomerasa"
+    ],
+    "correctIndex": 3,
+    "explanation": "La telomerasa es activa en células germinales y en muchas células tumorales."
+  },
+  {
+    "id": "cg-6123",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cuántas células tiene aproximadamente el cuerpo humano adulto?",
+    "options": [
+      "unos 37 millones",
+      "unos 37 billones",
+      "unos 37.000",
+      "unos 370 billones"
+    ],
+    "correctIndex": 1,
+    "explanation": "La cifra es una estimación basada en recuentos por tejido."
+  },
+  {
+    "id": "cg-6124",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántos tipos de células se distinguen aproximadamente en el cuerpo humano?",
+    "options": [
+      "unos 20",
+      "unos 2.000",
+      "unos 200",
+      "unos 20.000"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cada tipo cumple una función especializada."
+  },
+  {
+    "id": "cg-6125",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántos cromosomas tiene un óvulo humano?",
+    "options": [
+      "23",
+      "46",
+      "22",
+      "24"
+    ],
+    "correctIndex": 0,
+    "explanation": "El óvulo es haploide y aporta la mitad de la dotación genética."
+  },
+  {
+    "id": "cg-6126",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué célula puede tener una prolongación de hasta un metro de largo?",
+    "options": [
+      "la neurona motora",
+      "el adipocito",
+      "el hepatocito",
+      "la plaqueta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las neuronas motoras conectan la médula espinal con los músculos."
+  },
+  {
+    "id": "cg-6127",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué células producen el pigmento de la piel?",
+    "options": [
+      "queratinocitos",
+      "fibroblastos",
+      "adipocitos",
+      "melanocitos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los melanocitos producen melanina."
+  },
+  {
+    "id": "cg-6128",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué células almacenan grasa en el tejido adiposo?",
+    "options": [
+      "hepatocitos",
+      "osteocitos",
+      "linfocitos",
+      "adipocitos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los adipocitos almacenan energía en forma de triglicéridos."
+  },
+  {
+    "id": "cg-6129",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué células forman la capa externa de la epidermis?",
+    "options": [
+      "queratinocitos",
+      "melanocitos",
+      "fibroblastos",
+      "células de Merkel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los queratinocitos producen queratina y se renuevan continuamente."
+  },
+  {
+    "id": "cg-6130",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué células quedan atrapadas en la matriz ósea y mantienen el tejido?",
+    "options": [
+      "osteoblastos",
+      "osteocitos",
+      "osteoclastos",
+      "condrocitos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los osteocitos se comunican por canalículos."
+  },
+  {
+    "id": "cg-6131",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué células del hígado realizan gran parte de sus funciones metabólicas?",
+    "options": [
+      "hepatocitos",
+      "nefronas",
+      "acinos",
+      "miocitos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los hepatocitos procesan nutrientes y detoxifican sustancias."
+  },
+  {
+    "id": "cg-6132",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué material del núcleo contiene el ADN asociado a proteínas?",
+    "options": [
+      "citoplasma",
+      "membrana",
+      "nucleolo",
+      "cromatina"
+    ],
+    "correctIndex": 3,
+    "explanation": "La cromatina se condensa en cromosomas durante la división."
+  },
+  {
+    "id": "cg-6133",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuánto pesa aproximadamente el cerebro de un adulto?",
+    "options": [
+      "entre 1,3 y 1,4 kilogramos",
+      "entre 500 y 700 gramos",
+      "entre 2 y 3 kilogramos",
+      "entre 4 y 5 kilogramos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cerebro representa cerca del 2 % del peso corporal."
+  },
+  {
+    "id": "cg-6134",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué porcentaje de la energía del cuerpo consume el cerebro en reposo?",
+    "options": [
+      "alrededor del 5 %",
+      "alrededor del 50 %",
+      "alrededor del 80 %",
+      "alrededor del 20 %"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cerebro usa mucha energía aunque su peso sea pequeño."
+  },
+  {
+    "id": "cg-6135",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cuántas neuronas tiene aproximadamente el cerebro humano?",
+    "options": [
+      "unos 86 millones",
+      "unos 860 millones",
+      "unos 86.000 millones",
+      "unos 860.000 millones"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cifra procede de recuentos de células nerviosas."
+  },
+  {
+    "id": "cg-6136",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué células acompañan, nutren y protegen a las neuronas?",
+    "options": [
+      "plaquetas",
+      "adipocitos",
+      "eritrocitos",
+      "células gliales"
+    ],
+    "correctIndex": 3,
+    "explanation": "La glía incluye astrocitos, oligodendrocitos y microglía."
+  },
+  {
+    "id": "cg-6137",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué estructura del cerebro se asocia con el miedo y las emociones?",
+    "options": [
+      "hipocampo",
+      "tálamo",
+      "cerebelo",
+      "amígdala"
+    ],
+    "correctIndex": 3,
+    "explanation": "La amígdala forma parte del sistema límbico."
+  },
+  {
+    "id": "cg-6138",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué lóbulo cerebral participa en la planificación y el control de los movimientos voluntarios?",
+    "options": [
+      "lóbulo occipital",
+      "lóbulo temporal",
+      "lóbulo parietal",
+      "lóbulo frontal"
+    ],
+    "correctIndex": 3,
+    "explanation": "El lóbulo frontal incluye la corteza motora y áreas de planificación."
+  },
+  {
+    "id": "cg-6139",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué estructura del cerebro actúa como estación de relevo de las sensaciones antes de llegar a la corteza?",
+    "options": [
+      "hipotálamo",
+      "tálamo",
+      "amígdala",
+      "cerebelo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El tálamo recibe y distribuye señales sensitivas."
+  },
+  {
+    "id": "cg-6140",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué estructura con forma de caballito de mar participa en la formación de recuerdos?",
+    "options": [
+      "tálamo",
+      "cerebelo",
+      "hipocampo",
+      "bulbo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El hipocampo es clave para la memoria declarativa."
+  },
+  {
+    "id": "cg-6141",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué líquido rodea y protege el cerebro y la médula espinal?",
+    "options": [
+      "líquido sinovial",
+      "plasma",
+      "líquido cefalorraquídeo",
+      "bilis"
+    ],
+    "correctIndex": 2,
+    "explanation": "El líquido cefalorraquídeo amortigua los golpes."
+  },
+  {
+    "id": "cg-6142",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántas meninges envuelven el sistema nervioso central?",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "correctIndex": 1,
+    "explanation": "Son duramadre, aracnoides y piamadre."
+  },
+  {
+    "id": "cg-6143",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué células producen la mielina en el sistema nervioso periférico?",
+    "options": [
+      "oligodendrocitos",
+      "astrocitos",
+      "células de Schwann",
+      "microglía"
+    ],
+    "correctIndex": 2,
+    "explanation": "En el sistema nervioso central la mielina la forman los oligodendrocitos."
+  },
+  {
+    "id": "cg-6144",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué área del cerebro se asocia con la comprensión del lenguaje?",
+    "options": [
+      "área de Broca",
+      "corteza motora",
+      "cerebelo",
+      "área de Wernicke"
+    ],
+    "correctIndex": 3,
+    "explanation": "Una lesión en el área de Wernicke altera la comprensión."
+  },
+  {
+    "id": "cg-6145",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué hemisferio cerebral suele controlar los movimientos del lado izquierdo del cuerpo?",
+    "options": [
+      "el izquierdo",
+      "ambos hemisferios",
+      "el derecho",
+      "el lóbulo frontal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las vías motoras se cruzan en el tronco encefálico."
+  },
+  {
+    "id": "cg-6146",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué estructura conecta el cerebro con la médula espinal?",
+    "options": [
+      "cuerpo calloso",
+      "nervio ciático",
+      "cerebelo",
+      "tronco encefálico"
+    ],
+    "correctIndex": 3,
+    "explanation": "El tronco encefálico incluye el bulbo, la protuberancia y el mesencéfalo."
+  },
+  {
+    "id": "cg-6147",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué nervio lleva las señales visuales desde el ojo hasta el cerebro?",
+    "options": [
+      "nervio óptico",
+      "nervio auditivo",
+      "nervio facial",
+      "nervio vago"
+    ],
+    "correctIndex": 0,
+    "explanation": "El nervio óptico es el segundo par craneal."
+  },
+  {
+    "id": "cg-6148",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué par craneal controla los músculos de la expresión facial?",
+    "options": [
+      "el facial",
+      "el trigémino",
+      "el vago",
+      "el óptico"
+    ],
+    "correctIndex": 0,
+    "explanation": "El nervio facial es el séptimo par craneal."
+  },
+  {
+    "id": "cg-6149",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué neurotransmisor se relaciona con la recompensa y la motivación?",
+    "options": [
+      "serotonina",
+      "dopamina",
+      "acetilcolina",
+      "GABA"
+    ],
+    "correctIndex": 1,
+    "explanation": "La dopamina actúa en circuitos cerebrales de recompensa."
+  },
+  {
+    "id": "cg-6150",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué neurotransmisor libera la unión neuromuscular para contraer el músculo?",
+    "options": [
+      "dopamina",
+      "serotonina",
+      "acetilcolina",
+      "histamina"
+    ],
+    "correctIndex": 2,
+    "explanation": "La acetilcolina excita la fibra muscular."
+  },
+  {
+    "id": "cg-6151",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué prueba registra la actividad eléctrica del cerebro?",
+    "options": [
+      "electroencefalograma",
+      "electrocardiograma",
+      "tomografía",
+      "ecografía"
+    ],
+    "correctIndex": 0,
+    "explanation": "El electroencefalograma mide ondas cerebrales."
+  },
+  {
+    "id": "cg-6152",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué técnica de imagen usa campos magnéticos intensos para observar tejidos blandos?",
+    "options": [
+      "radiografía",
+      "ecografía",
+      "densitometría",
+      "resonancia magnética"
+    ],
+    "correctIndex": 3,
+    "explanation": "La resonancia no usa radiación ionizante."
+  },
+  {
+    "id": "cg-6153",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué histólogo italiano tiñó neuronas con sales de plata para observarlas?",
+    "options": [
+      "Santiago Ramón y Cajal",
+      "Camillo Golgi",
+      "Robert Hooke",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 1,
+    "explanation": "La técnica de Golgi reveló la forma de las neuronas."
+  },
+  {
+    "id": "cg-6154",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué científico británico describió el potencial de acción nervioso junto con Alan Hodgkin?",
+    "options": [
+      "Charles Darwin",
+      "Francis Crick",
+      "Andrew Huxley",
+      "Alexander Fleming"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hodgkin y Huxley estudiaron el axón gigante del calamar."
+  },
+  {
+    "id": "cg-6155",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué azúcar es la principal fuente de energía del cerebro?",
+    "options": [
+      "sacarosa",
+      "glucosa",
+      "fructosa",
+      "lactosa"
+    ],
+    "correctIndex": 1,
+    "explanation": "El cerebro consume glucosa de forma constante."
+  },
+  {
+    "id": "cg-6156",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántos tipos de conos tiene la retina humana?",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los conos responden a distintas longitudes de onda de la luz."
+  },
+  {
+    "id": "cg-6157",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué células de la retina funcionan mejor con poca luz?",
+    "options": [
+      "conos",
+      "bastones",
+      "células ganglionares",
+      "melanocitos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los bastones permiten la visión nocturna en blanco y negro."
+  },
+  {
+    "id": "cg-6158",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué zona de la retina proporciona la visión más nítida?",
+    "options": [
+      "punto ciego",
+      "ora serrata",
+      "cuerpo ciliar",
+      "fóvea"
+    ],
+    "correctIndex": 3,
+    "explanation": "La fóvea concentra gran cantidad de conos."
+  },
+  {
+    "id": "cg-6159",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué parte transparente del ojo refracta la luz al entrar?",
+    "options": [
+      "iris",
+      "córnea",
+      "esclerótica",
+      "retina"
+    ],
+    "correctIndex": 1,
+    "explanation": "La córnea es la primera lente del ojo."
+  },
+  {
+    "id": "cg-6160",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué líquido llena el espacio entre la córnea y el cristalino?",
+    "options": [
+      "humor acuoso",
+      "humor vítreo",
+      "lágrimas",
+      "plasma"
+    ],
+    "correctIndex": 0,
+    "explanation": "El humor acuoso nutre la córnea y el cristalino."
+  },
+  {
+    "id": "cg-6161",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué gel transparente llena el interior del globo ocular?",
+    "options": [
+      "humor vítreo",
+      "humor acuoso",
+      "linfa",
+      "moco"
+    ],
+    "correctIndex": 0,
+    "explanation": "El humor vítreo mantiene la forma del ojo."
+  },
+  {
+    "id": "cg-6162",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuántos músculos extrínsecos mueven cada globo ocular?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "6"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cuatro rectos y dos oblicuos controlan los movimientos oculares."
+  },
+  {
+    "id": "cg-6163",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué glándula produce las lágrimas?",
+    "options": [
+      "glándula salival",
+      "glándula lagrimal",
+      "glándula sebácea",
+      "tiroides"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las lágrimas lubrican y protegen la superficie del ojo."
+  },
+  {
+    "id": "cg-6164",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué estructura del ojo le da su color?",
+    "options": [
+      "retina",
+      "córnea",
+      "iris",
+      "esclera"
+    ],
+    "correctIndex": 2,
+    "explanation": "El iris contiene melanina y regula la pupila."
+  },
+  {
+    "id": "cg-6165",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué zona del ojo carece de fotorreceptores y se conoce como punto ciego?",
+    "options": [
+      "la fóvea",
+      "la papila óptica",
+      "la mácula",
+      "el iris"
+    ],
+    "correctIndex": 1,
+    "explanation": "Por la papila sale el nervio óptico."
+  },
+  {
+    "id": "cg-6166",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cuántos tipos de receptores olfativos distintos posee aproximadamente la nariz humana?",
+    "options": [
+      "unos 40",
+      "unos 4.000",
+      "unos 40.000",
+      "unos 400"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cada receptor detecta un conjunto de moléculas olorosas."
+  },
+  {
+    "id": "cg-6167",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué estructura recibe las señales olfativas y las envía al cerebro?",
+    "options": [
+      "bulbo olfatorio",
+      "bulbo raquídeo",
+      "tálamo",
+      "hipocampo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El bulbo olfatorio está en la base del cerebro."
+  },
+  {
+    "id": "cg-6168",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántos sabores básicos distingue la lengua humana?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctIndex": 2,
+    "explanation": "Son dulce, salado, ácido, amargo y umami."
+  },
+  {
+    "id": "cg-6169",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué sabor se asocia con el glutamato?",
+    "options": [
+      "ácido",
+      "amargo",
+      "umami",
+      "salado"
+    ],
+    "correctIndex": 2,
+    "explanation": "El umami se describe como sabroso o carnoso."
+  },
+  {
+    "id": "cg-6170",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué estructuras de la lengua contienen los receptores del gusto?",
+    "options": [
+      "papilas dérmicas",
+      "papilas gustativas",
+      "corpúsculos de Pacini",
+      "alvéolos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las papilas gustativas se renuevan periódicamente."
+  },
+  {
+    "id": "cg-6171",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué membrana del oído vibra al recibir las ondas sonoras?",
+    "options": [
+      "tímpano",
+      "cóclea",
+      "estribo",
+      "trompa de Eustaquio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tímpano transmite las vibraciones a la cadena de huesecillos."
+  },
+  {
+    "id": "cg-6172",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué rango de frecuencias percibe un oído humano joven y sano?",
+    "options": [
+      "de 2 a 200 hercios",
+      "de 200 a 2.000 hercios",
+      "de 20 a 20.000 hercios",
+      "de 20.000 a 200.000 hercios"
+    ],
+    "correctIndex": 2,
+    "explanation": "Con la edad se pierden primero las frecuencias altas."
+  },
+  {
+    "id": "cg-6173",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué estructura del oído interno transforma las vibraciones en señales nerviosas?",
+    "options": [
+      "órgano de Corti",
+      "trompa de Eustaquio",
+      "membrana timpánica",
+      "estribo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El órgano de Corti está en la cóclea."
+  },
+  {
+    "id": "cg-6174",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué tubo iguala la presión del oído medio con la del exterior?",
+    "options": [
+      "trompa de Eustaquio",
+      "conducto auditivo",
+      "cóclea",
+      "canal semicircular"
+    ],
+    "correctIndex": 0,
+    "explanation": "La trompa de Eustaquio conecta el oído medio con la faringe."
+  },
+  {
+    "id": "cg-6175",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué estructuras del oído interno detectan la gravedad y la aceleración lineal?",
+    "options": [
+      "conductos semicirculares",
+      "cóclea",
+      "utrículo y sáculo",
+      "tímpano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Utrículo y sáculo contienen otolitos."
+  },
+  {
+    "id": "cg-6176",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué conductos del oído interno detectan el giro de la cabeza?",
+    "options": [
+      "trompa de Eustaquio",
+      "conductos semicirculares",
+      "cóclea",
+      "canal auditivo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los tres conductos semicirculares están orientados en planos distintos."
+  },
+  {
+    "id": "cg-6177",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿En qué fase del sueño aparecen los sueños más vívidos?",
+    "options": [
+      "fase N1",
+      "fase N2",
+      "fase REM",
+      "fase N3"
+    ],
+    "correctIndex": 2,
+    "explanation": "REM significa movimiento ocular rápido."
+  },
+  {
+    "id": "cg-6178",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuánto dura aproximadamente un ciclo completo de sueño?",
+    "options": [
+      "unos 10 minutos",
+      "unos 90 minutos",
+      "unos 30 minutos",
+      "unos 4 horas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cada noche se encadenan varios ciclos."
+  },
+  {
+    "id": "cg-6179",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué hormona regula el ciclo de sueño y vigilia?",
+    "options": [
+      "melatonina",
+      "insulina",
+      "adrenalina",
+      "tiroxina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La melatonina se produce en la glándula pineal."
+  },
+  {
+    "id": "cg-6180",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué núcleo del hipotálamo funciona como reloj biológico principal?",
+    "options": [
+      "núcleo supraquiasmático",
+      "núcleo arcuato",
+      "amígdala",
+      "sustancia negra"
+    ],
+    "correctIndex": 0,
+    "explanation": "El núcleo supraquiasmático sincroniza los ritmos circadianos."
+  },
+  {
+    "id": "cg-6181",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué hormona se libera sobre todo en el sueño profundo y estimula el crecimiento?",
+    "options": [
+      "insulina",
+      "cortisol",
+      "hormona del crecimiento",
+      "tiroxina"
+    ],
+    "correctIndex": 2,
+    "explanation": "La hipófisis libera hormona del crecimiento durante el sueño."
+  },
+  {
+    "id": "cg-6182",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cuántas horas duerme en promedio un recién nacido al día?",
+    "options": [
+      "entre 6 y 8",
+      "entre 10 y 12",
+      "entre 16 y 18",
+      "entre 22 y 24"
+    ],
+    "correctIndex": 2,
+    "explanation": "El sueño del recién nacido se reparte en varios periodos."
+  },
+  {
+    "id": "cg-6183",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué nombre recibe el desfase del sueño producido por viajar a otra zona horaria?",
+    "options": [
+      "insomnio crónico",
+      "narcolepsia",
+      "apnea",
+      "jet lag"
+    ],
+    "correctIndex": 3,
+    "explanation": "El reloj biológico tarda en adaptarse al nuevo horario."
+  },
+  {
+    "id": "cg-6184",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué fenómeno impide moverse al despertar o al dormirse en algunas personas?",
+    "options": [
+      "sonambulismo",
+      "bruxismo",
+      "mioclonía",
+      "parálisis del sueño"
+    ],
+    "correctIndex": 3,
+    "explanation": "La parálisis del sueño es temporal y suele acompañarse de conciencia."
+  },
+  {
+    "id": "cg-6185",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué ondas cerebrales predominan en el sueño profundo?",
+    "options": [
+      "ondas alfa",
+      "ondas beta",
+      "ondas gamma",
+      "ondas delta"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las ondas delta son lentas y de gran amplitud."
+  },
+  {
+    "id": "cg-6186",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué sistema elimina desechos del cerebro durante el sueño?",
+    "options": [
+      "sistema linfático",
+      "sistema renina-angiotensina",
+      "sistema digestivo",
+      "sistema glinfático"
+    ],
+    "correctIndex": 3,
+    "explanation": "El sistema glinfático hace circular líquido cefalorraquídeo."
+  },
+  {
+    "id": "cg-6187",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuánto mide aproximadamente la superficie de la piel de un adulto?",
+    "options": [
+      "entre 1,5 y 2 metros cuadrados",
+      "entre 0,2 y 0,5 metros cuadrados",
+      "entre 4 y 5 metros cuadrados",
+      "entre 10 y 12 metros cuadrados"
+    ],
+    "correctIndex": 0,
+    "explanation": "La piel es el órgano de mayor superficie del cuerpo."
+  },
+  {
+    "id": "cg-6188",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Cómo se llama la capa más externa de la piel?",
+    "options": [
+      "dermis",
+      "hipodermis",
+      "fascia",
+      "epidermis"
+    ],
+    "correctIndex": 3,
+    "explanation": "La epidermis se renueva constantemente."
+  },
+  {
+    "id": "cg-6189",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué proteína impermeable abunda en la capa externa de la piel?",
+    "options": [
+      "colágeno",
+      "hemoglobina",
+      "insulina",
+      "queratina"
+    ],
+    "correctIndex": 3,
+    "explanation": "La queratina protege frente a la pérdida de agua."
+  },
+  {
+    "id": "cg-6190",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué glándulas de la piel producen sudor?",
+    "options": [
+      "glándulas sudoríparas",
+      "glándulas sebáceas",
+      "glándulas salivales",
+      "glándulas suprarrenales"
+    ],
+    "correctIndex": 0,
+    "explanation": "El sudor ayuda a regular la temperatura."
+  },
+  {
+    "id": "cg-6191",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué glándulas de la piel producen sebo?",
+    "options": [
+      "sudoríparas",
+      "lagrimales",
+      "mamarias",
+      "glándulas sebáceas"
+    ],
+    "correctIndex": 3,
+    "explanation": "El sebo lubrica la piel y el pelo."
+  },
+  {
+    "id": "cg-6192",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué pigmento protege la piel de la radiación ultravioleta?",
+    "options": [
+      "queratina",
+      "melanina",
+      "colágeno",
+      "bilirrubina"
+    ],
+    "correctIndex": 1,
+    "explanation": "La melanina absorbe parte de la radiación UV."
+  },
+  {
+    "id": "cg-6193",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Cuántos folículos pilosos tiene aproximadamente el cuerpo humano?",
+    "options": [
+      "unos 50.000",
+      "unos 500.000",
+      "unos 50 millones",
+      "unos 5 millones"
+    ],
+    "correctIndex": 3,
+    "explanation": "La mayor densidad está en la cara y el cuero cabelludo."
+  },
+  {
+    "id": "cg-6194",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Cuánto crece aproximadamente el pelo del cuero cabelludo en un mes?",
+    "options": [
+      "alrededor de 1 centímetro",
+      "alrededor de 1 milímetro",
+      "alrededor de 5 centímetros",
+      "alrededor de 10 centímetros"
+    ],
+    "correctIndex": 0,
+    "explanation": "El crecimiento varía según la persona y la estación."
+  },
+  {
+    "id": "cg-6195",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué músculo diminuto eriza el pelo y produce la piel de gallina?",
+    "options": [
+      "músculo masetero",
+      "músculo orbicular",
+      "músculo sartorio",
+      "músculo erector del pelo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El erector del pelo se contrae por frío o emoción."
+  },
+  {
+    "id": "cg-6196",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿De qué proteína está formada principalmente la uña?",
+    "options": [
+      "queratina",
+      "colágeno",
+      "melanina",
+      "cartílago"
+    ],
+    "correctIndex": 0,
+    "explanation": "La queratina de la uña es muy compacta."
+  },
+  {
+    "id": "cg-6197",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué zona rosada se ve bajo la lámina de la uña?",
+    "options": [
+      "lecho ungueal",
+      "cutícula",
+      "lúnula",
+      "matriz"
+    ],
+    "correctIndex": 0,
+    "explanation": "El lecho ungueal contiene vasos que le dan color."
+  },
+  {
+    "id": "cg-6198",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué glándulas sudoríparas producen secreciones que, al descomponerse, generan olor corporal?",
+    "options": [
+      "glándulas ecrinas",
+      "glándulas sebáceas",
+      "glándulas ceruminosas",
+      "glándulas apocrinas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las apocrinas se concentran en axilas y zonas genitales."
+  },
+  {
+    "id": "cg-6199",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué médico y alquimista suizo del siglo XVI defendió el uso de remedios minerales?",
+    "options": [
+      "Andrés Vesalio",
+      "Ambrosio Paré",
+      "Paracelso",
+      "William Harvey"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paracelso criticó la medicina galénica y buscó tratamientos químicos."
+  },
+  {
+    "id": "cg-6200",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué médico británico describió en 1827 la enfermedad renal que lleva su nombre?",
+    "options": [
+      "Thomas Addison",
+      "Richard Bright",
+      "Thomas Hodgkin",
+      "James Parkinson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bright describió alteraciones del riñón que hoy se conocen como enfermedad de Bright."
+  },
+  {
+    "id": "cg-6201",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué médico británico describió en 1832 una enfermedad de los ganglios linfáticos que lleva su apellido?",
+    "options": [
+      "Thomas Hodgkin",
+      "Thomas Addison",
+      "James Parkinson",
+      "John Snow"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hodgkin describió alteraciones de los ganglios linfáticos que hoy llevan su nombre."
+  },
+  {
+    "id": "cg-6202",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué médico francés inventó la jeringa hipodérmica en 1853?",
+    "options": [
+      "Alexander Wood",
+      "Charles Pravaz",
+      "Louis Pasteur",
+      "René Laennec"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pravaz diseñó una jeringa de émbolo para inyecciones."
+  },
+  {
+    "id": "cg-6203",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué neurólogo francés describió en 1885 el trastorno de tics que lleva su apellido?",
+    "options": [
+      "Jean-Martin Charcot",
+      "Paul Broca",
+      "Guillaume Duchenne",
+      "Georges Gilles de la Tourette"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gilles de la Tourette describió varios pacientes con tics múltiples."
+  },
+  {
+    "id": "cg-6204",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué médico noruego identificó en 1873 el bacilo causante de la lepra?",
+    "options": [
+      "Emil von Behring",
+      "Robert Koch",
+      "Gerhard Hansen",
+      "Rudolf Virchow"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hansen descubrió Mycobacterium leprae en lesiones de pacientes."
+  },
+  {
+    "id": "cg-6205",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué médico estadounidense fundó junto a sus hijos la clínica que lleva su apellido en Minnesota?",
+    "options": [
+      "William Worrall Mayo",
+      "William Osler",
+      "Johns Hopkins",
+      "Charles Drew"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Clínica Mayo nació en Rochester a finales del siglo XIX."
+  },
+  {
+    "id": "cg-6206",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué fisiólogo francés recibió el Nobel de 1913 por sus estudios sobre la anafilaxia?",
+    "options": [
+      "Charles Richet",
+      "Claude Bernard",
+      "Louis Pasteur",
+      "Jules Bordet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Richet describió la reacción anafiláctica junto con Paul Portier."
+  },
+  {
+    "id": "cg-6207",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué psiquiatra alemán registró el primer electroencefalograma humano en 1924?",
+    "options": [
+      "Sigmund Freud",
+      "Emil Kraepelin",
+      "Alois Alzheimer",
+      "Hans Berger"
+    ],
+    "correctIndex": 3,
+    "explanation": "Berger colocó electrodos en el cuero cabelludo y observó ondas cerebrales."
+  },
+  {
+    "id": "cg-6208",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué bioquímico danés descubrió la vitamina K y recibió el Nobel en 1943?",
+    "options": [
+      "Casimir Funk",
+      "Albert Szent-Györgyi",
+      "Henrik Dam",
+      "Edward Mellanby"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dam identificó una sustancia necesaria para la coagulación de la sangre."
+  },
+  {
+    "id": "cg-6209",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿En qué siglo se realizaron las primeras demostraciones públicas de anestesia con éter?",
+    "options": [
+      "siglo XVII",
+      "siglo XVIII",
+      "siglo XX",
+      "siglo XIX"
+    ],
+    "correctIndex": 3,
+    "explanation": "La demostración de William Morton tuvo lugar en Boston en 1846."
+  },
+  {
+    "id": "cg-6210",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué física médica estadounidense recibió el Nobel de 1977 por desarrollar el radioinmunoensayo?",
+    "options": [
+      "Gerty Cori",
+      "Barbara McClintock",
+      "Rosalyn Yalow",
+      "Dorothy Hodgkin"
+    ],
+    "correctIndex": 2,
+    "explanation": "El radioinmunoensayo permite medir hormonas en concentraciones muy pequeñas."
+  },
+  {
+    "id": "cg-6211",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué bioquímico alemán recibió el Nobel de 1931 por descubrir el mecanismo de la respiración celular?",
+    "options": [
+      "Hans Krebs",
+      "Fritz Lipmann",
+      "Konrad Bloch",
+      "Otto Warburg"
+    ],
+    "correctIndex": 3,
+    "explanation": "Warburg estudió las enzimas que intervienen en la oxidación celular."
+  },
+  {
+    "id": "cg-6212",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué médico austríaco inventó en 1761 la percusión del tórax?",
+    "options": [
+      "René Laennec",
+      "Joseph Skoda",
+      "Leopold Auenbrugger",
+      "William Osler"
+    ],
+    "correctIndex": 2,
+    "explanation": "Auenbrugger golpeaba el tórax para detectar cambios en los pulmones."
+  },
+  {
+    "id": "cg-6213",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué anatomista italiano del siglo XVI describió las trompas que conectan los ovarios con el útero?",
+    "options": [
+      "Andrés Vesalio",
+      "Bartolomeo Eustachio",
+      "Marcello Malpighi",
+      "Gabriele Fallopio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las trompas de Falopio llevan el nombre de Gabriele Fallopio."
+  },
+  {
+    "id": "cg-6214",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué médico británico describió en 1866 el síndrome que hoy lleva su apellido?",
+    "options": [
+      "Thomas Hodgkin",
+      "James Parkinson",
+      "Thomas Addison",
+      "John Langdon Down"
+    ],
+    "correctIndex": 3,
+    "explanation": "Down describió rasgos comunes en personas con trisomía 21."
+  },
+  {
+    "id": "cg-6215",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué psiquiatra suiza describió cinco etapas del duelo?",
+    "options": [
+      "Anna Freud",
+      "Elisabeth Kübler-Ross",
+      "Melanie Klein",
+      "Karen Horney"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kübler-Ross publicó su modelo sobre el duelo en 1969."
+  },
+  {
+    "id": "cg-6216",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "easy",
+    "question": "¿Qué médico vienés fundó el psicoanálisis?",
+    "options": [
+      "Carl Jung",
+      "Sigmund Freud",
+      "Alfred Adler",
+      "Wilhelm Wundt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Freud desarrolló la interpretación de los sueños y el método psicoanalítico."
+  },
+  {
+    "id": "cg-6217",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué médico austríaco describió en 1944 un patrón de comportamiento hoy llamado síndrome de Asperger?",
+    "options": [
+      "Leo Kanner",
+      "Eugen Bleuler",
+      "Emil Kraepelin",
+      "Hans Asperger"
+    ],
+    "correctIndex": 3,
+    "explanation": "Asperger trabajó con niños y describió sus dificultades sociales."
+  },
+  {
+    "id": "cg-6218",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "medium",
+    "question": "¿Qué bioquímico húngaro descubrió la vitamina C y recibió el Nobel de 1937?",
+    "options": [
+      "Casimir Funk",
+      "Albert Szent-Györgyi",
+      "Frederick Hopkins",
+      "Karl Landsteiner"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aisló el ácido ascórbico a partir de glándulas suprarrenales y pimientos."
+  },
+  {
+    "id": "cg-6219",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué bioquímico polaco acuñó el término vitamina y describió la tiamina?",
+    "options": [
+      "Albert Szent-Györgyi",
+      "Frederick Hopkins",
+      "Edward Mellanby",
+      "Casimir Funk"
+    ],
+    "correctIndex": 3,
+    "explanation": "Funk propuso que ciertas enfermedades se debían a sustancias nitrogenadas esenciales."
+  },
+  {
+    "id": "cg-6220",
+    "category": "general",
+    "topic": "fun_facts",
+    "difficulty": "hard",
+    "question": "¿Qué médico francés realizó en 1667 una de las primeras transfusiones de sangre a un humano?",
+    "options": [
+      "William Harvey",
+      "Jean-Baptiste Denys",
+      "Marcello Malpighi",
+      "Richard Lower"
+    ],
+    "correctIndex": 1,
+    "explanation": "Denys transfundió sangre de animales a pacientes humanos."
+  }
+]

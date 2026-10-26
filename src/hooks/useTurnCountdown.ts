@@ -27,20 +27,23 @@ export function useTurnCountdown(
     }
 
     const deadline = new Date(deadlineAt).getTime();
-    const serverNow = new Date(serverTime).getTime();
-    const initial = Math.max(0, Math.ceil((deadline - serverNow) / 1000));
-    setSeconds(initial);
+    const serverOffset = new Date(serverTime).getTime() - Date.now();
 
-    const started = Date.now();
-    const timer = window.setInterval(() => {
-      const next = Math.max(0, initial - Math.floor((Date.now() - started) / 1000));
-      setSeconds(next);
+    const tick = () => {
+      const remaining = Math.max(
+        0,
+        Math.ceil((deadline - (Date.now() + serverOffset)) / 1000),
+      );
+      setSeconds(remaining);
 
-      if (next <= 0 && !fired.current) {
+      if (remaining <= 0 && !fired.current) {
         fired.current = true;
         expireRef.current?.();
       }
-    }, 200);
+    };
+
+    tick();
+    const timer = window.setInterval(tick, 200);
 
     return () => window.clearInterval(timer);
   }, [deadlineAt, serverTime, active]);

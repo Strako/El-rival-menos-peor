@@ -1,0 +1,2381 @@
+[
+  {
+    "id": "s90-0031",
+    "question": "¿De qué serie es un spin-off Frasier?",
+    "options": [
+      "Seinfeld",
+      "Wings",
+      "Cheers",
+      "Los Simpson"
+    ],
+    "correctIndex": 2,
+    "explanation": "Frasier nació como spin-off del personaje que aparecía en Cheers.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0033",
+    "question": "¿Qué actor protagoniza El príncipe del rap en Bel-Air?",
+    "options": [
+      "Will Smith",
+      "Martin Lawrence",
+      "Eddie Murphy",
+      "Jamie Foxx"
+    ],
+    "correctIndex": 0,
+    "explanation": "Will Smith interpreta una versión ficticia de sí mismo en la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0035",
+    "question": "En la serie El príncipe del rap en Bel-Air, ¿qué actor interpreta a Carlton Banks?",
+    "options": [
+      "Will Smith",
+      "DJ Jazzy Jeff",
+      "Alfonso Ribeiro",
+      "Kadeem Hardison"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alfonso Ribeiro interpretó a Carlton, el primo presumido de Will.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0037",
+    "question": "En la serie El príncipe del rap en Bel-Air, ¿cómo se llama el mayordomo de la familia Banks?",
+    "options": [
+      "Geoffrey",
+      "Jazz",
+      "Carlton",
+      "Philip"
+    ],
+    "correctIndex": 0,
+    "explanation": "Geoffrey es el mayordomo británico de la familia Banks.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0038",
+    "question": "En la serie El príncipe del rap en Bel-Air, ¿qué baile se hizo famoso gracias al personaje de Carlton?",
+    "options": [
+      "El Urkel",
+      "El baile de Carlton",
+      "El Running Man",
+      "La Macarena"
+    ],
+    "correctIndex": 1,
+    "explanation": "El característico movimiento de Carlton se conoce como el baile de Carlton.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0039",
+    "question": "En la serie El príncipe del rap en Bel-Air, ¿qué actor y DJ interpreta a Jazz?",
+    "options": [
+      "Alfonso Ribeiro",
+      "Joseph Marcell",
+      "DJ Jazzy Jeff",
+      "Kadeem Hardison"
+    ],
+    "correctIndex": 2,
+    "explanation": "DJ Jazzy Jeff, compañero musical de Will Smith, interpreta a Jazz.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0040",
+    "question": "¿En qué ciudad vive la familia Tanner en Padres forzosos?",
+    "options": [
+      "Los Ángeles",
+      "Chicago",
+      "Nueva York",
+      "San Francisco"
+    ],
+    "correctIndex": 3,
+    "explanation": "Padres forzosos se desarrolla en San Francisco, California.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0041",
+    "question": "En la serie Padres forzosos, ¿cómo se llama el padre de las tres niñas Tanner?",
+    "options": [
+      "Danny Tanner",
+      "Jesse Katsopolis",
+      "Joey Gladstone",
+      "Nick Katsopolis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Danny Tanner es el padre viudo que cría a D.J., Stephanie y Michelle.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0042",
+    "question": "En la serie Padres forzosos, ¿qué gemelas interpretan a Michelle Tanner?",
+    "options": [
+      "Las gemelas Mowry",
+      "Mary-Kate y Ashley Olsen",
+      "Las hermanas Fanning",
+      "Ashley y Elizabeth Olsen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mary-Kate y Ashley Olsen compartieron el papel de Michelle durante toda la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0043",
+    "question": "En la serie Padres forzosos, ¿cómo se llama el tío de las niñas que vive con ellas?",
+    "options": [
+      "Joey Gladstone",
+      "Danny Tanner",
+      "Jesse Katsopolis",
+      "Steve Hale"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jesse es el tío materno de las niñas y vive en la casa para ayudar a Danny.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0044",
+    "question": "En la serie Padres forzosos, ¿qué frase repite Stephanie Tanner con frecuencia?",
+    "options": [
+      "You got it, dude",
+      "Did I do that?",
+      "Cut it out",
+      "How rude!"
+    ],
+    "correctIndex": 3,
+    "explanation": "How rude! es la muletilla característica de Stephanie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0045",
+    "question": "En la serie Padres forzosos, ¿cómo se llama la banda en la que toca Jesse?",
+    "options": [
+      "Jesse and the Rippers",
+      "The Beach Boys",
+      "The Tanner Trio",
+      "Uncle Jesse's Band"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jesse and the Rippers es el grupo con el que Jesse toca en la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0046",
+    "question": "¿Cómo se llama el vecino torpe y enamorado de Laura en Cosas de casa?",
+    "options": [
+      "Waldo Faldo",
+      "Steve Urkel",
+      "Eddie Winslow",
+      "Richie Crawford"
+    ],
+    "correctIndex": 1,
+    "explanation": "Steve Urkel es el vecino genio y torpe que persigue a Laura durante toda la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0047",
+    "question": "En la serie Cosas de casa, ¿qué frase dice Steve Urkel después de provocar un accidente?",
+    "options": [
+      "How rude!",
+      "Cut it out!",
+      "Did I do that?",
+      "I'm listening"
+    ],
+    "correctIndex": 2,
+    "explanation": "Did I do that? es la frase más recordada de Steve Urkel.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0048",
+    "question": "En la serie Cosas de casa, ¿en qué ciudad vive la familia Winslow?",
+    "options": [
+      "Detroit",
+      "Cleveland",
+      "Filadelfia",
+      "Chicago"
+    ],
+    "correctIndex": 3,
+    "explanation": "La familia Winslow vive en Chicago, Illinois.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0049",
+    "question": "En la serie Cosas de casa, ¿cómo se llama el alter ego elegante y seductor de Steve Urkel?",
+    "options": [
+      "Stefan Urquelle",
+      "Stefan Winslow",
+      "Cool Steve",
+      "Urkelbot"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stefan Urquelle es la personalidad sofisticada que Urkel adopta tras un experimento.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0050",
+    "question": "En la serie Cosas de casa, ¿cómo se llama el padre de los Winslow, que trabaja como policía?",
+    "options": [
+      "Eddie Winslow",
+      "Carl Winslow",
+      "Harriette Winslow",
+      "Waldo Faldo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Carl Winslow es el padre de familia y oficial de policía de Chicago.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0051",
+    "question": "En la serie Cosas de casa, ¿qué actor interpreta a Steve Urkel?",
+    "options": [
+      "Reginald VelJohnson",
+      "Darius McCrary",
+      "Jaleel White",
+      "Kellie Shanygne Williams"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jaleel White interpretó a Steve Urkel y a sus variantes durante la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0052",
+    "question": "¿Cómo se llama el protagonista de Yo y el mundo?",
+    "options": [
+      "Shawn Hunter",
+      "Eric Matthews",
+      "George Feeny",
+      "Cory Matthews"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cory Matthews es el protagonista que atraviesa la secundaria y la universidad.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0053",
+    "question": "En la serie Yo y el mundo, ¿cómo se llama el gran amor de Cory, con quien termina casándose?",
+    "options": [
+      "Topanga Lawrence",
+      "Angela Moore",
+      "Rachel McGuire",
+      "Lauren"
+    ],
+    "correctIndex": 0,
+    "explanation": "Topanga Lawrence es la novia de la infancia y luego esposa de Cory.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0054",
+    "question": "En la serie Yo y el mundo, ¿quién es el profesor y vecino que aconseja a Cory?",
+    "options": [
+      "Jonathan Turner",
+      "George Feeny",
+      "Eli Williams",
+      "Stuart Minkus"
+    ],
+    "correctIndex": 1,
+    "explanation": "George Feeny es el profesor y vecino que guía a Cory durante toda la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0055",
+    "question": "En la serie Yo y el mundo, ¿en qué ciudad vive Cory Matthews?",
+    "options": [
+      "Boston",
+      "Chicago",
+      "Filadelfia",
+      "Nueva York"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yo y el mundo se desarrolla en Filadelfia, Pensilvania.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0056",
+    "question": "En la serie Yo y el mundo, ¿cómo se llama el mejor amigo de Cory?",
+    "options": [
+      "Eric Matthews",
+      "Stuart Minkus",
+      "Jack Hunter",
+      "Shawn Hunter"
+    ],
+    "correctIndex": 3,
+    "explanation": "Shawn Hunter es el mejor amigo de Cory y su compañero de aventuras.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0057",
+    "question": "En la serie Yo y el mundo, ¿qué actor interpreta a George Feeny?",
+    "options": [
+      "William Daniels",
+      "Ben Savage",
+      "Rider Strong",
+      "William Russ"
+    ],
+    "correctIndex": 0,
+    "explanation": "William Daniels, recordado también por El auto fantástico, interpretó al Sr. Feeny.",
+    "reason": "título y nombres en español"
+  },
+  {
+    "id": "s90-0058",
+    "question": "En la serie Mejorando la casa, ¿cómo se llama el programa de bricolaje que conduce Tim Taylor?",
+    "options": [
+      "Mejorando la casa",
+      "Tool Time",
+      "Fix It Up",
+      "Tool Talk"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tool Time es el programa de herramientas que Tim presenta con Al Borland.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0059",
+    "question": "En la serie Mejorando la casa, ¿cómo se llama el vecino que conversa con Tim desde detrás de la cerca?",
+    "options": [
+      "Al Borland",
+      "Mark Taylor",
+      "Wilson",
+      "Harry"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wilson es el vecino sabio cuya cara casi nunca se ve completa.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0060",
+    "question": "¿En qué ciudad se desarrolla Mejorando la casa?",
+    "options": [
+      "Chicago",
+      "Cleveland",
+      "Milwaukee",
+      "Detroit"
+    ],
+    "correctIndex": 3,
+    "explanation": "La familia Taylor vive en Detroit, Míchigan.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0061",
+    "question": "En la serie Mejorando la casa, ¿cómo se llama el compañero de Tim en Tool Time?",
+    "options": [
+      "Al Borland",
+      "Wilson",
+      "Brad Taylor",
+      "Harry Turner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al Borland es el copresentador prudente de Tool Time.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0062",
+    "question": "En la serie Mejorando la casa, ¿qué actor interpreta al vecino Wilson?",
+    "options": [
+      "Richard Karn",
+      "Earl Hindman",
+      "Jonathan Taylor Thomas",
+      "Tim Allen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Earl Hindman interpretó al vecino Wilson durante toda la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0063",
+    "question": "¿Cómo se llama el protagonista de Matrimonio con hijos?",
+    "options": [
+      "Bud Bundy",
+      "Steve Rhoades",
+      "Al Bundy",
+      "Jefferson D'Arcy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al Bundy es el vendedor de zapatos protagonista de la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0064",
+    "question": "En la serie Matrimonio con hijos, ¿cuál es el trabajo de Al Bundy?",
+    "options": [
+      "Vendedor de autos",
+      "Mecánico",
+      "Profesor de gimnasia",
+      "Vendedor de zapatos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al trabaja en una tienda de zapatos llamada Gary's Shoes.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0065",
+    "question": "En la serie Matrimonio con hijos, ¿cómo se llama la esposa de Al Bundy?",
+    "options": [
+      "Peggy",
+      "Kelly",
+      "Marcy",
+      "Bud"
+    ],
+    "correctIndex": 0,
+    "explanation": "Peggy Bundy es la esposa de Al, famosa por su peinado y su pereza.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0066",
+    "question": "En la serie Matrimonio con hijos, ¿cómo se llaman los dos hijos de Al y Peggy?",
+    "options": [
+      "Kelly y Steve",
+      "Kelly y Bud",
+      "Bud y Jefferson",
+      "Kelly y Seven"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kelly y Bud son los hijos adolescentes de los Bundy.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0067",
+    "question": "En la serie Matrimonio con hijos, ¿cuántos touchdowns dice Al Bundy que anotó en un solo partido de preparatoria?",
+    "options": [
+      "Dos",
+      "Tres",
+      "Cuatro",
+      "Cinco"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al presume de haber anotado cuatro touchdowns en un partido con Polk High.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0068",
+    "question": "En la serie Matrimonio con hijos, ¿qué actor interpreta a Al Bundy?",
+    "options": [
+      "Ted McGinley",
+      "David Faustino",
+      "Ed Begley Jr.",
+      "Ed O'Neill"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ed O'Neill interpretó a Al Bundy y luego fue Jay Pritchett en Modern Family.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0069",
+    "question": "En la serie Sabrina, cosas de brujas, ¿cómo se llama la gata parlante que vive con Sabrina?",
+    "options": [
+      "Salem",
+      "Eddie",
+      "Comet",
+      "Buck"
+    ],
+    "correctIndex": 0,
+    "explanation": "Salem es la gata negra parlante que acompaña a Sabrina.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0070",
+    "question": "En la serie Sabrina, cosas de brujas, ¿quiénes son las tías brujas con las que vive Sabrina?",
+    "options": [
+      "Hilda y Mary",
+      "Hilda y Zelda",
+      "Zelda y Sabrina",
+      "Hilda y Salem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hilda y Zelda son las tías de Sabrina y sus guardianas.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0071",
+    "question": "En la serie Sabrina, cosas de brujas, ¿cómo se llama el interés amoroso de Sabrina?",
+    "options": [
+      "Josh Blackhart",
+      "Aaron Jacobs",
+      "Harvey Kinkle",
+      "Dashiell"
+    ],
+    "correctIndex": 2,
+    "explanation": "Harvey Kinkle es el vecino y novio de Sabrina durante varias temporadas.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0072",
+    "question": "En la serie Sabrina, cosas de brujas, ¿en qué editorial de cómics se basa el personaje de Sabrina?",
+    "options": [
+      "DC Comics",
+      "Marvel Comics",
+      "Dark Horse Comics",
+      "Archie Comics"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sabrina apareció originalmente en los cómics de Archie Comics.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0073",
+    "question": "¿Qué actriz protagoniza La niñera?",
+    "options": [
+      "Fran Drescher",
+      "Roseanne Barr",
+      "Debra Messing",
+      "Leah Remini"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fran Drescher creó y protagonizó La niñera como Fran Fine.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0074",
+    "question": "En la serie La niñera, ¿cómo se llama el personaje que interpreta Fran Drescher?",
+    "options": [
+      "Fran Sheffield",
+      "Fran Fine",
+      "Sylvia Fine",
+      "C.C. Babcock"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fran Fine es la vendedora de cosméticos que se convierte en niñera.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0075",
+    "question": "En la serie La niñera, ¿a qué familia llega Fran para trabajar como niñera?",
+    "options": [
+      "Los Fine",
+      "Los Maxwell",
+      "Los Sheffield",
+      "Los Brighton"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fran llega por error a la casa del productor Maxwell Sheffield.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0076",
+    "question": "En la serie La niñera, ¿cuál es la profesión de Maxwell Sheffield?",
+    "options": [
+      "Abogado",
+      "Médico",
+      "Empresario naviero",
+      "Productor de teatro"
+    ],
+    "correctIndex": 3,
+    "explanation": "Maxwell Sheffield es un rico productor de Broadway.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0077",
+    "question": "En la serie La niñera, ¿cómo se llama el mayordomo de los Sheffield?",
+    "options": [
+      "Niles",
+      "Brighton",
+      "Maxwell",
+      "Yetta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Niles es el sarcástico mayordomo de la familia Sheffield.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0089",
+    "question": "¿Qué son en realidad los miembros de la familia Solomon en Cosas de marcianos?",
+    "options": [
+      "Extraterrestres",
+      "Fantasmas",
+      "Robots",
+      "Mutantes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los Solomon son extraterrestres que se hacen pasar por una familia humana.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0090",
+    "question": "En la serie Cosas de marcianos, ¿qué actor interpreta a Dick Solomon?",
+    "options": [
+      "French Stewart",
+      "John Lithgow",
+      "Joseph Gordon-Levitt",
+      "Wayne Knight"
+    ],
+    "correctIndex": 1,
+    "explanation": "John Lithgow interpretó al comandante alienígena Dick Solomon.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0091",
+    "question": "En la serie Cosas de marcianos, ¿cuál de los alienígenas es el comandante de la misión?",
+    "options": [
+      "Harry",
+      "Tommy",
+      "Dick",
+      "Sally"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dick es el alto comandante de la misión enviada a la Tierra.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0092",
+    "question": "En la serie Cosas de marcianos, ¿cómo se llama la profesora universitaria que es el interés romántico de Dick?",
+    "options": [
+      "Sally Solomon",
+      "Nina Campbell",
+      "Judith Draper",
+      "Mary Albright"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mary Albright es la profesora de antropología y pareja de Dick.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0093",
+    "question": "En la serie El show de Drew Carey, ¿en qué tienda departamental trabaja Drew Carey?",
+    "options": [
+      "Winfred-Louder",
+      "Dunder Mifflin",
+      "Buy More",
+      "Wernham Hogg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Drew trabaja en la tienda departamental Winfred-Louder de Cleveland.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0094",
+    "question": "¿En qué ciudad se desarrolla El show de Drew Carey?",
+    "options": [
+      "Chicago",
+      "Cleveland",
+      "Detroit",
+      "Pittsburgh"
+    ],
+    "correctIndex": 1,
+    "explanation": "La serie se desarrolla en Cleveland, Ohio, ciudad natal de Drew Carey.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0095",
+    "question": "En la serie El show de Drew Carey, ¿cómo se llama la compañera de trabajo que es la enemiga de Drew?",
+    "options": [
+      "Kate O'Brien",
+      "Lisa Robbins",
+      "Mimi Bobeck",
+      "Oswald Lee Harvey"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mimi Bobeck es la rival de Drew en la oficina, famosa por su maquillaje.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0096",
+    "question": "En la serie Paso a paso, ¿en qué estado viven Frank, Carol y sus hijos?",
+    "options": [
+      "Ohio",
+      "Míchigan",
+      "Illinois",
+      "Wisconsin"
+    ],
+    "correctIndex": 3,
+    "explanation": "La familia reconstituida de Paso a paso vive en Wisconsin.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0097",
+    "question": "En la serie Paso a paso, ¿qué actores interpretan a Frank Lambert y Carol Foster?",
+    "options": [
+      "Patrick Duffy y Suzanne Somers",
+      "Tim Allen y Patricia Richardson",
+      "Ed O'Neill y Katey Sagal",
+      "Bob Saget y Lori Loughlin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Patrick Duffy y Suzanne Somers encabezaron esta comedia familiar.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0098",
+    "question": "En la serie Paso a paso, ¿qué actriz interpreta a Al Lambert, la hija menor de Frank?",
+    "options": [
+      "Sasha Mitchell",
+      "Christine Lakin",
+      "Staci Keanan",
+      "Angela Watson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Christine Lakin interpretó a Al Lambert, la hija traviesa de Frank.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0099",
+    "question": "En la serie Salvados por la campana, ¿cómo se llama la escuela secundaria a la que asisten Zack y sus amigos?",
+    "options": [
+      "Valley High",
+      "West Beverly High",
+      "Bayside High",
+      "Liberty High"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zack y sus amigos estudian en Bayside High, en California.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0100",
+    "question": "En la serie Salvados por la campana, ¿cómo se llama el director de Bayside High?",
+    "options": [
+      "Sr. Feeny",
+      "Sr. Turner",
+      "Director Skinner",
+      "Sr. Belding"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sr. Belding es el director de la escuela y blanco frecuente de las bromas de Zack.",
+    "reason": "título y nombres en español"
+  },
+  {
+    "id": "s90-0101",
+    "question": "En la serie Salvados por la campana, ¿cómo se llama el amigo nerd de Zack?",
+    "options": [
+      "Screech",
+      "A.C. Slater",
+      "Jessie Spano",
+      "Lisa Turtle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Samuel Screech Powers es el amigo inventor y torpe de Zack.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0102",
+    "question": "En la serie Salvados por la campana, ¿qué actor interpreta a Zack Morris?",
+    "options": [
+      "Mario López",
+      "Mark-Paul Gosselaar",
+      "Dustin Diamond",
+      "Tiffani Thiessen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mark-Paul Gosselaar interpretó a Zack Morris, el carismático líder del grupo.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0103",
+    "question": "En la serie Salvados por la campana, ¿cómo se llama la porrista que es el gran amor de Zack?",
+    "options": [
+      "Lisa Turtle",
+      "Jessie Spano",
+      "Kelly Kapowski",
+      "Kelly Taylor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kelly Kapowski es la porrista y novia intermitente de Zack.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0104",
+    "question": "En la serie Salvados por la campana, ¿qué actriz interpreta a Kelly Kapowski?",
+    "options": [
+      "Lark Voorhies",
+      "Elizabeth Berkley",
+      "Leanna Creel",
+      "Tiffani Thiessen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tiffani Thiessen interpretó a Kelly Kapowski en Salvados por la campana.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0105",
+    "question": "En la serie Salvados por la campana, ¿qué canción canta Jessie en el episodio en que abusa de las pastillas de cafeína?",
+    "options": [
+      "I'm So Excited",
+      "Girls Just Want to Have Fun",
+      "Material Girl",
+      "Wake Me Up Before You Go-Go"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jessie canta I'm So Excited, de The Pointer Sisters, en el episodio sobre las pastillas.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0110",
+    "question": "En la serie Sensación de vivir, ¿cómo se llaman los gemelos que se mudan desde Minnesota al inicio de la serie?",
+    "options": [
+      "Dylan y Kelly",
+      "Brandon y Brenda Walsh",
+      "Steve y Donna",
+      "Andrea y David"
+    ],
+    "correctIndex": 1,
+    "explanation": "Brandon y Brenda Walsh llegan desde Minnesota y se convierten en el centro de la trama.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0111",
+    "question": "¿En qué cadena se emitió originalmente Sensación de vivir?",
+    "options": [
+      "NBC",
+      "ABC",
+      "FOX",
+      "CBS"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sensación de vivir fue una de las series juveniles emblemáticas de FOX.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0112",
+    "question": "En la serie Sensación de vivir, ¿cómo se llama el instituto al que asisten los protagonistas?",
+    "options": [
+      "Bayside High",
+      "Liberty High",
+      "Palisades High",
+      "West Beverly High"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los protagonistas estudian en West Beverly High.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0114",
+    "question": "En la serie Sensación de vivir, ¿qué actor interpreta a Dylan McKay?",
+    "options": [
+      "Jason Priestley",
+      "Luke Perry",
+      "Ian Ziering",
+      "Brian Austin Green"
+    ],
+    "correctIndex": 1,
+    "explanation": "Luke Perry interpretó al rebelde Dylan McKay.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0115",
+    "question": "En la serie Sensación de vivir, ¿qué actriz interpreta a Kelly Taylor?",
+    "options": [
+      "Shannen Doherty",
+      "Tori Spelling",
+      "Jennie Garth",
+      "Gabrielle Carteris"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jennie Garth dio vida a Kelly Taylor durante toda la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0116",
+    "question": "¿De qué serie es spin-off Melrose Place?",
+    "options": [
+      "Knots Landing",
+      "Dinastía",
+      "Dawson's Creek",
+      "Sensación de vivir"
+    ],
+    "correctIndex": 3,
+    "explanation": "Melrose Place nació como un spin-off de Sensación de vivir.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0124",
+    "question": "En la serie Cinco en familia, ¿cómo se llama el hermano mayor que asume la tutela de los Salinger?",
+    "options": [
+      "Bailey",
+      "Owen",
+      "Griffin",
+      "Charlie"
+    ],
+    "correctIndex": 3,
+    "explanation": "Charlie Salinger se hace cargo de sus hermanos tras la muerte de los padres.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0125",
+    "question": "En la serie Cinco en familia, ¿qué les ocurre a los padres de los Salinger al inicio de la serie?",
+    "options": [
+      "Mueren en un accidente de tráfico",
+      "Se mudan a Europa",
+      "Los abandonan",
+      "Mueren en un incendio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los padres mueren en un accidente automovilístico y los hijos quedan a cargo de Charlie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0126",
+    "question": "En la serie Cinco en familia, ¿qué actor interpreta a Bailey Salinger?",
+    "options": [
+      "Matthew Fox",
+      "Scott Wolf",
+      "Scott Speedman",
+      "Jeremy London"
+    ],
+    "correctIndex": 1,
+    "explanation": "Scott Wolf interpretó a Bailey, el segundo hermano de los Salinger.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0127",
+    "question": "¿Cómo se llama la protagonista de Es mi vida?",
+    "options": [
+      "Rayanne Graff",
+      "Jordan Catalano",
+      "Angela Chase",
+      "Sharon Cherski"
+    ],
+    "correctIndex": 2,
+    "explanation": "Angela Chase es la adolescente protagonista de la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0128",
+    "question": "En la serie Es mi vida, ¿cómo se llama el chico rebelde del que Angela está enamorada?",
+    "options": [
+      "Brian Krakow",
+      "Rickie Vasquez",
+      "Graham Chase",
+      "Jordan Catalano"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jordan Catalano, interpretado por Jared Leto, es el interés amoroso de Angela.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0129",
+    "question": "¿Cuántas temporadas tuvo Es mi vida?",
+    "options": [
+      "Una",
+      "Dos",
+      "Tres",
+      "Cuatro"
+    ],
+    "correctIndex": 0,
+    "explanation": "La serie se canceló tras una sola temporada de diecinueve episodios.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0130",
+    "question": "¿En qué ciudad se ubica el hospital County General de Urgencias?",
+    "options": [
+      "Nueva York",
+      "Chicago",
+      "Los Ángeles",
+      "Boston"
+    ],
+    "correctIndex": 1,
+    "explanation": "Urgencias se desarrolla en el ficticio County General de Chicago.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0131",
+    "question": "En la serie Urgencias, ¿qué actor interpreta al Dr. Doug Ross?",
+    "options": [
+      "Anthony Edwards",
+      "Noah Wyle",
+      "George Clooney",
+      "Eriq La Salle"
+    ],
+    "correctIndex": 2,
+    "explanation": "George Clooney interpretó al pediatra Doug Ross antes de su carrera en el cine.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0132",
+    "question": "En la serie Urgencias, ¿qué actor interpreta al Dr. Mark Greene?",
+    "options": [
+      "George Clooney",
+      "Noah Wyle",
+      "Julianna Margulies",
+      "Anthony Edwards"
+    ],
+    "correctIndex": 3,
+    "explanation": "Anthony Edwards fue el Dr. Mark Greene, uno de los médicos centrales de Urgencias.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0133",
+    "question": "En la serie Urgencias, ¿cómo se llama la enfermera que tiene una relación con Doug Ross?",
+    "options": [
+      "Carol Hathaway",
+      "Susan Lewis",
+      "Kerry Weaver",
+      "Abbey Lockhart"
+    ],
+    "correctIndex": 0,
+    "explanation": "Carol Hathaway, interpretada por Julianna Margulies, es enfermera y pareja de Doug.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0134",
+    "question": "En la serie Urgencias, ¿qué actriz interpreta a la Dra. Kerry Weaver?",
+    "options": [
+      "Sherry Stringfield",
+      "Laura Innes",
+      "Julianna Margulies",
+      "Maura Tierney"
+    ],
+    "correctIndex": 1,
+    "explanation": "Laura Innes interpretó a la estricta Dra. Kerry Weaver.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0138",
+    "question": "En la serie Policías de Nueva York, ¿qué actor interpreta a Andy Sipowicz?",
+    "options": [
+      "David Caruso",
+      "Dennis Franz",
+      "Jimmy Smits",
+      "Dennis Farina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dennis Franz ganó varios Emmy por su papel de Andy Sipowicz.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0139",
+    "question": "¿En qué ciudad se desarrolla Policías de Nueva York?",
+    "options": [
+      "Chicago",
+      "Los Ángeles",
+      "Nueva York",
+      "Baltimore"
+    ],
+    "correctIndex": 2,
+    "explanation": "La serie sigue a los detectives de una comisaría de Nueva York.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0140",
+    "question": "En la serie Policías de Nueva York, ¿qué actor interpretó a John Kelly en la primera temporada?",
+    "options": [
+      "Jimmy Smits",
+      "Dennis Franz",
+      "Gordon Clapp",
+      "David Caruso"
+    ],
+    "correctIndex": 3,
+    "explanation": "David Caruso interpretó a John Kelly antes de abandonar la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0141",
+    "question": "En la serie Policías de Nueva York, ¿qué actor interpreta al detective Greg Medavoy?",
+    "options": [
+      "Gordon Clapp",
+      "Nicholas Turturro",
+      "James McDaniel",
+      "Dennis Franz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gordon Clapp interpretó al detective Greg Medavoy durante toda la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0142",
+    "question": "En la serie Ley y orden, ¿qué actor interpreta al detective Lennie Briscoe?",
+    "options": [
+      "Sam Waterston",
+      "Jerry Orbach",
+      "Chris Noth",
+      "Benjamin Bratt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jerry Orbach interpretó a Lennie Briscoe desde 1992 hasta 2004.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0143",
+    "question": "En la serie Ley y orden, ¿qué actor interpreta al fiscal Jack McCoy?",
+    "options": [
+      "Michael Moriarty",
+      "Steven Hill",
+      "Sam Waterston",
+      "Jerry Orbach"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sam Waterston interpretó a Jack McCoy durante muchas temporadas.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0144",
+    "question": "En la serie Ley y orden, ¿cómo se llama el fiscal de distrito interpretado por Steven Hill?",
+    "options": [
+      "Jack McCoy",
+      "Ben Stone",
+      "Paul Robinette",
+      "Adam Schiff"
+    ],
+    "correctIndex": 3,
+    "explanation": "Adam Schiff es el fiscal de distrito que supervisa a los fiscales de la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0145",
+    "question": "¿Quién creó la franquicia Ley y orden?",
+    "options": [
+      "Dick Wolf",
+      "David E. Kelley",
+      "Steven Bochco",
+      "Tom Fontana"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dick Wolf creó Ley y orden y sus numerosas series derivadas.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0146",
+    "question": "¿En qué ciudad se desarrolla Homicidio: vida en la calle?",
+    "options": [
+      "Nueva York",
+      "Baltimore",
+      "Chicago",
+      "Filadelfia"
+    ],
+    "correctIndex": 1,
+    "explanation": "La serie sigue a la unidad de homicidios de Baltimore.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0147",
+    "question": "En la serie Homicidio: vida en la calle, ¿qué actor interpreta al detective Frank Pembleton?",
+    "options": [
+      "Kyle Secor",
+      "Richard Belzer",
+      "Andre Braugher",
+      "Clark Johnson"
+    ],
+    "correctIndex": 2,
+    "explanation": "Andre Braugher ganó un Emmy por interpretar a Frank Pembleton.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0148",
+    "question": "En la serie Homicidio: vida en la calle, ¿qué actor interpreta al detective John Munch?",
+    "options": [
+      "Andre Braugher",
+      "Kyle Secor",
+      "Yaphet Kotto",
+      "Richard Belzer"
+    ],
+    "correctIndex": 3,
+    "explanation": "Richard Belzer interpretó a John Munch, personaje que luego apareció en otras series.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0149",
+    "question": "¿En qué libro de David Simon se basa la serie Homicidio: vida en la calle?",
+    "options": [
+      "Homicide: A Year on the Killing Streets",
+      "The Wire",
+      "Serpico",
+      "In Cold Blood"
+    ],
+    "correctIndex": 0,
+    "explanation": "La serie se basa en el libro de David Simon sobre la unidad de homicidios de Baltimore.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0150",
+    "question": "¿En qué ciudad se ubica el bufete de la serie El abogado?",
+    "options": [
+      "Nueva York",
+      "Boston",
+      "Chicago",
+      "Los Ángeles"
+    ],
+    "correctIndex": 1,
+    "explanation": "La serie El abogado sigue a un bufete de abogados de Boston.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0151",
+    "question": "En la serie El abogado, ¿qué actor interpreta a Bobby Donnell?",
+    "options": [
+      "Steve Harris",
+      "Michael Badalucco",
+      "Dylan McDermott",
+      "Camryn Manheim"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dylan McDermott interpretó a Bobby Donnell, fundador del bufete.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0152",
+    "question": "En la serie El abogado, ¿cómo se llama la abogada interpretada por Camryn Manheim?",
+    "options": [
+      "Lindsay Dole",
+      "Rebecca Washington",
+      "Jamie Stringer",
+      "Ellenor Frutt"
+    ],
+    "correctIndex": 3,
+    "explanation": "Camryn Manheim interpretó a Ellenor Frutt y ganó un Emmy por ese papel.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0157",
+    "question": "¿Cómo se llama el protagonista de Los Soprano?",
+    "options": [
+      "Tony Soprano",
+      "Christopher Moltisanti",
+      "Silvio Dante",
+      "Junior Soprano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tony Soprano es el jefe de la mafia de Nueva Jersey y paciente de psicoanálisis.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0158",
+    "question": "¿En qué cadena se emitió Los Soprano?",
+    "options": [
+      "Showtime",
+      "HBO",
+      "NBC",
+      "AMC"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los Soprano fue una de las series dramáticas más influyentes de HBO.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0160",
+    "question": "En la serie Los Soprano, ¿qué actor interpreta a Christopher Moltisanti?",
+    "options": [
+      "Tony Sirico",
+      "Steven Van Zandt",
+      "Dominic Chianese",
+      "Michael Imperioli"
+    ],
+    "correctIndex": 3,
+    "explanation": "Michael Imperioli interpretó a Christopher, sobrino y protegido de Tony.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0162",
+    "question": "En la serie Sexo en Nueva York, ¿qué actriz interpreta a Carrie Bradshaw?",
+    "options": [
+      "Kim Cattrall",
+      "Sarah Jessica Parker",
+      "Kristin Davis",
+      "Cynthia Nixon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sarah Jessica Parker interpretó a Carrie Bradshaw, la narradora de la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0163",
+    "question": "¿En qué ciudad viven las protagonistas de Sexo en Nueva York?",
+    "options": [
+      "Los Ángeles",
+      "Chicago",
+      "Nueva York",
+      "Boston"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las cuatro amigas viven y trabajan en Manhattan, Nueva York.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0164",
+    "question": "En la serie Sexo en Nueva York, ¿qué actor interpreta al Sr. Big?",
+    "options": [
+      "David Eigenberg",
+      "John Corbett",
+      "Kyle MacLachlan",
+      "Chris Noth"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chris Noth interpretó al Sr. Big, el gran amor de Carrie.",
+    "reason": "título y nombres en español"
+  },
+  {
+    "id": "s90-0165",
+    "question": "En la serie Sexo en Nueva York, ¿qué actor interpreta a Steve Brady?",
+    "options": [
+      "David Eigenberg",
+      "Chris Noth",
+      "John Corbett",
+      "Evan Handler"
+    ],
+    "correctIndex": 0,
+    "explanation": "David Eigenberg interpretó a Steve Brady, el novio de Miranda.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0169",
+    "question": "¿A qué estado de EE. UU. se muda el doctor Joel Fleischman, protagonista de Doctor en Alaska?",
+    "options": [
+      "Alaska",
+      "Montana",
+      "Minnesota",
+      "Maine"
+    ],
+    "correctIndex": 0,
+    "explanation": "El doctor neoyorquino Joel Fleischman es enviado a Alaska para pagar sus estudios.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0170",
+    "question": "¿Cómo se llama el pueblo ficticio de Doctor en Alaska?",
+    "options": [
+      "Capeside",
+      "Cicely",
+      "Twin Peaks",
+      "Mayberry"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cicely, Alaska, es el pueblo donde transcurre Doctor en Alaska.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0171",
+    "question": "En la serie Doctor en Alaska, ¿qué actor interpreta a Joel Fleischman?",
+    "options": [
+      "John Corbett",
+      "Barry Corbin",
+      "Rob Morrow",
+      "Janine Turner"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rob Morrow interpretó al doctor Joel Fleischman durante las primeras temporadas.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0176",
+    "question": "¿Quién es el capitán de la Enterprise-D en Star Trek: La nueva generación?",
+    "options": [
+      "Jean-Luc Picard",
+      "Benjamin Sisko",
+      "Kathryn Janeway",
+      "James T. Kirk"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jean-Luc Picard, interpretado por Patrick Stewart, comandó la Enterprise-D.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0177",
+    "question": "¿Qué actor interpreta a Jean-Luc Picard en Star Trek: La nueva generación?",
+    "options": [
+      "Avery Brooks",
+      "Patrick Stewart",
+      "Kate Mulgrew",
+      "William Shatner"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patrick Stewart encarnó a Picard durante las siete temporadas de la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0178",
+    "question": "¿Cómo se llama el androide que forma parte de la tripulación de la Enterprise-D?",
+    "options": [
+      "Odo",
+      "Tuvok",
+      "Data",
+      "Siete de Nueve"
+    ],
+    "correctIndex": 2,
+    "explanation": "Data es el androide que busca comprender la condición humana.",
+    "reason": "cargo o epíteto en español"
+  },
+  {
+    "id": "s90-0179",
+    "question": "¿A qué raza pertenece Worf en Star Trek: La nueva generación?",
+    "options": [
+      "Vulcano",
+      "Ferengi",
+      "Betaziano",
+      "Klingon"
+    ],
+    "correctIndex": 3,
+    "explanation": "Worf es un klingon criado por humanos que sirve como oficial de seguridad.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0181",
+    "question": "En Star Trek: La nueva generación, ¿qué actriz interpreta a Guinan, la anfitriona del bar Ten Forward?",
+    "options": [
+      "Marina Sirtis",
+      "Whoopi Goldberg",
+      "Gates McFadden",
+      "Terry Farrell"
+    ],
+    "correctIndex": 1,
+    "explanation": "Whoopi Goldberg dio vida a Guinan, la sabia anfitriona de Ten Forward.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0182",
+    "question": "En Star Trek: La nueva generación, ¿qué actor interpreta a Q, el ser omnipotente que desafía a Picard?",
+    "options": [
+      "Brent Spiner",
+      "Jonathan Frakes",
+      "John de Lancie",
+      "Michael Dorn"
+    ],
+    "correctIndex": 2,
+    "explanation": "John de Lancie interpretó a Q en varias series de Star Trek.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0183",
+    "question": "En Star Trek: La nueva generación, ¿qué nombre recibe Picard cuando los Borg lo asimilan en el episodio The Best of Both Worlds?",
+    "options": [
+      "Hugh",
+      "Lore",
+      "B-4",
+      "Locutus"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los Borg convierten a Picard en Locutus para hablar en su nombre.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0184",
+    "question": "¿Qué actor interpreta a Benjamin Sisko en Star Trek: Espacio profundo nueve?",
+    "options": [
+      "Avery Brooks",
+      "Cirroc Lofton",
+      "Colm Meaney",
+      "Michael Dorn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Avery Brooks encarnó al comandante Benjamin Sisko.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0185",
+    "question": "¿Qué personaje es el ferengi que regenta el bar de Espacio profundo nueve?",
+    "options": [
+      "Nog",
+      "Quark",
+      "Rom",
+      "Odo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quark es el bartender ferengi que regenta el bar de la estación.",
+    "reason": "nombre de la estación en español"
+  },
+  {
+    "id": "s90-0186",
+    "question": "¿Qué es Odo, el jefe de seguridad de Espacio profundo nueve?",
+    "options": [
+      "Un vulcano",
+      "Un ferengi",
+      "Un cambiante",
+      "Un holograma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Odo es un cambiante que puede adoptar cualquier forma.",
+    "reason": "nombre de la estación en español"
+  },
+  {
+    "id": "s90-0187",
+    "question": "En Star Trek: Espacio profundo nueve, ¿a qué raza pertenece Kira Nerys, oficial de la estación?",
+    "options": [
+      "Cardassiana",
+      "Trill",
+      "Betaziana",
+      "Bajorana"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kira Nerys es una oficial bajorana que luchó contra la ocupación cardassiana.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0188",
+    "question": "¿Cómo se llamaba la estación espacial antes de recibir el nombre de Espacio profundo nueve?",
+    "options": [
+      "Terok Nor",
+      "Empok Nor",
+      "Bajor Uno",
+      "Valo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cardassianos la llamaban Terok Nor durante su ocupación de Bajor.",
+    "reason": "nombre de la estación en español"
+  },
+  {
+    "id": "s90-0189",
+    "question": "¿Qué actor interpreta a Gul Dukat en Star Trek: Espacio profundo nueve?",
+    "options": [
+      "Andrew Robinson",
+      "Marc Alaimo",
+      "Jeffrey Combs",
+      "Casey Biggs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marc Alaimo dio vida al cardassiano Gul Dukat.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0194",
+    "question": "¿Qué es Siete de Nueve antes de unirse a la tripulación de la Voyager?",
+    "options": [
+      "Una androide creada por los Borg",
+      "Una oficial vulcana",
+      "Una humana asimilada por los Borg",
+      "Una piloto maquis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Siete de Nueve fue asimilada de niña y rescatada por la Voyager.",
+    "reason": "cargo o epíteto en español"
+  },
+  {
+    "id": "s90-0195",
+    "question": "¿Qué especie del cuadrante Delta es un enemigo temible de los Borg en Voyager?",
+    "options": [
+      "Los Kazon",
+      "Los Vidiianos",
+      "Los Hirogen",
+      "Especie 8472"
+    ],
+    "correctIndex": 3,
+    "explanation": "Especie 8472 proviene del espacio fluídico y resulta letal para los Borg.",
+    "reason": "nombre de la especie en español"
+  },
+  {
+    "id": "s90-0197",
+    "question": "¿Cómo se llama la estación espacial que da título a la serie de ciencia ficción de los 90 creada por J. Michael Straczynski?",
+    "options": [
+      "Espacio profundo nueve",
+      "Babylon 5",
+      "Babylon 4",
+      "Galáctica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Babylon 5 es una estación diplomática y militar en el espacio.",
+    "reason": "nombre de la estación en español"
+  },
+  {
+    "id": "s90-0206",
+    "question": "En la serie Expediente X, ¿qué actor interpreta a Fox Mulder?",
+    "options": [
+      "Mitch Pileggi",
+      "Robert Patrick",
+      "David Duchovny",
+      "Nicholas Lea"
+    ],
+    "correctIndex": 2,
+    "explanation": "David Duchovny interpretó al agente del FBI Fox Mulder.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0207",
+    "question": "En la serie Expediente X, ¿qué actriz interpreta a Dana Scully?",
+    "options": [
+      "Annabeth Gish",
+      "Tea Leoni",
+      "Mimi Rogers",
+      "Gillian Anderson"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gillian Anderson encarnó a la agente Dana Scully.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0208",
+    "question": "¿Cuál es el lema más famoso de Expediente X?",
+    "options": [
+      "The truth is out there",
+      "I want to believe",
+      "Trust no one",
+      "Resistance is futile"
+    ],
+    "correctIndex": 0,
+    "explanation": "La frase se traduce como La verdad está ahí fuera.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0209",
+    "question": "¿Quién creó Expediente X?",
+    "options": [
+      "David Lynch",
+      "Chris Carter",
+      "J.J. Abrams",
+      "Joss Whedon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chris Carter creó la serie y escribió muchos de sus episodios.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0210",
+    "question": "En la serie Expediente X, ¿cómo se llama el grupo de informantes que ayuda a Mulder con las conspiraciones?",
+    "options": [
+      "El Sindicato",
+      "Los Hombres Fumadores",
+      "Los Pistoleros Solitarios",
+      "El Consorcio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los Pistoleros Solitarios publican una revista y auxilian a Mulder.",
+    "reason": "título y nombres en español"
+  },
+  {
+    "id": "s90-0211",
+    "question": "En la serie Expediente X, ¿qué actor interpreta al subdirector Walter Skinner?",
+    "options": [
+      "William B. Davis",
+      "Nicholas Lea",
+      "Tom Braidwood",
+      "Mitch Pileggi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mitch Pileggi interpretó al subdirector Skinner.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0212",
+    "question": "¿A través de qué viajan los protagonistas de Salto al infinito?",
+    "options": [
+      "Universos paralelos",
+      "Épocas históricas",
+      "Planetas del sistema solar",
+      "Dimensiones oníricas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quinn y sus amigos saltan entre realidades alternativas.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0213",
+    "question": "¿Qué actor interpreta a Quinn Mallory en Salto al infinito?",
+    "options": [
+      "John Rhys-Davies",
+      "Jerry O'Connell",
+      "Cleavant Derricks",
+      "Kari Wuhrer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jerry O'Connell interpretó a Quinn, el creador del dispositivo de salto.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0214",
+    "question": "¿Cómo se llama el profesor que acompaña a Quinn en las primeras temporadas de Salto al infinito?",
+    "options": [
+      "Rembrandt Brown",
+      "Colin Mallory",
+      "Maximilian Arturo",
+      "Conrad Bennish"
+    ],
+    "correctIndex": 2,
+    "explanation": "El profesor Maximilian Arturo fue interpretado por John Rhys-Davies.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0218",
+    "question": "¿Qué le ocurre a Sam Beckett al inicio de A través del tiempo?",
+    "options": [
+      "Se convierte en inmortal",
+      "Viaja a planetas lejanos",
+      "Salta en el tiempo y ocupa el cuerpo de otras personas",
+      "Pierde la memoria para siempre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sam viaja al pasado y debe corregir errores mientras otros lo ven con otra identidad.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0220",
+    "question": "¿Cómo se llama la computadora que calcula los saltos temporales en A través del tiempo?",
+    "options": [
+      "Ziggy",
+      "HAL 9000",
+      "Skynet",
+      "Deep Thought"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ziggy es la computadora del proyecto de viajes temporales.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0221",
+    "question": "¿Qué deben hacer los inmortales para eliminar definitivamente a otro inmortal en la serie Los inmortales?",
+    "options": [
+      "Quemarlo",
+      "Decapitarlo",
+      "Ahogarlo",
+      "Dispararle en el corazón"
+    ],
+    "correctIndex": 1,
+    "explanation": "Solo la decapitación pone fin a la vida de un inmortal.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0222",
+    "question": "¿Quién es el protagonista de Los inmortales?",
+    "options": [
+      "Connor MacLeod",
+      "Methos",
+      "Duncan MacLeod",
+      "Richie Ryan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Duncan MacLeod, interpretado por Adrian Paul, es el protagonista.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0223",
+    "question": "¿Qué inmortal muy antiguo se hace pasar por historiador y se une a Duncan en la serie Los inmortales?",
+    "options": [
+      "Kurgan",
+      "Ramírez",
+      "Richie Ryan",
+      "Methos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Methos es el inmortal más antiguo que aparece en la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0224",
+    "question": "¿Qué actriz interpreta a Buffy Summers en la serie Buffy, la cazavampiros?",
+    "options": [
+      "Sarah Michelle Gellar",
+      "Alyson Hannigan",
+      "Charisma Carpenter",
+      "Eliza Dushku"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sarah Michelle Gellar protagonizó Buffy, la cazavampiros.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0225",
+    "question": "En la serie Buffy, la cazavampiros, ¿cuál es la misión de Buffy?",
+    "options": [
+      "Proteger a los mutantes",
+      "Cazar vampiros y demonios",
+      "Entrenar a los Jedi",
+      "Investigar ovnis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Buffy es la Elegida, destinada a luchar contra fuerzas sobrenaturales.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0226",
+    "question": "En la serie Buffy, la cazavampiros, ¿en qué pueblo ficticio vive Buffy?",
+    "options": [
+      "Riverdale",
+      "Smallville",
+      "Sunnydale",
+      "Mystic Falls"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sunnydale se asienta sobre la Boca del Infierno.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0227",
+    "question": "En la serie Buffy, la cazavampiros, ¿qué vampiro con alma es el primer gran amor de Buffy?",
+    "options": [
+      "Spike",
+      "Riley Finn",
+      "Oz",
+      "Angel"
+    ],
+    "correctIndex": 3,
+    "explanation": "Angel recuperó su alma y se enamoró de Buffy.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0228",
+    "question": "En la serie Buffy, la cazavampiros, ¿qué actor interpreta a Rupert Giles, el vigilante de Buffy?",
+    "options": [
+      "Anthony Head",
+      "James Marsters",
+      "David Boreanaz",
+      "Seth Green"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anthony Head interpretó al bibliotecario y vigilante Rupert Giles.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0229",
+    "question": "¿Cómo se titula el episodio musical de Buffy, la cazavampiros?",
+    "options": [
+      "Hush",
+      "Once More, with Feeling",
+      "The Body",
+      "Tabula Rasa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Once More, with Feeling es el célebre musical de la sexta temporada.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0230",
+    "question": "¿Qué actor protagoniza Angel, el spin-off de Buffy, la cazavampiros?",
+    "options": [
+      "James Marsters",
+      "Alexis Denisof",
+      "David Boreanaz",
+      "Charisma Carpenter"
+    ],
+    "correctIndex": 2,
+    "explanation": "David Boreanaz retomó su papel de Angel en la serie derivada.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0232",
+    "question": "¿Cómo se apellidan las tres hermanas brujas protagonistas de Embrujadas?",
+    "options": [
+      "Halliwell",
+      "Warren",
+      "Bennett",
+      "Sanders"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las hermanas Halliwell descubren que descienden de una línea de brujas.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0233",
+    "question": "¿Cuántas hermanas brujas protagonizan Embrujadas al comenzar la serie?",
+    "options": [
+      "Dos",
+      "Tres",
+      "Cuatro",
+      "Cinco"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prue, Piper y Phoebe son las tres hermanas del inicio.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0234",
+    "question": "En la serie Embrujadas, ¿qué actriz interpreta a Phoebe Halliwell?",
+    "options": [
+      "Holly Marie Combs",
+      "Shannen Doherty",
+      "Alyssa Milano",
+      "Rose McGowan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alyssa Milano interpretó a Phoebe durante toda la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0235",
+    "question": "¿Cómo se llama el libro de hechizos que consultan las hermanas de Embrujadas?",
+    "options": [
+      "El Necronomicón",
+      "El Grimorio de Salem",
+      "El Códice de las Brujas",
+      "El Libro de las Sombras"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Libro de las Sombras guarda los hechizos y la historia familiar.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0236",
+    "question": "¿Qué actriz interpreta a Xena, la princesa guerrera?",
+    "options": [
+      "Lucy Lawless",
+      "Renée O'Connor",
+      "Hudson Leick",
+      "Alexandra Tydings"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lucy Lawless protagonizó Xena, la princesa guerrera.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0237",
+    "question": "En la serie Xena, la princesa guerrera, ¿cómo se llama la joven compañera de aventuras de Xena?",
+    "options": [
+      "Callisto",
+      "Gabrielle",
+      "Aphrodite",
+      "Eve"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gabrielle acompaña a Xena y evoluciona de aldeana a guerrera.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0238",
+    "question": "¿De qué serie es spin-off Xena, la princesa guerrera?",
+    "options": [
+      "Buffy, la cazavampiros",
+      "Los inmortales",
+      "Hércules: Los viajes legendarios",
+      "Embrujadas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Xena apareció primero como villana en la serie de Hércules.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0240",
+    "question": "¿Qué actor interpreta a Hércules en Hércules: Los viajes legendarios?",
+    "options": [
+      "Kevin Sorbo",
+      "Michael Hurst",
+      "Bruce Campbell",
+      "Anthony Quinn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kevin Sorbo encarnó a Hércules en la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0241",
+    "question": "En la serie Hércules: Los viajes legendarios, ¿cómo se llama el mejor amigo y compañero de Hércules?",
+    "options": [
+      "Autolycus",
+      "Iolaus",
+      "Salmoneus",
+      "Ares"
+    ],
+    "correctIndex": 1,
+    "explanation": "Iolaus, interpretado por Michael Hurst, acompaña a Hércules.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0242",
+    "question": "¿Qué director de cine es co-creador de Hércules: Los viajes legendarios?",
+    "options": [
+      "Peter Jackson",
+      "George Lucas",
+      "Sam Raimi",
+      "Steven Spielberg"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sam Raimi desarrolló la serie junto a Christian Williams.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0247",
+    "question": "En la serie Los Simpson, ¿cómo se llama el dueño de la taberna que frecuenta Homer?",
+    "options": [
+      "Barney Gumble",
+      "Apu Nahasapeemapetilon",
+      "Ned Flanders",
+      "Moe Szyslak"
+    ],
+    "correctIndex": 3,
+    "explanation": "Moe Szyslak regenta la taberna de Moe.",
+    "reason": "cargo o epíteto en español"
+  },
+  {
+    "id": "s90-0248",
+    "question": "¿En qué programa debutaron los Simpson antes de tener su propia serie?",
+    "options": [
+      "El show de Tracey Ullman",
+      "Saturday Night Live",
+      "The Tonight Show",
+      "Late Night with David Letterman"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cortos animados se emitieron en El show de Tracey Ullman.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0256",
+    "question": "¿Cómo se llama el hijo de Hank Hill en El rey de la colina?",
+    "options": [
+      "Bobby",
+      "Joseph",
+      "Dale",
+      "Bill"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bobby Hill es el hijo adolescente de Hank y Peggy.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0257",
+    "question": "En la serie El rey de la colina, ¿qué producto vende Hank Hill?",
+    "options": [
+      "Seguros",
+      "Propano",
+      "Neumáticos",
+      "Cerveza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hank trabaja vendiendo propano en Arlen, Texas.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0258",
+    "question": "¿Quiénes crearon El rey de la colina?",
+    "options": [
+      "Matt Groening y David X. Cohen",
+      "Trey Parker y Matt Stone",
+      "Mike Judge y Greg Daniels",
+      "Seth MacFarlane"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mike Judge y Greg Daniels crearon la serie.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0260",
+    "question": "¿De qué serie es spin-off Daria?",
+    "options": [
+      "Beavis and Butt-Head",
+      "Los Simpson",
+      "South Park",
+      "La vida moderna de Rocko"
+    ],
+    "correctIndex": 0,
+    "explanation": "Daria apareció primero como compañera de clase en Beavis and Butt-Head.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0265",
+    "question": "En la serie Ren y Stimpy, ¿qué animales son Ren y Stimpy?",
+    "options": [
+      "Un gato y un perro",
+      "Un chihuahua y un gato",
+      "Dos conejos",
+      "Un ratón y un gato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ren es un chihuahua y Stimpy es un gato.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0266",
+    "question": "¿Quién creó Ren y Stimpy?",
+    "options": [
+      "Joe Murray",
+      "Craig McCracken",
+      "John Kricfalusi",
+      "Butch Hartman"
+    ],
+    "correctIndex": 2,
+    "explanation": "John Kricfalusi creó la serie para Nickelodeon.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0267",
+    "question": "¿En qué episodio de Ren y Stimpy aparece la canción Happy Happy Joy Joy?",
+    "options": [
+      "Space Madness",
+      "Powdered Toast Man",
+      "Nurse Stimpy",
+      "Stimpy's Invention"
+    ],
+    "correctIndex": 3,
+    "explanation": "La canción suena cuando Stimpy inventa el casco de la felicidad.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0268",
+    "question": "¿Qué animal es Rocko en La vida moderna de Rocko?",
+    "options": [
+      "Un ualabí",
+      "Un canguro",
+      "Una nutria",
+      "Un castor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rocko es un ualabí que vive en la ciudad de O-Town.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0269",
+    "question": "En la serie La vida moderna de Rocko, ¿cómo se llama el mejor amigo de Rocko, un novillo?",
+    "options": [
+      "Filburt",
+      "Heffer Wolfe",
+      "Ed Bighead",
+      "Spunky"
+    ],
+    "correctIndex": 1,
+    "explanation": "Heffer Wolfe es el mejor amigo de Rocko.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0270",
+    "question": "¿Quién creó La vida moderna de Rocko?",
+    "options": [
+      "John Kricfalusi",
+      "Craig McCracken",
+      "Joe Murray",
+      "Arlene Klasky"
+    ],
+    "correctIndex": 2,
+    "explanation": "Joe Murray creó la serie para Nickelodeon.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0274",
+    "question": "¿Qué forma tiene la cabeza de Arnold en la serie ¡Oye, Arnold!?",
+    "options": [
+      "Cuadrada",
+      "Redonda",
+      "Forma de balón de fútbol americano",
+      "Triangular"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cabeza de Arnold tiene la forma característica de un balón de fútbol americano.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0275",
+    "question": "En la serie ¡Oye, Arnold!, ¿quién está secretamente enamorada de Arnold?",
+    "options": [
+      "Phoebe",
+      "Rhonda",
+      "Lila",
+      "Helga Pataki"
+    ],
+    "correctIndex": 3,
+    "explanation": "Helga esconde su amor por Arnold tras una actitud hostil.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0276",
+    "question": "¿Quién es la hermana de Dexter en El laboratorio de Dexter?",
+    "options": [
+      "Dee Dee",
+      "Mandark",
+      "Burbuja",
+      "Pétalo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dee Dee es la hermana mayor que irrumpe en el laboratorio.",
+    "reason": "título y nombres en español"
+  },
+  {
+    "id": "s90-0277",
+    "question": "En la serie El laboratorio de Dexter, ¿quién es el rival científico de Dexter?",
+    "options": [
+      "Dee Dee",
+      "Mandark",
+      "Profesor Utonium",
+      "Mojo Jojo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mandark es el niño genio rival de Dexter.",
+    "reason": "título y nombres en español"
+  },
+  {
+    "id": "s90-0278",
+    "question": "¿Quién creó El laboratorio de Dexter?",
+    "options": [
+      "Craig McCracken",
+      "Butch Hartman",
+      "Genndy Tartakovsky",
+      "Joe Murray"
+    ],
+    "correctIndex": 2,
+    "explanation": "Genndy Tartakovsky creó la serie para Cartoon Network.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0279",
+    "question": "¿Qué ingredientes dieron origen a las Supernenas?",
+    "options": [
+      "Harina, miel y canela",
+      "Agua, sal y pimienta",
+      "Leche, huevos y azúcar",
+      "Azúcar, flores y muchos colores"
+    ],
+    "correctIndex": 3,
+    "explanation": "El profesor Utonium usó azúcar, flores y muchos colores.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0280",
+    "question": "¿Quién es el villano simio de las Supernenas?",
+    "options": [
+      "Mojo Jojo",
+      "Él",
+      "Fuzzy Lumpkins",
+      "Princesa Morbucks"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mojo Jojo es el chimpancé genio que quiere dominar Townsville.",
+    "reason": "título y nombres en español"
+  },
+  {
+    "id": "s90-0281",
+    "question": "¿Quién creó Las Supernenas?",
+    "options": [
+      "Genndy Tartakovsky",
+      "Craig McCracken",
+      "Butch Hartman",
+      "Stephen Hillenburg"
+    ],
+    "correctIndex": 1,
+    "explanation": "Craig McCracken creó a Pétalo, Burbuja y Cactus.",
+    "reason": "título y nombres en español"
+  },
+  {
+    "id": "s90-0282",
+    "question": "¿En qué ciudad despiertan las gárgolas de la serie Gárgolas?",
+    "options": [
+      "Londres",
+      "Chicago",
+      "Nueva York",
+      "Los Ángeles"
+    ],
+    "correctIndex": 2,
+    "explanation": "El clan despierta en Manhattan tras siglos petrificado.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0283",
+    "question": "¿Qué actor pone voz a Goliath en Gárgolas?",
+    "options": [
+      "James Earl Jones",
+      "Kevin Conroy",
+      "Mark Hamill",
+      "Keith David"
+    ],
+    "correctIndex": 3,
+    "explanation": "Keith David puso voz al líder del clan, Goliath.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0284",
+    "question": "¿Quién pone la voz a Batman en Batman: la serie animada?",
+    "options": [
+      "Kevin Conroy",
+      "Mark Hamill",
+      "Tim Daly",
+      "Adam West"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kevin Conroy fue la voz de Batman en la serie animada.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0285",
+    "question": "¿Quién pone voz al Joker en Batman: la serie animada?",
+    "options": [
+      "Kevin Conroy",
+      "Mark Hamill",
+      "Ron Perlman",
+      "John Glover"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mark Hamill interpretó al Joker en la serie animada.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0286",
+    "question": "¿En qué cadena se emitió Spider-Man?",
+    "options": [
+      "Cartoon Network",
+      "Nickelodeon",
+      "Fox Kids",
+      "USA Network"
+    ],
+    "correctIndex": 2,
+    "explanation": "La serie se emitió en el bloque Fox Kids.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0288",
+    "question": "¿Quién es el Duende Verde en Spider-Man?",
+    "options": [
+      "Norman Osborn",
+      "Otto Octavius",
+      "Wilson Fisk",
+      "Eddie Brock"
+    ],
+    "correctIndex": 0,
+    "explanation": "Norman Osborn se convierte en el Duende Verde.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0289",
+    "question": "¿Quién lidera al equipo de mutantes en la serie animada Patrulla X?",
+    "options": [
+      "Magneto",
+      "Profesor X",
+      "Cyclops",
+      "Wolverine"
+    ],
+    "correctIndex": 1,
+    "explanation": "El profesor Charles Xavier dirige al equipo de mutantes.",
+    "reason": "título y nombres en español"
+  },
+  {
+    "id": "s90-0291",
+    "question": "¿Qué actor pone voz a Wolverine en Patrulla X?",
+    "options": [
+      "Hugh Jackman",
+      "Steve Blum",
+      "Scott McNeil",
+      "Cal Dodd"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cal Dodd puso voz a Wolverine en la serie de 1992.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0294",
+    "question": "En la serie Pokémon, ¿cómo se llama el profesor que entrega los Pokémon iniciales?",
+    "options": [
+      "Profesor Elm",
+      "Profesor Birch",
+      "Profesor Oak",
+      "Profesor Rowan"
+    ],
+    "correctIndex": 2,
+    "explanation": "El profesor Oak entrega a los entrenadores su primer Pokémon.",
+    "reason": "cargo o epíteto en español"
+  },
+  {
+    "id": "s90-0303",
+    "question": "¿De qué color era Tommy, el Power Ranger que se unió al equipo original?",
+    "options": [
+      "Rojo",
+      "Azul",
+      "Negro",
+      "Verde"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tommy Oliver debutó como el Ranger Verde.",
+    "reason": "cargo o epíteto en español"
+  },
+  {
+    "id": "s90-0308",
+    "question": "¿Qué dos facciones se enfrentan en Beast Wars?",
+    "options": [
+      "Maximales y Predacones",
+      "Autobots y Decepticons",
+      "Jedi y Sith",
+      "Rebeldes e Imperio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Maximales y Predacones son los bandos de la guerra.",
+    "reason": "nombre del grupo en español"
+  },
+  {
+    "id": "s90-0313",
+    "question": "¿Qué actor interpreta a Mitch Buchannon en Los vigilantes de la playa?",
+    "options": [
+      "David Charvet",
+      "David Hasselhoff",
+      "Jeremy Jackson",
+      "Parker Stevenson"
+    ],
+    "correctIndex": 1,
+    "explanation": "David Hasselhoff encabezó el reparto de Los vigilantes de la playa.",
+    "reason": "título en español"
+  },
+  {
+    "id": "s90-0314",
+    "question": "¿Qué actriz interpreta a C.J. Parker en Los vigilantes de la playa?",
+    "options": [
+      "Yasmine Bleeth",
+      "Carmen Electra",
+      "Pamela Anderson",
+      "Gena Lee Nolin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pamela Anderson interpretó a la socorrista C.J. Parker.",
+    "reason": "título en español"
+  }
+]

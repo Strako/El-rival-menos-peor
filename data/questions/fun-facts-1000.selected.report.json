@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-10-26T03:26:18.259Z",
+  "uniqueCandidates": 1100,
+  "selected": 1000,
+  "removed": {
+    "base": [],
+    "exact": [],
+    "near": []
+  },
+  "totals": {
+    "byDifficulty": {
+      "easy": 401,
+      "medium": 390,
+      "hard": 209
+    },
+    "byIndex": {
+      "0": 247,
+      "1": 254,
+      "2": 246,
+      "3": 253
+    },
+    "byTopic": {
+      "fun_facts": 1000
+    }
+  }
+}
